@@ -5,12 +5,12 @@
         "title": "Bloons TD 6 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "大人気のタワーディフェンスゲーム「Bloons TD 6」が期間限定で無料配布中！23種類のパワフルなモンキータワーと様々な風船を使った戦略的なゲームプレイが楽しめます。通常1,210円の人気ゲームを今すぐ入手して、永久に遊びましょう。",
+        "description": "これまで以上にすごいブルーンが戻ってきた！最高の戦略ゲームを何時間も提供できるように設計された、巨大な3Dタワーディフェンスゲームに備えよう。",
         "price": "無料",
-        "originalPrice": "¥1,210",
+        "originalPrice": "¥1,480",
         "discount": "100% OFF",
-        "deadline": "2026年1月16日 25:00まで",
-        "url": "https://store.epicgames.com/ja/p/bloons-td-6",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-01-15"
       }
     ],
@@ -40,7 +40,32 @@
         "date": "2026-01-14"
       }
     ],
-    "review": [],
+    "review": [
+      {
+        "title": "ギルド運営マルチエンドRPG『存在/しない逐夢者：銀葱の森』1月19日早期アクセス配信へ。高評価ADVの正統続編、時間管理型パーティ育成ゲーム",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nino Gamesは1月15日、『存在/しない逐夢者：銀葱の森』を1月19日より早期アクセス配信すると発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/the-noexistencen-20260115-406518/",
+        "date": "2026-01-15"
+      },
+      {
+        "title": "Corsair Air 5400 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "（翻訳推奨）We're so back.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/corsair-air-5400-review/",
+        "date": "2026-01-15"
+      }
+    ],
     "sale": [
       {
         "title": "『Elden Ring』が史上最安値 - Steam ウィンターセール",
@@ -134,5 +159,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15T06:06:49.446808"
+  "last_updated": "2026-01-15T06:36:36.659107"
 }

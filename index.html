@@ -145,6 +145,11 @@
             color: white;
         }
 
+        .type-bundle {
+            background: #8b5cf6;
+            color: white;
+        }
+
         .type-sale {
             background: #f59e0b;
             color: white;
@@ -360,62 +365,17 @@
             </div>
             <div class="pagination" id="pc-free-pagination"></div>
 
+            <h2 class="category-title">📦 新着バンドル情報</h2>
+            <div class="deals-grid" id="pc-bundle-games">
+                <div class="loading">読み込み中...</div>
+            </div>
+            <div class="pagination" id="pc-bundle-pagination"></div>
+
             <h2 class="category-title">🔥 注目のセール情報</h2>
             <div class="deals-grid" id="pc-sale-games">
                 <div class="loading">読み込み中...</div>
             </div>
             <div class="pagination" id="pc-sale-pagination"></div>
-
-            <h2 class="category-title">🔗 便利な価格比較・情報サイト</h2>
-            <div class="deals-grid">
-                <div class="deal-card">
-                    <div class="deal-title">IsThereAnyDeal</div>
-                    <div class="deal-description">
-                        複数のゲームストアの価格を比較。過去最安値の履歴も確認できる最強の価格比較サイト。ウィッシュリストに登録すれば値下げ通知も受け取れます。
-                    </div>
-                    <a href="https://isthereanydeal.com/" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-
-                <div class="deal-card">
-                    <div class="deal-title">SteamDB</div>
-                    <div class="deal-description">
-                        Steamゲームの価格履歴、プレイヤー数、セール予測など詳細なデータベース。セール開始時期の予測や過去最安値が一目でわかります。
-                    </div>
-                    <a href="https://steamdb.info/" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-
-                <div class="deal-card">
-                    <div class="deal-title">r/GameDeals (Reddit)</div>
-                    <div class="deal-description">
-                        世界中のゲームセール情報が集まるRedditコミュニティ。リアルタイム更新で最新のセール・無料配布情報をキャッチできます。
-                    </div>
-                    <a href="https://www.reddit.com/r/GameDeals/" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-
-                <div class="deal-card">
-                    <div class="deal-title">CheapShark</div>
-                    <div class="deal-description">
-                        PCゲームの価格比較とセール情報。複数のストアを横断検索して最安値を見つけられます。
-                    </div>
-                    <a href="https://www.cheapshark.com/" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-
-                <div class="deal-card">
-                    <div class="deal-title">GG.deals</div>
-                    <div class="deal-description">
-                        PCゲームのセール・無料配布情報をまとめたサイト。価格履歴やウィッシュリスト機能も充実。
-                    </div>
-                    <a href="https://gg.deals/" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-
-                <div class="deal-card">
-                    <div class="deal-title">Fanatical Bundle Tracker</div>
-                    <div class="deal-description">
-                        Fanaticalのバンドル情報を追跡。過去のバンドルの内容も確認できるので、お得なバンドルを見逃しません。
-                    </div>
-                    <a href="https://www.fanatical.com/en/bundle" class="deal-link" target="_blank">サイトを見る →</a>
-                </div>
-            </div>
 
             <h2 class="category-title">📝 おすすめゲーム紹介・レビューサイト</h2>
             <div class="deals-grid">
@@ -561,6 +521,57 @@
                         ITmediaが運営するゲームメディア。話題のゲームやトレンドを素早くキャッチ。読みやすい記事で気軽にゲーム情報を得られます。
                     </div>
                     <a href="https://nlab.itmedia.co.jp/nl/subtop/game/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+            </div>
+
+            <h2 class="category-title">🔗 便利な価格比較・情報サイト</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-title">IsThereAnyDeal</div>
+                    <div class="deal-description">
+                        複数のゲームストアの価格を比較。過去最安値の履歴も確認できる最強の価格比較サイト。ウィッシュリストに登録すれば値下げ通知も受け取れます。
+                    </div>
+                    <a href="https://isthereanydeal.com/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">SteamDB</div>
+                    <div class="deal-description">
+                        Steamゲームの価格履歴、プレイヤー数、セール予測など詳細なデータベース。セール開始時期の予測や過去最安値が一目でわかります。
+                    </div>
+                    <a href="https://steamdb.info/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">r/GameDeals (Reddit)</div>
+                    <div class="deal-description">
+                        世界中のゲームセール情報が集まるRedditコミュニティ。リアルタイム更新で最新のセール・無料配布情報をキャッチできます。
+                    </div>
+                    <a href="https://www.reddit.com/r/GameDeals/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">CheapShark</div>
+                    <div class="deal-description">
+                        PCゲームの価格比較とセール情報。複数のストアを横断検索して最安値を見つけられます。
+                    </div>
+                    <a href="https://www.cheapshark.com/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">GG.deals</div>
+                    <div class="deal-description">
+                        PCゲームのセール・無料配布情報をまとめたサイト。価格履歴やウィッシュリスト機能も充実。
+                    </div>
+                    <a href="https://gg.deals/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">Fanatical Bundle Tracker</div>
+                    <div class="deal-description">
+                        Fanaticalのバンドル情報を追跡。過去のバンドルの内容も確認できるので、お得なバンドルを見逃しません。
+                    </div>
+                    <a href="https://www.fanatical.com/en/bundle" class="deal-link" target="_blank">サイトを見る →</a>
                 </div>
             </div>
 
@@ -720,6 +731,7 @@
         const ITEMS_PER_PAGE = 10;
         let currentPages = {
             'pc-free': 1,
+            'pc-bundle': 1,
             'pc-sale': 1,
             'mobile-free': 1,
             'mobile-sale': 1
@@ -823,6 +835,7 @@
 
             const categories = [
                 { key: 'pc-free', data: allData.pc.free, container: 'pc-free-games', pagination: 'pc-free-pagination' },
+                { key: 'pc-bundle', data: allData.pc.bundle || [], container: 'pc-bundle-games', pagination: 'pc-bundle-pagination' },
                 { key: 'pc-sale', data: allData.pc.sale, container: 'pc-sale-games', pagination: 'pc-sale-pagination' },
                 { key: 'mobile-free', data: allData.mobile.free, container: 'mobile-free-games', pagination: 'mobile-free-pagination' },
                 { key: 'mobile-sale', data: allData.mobile.sale, container: 'mobile-sale-games', pagination: 'mobile-sale-pagination' }

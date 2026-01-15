@@ -14,6 +14,32 @@
         "date": "2026-01-15"
       }
     ],
+    "bundle": [
+      {
+        "title": "Humble Choice 1月号 - 8本以上のゲームがお得に",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "今月のHumble Choiceには『Control Ultimate Edition』『Maneater』などの人気タイトルが登場！月額1,280円で8本以上のゲームが遊び放題。さらにHumble Store全品10〜20%オフの特典付き。いつでもキャンセル可能です。",
+        "price": "¥1,280/月",
+        "originalPrice": "通常購入なら10,000円以上",
+        "discount": "90%以上お得",
+        "deadline": "2026年1月31日まで",
+        "url": "https://www.humblebundle.com/membership",
+        "date": "2026-01-01"
+      },
+      {
+        "title": "Fanatical Platinum Collection - 20本入りバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "人気ゲーム20本が入ったPlatinum Collectionバンドルが¥2,980！インディーゲームからAAAタイトルまで幅広いラインナップ。全てSteamキーで提供され、総額3万円以上のゲームが90%以上オフで入手可能です。",
+        "price": "¥2,980",
+        "originalPrice": "¥30,000以上",
+        "discount": "90% OFF",
+        "deadline": "2026年1月25日まで",
+        "url": "https://www.fanatical.com/en/bundle/platinum-collection-build-your-own-bundle",
+        "date": "2026-01-14"
+      }
+    ],
     "sale": [
       {
         "title": "『Elden Ring』が史上最安値 - Steam ウィンターセール",
@@ -38,30 +64,6 @@
         "deadline": "2026年1月20日まで",
         "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
         "date": "2026-01-12"
-      },
-      {
-        "title": "Humble Choice 1月号 - 8本以上のゲームがお得に",
-        "platform": "Humble Bundle",
-        "type": "sale",
-        "description": "今月のHumble Choiceには『Control Ultimate Edition』『Maneater』などの人気タイトルが登場！月額1,280円で8本以上のゲームが遊び放題。さらにHumble Store全品10〜20%オフの特典付き。いつでもキャンセル可能です。",
-        "price": "¥1,280/月",
-        "originalPrice": "通常購入なら10,000円以上",
-        "discount": "90%以上お得",
-        "deadline": "2026年1月31日まで",
-        "url": "https://www.humblebundle.com/membership",
-        "date": "2026-01-01"
-      },
-      {
-        "title": "Fanatical Platinum Collection - 20本入りバンドル",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "人気ゲーム20本が入ったPlatinum Collectionバンドルが¥2,980！インディーゲームからAAAタイトルまで幅広いラインナップ。全てSteamキーで提供され、総額3万円以上のゲームが90%以上オフで入手可能です。",
-        "price": "¥2,980",
-        "originalPrice": "¥30,000以上",
-        "discount": "90% OFF",
-        "deadline": "2026年1月25日まで",
-        "url": "https://www.fanatical.com/en/bundle/platinum-collection-build-your-own-bundle",
-        "date": "2026-01-14"
       },
       {
         "title": "『Hades II』早期アクセス版がセール - Epic Games",

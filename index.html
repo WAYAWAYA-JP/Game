@@ -259,6 +259,50 @@
             font-size: 1.2em;
         }
 
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .pagination-button {
+            padding: 10px 15px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.3s;
+            backdrop-filter: blur(10px);
+            min-width: 40px;
+        }
+
+        .pagination-button:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .pagination-button.active {
+            background: white;
+            color: #667eea;
+        }
+
+        .pagination-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination-info {
+            color: white;
+            font-size: 14px;
+            padding: 0 10px;
+        }
+
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.8em;
@@ -298,11 +342,13 @@
             <div class="deals-grid" id="pc-free-games">
                 <div class="loading">読み込み中...</div>
             </div>
+            <div class="pagination" id="pc-free-pagination"></div>
 
             <h2 class="category-title">🔥 注目のセール情報</h2>
             <div class="deals-grid" id="pc-sale-games">
                 <div class="loading">読み込み中...</div>
             </div>
+            <div class="pagination" id="pc-sale-pagination"></div>
         </div>
 
         <!-- スマホ版セクション -->
@@ -311,11 +357,13 @@
             <div class="deals-grid" id="mobile-free-games">
                 <div class="loading">読み込み中...</div>
             </div>
+            <div class="pagination" id="mobile-free-pagination"></div>
 
             <h2 class="category-title">💰 セール・お得情報</h2>
             <div class="deals-grid" id="mobile-sale-games">
                 <div class="loading">読み込み中...</div>
             </div>
+            <div class="pagination" id="mobile-sale-pagination"></div>
         </div>
 
         <footer>
@@ -326,6 +374,15 @@
     </div>
 
     <script>
+        const ITEMS_PER_PAGE = 6;
+        let currentPages = {
+            'pc-free': 1,
+            'pc-sale': 1,
+            'mobile-free': 1,
+            'mobile-sale': 1
+        };
+        let allData = null;
+
         // タブ切り替え
         function showTab(platform) {
             document.querySelectorAll('.content-section').forEach(section => {
@@ -384,27 +441,71 @@
             `;
         }
 
+        // ページネーションボタンを生成
+        function createPagination(category, totalItems) {
+            const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+            if (totalPages <= 1) return '';
+
+            const currentPage = currentPages[category];
+            let html = '';
+
+            // 前へボタン
+            html += `<button class="pagination-button" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage('${category}', ${currentPage - 1})">« 前へ</button>`;
+
+            // ページ番号
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
+                    html += `<button class="pagination-button ${i === currentPage ? 'active' : ''}" onclick="changePage('${category}', ${i})">${i}</button>`;
+                } else if (i === currentPage - 3 || i === currentPage + 3) {
+                    html += `<span class="pagination-info">...</span>`;
+                }
+            }
+
+            // 次へボタン
+            html += `<button class="pagination-button" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage('${category}', ${currentPage + 1})">次へ »</button>`;
+
+            return html;
+        }
+
+        // ページ切り替え
+        function changePage(category, page) {
+            currentPages[category] = page;
+            displayGames();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // ゲームを表示
+        function displayGames() {
+            if (!allData) return;
+
+            const categories = [
+                { key: 'pc-free', data: allData.pc.free, container: 'pc-free-games', pagination: 'pc-free-pagination' },
+                { key: 'pc-sale', data: allData.pc.sale, container: 'pc-sale-games', pagination: 'pc-sale-pagination' },
+                { key: 'mobile-free', data: allData.mobile.free, container: 'mobile-free-games', pagination: 'mobile-free-pagination' },
+                { key: 'mobile-sale', data: allData.mobile.sale, container: 'mobile-sale-games', pagination: 'mobile-sale-pagination' }
+            ];
+
+            categories.forEach(cat => {
+                const page = currentPages[cat.key];
+                const start = (page - 1) * ITEMS_PER_PAGE;
+                const end = start + ITEMS_PER_PAGE;
+                const pageData = cat.data.slice(start, end);
+
+                const container = document.getElementById(cat.container);
+                container.innerHTML = pageData.map(game => createGameCard(game)).join('');
+
+                const paginationContainer = document.getElementById(cat.pagination);
+                paginationContainer.innerHTML = createPagination(cat.key, cat.data.length);
+            });
+        }
+
         // データを読み込んで表示
         async function loadGamesData() {
             try {
                 const response = await fetch('games-data.json');
-                const data = await response.json();
+                allData = await response.json();
 
-                // PC無料ゲーム
-                const pcFreeContainer = document.getElementById('pc-free-games');
-                pcFreeContainer.innerHTML = data.pc.free.map(game => createGameCard(game)).join('');
-
-                // PCセールゲーム
-                const pcSaleContainer = document.getElementById('pc-sale-games');
-                pcSaleContainer.innerHTML = data.pc.sale.map(game => createGameCard(game)).join('');
-
-                // スマホ無料ゲーム
-                const mobileFreeContainer = document.getElementById('mobile-free-games');
-                mobileFreeContainer.innerHTML = data.mobile.free.map(game => createGameCard(game)).join('');
-
-                // スマホセールゲーム
-                const mobileSaleContainer = document.getElementById('mobile-sale-games');
-                mobileSaleContainer.innerHTML = data.mobile.sale.map(game => createGameCard(game)).join('');
+                displayGames();
 
                 // 最終更新日時を更新
                 const now = new Date();

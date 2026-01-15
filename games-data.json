@@ -40,128 +40,7 @@
         "date": "2026-01-14"
       }
     ],
-    "review": [
-      {
-        "title": "『Balatro』レビュー - ポーカーの常識を覆す中毒性抜群のデッキ構築ゲーム",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ポーカーの役を使ったローグライクデッキ構築ゲーム。戦略性の高さと運要素のバランスが絶妙で、「あと1回」が止まらない。インディーゲームの傑作として評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/",
-        "date": "2026-01-14"
-      },
-      {
-        "title": "『Persona 3 Reload』レビュー - 原点回帰しつつ進化した名作RPGのリメイク",
-        "platform": "IGN Japan",
-        "type": "review",
-        "description": "ペルソナシリーズの原点が現代的なグラフィックとシステムで蘇る。オリジナルの良さを残しつつ、遊びやすさが大幅に向上。新規・既プレイヤー問わずおすすめ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://jp.ign.com/",
-        "date": "2026-01-13"
-      },
-      {
-        "title": "『Palworld』が示す「ポケモンwithサバイバル」の可能性と課題",
-        "platform": "電ファミニコゲーマー",
-        "type": "review",
-        "description": "話題沸騰中のPalworldを徹底検証。クラフト、サバイバル、モンスター育成を融合させた野心作。賛否両論を呼ぶゲームデザインの意図を開発者視点で分析。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://news.denfaminicogamer.jp/",
-        "date": "2026-01-12"
-      },
-      {
-        "title": "『Hades II』早期アクセスレビュー - 前作を超える完成度の高さに驚愕",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Supergiant Gamesの新作ローグライト。早期アクセスとは思えないボリュームと完成度。新主人公ゼウスの娘メリノエの物語が前作ファンを魅了する。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/",
-        "date": "2026-01-11"
-      },
-      {
-        "title": "Why 'Tactical Breach Wizards' is the smartest tactics game in years",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "（翻訳推奨）魔法使いがドアを蹴破る異色のタクティクスゲーム。ユーモアと戦略性が絶妙に融合。近年稀に見る知的なパズル要素が光る傑作として海外で高評価。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/",
-        "date": "2026-01-10"
-      },
-      {
-        "title": "『インフィニティ・ニキ』レビュー - 着せ替えとオープンワールドの奇跡的な融合",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "美少女着せ替えゲームとオープンワールドアドベンチャーを組み合わせた意欲作。可愛らしいビジュアルの裏に本格的な探索要素。基本無料でこのクオリティは驚異的。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/",
-        "date": "2026-01-09"
-      },
-      {
-        "title": "The brilliance of 'UFO 50' - 50 games that feel like archeological discoveries",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "（翻訳推奨）架空の80年代ゲーム機向けに作られた50本のゲーム集。各作品が驚くほど作り込まれており、ゲーム史の「失われた名作」を発掘したような感動。インディー愛好家必見。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/",
-        "date": "2026-01-08"
-      },
-      {
-        "title": "『龍が如く8』レビュー - シリーズ最高峰のボリュームと物語",
-        "platform": "GAME Watch",
-        "type": "review",
-        "description": "春日一番と桐生一馬のダブル主人公で描かれる壮大な物語。ハワイと横浜を舞台に、シリーズ史上最大のボリューム。ミニゲームの充実度も過去最高レベル。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://game.watch.impress.co.jp/",
-        "date": "2026-01-07"
-      },
-      {
-        "title": "『Manor Lords』が中世都市建設シムの新境地を開く理由",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "個人開発者が7年かけて作り上げた中世都市建設シム。美しいグラフィックとリアルな経済システムが話題。早期アクセスながら既に高い完成度を誇る。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/",
-        "date": "2026-01-06"
-      },
-      {
-        "title": "'Slay the Spire 2' early impressions: lightning strikes twice",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "（翻訳推奨）デッキ構築ローグライクの金字塔の続編が早期アクセス開始。前作の中毒性はそのままに、新システムで更なる深みを獲得。ジャンルの進化形として注目。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/",
-        "date": "2026-01-05"
-      }
-    ],
+    "review": [],
     "sale": [
       {
         "title": "『Elden Ring』が史上最安値 - Steam ウィンターセール",
@@ -255,5 +134,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15T01:07:39.026423"
+  "last_updated": "2026-01-15T06:06:49.446808"
 }

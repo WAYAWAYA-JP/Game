@@ -1,0 +1,47 @@
+name: Update Game Deals Daily
+
+on:
+  schedule:
+    # 毎日日本時間の朝9時に実行（UTC 0時）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  update-deals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: claude/game-deals-curation-AMQlx
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml feedparser
+
+      - name: Run update script
+        run: python scripts/update-deals.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet games-data.json; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add games-data.json
+          git commit -m "🎮 自動更新: 無料/バンドル/セール/レビュー記事を更新 ($(date +'%Y-%m-%d'))"
+          git push

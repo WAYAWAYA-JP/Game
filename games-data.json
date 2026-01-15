@@ -1,0 +1,138 @@
+{
+  "pc": {
+    "free": [
+      {
+        "title": "Bloons TD 6 - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "大人気のタワーディフェンスゲーム「Bloons TD 6」が期間限定で無料配布中！23種類のパワフルなモンキータワーと様々な風船を使った戦略的なゲームプレイが楽しめます。通常1,210円の人気ゲームを今すぐ入手して、永久に遊びましょう。",
+        "price": "無料",
+        "originalPrice": "¥1,210",
+        "discount": "100% OFF",
+        "deadline": "2026年1月16日 25:00まで",
+        "url": "https://store.epicgames.com/ja/p/bloons-td-6",
+        "date": "2026-01-15"
+      }
+    ],
+    "bundle": [
+      {
+        "title": "Humble Choice 1月号 - 8本以上のゲームがお得に",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "今月のHumble Choiceには『Control Ultimate Edition』『Maneater』などの人気タイトルが登場！月額1,280円で8本以上のゲームが遊び放題。さらにHumble Store全品10〜20%オフの特典付き。いつでもキャンセル可能です。",
+        "price": "¥1,280/月",
+        "originalPrice": "通常購入なら10,000円以上",
+        "discount": "90%以上お得",
+        "deadline": "2026年1月31日まで",
+        "url": "https://www.humblebundle.com/membership",
+        "date": "2026-01-01"
+      },
+      {
+        "title": "Fanatical Platinum Collection - 20本入りバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "人気ゲーム20本が入ったPlatinum Collectionバンドルが¥2,980！インディーゲームからAAAタイトルまで幅広いラインナップ。全てSteamキーで提供され、総額3万円以上のゲームが90%以上オフで入手可能です。",
+        "price": "¥2,980",
+        "originalPrice": "¥30,000以上",
+        "discount": "90% OFF",
+        "deadline": "2026年1月25日まで",
+        "url": "https://www.fanatical.com/en/bundle/platinum-collection-build-your-own-bundle",
+        "date": "2026-01-14"
+      }
+    ],
+    "review": [],
+    "sale": [
+      {
+        "title": "『Elden Ring』が史上最安値 - Steam ウィンターセール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "フロム・ソフトウェアの大作オープンワールドアクションRPG「Elden Ring」が史上最安値！広大なフィールドを冒険し、強大なボスに挑む骨太のゲーム体験。2022年のGame of the Year受賞作が40%オフで入手可能です。",
+        "price": "¥4,758",
+        "originalPrice": "¥7,930",
+        "discount": "40% OFF",
+        "deadline": "2026年1月20日まで",
+        "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+        "date": "2026-01-10"
+      },
+      {
+        "title": "『Baldur's Gate 3』25%オフ - Steamセール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "2023年のGOTY受賞作「Baldur's Gate 3」がセール中！D&Dルールに基づいた本格RPGで、膨大な選択肢と自由度の高いストーリー展開が魅力。200時間以上遊べる圧倒的なボリュームで評価も極めて高い作品です。",
+        "price": "¥6,270",
+        "originalPrice": "¥8,360",
+        "discount": "25% OFF",
+        "deadline": "2026年1月20日まで",
+        "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+        "date": "2026-01-12"
+      },
+      {
+        "title": "『Hades II』早期アクセス版がセール - Epic Games",
+        "platform": "Epic Games",
+        "type": "sale",
+        "description": "大人気ローグライトアクション『Hades』の続編が早期アクセス中！前作を超える美麗なグラフィックと爽快なアクション、魅力的なストーリーが評価されています。Epic限定セールで20%オフ。",
+        "price": "¥2,400",
+        "originalPrice": "¥3,000",
+        "discount": "20% OFF",
+        "deadline": "2026年1月18日まで",
+        "url": "https://store.epicgames.com/",
+        "date": "2026-01-13"
+      }
+    ]
+  },
+  "mobile": {
+    "free": [
+      {
+        "title": "『モンスターハンターNow』初心者応援キャンペーン",
+        "platform": "iOS/Android",
+        "type": "free",
+        "description": "位置情報を使ったモンハンの新作スマホゲームで、新規プレイヤー向けに豪華報酬をプレゼント！ログインボーナスで強力な装備や素材がもらえます。リアル世界でモンスターを狩る新感覚のゲーム体験を楽しもう。",
+        "price": "基本無料（アプリ内課金あり）",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "2026年1月31日まで",
+        "url": "https://monsterhunter.com/now/ja/",
+        "date": "2026-01-15"
+      },
+      {
+        "title": "『Monument Valley』セール - iOS",
+        "platform": "iOS",
+        "type": "free",
+        "description": "美しい幾何学的なパズルゲーム「Monument Valley」が期間限定セール！トリックアート風の美しい世界を冒険する癒し系パズル。数々の賞を受賞した名作が今だけお買い得です。",
+        "price": "¥250",
+        "originalPrice": "¥600",
+        "discount": "58% OFF",
+        "deadline": "2026年1月18日まで",
+        "url": "https://apps.apple.com/jp/app/monument-valley/id728293409",
+        "date": "2026-01-14"
+      },
+      {
+        "title": "『Stardew Valley』モバイル版アップデート",
+        "platform": "iOS/Android",
+        "type": "sale",
+        "description": "人気農場シミュレーション「Stardew Valley」のモバイル版が大型アップデート！新コンテンツ追加を記念してセール開催中。PC版と同じ内容を外出先でも楽しめます。買い切りで追加課金なし。",
+        "price": "¥860",
+        "originalPrice": "¥1,220",
+        "discount": "30% OFF",
+        "deadline": "2026年1月22日まで",
+        "url": "https://www.stardewvalley.net/",
+        "date": "2026-01-12"
+      }
+    ],
+    "sale": [
+      {
+        "title": "『原神』新キャラピックアップガチャ開催中",
+        "platform": "iOS/Android",
+        "type": "free",
+        "description": "人気オープンワールドRPG『原神』で新キャラクターのピックアップガチャが開催中！ログインボーナスで原石プレゼントもあり。基本無料で遊べる美麗グラフィックのアクションRPGです。",
+        "price": "基本無料（ガチャあり）",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "2026年1月28日まで",
+        "url": "https://genshin.hoyoverse.com/",
+        "date": "2026-01-10"
+      }
+    ]
+  },
+  "last_updated": "2026-01-15T06:06:49.446808"
+}

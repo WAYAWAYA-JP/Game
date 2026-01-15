@@ -45,22 +45,72 @@ https://WAYAWAYA-JP.github.io/Game/
 - [IsThereAnyDeal](https://isthereanydeal.com/) - ゲーム価格比較
 - [SteamDB](https://steamdb.info/) - Steam情報データベース
 
-## 📝 更新方法
+## 📝 記事の投稿方法
 
-`index.html` を編集して、最新のセール情報や無料配布情報を追加してください。
+このサイトはJSONファイルでゲーム情報を管理しています。新しい記事を追加するには、`games-data.json` を編集してください。
 
-更新例：
-```html
-<div class="deal-card">
-    <div class="deal-header">
-        <span class="platform-badge badge-steam">Steam</span>
-        <span class="deal-type type-free">無料</span>
-    </div>
-    <div class="deal-title">ゲームタイトル</div>
-    <div class="deal-description">ゲームの説明</div>
-    <!-- ... -->
-</div>
+### 記事の追加手順
+
+1. `games-data.json` ファイルを開く
+2. 追加したいカテゴリ（PC無料/PCセール/スマホ無料/スマホセール）を選択
+3. 以下の形式で記事データを追加：
+
+```json
+{
+  "title": "ゲームタイトル - プラットフォーム名",
+  "platform": "Steam",
+  "type": "free",
+  "description": "ゲームの詳しい説明文。面白いポイントや特徴を書きましょう。",
+  "price": "無料",
+  "originalPrice": "¥2,000",
+  "discount": "100% OFF",
+  "deadline": "2026年1月20日まで",
+  "url": "https://store.steampowered.com/...",
+  "date": "2026-01-15"
+}
 ```
+
+### フィールドの説明
+
+- **title**: 記事のタイトル（必須）
+- **platform**: プラットフォーム名（Steam, Epic Games, GOG, Humble Bundle, Fanatical, iOS, Android, iOS/Android）
+- **type**: "free"（無料）または "sale"（セール）
+- **description**: ゲームの説明文（詳しく書くほど記事らしくなります）
+- **price**: 現在の価格
+- **originalPrice**: 元の価格（セールの場合）
+- **discount**: 割引率
+- **deadline**: 期限
+- **url**: ゲームのURL（必須）
+- **date**: 記事の投稿日
+
+### 更新後の反映方法
+
+1. `games-data.json` を保存
+2. GitHubにプッシュ
+3. GitHub Pagesが自動的に更新されます（数分かかる場合があります）
+
+### 記事投稿の例
+
+```json
+{
+  "title": "『Elden Ring』が史上最安値 - Steam ウィンターセール",
+  "platform": "Steam",
+  "type": "sale",
+  "description": "フロム・ソフトウェアの大作オープンワールドアクションRPG「Elden Ring」が史上最安値！広大なフィールドを冒険し、強大なボスに挑む骨太のゲーム体験。2022年のGame of the Year受賞作が40%オフで入手可能です。",
+  "price": "¥4,758",
+  "originalPrice": "¥7,930",
+  "discount": "40% OFF",
+  "deadline": "2026年1月20日まで",
+  "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+  "date": "2026-01-10"
+}
+```
+
+### ヒント
+
+- **詳しい説明を書く**: JJPCゲームラボやAutomatonのように、ゲームの魅力や特徴を詳しく書くと記事らしくなります
+- **期限を明記**: セール期限や無料配布期限を必ず記載しましょう
+- **日付順に並べる**: 新しい記事ほど上に配置すると見やすくなります
 
 ## 📄 ライセンス
 

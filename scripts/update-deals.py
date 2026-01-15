@@ -197,6 +197,168 @@ def clean_old_free_games(games_list, max_age_days=7):
 
     return cleaned_games
 
+def fetch_reddit_bundles():
+    """Redditからバンドル情報を取得"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        subreddits = ['GameDeals', 'humblebundles']
+
+        for subreddit in subreddits:
+            try:
+                url = f"https://www.reddit.com/r/{subreddit}/new.json"
+                headers = {'User-Agent': 'GameDealsBot/1.0'}
+                response = requests.get(url, headers=headers, timeout=10)
+                response.raise_for_status()
+                data = response.json()
+
+                if 'data' in data and 'children' in data['data']:
+                    for post in data['data']['children'][:15]:
+                        post_data = post['data']
+                        title = post_data.get('title', '')
+                        url_link = post_data.get('url', '')
+                        title_lower = title.lower()
+
+                        # バンドルを示すキーワード
+                        is_bundle = ('bundle' in title_lower or 'バンドル' in title or
+                                     'humble choice' in title_lower or
+                                     'fanatical' in title_lower and 'bundle' in title_lower)
+
+                        if not is_bundle:
+                            continue
+
+                        # プラットフォームを検出
+                        platform = None
+                        platform_url = None
+                        bundle_title = title
+
+                        if 'humble' in title_lower:
+                            platform = "Humble Bundle"
+                            platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
+                        elif 'fanatical' in title_lower:
+                            platform = "Fanatical"
+                            platform_url = url_link if 'fanatical.com' in url_link else 'https://www.fanatical.com/'
+                        elif 'steam' in title_lower:
+                            platform = "Steam"
+                            platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
+
+                        if platform and platform_url:
+                            bundles.append({
+                                "title": bundle_title,
+                                "platform": platform,
+                                "type": "bundle",
+                                "description": f"{platform}でお得なバンドルが登場！複数のゲームがセットになった特別価格。詳細はリンク先でご確認ください。",
+                                "price": "お得価格",
+                                "originalPrice": "",
+                                "discount": "",
+                                "deadline": "期間限定",
+                                "url": platform_url,
+                                "date": current_date
+                            })
+            except Exception as e:
+                print(f"  Reddit {subreddit}の取得に失敗: {e}")
+                continue
+
+        # 重複を削除
+        seen_titles = set()
+        unique_bundles = []
+        for bundle in bundles:
+            title_key = bundle['title'].lower()
+            if title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_bundles.append(bundle)
+
+        return unique_bundles[:5]  # 最大5件まで
+    except Exception as e:
+        print(f"Redditバンドル情報の取得に失敗: {e}")
+        return []
+
+def fetch_reddit_sales():
+    """Redditからセール情報を取得"""
+    try:
+        sales = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        subreddits = ['GameDeals', 'steamdeals']
+
+        for subreddit in subreddits:
+            try:
+                url = f"https://www.reddit.com/r/{subreddit}/hot.json"
+                headers = {'User-Agent': 'GameDealsBot/1.0'}
+                response = requests.get(url, headers=headers, timeout=10)
+                response.raise_for_status()
+                data = response.json()
+
+                if 'data' in data and 'children' in data['data']:
+                    for post in data['data']['children'][:15]:
+                        post_data = post['data']
+                        title = post_data.get('title', '')
+                        url_link = post_data.get('url', '')
+                        title_lower = title.lower()
+
+                        # セールを示すキーワード（バンドルと無料は除外）
+                        is_sale = (('sale' in title_lower or 'セール' in title or
+                                    '% off' in title_lower or 'discount' in title_lower or
+                                    'deal' in title_lower) and
+                                   'bundle' not in title_lower and
+                                   'free' not in title_lower and
+                                   '100%' not in title)
+
+                        if not is_sale:
+                            continue
+
+                        # プラットフォームを検出
+                        platform = None
+                        platform_url = None
+
+                        if 'steam' in title_lower or 'steampowered.com' in url_link.lower():
+                            platform = "Steam"
+                            platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
+                        elif 'epic' in title_lower or 'epicgames.com' in url_link.lower():
+                            platform = "Epic Games"
+                            platform_url = url_link if 'epicgames.com' in url_link else 'https://store.epicgames.com/'
+                        elif 'gog' in title_lower or 'gog.com' in url_link.lower():
+                            platform = "GOG"
+                            platform_url = url_link if 'gog.com' in url_link else 'https://www.gog.com/'
+                        elif 'fanatical' in title_lower:
+                            platform = "Fanatical"
+                            platform_url = url_link if 'fanatical.com' in url_link else 'https://www.fanatical.com/'
+                        elif 'humble' in title_lower:
+                            platform = "Humble Bundle"
+                            platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
+
+                        if platform and platform_url:
+                            sales.append({
+                                "title": title,
+                                "platform": platform,
+                                "type": "sale",
+                                "description": f"{platform}でセール開催中！お得な価格でゲームを入手できるチャンス。詳細はリンク先でご確認ください。",
+                                "price": "セール中",
+                                "originalPrice": "",
+                                "discount": "",
+                                "deadline": "期間限定",
+                                "url": platform_url,
+                                "date": current_date
+                            })
+            except Exception as e:
+                print(f"  Reddit {subreddit}の取得に失敗: {e}")
+                continue
+
+        # 重複を削除
+        seen_titles = set()
+        unique_sales = []
+        for sale in sales:
+            title_key = sale['title'].lower()
+            if title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_sales.append(sale)
+
+        return unique_sales[:5]  # 最大5件まで
+    except Exception as e:
+        print(f"Redditセール情報の取得に失敗: {e}")
+        return []
+
 def fetch_review_articles():
     """ゲームメディアのRSSフィードからレビュー記事を取得"""
     if not feedparser:
@@ -316,6 +478,12 @@ def update_games_data():
         epic_games = fetch_epic_free_games()
         reddit_games = fetch_reddit_free_games()
 
+        print("\n📦 バンドル情報を取得中...")
+        reddit_bundles = fetch_reddit_bundles()
+
+        print("\n🔥 セール情報を取得中...")
+        reddit_sales = fetch_reddit_sales()
+
         print("\n📰 レビュー記事を取得中...")
         review_articles = fetch_review_articles()
 
@@ -398,6 +566,62 @@ def update_games_data():
 
             # 最新10件を保持
             data['pc']['review'] = unique_reviews[:10]
+
+        # バンドル情報を更新
+        if reddit_bundles:
+            print(f"\n📦 {len(reddit_bundles)}件のバンドル情報を取得しました")
+            for bundle in reddit_bundles:
+                print(f"  - {bundle['title'][:50]}... ({bundle['platform']})")
+
+            # bundleカテゴリが存在しない場合は作成
+            if 'bundle' not in data['pc']:
+                data['pc']['bundle'] = []
+
+            # 自動取得された古いバンドル情報を削除（7日以上前）
+            data['pc']['bundle'] = clean_old_free_games(data['pc']['bundle'], max_age_days=7)
+
+            # 新しい情報を先頭に追加
+            data['pc']['bundle'] = reddit_bundles + data['pc']['bundle']
+
+            # 重複を削除（タイトルベース）
+            seen_titles = set()
+            unique_bundles = []
+            for bundle in data['pc']['bundle']:
+                title_key = bundle.get('title', '').lower()
+                if title_key not in seen_titles:
+                    seen_titles.add(title_key)
+                    unique_bundles.append(bundle)
+
+            # 最新10件を保持
+            data['pc']['bundle'] = unique_bundles[:10]
+
+        # セール情報を更新
+        if reddit_sales:
+            print(f"\n🔥 {len(reddit_sales)}件のセール情報を取得しました")
+            for sale in reddit_sales:
+                print(f"  - {sale['title'][:50]}... ({sale['platform']})")
+
+            # saleカテゴリが存在しない場合は作成
+            if 'sale' not in data['pc']:
+                data['pc']['sale'] = []
+
+            # 自動取得された古いセール情報を削除（7日以上前）
+            data['pc']['sale'] = clean_old_free_games(data['pc']['sale'], max_age_days=7)
+
+            # 新しい情報を先頭に追加
+            data['pc']['sale'] = reddit_sales + data['pc']['sale']
+
+            # 重複を削除（タイトルベース）
+            seen_titles = set()
+            unique_sales = []
+            for sale in data['pc']['sale']:
+                title_key = sale.get('title', '').lower()
+                if title_key not in seen_titles:
+                    seen_titles.add(title_key)
+                    unique_sales.append(sale)
+
+            # 最新10件を保持
+            data['pc']['sale'] = unique_sales[:10]
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

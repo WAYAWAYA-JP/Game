@@ -43,5 +43,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add games-data.json
-          git commit -m "🎮 自動更新: ゲーム情報・レビュー記事を更新 ($(date +'%Y-%m-%d'))"
+          git commit -m "🎮 自動更新: 無料/バンドル/セール/レビュー記事を更新 ($(date +'%Y-%m-%d'))"
           git push

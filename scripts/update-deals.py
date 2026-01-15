@@ -79,31 +79,63 @@ def fetch_reddit_free_games():
                 data = response.json()
 
                 if 'data' in data and 'children' in data['data']:
-                    for post in data['data']['children'][:5]:  # 最新5件をチェック
+                    for post in data['data']['children'][:10]:  # 最新10件をチェック
                         post_data = post['data']
                         title = post_data.get('title', '')
                         url_link = post_data.get('url', '')
+                        title_lower = title.lower()
 
-                        # Steamの無料ゲームを検出
-                        if ('steam' in title.lower() or 'steam' in url_link.lower()) and \
-                           ('free' in title.lower() or '100%' in title or '無料' in title):
+                        # 無料配布を示すキーワード
+                        is_free = ('free' in title_lower or '100%' in title or
+                                   '無料' in title or 'giveaway' in title_lower)
 
-                            # Steam URLを抽出
-                            steam_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
+                        if not is_free:
+                            continue
 
-                            # タイトルからゲーム名を抽出（簡易版）
-                            game_title = title.split('-')[0].strip() if '-' in title else title
+                        # プラットフォームを検出
+                        platform = None
+                        platform_url = None
+                        game_title = title.split('-')[0].strip() if '-' in title else title
 
+                        # Steam
+                        if 'steam' in title_lower or 'steampowered.com' in url_link.lower():
+                            platform = "Steam"
+                            platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
+
+                        # GOG
+                        elif 'gog' in title_lower or 'gog.com' in url_link.lower():
+                            platform = "GOG"
+                            platform_url = url_link if 'gog.com' in url_link else 'https://www.gog.com/'
+
+                        # Prime Gaming
+                        elif ('prime' in title_lower and 'gaming' in title_lower) or \
+                             'primegaming' in title_lower or 'amazon prime' in title_lower or \
+                             'gaming.amazon.com' in url_link.lower():
+                            platform = "Prime Gaming"
+                            platform_url = url_link if 'amazon.com' in url_link else 'https://gaming.amazon.com/'
+
+                        # Fanatical
+                        elif 'fanatical' in title_lower or 'fanatical.com' in url_link.lower():
+                            platform = "Fanatical"
+                            platform_url = url_link if 'fanatical.com' in url_link else 'https://www.fanatical.com/'
+
+                        # Humble Bundle
+                        elif 'humble' in title_lower or 'humblebundle.com' in url_link.lower():
+                            platform = "Humble Bundle"
+                            platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
+
+                        # プラットフォームが検出できた場合のみ追加
+                        if platform and platform_url:
                             free_games.append({
-                                "title": f"{game_title} - Steam 無料配布中",
-                                "platform": "Steam",
+                                "title": f"{game_title} - {platform} 無料配布中",
+                                "platform": platform,
                                 "type": "free",
-                                "description": f"Steamで期間限定無料配布中！このチャンスを逃さずに入手しましょう。詳細はリンク先でご確認ください。",
+                                "description": f"{platform}で期間限定無料配布中！このチャンスを逃さずに入手しましょう。詳細はリンク先でご確認ください。",
                                 "price": "無料",
                                 "originalPrice": "",
                                 "discount": "100% OFF",
                                 "deadline": "期間限定",
-                                "url": steam_url,
+                                "url": platform_url,
                                 "date": current_date
                             })
             except Exception as e:
@@ -118,7 +150,7 @@ def fetch_reddit_free_games():
                 seen_titles.add(game['title'])
                 unique_games.append(game)
 
-        return unique_games[:3]  # 最大3件まで
+        return unique_games[:5]  # 最大5件まで
     except Exception as e:
         print(f"Reddit情報の取得に失敗: {e}")
         return []
@@ -175,14 +207,21 @@ def update_games_data():
         if total_new_games > 0:
             print(f"✨ 合計{total_new_games}件の新しい無料ゲーム情報を取得しました")
             print(f"  - Epic Games: {len(epic_games)}件")
-            print(f"  - Reddit: {len(reddit_games)}件")
+            print(f"  - Reddit (全プラットフォーム): {len(reddit_games)}件")
 
-            # 自動取得された古いゲーム情報を削除（Epic Games, Steamの自動取得分のみ）
+            # Reddit経由で取得したプラットフォームを確認
+            platforms_found = set(game.get('platform') for game in reddit_games)
+            if platforms_found:
+                print(f"  - 検出されたプラットフォーム: {', '.join(platforms_found)}")
+
+            # 自動取得された古いゲーム情報を削除（自動取得プラットフォームのみ）
+            auto_platforms = ['Epic Games', 'Steam', 'GOG', 'Prime Gaming', 'Fanatical', 'Humble Bundle']
             data['pc']['free'] = [
                 game for game in data['pc']['free']
-                if not (game.get('platform') in ['Epic Games', 'Steam'] and
+                if not (game.get('platform') in auto_platforms and
                        '週替わり' not in game.get('title', '') and
-                       '期間限定' not in game.get('title', ''))
+                       '期間限定' not in game.get('title', '') and
+                       game.get('date'))  # 日付があるもの（自動取得）のみ削除
             ]
 
             # 古い情報をクリーンアップ（7日以上前のもの）

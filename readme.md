@@ -45,14 +45,16 @@ https://WAYAWAYA-JP.github.io/Game/
 
 ### 自動取得される情報
 
-1. **Epic Games 無料配布ゲーム**
+1. **Epic Games 無料配布ゲーム** (公式API)
    - 週替わり無料ゲーム
    - 期間限定無料配布
 
-2. **Steam 無料配布ゲーム** (Reddit経由)
-   - 期間限定無料配布
-   - 週末無料プレイ
-   - 100%オフセール
+2. **複数プラットフォームの無料配布** (Reddit経由)
+   - **Steam**: 期間限定無料配布、週末無料プレイ、100%オフセール
+   - **GOG**: DRMフリーゲームの無料配布
+   - **Prime Gaming**: Amazon Prime会員向け無料ゲーム
+   - **Fanatical**: 無料バンドル、Steamキー配布
+   - **Humble Bundle**: 期間限定無料配布
 
 ### 更新スケジュール
 
@@ -69,9 +71,17 @@ GitHubリポジトリの「Actions」タブから手動実行も可能：
 
 ### データソース
 
-- Epic Games Store API
-- Reddit (r/FreeGamesOnSteam, r/GameDeals)
-- 今後追加予定: Steam API, GOG, Humble Bundle
+- **Epic Games Store API** - 公式APIから直接取得
+- **Reddit API**
+  - r/FreeGamesOnSteam - Steam無料ゲーム専門
+  - r/GameDeals - 全プラットフォームのセール情報
+- **対応プラットフォーム**: Steam, GOG, Prime Gaming, Fanatical, Humble Bundle
+
+### 自動検出の仕組み
+
+Redditの投稿タイトルやURLから以下のキーワードで自動検出：
+- 無料配布: "free", "100%", "giveaway"
+- プラットフォーム: "steam", "gog", "prime gaming", "fanatical", "humble"
 
 ## 🔗 参考サイト
 

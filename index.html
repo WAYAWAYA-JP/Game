@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ゲームお得情報キュレーション</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .platform-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .tab-button {
+            padding: 12px 24px;
+            border: none;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s;
+            backdrop-filter: blur(10px);
+        }
+
+        .tab-button:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .tab-button.active {
+            background: white;
+            color: #667eea;
+        }
+
+        .content-section {
+            display: none;
+        }
+
+        .content-section.active {
+            display: block;
+            animation: fadeIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .deals-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .deal-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .deal-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.3);
+        }
+
+        .deal-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            gap: 10px;
+        }
+
+        .platform-badge {
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            color: white;
+        }
+
+        .badge-steam { background: linear-gradient(135deg, #1b2838, #2a475e); }
+        .badge-epic { background: linear-gradient(135deg, #0078F2, #00A8FF); }
+        .badge-gog { background: linear-gradient(135deg, #86328a, #a347a7); }
+        .badge-humble { background: linear-gradient(135deg, #cc0000, #ff4444); }
+        .badge-fanatical { background: linear-gradient(135deg, #ff6b00, #ff8c00); }
+        .badge-ios { background: linear-gradient(135deg, #555555, #000000); }
+        .badge-android { background: linear-gradient(135deg, #3DDC84, #07C160); }
+
+        .deal-type {
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .type-free {
+            background: #10b981;
+            color: white;
+        }
+
+        .type-sale {
+            background: #f59e0b;
+            color: white;
+        }
+
+        .deal-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #1f2937;
+        }
+
+        .deal-description {
+            color: #6b7280;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .deal-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .deal-price {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #10b981;
+        }
+
+        .deal-original-price {
+            text-decoration: line-through;
+            color: #9ca3af;
+            font-size: 1em;
+            margin-left: 10px;
+        }
+
+        .deal-discount {
+            background: #ef4444;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .deal-deadline {
+            color: #dc2626;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .deal-link {
+            display: inline-block;
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .deal-link:hover {
+            transform: scale(1.05);
+        }
+
+        .category-title {
+            color: white;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            margin-top: 30px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid rgba(255,255,255,0.3);
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 50px;
+            padding: 20px;
+            opacity: 0.8;
+        }
+
+        .update-time {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 10px 20px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-bottom: 20px;
+            color: white;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .deals-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .platform-tabs {
+                gap: 5px;
+            }
+
+            .tab-button {
+                padding: 10px 16px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 ゲームお得情報キュレーション</h1>
+            <p class="subtitle">Steam・Epic Games・GOG・Humble Bundle・Fanaticalなどの無料配布・セール情報</p>
+            <div class="update-time">最終更新: 2026年1月15日</div>
+        </header>
+
+        <div class="platform-tabs">
+            <button class="tab-button active" onclick="showTab('pc')">🖥️ PC</button>
+            <button class="tab-button" onclick="showTab('mobile')">📱 スマホ</button>
+        </div>
+
+        <!-- PC版セクション -->
+        <div id="pc-content" class="content-section active">
+            <h2 class="category-title">🎁 無料配布中のゲーム</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-epic">Epic Games</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">週替わり無料ゲーム</div>
+                    <div class="deal-description">
+                        Epic Gamesストアでは毎週木曜日に新しい無料ゲームが配布されます。一度入手すれば永久に遊べます。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 次回更新: 毎週木曜日 25:00（翌日深夜1:00）</div>
+                    <a href="https://store.epicgames.com/ja/free-games" class="deal-link" target="_blank">Epic Gamesで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-steam">Steam</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">期間限定無料ゲーム</div>
+                    <div class="deal-description">
+                        Steamストアで定期的に配布される期間限定無料ゲーム。週末フリープレイなども要チェック！
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 期間限定 - こまめにチェック推奨</div>
+                    <a href="https://store.steampowered.com/search/?maxprice=free&specials=1" class="deal-link" target="_blank">Steamで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-gog">GOG</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">GOG 無料配布</div>
+                    <div class="deal-description">
+                        GOG.comでは定期的にDRMフリーのゲームを無料配布。クラシックゲームが多め。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 不定期開催</div>
+                    <a href="https://www.gog.com/en/games?priceRange=0,0" class="deal-link" target="_blank">GOGで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-humble">Humble Bundle</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">Humble Bundle 無料配布</div>
+                    <div class="deal-description">
+                        Humble Bundleの無料配布やPrime Gamingとの連携ゲーム。Steamキーがもらえることも。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 不定期開催</div>
+                    <a href="https://www.humblebundle.com/store/search?sort=bestselling&filter=onsale&hmb_source=navbar" class="deal-link" target="_blank">Humble Bundleで確認 →</a>
+                </div>
+            </div>
+
+            <h2 class="category-title">🔥 注目のセール情報</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-steam">Steam</span>
+                        <span class="deal-type type-sale">セール</span>
+                    </div>
+                    <div class="deal-title">Steamデイリーディール</div>
+                    <div class="deal-description">
+                        毎日更新される特価セール。大型セール期間外でも掘り出し物が見つかります。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">最大90% OFF</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 毎日更新 午前2:00</div>
+                    <a href="https://store.steampowered.com/specials" class="deal-link" target="_blank">デイリーディールを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-fanatical">Fanatical</span>
+                        <span class="deal-type type-sale">セール</span>
+                    </div>
+                    <div class="deal-title">Fanatical バンドル＆セール</div>
+                    <div class="deal-description">
+                        複数ゲームをまとめて激安で購入できるバンドルや、Steamキーのセール。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">最大95% OFF</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 常時開催中</div>
+                    <a href="https://www.fanatical.com/en/on-sale" class="deal-link" target="_blank">Fanaticalで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-humble">Humble Bundle</span>
+                        <span class="deal-type type-sale">バンドル</span>
+                    </div>
+                    <div class="deal-title">Humble Choice / Bundle</div>
+                    <div class="deal-description">
+                        月額制のHumble Choiceや、テーマ別のゲームバンドル。チャリティにも貢献。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">超お得</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 月次/期間限定</div>
+                    <a href="https://www.humblebundle.com/membership" class="deal-link" target="_blank">Humble Choiceを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-epic">Epic Games</span>
+                        <span class="deal-type type-sale">セール</span>
+                    </div>
+                    <div class="deal-title">Epic Games メガセール</div>
+                    <div class="deal-description">
+                        年数回開催される大型セール。最大75%オフ＋追加クーポンでさらにお得に。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">最大75% OFF + クーポン</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 年数回開催</div>
+                    <a href="https://store.epicgames.com/ja/sales-and-specials" class="deal-link" target="_blank">Epic セールを見る →</a>
+                </div>
+            </div>
+
+            <h2 class="category-title">🔗 便利な価格比較・情報サイト</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-title">IsThereAnyDeal</div>
+                    <div class="deal-description">
+                        複数のゲームストアの価格を比較。過去最安値の履歴も確認できる最強の価格比較サイト。
+                    </div>
+                    <a href="https://isthereanydeal.com/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">SteamDB</div>
+                    <div class="deal-description">
+                        Steamゲームの価格履歴、プレイヤー数、セール予測など詳細なデータベース。
+                    </div>
+                    <a href="https://steamdb.info/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">r/GameDeals (Reddit)</div>
+                    <div class="deal-description">
+                        世界中のゲームセール情報が集まるRedditコミュニティ。リアルタイム更新。
+                    </div>
+                    <a href="https://www.reddit.com/r/GameDeals/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- スマホ版セクション -->
+        <div id="mobile-content" class="content-section">
+            <h2 class="category-title">🎁 無料ゲーム・期間限定イベント</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-ios">iOS</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">App Store 期間限定無料</div>
+                    <div class="deal-description">
+                        通常有料のアプリが期間限定で無料配布されることがあります。「今日のApp」もチェック！
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 不定期開催</div>
+                    <a href="https://apps.apple.com/jp/story/id1484100916" class="deal-link" target="_blank">App Storeで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-android">Android</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">Google Play 期間限定無料</div>
+                    <div class="deal-description">
+                        有料アプリの期間限定無料配布や、アプリ内購入の無料開放イベント。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">無料</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 不定期開催</div>
+                    <a href="https://play.google.com/store/games" class="deal-link" target="_blank">Google Playで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-ios">iOS</span>
+                        <span class="platform-badge badge-android">Android</span>
+                        <span class="deal-type type-free">無料</span>
+                    </div>
+                    <div class="deal-title">Apple Arcade / Google Play Pass</div>
+                    <div class="deal-description">
+                        サブスクリプションサービス。数百本のゲームが広告なし・追加課金なしでプレイ可能。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">月額プラン</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 無料体験あり</div>
+                    <a href="https://www.apple.com/jp/apple-arcade/" class="deal-link" target="_blank">Apple Arcade →</a>
+                </div>
+            </div>
+
+            <h2 class="category-title">💰 セール・お得情報</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-ios">iOS</span>
+                        <span class="deal-type type-sale">セール</span>
+                    </div>
+                    <div class="deal-title">App Store セール</div>
+                    <div class="deal-description">
+                        人気ゲームが定期的にセール価格に。年末年始やゴールデンウィークは大型セールあり。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">最大70% OFF</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 定期開催</div>
+                    <a href="https://apps.apple.com/jp/story/id1484100916" class="deal-link" target="_blank">App Storeで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-android">Android</span>
+                        <span class="deal-type type-sale">セール</span>
+                    </div>
+                    <div class="deal-title">Google Play セール</div>
+                    <div class="deal-description">
+                        週末セールや季節イベントでゲームやアプリ内アイテムが割引に。
+                    </div>
+                    <div class="deal-info">
+                        <div>
+                            <span class="deal-discount">最大80% OFF</span>
+                        </div>
+                    </div>
+                    <div class="deal-deadline">⏰ 週末・季節イベント</div>
+                    <a href="https://play.google.com/store/games?device=phone" class="deal-link" target="_blank">Google Playで確認 →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-header">
+                        <span class="platform-badge badge-ios">iOS</span>
+                        <span class="platform-badge badge-android">Android</span>
+                        <span class="deal-type type-free">イベント</span>
+                    </div>
+                    <div class="deal-title">ゲーム内イベント・ログインボーナス</div>
+                    <div class="deal-description">
+                        人気スマホゲームの期間限定イベントやログインボーナス、コラボキャンペーン情報。
+                    </div>
+                    <div class="deal-info">
+                        <div class="deal-price">ゲーム内特典</div>
+                    </div>
+                    <div class="deal-deadline">⏰ 各ゲームで随時開催</div>
+                    <a href="https://www.4gamer.net/games/999/G999905/" class="deal-link" target="_blank">4Gamerで最新情報 →</a>
+                </div>
+            </div>
+
+            <h2 class="category-title">🔗 スマホゲーム情報サイト</h2>
+            <div class="deals-grid">
+                <div class="deal-card">
+                    <div class="deal-title">AppSale (iOS)</div>
+                    <div class="deal-description">
+                        iOS向けアプリのセール情報を専門に扱うサイト。価格履歴も確認できます。
+                    </div>
+                    <a href="https://appsale.jp/" class="deal-link" target="_blank">サイトを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">AppSales (Android)</div>
+                    <div class="deal-description">
+                        Android向けアプリ・ゲームのセール情報、無料化情報をまとめたサイト。
+                    </div>
+                    <a href="https://play.google.com/store/apps/details?id=net.tsapps.appsales" class="deal-link" target="_blank">アプリを見る →</a>
+                </div>
+
+                <div class="deal-card">
+                    <div class="deal-title">ファミ通App / 4Gamer</div>
+                    <div class="deal-description">
+                        スマホゲームの最新ニュース、レビュー、攻略情報を網羅。
+                    </div>
+                    <a href="https://www.famitsu.com/category/app/" class="deal-link" target="_blank">ファミ通Appを見る →</a>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>🎮 このサイトは各ゲームプラットフォームのお得情報をキュレーションしています</p>
+            <p>参考: <a href="https://jj-labo.seesaa.net/" style="color: white; text-decoration: underline;" target="_blank">JJ PCゲームラボ</a></p>
+            <p style="margin-top: 10px; font-size: 0.9em;">※ 各リンク先で最新の情報をご確認ください</p>
+        </footer>
+    </div>
+
+    <script>
+        function showTab(platform) {
+            // すべてのコンテンツを非表示
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.remove('active');
+            });
+
+            // すべてのタブボタンからactiveを削除
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+
+            // 選択されたコンテンツを表示
+            document.getElementById(platform + '-content').classList.add('active');
+
+            // 選択されたタブボタンをactiveに
+            event.target.classList.add('active');
+        }
+
+        // ページロード時のアニメーション
+        document.addEventListener('DOMContentLoaded', function() {
+            const cards = document.querySelectorAll('.deal-card');
+            cards.forEach((card, index) => {
+                card.style.animationDelay = (index * 0.05) + 's';
+            });
+        });
+    </script>
+</body>
+</html>

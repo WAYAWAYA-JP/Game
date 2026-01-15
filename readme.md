@@ -39,6 +39,40 @@ PCゲーム・スマホゲームのお得情報をまとめたキュレーショ
 https://WAYAWAYA-JP.github.io/Game/
 ```
 
+## 🤖 自動更新機能
+
+このサイトは毎日自動的に最新のゲーム情報を取得します。
+
+### 自動取得される情報
+
+1. **Epic Games 無料配布ゲーム**
+   - 週替わり無料ゲーム
+   - 期間限定無料配布
+
+2. **Steam 無料配布ゲーム** (Reddit経由)
+   - 期間限定無料配布
+   - 週末無料プレイ
+   - 100%オフセール
+
+### 更新スケジュール
+
+- **毎日** 日本時間の朝9時に自動実行
+- GitHub Actionsで自動的に実行
+- 変更があれば自動的にコミット・プッシュ
+
+### 手動更新方法
+
+GitHubリポジトリの「Actions」タブから手動実行も可能：
+1. https://github.com/WAYAWAYA-JP/Game/actions
+2. "Update Game Deals Daily" をクリック
+3. "Run workflow" ボタンをクリック
+
+### データソース
+
+- Epic Games Store API
+- Reddit (r/FreeGamesOnSteam, r/GameDeals)
+- 今後追加予定: Steam API, GOG, Humble Bundle
+
 ## 🔗 参考サイト
 
 - [JJ PCゲームラボ](https://jj-labo.seesaa.net/) - 本サイトの構成の参考元

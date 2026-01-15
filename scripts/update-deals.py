@@ -10,6 +10,12 @@ from datetime import datetime
 import sys
 import re
 from urllib.parse import urlparse
+try:
+    import feedparser
+except ImportError:
+    print("警告: feedparserがインストールされていません。レビュー記事の取得をスキップします。")
+    print("インストールするには: pip install feedparser")
+    feedparser = None
 
 def fetch_epic_free_games():
     """Epic Gamesの無料ゲーム情報を取得"""
@@ -191,6 +197,113 @@ def clean_old_free_games(games_list, max_age_days=7):
 
     return cleaned_games
 
+def fetch_review_articles():
+    """ゲームメディアのRSSフィードからレビュー記事を取得"""
+    if not feedparser:
+        print("feedparserがインストールされていないため、レビュー記事の取得をスキップします")
+        return []
+
+    try:
+        review_articles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # レビュー判定キーワード
+        review_keywords_ja = ['レビュー', 'プレビュー', '評価', 'インプレッション', 'プレイレポート', 'レポート']
+        review_keywords_en = ['review', 'preview', 'impression', 'hands-on', 'first look']
+
+        # 各ゲームメディアのRSSフィード
+        rss_feeds = [
+            {
+                'url': 'https://automaton-media.com/feed/',
+                'platform': 'AUTOMATON',
+                'lang': 'ja'
+            },
+            {
+                'url': 'https://doope.jp/feed',
+                'platform': 'doope!',
+                'lang': 'ja'
+            },
+            {
+                'url': 'https://www.inside-games.jp/rss/index.xml',
+                'platform': 'インサイド',
+                'lang': 'ja'
+            },
+            {
+                'url': 'https://www.pcgamer.com/rss/',
+                'platform': 'PC Gamer',
+                'lang': 'en'
+            },
+            {
+                'url': 'https://www.rockpapershotgun.com/feed',
+                'platform': 'Rock Paper Shotgun',
+                'lang': 'en'
+            },
+            {
+                'url': 'https://www.polygon.com/rss/index.xml',
+                'platform': 'Polygon',
+                'lang': 'en'
+            }
+        ]
+
+        for feed_info in rss_feeds:
+            try:
+                print(f"  {feed_info['platform']}のRSSフィードを取得中...")
+                feed = feedparser.parse(feed_info['url'])
+
+                # フィード内の記事をチェック（最新20件）
+                for entry in feed.entries[:20]:
+                    title = entry.get('title', '')
+                    link = entry.get('link', '')
+                    summary = entry.get('summary', '') or entry.get('description', '')
+
+                    # HTMLタグを削除
+                    summary_clean = re.sub(r'<[^>]+>', '', summary)[:200]
+
+                    # タイトルにレビュー関連のキーワードが含まれているかチェック
+                    title_lower = title.lower()
+                    is_review = False
+
+                    if feed_info['lang'] == 'ja':
+                        is_review = any(keyword in title for keyword in review_keywords_ja)
+                    else:
+                        is_review = any(keyword in title_lower for keyword in review_keywords_en)
+
+                    if is_review and link:
+                        # 英語記事には説明文に「翻訳推奨」を追加
+                        description_prefix = "（翻訳推奨）" if feed_info['lang'] == 'en' else ""
+                        description = description_prefix + (summary_clean if summary_clean else f"{title}の詳細記事です。")
+
+                        review_articles.append({
+                            "title": title,
+                            "platform": feed_info['platform'],
+                            "type": "review",
+                            "description": description,
+                            "price": "",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "",
+                            "url": link,
+                            "date": current_date
+                        })
+
+                        # 各フィードから最大2件まで
+                        if len([a for a in review_articles if a['platform'] == feed_info['platform']]) >= 2:
+                            break
+
+            except Exception as e:
+                print(f"  {feed_info['platform']}のRSS取得エラー: {e}")
+                continue
+
+        # 新しい順にソートして最新10件を返す
+        review_articles.sort(key=lambda x: x['date'], reverse=True)
+        return review_articles[:10]
+
+    except Exception as e:
+        print(f"レビュー記事の取得に失敗: {e}")
+        import traceback
+        traceback.print_exc()
+        return []
+
 def update_games_data():
     """games-data.jsonを更新"""
     try:
@@ -199,13 +312,17 @@ def update_games_data():
             data = json.load(f)
 
         # 各ソースから情報を取得
+        print("\n🎮 無料ゲーム情報を取得中...")
         epic_games = fetch_epic_free_games()
         reddit_games = fetch_reddit_free_games()
+
+        print("\n📰 レビュー記事を取得中...")
+        review_articles = fetch_review_articles()
 
         total_new_games = len(epic_games) + len(reddit_games)
 
         if total_new_games > 0:
-            print(f"✨ 合計{total_new_games}件の新しい無料ゲーム情報を取得しました")
+            print(f"\n✨ 合計{total_new_games}件の新しい無料ゲーム情報を取得しました")
             print(f"  - Epic Games: {len(epic_games)}件")
             print(f"  - Reddit (全プラットフォーム): {len(reddit_games)}件")
 
@@ -241,6 +358,46 @@ def update_games_data():
                     unique_games.append(game)
 
             data['pc']['free'] = unique_games
+
+        # レビュー記事を更新
+        if review_articles:
+            print(f"\n📚 {len(review_articles)}件のレビュー記事を取得しました")
+            for article in review_articles:
+                print(f"  - {article['title'][:50]}... ({article['platform']})")
+
+            # reviewカテゴリが存在しない場合は作成
+            if 'review' not in data['pc']:
+                data['pc']['review'] = []
+
+            # 既存のレビュー記事と新規記事をマージ（重複削除）
+            # 手動で追加された記事（日付が1週間以上前のもの）は保持
+            current_date = datetime.now()
+            manual_reviews = []
+            for review in data['pc']['review']:
+                try:
+                    review_date = datetime.strptime(review.get('date', ''), "%Y-%m-%d")
+                    days_old = (current_date - review_date).days
+                    # 7日以上前の記事は手動追加と見なして保持
+                    if days_old >= 7:
+                        manual_reviews.append(review)
+                except (ValueError, TypeError):
+                    # 日付がパースできない場合は手動追加と見なして保持
+                    manual_reviews.append(review)
+
+            # 新規記事と手動追加記事を結合
+            all_reviews = review_articles + manual_reviews
+
+            # 重複を削除（URLベース）
+            seen_urls = set()
+            unique_reviews = []
+            for review in all_reviews:
+                url = review.get('url', '')
+                if url and url not in seen_urls:
+                    seen_urls.add(url)
+                    unique_reviews.append(review)
+
+            # 最新10件を保持
+            data['pc']['review'] = unique_reviews[:10]
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

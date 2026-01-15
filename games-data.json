@@ -12,90 +12,6 @@
         "deadline": "2026年1月16日 25:00まで",
         "url": "https://store.epicgames.com/ja/p/bloons-td-6",
         "date": "2026-01-15"
-      },
-      {
-        "title": "Epic Games 週替わり無料ゲーム",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesストアでは毎週木曜日に新しいゲームが無料配布されます。一度入手すれば永久にライブラリに追加され、いつでもダウンロード可能。過去にはGTA V、Tomb Raider、Civilization VIなど大作タイトルも配布されています。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "次回更新: 毎週木曜日 25:00（翌日深夜1:00）",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "Steam 週末無料プレイ",
-        "platform": "Steam",
-        "type": "free",
-        "description": "Steamでは週末限定で特定のゲームが無料でプレイ可能になります。気になっていたゲームを試す絶好のチャンス！気に入ったら割引価格で購入できることも。最近ではオンラインマルチプレイゲームが多く選ばれています。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "週末限定",
-        "url": "https://store.steampowered.com/search/?maxprice=free&specials=1",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "GOG - クラシックゲーム無料配布",
-        "platform": "GOG",
-        "type": "free",
-        "description": "GOG.comではDRMフリーのクラシックゲームを定期的に無料配布しています。往年の名作RPGやアドベンチャーゲームをDRMなしで永久に保存可能。CD Projekt REDが運営する信頼のプラットフォームです。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "不定期開催",
-        "url": "https://www.gog.com/en/games?priceRange=0,0",
-        "date": "2026-01-10"
-      },
-      {
-        "title": "Humble Bundle - 無料ゲーム配布",
-        "platform": "Humble Bundle",
-        "type": "free",
-        "description": "Humble Bundleでは不定期で無料ゲームを配布しています。Steamキーとして入手できるので、Steamライブラリに永久追加可能。過去にはインディーゲームの名作が多数配布されました。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "不定期開催",
-        "url": "https://www.humblebundle.com/store",
-        "date": "2026-01-08"
-      },
-      {
-        "title": "Prime Gaming 1月の無料ゲーム",
-        "platform": "Steam",
-        "type": "free",
-        "description": "Amazon Prime会員なら毎月無料でゲームが入手できるPrime Gaming。今月はインディーゲーム5本が無料配布中。Steamキーやゲーム専用ランチャーで遊べます。",
-        "price": "無料（Prime会員）",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "2026年1月31日まで",
-        "url": "https://gaming.amazon.com/",
-        "date": "2026-01-05"
-      },
-      {
-        "title": "Fanatical - 無料ゲームバンドル",
-        "platform": "Fanatical",
-        "type": "free",
-        "description": "Fanaticalで期間限定の無料バンドルが登場！3本のSteamキーが無料で入手できます。インディーゲーム中心ですが、高評価タイトルも含まれています。",
-        "price": "無料",
-        "originalPrice": "¥1,500相当",
-        "discount": "100% OFF",
-        "deadline": "2026年1月20日まで",
-        "url": "https://www.fanatical.com/en/bundle",
-        "date": "2026-01-03"
-      },
-      {
-        "title": "itch.io - 大量の無料インディーゲーム",
-        "platform": "Steam",
-        "type": "free",
-        "description": "インディーゲームプラットフォームのitch.ioでは、常時数千本の無料ゲームが公開されています。実験的な作品からクオリティの高いゲームまで、掘り出し物を探す楽しさがあります。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "常時開催",
-        "url": "https://itch.io/games/free",
-        "date": "2026-01-01"
       }
     ],
     "sale": [
@@ -201,30 +117,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Google Play ウィークエンドセール",
-        "platform": "Android",
-        "type": "sale",
-        "description": "週末限定の大型セール開催中！人気ゲームアプリが最大80%オフ。『Dead Cells』『Terraria』『Minecraft』など名作タイトルも対象。買い切りゲームを今のうちに確保しましょう。",
-        "price": "セール中",
-        "originalPrice": "",
-        "discount": "最大80% OFF",
-        "deadline": "2026年1月17日まで",
-        "url": "https://play.google.com/store/games",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "Apple Arcade - 1ヶ月無料トライアル",
-        "platform": "iOS",
-        "type": "free",
-        "description": "200本以上のゲームが遊び放題のApple Arcadeが1ヶ月無料体験可能！広告なし、追加課金なしで全てのゲームを楽しめます。『Fantasian』『Oceanhorn 2』などクオリティの高いタイトルが勢揃い。",
-        "price": "無料体験",
-        "originalPrice": "¥900/月",
-        "discount": "1ヶ月無料",
-        "deadline": "いつでもキャンセル可能",
-        "url": "https://www.apple.com/jp/apple-arcade/",
-        "date": "2026-01-15"
-      },
       {
         "title": "『原神』新キャラピックアップガチャ開催中",
         "platform": "iOS/Android",

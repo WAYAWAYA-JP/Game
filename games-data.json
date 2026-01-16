@@ -2,16 +2,28 @@
   "pc": {
     "free": [
       {
-        "title": "Bloons TD 6 - Epic Games 無料配布中",
+        "title": "Styx: Master of Shadows - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "これまで以上にすごいブルーンが戻ってきた！最高の戦略ゲームを何時間も提供できるように設計された、巨大な3Dタワーディフェンスゲームに備えよう。",
+        "description": "Styx: Master of Shadows は、ダーク ファンタジーの世界を舞台にした RPG 要素のある潜入ゲームです。2 世紀も生きたゴブリン、Styx となって、身を潜め、盗み、暗殺しながら進んでいきます。",
         "price": "無料",
-        "originalPrice": "¥1,480",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-15"
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Styx returns in a new stealth adventure! Explore and master huge open environments, sneak past or assassinate new enemies and bosses, and experiment with the new array of lethal abilities and weapons ",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-01-16"
       }
     ],
     "bundle": [
@@ -42,28 +54,100 @@
     ],
     "review": [
       {
-        "title": "ギルド運営マルチエンドRPG『存在/しない逐夢者：銀葱の森』1月19日早期アクセス配信へ。高評価ADVの正統続編、時間管理型パーティ育成ゲーム",
+        "title": "高評価ステルスアクション『Styx』シリーズ2作まとめて無料配布中、Epic Gamesストアにて。合計約4000円分のゲームが今ならタダ",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Nino Gamesは1月15日、『存在/しない逐夢者：銀葱の森』を1月19日より早期アクセス配信すると発表した。",
+        "description": "Epic Gamesストアにて1月16日、『Styx: Master of Shadows』および『Styx: Shards of Darkness』の無料配布が開始された。配布期間は1月23日午前1時まで。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-noexistencen-20260115-406518/",
-        "date": "2026-01-15"
+        "url": "https://automaton-media.com/articles/newsjp/20260116-406903/",
+        "date": "2026-01-16"
       },
       {
-        "title": "Corsair Air 5400 review",
-        "platform": "PC Gamer",
+        "title": "賛否両論のまま開発中断された『Hyper Light Breaker』、“見捨てられた”と不評レビュー殺到。「最後の洗練アプデ」すら棚上げ状態",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "（翻訳推奨）We're so back.",
+        "description": "開発中断の背景には、パブリッシャーの親会社Embracer Groupの組織再編の影響があるとも考察されている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/corsair-air-5400-review/",
-        "date": "2026-01-15"
+        "url": "https://automaton-media.com/articles/newsjp/hyper-light-breaker-20260115-406764/",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "謎のニンテンドーDSゲーム、大手レビューサイトMetacriticで突如「ユーザースコア歴代2位」に上り詰める。1位を奪おうとする“高評価爆撃”荒らしか",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "レビュー収集サイトMetacriticにて、2008年に発売されたとあるゲームが突如としてユーザースコアで高評価を獲得し、話題を集めている。話題の中心にあるのは『Disney Cory in the House』というア [&#8230;]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260115-406713/",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "政府の高度なネット監視プログラムを描く傑作アドベンチャー「Orwell: Keeping an Eye On You」と「Orwell: Ignorance is Strength」のNintendo Switch対応がアナウンス、発売は1月21日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "政府の高度なネット監視プログラムを描くプライバシー監視スリラーとして、2016年にPC向けのローンチを果たし、非常に高い評価を獲得したOsmotic Studiosの「Orwell: Keeping an Eye On  [&#8230;]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163331.html",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Asus TUF Gaming A16 (2025) review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "（翻訳推奨）Big, hot, and just a little too expensive.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-2025-review/",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Rockstar launch official roleplay mods store where you can spend $67 to turn GTA into Euro Truck Simulator 2",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "（翻訳推奨） If you've ever wanted to spend somewhere in the region of $67/&pound;50 to turn GTA 5 into a fishing simulator, today's your lucky day. Rockstar-partnered GTA roleplaying server operators Cfx.re - the folks behind FiveM and RedM - have launched the Cfx Marketplace, a store where you can buy a bunch",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/rockstar-launch-official-roleplay-mods-store-where-you-can-spend-67-to-turn-gta-into-euro-truck-simulator-2",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Playing Hytale on the Steam Deck takes some classic PC spannering, but the effort is rewarded",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "（翻訳推奨） \nRight up until its early access release, Hytale&rsquo;s chances of Steam Deck-enabled portability were anyone&rsquo;s guess. Even the blocky sandbox&rsquo;s developers Hypixel seemed unsure, announcing a SteamOS-friendly native Linux version (good!) but forgoing an actual Steam release (less good!",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/hytale-steam-deck-performance-settings",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "The Elder Scrolls 6 in the Summerset Isles would be cool, or so recently unearthed Daggerfall-era dev D&D notes have convinced me",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "（翻訳推奨） As someone who admittedly struggles to feel at home whenever I try to go back and play the older Elder Scrolls entries, I'm surprised how fun I've found reading through some notes from a D&amp;D game some devs on the series played around the time of Daggerfall's development. Said notes have just be",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-in-the-summerset-isles-would-be-cool-or-so-recently-unearthed-daggerfall-era-dev-dd-notes-have-convinced-me",
+        "date": "2026-01-16"
       }
     ],
     "sale": [
@@ -159,5 +243,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15T06:36:36.659107"
+  "last_updated": "2026-01-16T00:31:46.710163"
 }

@@ -2,16 +2,28 @@
   "pc": {
     "free": [
       {
-        "title": "Bloons TD 6 - Epic Games 無料配布中",
+        "title": "Styx: Master of Shadows - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "これまで以上にすごいブルーンが戻ってきた！最高の戦略ゲームを何時間も提供できるように設計された、巨大な3Dタワーディフェンスゲームに備えよう。",
+        "description": "Styx: Master of Shadows は、ダーク ファンタジーの世界を舞台にした RPG 要素のある潜入ゲームです。2 世紀も生きたゴブリン、Styx となって、身を潜め、盗み、暗殺しながら進んでいきます。",
         "price": "無料",
-        "originalPrice": "¥1,480",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-15"
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Styx returns in a new stealth adventure! Explore and master huge open environments, sneak past or assassinate new enemies and bosses, and experiment with the new array of lethal abilities and weapons ",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-01-16"
       }
     ],
     "bundle": [
@@ -42,28 +54,76 @@
     ],
     "review": [
       {
-        "title": "ギルド運営マルチエンドRPG『存在/しない逐夢者：銀葱の森』1月19日早期アクセス配信へ。高評価ADVの正統続編、時間管理型パーティ育成ゲーム",
+        "title": "高評価ステルスアクション『Styx』シリーズ2作まとめて無料配布中、Epic Gamesストアにて。合計約4000円分のゲームが今ならタダ",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Nino Gamesは1月15日、『存在/しない逐夢者：銀葱の森』を1月19日より早期アクセス配信すると発表した。",
+        "description": "Epic Gamesストアにて1月16日、『Styx: Master of Shadows』および『Styx: Shards of Darkness』の無料配布が開始された。配布期間は1月23日午前1時まで。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-noexistencen-20260115-406518/",
-        "date": "2026-01-15"
+        "url": "https://automaton-media.com/articles/newsjp/20260116-406903/",
+        "date": "2026-01-16"
       },
       {
-        "title": "Corsair Air 5400 review",
-        "platform": "PC Gamer",
+        "title": "賛否両論のまま開発中断された『Hyper Light Breaker』、“見捨てられた”と不評レビュー殺到。「最後の洗練アプデ」すら棚上げ状態",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "（翻訳推奨）We're so back.",
+        "description": "開発中断の背景には、パブリッシャーの親会社Embracer Groupの組織再編の影響があるとも考察されている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/corsair-air-5400-review/",
-        "date": "2026-01-15"
+        "url": "https://automaton-media.com/articles/newsjp/hyper-light-breaker-20260115-406764/",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "謎のニンテンドーDSゲーム、大手レビューサイトMetacriticで突如「ユーザースコア歴代2位」に上り詰める。1位を奪おうとする“高評価爆撃”荒らしか",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "レビュー収集サイトMetacriticにて、2008年に発売されたとあるゲームが突如としてユーザースコアで高評価を獲得し、話題を集めている。話題の中心にあるのは『Disney Cory in the House』というア [&#8230;]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260115-406713/",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払って GTA を Euro Truck Simulator 2 に変えることができる",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "GTA 5 を釣りシミュレーターにするために 67 ポンド/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/rockstar-launch-official-roleplay-mods-store-where-you-can-spend-67-to-turn-gta-into-euro-truck-simulator-2",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Steam デッキで Hytale をプレイするには、古典的な PC の苦労が必要ですが、その努力は報われます",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "早期アクセス リリースの直前まで、Hytale が Steam Deck 対応のポータビリティを実現する可能性は誰にも予想できませんでした。ブロック状のサンドボックスの開発者である Hypixel でさえ自信がなかったようで、SteamOS フレンドリーなネイティブ Linux バージョンを発表しましたが (良いことです!)、実際の Steam リリースは見送りました (あまり良くありません!)。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/hytale-steam-deck-performance-settings",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-in-the-summerset-isles-would-be-cool-or-so-recently-unearthed-daggerfall-era-dev-dd-notes-have-convinced-me",
+        "date": "2026-01-16"
       }
     ],
     "sale": [
@@ -159,5 +219,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T01:15:55.133183"
+  "last_updated": "2026-01-16T01:11:24.093262"
 }

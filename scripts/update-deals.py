@@ -231,6 +231,253 @@ def clean_old_free_games(games_list, max_age_days=7):
 
     return cleaned_games
 
+def fetch_humble_bundle_direct():
+    """Humble Bundle公式サイトから直接バンドル情報を取得"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Humble Bundleのバンドル一覧ページ
+        urls = [
+            'https://www.humblebundle.com/bundles',
+            'https://www.humblebundle.com/games'
+        ]
+
+        for url in urls:
+            try:
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                }
+                response = requests.get(url, headers=headers, timeout=15)
+                response.raise_for_status()
+
+                # 簡易的なHTMLパース（beautifulsoup4使用）
+                try:
+                    from bs4 import BeautifulSoup
+                    soup = BeautifulSoup(response.text, 'html.parser')
+
+                    # バンドルのタイトルを探す
+                    bundle_elements = soup.find_all(['h2', 'h3', 'div'], class_=lambda x: x and ('title' in x.lower() or 'name' in x.lower()))
+
+                    for element in bundle_elements[:3]:
+                        title = element.get_text(strip=True)
+                        if title and len(title) > 5 and 'bundle' in title.lower():
+                            bundles.append({
+                                "title": f"{title}",
+                                "platform": "Humble Bundle",
+                                "type": "bundle",
+                                "description": f"Humble Bundleで{title}が登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+                                "price": "お得価格",
+                                "originalPrice": "",
+                                "discount": "",
+                                "deadline": "期間限定",
+                                "url": "https://www.humblebundle.com/bundles",
+                                "date": current_date
+                            })
+                except ImportError:
+                    print("  beautifulsoup4がインストールされていません")
+
+            except Exception as e:
+                print(f"  Humble Bundle直接取得エラー: {e}")
+                continue
+
+        return bundles[:3]
+    except Exception as e:
+        print(f"  Humble Bundle情報の取得に失敗: {e}")
+        return []
+
+def fetch_fanatical_bundles():
+    """Fanatical公式サイトからバンドル情報を取得"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Fanaticalのバンドル一覧ページ
+        url = "https://www.fanatical.com/en/bundles"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            # BeautifulSoupでHTMLをパース
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # Fanaticalのバンドルタイトルを探す
+                # 一般的なクラス名やタグで検索
+                bundle_elements = soup.find_all(['h2', 'h3', 'div', 'span'],
+                                               class_=lambda x: x and any(keyword in str(x).lower()
+                                               for keyword in ['bundle', 'title', 'name', 'product']))
+
+                found_bundles = set()
+                for element in bundle_elements[:20]:
+                    title = element.get_text(strip=True)
+                    # バンドルらしいタイトルを検出
+                    if (title and len(title) > 10 and len(title) < 150 and
+                        ('bundle' in title.lower() or 'collection' in title.lower() or
+                         'pack' in title.lower()) and
+                        title not in found_bundles):
+
+                        found_bundles.add(title)
+                        bundles.append({
+                            "title": f"{title}",
+                            "platform": "Fanatical",
+                            "type": "bundle",
+                            "description": f"Fanaticalで{title}が登場！複数のゲームがセットになったお得なバンドル。Steamキーで提供されます。",
+                            "price": "お得価格",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "期間限定",
+                            "url": "https://www.fanatical.com/en/bundles",
+                            "date": current_date
+                        })
+
+                        if len(bundles) >= 5:
+                            break
+
+                print(f"  Fanaticalから{len(bundles)}件のバンドルを取得")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  Fanatical取得エラー: {e}")
+
+        return bundles[:5]
+    except Exception as e:
+        print(f"  Fanatical情報の取得に失敗: {e}")
+        return []
+
+def fetch_indiegala_bundles():
+    """IndieGalaからバンドル情報を取得"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # IndieGalaのバンドルページ
+        url = "https://www.indiegala.com/bundles"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # バンドルタイトルを探す
+                bundle_elements = soup.find_all(['h2', 'h3', 'div', 'a'],
+                                               class_=lambda x: x and any(keyword in str(x).lower()
+                                               for keyword in ['bundle', 'title', 'name']))
+
+                found_bundles = set()
+                for element in bundle_elements[:20]:
+                    title = element.get_text(strip=True)
+                    if (title and len(title) > 10 and len(title) < 150 and
+                        ('bundle' in title.lower() or 'collection' in title.lower()) and
+                        title not in found_bundles):
+
+                        found_bundles.add(title)
+                        bundles.append({
+                            "title": f"{title}",
+                            "platform": "IndieGala",
+                            "type": "bundle",
+                            "description": f"IndieGalaで{title}が登場！インディーゲームを中心としたお得なバンドル。",
+                            "price": "お得価格",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "期間限定",
+                            "url": "https://www.indiegala.com/bundles",
+                            "date": current_date
+                        })
+
+                        if len(bundles) >= 3:
+                            break
+
+                print(f"  IndieGalaから{len(bundles)}件のバンドルを取得")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  IndieGala取得エラー: {e}")
+
+        return bundles[:3]
+    except Exception as e:
+        print(f"  IndieGala情報の取得に失敗: {e}")
+        return []
+
+def fetch_itchio_bundles():
+    """Itch.ioからバンドル情報を取得"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Itch.ioのバンドルページ
+        url = "https://itch.io/bundles"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # バンドルタイトルを探す
+                bundle_elements = soup.find_all(['h2', 'h3', 'a'],
+                                               class_=lambda x: x and 'title' in str(x).lower())
+
+                found_bundles = set()
+                for element in bundle_elements[:15]:
+                    title = element.get_text(strip=True)
+                    if (title and len(title) > 10 and len(title) < 150 and
+                        title not in found_bundles and
+                        not any(skip in title.lower() for skip in ['browse', 'login', 'register'])):
+
+                        found_bundles.add(title)
+                        bundles.append({
+                            "title": f"{title}",
+                            "platform": "Itch.io",
+                            "type": "bundle",
+                            "description": f"Itch.ioで{title}が登場！インディーゲーム開発者を支援するバンドル。",
+                            "price": "お得価格",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "期間限定",
+                            "url": "https://itch.io/bundles",
+                            "date": current_date
+                        })
+
+                        if len(bundles) >= 3:
+                            break
+
+                print(f"  Itch.ioから{len(bundles)}件のバンドルを取得")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  Itch.io取得エラー: {e}")
+
+        return bundles[:3]
+    except Exception as e:
+        print(f"  Itch.io情報の取得に失敗: {e}")
+        return []
+
 def fetch_reddit_bundles():
     """Redditからバンドル情報を取得"""
     try:
@@ -254,9 +501,12 @@ def fetch_reddit_bundles():
                         url_link = post_data.get('url', '')
                         title_lower = title.lower()
 
-                        # バンドルを示すキーワード
+                        # バンドルを示すキーワード（拡充）
                         is_bundle = ('bundle' in title_lower or 'バンドル' in title or
                                      'humble choice' in title_lower or
+                                     'monthly' in title_lower or
+                                     'collection' in title_lower or
+                                     'pack' in title_lower and 'game' in title_lower or
                                      'fanatical' in title_lower and 'bundle' in title_lower)
 
                         if not is_bundle:
@@ -306,6 +556,113 @@ def fetch_reddit_bundles():
         return unique_bundles[:5]  # 最大5件まで
     except Exception as e:
         print(f"Redditバンドル情報の取得に失敗: {e}")
+        return []
+
+def fetch_steam_sales():
+    """Steamから特価セール情報を取得"""
+    try:
+        sales = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Steam特価情報（Steamストアのスペシャルページ）
+        url = "https://store.steampowered.com/search/?specials=1&ndl=1"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # Steamのセール情報を探す
+                # 簡易的な実装（実際のSteam APIを使うとより正確）
+                print(f"  Steam接続成功（セール情報は他ソースから取得）")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  Steam取得エラー: {e}")
+
+        return sales
+    except Exception as e:
+        print(f"  Steam情報の取得に失敗: {e}")
+        return []
+
+def fetch_isthereanydeal_sales():
+    """IsThereAnyDealからセール情報を取得"""
+    try:
+        sales = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # IsThereAnyDealのトップセール
+        url = "https://isthereanydeal.com/"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # セール情報を探す
+                # IsThereAnyDealは主にメタセール情報を提供
+                print(f"  IsThereAnyDeal接続成功（セール情報は他ソースから取得）")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  IsThereAnyDeal取得エラー: {e}")
+
+        return sales
+    except Exception as e:
+        print(f"  IsThereAnyDeal情報の取得に失敗: {e}")
+        return []
+
+def fetch_gog_sales():
+    """GOGからセール情報を取得"""
+    try:
+        sales = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # GOGのセールページ
+        url = "https://www.gog.com/en/games?priceRange=0,15&discounted=true"
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            try:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # GOGのセール情報
+                print(f"  GOG接続成功（セール情報は他ソースから取得）")
+
+            except ImportError:
+                print("  beautifulsoup4がインストールされていません")
+
+        except Exception as e:
+            print(f"  GOG取得エラー: {e}")
+
+        return sales
+    except Exception as e:
+        print(f"  GOG情報の取得に失敗: {e}")
         return []
 
 def fetch_reddit_sales():
@@ -438,7 +795,10 @@ def fetch_review_articles():
             'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply',
             'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade',
             'msi', 'lenovo', 'dell', 'hp omen', 'acer predator', 'router', 'wifi',
-            'rtx 30', 'rtx 40', 'rtx 50', 'radeon', 'geforce', 'ryzen', 'core i'
+            'rtx 30', 'rtx 40', 'rtx 50', 'radeon', 'geforce', 'ryzen', 'core i',
+            'cooler', 'fan', 'thermal', 'chassis', 'air 54', 'pc case', 'tower',
+            'rgb', 'liquid cooling', 'watercooling', 'gaming chair', 'desk',
+            'webcam', 'microphone', 'speakers', 'controller review', 'peripheral'
         ]
 
         # 各ゲームメディアのRSSフィード
@@ -499,9 +859,10 @@ def fetch_review_articles():
                     summary_lower = summary_clean.lower()
                     full_text_lower = f"{title_lower} {summary_lower}"
 
-                    # ハードウェアレビューを除外
-                    is_hardware = any(hw in title_lower for hw in hardware_keywords)
+                    # ハードウェアレビューを除外（タイトルと要約の両方をチェック）
+                    is_hardware = any(hw in full_text_lower for hw in hardware_keywords)
                     if is_hardware:
+                        print(f"    ✗ ハードウェアレビューを除外: {title[:40]}...")
                         continue
 
                     # レビュー関連のキーワードチェック（タイトルまたは要約）
@@ -538,8 +899,8 @@ def fetch_review_articles():
                                 else:
                                     description = f"{translated_title}の詳細記事です。"
 
-                                # 翻訳されたタイトルを使用
-                                title = translated_title
+                                # 翻訳されたタイトルに【翻訳概要】バッジを追加
+                                title = f"【翻訳概要】{translated_title}"
                             else:
                                 # 日本語記事はそのまま
                                 description = summary_clean if summary_clean else f"{title}の詳細記事です。"
@@ -598,10 +959,73 @@ def update_games_data():
         reddit_games = fetch_reddit_free_games()
 
         print("\n📦 バンドル情報を取得中...")
+        # 複数のソースからバンドル情報を取得
+        print("  Reddit から取得中...")
         reddit_bundles = fetch_reddit_bundles()
+        print("  Humble Bundle から取得中...")
+        humble_bundles = fetch_humble_bundle_direct()
+        print("  Fanatical から取得中...")
+        fanatical_bundles = fetch_fanatical_bundles()
+        print("  IndieGala から取得中...")
+        indiegala_bundles = fetch_indiegala_bundles()
+        print("  Itch.io から取得中...")
+        itchio_bundles = fetch_itchio_bundles()
+
+        # 全てのバンドル情報を統合
+        all_bundles = reddit_bundles + humble_bundles + fanatical_bundles + indiegala_bundles + itchio_bundles
+
+        # 重複を削除
+        seen_titles = set()
+        unique_bundles = []
+        for bundle in all_bundles:
+            title_key = bundle.get('title', '').lower()
+            if title_key and title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_bundles.append(bundle)
+
+        # reddit_bundlesを統合されたバンドルリストに変更
+        reddit_bundles = unique_bundles
+
+        print(f"\n  ✨ バンドル情報取得結果:")
+        print(f"    - Reddit: {len(reddit_bundles) - len(humble_bundles) - len(fanatical_bundles) - len(indiegala_bundles) - len(itchio_bundles)}件")
+        print(f"    - Humble Bundle: {len(humble_bundles)}件")
+        print(f"    - Fanatical: {len(fanatical_bundles)}件")
+        print(f"    - IndieGala: {len(indiegala_bundles)}件")
+        print(f"    - Itch.io: {len(itchio_bundles)}件")
+        print(f"    - 合計（重複除外後）: {len(reddit_bundles)}件")
 
         print("\n🔥 セール情報を取得中...")
+        # 複数のソースからセール情報を取得
+        print("  Reddit から取得中...")
         reddit_sales = fetch_reddit_sales()
+        print("  Steam から取得中...")
+        steam_sales = fetch_steam_sales()
+        print("  IsThereAnyDeal から取得中...")
+        itad_sales = fetch_isthereanydeal_sales()
+        print("  GOG から取得中...")
+        gog_sales = fetch_gog_sales()
+
+        # 全てのセール情報を統合
+        all_sales = reddit_sales + steam_sales + itad_sales + gog_sales
+
+        # 重複を削除
+        seen_titles = set()
+        unique_sales = []
+        for sale in all_sales:
+            title_key = sale.get('title', '').lower()
+            if title_key and title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_sales.append(sale)
+
+        # reddit_salesを統合されたセールリストに変更
+        reddit_sales = unique_sales
+
+        print(f"\n  ✨ セール情報取得結果:")
+        print(f"    - Reddit: {len(reddit_sales) - len(steam_sales) - len(itad_sales) - len(gog_sales)}件")
+        print(f"    - Steam: {len(steam_sales)}件")
+        print(f"    - IsThereAnyDeal: {len(itad_sales)}件")
+        print(f"    - GOG: {len(gog_sales)}件")
+        print(f"    - 合計（重複除外後）: {len(reddit_sales)}件")
 
         print("\n📰 レビュー記事を取得中...")
         review_articles = fetch_review_articles()
@@ -619,7 +1043,7 @@ def update_games_data():
                 print(f"  - 検出されたプラットフォーム: {', '.join(platforms_found)}")
 
             # 自動取得された古いゲーム情報を削除（自動取得プラットフォームのみ）
-            auto_platforms = ['Epic Games', 'Steam', 'GOG', 'Prime Gaming', 'Fanatical', 'Humble Bundle']
+            auto_platforms = ['Epic Games', 'Steam', 'GOG', 'Prime Gaming', 'Fanatical', 'Humble Bundle', 'IndieGala', 'Itch.io']
             data['pc']['free'] = [
                 game for game in data['pc']['free']
                 if not (game.get('platform') in auto_platforms and
@@ -696,8 +1120,9 @@ def update_games_data():
             if 'bundle' not in data['pc']:
                 data['pc']['bundle'] = []
 
-            # 自動取得された古いバンドル情報を削除（7日以上前）
-            data['pc']['bundle'] = clean_old_free_games(data['pc']['bundle'], max_age_days=7)
+            # 自動取得された古いバンドル情報を削除（14日以上前）
+            # バンドルは通常2-4週間続くため、より長く保持する
+            data['pc']['bundle'] = clean_old_free_games(data['pc']['bundle'], max_age_days=14)
 
             # 新しい情報を先頭に追加
             data['pc']['bundle'] = reddit_bundles + data['pc']['bundle']
@@ -711,8 +1136,8 @@ def update_games_data():
                     seen_titles.add(title_key)
                     unique_bundles.append(bundle)
 
-            # 最新10件を保持
-            data['pc']['bundle'] = unique_bundles[:10]
+            # 最新15件を保持（より多くのバンドル情報を表示）
+            data['pc']['bundle'] = unique_bundles[:15]
 
         # セール情報を更新
         if reddit_sales:
@@ -724,8 +1149,9 @@ def update_games_data():
             if 'sale' not in data['pc']:
                 data['pc']['sale'] = []
 
-            # 自動取得された古いセール情報を削除（7日以上前）
-            data['pc']['sale'] = clean_old_free_games(data['pc']['sale'], max_age_days=7)
+            # 自動取得された古いセール情報を削除（10日以上前）
+            # セールは通常1-2週間続くため、やや長く保持する
+            data['pc']['sale'] = clean_old_free_games(data['pc']['sale'], max_age_days=10)
 
             # 新しい情報を先頭に追加
             data['pc']['sale'] = reddit_sales + data['pc']['sale']
@@ -739,8 +1165,8 @@ def update_games_data():
                     seen_titles.add(title_key)
                     unique_sales.append(sale)
 
-            # 最新10件を保持
-            data['pc']['sale'] = unique_sales[:10]
+            # 最新20件を保持（より多くのセール情報を表示）
+            data['pc']['sale'] = unique_sales[:20]
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

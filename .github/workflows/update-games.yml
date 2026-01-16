@@ -2,8 +2,9 @@ name: Update Game Deals Daily
 
 on:
   schedule:
-    # 毎日日本時間の朝9時に実行（UTC 0時）
-    - cron: '0 0 * * *'
+    # 毎日日本時間の朝9時と夜9時に実行（UTC 0時と12時）
+    - cron: '0 0 * * *'   # 日本時間 朝9時
+    - cron: '0 12 * * *'  # 日本時間 夜9時
   workflow_dispatch:  # 手動実行も可能
 
 permissions:

@@ -48,5 +48,14 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add games-data.json
           git commit -m "🎮 自動更新: 無料/バンドル/セール/レビュー記事を更新 ($(date +'%Y-%m-%d'))"
-          git pull --rebase origin main
+
+          # リモートの変更を取得してマージ（コンフリクト時はローカルを優先）
+          git fetch origin main
+          git merge origin/main -X ours --no-edit || {
+            echo "Merge conflict detected, resolving with local version..."
+            git checkout --ours games-data.json
+            git add games-data.json
+            git commit --no-edit -m "🎮 自動更新: 無料/バンドル/セール/レビュー記事を更新 ($(date +'%Y-%m-%d'))"
+          }
+
           git push

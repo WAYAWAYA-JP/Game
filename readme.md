@@ -51,14 +51,19 @@ https://WAYAWAYA-JP.github.io/Game/
 pip install -r requirements.txt
 ```
 
-**DeepL API（推奨）**: 英語記事を高品質な日本語に翻訳するために、DeepL APIの利用を推奨します。
+**Gemini API（推奨）**: 英語記事を高品質な日本語に翻訳するために、Google Gemini APIの利用を推奨します。
 
-1. [DeepL API](https://www.deepl.com/pro-api)でAPIキーを取得（無料プランあり）
+1. [Google AI Studio](https://aistudio.google.com/app/apikey)でAPIキーを取得（**完全無料**）
 2. `.env`ファイルを作成して、以下を記述：
    ```
-   DEEPL_API_KEY=your_deepl_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
 3. APIキーがない場合、翻訳はスキップされますが、他の機能は正常に動作します。
+
+**Gemini APIの利点**:
+- 完全無料で高品質な翻訳
+- Googleアカウントがあればすぐに取得可能
+- ゲーム記事に最適化された自然な日本語訳
 
 ### 自動取得される情報
 

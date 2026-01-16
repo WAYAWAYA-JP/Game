@@ -25,24 +25,28 @@ except ImportError:
     print("インストールするには: pip install feedparser")
     feedparser = None
 
-# DeepL APIの初期化
+# Gemini APIの初期化
 try:
-    import deepl
-    DEEPL_API_KEY = os.getenv('DEEPL_API_KEY')
-    if DEEPL_API_KEY:
-        translator = deepl.Translator(DEEPL_API_KEY)
-        print("✅ DeepL API接続成功")
+    import google.generativeai as genai
+    GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
+    if GEMINI_API_KEY:
+        genai.configure(api_key=GEMINI_API_KEY)
+        translator = genai.GenerativeModel('gemini-2.0-flash-exp')
+        print("✅ Gemini API接続成功")
     else:
         translator = None
-        print("警告: DEEPL_API_KEYが設定されていません。翻訳をスキップします。")
-        print("設定するには: .envファイルにDEEPL_API_KEY=your_api_keyを追加してください")
+        print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")
+        print("設定するには: .envファイルにGEMINI_API_KEY=your_api_keyを追加してください")
 except ImportError:
-    print("警告: deeplパッケージがインストールされていません。翻訳をスキップします。")
-    print("インストールするには: pip install deepl")
+    print("警告: google-generativeaiパッケージがインストールされていません。翻訳をスキップします。")
+    print("インストールするには: pip install google-generativeai")
+    translator = None
+except Exception as e:
+    print(f"警告: Gemini API初期化エラー: {e}")
     translator = None
 
 def translate_to_japanese(text, max_retries=3):
-    """DeepL APIで英語テキストを日本語に翻訳"""
+    """Gemini APIで英語テキストを日本語に翻訳"""
     if not translator or not text:
         return text
 
@@ -54,14 +58,21 @@ def translate_to_japanese(text, max_retries=3):
         # 翻訳実行（リトライ機能付き）
         for attempt in range(max_retries):
             try:
-                # DeepL APIで翻訳（より自然な日本語に）
-                result = translator.translate_text(text, target_lang="JA")
-                return result.text
+                # Gemini APIで翻訳（より自然な日本語に）
+                prompt = f"""以下の英語テキストを自然な日本語に翻訳してください。
+ゲーム記事の翻訳なので、ゲーマーに伝わりやすい表現を使用してください。
+翻訳結果のみを出力し、説明や注釈は不要です。
+
+英語テキスト:
+{text}"""
+
+                response = translator.generate_content(prompt)
+                return response.text.strip()
             except Exception as e:
                 if attempt < max_retries - 1:
                     print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
                     import time
-                    time.sleep(1)  # 1秒待機
+                    time.sleep(2)  # 2秒待機（Gemini APIのレート制限対策）
                 else:
                     raise e
     except Exception as e:

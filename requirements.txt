@@ -1,5 +1,5 @@
 requests
 feedparser
 beautifulsoup4
-deepl
+google-generativeai
 python-dotenv

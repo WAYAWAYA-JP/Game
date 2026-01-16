@@ -499,6 +499,7 @@ def fetch_reddit_bundles():
                         post_data = post['data']
                         title = post_data.get('title', '')
                         url_link = post_data.get('url', '')
+                        selftext = post_data.get('selftext', '')  # 投稿本文を取得
                         title_lower = title.lower()
 
                         # バンドルを示すキーワード（拡充）
@@ -528,11 +529,25 @@ def fetch_reddit_bundles():
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
                         if platform and platform_url:
+                            # 投稿本文からゲーム名を抽出（最初の500文字まで）
+                            description = f"{platform}でお得なバンドルが登場！"
+
+                            if selftext and len(selftext) > 20:
+                                # 改行を削除して読みやすく
+                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
+                                # 過度に長い場合は切り詰め
+                                if len(cleaned_text) > 400:
+                                    cleaned_text = cleaned_text[:400] + "..."
+                                description = cleaned_text
+                            else:
+                                # selftextがない場合は、タイトルから情報を抽出
+                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！詳細はリンク先でご確認ください。"
+
                             bundles.append({
                                 "title": bundle_title,
                                 "platform": platform,
                                 "type": "bundle",
-                                "description": f"{platform}でお得なバンドルが登場！複数のゲームがセットになった特別価格。詳細はリンク先でご確認ください。",
+                                "description": description,
                                 "price": "お得価格",
                                 "originalPrice": "",
                                 "discount": "",
@@ -686,6 +701,7 @@ def fetch_reddit_sales():
                         post_data = post['data']
                         title = post_data.get('title', '')
                         url_link = post_data.get('url', '')
+                        selftext = post_data.get('selftext', '')  # 投稿本文を取得
                         title_lower = title.lower()
 
                         # セールを示すキーワード（バンドルと無料は除外）
@@ -720,11 +736,25 @@ def fetch_reddit_sales():
                             platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
 
                         if platform and platform_url:
+                            # 投稿本文からセールの詳細を抽出（最初の300文字まで）
+                            description = f"{platform}でセール開催中！"
+
+                            if selftext and len(selftext) > 20:
+                                # 改行を削除して読みやすく
+                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
+                                # 過度に長い場合は切り詰め
+                                if len(cleaned_text) > 300:
+                                    cleaned_text = cleaned_text[:300] + "..."
+                                description = cleaned_text
+                            else:
+                                # selftextがない場合は、タイトルから情報を活用
+                                description = f"{platform}でセール開催中！{title}。詳細はリンク先でご確認ください。"
+
                             sales.append({
                                 "title": title,
                                 "platform": platform,
                                 "type": "sale",
-                                "description": f"{platform}でセール開催中！お得な価格でゲームを入手できるチャンス。詳細はリンク先でご確認ください。",
+                                "description": description,
                                 "price": "セール中",
                                 "originalPrice": "",
                                 "discount": "",

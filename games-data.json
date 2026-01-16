@@ -90,18 +90,6 @@
         "date": "2026-01-16"
       },
       {
-        "title": "Asus TUF Gaming A16 (2025) review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "（翻訳推奨）Big, hot, and just a little too expensive.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-2025-review/",
-        "date": "2026-01-16"
-      },
-      {
         "title": "Rockstar launch official roleplay mods store where you can spend $67 to turn GTA into Euro Truck Simulator 2",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -231,5 +219,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T00:41:33.452393"
+  "last_updated": "2026-01-16T00:53:19.463510"
 }

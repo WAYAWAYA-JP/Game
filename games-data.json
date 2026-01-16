@@ -32,7 +32,7 @@
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Build Your Own Best of Indie Legends Bundle (New Year 2026)   Number of Titles GBP USD EUR CAD AUD RUB JPY    2  £ 4.99  $ 4.99  € 4.99  $ 6.99  $ 8.20  470 ₽ ¥870   4  £ 8.99  $ 8.99  € 8.99  $ 12.39  $ 14.79  840 ₽ ¥1,560   7  £ 13.99  $ 13.99  € 13.99  $ 19.49  $ 22.99  1,300 ₽ ¥2,450   Price per item*   Tier GBP USD EUR CAD AUD RUB JPY    1  £ 2.50  $ 2.50  € 2.50  $ 3.50  $ 4.10  235 ₽ ¥435  ...",
-        "price": "お得価格",
+        "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -43,8 +43,8 @@
         "title": "[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "      &#32; submitted by &#32;  /u/LighteningOneIN   [link] &#32; [comments] ",
-        "price": "お得価格",
+        "description": "Humble Bundleでお得なバンドル「[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
+        "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -56,7 +56,7 @@
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "I recently built a small project that tries to estimate when games might appear on Subscription services. Initially it only supported PlayStation Plus, Gamepass, or the Epic Games Store giveaways. But now I've added Humble Choice. The tool uses python logic and models trained on historical giveaway data from 2010 to Early January 2026 to give estimates on when games might drop on subscription serv...",
-        "price": "お得価格",
+        "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -68,7 +68,7 @@
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "      We’ve just put up the latest episode of Humble Talk, where we sit down and chat through this month’s Humble Choice bundle. Is Frontier the best modern Sonic game? Can Metal Slug succeed as a roguelite tactics? And can you ever have too many remasters? (The answer is yes). These discussions and more in the latest episode of Humble Talk!  &#32; submitted by &#32;  /u/DeckusHeadus   [link] &#32...",
-        "price": "お得価格",
+        "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -79,8 +79,8 @@
         "title": "Humble RPG Bundle: So You Wanna Try Out Call of Cthulhu by Chaosium (pay what you want and help charity)",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "&#32; submitted by &#32;  /u/Ram000n   [link] &#32; [comments]",
-        "price": "お得価格",
+        "description": "Humble Bundleでお得なバンドル「Humble RPG Bundle: So You Wanna Try Out Call of Cthulhu by Chaosium (pay what you want and help charity)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
+        "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -123,19 +123,21 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/work-work-work-20260116-407264/",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": false
       },
       {
         "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』先行プレイ感想。「懐かしさ」よりも「新しさ」が印象的、新しい沖縄、新コンテンツを通じた、新しい物語体験",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が、この令和の時代、いかに「極クオリティ」へ至ったのか。現時点で判明している作品の内容を紹介する。",
+        "description": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が、この令和の時代、いかに「極クオリティ」へ至ったのか。現時点で判明している作品の内容を紹介する。 AUTOMATONによる詳細なレビュー記事。実際にプレイした感想や評価をご覧いただけます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/yakuza-kiwami-3-20260116-407114/",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": false
       },
       {
         "title": "高評価ステルスアクション『Styx』シリーズ2作まとめて無料配布中、Epic Gamesストアにて。合計約4000円分のゲームが今ならタダ",
@@ -147,7 +149,8 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260116-406903/",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": false
       },
       {
         "title": "Tarsier StudiosとTHQ Nordicが「REANIMAL」向けのフレンドパス導入を予告、発売は2026年2月13日",
@@ -159,43 +162,47 @@
         "discount": "",
         "deadline": "",
         "url": "https://doope.jp/2026/01163359.html",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": false
       },
       {
-        "title": "【翻訳概要】Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払って GTA を Euro Truck Simulator 2 に変えることができる",
+        "title": "Rockstar launch official roleplay mods store where you can spend $67 to turn GTA into Euro Truck Simulator 2",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 5 を釣りシミュレーターにするために 67 ポンド/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
+        "description": " If you've ever wanted to spend somewhere in the region of $67/&pound;50 to turn GTA 5 into a fishing simulator, today's your lucky day. Rockstar-partnered GTA roleplaying server operators Cfx.re - the folks behind FiveM and RedM - have launched the Cfx Marketplace, a store where you can buy a bunch",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/rockstar-launch-official-roleplay-mods-store-where-you-can-spend-67-to-turn-gta-into-euro-truck-simulator-2",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": true
       },
       {
-        "title": "【翻訳概要】Steam デッキで Hytale をプレイするには、古典的な PC の苦労が必要ですが、その努力は報われます",
+        "title": "Playing Hytale on the Steam Deck takes some classic PC spannering, but the effort is rewarded",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "早期アクセス リリースの直前まで、Hytale が Steam Deck 対応のポータビリティを実現する可能性は誰にも予想できませんでした。ブロック状のサンドボックスの開発者である Hypixel でさえ自信がなかったようで、SteamOS フレンドリーなネイティブ Linux バージョンを発表しましたが (良いことです!)、実際の Steam リリースは見送りました (あまり良くありません!)。",
+        "description": " \nRight up until its early access release, Hytale&rsquo;s chances of Steam Deck-enabled portability were anyone&rsquo;s guess. Even the blocky sandbox&rsquo;s developers Hypixel seemed unsure, announcing a SteamOS-friendly native Linux version (good!) but forgoing an actual Steam release (less good!",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/hytale-steam-deck-performance-settings",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": true
       },
       {
-        "title": "【翻訳概要】サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
+        "title": "The Elder Scrolls 6 in the Summerset Isles would be cool, or so recently unearthed Daggerfall-era dev D&D notes have convinced me",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
+        "description": " As someone who admittedly struggles to feel at home whenever I try to go back and play the older Elder Scrolls entries, I'm surprised how fun I've found reading through some notes from a D&amp;D game some devs on the series played around the time of Daggerfall's development. Said notes have just be",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-in-the-summerset-isles-would-be-cool-or-so-recently-unearthed-daggerfall-era-dev-dd-notes-have-convinced-me",
-        "date": "2026-01-16"
+        "date": "2026-01-16",
+        "is_translated": true
       }
     ],
     "sale": [
@@ -204,7 +211,7 @@
         "platform": "Steam",
         "type": "sale",
         "description": "      &#32; submitted by &#32;  /u/Minnesota_Arouser   [link] &#32; [comments] ",
-        "price": "セール中",
+        "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -216,7 +223,7 @@
         "platform": "Steam",
         "type": "sale",
         "description": "      &#32; submitted by &#32;  /u/QuantumOdysseyGame   [link] &#32; [comments] ",
-        "price": "セール中",
+        "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -228,7 +235,7 @@
         "platform": "Steam",
         "type": "sale",
         "description": "      &#32; submitted by &#32;  /u/ThePie86   [link] &#32; [comments] ",
-        "price": "セール中",
+        "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -339,5 +346,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T06:33:11.127871"
+  "last_updated": "2026-01-16T06:42:56.887843"
 }

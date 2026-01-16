@@ -10,6 +10,14 @@ from datetime import datetime
 import sys
 import re
 from urllib.parse import urlparse
+import os
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()  # .envファイルから環境変数を読み込み
+except ImportError:
+    print("警告: python-dotenvがインストールされていません")
+
 try:
     import feedparser
 except ImportError:
@@ -17,16 +25,28 @@ except ImportError:
     print("インストールするには: pip install feedparser")
     feedparser = None
 
+# Gemini APIの初期化
 try:
-    from deep_translator import GoogleTranslator
-    translator = GoogleTranslator(source='en', target='ja')
+    import google.generativeai as genai
+    GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
+    if GEMINI_API_KEY:
+        genai.configure(api_key=GEMINI_API_KEY)
+        translator = genai.GenerativeModel('gemini-2.0-flash-exp')
+        print("✅ Gemini API接続成功")
+    else:
+        translator = None
+        print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")
+        print("設定するには: .envファイルにGEMINI_API_KEY=your_api_keyを追加してください")
 except ImportError:
-    print("警告: deep-translatorがインストールされていません。英語記事の翻訳をスキップします。")
-    print("インストールするには: pip install deep-translator")
+    print("警告: google-generativeaiパッケージがインストールされていません。翻訳をスキップします。")
+    print("インストールするには: pip install google-generativeai")
+    translator = None
+except Exception as e:
+    print(f"警告: Gemini API初期化エラー: {e}")
     translator = None
 
 def translate_to_japanese(text, max_retries=3):
-    """英語テキストを日本語に翻訳"""
+    """Gemini APIで英語テキストを日本語に翻訳"""
     if not translator or not text:
         return text
 
@@ -38,13 +58,21 @@ def translate_to_japanese(text, max_retries=3):
         # 翻訳実行（リトライ機能付き）
         for attempt in range(max_retries):
             try:
-                translated = translator.translate(text)
-                return translated
+                # Gemini APIで翻訳（より自然な日本語に）
+                prompt = f"""以下の英語テキストを自然な日本語に翻訳してください。
+ゲーム記事の翻訳なので、ゲーマーに伝わりやすい表現を使用してください。
+翻訳結果のみを出力し、説明や注釈は不要です。
+
+英語テキスト:
+{text}"""
+
+                response = translator.generate_content(prompt)
+                return response.text.strip()
             except Exception as e:
                 if attempt < max_retries - 1:
                     print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
                     import time
-                    time.sleep(1)  # 1秒待機
+                    time.sleep(2)  # 2秒待機（Gemini APIのレート制限対策）
                 else:
                     raise e
     except Exception as e:
@@ -538,25 +566,39 @@ def fetch_reddit_bundles():
                         platform_url = 'https://store.steampowered.com/'
 
                     if platform and platform_url:
-                        # RSSのsummaryから詳細情報を抽出
+                        # RSSのsummaryから詳細情報とゲームタイトルを抽出
                         description = f"{platform}でお得なバンドルが登場！"
+                        game_titles = []
 
                         if summary and len(summary) > 20:
                             # HTMLタグを削除
                             summary_clean = re.sub(r'<[^>]+>', '', summary)
                             cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
-                            if len(cleaned_text) > 400:
-                                cleaned_text = cleaned_text[:400] + "..."
-                            description = cleaned_text
+
+                            # ゲームタイトルを抽出（一般的なパターン）
+                            # "Game1, Game2, Game3" や "- Game1 - Game2" などのパターンを検出
+                            if len(cleaned_text) > 100:
+                                # 長い説明文の場合、最初の400文字を使用
+                                if len(cleaned_text) > 400:
+                                    cleaned_text = cleaned_text[:400] + "..."
+
+                                # 翻訳して人間的な説明に
+                                if translator:
+                                    translated_desc = translate_to_japanese(cleaned_text)
+                                    description = f"{translated_desc}"
+                                else:
+                                    description = cleaned_text
+                            else:
+                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。"
                         else:
-                            description = f"{platform}でお得なバンドル「{bundle_title}」が登場！詳細はリンク先でご確認ください。"
+                            description = f"{platform}でお得なバンドル「{bundle_title}」が登場！人気ゲームがセットで手に入るチャンスです。詳細はリンク先でご確認ください。"
 
                         bundles.append({
                             "title": bundle_title,
                             "platform": platform,
                             "type": "bundle",
                             "description": description,
-                            "price": "お得価格",
+                            "price": "バンドル価格",
                             "originalPrice": "",
                             "discount": "",
                             "deadline": "期間限定",
@@ -635,7 +677,7 @@ def fetch_reddit_bundles_json():
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
                         if platform and platform_url:
-                            # 投稿本文からゲーム名を抽出（最初の500文字まで）
+                            # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
 
                             if selftext and len(selftext) > 20:
@@ -644,17 +686,23 @@ def fetch_reddit_bundles_json():
                                 # 過度に長い場合は切り詰め
                                 if len(cleaned_text) > 400:
                                     cleaned_text = cleaned_text[:400] + "..."
-                                description = cleaned_text
+
+                                # 英語の説明文を翻訳
+                                if translator and cleaned_text:
+                                    translated_desc = translate_to_japanese(cleaned_text)
+                                    description = f"{translated_desc}"
+                                else:
+                                    description = cleaned_text
                             else:
                                 # selftextがない場合は、タイトルから情報を抽出
-                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！詳細はリンク先でご確認ください。"
+                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！人気タイトルがセットになった期間限定オファー。この機会をお見逃しなく。"
 
                             bundles.append({
                                 "title": bundle_title,
                                 "platform": platform,
                                 "type": "bundle",
                                 "description": description,
-                                "price": "お得価格",
+                                "price": "バンドル価格",
                                 "originalPrice": "",
                                 "discount": "",
                                 "deadline": "期間限定",
@@ -850,24 +898,40 @@ def fetch_reddit_sales():
                         platform_url = 'https://www.humblebundle.com/'
 
                     if platform and platform_url:
+                        # タイトルを日本語化（英語の場合）
+                        japanese_title = title
+                        if translator and title:
+                            # タイトルに英語が多く含まれる場合は翻訳
+                            if any(c.isalpha() and ord(c) < 128 for c in title):
+                                try:
+                                    japanese_title = translate_to_japanese(title)
+                                except:
+                                    japanese_title = title
+
                         # RSSのsummaryから詳細情報を抽出
-                        description = f"{platform}でセール開催中！"
+                        description = f"{platform}でお得なセールが開催中！"
 
                         if summary and len(summary) > 20:
                             summary_clean = re.sub(r'<[^>]+>', '', summary)
                             cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
                             if len(cleaned_text) > 300:
                                 cleaned_text = cleaned_text[:300] + "..."
-                            description = cleaned_text
+
+                            # 英語の説明文を翻訳
+                            if translator:
+                                translated_desc = translate_to_japanese(cleaned_text)
+                                description = f"{translated_desc}"
+                            else:
+                                description = cleaned_text
                         else:
-                            description = f"{platform}でセール開催中！{title}。詳細はリンク先でご確認ください。"
+                            description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。詳細はリンク先でご確認ください。"
 
                         sales.append({
-                            "title": title,
+                            "title": japanese_title,
                             "platform": platform,
                             "type": "sale",
                             "description": description,
-                            "price": "セール中",
+                            "price": "セール価格",
                             "originalPrice": "",
                             "discount": "",
                             "deadline": "期間限定",
@@ -951,8 +1015,18 @@ def fetch_reddit_sales_json():
                             platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
 
                         if platform and platform_url:
-                            # 投稿本文からセールの詳細を抽出（最初の300文字まで）
-                            description = f"{platform}でセール開催中！"
+                            # タイトルを日本語化
+                            japanese_title = title
+                            if translator and title:
+                                # タイトルに英語が多く含まれる場合は翻訳
+                                if any(c.isalpha() and ord(c) < 128 for c in title):
+                                    try:
+                                        japanese_title = translate_to_japanese(title)
+                                    except:
+                                        japanese_title = title
+
+                            # 投稿本文からセールの詳細を抽出
+                            description = f"{platform}でお得なセールが開催中！"
 
                             if selftext and len(selftext) > 20:
                                 # 改行を削除して読みやすく
@@ -960,17 +1034,23 @@ def fetch_reddit_sales_json():
                                 # 過度に長い場合は切り詰め
                                 if len(cleaned_text) > 300:
                                     cleaned_text = cleaned_text[:300] + "..."
-                                description = cleaned_text
+
+                                # 英語の説明文を翻訳
+                                if translator:
+                                    translated_desc = translate_to_japanese(cleaned_text)
+                                    description = f"{translated_desc}"
+                                else:
+                                    description = cleaned_text
                             else:
                                 # selftextがない場合は、タイトルから情報を活用
-                                description = f"{platform}でセール開催中！{title}。詳細はリンク先でご確認ください。"
+                                description = f"{platform}でお得なセールが開催中！期間限定の特別価格。この機会をお見逃しなく。"
 
                             sales.append({
-                                "title": title,
+                                "title": japanese_title,
                                 "platform": platform,
                                 "type": "sale",
                                 "description": description,
-                                "price": "セール中",
+                                "price": "セール価格",
                                 "originalPrice": "",
                                 "discount": "",
                                 "deadline": "期間限定",
@@ -1137,21 +1217,35 @@ def fetch_review_articles():
                                 print(f"    翻訳中: {title[:40]}...")
                                 translated_title = translate_to_japanese(title)
 
-                                # 説明文を翻訳
-                                if summary_clean:
+                                # 説明文を翻訳して充実化
+                                if summary_clean and len(summary_clean) > 50:
+                                    # より長い説明文を生成
                                     translated_summary = translate_to_japanese(summary_clean)
-                                    description = translated_summary
-                                else:
-                                    description = f"{translated_title}の詳細記事です。"
+                                    # 人間的な表現を追加
+                                    description = f"{translated_summary}"
 
-                                # 翻訳されたタイトルに【翻訳概要】バッジを追加
-                                title = f"【翻訳概要】{translated_title}"
+                                    # 説明文が短すぎる場合は補足
+                                    if len(description) < 100:
+                                        description += f" {feed_info['platform']}による詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。"
+                                else:
+                                    description = f"{translated_title}について、{feed_info['platform']}が詳しくレビュー。ゲームプレイの感想や評価ポイントをチェックできます。"
+
+                                # 翻訳バッジを追加（タイトルではなくメタデータとして）
+                                final_title = translated_title
                             else:
-                                # 日本語記事はそのまま
-                                description = summary_clean if summary_clean else f"{title}の詳細記事です。"
+                                # 日本語記事はそのまま、ただし説明文を充実化
+                                if summary_clean and len(summary_clean) > 50:
+                                    description = summary_clean
+                                    # 短い場合は補足
+                                    if len(description) < 100:
+                                        description += f" {feed_info['platform']}による詳細なレビュー記事。実際にプレイした感想や評価をご覧いただけます。"
+                                else:
+                                    description = f"{title}の詳細レビュー記事です。{feed_info['platform']}による実プレイレポートをお届けします。"
+
+                                final_title = title
 
                             review_articles.append({
-                                "title": title,
+                                "title": final_title,
                                 "platform": feed_info['platform'],
                                 "type": "review",
                                 "description": description,
@@ -1160,11 +1254,12 @@ def fetch_review_articles():
                                 "discount": "",
                                 "deadline": "",
                                 "url": link,
-                                "date": current_date
+                                "date": current_date,
+                                "is_translated": feed_info['lang'] == 'en'  # 翻訳済みフラグ
                             })
 
                             articles_from_this_feed += 1
-                            print(f"    ✓ レビュー記事を発見: {title[:50]}...")
+                            print(f"    ✓ レビュー記事を発見: {final_title[:50]}...")
 
                             # 各フィードから最大3件まで（2件→3件に拡大）
                             if articles_from_this_feed >= 3:

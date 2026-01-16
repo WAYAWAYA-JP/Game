@@ -43,6 +43,28 @@ https://WAYAWAYA-JP.github.io/Game/
 
 このサイトは毎日自動的に最新のゲーム情報を取得します。
 
+### セットアップ
+
+自動更新を有効にするには、以下のパッケージをインストールしてください：
+
+```bash
+pip install -r requirements.txt
+```
+
+**Gemini API（推奨）**: 英語記事を高品質な日本語に翻訳するために、Google Gemini APIの利用を推奨します。
+
+1. [Google AI Studio](https://aistudio.google.com/app/apikey)でAPIキーを取得（**完全無料**）
+2. `.env`ファイルを作成して、以下を記述：
+   ```
+   GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+3. APIキーがない場合、翻訳はスキップされますが、他の機能は正常に動作します。
+
+**Gemini APIの利点**:
+- 完全無料で高品質な翻訳
+- Googleアカウントがあればすぐに取得可能
+- ゲーム記事に最適化された自然な日本語訳
+
 ### 自動取得される情報
 
 1. **Epic Games 無料配布ゲーム** (公式API)

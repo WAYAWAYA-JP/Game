@@ -773,6 +773,31 @@
             const platformClass = 'badge-' + normalizePlatform(game.platform);
             const typeClass = 'type-' + game.type;
 
+            // タイプバッジのテキストを設定
+            let typeBadgeText = '';
+            switch(game.type) {
+                case 'free':
+                    typeBadgeText = '無料';
+                    break;
+                case 'sale':
+                    typeBadgeText = 'セール';
+                    break;
+                case 'bundle':
+                    typeBadgeText = 'バンドル';
+                    break;
+                case 'review':
+                    typeBadgeText = 'レビュー';
+                    break;
+                default:
+                    typeBadgeText = game.type;
+            }
+
+            // 翻訳バッジを追加（レビュー記事で翻訳済みの場合）
+            let translationBadge = '';
+            if (game.is_translated) {
+                translationBadge = '<span class="translation-badge">翻訳</span>';
+            }
+
             let priceHtml = '';
             if (game.price) {
                 priceHtml = `<div class="deal-price">${game.price}</div>`;
@@ -790,7 +815,8 @@
                 <div class="deal-card">
                     <div class="deal-header">
                         <span class="platform-badge ${platformClass}">${game.platform}</span>
-                        <span class="deal-type ${typeClass}">${game.type === 'free' ? '無料' : 'セール'}</span>
+                        <span class="deal-type ${typeClass}">${typeBadgeText}</span>
+                        ${translationBadge}
                     </div>
                     ${game.date ? `<div class="deal-date">📅 ${game.date}</div>` : ''}
                     <div class="deal-title">${game.title}</div>

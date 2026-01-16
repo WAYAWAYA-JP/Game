@@ -28,9 +28,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml feedparser deep-translator
+          pip install -r requirements.txt
 
       - name: Run update script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/update-deals.py
 
       - name: Check for changes

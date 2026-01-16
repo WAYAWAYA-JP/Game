@@ -28,16 +28,16 @@
     ],
     "bundle": [
       {
-        "title": "Humble Choice 1月号 - 8本以上のゲームがお得に",
+        "title": "Bundles",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "今月のHumble Choiceには『Control Ultimate Edition』『Maneater』などの人気タイトルが登場！月額1,280円で8本以上のゲームが遊び放題。さらにHumble Store全品10〜20%オフの特典付き。いつでもキャンセル可能です。",
-        "price": "¥1,280/月",
-        "originalPrice": "通常購入なら10,000円以上",
-        "discount": "90%以上お得",
-        "deadline": "2026年1月31日まで",
-        "url": "https://www.humblebundle.com/membership",
-        "date": "2026-01-01"
+        "description": "Humble BundleでBundlesが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-01-16"
       },
       {
         "title": "Fanatical Platinum Collection - 20本入りバンドル",
@@ -90,10 +90,22 @@
         "date": "2026-01-16"
       },
       {
-        "title": "Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払って GTA を Euro Truck Simulator 2 に変えることができる",
+        "title": "Tarsier StudiosとTHQ Nordicが「REANIMAL」向けのフレンドパス導入を予告、発売は2026年2月13日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、国内外でNintendo Switch 2向け体験版の配信が開始された期待作「REANIMAL」ですが、2026年2月13日のローンチが迫るなか、新たにTarsier StudiosとTHQ Nordicがフレンド [&#8230;]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163359.html",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "【翻訳概要】Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払えば GTA を Euro Truck Simulator 2 に変えることができます",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 5 を釣りシミュレーターにするために 67 ポンド/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
+        "description": "GTA 5 を釣りシミュレーターにするために 67 ドル/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、大量の商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -102,7 +114,7 @@
         "date": "2026-01-16"
       },
       {
-        "title": "Steam デッキで Hytale をプレイするには、古典的な PC の苦労が必要ですが、その努力は報われます",
+        "title": "【翻訳概要】Steam デッキで Hytale をプレイするには、古典的な PC の苦労が必要ですが、その努力は報われます",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "早期アクセス リリースの直前まで、Hytale が Steam Deck 対応のポータビリティを実現する可能性は誰にも予想できませんでした。ブロック状のサンドボックスの開発者である Hypixel でさえ自信がなかったようで、SteamOS フレンドリーなネイティブ Linux バージョンを発表しましたが (良いことです!)、実際の Steam リリースは見送りました (あまり良くありません!)。",
@@ -114,7 +126,7 @@
         "date": "2026-01-16"
       },
       {
-        "title": "サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
+        "title": "【翻訳概要】サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
@@ -219,5 +231,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T01:11:24.093262"
+  "last_updated": "2026-01-16T01:37:12.530763"
 }

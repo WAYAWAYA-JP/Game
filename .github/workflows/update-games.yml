@@ -27,7 +27,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml feedparser
+          pip install requests beautifulsoup4 lxml feedparser deep-translator
 
       - name: Run update script
         run: python scripts/update-deals.py

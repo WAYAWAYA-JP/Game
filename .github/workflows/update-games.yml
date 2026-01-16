@@ -17,7 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: claude/game-deals-curation-AMQlx
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 

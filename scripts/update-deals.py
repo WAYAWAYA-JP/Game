@@ -369,9 +369,40 @@ def fetch_review_articles():
         review_articles = []
         current_date = datetime.now().strftime("%Y-%m-%d")
 
-        # レビュー判定キーワード
-        review_keywords_ja = ['レビュー', 'プレビュー', '評価', 'インプレッション', 'プレイレポート', 'レポート']
-        review_keywords_en = ['review', 'preview', 'impression', 'hands-on', 'first look']
+        # レビュー判定キーワード（拡充）
+        review_keywords_ja = [
+            'レビュー', 'プレビュー', '評価', 'インプレッション', 'プレイレポート',
+            'レポート', 'プレイ日記', '先行プレイ', '体験版', 'ハンズオン',
+            'プレイ感想', 'インプレ', 'クイックレビュー', 'プレイしてみた'
+        ]
+        review_keywords_en = [
+            'review', 'preview', 'impression', 'hands-on', 'first look',
+            'early access', 'playtest', 'gameplay', 'first impression',
+            'tested', 'played', 'playing', 'impressions'
+        ]
+
+        # ゲーム関連キーワード（ゲームではない記事を除外するため）
+        game_keywords_ja = [
+            'ゲーム', 'PC版', 'Steam', 'PS5', 'PS4', 'Xbox', 'Switch',
+            'リリース', '配信', '発売', 'RPG', 'アクション', 'シミュレーション',
+            'ストラテジー', 'アドベンチャー', 'パズル', 'FPS', 'TPS',
+            'インディー', 'DLC', 'アップデート', 'タイトル', 'プレイヤー',
+            '早期アクセス', 'ベータ'
+        ]
+        game_keywords_en = [
+            'game', 'gaming', 'pc version', 'steam', 'playstation', 'xbox',
+            'nintendo', 'switch', 'release', 'launch', 'rpg', 'action',
+            'simulation', 'strategy', 'adventure', 'puzzle', 'fps', 'tps',
+            'indie', 'dlc', 'update', 'title', 'player', 'early access',
+            'beta', 'multiplayer', 'singleplayer'
+        ]
+
+        # ハードウェア関連キーワード（除外用）
+        hardware_keywords = [
+            'cpu', 'gpu', 'graphics card', 'processor', 'motherboard', 'case',
+            'cooling', 'corsair', 'nvidia', 'amd', 'intel', 'monitor', 'mouse',
+            'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply'
+        ]
 
         # 各ゲームメディアのRSSフィード
         rss_feeds = [
@@ -412,53 +443,89 @@ def fetch_review_articles():
                 print(f"  {feed_info['platform']}のRSSフィードを取得中...")
                 feed = feedparser.parse(feed_info['url'])
 
-                # フィード内の記事をチェック（最新20件）
-                for entry in feed.entries[:20]:
+                if not feed.entries:
+                    print(f"  {feed_info['platform']}: 記事が見つかりませんでした")
+                    continue
+
+                # フィード内の記事をチェック（最新30件に拡大）
+                articles_from_this_feed = 0
+                for entry in feed.entries[:30]:
                     title = entry.get('title', '')
                     link = entry.get('link', '')
                     summary = entry.get('summary', '') or entry.get('description', '')
 
                     # HTMLタグを削除
-                    summary_clean = re.sub(r'<[^>]+>', '', summary)[:200]
+                    summary_clean = re.sub(r'<[^>]+>', '', summary)[:300]
 
-                    # タイトルにレビュー関連のキーワードが含まれているかチェック
+                    # タイトルと要約を検索対象に
                     title_lower = title.lower()
-                    is_review = False
+                    summary_lower = summary_clean.lower()
+                    full_text_lower = f"{title_lower} {summary_lower}"
 
+                    # ハードウェアレビューを除外
+                    is_hardware = any(hw in title_lower for hw in hardware_keywords)
+                    if is_hardware:
+                        continue
+
+                    # レビュー関連のキーワードチェック（タイトルまたは要約）
+                    is_review = False
                     if feed_info['lang'] == 'ja':
-                        is_review = any(keyword in title for keyword in review_keywords_ja)
+                        is_review = any(keyword in title or keyword in summary_clean for keyword in review_keywords_ja)
                     else:
-                        is_review = any(keyword in title_lower for keyword in review_keywords_en)
+                        is_review = any(keyword in full_text_lower for keyword in review_keywords_en)
+
+                    # ゲーム関連かチェック（より緩い判定）
+                    is_game_related = False
+                    if feed_info['lang'] == 'ja':
+                        is_game_related = any(keyword in title or keyword in summary_clean for keyword in game_keywords_ja)
+                    else:
+                        is_game_related = any(keyword in full_text_lower for keyword in game_keywords_en)
+
+                    # レビュー記事かつゲーム関連の場合のみ追加
+                    # ただし、ゲーム専門メディア（AUTOMATON、doope!など）の場合は
+                    # レビューキーワードがあれば基本的にゲーム関連と判断
+                    game_focused_media = ['AUTOMATON', 'doope!', 'インサイド', 'Rock Paper Shotgun', 'Polygon']
 
                     if is_review and link:
-                        # 英語記事には説明文に「翻訳推奨」を追加
-                        description_prefix = "（翻訳推奨）" if feed_info['lang'] == 'en' else ""
-                        description = description_prefix + (summary_clean if summary_clean else f"{title}の詳細記事です。")
+                        if feed_info['platform'] in game_focused_media or is_game_related:
+                            # 英語記事には説明文に「翻訳推奨」を追加
+                            description_prefix = "（翻訳推奨）" if feed_info['lang'] == 'en' else ""
+                            description = description_prefix + (summary_clean if summary_clean else f"{title}の詳細記事です。")
 
-                        review_articles.append({
-                            "title": title,
-                            "platform": feed_info['platform'],
-                            "type": "review",
-                            "description": description,
-                            "price": "",
-                            "originalPrice": "",
-                            "discount": "",
-                            "deadline": "",
-                            "url": link,
-                            "date": current_date
-                        })
+                            review_articles.append({
+                                "title": title,
+                                "platform": feed_info['platform'],
+                                "type": "review",
+                                "description": description,
+                                "price": "",
+                                "originalPrice": "",
+                                "discount": "",
+                                "deadline": "",
+                                "url": link,
+                                "date": current_date
+                            })
 
-                        # 各フィードから最大2件まで
-                        if len([a for a in review_articles if a['platform'] == feed_info['platform']]) >= 2:
-                            break
+                            articles_from_this_feed += 1
+                            print(f"    ✓ レビュー記事を発見: {title[:50]}...")
+
+                            # 各フィードから最大3件まで（2件→3件に拡大）
+                            if articles_from_this_feed >= 3:
+                                break
+
+                if articles_from_this_feed == 0:
+                    print(f"  {feed_info['platform']}: レビュー記事が見つかりませんでした")
 
             except Exception as e:
                 print(f"  {feed_info['platform']}のRSS取得エラー: {e}")
+                import traceback
+                traceback.print_exc()
                 continue
 
-        # 新しい順にソートして最新10件を返す
+        print(f"\n合計 {len(review_articles)} 件のレビュー記事を取得しました")
+
+        # 新しい順にソートして最新15件を返す（10件→15件に拡大）
         review_articles.sort(key=lambda x: x['date'], reverse=True)
-        return review_articles[:10]
+        return review_articles[:15]
 
     except Exception as e:
         print(f"レビュー記事の取得に失敗: {e}")
@@ -564,8 +631,8 @@ def update_games_data():
                     seen_urls.add(url)
                     unique_reviews.append(review)
 
-            # 最新10件を保持
-            data['pc']['review'] = unique_reviews[:10]
+            # 最新15件を保持（より多くのレビュー記事を表示）
+            data['pc']['review'] = unique_reviews[:15]
 
         # バンドル情報を更新
         if reddit_bundles:

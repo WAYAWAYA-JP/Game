@@ -401,7 +401,10 @@ def fetch_review_articles():
         hardware_keywords = [
             'cpu', 'gpu', 'graphics card', 'processor', 'motherboard', 'case',
             'cooling', 'corsair', 'nvidia', 'amd', 'intel', 'monitor', 'mouse',
-            'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply'
+            'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply',
+            'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade',
+            'msi', 'lenovo', 'dell', 'hp omen', 'acer predator', 'router', 'wifi',
+            'rtx 30', 'rtx 40', 'rtx 50', 'radeon', 'geforce', 'ryzen', 'core i'
         ]
 
         # 各ゲームメディアのRSSフィード

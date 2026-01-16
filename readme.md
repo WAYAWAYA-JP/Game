@@ -43,6 +43,23 @@ https://WAYAWAYA-JP.github.io/Game/
 
 このサイトは毎日自動的に最新のゲーム情報を取得します。
 
+### セットアップ
+
+自動更新を有効にするには、以下のパッケージをインストールしてください：
+
+```bash
+pip install -r requirements.txt
+```
+
+**DeepL API（推奨）**: 英語記事を高品質な日本語に翻訳するために、DeepL APIの利用を推奨します。
+
+1. [DeepL API](https://www.deepl.com/pro-api)でAPIキーを取得（無料プランあり）
+2. `.env`ファイルを作成して、以下を記述：
+   ```
+   DEEPL_API_KEY=your_deepl_api_key_here
+   ```
+3. APIキーがない場合、翻訳はスキップされますが、他の機能は正常に動作します。
+
 ### 自動取得される情報
 
 1. **Epic Games 無料配布ゲーム** (公式API)

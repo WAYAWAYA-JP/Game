@@ -31,8 +31,9 @@ try:
     GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
     if GEMINI_API_KEY:
         genai.configure(api_key=GEMINI_API_KEY)
-        translator = genai.GenerativeModel('gemini-2.0-flash-exp')
-        print("✅ Gemini API接続成功")
+        # gemini-1.5-flash: 安定版で無料枠が広い（15 RPM, 1M TPM, 1500 RPD）
+        translator = genai.GenerativeModel('gemini-1.5-flash')
+        print("✅ Gemini API接続成功 (gemini-1.5-flash)")
     else:
         translator = None
         print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")
@@ -56,6 +57,7 @@ def translate_to_japanese(text, max_retries=3):
             text = text[:5000]
 
         # 翻訳実行（リトライ機能付き）
+        import time
         for attempt in range(max_retries):
             try:
                 # Gemini APIで翻訳（より自然な日本語に）
@@ -67,12 +69,21 @@ def translate_to_japanese(text, max_retries=3):
 {text}"""
 
                 response = translator.generate_content(prompt)
+                # 成功した場合は少し待機（レート制限対策）
+                time.sleep(0.5)
                 return response.text.strip()
             except Exception as e:
+                error_msg = str(e)
                 if attempt < max_retries - 1:
-                    print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
-                    import time
-                    time.sleep(2)  # 2秒待機（Gemini APIのレート制限対策）
+                    # レート制限エラーの場合は長めに待機
+                    if '429' in error_msg or 'quota' in error_msg.lower():
+                        wait_time = 10 * (attempt + 1)  # 10秒, 20秒, 30秒
+                        print(f"  レート制限エラー。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
+                        time.sleep(wait_time)
+                    else:
+                        wait_time = 3 * (attempt + 1)  # 3秒, 6秒, 9秒
+                        print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
+                        time.sleep(wait_time)
                 else:
                     raise e
     except Exception as e:

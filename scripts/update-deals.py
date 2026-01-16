@@ -31,9 +31,9 @@ try:
     GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
     if GEMINI_API_KEY:
         genai.configure(api_key=GEMINI_API_KEY)
-        # gemini-1.5-flash-latest: 安定版で無料枠が広い（15 RPM, 1M TPM, 1500 RPD）
-        translator = genai.GenerativeModel('gemini-1.5-flash-latest')
-        print("✅ Gemini API接続成功 (gemini-1.5-flash-latest)")
+        # gemini-pro: 安定版モデル（無料枠：60 RPM）
+        translator = genai.GenerativeModel('gemini-pro')
+        print("✅ Gemini API接続成功 (gemini-pro)")
     else:
         translator = None
         print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")

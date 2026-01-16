@@ -17,6 +17,40 @@ except ImportError:
     print("インストールするには: pip install feedparser")
     feedparser = None
 
+try:
+    from deep_translator import GoogleTranslator
+    translator = GoogleTranslator(source='en', target='ja')
+except ImportError:
+    print("警告: deep-translatorがインストールされていません。英語記事の翻訳をスキップします。")
+    print("インストールするには: pip install deep-translator")
+    translator = None
+
+def translate_to_japanese(text, max_retries=3):
+    """英語テキストを日本語に翻訳"""
+    if not translator or not text:
+        return text
+
+    try:
+        # 長いテキストは分割して翻訳（5000文字以内）
+        if len(text) > 5000:
+            text = text[:5000]
+
+        # 翻訳実行（リトライ機能付き）
+        for attempt in range(max_retries):
+            try:
+                translated = translator.translate(text)
+                return translated
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
+                    import time
+                    time.sleep(1)  # 1秒待機
+                else:
+                    raise e
+    except Exception as e:
+        print(f"  翻訳エラー: {e}")
+        return text  # 翻訳失敗時は元のテキストを返す
+
 def fetch_epic_free_games():
     """Epic Gamesの無料ゲーム情報を取得"""
     try:
@@ -491,9 +525,24 @@ def fetch_review_articles():
 
                     if is_review and link:
                         if feed_info['platform'] in game_focused_media or is_game_related:
-                            # 英語記事には説明文に「翻訳推奨」を追加
-                            description_prefix = "（翻訳推奨）" if feed_info['lang'] == 'en' else ""
-                            description = description_prefix + (summary_clean if summary_clean else f"{title}の詳細記事です。")
+                            # 英語記事は自動翻訳
+                            if feed_info['lang'] == 'en':
+                                # タイトルを翻訳
+                                print(f"    翻訳中: {title[:40]}...")
+                                translated_title = translate_to_japanese(title)
+
+                                # 説明文を翻訳
+                                if summary_clean:
+                                    translated_summary = translate_to_japanese(summary_clean)
+                                    description = translated_summary
+                                else:
+                                    description = f"{translated_title}の詳細記事です。"
+
+                                # 翻訳されたタイトルを使用
+                                title = translated_title
+                            else:
+                                # 日本語記事はそのまま
+                                description = summary_clean if summary_clean else f"{title}の詳細記事です。"
 
                             review_articles.append({
                                 "title": title,

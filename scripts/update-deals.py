@@ -479,7 +479,113 @@ def fetch_itchio_bundles():
         return []
 
 def fetch_reddit_bundles():
-    """Redditからバンドル情報を取得"""
+    """RedditからバンドルRSS情報を取得（APIの代わりにRSSフィードを使用）"""
+    try:
+        bundles = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Reddit RSS形式でデータを取得（JSONよりも安定）
+        subreddits = [
+            ('GameDeals', 'https://www.reddit.com/r/GameDeals/new/.rss'),
+            ('humblebundles', 'https://www.reddit.com/r/humblebundles/new/.rss')
+        ]
+
+        if not feedparser:
+            print("  feedparserがインストールされていないため、RedditのRSS取得をスキップ")
+            # フォールバック: JSON APIを試行
+            return fetch_reddit_bundles_json()
+
+        for subreddit_name, rss_url in subreddits:
+            try:
+                print(f"  Reddit r/{subreddit_name} RSS取得中...")
+                # feedparserを使用してRSSフィードを取得
+                feed = feedparser.parse(rss_url)
+
+                if not feed.entries:
+                    print(f"  Reddit r/{subreddit_name}: 記事が見つかりませんでした")
+                    continue
+
+                for entry in feed.entries[:15]:
+                    title = entry.get('title', '')
+                    url_link = entry.get('link', '')
+                    summary = entry.get('summary', '')  # RSSの要約フィールド
+                    title_lower = title.lower()
+
+                    # バンドルを示すキーワード（拡充）
+                    is_bundle = ('bundle' in title_lower or 'バンドル' in title or
+                                 'humble choice' in title_lower or
+                                 'monthly' in title_lower or
+                                 'collection' in title_lower or
+                                 'pack' in title_lower and 'game' in title_lower or
+                                 'fanatical' in title_lower and 'bundle' in title_lower)
+
+                    if not is_bundle:
+                        continue
+
+                    # プラットフォームを検出
+                    platform = None
+                    platform_url = None
+                    bundle_title = title
+
+                    if 'humble' in title_lower:
+                        platform = "Humble Bundle"
+                        platform_url = 'https://www.humblebundle.com/'
+                    elif 'fanatical' in title_lower:
+                        platform = "Fanatical"
+                        platform_url = 'https://www.fanatical.com/'
+                    elif 'steam' in title_lower:
+                        platform = "Steam"
+                        platform_url = 'https://store.steampowered.com/'
+
+                    if platform and platform_url:
+                        # RSSのsummaryから詳細情報を抽出
+                        description = f"{platform}でお得なバンドルが登場！"
+
+                        if summary and len(summary) > 20:
+                            # HTMLタグを削除
+                            summary_clean = re.sub(r'<[^>]+>', '', summary)
+                            cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
+                            if len(cleaned_text) > 400:
+                                cleaned_text = cleaned_text[:400] + "..."
+                            description = cleaned_text
+                        else:
+                            description = f"{platform}でお得なバンドル「{bundle_title}」が登場！詳細はリンク先でご確認ください。"
+
+                        bundles.append({
+                            "title": bundle_title,
+                            "platform": platform,
+                            "type": "bundle",
+                            "description": description,
+                            "price": "お得価格",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "期間限定",
+                            "url": platform_url,
+                            "date": current_date
+                        })
+
+                print(f"  Reddit r/{subreddit_name}: {len([b for b in bundles if b.get('date') == current_date])}件取得")
+
+            except Exception as e:
+                print(f"  Reddit r/{subreddit_name} RSS取得エラー: {e}")
+                continue
+
+        # 重複を削除
+        seen_titles = set()
+        unique_bundles = []
+        for bundle in bundles:
+            title_key = bundle['title'].lower()
+            if title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_bundles.append(bundle)
+
+        return unique_bundles[:5]  # 最大5件まで
+    except Exception as e:
+        print(f"Redditバンドル情報の取得に失敗: {e}")
+        return []
+
+def fetch_reddit_bundles_json():
+    """RedditからバンドルJSON情報を取得（フォールバック用）"""
     try:
         bundles = []
         current_date = datetime.now().strftime("%Y-%m-%d")
@@ -681,7 +787,116 @@ def fetch_gog_sales():
         return []
 
 def fetch_reddit_sales():
-    """Redditからセール情報を取得"""
+    """RedditからセールRSS情報を取得（APIの代わりにRSSフィードを使用）"""
+    try:
+        sales = []
+        current_date = datetime.now().strftime("%Y-%m-%d")
+
+        # Reddit RSS形式でデータを取得
+        subreddits = [
+            ('GameDeals', 'https://www.reddit.com/r/GameDeals/hot/.rss'),
+            ('steamdeals', 'https://www.reddit.com/r/steamdeals/hot/.rss')
+        ]
+
+        if not feedparser:
+            print("  feedparserがインストールされていないため、RedditのRSS取得をスキップ")
+            # フォールバック: JSON APIを試行
+            return fetch_reddit_sales_json()
+
+        for subreddit_name, rss_url in subreddits:
+            try:
+                print(f"  Reddit r/{subreddit_name} RSS取得中...")
+                feed = feedparser.parse(rss_url)
+
+                if not feed.entries:
+                    print(f"  Reddit r/{subreddit_name}: 記事が見つかりませんでした")
+                    continue
+
+                for entry in feed.entries[:15]:
+                    title = entry.get('title', '')
+                    url_link = entry.get('link', '')
+                    summary = entry.get('summary', '')
+                    title_lower = title.lower()
+
+                    # セールを示すキーワード（バンドルと無料は除外）
+                    is_sale = (('sale' in title_lower or 'セール' in title or
+                                '% off' in title_lower or 'discount' in title_lower or
+                                'deal' in title_lower) and
+                               'bundle' not in title_lower and
+                               'free' not in title_lower and
+                               '100%' not in title)
+
+                    if not is_sale:
+                        continue
+
+                    # プラットフォームを検出
+                    platform = None
+                    platform_url = None
+
+                    if 'steam' in title_lower:
+                        platform = "Steam"
+                        platform_url = 'https://store.steampowered.com/'
+                    elif 'epic' in title_lower:
+                        platform = "Epic Games"
+                        platform_url = 'https://store.epicgames.com/'
+                    elif 'gog' in title_lower:
+                        platform = "GOG"
+                        platform_url = 'https://www.gog.com/'
+                    elif 'fanatical' in title_lower:
+                        platform = "Fanatical"
+                        platform_url = 'https://www.fanatical.com/'
+                    elif 'humble' in title_lower:
+                        platform = "Humble Bundle"
+                        platform_url = 'https://www.humblebundle.com/'
+
+                    if platform and platform_url:
+                        # RSSのsummaryから詳細情報を抽出
+                        description = f"{platform}でセール開催中！"
+
+                        if summary and len(summary) > 20:
+                            summary_clean = re.sub(r'<[^>]+>', '', summary)
+                            cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
+                            if len(cleaned_text) > 300:
+                                cleaned_text = cleaned_text[:300] + "..."
+                            description = cleaned_text
+                        else:
+                            description = f"{platform}でセール開催中！{title}。詳細はリンク先でご確認ください。"
+
+                        sales.append({
+                            "title": title,
+                            "platform": platform,
+                            "type": "sale",
+                            "description": description,
+                            "price": "セール中",
+                            "originalPrice": "",
+                            "discount": "",
+                            "deadline": "期間限定",
+                            "url": platform_url,
+                            "date": current_date
+                        })
+
+                print(f"  Reddit r/{subreddit_name}: {len([s for s in sales if s.get('date') == current_date])}件取得")
+
+            except Exception as e:
+                print(f"  Reddit r/{subreddit_name} RSS取得エラー: {e}")
+                continue
+
+        # 重複を削除
+        seen_titles = set()
+        unique_sales = []
+        for sale in sales:
+            title_key = sale['title'].lower()
+            if title_key not in seen_titles:
+                seen_titles.add(title_key)
+                unique_sales.append(sale)
+
+        return unique_sales[:5]  # 最大5件まで
+    except Exception as e:
+        print(f"Redditセール情報の取得に失敗: {e}")
+        return []
+
+def fetch_reddit_sales_json():
+    """RedditからセールJSON情報を取得（フォールバック用）"""
     try:
         sales = []
         current_date = datetime.now().strftime("%Y-%m-%d")

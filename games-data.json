@@ -140,19 +140,6 @@
         "is_translated": false
       },
       {
-        "title": "高評価ステルスアクション『Styx』シリーズ2作まとめて無料配布中、Epic Gamesストアにて。合計約4000円分のゲームが今ならタダ",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Epic Gamesストアにて1月16日、『Styx: Master of Shadows』および『Styx: Shards of Darkness』の無料配布が開始された。配布期間は1月23日午前1時まで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260116-406903/",
-        "date": "2026-01-16",
-        "is_translated": false
-      },
-      {
         "title": "Tarsier StudiosとTHQ Nordicが「REANIMAL」向けのフレンドパス導入を予告、発売は2026年2月13日",
         "platform": "doope!",
         "type": "review",
@@ -247,7 +234,7 @@
         "platform": "Steam",
         "type": "sale",
         "description": "      &#32; submitted by &#32;  /u/Gamers_Gate   [link] &#32; [comments] ",
-        "price": "セール中",
+        "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
@@ -346,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T07:04:55.947283"
+  "last_updated": "2026-01-16T12:29:35.252340"
 }

@@ -747,27 +747,36 @@ def fetch_reddit_bundles_json():
                             platform = "Steam"
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
-                        if platform and platform_url:
+                          if platform and platform_url:
                             # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
 
-                            if selftext and len(selftext) > 20:
-                                # 改行を削除して読みやすく
-                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
-                                # 過度に長い場合は切り詰め
-                                if len(cleaned_text) > 400:
-                                    cleaned_text = cleaned_text[:400] + "..."
+                            if selftext:
+                                # Redditのメタ情報を削除
+                                cleaned_text = clean_reddit_meta(selftext)
+                                cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
 
-                                # 英語の説明文を翻訳
-                                if translator and cleaned_text:
-                                    translated_desc = translate_to_japanese(cleaned_text)
-                                    description = f"{translated_desc}"
+                                # 有効な説明文が残っている場合
+                                if len(cleaned_text) > 20:
+                                    # 過度に長い場合は切り詰め
+                                    if len(cleaned_text) > 400:
+                                        cleaned_text = cleaned_text[:400] + "..."
+
+                                    # 英語の説明文を翻訳
+                                    if translator:
+                                        try:
+                                            translated_desc = translate_to_japanese(cleaned_text)
+                                            description = f"{translated_desc}"
+                                        except:
+                                            description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                    else:
+                                        description = cleaned_text
                                 else:
-                                    description = cleaned_text
+                                    # クリーンアップ後のテキストが短い場合、AIで生成
+                                    description = generate_description_with_ai(bundle_title, platform, "bundle")
                             else:
-                                # selftextがない場合は、タイトルから情報を抽出
-                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！人気タイトルがセットになった期間限定オファー。この機会をお見逃しなく。"
-
+                                # selftextがない場合もAIで生成
+                                description = generate_description_with_ai(bundle_title, platform, "bundle")
                             bundles.append({
                                 "title": bundle_title,
                                 "platform": platform,
@@ -1110,22 +1119,32 @@ def fetch_reddit_sales_json():
                             # 投稿本文からセールの詳細を抽出
                             description = f"{platform}でお得なセールが開催中！"
 
-                            if selftext and len(selftext) > 20:
-                                # 改行を削除して読みやすく
-                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
-                                # 過度に長い場合は切り詰め
-                                if len(cleaned_text) > 300:
-                                    cleaned_text = cleaned_text[:300] + "..."
+                            if selftext:
+                                # Redditのメタ情報を削除
+                                cleaned_text = clean_reddit_meta(selftext)
+                                cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
 
-                                # 英語の説明文を翻訳
-                                if translator:
-                                    translated_desc = translate_to_japanese(cleaned_text)
-                                    description = f"{translated_desc}"
+                                # 有効な説明文が残っている場合
+                                if len(cleaned_text) > 20:
+                                    # 過度に長い場合は切り詰め
+                                    if len(cleaned_text) > 300:
+                                        cleaned_text = cleaned_text[:300] + "..."
+
+                                    # 英語の説明文を翻訳
+                                    if translator:
+                                        try:
+                                            translated_desc = translate_to_japanese(cleaned_text)
+                                            description = f"{translated_desc}"
+                                        except:
+                                            description = generate_description_with_ai(japanese_title, platform, "sale")
+                                    else:
+                                        description = cleaned_text
                                 else:
-                                    description = cleaned_text
+                                    # クリーンアップ後のテキストが短い場合、AIで生成
+                                    description = generate_description_with_ai(japanese_title, platform, "sale")
                             else:
-                                # selftextがない場合は、タイトルから情報を活用
-                                description = f"{platform}でお得なセールが開催中！期間限定の特別価格。この機会をお見逃しなく。"
+                                # selftextがない場合もAIで生成
+                                description = generate_description_with_ai(japanese_title, platform, "sale")
 
                             sales.append({
                                 "title": japanese_title,

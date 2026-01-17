@@ -2,4 +2,5 @@ requests
 feedparser
 beautifulsoup4
 deep-translator
+groq
 python-dotenv

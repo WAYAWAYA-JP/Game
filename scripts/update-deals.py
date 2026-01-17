@@ -59,6 +59,11 @@ def clean_reddit_meta(text):
     if not text:
         return ""
 
+    import html
+
+    # HTMLエンティティをデコード（&#32; → 空白など）
+    text = html.unescape(text)
+
     # HTMLタグを削除
     text = re.sub(r'<[^>]+>', '', text)
 
@@ -73,44 +78,47 @@ def clean_reddit_meta(text):
 
     return text.strip()
 
-def generate_description_with_ai(title, platform, deal_type="sale"):
-    """Groq APIを使ってタイトルから説明文を生成（失敗時はデフォルト説明文）"""
+def generate_description_with_ai(title, platform, deal_type="sale", original_text=""):
+    """Groq APIを使ってタイトル（と元テキスト）から説明文を生成"""
+    # Groq APIが利用できない場合はデフォルトの説明文
     if not groq_client:
-        # Groq APIが利用できない場合はデフォルトの説明文
         if deal_type == "sale":
-            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+            return f"{platform}でお得なセールが開催中！"
         else:
-            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
+            return f"{platform}でお得なバンドルが登場！"
 
     try:
-        # Groq APIで説明文を生成
-        prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}のタイトルから、魅力的な紹介文を日本語で1-2文で生成してください。
-ゲーマー向けに、簡潔でわかりやすく、ワクワクする文章にしてください。
+        # 元テキストがあれば要約、なければタイトルから生成
+        if original_text and len(original_text) > 10:
+            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}情報を日本語で1文（30文字以内）に要約してください。
 
-プラットフォーム: {platform}
+タイトル: {title}
+内容: {original_text[:300]}
+
+要約のみ出力してください。"""
+        else:
+            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}の魅力を日本語で1文（30文字以内）で表現してください。
+
 タイトル: {title}
 
-紹介文のみを出力してください（説明や注釈は不要）。"""
+紹介文のみ出力してください。"""
 
         response = groq_client.chat.completions.create(
-            model="llama-3.3-70b-versatile",  # 高品質で無料枠が広いモデル
+            model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.7,
-            max_tokens=150
+            max_tokens=100
         )
 
         description = response.choices[0].message.content.strip()
-        return description if description else (
-            f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
-        )
+        return description if description else f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
 
     except Exception as e:
         print(f"  AI説明文生成エラー: {e}")
-        # エラー時はデフォルト説明文
         if deal_type == "sale":
-            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+            return f"{platform}でお得なセールが開催中！"
         else:
-            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
+            return f"{platform}でお得なバンドルが登場！"
 
 def translate_to_japanese(text, max_retries=3):
     """Google翻訳で英語テキストを日本語に翻訳"""
@@ -640,26 +648,8 @@ def fetch_reddit_bundles():
                             # Redditのメタ情報を削除
                             cleaned_text = clean_reddit_meta(summary)
                             cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
-
-                            # ゲームタイトルを抽出（一般的なパターン）
-                            # "Game1, Game2, Game3" や "- Game1 - Game2" などのパターンを検出
-                            if len(cleaned_text) > 20:
-                                # 長い説明文の場合、最初の400文字を使用
-                                if len(cleaned_text) > 400:
-                                    cleaned_text = cleaned_text[:400] + "..."
-
-                                # 翻訳して人間的な説明に
-                                if translator:
-                                    try:
-                                        translated_desc = translate_to_japanese(cleaned_text)
-                                        description = f"{translated_desc}"
-                                    except:
-                                        description = f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
-                                else:
-                                    description = cleaned_text
-                            else:
-                                # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(bundle_title, platform, "bundle")
+                            # Groq APIで要約生成
+                            description = generate_description_with_ai(bundle_title, platform, "bundle", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
                             description = generate_description_with_ai(bundle_title, platform, "bundle")
@@ -751,22 +741,15 @@ def fetch_reddit_bundles_json():
                             # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
 
-                            if selftext and len(selftext) > 20:
-                                # 改行を削除して読みやすく
-                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
-                                # 過度に長い場合は切り詰め
-                                if len(cleaned_text) > 400:
-                                    cleaned_text = cleaned_text[:400] + "..."
-
-                                # 英語の説明文を翻訳
-                                if translator and cleaned_text:
-                                    translated_desc = translate_to_japanese(cleaned_text)
-                                    description = f"{translated_desc}"
-                                else:
-                                    description = cleaned_text
+                            if selftext:
+                                # Redditのメタ情報を削除
+                                cleaned_text = clean_reddit_meta(selftext)
+                                cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
+                                # Groq APIで要約生成
+                                description = generate_description_with_ai(bundle_title, platform, "bundle", cleaned_text)
                             else:
-                                # selftextがない場合は、タイトルから情報を抽出
-                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！人気タイトルがセットになった期間限定オファー。この機会をお見逃しなく。"
+                                # selftextがない場合もAIで生成
+                                description = generate_description_with_ai(bundle_title, platform, "bundle")
 
                             bundles.append({
                                 "title": bundle_title,
@@ -986,24 +969,8 @@ def fetch_reddit_sales():
                             # Redditのメタ情報を削除
                             cleaned_text = clean_reddit_meta(summary)
                             cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
-
-                            # 有効な説明文が残っている場合
-                            if len(cleaned_text) > 20:
-                                if len(cleaned_text) > 300:
-                                    cleaned_text = cleaned_text[:300] + "..."
-
-                                # 英語の説明文を翻訳
-                                if translator:
-                                    try:
-                                        translated_desc = translate_to_japanese(cleaned_text)
-                                        description = f"{translated_desc}"
-                                    except:
-                                        description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
-                                else:
-                                    description = cleaned_text
-                            else:
-                                # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(japanese_title, platform, "sale")
+                            # Groq APIで要約生成
+                            description = generate_description_with_ai(japanese_title, platform, "sale", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
                             description = generate_description_with_ai(japanese_title, platform, "sale")
@@ -1110,22 +1077,15 @@ def fetch_reddit_sales_json():
                             # 投稿本文からセールの詳細を抽出
                             description = f"{platform}でお得なセールが開催中！"
 
-                            if selftext and len(selftext) > 20:
-                                # 改行を削除して読みやすく
-                                cleaned_text = selftext.replace('\n', ' ').replace('\r', ' ')
-                                # 過度に長い場合は切り詰め
-                                if len(cleaned_text) > 300:
-                                    cleaned_text = cleaned_text[:300] + "..."
-
-                                # 英語の説明文を翻訳
-                                if translator:
-                                    translated_desc = translate_to_japanese(cleaned_text)
-                                    description = f"{translated_desc}"
-                                else:
-                                    description = cleaned_text
+                            if selftext:
+                                # Redditのメタ情報を削除
+                                cleaned_text = clean_reddit_meta(selftext)
+                                cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
+                                # Groq APIで要約生成
+                                description = generate_description_with_ai(japanese_title, platform, "sale", cleaned_text)
                             else:
-                                # selftextがない場合は、タイトルから情報を活用
-                                description = f"{platform}でお得なセールが開催中！期間限定の特別価格。この機会をお見逃しなく。"
+                                # selftextがない場合もAIで生成
+                                description = generate_description_with_ai(japanese_title, platform, "sale")
 
                             sales.append({
                                 "title": japanese_title,

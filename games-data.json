@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       }
     ],
     "bundle": [
+      {
+        "title": "[Humble] The Iceberg Hidden Gems Bundle (Pay $5 Oriental Empires, Lunacy: Saint Rhodes, Minicology, $7 for Blazing Sails, Tech Support: Error Unknown, Hellbreach: Vegas, Mahoukenshi and $10 for King of Retail, Clem, Stars in Shadow, Doomblade)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでお得なバンドル「[Humble] The Iceberg Hidden Gems Bundle (Pay $5 Oriental Empires, Lunacy: Saint Rhodes, Minicology, $7 for Blazing Sails, Tech Support: Error Unknown, Hellbreach: Vegas, Mahoukenshi and $10 for King of Retail, Clem, Stars in Shadow, Doomblade)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-17"
+      },
       {
         "title": "[Fanatical] Build Your Own Best of Indie Legends Bundle (New Year 2026) (2/4/7 for $4.99/$8.99/$13.99 and choose from EVERSPACE Ultimate Edition / DUSK & AMID EVIL Double Pack / Lethal League Blaze / Human Fall Flat / Frog Detective 3: Corruption at Cowboy County / Tinykin / Pathologic 2 / More)",
         "platform": "Fanatical",
@@ -37,19 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-01-16"
-      },
-      {
-        "title": "[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでお得なバンドル「[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "Humble RPG Bundle: So You Wanna Try Out Call of Cthulhu by Chaosium (pay what you want and help charity)",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "Bundles",
@@ -97,6 +97,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでお得なバンドル「[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-01-16"
       },
       {
@@ -123,7 +135,7 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/work-work-work-20260116-407264/",
-        "date": "2026-01-16",
+        "date": "2026-01-17",
         "is_translated": false
       },
       {
@@ -136,21 +148,21 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/yakuza-kiwami-3-20260116-407114/",
-        "date": "2026-01-16",
+        "date": "2026-01-17",
         "is_translated": false
       },
       {
-        "title": "Tarsier StudiosとTHQ Nordicが「REANIMAL」向けのフレンドパス導入を予告、発売は2026年2月13日",
-        "platform": "doope!",
+        "title": "Sonic Racing: Crossworlds review",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "先日、国内外でNintendo Switch 2向け体験版の配信が開始された期待作「REANIMAL」ですが、2026年2月13日のローンチが迫るなか、新たにTarsier StudiosとTHQ Nordicがフレンド [&#8230;]",
+        "description": "A robust kart racer to rival Nintendo's own, though one which comes with plenty of similar baggage. PC Gamerによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/01163359.html",
-        "date": "2026-01-16",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/racing/sonic-racing-crossworlds-review/",
+        "date": "2026-01-17",
+        "is_translated": true
       },
       {
         "title": "Rockstar launch official roleplay mods store where you can spend $67 to turn GTA into Euro Truck Simulator 2",
@@ -162,7 +174,7 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/rockstar-launch-official-roleplay-mods-store-where-you-can-spend-67-to-turn-gta-into-euro-truck-simulator-2",
-        "date": "2026-01-16",
+        "date": "2026-01-17",
         "is_translated": true
       },
       {
@@ -175,7 +187,7 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/hytale-steam-deck-performance-settings",
-        "date": "2026-01-16",
+        "date": "2026-01-17",
         "is_translated": true
       },
       {
@@ -188,11 +200,36 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-in-the-summerset-isles-would-be-cool-or-so-recently-unearthed-daggerfall-era-dev-dd-notes-have-convinced-me",
-        "date": "2026-01-16",
+        "date": "2026-01-17",
+        "is_translated": true
+      },
+      {
+        "title": "D&D Mystic Subclasses Unearthed Arcana revives disruptive hybrid magic options",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Wizards of the Coast’s latest batch of playtest materials introduces four new subclasses that disrupt, steal, and police magic at the table.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/dnd-unearthed-arcana-mystic-subclasses-breakdown/",
+        "date": "2026-01-17",
         "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] The World Ends in Ohio ($2.39 / 40% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "      &#32; submitted by &#32;  /u/PDS_Games   [link] &#32; [comments] ",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
       {
         "title": "[Steam] Super Woden Rally Edge ($9.09 / 30% off)",
         "platform": "Steam",
@@ -203,7 +240,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
       },
       {
         "title": "[Steam] Quantum Odyssey ( 9,09€ / 30% Off )",
@@ -215,7 +252,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-16"
+        "date": "2026-01-17"
+      },
+      {
+        "title": "Save 80% on For The King on Steam [$3.99] / Deluxe Edition 73% off [$5.93]",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "      &#32; submitted by &#32;  /u/svint97   [link] &#32; [comments] ",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
       },
       {
         "title": "[Steam] EA SPORTS FC™ 26 TOTY ($34.50 CDN / 70% Off)",
@@ -333,5 +382,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16T12:29:35.252340"
+  "last_updated": "2026-01-17T01:58:11.070025"
 }

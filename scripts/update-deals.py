@@ -729,7 +729,7 @@ def fetch_reddit_bundles_json():
                                      'pack' in title_lower and 'game' in title_lower or
                                      'fanatical' in title_lower and 'bundle' in title_lower)
 
-                        if not is_bundle:
+                                                if not is_bundle:
                             continue
 
                         # プラットフォームを検出
@@ -747,7 +747,7 @@ def fetch_reddit_bundles_json():
                             platform = "Steam"
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
-                          if platform and platform_url:
+                        if platform and platform_url:
                             # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
 
@@ -777,6 +777,7 @@ def fetch_reddit_bundles_json():
                             else:
                                 # selftextがない場合もAIで生成
                                 description = generate_description_with_ai(bundle_title, platform, "bundle")
+
                             bundles.append({
                                 "title": bundle_title,
                                 "platform": platform,

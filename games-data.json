@@ -43,7 +43,7 @@
         "title": "[Fanatical] Build Your Own Best of Indie Legends Bundle (New Year 2026) (2/4/7 for $4.99/$8.99/$13.99 and choose from EVERSPACE Ultimate Edition / DUSK & AMID EVIL Double Pack / Lethal League Blaze / Human Fall Flat / Frog Detective 3: Corruption at Cowboy County / Tinykin / Pathologic 2 / More)",
         "platform": "Fanatical",
         "type": "bundle",
-        "description": "Build Your Own Best of Indie Legends Bundle (New Year 2026)   Number of Titles GBP USD EUR CAD AUD RUB JPY    2  £ 4.99  $ 4.99  € 4.99  $ 6.99  $ 8.20  470 ₽ ¥870   4  £ 8.99  $ 8.99  € 8.99  $ 12.39  $ 14.79  840 ₽ ¥1,560   7  £ 13.99  $ 13.99  € 13.99  $ 19.49  $ 22.99  1,300 ₽ ¥2,450   Price per item*   Tier GBP USD EUR CAD AUD RUB JPY    1  £ 2.50  $ 2.50  € 2.50  $ 3.50  $ 4.10  235 ₽ ¥435  ...",
+        "description": "自分だけのインディーレジェンド傑作選バンドルを作ろう！(新春2026)\n\n選べる本数 | GBP | USD | EUR | CAD | AUD | RUB | JPY\n---|---|---|---|---|---|---|---\n2本 | £ 4.99 | $ 4.99 | € 4.99 | $ 6.99 | $ 8.20 | 470 ₽ | ¥870\n4本 | £ 8.99 | $ 8.99 | € 8.99 | $ 12.39 | $ 14.79 | 840 ₽ | ¥1,560\n7本 | £ 13.99 | $ 13.99 | € 13.99 | $ 19.49 | $ 22.99 | 1,300 ₽ | ¥2,450\n\n1本あたりの価格*\n\nティア | GBP | USD | EUR | CAD | AUD | RUB | JPY\n---|---|---|---|---|---|---|---\n1 | £ 2.50 | $ 2.50 | € 2.50 | $ 3.50 | $ 4.10 | 235 ₽ | ¥435\n...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -55,7 +55,7 @@
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "I recently built a small project that tries to estimate when games might appear on Subscription services. Initially it only supported PlayStation Plus, Gamepass, or the Epic Games Store giveaways. But now I've added Humble Choice. The tool uses python logic and models trained on historical giveaway data from 2010 to Early January 2026 to give estimates on when games might drop on subscription serv...",
+        "description": "最近、ゲームがいつサブスクサービスに登場するかを予測する、個人プロジェクトを立ち上げました。当初はPlayStation Plus、Game Pass、Epic Gamesストアの無料配布のみに対応していましたが、現在はHumble Choiceも追加しました。このツールはPythonのロジックと、2010年から2026年1月初旬までの過去の無料配布データを学習させたモデルを用いて、ゲームがいつサブスクサービスに登場するかを予測してくれます。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -67,7 +67,7 @@
         "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "      We’ve just put up the latest episode of Humble Talk, where we sit down and chat through this month’s Humble Choice bundle. Is Frontier the best modern Sonic game? Can Metal Slug succeed as a roguelite tactics? And can you ever have too many remasters? (The answer is yes). These discussions and more in the latest episode of Humble Talk!  &#32; submitted by &#32;  /u/DeckusHeadus   [link] &#32...",
+        "description": "「Humble Talk」の最新エピソードが公開されました！今月のHumble Choiceバンドルについて、じっくり語り合っています。\n『フロンティア』は最高の現代ソニック作品なのか？\n『メタルスラッグ』はローグライトタクティクスとして成功できるのか？\nそして、リマスター作品はいくらあっても多すぎるなんてことはないのか？（いや、多すぎるだろ！）\nこれらの議論の続きは、「Humble Talk」最新エピソードで！",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -152,7 +152,7 @@
         "is_translated": false
       },
       {
-        "title": "Sonic Racing: Crossworlds review",
+        "title": "ソニックレーシング：クロスワールズ レビュー",
         "platform": "PC Gamer",
         "type": "review",
         "description": "A robust kart racer to rival Nintendo's own, though one which comes with plenty of similar baggage. PC Gamerによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
@@ -219,6 +219,54 @@
     ],
     "sale": [
       {
+        "title": "[Steam] The World Ends in Ohio（$2.39 / 40%オフ）",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "u/PDS_Gamesより [リンク] [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] Super Woden Rally Edge\n30%オフで9.09ドル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "思案中",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] 『クアンタム オデッセイ』 (9.09€ / 30%オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンクのオープンワールドアクションRPG、『Quantum Odyssey』が投稿しました。 [リンク] [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "Save 80% on For The King on Steam [$3.99] / Deluxe Edition 73% off [$5.93]",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "投稿者: u/svint97 [リンク] [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
         "title": "[Steam] The World Ends in Ohio ($2.39 / 40% off)",
         "platform": "Steam",
         "type": "sale",
@@ -247,18 +295,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "      &#32; submitted by &#32;  /u/QuantumOdysseyGame   [link] &#32; [comments] ",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-17"
-      },
-      {
-        "title": "Save 80% on For The King on Steam [$3.99] / Deluxe Edition 73% off [$5.93]",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "      &#32; submitted by &#32;  /u/svint97   [link] &#32; [comments] ",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -382,5 +418,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T01:58:11.070025"
+  "last_updated": "2026-01-17T04:01:36.772242"
 }

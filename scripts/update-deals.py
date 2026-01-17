@@ -729,7 +729,7 @@ def fetch_reddit_bundles_json():
                                      'pack' in title_lower and 'game' in title_lower or
                                      'fanatical' in title_lower and 'bundle' in title_lower)
 
-                                                if not is_bundle:
+                        if not is_bundle:
                             continue
 
                         # プラットフォームを検出

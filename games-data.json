@@ -55,7 +55,7 @@
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "私は最近、サブスクリプション サービスにゲームがいつ登場するかを予測する小さなプロジェクトを構築しました。当初は PlayStation Plus、Gamepass、または Epic Games Store の特典のみをサポートしていました。しかし今、私は Humble Choice を追加しました。このツールは、Python ロジックと、2010 年から 2026 年 1 月上旬までの過去のプレゼント データでトレーニングされたモデルを使用して、サブスクリプション サービスでゲームがいつドロップされるかを推定します。",
+        "description": "私は最近、サブスクリプション サービスにゲームがいつ掲載されるかを予測する小さなプロジェクトを構築しました。当初は PlayStation Plus、Gamepass、または Epic Games Store の特典のみをサポートしていました。しかし今、私は Humble Choice を追加しました。このツールは、Python ロジックと、2010 年から 2026 年 1 月上旬までの過去のプレゼント データでトレーニングされたモデルを使用して、サブスクリプション サービスでゲームがいつドロップされるかを推定します。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -165,10 +165,10 @@
         "is_translated": true
       },
       {
-        "title": "Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払えば GTA を Euro Truck Simulator 2 に変えることができます",
+        "title": "Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払って GTA を Euro Truck Simulator 2 に変えることができる",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 5 を釣りシミュレーターにするために 67 ドル/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、大量の商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
+        "description": "GTA 5 を釣りシミュレーターにするために 67 ポンド/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -194,7 +194,7 @@
         "title": "サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、ダガーフォールの開発当時にこのシリーズの開発者がプレイした D&D ゲームのメモを読んでみて、どれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
+        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -466,5 +466,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T05:49:50.278443"
+  "last_updated": "2026-01-17T05:58:28.859114"
 }

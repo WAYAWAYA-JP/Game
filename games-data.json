@@ -139,19 +139,6 @@
         "is_translated": false
       },
       {
-        "title": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』先行プレイ感想。「懐かしさ」よりも「新しさ」が印象的、新しい沖縄、新コンテンツを通じた、新しい物語体験",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が、この令和の時代、いかに「極クオリティ」へ至ったのか。現時点で判明している作品の内容を紹介する。 AUTOMATONによる詳細なレビュー記事。実際にプレイした感想や評価をご覧いただけます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/yakuza-kiwami-3-20260116-407114/",
-        "date": "2026-01-17",
-        "is_translated": false
-      },
-      {
         "title": "ソニック レーシング: クロスワールド レビュー",
         "platform": "PC Gamer",
         "type": "review",
@@ -161,6 +148,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/racing/sonic-racing-crossworlds-review/",
+        "date": "2026-01-17",
+        "is_translated": true
+      },
+      {
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "土曜日は&hellip;ドラット、時間を見てください！記事を書くべきではない。バンに箱を積んでいるはずだ。必死に家具を分解する。そして、私の引っ越しを「手伝って」いる友人たちが、お茶をすするために立ち止まろうとするのを止めました。まるで私がどれくらいの時間を費やしたか知らないようです",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-365",
         "date": "2026-01-17",
         "is_translated": true
       },
@@ -187,19 +187,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/hytale-steam-deck-performance-settings",
-        "date": "2026-01-17",
-        "is_translated": true
-      },
-      {
-        "title": "サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-in-the-summerset-isles-would-be-cool-or-so-recently-unearthed-daggerfall-era-dev-dd-notes-have-convinced-me",
         "date": "2026-01-17",
         "is_translated": true
       },
@@ -466,5 +453,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T07:23:31.371619"
+  "last_updated": "2026-01-17T08:56:20.645167"
 }

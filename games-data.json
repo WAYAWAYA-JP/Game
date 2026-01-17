@@ -43,7 +43,7 @@
         "title": "[Fanatical] Build Your Own Best of Indie Legends Bundle (New Year 2026) (2/4/7 for $4.99/$8.99/$13.99 and choose from EVERSPACE Ultimate Edition / DUSK & AMID EVIL Double Pack / Lethal League Blaze / Human Fall Flat / Frog Detective 3: Corruption at Cowboy County / Tinykin / Pathologic 2 / More)",
         "platform": "Fanatical",
         "type": "bundle",
-        "description": "Build Your Own Best of Indie Legends Bundle (New Year 2026)   Number of Titles GBP USD EUR CAD AUD RUB JPY    2  £ 4.99  $ 4.99  € 4.99  $ 6.99  $ 8.20  470 ₽ ¥870   4  £ 8.99  $ 8.99  € 8.99  $ 12.39  $ 14.79  840 ₽ ¥1,560   7  £ 13.99  $ 13.99  € 13.99  $ 19.49  $ 22.99  1,300 ₽ ¥2,450   Price per item*   Tier GBP USD EUR CAD AUD RUB JPY    1  £ 2.50  $ 2.50  € 2.50  $ 3.50  $ 4.10  235 ₽ ¥435  ...",
+        "description": "自分だけの Best of Indie Legends バンドルを構築 (2026 年新年) タイトル数 GBP USD EUR CAD AUD RUB JPY 2 £ 4.99 $ 4.99 € 4.99 $ 6.99 $ 8.20 470 ₽ ¥870 4 £ 8.99 $ 8.99 € 8.99 $ 12.39 $ 14.79 840 ₽ ¥1,560 7 £ 13.99 $ 13.99 € 13.99 $ 19.49 $ 22.99 1,300 ₽ ¥2,450 アイテムあたりの価格* Tier GBP USD EUR CAD AUD RUB JPY 1 £ 2.50 $ 2.50 € 2.50 $ 3.50 $ 4.10 235 ₽ ¥435 ...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -55,7 +55,7 @@
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "I recently built a small project that tries to estimate when games might appear on Subscription services. Initially it only supported PlayStation Plus, Gamepass, or the Epic Games Store giveaways. But now I've added Humble Choice. The tool uses python logic and models trained on historical giveaway data from 2010 to Early January 2026 to give estimates on when games might drop on subscription serv...",
+        "description": "私は最近、サブスクリプション サービスにゲームがいつ掲載されるかを予測する小さなプロジェクトを構築しました。当初は PlayStation Plus、Gamepass、または Epic Games Store の特典のみをサポートしていました。しかし今、私は Humble Choice を追加しました。このツールは、Python ロジックと、2010 年から 2026 年 1 月上旬までの過去のプレゼント データでトレーニングされたモデルを使用して、サブスクリプション サービスでゲームがいつドロップされるかを推定します。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -67,7 +67,7 @@
         "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "      We’ve just put up the latest episode of Humble Talk, where we sit down and chat through this month’s Humble Choice bundle. Is Frontier the best modern Sonic game? Can Metal Slug succeed as a roguelite tactics? And can you ever have too many remasters? (The answer is yes). These discussions and more in the latest episode of Humble Talk!  &#32; submitted by &#32;  /u/DeckusHeadus   [link] &#32...",
+        "description": "今月の Humble Choice バンドルについて座ってチャットする Humble Talk の最新エピソードを公開しました。フロンティアは現代最高のソニックゲームですか?メタルスラッグはローグライト戦術として成功できるでしょうか?リマスターが多すぎることはありますか? （答えは「はい」です）。これらの議論やその他の内容は、Humble Talk の最新エピソードでご覧いただけます。  &#32;によって送信されました &#32;  /u/DeckusHeadus [リンク] &#32...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -152,10 +152,10 @@
         "is_translated": false
       },
       {
-        "title": "Sonic Racing: Crossworlds review",
+        "title": "ソニック レーシング: クロスワールド レビュー",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "A robust kart racer to rival Nintendo's own, though one which comes with plenty of similar baggage. PC Gamerによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
+        "description": "任天堂のカートレーサーに匹敵する堅牢なカートレーサーですが、同様の荷物がたくさんあります。 PC Gamerによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -165,10 +165,10 @@
         "is_translated": true
       },
       {
-        "title": "Rockstar launch official roleplay mods store where you can spend $67 to turn GTA into Euro Truck Simulator 2",
+        "title": "Rockstar が公式ロールプレイ MOD ストアを立ち上げ、67 ドルを支払って GTA を Euro Truck Simulator 2 に変えることができる",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": " If you've ever wanted to spend somewhere in the region of $67/&pound;50 to turn GTA 5 into a fishing simulator, today's your lucky day. Rockstar-partnered GTA roleplaying server operators Cfx.re - the folks behind FiveM and RedM - have launched the Cfx Marketplace, a store where you can buy a bunch",
+        "description": "GTA 5 を釣りシミュレーターにするために 67 ポンド/ポンド 50 ドル程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携した GTA ロールプレイング サーバー オペレーター Cfx.re (FiveM と RedM の開発者) は、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -178,10 +178,10 @@
         "is_translated": true
       },
       {
-        "title": "Playing Hytale on the Steam Deck takes some classic PC spannering, but the effort is rewarded",
+        "title": "Steam デッキで Hytale をプレイするには、古典的な PC の苦労が必要ですが、その努力は報われます",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": " \nRight up until its early access release, Hytale&rsquo;s chances of Steam Deck-enabled portability were anyone&rsquo;s guess. Even the blocky sandbox&rsquo;s developers Hypixel seemed unsure, announcing a SteamOS-friendly native Linux version (good!) but forgoing an actual Steam release (less good!",
+        "description": "早期アクセス リリースの直前まで、Hytale が Steam Deck 対応のポータビリティを実現する可能性は誰にも予想できませんでした。ブロック状のサンドボックスの開発者である Hypixel でさえ自信がなかったようで、SteamOS フレンドリーなネイティブ Linux バージョンを発表しましたが (良いことです!)、実際の Steam リリースは見送りました (あまり良くありません!)。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -191,10 +191,10 @@
         "is_translated": true
       },
       {
-        "title": "The Elder Scrolls 6 in the Summerset Isles would be cool, or so recently unearthed Daggerfall-era dev D&D notes have convinced me",
+        "title": "サマーセット諸島のエルダースクロールズ 6 はクールだろう、最近発掘されたダガーフォール時代の開発 D&D ノートを見て私はそう確信しました",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": " As someone who admittedly struggles to feel at home whenever I try to go back and play the older Elder Scrolls entries, I'm surprised how fun I've found reading through some notes from a D&amp;D game some devs on the series played around the time of Daggerfall's development. Said notes have just be",
+        "description": "確かに、古いエルダー スクロールズ エントリに戻ってプレイしようとすると、いつも落ち着くのに苦労する人間として、Daggerfall の開発当時にシリーズの開発者がプレイした D&D ゲームのメモを読むのがどれほど楽しいかを発見したことに驚きました。先ほどのメモは、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -204,10 +204,10 @@
         "is_translated": true
       },
       {
-        "title": "D&D Mystic Subclasses Unearthed Arcana revives disruptive hybrid magic options",
+        "title": "D&D ミスティック サブクラス 発掘されたアルカナが破壊的なハイブリッド マジック オプションを復活させる",
         "platform": "Polygon",
         "type": "review",
-        "description": "Wizards of the Coast’s latest batch of playtest materials introduces four new subclasses that disrupt, steal, and police magic at the table.",
+        "description": "ウィザーズ オブ ザ コーストのプレイテスト マテリアルの最新バッチでは、テーブルでの魔法を妨害し、盗み、警察する 4 つの新しいサブクラスが導入されています。 Polygonによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -218,6 +218,54 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] オハイオで終わる世界 ($2.39 / 40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "&#32;によって送信されました &#32;  /u/PDS_Games [リンク] &#32; [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] スーパー ウォーデン ラリー エッジ ($9.09 / 30% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "&#32;によって送信されました &#32;  /u/Minnesota_Arouser [リンク] &#32; [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] Quantum Odyssey ( 9,09€ / 30% オフ )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "&#32;によって送信されました &#32;  /u/QuantumOdysseyGame [リンク] &#32; [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "Steam の For The King が 80% オフ [$3.99] / デラックス エディションが 73% オフ [$5.93]",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "&#32;によって送信されました &#32;  /u/svint97 [リンク] &#32; [コメント]",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
       {
         "title": "[Steam] The World Ends in Ohio ($2.39 / 40% off)",
         "platform": "Steam",
@@ -418,5 +466,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T04:58:21.679847"
+  "last_updated": "2026-01-17T05:31:58.179227"
 }

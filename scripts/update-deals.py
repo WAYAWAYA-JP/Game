@@ -25,41 +25,26 @@ except ImportError:
     print("インストールするには: pip install feedparser")
     feedparser = None
 
-# Gemini APIの初期化
+# Google翻訳の初期化（deep-translator使用）
 try:
-    import google.generativeai as genai
-    GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
-    if GEMINI_API_KEY:
-        genai.configure(api_key=GEMINI_API_KEY)
-        # gemini-2.5-flash: 2026年現在の最新安定版
-        translator = genai.GenerativeModel('gemini-2.5-flash')
-        print("✅ Gemini API接続成功 (gemini-2.5-flash)")
-    else:
-        translator = None
-        print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")
-        print("設定するには: .envファイルにGEMINI_API_KEY=your_api_keyを追加してください")
+    from deep_translator import GoogleTranslator
+    translator = GoogleTranslator(source='en', target='ja')
+    print("✅ Google翻訳を初期化しました（無料・APIキー不要）")
 except ImportError:
-    print("警告: google-generativeaiパッケージがインストールされていません。翻訳をスキップします。")
-    print("インストールするには: pip install google-generativeai")
+    print("警告: deep-translatorパッケージがインストールされていません。翻訳をスキップします。")
+    print("インストールするには: pip install deep-translator")
     translator = None
 except Exception as e:
-    print(f"警告: Gemini API初期化エラー: {e}")
+    print(f"警告: Google翻訳初期化エラー: {e}")
     translator = None
 
-# 翻訳キャッシュ（同じテキストを何度も翻訳しない）
-translation_cache = {}
-
 def translate_to_japanese(text, max_retries=3):
-    """Gemini APIで英語テキストを日本語に翻訳"""
+    """Google翻訳で英語テキストを日本語に翻訳"""
     if not translator or not text:
         return text
 
-    # キャッシュをチェック
-    if text in translation_cache:
-        return translation_cache[text]
-
     try:
-        # 長いテキストは分割して翻訳（5000文字以内）
+        # 長いテキストは分割して翻訳（Google翻訳は5000文字まで）
         if len(text) > 5000:
             text = text[:5000]
 
@@ -67,46 +52,19 @@ def translate_to_japanese(text, max_retries=3):
         import time
         for attempt in range(max_retries):
             try:
-                # Gemini APIで翻訳（より自然な日本語に）
-                prompt = f"""以下の英語テキストを自然な日本語に翻訳してください。
-ゲーム記事の翻訳なので、ゲーマーに伝わりやすい表現を使用してください。
-翻訳結果のみを出力し、説明や注釈は不要です。
-
-英語テキスト:
-{text}"""
-
-                response = translator.generate_content(prompt)
-
-                # レスポンスの検証
-                if not response or not hasattr(response, 'text'):
-                    raise Exception("APIから有効なレスポンスが返されませんでした")
-
-                # 成功した場合は待機（レート制限対策: 1分20リクエスト = 3秒/リクエスト）
-                time.sleep(3.5)
-                translated_text = response.text.strip()
-                # キャッシュに保存
-                translation_cache[text] = translated_text
+                # Google翻訳で翻訳
+                translated_text = translator.translate(text)
+                # 成功時は少し待機（過負荷防止）
+                time.sleep(0.3)
                 return translated_text
             except Exception as e:
                 error_msg = str(e)
                 error_type = type(e).__name__
 
                 if attempt < max_retries - 1:
-                    # レート制限エラーの場合は長めに待機
-                    if '429' in error_msg or 'quota' in error_msg.lower() or 'resource_exhausted' in error_msg.lower():
-                        wait_time = 30 + (attempt * 30)  # 30秒, 60秒, 90秒
-                        print(f"  レート制限エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
-                        time.sleep(wait_time)
-                    # 404エラーの場合はモデルが見つからない
-                    elif '404' in error_msg or 'not found' in error_msg.lower():
-                        print(f"  エラー: Gemini APIモデルが見つかりません。モデル名を確認してください。")
-                        print(f"  詳細: {error_msg}")
-                        return text
-                    else:
-                        wait_time = 3 * (attempt + 1)  # 3秒, 6秒, 9秒
-                        print(f"  翻訳エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
-                        print(f"  エラー詳細: {error_msg}")
-                        time.sleep(wait_time)
+                    wait_time = 2 * (attempt + 1)  # 2秒, 4秒, 6秒
+                    print(f"  翻訳エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
+                    time.sleep(wait_time)
                 else:
                     raise e
     except Exception as e:

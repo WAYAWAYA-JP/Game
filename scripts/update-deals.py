@@ -38,6 +38,80 @@ except Exception as e:
     print(f"警告: Google翻訳初期化エラー: {e}")
     translator = None
 
+# Groq APIの初期化（オプション：記事の説明文を生成）
+groq_client = None
+try:
+    from groq import Groq
+    GROQ_API_KEY = os.getenv('GROQ_API_KEY')
+    if GROQ_API_KEY:
+        groq_client = Groq(api_key=GROQ_API_KEY)
+        print("✅ Groq API接続成功（記事説明文生成に使用）")
+    else:
+        print("ℹ️  GROQ_API_KEY未設定。デフォルトの説明文を使用します。")
+except ImportError:
+    print("ℹ️  groqパッケージ未インストール。記事説明文はデフォルトを使用します。")
+except Exception as e:
+    print(f"警告: Groq API初期化エラー: {e}")
+    groq_client = None
+
+def clean_reddit_meta(text):
+    """Redditのメタ情報を削除"""
+    if not text:
+        return ""
+
+    # HTMLタグを削除
+    text = re.sub(r'<[^>]+>', '', text)
+
+    # "submitted by /u/..." 以降を削除
+    text = re.sub(r'submitted by /u/\S+.*', '', text, flags=re.IGNORECASE)
+
+    # [link], [comments] などを削除
+    text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
+
+    # 複数の空白を1つに
+    text = re.sub(r'\s+', ' ', text)
+
+    return text.strip()
+
+def generate_description_with_ai(title, platform, deal_type="sale"):
+    """Groq APIを使ってタイトルから説明文を生成（失敗時はデフォルト説明文）"""
+    if not groq_client:
+        # Groq APIが利用できない場合はデフォルトの説明文
+        if deal_type == "sale":
+            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        else:
+            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
+
+    try:
+        # Groq APIで説明文を生成
+        prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}のタイトルから、魅力的な紹介文を日本語で1-2文で生成してください。
+ゲーマー向けに、簡潔でわかりやすく、ワクワクする文章にしてください。
+
+プラットフォーム: {platform}
+タイトル: {title}
+
+紹介文のみを出力してください（説明や注釈は不要）。"""
+
+        response = groq_client.chat.completions.create(
+            model="llama-3.3-70b-versatile",  # 高品質で無料枠が広いモデル
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,
+            max_tokens=150
+        )
+
+        description = response.choices[0].message.content.strip()
+        return description if description else (
+            f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
+        )
+
+    except Exception as e:
+        print(f"  AI説明文生成エラー: {e}")
+        # エラー時はデフォルト説明文
+        if deal_type == "sale":
+            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        else:
+            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
+
 def translate_to_japanese(text, max_retries=3):
     """Google翻訳で英語テキストを日本語に翻訳"""
     if not translator or not text:
@@ -562,28 +636,33 @@ def fetch_reddit_bundles():
                         description = f"{platform}でお得なバンドルが登場！"
                         game_titles = []
 
-                        if summary and len(summary) > 20:
-                            # HTMLタグを削除
-                            summary_clean = re.sub(r'<[^>]+>', '', summary)
-                            cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
+                        if summary:
+                            # Redditのメタ情報を削除
+                            cleaned_text = clean_reddit_meta(summary)
+                            cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
 
                             # ゲームタイトルを抽出（一般的なパターン）
                             # "Game1, Game2, Game3" や "- Game1 - Game2" などのパターンを検出
-                            if len(cleaned_text) > 100:
+                            if len(cleaned_text) > 20:
                                 # 長い説明文の場合、最初の400文字を使用
                                 if len(cleaned_text) > 400:
                                     cleaned_text = cleaned_text[:400] + "..."
 
                                 # 翻訳して人間的な説明に
                                 if translator:
-                                    translated_desc = translate_to_japanese(cleaned_text)
-                                    description = f"{translated_desc}"
+                                    try:
+                                        translated_desc = translate_to_japanese(cleaned_text)
+                                        description = f"{translated_desc}"
+                                    except:
+                                        description = f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
                                 else:
                                     description = cleaned_text
                             else:
-                                description = f"{platform}でお得なバンドル「{bundle_title}」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。"
+                                # クリーンアップ後のテキストが短い場合、AIで生成
+                                description = generate_description_with_ai(bundle_title, platform, "bundle")
                         else:
-                            description = f"{platform}でお得なバンドル「{bundle_title}」が登場！人気ゲームがセットで手に入るチャンスです。詳細はリンク先でご確認ください。"
+                            # summaryがない場合もAIで生成
+                            description = generate_description_with_ai(bundle_title, platform, "bundle")
 
                         bundles.append({
                             "title": bundle_title,
@@ -903,20 +982,31 @@ def fetch_reddit_sales():
                         # RSSのsummaryから詳細情報を抽出
                         description = f"{platform}でお得なセールが開催中！"
 
-                        if summary and len(summary) > 20:
-                            summary_clean = re.sub(r'<[^>]+>', '', summary)
-                            cleaned_text = summary_clean.replace('\n', ' ').replace('\r', ' ')
-                            if len(cleaned_text) > 300:
-                                cleaned_text = cleaned_text[:300] + "..."
+                        if summary:
+                            # Redditのメタ情報を削除
+                            cleaned_text = clean_reddit_meta(summary)
+                            cleaned_text = cleaned_text.replace('\n', ' ').replace('\r', ' ')
 
-                            # 英語の説明文を翻訳
-                            if translator:
-                                translated_desc = translate_to_japanese(cleaned_text)
-                                description = f"{translated_desc}"
+                            # 有効な説明文が残っている場合
+                            if len(cleaned_text) > 20:
+                                if len(cleaned_text) > 300:
+                                    cleaned_text = cleaned_text[:300] + "..."
+
+                                # 英語の説明文を翻訳
+                                if translator:
+                                    try:
+                                        translated_desc = translate_to_japanese(cleaned_text)
+                                        description = f"{translated_desc}"
+                                    except:
+                                        description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+                                else:
+                                    description = cleaned_text
                             else:
-                                description = cleaned_text
+                                # クリーンアップ後のテキストが短い場合、AIで生成
+                                description = generate_description_with_ai(japanese_title, platform, "sale")
                         else:
-                            description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。詳細はリンク先でご確認ください。"
+                            # summaryがない場合もAIで生成
+                            description = generate_description_with_ai(japanese_title, platform, "sale")
 
                         sales.append({
                             "title": japanese_title,

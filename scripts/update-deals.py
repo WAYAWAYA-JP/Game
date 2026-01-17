@@ -46,10 +46,17 @@ except Exception as e:
     print(f"警告: Gemini API初期化エラー: {e}")
     translator = None
 
+# 翻訳キャッシュ（同じテキストを何度も翻訳しない）
+translation_cache = {}
+
 def translate_to_japanese(text, max_retries=3):
     """Gemini APIで英語テキストを日本語に翻訳"""
     if not translator or not text:
         return text
+
+    # キャッシュをチェック
+    if text in translation_cache:
+        return translation_cache[text]
 
     try:
         # 長いテキストは分割して翻訳（5000文字以内）
@@ -74,9 +81,12 @@ def translate_to_japanese(text, max_retries=3):
                 if not response or not hasattr(response, 'text'):
                     raise Exception("APIから有効なレスポンスが返されませんでした")
 
-                # 成功した場合は少し待機（レート制限対策）
-                time.sleep(0.5)
-                return response.text.strip()
+                # 成功した場合は待機（レート制限対策: 1分20リクエスト = 3秒/リクエスト）
+                time.sleep(3.5)
+                translated_text = response.text.strip()
+                # キャッシュに保存
+                translation_cache[text] = translated_text
+                return translated_text
             except Exception as e:
                 error_msg = str(e)
                 error_type = type(e).__name__
@@ -84,7 +94,7 @@ def translate_to_japanese(text, max_retries=3):
                 if attempt < max_retries - 1:
                     # レート制限エラーの場合は長めに待機
                     if '429' in error_msg or 'quota' in error_msg.lower() or 'resource_exhausted' in error_msg.lower():
-                        wait_time = 10 * (attempt + 1)  # 10秒, 20秒, 30秒
+                        wait_time = 30 + (attempt * 30)  # 30秒, 60秒, 90秒
                         print(f"  レート制限エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
                         time.sleep(wait_time)
                     # 404エラーの場合はモデルが見つからない

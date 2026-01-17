@@ -31,9 +31,9 @@ try:
     GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
     if GEMINI_API_KEY:
         genai.configure(api_key=GEMINI_API_KEY)
-        # gemini-1.5-flash: 安定版で無料枠が広い（15 RPM, 1M TPM, 1500 RPD）
-        translator = genai.GenerativeModel('gemini-1.5-flash')
-        print("✅ Gemini API接続成功 (gemini-1.5-flash)")
+        # gemini-2.5-flash: 2026年現在の最新安定版
+        translator = genai.GenerativeModel('gemini-2.5-flash')
+        print("✅ Gemini API接続成功 (gemini-2.5-flash)")
     else:
         translator = None
         print("警告: GEMINI_API_KEYが設定されていません。翻訳をスキップします。")
@@ -69,25 +69,38 @@ def translate_to_japanese(text, max_retries=3):
 {text}"""
 
                 response = translator.generate_content(prompt)
+
+                # レスポンスの検証
+                if not response or not hasattr(response, 'text'):
+                    raise Exception("APIから有効なレスポンスが返されませんでした")
+
                 # 成功した場合は少し待機（レート制限対策）
                 time.sleep(0.5)
                 return response.text.strip()
             except Exception as e:
                 error_msg = str(e)
+                error_type = type(e).__name__
+
                 if attempt < max_retries - 1:
                     # レート制限エラーの場合は長めに待機
-                    if '429' in error_msg or 'quota' in error_msg.lower():
+                    if '429' in error_msg or 'quota' in error_msg.lower() or 'resource_exhausted' in error_msg.lower():
                         wait_time = 10 * (attempt + 1)  # 10秒, 20秒, 30秒
-                        print(f"  レート制限エラー。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
+                        print(f"  レート制限エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
                         time.sleep(wait_time)
+                    # 404エラーの場合はモデルが見つからない
+                    elif '404' in error_msg or 'not found' in error_msg.lower():
+                        print(f"  エラー: Gemini APIモデルが見つかりません。モデル名を確認してください。")
+                        print(f"  詳細: {error_msg}")
+                        return text
                     else:
                         wait_time = 3 * (attempt + 1)  # 3秒, 6秒, 9秒
-                        print(f"  翻訳リトライ中... ({attempt + 1}/{max_retries})")
+                        print(f"  翻訳エラー ({error_type})。{wait_time}秒待機後リトライ... ({attempt + 1}/{max_retries})")
+                        print(f"  エラー詳細: {error_msg}")
                         time.sleep(wait_time)
                 else:
                     raise e
     except Exception as e:
-        print(f"  翻訳エラー: {e}")
+        print(f"  翻訳エラー ({type(e).__name__}): {e}")
         return text  # 翻訳失敗時は元のテキストを返す
 
 def fetch_epic_free_games():

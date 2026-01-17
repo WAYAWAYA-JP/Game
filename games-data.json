@@ -55,7 +55,7 @@
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "私は最近、サブスクリプション サービスにゲームがいつ登場するかを予測する小さなプロジェクトを構築しました。当初は PlayStation Plus、Gamepass、または Epic Games Store の特典のみをサポートしていました。しかし今、私は Humble Choice を追加しました。このツールは、Python ロジックと、2010 年から 2026 年 1 月上旬までの過去のプレゼント データでトレーニングされたモデルを使用して、サブスクリプション サービスでゲームがいつドロップされるかを推定します。",
+        "description": "私は最近、サブスクリプション サービスにゲームがいつ掲載されるかを予測する小さなプロジェクトを構築しました。当初は PlayStation Plus、Gamepass、または Epic Games Store の特典のみをサポートしていました。しかし今、私は Humble Choice を追加しました。このツールは、Python ロジックと、2010 年から 2026 年 1 月初旬までの過去のプレゼント データでトレーニングされたモデルを使用して、サブスクリプション サービスでゲームがいつドロップされるかを推定します。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -453,5 +453,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T09:35:50.705013"
+  "last_updated": "2026-01-17T12:23:10.969532"
 }

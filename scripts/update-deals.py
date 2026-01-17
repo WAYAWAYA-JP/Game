@@ -73,7 +73,55 @@ def clean_reddit_meta(text):
 
     return text.strip()
 
-def generate_description_with_ai(title, platform, deal_type="sale"):
+def generate_description_with_ai(title, platform, deal_typdef generate_description_with_ai(title, platform, deal_type="sale", original_text=""):
+    """Groq APIを使ってタイトル（と元テキスト）から説明文を生成（失敗時はデフォルト説明文）"""
+    if not groq_client:
+        # Groq APIが利用できない場合はデフォルトの説明文
+        if deal_type == "sale":
+            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        else:
+            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
+
+    try:
+        # Groq APIで説明文を生成
+        if original_text and len(original_text) > 10:
+            # 元テキストがある場合は、それを要約
+            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}情報から、魅力的な紹介文を日本語で1-2文で生成してください。
+ゲーマー向けに、簡潔でワクワクする文章にしてください。
+
+プラットフォーム: {platform}
+タイトル: {title}
+元の説明: {original_text[:500]}
+
+紹介文のみを出力してください。"""
+        else:
+            # タイトルのみから生成
+            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}のタイトルから、魅力的な紹介文を日本語で1-2文で生成してください。
+ゲーマー向けに、簡潔でワクワクする文章にしてください。
+
+プラットフォーム: {platform}
+タイトル: {title}
+
+紹介文のみを出力してください。"""
+
+        response = groq_client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,
+            max_tokens=150
+        )
+
+        description = response.choices[0].message.content.strip()
+        return description if description else (
+            f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
+        )
+
+    except Exception as e:
+        print(f"  AI説明文生成エラー: {e}")
+        if deal_type == "sale":
+            return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        else:
+            return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"e="sale"):
     """Groq APIを使ってタイトルから説明文を生成（失敗時はデフォルト説明文）"""
     if not groq_client:
         # Groq APIが利用できない場合はデフォルトの説明文

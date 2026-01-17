@@ -43,7 +43,7 @@
         "title": "[Fanatical] Build Your Own Best of Indie Legends Bundle (New Year 2026) (2/4/7 for $4.99/$8.99/$13.99 and choose from EVERSPACE Ultimate Edition / DUSK & AMID EVIL Double Pack / Lethal League Blaze / Human Fall Flat / Frog Detective 3: Corruption at Cowboy County / Tinykin / Pathologic 2 / More)",
         "platform": "Fanatical",
         "type": "bundle",
-        "description": "自分だけのインディーレジェンド・ベストバンドルをゲットしよう！ (2026年 新春)\n\n選択タイトル数 GBP USD EUR CAD AUD RUB JPY\n2本 £ 4.99 $ 4.99 € 4.99 $ 6.99 $ 8.20 470 ₽ ¥870\n4本 £ 8.99 $ 8.99 € 8.99 $ 12.39 $ 14.79 840 ₽ ¥1,560\n7本 £ 13.99 $ 13.99 € 13.99 $ 19.49 $ 22.99 1,300 ₽ ¥2,450\n\n1本あたりの価格*\nティア GBP USD EUR CAD AUD RUB JPY\n1 £ 2.50 $ 2.50 € 2.50 $ 3.50 $ 4.10 235 ₽ ¥435\n...",
+        "description": "Build Your Own Best of Indie Legends Bundle (New Year 2026)   Number of Titles GBP USD EUR CAD AUD RUB JPY    2  £ 4.99  $ 4.99  € 4.99  $ 6.99  $ 8.20  470 ₽ ¥870   4  £ 8.99  $ 8.99  € 8.99  $ 12.39  $ 14.79  840 ₽ ¥1,560   7  £ 13.99  $ 13.99  € 13.99  $ 19.49  $ 22.99  1,300 ₽ ¥2,450   Price per item*   Tier GBP USD EUR CAD AUD RUB JPY    1  £ 2.50  $ 2.50  € 2.50  $ 3.50  $ 4.10  235 ₽ ¥435  ...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -55,7 +55,7 @@
         "title": "I created a tool to estimate when games could drop on Humble Bundle (Choice/Monthly), PlayStation Plus, Epic (free), and Xbox Gamepass.",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "最近、サブスクサービスにゲームがいつ登場するかを予測するちょっとしたプロジェクトを作ってみました。当初はPlayStation Plus、Game Pass、Epic Gamesストアの無料配布にしか対応していませんでしたが、今回Humble Choiceも追加しました。このツールは、Pythonのロジックと、2010年から2026年1月上旬までの過去の無料配布データを学習させたモデルを使って、ゲームがいつサブスクサービスに追加されるかを予測してくれます。",
+        "description": "I recently built a small project that tries to estimate when games might appear on Subscription services. Initially it only supported PlayStation Plus, Gamepass, or the Epic Games Store giveaways. But now I've added Humble Choice. The tool uses python logic and models trained on historical giveaway data from 2010 to Early January 2026 to give estimates on when games might drop on subscription serv...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -67,7 +67,7 @@
         "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "Humble Talkの最新エピソードを公開しました！今月のHumble Choiceバンドルについて、じっくりと語り合います。ソニックフロンティアは現代ソニックの最高傑作なのか？メタルスラッグはローグライトタクティクスとして成功できるのか？そして、リマスター作品って、もう十分すぎるほどじゃない？（答えはイエス、多すぎる！）。これらの議論をはじめ、Humble Talkの最新エピソードをぜひチェックしてください！",
+        "description": "      We’ve just put up the latest episode of Humble Talk, where we sit down and chat through this month’s Humble Choice bundle. Is Frontier the best modern Sonic game? Can Metal Slug succeed as a roguelite tactics? And can you ever have too many remasters? (The answer is yes). These discussions and more in the latest episode of Humble Talk!  &#32; submitted by &#32;  /u/DeckusHeadus   [link] &#32...",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -152,7 +152,7 @@
         "is_translated": false
       },
       {
-        "title": "ソニック レーシング: クロスワールド レビュー",
+        "title": "Sonic Racing: Crossworlds review",
         "platform": "PC Gamer",
         "type": "review",
         "description": "A robust kart racer to rival Nintendo's own, though one which comes with plenty of similar baggage. PC Gamerによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
@@ -219,10 +219,10 @@
     ],
     "sale": [
       {
-        "title": "[Steam] ザ・ワールド・エンズ・イン・オハイオ ($2.39 / 40%オフ)",
+        "title": "[Steam] The World Ends in Ohio ($2.39 / 40% off)",
         "platform": "Steam",
         "type": "sale",
-        "description": "投稿者：u/PDS_Games [リンク] [コメント]",
+        "description": "      &#32; submitted by &#32;  /u/PDS_Games   [link] &#32; [comments] ",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -234,7 +234,43 @@
         "title": "[Steam] Super Woden Rally Edge ($9.09 / 30% off)",
         "platform": "Steam",
         "type": "sale",
-        "description": "思考プロセス：\n\n1.  **原文の理解:**\n    `submitted by /u/Minnesota_Arouser [link] [comments]`\n    これはRedditなどの掲示板でよく見られる「投稿者情報」のフォーマット。\n    *   `submitted by`: 投稿者、提出者\n    *   `/u/Minnesota_Arouser`: ユーザー名。Redditでは`/u/`がプレフィックスとして付く。\n    *   `[link]`: 元記事へのリンク\n    *   `[comments]`: コメントセクションへのリンク\n\n2.  **ターゲット読者と文脈の特定:**\n    *   「ゲーム記事の翻訳なので、ゲーマーに伝わりやすい表現を使用してください。」\n    *   ゲーマーはRedditなどのインターネット掲示板に慣れている可能性が高い。\n    *   「投稿者」という堅苦しい表現よりも、よりカジュアルでコミュニティ感のある言葉が好ましい。\n    *   `[link]`や`[comments]`は、原文のまま、またはそれに対応する日本語表現で簡潔に。\n\n3.  **表現の検討:**\n\n    *   **`submitted by`:**\n        *   「投稿者」：堅い。\n        *   「投稿元」：少し堅い。\n        *   「投稿」：シンプルで良い。\n        *   「投稿者：」：これも良い。\n        *   「提出元」：不自然。\n        *   「～が投稿」：これも良い。\n\n    *   **`/u/Minnesota_Arouser`:**\n        *   `/u/`はRedditの慣習なので、残すか、削除して「ユーザー名」と明示するか。ゲーマーなら`/u/`がユーザー名プレフィックスだと認識できる可能性が高い。残す方が原文に忠実で、情報が欠落しない。\n\n    *   **`[link]`:**\n        *   「[リンク]」：直接的で分かりやすい。\n        *   「[元記事]」：文脈によっては適切だが、単にリンクを示すなら「リンク」で十分。\n        *   「[元スレ]」：Reddit文脈ならありだが、汎用性を持たせるなら「リンク」。\n        *   「[記事へのリンク]」：少し長い。\n\n    *   **`[comments]`:**\n        *   「[コメント]」：直接的で分かりやすい。\n        *   「[コメント欄]」：少し長い。\n        *   「[意見]」：少し違う。\n\n4.  **組み合わせと調整:**\n\n    *   **案1: 投稿者： /u/Minnesota_Arouser [リンク] [コメント]**\n        *   自然。\n\n    *   **案2: 投稿： /u/Minnesota_Arouser [リンク] [コメント]**\n        *   これも自然。\n\n    *   **案3: /u/Minnesota_Arouser が投稿 [リンク] [コメント]**\n        *   これも自然だが、Redditの表示形式では「submitted by」の後にユーザー名が来るのが一般的で、日本語でも「投稿者：」や「投稿元：」のような形が収まりが良い。\n\n    *   **よりゲーマー向け/インターネットスラングに寄せるか？**\n        *   「スレ主」のような表現も考えられるが、これはあくまで「投稿者」であり、Redditでは「OP (Original Poster)」を使うことが多い。しかし、この一文はOPというよりは機械的な表示なので、そこまで崩す必要はないと判断。\n        *   「コメント欄」を「コメ欄」と略すこともできるが、この定型文では標準的な表記が望ましい。\n\n5.  **最終決定:**\n    「投稿者： /u/Minnesota_Arouser [リンク] [コメント]」が、ゲーマーにも違和感なく伝わり、かつ原文の意味とフォーマットを保てると判断。\n\n    もう少しカジュアルにするなら「投稿：」も候補だが、「投稿者：」の方がより投稿元を明確に示している。RedditなどのSNSでは「submitted by」という表現が使われるため、「投稿者」や「投稿元」が自然。\n\n    最終的に「投稿者： /u/Minnesota_Arouser [リンク] [コメント]」が最も適切と判断。",
+        "description": "      &#32; submitted by &#32;  /u/Minnesota_Arouser   [link] &#32; [comments] ",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] Quantum Odyssey ( 9,09€ / 30% Off )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "      &#32; submitted by &#32;  /u/QuantumOdysseyGame   [link] &#32; [comments] ",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "Save 80% on For The King on Steam [$3.99] / Deluxe Edition 73% off [$5.93]",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "      &#32; submitted by &#32;  /u/svint97   [link] &#32; [comments] ",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-17"
+      },
+      {
+        "title": "[Steam] ザ・ワールド・エンズ・イン・オハイオ ($2.39 / 40%オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "投稿者：u/PDS_Games [リンク] [コメント]",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -259,30 +295,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "投稿者： /u/svint97 [リンク] [コメント]",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-17"
-      },
-      {
-        "title": "[Steam] The World Ends in Ohio ($2.39 / 40% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "      &#32; submitted by &#32;  /u/PDS_Games   [link] &#32; [comments] ",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-17"
-      },
-      {
-        "title": "[Steam] Quantum Odyssey ( 9,09€ / 30% Off )",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "      &#32; submitted by &#32;  /u/QuantumOdysseyGame   [link] &#32; [comments] ",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -406,5 +418,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17T04:02:27.325654"
+  "last_updated": "2026-01-17T04:58:21.679847"
 }

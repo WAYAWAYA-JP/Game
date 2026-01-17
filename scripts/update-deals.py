@@ -78,8 +78,6 @@ def clean_reddit_meta(text):
 
     return text.strip()
 
-保存
-
 def generate_description_with_ai(title, platform, deal_type="sale", original_text=""):
     """Groq APIを使ってタイトル（と元テキスト）から説明文を生成（失敗時はデフォルト説明文）"""
     if not groq_client:

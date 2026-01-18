@@ -55,7 +55,7 @@ except Exception as e:
     groq_client = None
 
 def clean_reddit_meta(text):
-    """Redditのメタ情報を削除"""
+    """Redditのメタ情報を徹底的に削除"""
     if not text:
         return ""
 
@@ -67,18 +67,38 @@ def clean_reddit_meta(text):
     # HTMLタグを削除
     text = re.sub(r'<[^>]+>', '', text)
 
-    # "submitted by /u/..." パターンを完全に削除（日本語訳も含む）
-    text = re.sub(r'submitted by /u/\S+.*', '', text, flags=re.IGNORECASE)
+    # "submitted by /u/..." パターンを完全に削除（英語・日本語両方）
+    text = re.sub(r'.*?submitted by.*?/u/\S+.*', '', text, flags=re.IGNORECASE)
     text = re.sub(r'/u/\S+\s*によって送信されました.*', '', text)
     text = re.sub(r'/u/\S+\s*により送信.*', '', text)
+    text = re.sub(r'/u/\S+\s*が投稿.*', '', text)
     text = re.sub(r'送信者.*?/u/\S+.*', '', text)
+    text = re.sub(r'投稿者.*?/u/\S+.*', '', text)
+    text = re.sub(r'提供元.*?/u/\S+.*', '', text)
+
+    # Redditユーザー名パターンを削除（単体でも）
+    text = re.sub(r'u/\w+', '', text)
+    text = re.sub(r'/u/\w+', '', text)
 
     # [link], [comments] などを削除
     text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
     text = re.sub(r'\[リンク\]|\[コメント\]', '', text)
 
-    # 複数の空白を1つに
+    # "サイレント思考:" や "翻訳のポイント:" などAIの思考過程を削除
+    text = re.sub(r'サイレント思考:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'翻訳のポイント:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'案\d+:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な判断:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な翻訳:.*', '', text, flags=re.DOTALL)
+
+    # 価格表のような不自然な羅列を削除
+    text = re.sub(r'タイトル数\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'Tier\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'£\s*[\d.]+\s+\$\s*[\d.]+.*?¥\s*[\d,]+.*', '', text)
+
+    # 複数の空白・改行を1つに
     text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\n+', ' ', text)
 
     return text.strip()
 
@@ -1818,6 +1838,51 @@ def update_games_data():
 
             # 最新20件を保持（より多くのセール情報を表示）
             data['pc']['sale'] = unique_sales[:20]
+
+        # 保存前に全カテゴリのデータをクリーニング（常に実行）
+        print("\n🧹 全データのクリーニング中...")
+        cleaned_count = 0
+
+        # バンドルをクリーニング
+        if 'bundle' in data.get('pc', {}):
+            for item in data['pc']['bundle']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # セールをクリーニング
+        if 'sale' in data.get('pc', {}):
+            for item in data['pc']['sale']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # 無料ゲームをクリーニング
+        if 'free' in data.get('pc', {}):
+            for item in data['pc']['free']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # レビューをクリーニング
+        if 'review' in data.get('pc', {}):
+            for item in data['pc']['review']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        if cleaned_count > 0:
+            print(f"  ✨ {cleaned_count}件の説明文をクリーニングしました")
+        else:
+            print("  ✓ クリーニングが必要なデータはありませんでした")
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

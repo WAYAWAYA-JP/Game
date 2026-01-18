@@ -80,7 +80,7 @@ def clean_reddit_meta(text):
     text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
     text = re.sub(r'\[リンク\]|\[コメント\]', '', text)
 
-    # Redditユーザー名パターンを削除
+    # Redditユーザー名パターンを削除（単体でも）
     text = re.sub(r'u/\w+', '', text)
     text = re.sub(r'/u/\w+', '', text)
 
@@ -93,6 +93,7 @@ def clean_reddit_meta(text):
     text = re.sub(r'翻訳のポイント:.*', '', text, flags=re.DOTALL)
     text = re.sub(r'案\d+:.*', '', text, flags=re.DOTALL)
     text = re.sub(r'最終的な判断:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な翻訳:.*', '', text, flags=re.DOTALL)
 
     # 価格表のような不自然な羅列を削除
     # "タイトル数 GBP USD EUR..." のようなパターン
@@ -1746,13 +1747,28 @@ def update_games_data():
 
             # 新しい情報を先頭に追加
             all_new_games = epic_games + reddit_games
+
+            # 保存前に説明文をクリーニング（Redditメタデータ削除）
+            for game in all_new_games:
+                if 'description' in game and game['description']:
+                    game['description'] = clean_reddit_meta(game['description'])
+
+            # 既存のゲームもクリーニング
+            for game in data['pc']['free']:
+                if 'description' in game and game['description']:
+                    game['description'] = clean_reddit_meta(game['description'])
+
             data['pc']['free'] = all_new_games + data['pc']['free']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_games = []
             for game in data['pc']['free']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = game.get('title', '').lower()
+                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+
                 if title_key not in seen_titles:
                     seen_titles.add(title_key)
                     unique_games.append(game)
@@ -1765,6 +1781,10 @@ def update_games_data():
             for article in review_articles:
                 print(f"  - {article['title'][:50]}... ({article['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in article and article['description']:
+                    article['description'] = clean_reddit_meta(article['description'])
+
             # reviewカテゴリが存在しない場合は作成
             if 'review' not in data['pc']:
                 data['pc']['review'] = []
@@ -1774,6 +1794,10 @@ def update_games_data():
             current_date = datetime.now()
             manual_reviews = []
             for review in data['pc']['review']:
+                # 既存のレビューもクリーニング
+                if 'description' in review and review['description']:
+                    review['description'] = clean_reddit_meta(review['description'])
+
                 try:
                     review_date = datetime.strptime(review.get('date', ''), "%Y-%m-%d")
                     days_old = (current_date - review_date).days
@@ -1805,9 +1829,18 @@ def update_games_data():
             for bundle in reddit_bundles:
                 print(f"  - {bundle['title'][:50]}... ({bundle['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in bundle and bundle['description']:
+                    bundle['description'] = clean_reddit_meta(bundle['description'])
+
             # bundleカテゴリが存在しない場合は作成
             if 'bundle' not in data['pc']:
                 data['pc']['bundle'] = []
+
+            # 既存のバンドルもクリーニング
+            for bundle in data['pc']['bundle']:
+                if 'description' in bundle and bundle['description']:
+                    bundle['description'] = clean_reddit_meta(bundle['description'])
 
             # 自動取得された古いバンドル情報を削除（14日以上前）
             # バンドルは通常2-4週間続くため、より長く保持する
@@ -1816,11 +1849,15 @@ def update_games_data():
             # 新しい情報を先頭に追加
             data['pc']['bundle'] = reddit_bundles + data['pc']['bundle']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_bundles = []
             for bundle in data['pc']['bundle']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = bundle.get('title', '').lower()
+                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+
                 if title_key not in seen_titles:
                     seen_titles.add(title_key)
                     unique_bundles.append(bundle)
@@ -1834,9 +1871,18 @@ def update_games_data():
             for sale in reddit_sales:
                 print(f"  - {sale['title'][:50]}... ({sale['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in sale and sale['description']:
+                    sale['description'] = clean_reddit_meta(sale['description'])
+
             # saleカテゴリが存在しない場合は作成
             if 'sale' not in data['pc']:
                 data['pc']['sale'] = []
+
+            # 既存のセールもクリーニング
+            for sale in data['pc']['sale']:
+                if 'description' in sale and sale['description']:
+                    sale['description'] = clean_reddit_meta(sale['description'])
 
             # 自動取得された古いセール情報を削除（10日以上前）
             # セールは通常1-2週間続くため、やや長く保持する
@@ -1845,17 +1891,66 @@ def update_games_data():
             # 新しい情報を先頭に追加
             data['pc']['sale'] = reddit_sales + data['pc']['sale']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_sales = []
             for sale in data['pc']['sale']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = sale.get('title', '').lower()
+                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+
                 if title_key not in seen_titles:
                     seen_titles.add(title_key)
                     unique_sales.append(sale)
 
             # 最新20件を保持（より多くのセール情報を表示）
             data['pc']['sale'] = unique_sales[:20]
+
+        # 保存前に全カテゴリのデータをクリーニング（常に実行）
+        print("\n🧹 全データのクリーニング中...")
+        cleaned_count = 0
+
+        # バンドルをクリーニング
+        if 'bundle' in data.get('pc', {}):
+            for item in data['pc']['bundle']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # セールをクリーニング
+        if 'sale' in data.get('pc', {}):
+            for item in data['pc']['sale']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # 無料ゲームをクリーニング
+        if 'free' in data.get('pc', {}):
+            for item in data['pc']['free']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # レビューをクリーニング
+        if 'review' in data.get('pc', {}):
+            for item in data['pc']['review']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        if cleaned_count > 0:
+            print(f"  ✨ {cleaned_count}件の説明文をクリーニングしました")
+        else:
+            print("  ✓ クリーニングが必要なデータはありませんでした")
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

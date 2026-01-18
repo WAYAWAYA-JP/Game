@@ -5,7 +5,7 @@
         "title": "Styx: Master of Shadows - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Styx: Master of Shadows は、ダークファンタジーの世界を舞台にした、RPG要素を取り入れた潜入ゲームです。このゲームでは、2世紀もの間生き続けてきたゴブリンのStyxとなり、闇に紛れて盗みを働いたり、暗殺を実行したりしながら、ゲームを進めます。プレイヤーは、Styxの非凡な能力を活用して、様々なミッションを遂行し、ゴブリンの世界を体験します。ゲームの世界は、陰鬱で不気味な雰囲気を漂わせており、プレイヤーを引き込む魅力的なストーリーや、奥深いキャラクター設定が用意されています。",
+        "description": "Styx: Master of Shadowsは、ダークファンタジーの世界を舞台にした、RPG要素のある潜入ゲームです。2世紀にわたって生きたゴブリンのStyxとなり、影に隠れて敵を出し抜き、盗みや暗殺をしながらゲームを進めます。このゲームでは、Styxの能力を活用して、様々なミッションを遂行し、ダークファンタジーの世界で生き残るために必要な戦略と戦術を身に付けます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Styx が新しいステルス アドベンチャーで帰ってきたです！広大なオープンな世界を自由に探索し、新しい敵やボスをこっそり通り過ぎたり、暗殺したりしてみましょう。ゴブリン暗殺者の武器庫には、新しい必殺技や武器が用意されています。さまざまな能力や武器を使いこなして、敵を倒しましょう。",
+        "description": "Styx が新しいステルス アドベンチャーで帰ってきた！広大なオープン環境を自由に探索し、マスターすることができます。新たな敵やボスは、こっそり通り過ぎたり、暗殺したりできるでしょう。ゴブリン暗殺者の武器庫には、新たな致死能力や武器が用意されているので、試してみてください。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -28,10 +28,10 @@
     ],
     "bundle": [
       {
-        "title": "Curve Games 年末セール - For The King II、Human Fall Flat 他",
+        "title": "カーブゲームス年末セール For The King II、Human Fall Flatなど大幅割引",
         "platform": "Steam",
         "type": "bundle",
-        "description": "/u/CG_Sean によって送信されました",
+        "description": "カーブゲームス年末セールは、Steam上で開催中です。人気タイトル『For The King II』や『Human Fall Flat』など、魅力的なゲームが大幅な割引で提供されています。『For The King II』は、戦略とロールプレイングの要素を組み合わせた、深みのあるゲームプレイが特徴です。プレイヤーは、戦闘や探索を通して成長し、複数のキャラクターを操作して様々なミッションを遂行します。\n\n一方、ユーモラスなグラフィックと面白いゲーム性が人気の『Human Fall Flat』も割引対象です。このゲームでは、不器用なキャラクターを操作して、さまざまな障害を乗り越え、ゴールを目指します。物理エンジンを活かした面白い操作感が楽しめます。\n\nこれらのゲームは、割引期間限定で大幅に安くなっているので、興味を持ったゲーマーにはお勧めです。Steamでカーブゲームス年末セールをチェックし、心に残るゲーム体験を今すぐ体験しましょう。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -43,12 +43,72 @@
         "title": "The Iceberg Hidden Gems Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
-        "description": "/u/LighteningOneIN によって送信されました",
+        "description": "Humble Bundle では、The Iceberg Hidden Gems Bundle という特集バンドルが現在提供されています。様々なジャンルのゲームを低価格でお得に購入できるこのバンドルは、隠れた名作と呼ばれるゲームをまとめたコレクションです。\n\nこのバンドルには、インディーゲームやAAAタイトルなどの様々なゲームが収録されています。アクションゲームやロールプレイングゲーム、パズルゲームなど、多種多様なジャンルのゲームが楽しめるため、ゲーマーにとって非常に魅力的です。\n\nさらに、The Iceberg Hidden Gems Bundle では、ゲーム開発者の努力と創造性が光る作品を発見することができます。これらのゲームは、メジャータイトルとの差別化を図りながらも、独自の魅力を持ちます。\n\nHumble Bundle での購入により、好きなゲームを低価格で手に入れることができ、ゲーマーとしての楽しみを倍増させることができます。The Iceberg Hidden Gems Bundle は、ゲームを愛する人々が新たな発見を求めるのに最適な選択です。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Humble Book Bundle：Knit Happens！ for PC",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Book Bundle：Knit Happens！は、Humble Bundleが提供するPC 用の本のバンドルです。このバンドルには、ニットや編み物のテーマが中心の本が収録されています。ニットや編み物が好きな方には、必見のコンテンツが多数含まれています。実用的なパターンやデザインから、美しい写真やインスピレーションのものまで、様々な種類の本が収録されています。\n\nこのバンドルには、プロのデザイナーによる実践的な指導書や、初心者向けのステップバイステップのガイドなどが含まれています。さらに、ニットや編み物の文化や歴史についての本もあり、ホビーの新たな深みを探求することができます。Humble Book Bundle：Knit Happens！は、ニットや編み物の愛好家にとって非常に魅力的で、楽しみながら新しいスキルを身に付けることができるコンテンツを提供しています。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Humble BundleやPS Plusなどへのリリース予測ツールを作成",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "ゲームの世界で新しい機会を探している方におすすめなツールが登場しました。Humble BundleやPS Plusへのリリース予測ツールを作成することができます。このツールを使うことで、最新のゲームタイトルがどのプラットフォームでリリースされるかを予測することができます。ゲームファンにとっては、待ちに待った新作ゲームのリリース日を知ることができるため、非常に便利なツールです。\n\nこのツールは、過去のリリースデータやトレンドを分析して、未来のリリース予測を行います。Humble BundleやPS Plusのような人気プラットフォームでのリリースを予測することで、ゲームファンは新しいゲームを事前に知ることができ、購入やプレイの計画を立てることができます。さらに、ゲーム開発者やパブリッシャーも、このツールを使用してリリース戦略を立てることができます。\n\nこのツールの作成は、ゲームファンや開発者にとって非常に有益です。新しいゲームのリリースを予測することで、ゲームの世界で新しい機会を掴むことができます。ゲームの最新情報を知りたい方や、ゲーム開発に興味がある方には、必見のツールです。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Talk January 2026は、Humble Choiceの最新ラインナップを紹介するスペシャルエディションです。このバンドルでは、待望のソニックシリーズ最新作『ソニック フロンティア』が登場します。開放された広大なフィールドで自由に冒険できるこのゲームは、シリーズファン必見の作品です。\n\nさらに、本バンドルには『Hunt: Showdown 1896』も含まれています。このプレイヤー対プレイヤー対環境（PvPvE）のファーストパーソンシューティングゲームは、19世紀末のアメリカ西部を舞台に、プレイヤーが恐ろしい怪物と戦い、賞金を狙う競争相手から生き残るという、ハートを躍らすサバイバル体験を提供します。\n\nHumble ChoiceのJanuary 2026ラインナップは、これら2つのタイトルに加え、さらに多くの魅力的なゲームが収録されています。多様なジャンルやプレイスタイルを網羅するこのバンドルは、ゲーマーにとってとっておきのプレゼントとなります。新しいゲームを発見したり、既存のファンが楽しめるように、様々なタイトルが揃っています。Humble Talk January 2026をチェックして、Humble Choiceの最新の魅力的なゲームコレクションを体験してみてください。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Bundles",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでBundlesが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Curve Games 年末セール - For The King II、Human Fall Flat 他",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "/u/CG_Sean によって送信されました",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
         "date": "2026-01-18"
       },
       {
@@ -73,30 +133,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-18"
-      },
-      {
-        "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Choice の最新バンドルについて話し合う、Humble Talk の新しいエピソードが公開されました。このエピソードでは、現代最高のソニック ゲームはフロンティアなのか、メタルスラッグはローグライト戦術として成功できるのか、リマスターが多すぎているという意見について議論しています。また、他のゲームに関するトピックも取り上げています。Humble Talk の最新エピソードで、これらの話題を詳しく知ることができます。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-18"
-      },
-      {
-        "title": "Bundles",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでBundlesが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
-        "price": "お得価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/bundles",
         "date": "2026-01-18"
       },
       {
@@ -170,38 +206,14 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-17"
-      },
-      {
-        "title": "Humble RPG Bundle: So You Wanna Try Out Call of Cthulhu by Chaosium (pay what you want and help charity)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "/u/Ram000n によって送信されました",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-17"
-      },
-      {
-        "title": "[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでお得なバンドル「[Humble] Vibrant Visual Novels (Pay $6 for If My Heart had Wings, Gal* Gun Returns, Endless Monday: Dreams and Deadlines, Go! Go! Nippon! Complete Collection, eden* and $12 for Needy Streamer Overload, The Expression Amrilato, A Sky Full of Stars, etc)」が登場！複数のゲームがセットになった期間限定のスペシャルオファーです。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-16"
       }
     ],
     "review": [
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "【：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日はドラット、時間を見てください！記事を書くべきではない。バンに箱を積んでいるはずだ。必死に家具を分解する。そして、私の引っ越しを「手伝って」いる友人たちが、お茶をすするために立ち止まろうとするのを止めました。まるで私がどれくらいの時間を費やしたか知らないようです。友人たちと一緒に引っ越し作業に没頭していた土曜日は、時間がどれだけ過ぎても気付かないほど忙しく、その疲労は私の体に深く刻まれているようです。",
+        "description": "土曜日はドラット、時間を確認してください。記事を書くべきではない時間です。バンのトランクに家具を積み込むべきです。必死に家具を分解し、引っ越しを手伝ってくれる友人たちが、お茶を飲むために立ち止まろうとするのを制止しています。まるで私がどれくらいの時間を費やしているかがわからないようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +223,10 @@
         "is_translated": true
       },
       {
-        "title": "ロックスターは公式のロールプレイMODストアを立ち上げました。このストアでは、約67ドルを支払うことで、GTAをEuro Truck Simulator 2に変えることができます。ロールプレイMODとは、ゲームの内容を自由に改変できるようにする機能で、ユーザーが新しいゲーム体験を楽しむことができます。Euro Truck Simulator 2は、ヨーロッパのトラック運転を体験できるシミュレーションゲームで、GTAと比べると全く異なるゲーム性を持っています。MODストアでは、さまざまなゲームのMODが提供されており、ユーザーは自分の好みに合わせてゲームをカスタマイズすることができます。ロックスターの公式MODストアは、ゲームファンにとって新しい楽しみ方を提供することで、ゲームの可能性をさらに広げています。",
+        "title": "【GTA：レビュー】\n【Euro Truck Simulator 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 5を釣りシミュレーターにするために約6,700ドルを費やすことにしたことがあるでしょうか。このような思いを抱いたことがある人は、今日は幸運な日です。ロックスターと提携しているGTAのロールプレイングサーバーの運営を行うCfx.re（FiveMやRedMの開発元）は、多数のアイテムを購入できるストア「Cfxマーケットプレイス」を立ち上げました。このマーケットプレイスでは、ユーザーは好みのアイテムを購入して、GTA 5の世界をより個性的に楽しむことができます。",
+        "description": "GTA 5 を釣りシミュレーターにするために、67 ドルから 50 ポンド程度を費やしたいと思ったことがあるなら、今日は幸運な日です。ロックスターと提携している GTA のロールプレイングサーバーオペレーターである Cfx.re (FiveM と RedM の開発元) が、様々なアイテムを購入できるストア「Cfx マーケットプレイス」を立ち上げました。このマーケットプレイスでは、ユーザーが自由にアイテムを購入して、GTA 5 の世界を更に豊かにすることができます。ロックスターの公式サーバーでは利用できない、様々なカスタムアイテムやゲームモードを手に入れることができるため、GTA 5 ファンにはとっておきの嬉しいニュースです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,10 +236,10 @@
         "is_translated": true
       },
       {
-        "title": "Steam DeckでHytaleをプレイするために、少しの工夫が必要ですが、その努力は間違いなく報われます。",
+        "title": "【Hytale：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Hytale は早期アクセスリリースの直前まで、Steam Deck に対応したポータビリティを実現する可能性が誰にも予想できませんでした。ブロック状のサンドボックスを開発している Hypixel ですら、自信を持っておらず、SteamOS に対応したネイティブの Linux バージョンを発表しましたが、実際の Steam リリースは見送られたようです。ただし、開発チームは Linux 版のリリースを実現したことは、良い出来事です。Steam Deck での動作も期待できることでしょう。",
+        "description": "Hytale の早期アクセスリリース直前まで、Steam Deck でのプレイが可能になるポータビリティを実現する可能性は、誰も予想できなかったことでした。ブロック状のサンドボックスゲームを開発している Hypixel では、SteamOS に対応したネイティブの Linux バージョンを発表しましたが、実際の Steam リリースは見送られたことです。ただし、Hypixel では SteamOS にフレンドリーなバージョンをリリースしたことは評価できます。Hytale の Steam Deck でのプレイは、ゲーマーの間で期待される機能のひとつであり、今後も注目されることになりそうです。Hytale の開発チームは、Steam Deck でのプレイに対応するための努力を続けており、将来的にはより多くのゲーマーがこのゲームを楽しむことができるようになる可能性があります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,10 +249,10 @@
         "is_translated": true
       },
       {
-        "title": "グールとルーシーの旅は、ファルアウトシリーズの中で最高の傑作と言っても過言ではありません。彼らの旅は、ポストアポカリプスの世界を舞台に、さまざまな冒険や戦闘を通じて、2人の絆が深まっていく様子を描いています。",
+        "title": "【Fallout：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "エラ・パーネルのルーシー・マクレーンとウォルトン・ゴギンのこれまでのグールの旅は、Fallout の初期のゲームプレイのウォークスルーと驚くほど似ています。二人が歩んだ道のりは、Fallout の世界を垣間見ることができるように感じられます。",
+        "description": "エラ・パーネル演じるルーシー・マクレーンとウォルトン・ゴギンス演じるグールの旅は、初期のFalloutのゲームプレイを思い出させるウォークスルーに感じられます。初期のFalloutは、オープンワールドのゲームとしては新規性があり、自由度が高く、探索の楽しみを味わえるゲームでした。同様に、ルーシーとグールの旅も、未知の世界を歩きながら、様々な場所を探索し、多くの敵と戦うことになります。ゲームの雰囲気や世界観は、Falloutシリーズのファンにはとても懐かしく感じられるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,10 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "新しいランニングマンは、オリジナルの映画の原作の最も優れた点を維持する必要性がありました。また、オリジナルの映画の原作をベースに、より魅力的なゲーム内容を提供するように設計されています。最新のグラフィックスとサウンドデザインにより、よりリアルなゲーム体験を提供します。さらに、さまざまなステージとモードが用意されており、プレイヤーはさまざまな状況でランニングマンを操作して、楽しく挑戦することができます。",
+        "title": "【ランニングマン：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "1987年の映画『ランニングマン』では、2人のキャラクターを組み合わせて原作に大幅な変更を加えた結果、リチャード・ドーソンが演じる魅力的な悪役が誕生しました。同様のキャラクター設定は2025年のリメイク版でも期待されましたが、実現しなかったことは残念です。",
+        "description": "1987年の映画『ランニングマン』では、2人のキャラクターを組み合わせて原作に大胆な変更を加え、リチャード・ドーソンが演じる魅力的な悪役が誕生しました。2025年のリメイク版では、同様の驚くべきキャスティングを採用しなかったため、チャンスを逃したと言えるでしょう。オリジナル版では、キャラクターの融合が新しい悪役の誕生につながり、映画の魅力に大きな貢献をしました。リメイク版では、このような大胆な選択がなされなかったため、オリジナル版の魅力に及ばない結果になったと考えられます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -268,7 +280,7 @@
         "title": "[Steam] Arctico ($1.99 / 80% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "/u/ArcticoGame によって送信されました",
+        "description": "Arcticoは、北極圏を舞台にしたアドベンチャーゲームです。美しい雪景色と凛とした気候の中で、プレイヤーは様々な挑戦に直面します。このゲームでは、北極の厳しい環境の中で生存し、秘密を解き明かすために、さまざまなアイテムやスキルを活用します。北極圏の雄大な景色を背景に、プレイヤーはストーリーに引き込まれ、ゲームの世界に浸り込みます。現在、Steamで80%オフの特別セール中です。通常価格より大幅に安くなったこのゲームは、北極の未知なる世界を体験したいゲーマーには絶好の機会です。SteamでArcticoを購入して、北極の冒険に挑戦してみましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -280,7 +292,7 @@
         "title": "[Steam] オハイオで終わる世界 ($2.39 / 40% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "/u/PDS_Games によって送信されました",
+        "description": "オハイオで終わる世界は、Steamで現在40%オフの特別セール中です。通常価格より大幅に安くなった2.39ドルで購入できます。このゲームは、世界がオハイオで終わりを迎えるというユニークな設定が特徴です。プレイヤーは、不思議な世界を冒険し、様々な登場人物との交流を深めながら、世界の終わりを迎えるまでの物語に没頭することができます。\n\nゲームの世界は、不思議な風景や様々な生物が登場する幻想的なものです。プレイヤーは、主人公となって、世界の終わりを預けられた重要な役割を担い、物語を進めて行きます。ゲームの中では、世界の終わりを迎えるまでの日々を過ごし、様々なイベントやクエストに挑戦することができます。\n\nこのゲームは、独特の世界観と物語が特徴です。Steamで現在セール中のオハイオで終わる世界は、ゲームファンにとっておすすめのタイトルです。限定的な価格で購入できるこの機会を逃さないでください。世界の終わりを体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -292,7 +304,7 @@
         "title": "[Steam] スーパー ウォーデン ラリー エッジ ($9.09 / 30% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "このゲームの紹介は、/u/Minnesota_Arouser というユーザーによって送信されました。",
+        "description": "このゲーム「スーパー ウォーデン ラリー エッジ」は、Steam で現在 30% オフのキャンペーン中です。通常価格より大幅に安くなった 9.09 ドルで購入できるこのゲームは、ウォーデン ラリー シリーズの最新作であり、スーパーカーを運転するラリー レースを体験できるアドベンチャー ゲームです。スーパー ウォーデン ラリー エッジは、グラフィックとサウンドが大幅に強化されたため、よりリアルなレース体験ができます。さまざまなレース モードや車種を用意しており、レースが好きなゲーマーには最高の選択です。さらに、オンライン マルチプレイヤー機能を備えているため、友達や他のプレイヤーと一緒にレースを楽しむこともできます。Steam で現在 30% オフのキャンペーン中なので、早速購入してスーパー ウォーデン ラリー エッジの世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +316,7 @@
         "title": "Steam の For The King が 80% オフ [$3.99] / デラックス エディションが 73% オフ [$5.93]",
         "platform": "Steam",
         "type": "sale",
-        "description": "/u/svint97 によって送信されました",
+        "description": "Steam で提供されている For The King は、ローグライク要素と戦略的なバトルを融合させた、ユニークなゲーム体験を提供します。プレイヤーは、フィクションの世界で様々なクエストを完了し、強力なアイテムを集めながら、チームの協力と戦略を高めていきます。ローグライク要素により、各プレイのたびに新しい体験が待っています。\n\nFor The King の世界は、美しいグラフィックと緻密なストーリーで魅了します。プレイヤーは、さまざまなキャラクターを操作し、独自の能力を活かして戦闘に勝利します。また、ゲームの難易度は、プレイヤーのスキルに合わせて調整できます。\n\n現在、For The King の通常版とデラックス エディションが特別セール中です。通常版は 80% オフ の $3.99、デラックス エディションは 73% オフ の $5.93 で購入できます。デラックス エディションには、追加のコンテンツやボーナス アイテムが含まれており、ゲームの体験をさらに豊か하게します。Steam で For The King を購入して、ローグライクと戦略の融合したこの魅力的なゲームを体験しましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -524,5 +536,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-18T00:55:43.572703"
+  "last_updated": "2026-01-18T01:08:04.299709"
 }

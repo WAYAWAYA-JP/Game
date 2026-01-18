@@ -58,25 +58,111 @@ def clean_reddit_meta(text):
     """Redditのメタ情報を削除"""
     if not text:
         return ""
-    
+
     import html
-    
+
     # HTMLエンティティをデコード（&#32; → 空白など）
     text = html.unescape(text)
 
     # HTMLタグを削除
     text = re.sub(r'<[^>]+>', '', text)
 
-    # "submitted by /u/..." 以降を削除
+    # "submitted by /u/..." パターンを完全に削除（日本語訳も含む）
     text = re.sub(r'submitted by /u/\S+.*', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'/u/\S+\s*によって送信されました.*', '', text)
+    text = re.sub(r'/u/\S+\s*により送信.*', '', text)
+    text = re.sub(r'送信者.*?/u/\S+.*', '', text)
 
     # [link], [comments] などを削除
     text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\[リンク\]|\[コメント\]', '', text)
 
     # 複数の空白を1つに
     text = re.sub(r'\s+', ' ', text)
 
     return text.strip()
+
+def humanize_text_with_ai(text, content_type="description"):
+    """Groq APIを使って機械的な文章を自然な日本語にリライト"""
+    if not groq_client or not text or len(text.strip()) < 10:
+        return text
+
+    try:
+        # コンテンツタイプに応じたプロンプト
+        if content_type == "title":
+            prompt = f"""以下のゲーム記事タイトルを、自然で読みやすい日本語タイトルに整形してください。
+- 不要な記号や価格情報は省略
+- 簡潔で魅力的なタイトルに（50文字以内推奨）
+- ゲーム名とプラットフォームの情報は保持
+
+元のタイトル: {text}
+
+整形後のタイトルのみを出力してください。"""
+
+        elif content_type == "description":
+            prompt = f"""以下のゲーム記事の説明文を、自然で読みやすい日本語に書き直してください。
+
+要件：
+- 機械翻訳のような不自然な表現を修正
+- ゲーマーが読んで興味を持つような文章に
+- 200〜400文字程度で、具体的で魅力的な説明に
+- 事実は変えずに、表現を自然に
+- 「です・ます」調で統一
+
+元の説明文: {text}
+
+書き直した説明文のみを出力してください。"""
+
+        else:  # その他
+            prompt = f"""以下のテキストを、自然で読みやすい日本語に書き直してください。
+機械翻訳のような不自然な表現を修正し、人間が書いたような自然な文章にしてください。
+
+元のテキスト: {text}
+
+書き直したテキストのみを出力してください。"""
+
+        response = groq_client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.8,  # より自然で多様な表現のため温度を上げる
+            max_tokens=600    # より長い説明文に対応
+        )
+
+        result = response.choices[0].message.content.strip()
+        return result if result else text
+
+    except Exception as e:
+        print(f"  AI人間化エラー ({content_type}): {e}")
+        return text  # エラー時は元のテキストを返す
+
+def simplify_title(title, max_length=80):
+    """長すぎるタイトルを簡潔にする（ルールベース + AI）"""
+    if not title:
+        return title
+
+    # 元のタイトルが短い場合はそのまま返す
+    if len(title) <= max_length:
+        return title
+
+    # ルールベースでの簡潔化
+    # [Reddit] [Platform] などのプレフィックスを削除
+    cleaned_title = re.sub(r'^\[[\w\s]+\]\s*', '', title)
+
+    # 価格情報の詳細を削除（例: "(2/4/7 for $4.99/$8.99/$13.99..." → ""）
+    cleaned_title = re.sub(r'\(\d+/\d+/\d+\s+for\s+\$[\d\.\$/]+.*?\)', '', cleaned_title)
+    cleaned_title = re.sub(r'\(Pay\s+\$[\d\s,\w]+\)', '', cleaned_title)
+
+    # "choose from ..." 以降を削除
+    cleaned_title = re.sub(r'\s+and\s+choose from\s+.*', '', cleaned_title, flags=re.IGNORECASE)
+
+    # 複数の空白を1つに
+    cleaned_title = re.sub(r'\s+', ' ', cleaned_title).strip()
+
+    # まだ長すぎる場合はAIで整形
+    if len(cleaned_title) > max_length and groq_client:
+        return humanize_text_with_ai(cleaned_title, content_type="title")
+    else:
+        return cleaned_title
 
 def generate_description_with_ai(title, platform, deal_type="sale", original_text=""):
     """Groq APIを使ってタイトル（と元テキスト）から説明文を生成（失敗時はデフォルト説明文）"""
@@ -84,25 +170,42 @@ def generate_description_with_ai(title, platform, deal_type="sale", original_tex
         # Groq APIが利用できない場合はデフォルトの説明文
         if deal_type == "sale":
             return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        elif deal_type == "free":
+            return f"{title}が{platform}で期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。"
         else:
             return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
 
     try:
+        # deal_typeに応じたラベル
+        type_label = {"sale": "セール", "bundle": "バンドル", "free": "無料配布"}.get(deal_type, "お得な情報")
+
         # Groq APIで説明文を生成
         if original_text and len(original_text) > 10:
             # 元テキストがある場合は、それを要約
-            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}情報から、魅力的な紹介文を日本語で1-2文で生成してください。
-ゲーマー向けに、簡潔でワクワクする文章にしてください。
+            prompt = f"""以下のゲーム{type_label}情報から、魅力的な紹介文を日本語で生成してください。
+
+要件：
+- 200〜400文字程度の詳しい説明
+- ゲーマーが読んで興味を持つような具体的な内容
+- ゲームの特徴や魅力を自然な日本語で表現
+- 「です・ます」調で統一
+- 過度な宣伝文句は避け、事実ベースで
 
 プラットフォーム: {platform}
 タイトル: {title}
-元の説明: {original_text[:500]}
+元の情報: {original_text[:800]}
 
 紹介文のみを出力してください。"""
         else:
             # タイトルのみから生成
-            prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}のタイトルから、魅力的な紹介文を日本語で1-2文で生成してください。
-ゲーマー向けに、簡潔でワクワクする文章にしてください。
+            prompt = f"""以下のゲーム{type_label}のタイトルから、魅力的な紹介文を日本語で生成してください。
+
+要件：
+- 200〜300文字程度の説明
+- ゲーマーが興味を持つような内容
+- ゲームの特徴を想像して自然な日本語で表現
+- 「です・ます」調で統一
+- タイトルから推測できる情報を基に
 
 プラットフォーム: {platform}
 タイトル: {title}
@@ -112,25 +215,34 @@ def generate_description_with_ai(title, platform, deal_type="sale", original_tex
         response = groq_client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.7,
-            max_tokens=150
+            temperature=0.8,  # より自然で多様な表現のため温度を上げる
+            max_tokens=600    # より長い説明文に対応
         )
 
         description = response.choices[0].message.content.strip()
-        return description if description else (
-            f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
-        )
+        if description:
+            return description
+        else:
+            # フォールバック
+            if deal_type == "sale":
+                return f"{platform}でお得なセールが開催中！"
+            elif deal_type == "free":
+                return f"{title}が{platform}で期間限定無料配布中！"
+            else:
+                return f"{platform}でお得なバンドルが登場！"
 
     except Exception as e:
         print(f"  AI説明文生成エラー: {e}")
         if deal_type == "sale":
             return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        elif deal_type == "free":
+            return f"{title}が{platform}で期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。"
         else:
             return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
 
 
-def translate_to_japanese(text, max_retries=3):
-    """Google翻訳で英語テキストを日本語に翻訳"""
+def translate_to_japanese(text, max_retries=3, humanize=True):
+    """Google翻訳で英語テキストを日本語に翻訳し、オプションで自然な日本語に整形"""
     if not translator or not text:
         return text
 
@@ -147,7 +259,14 @@ def translate_to_japanese(text, max_retries=3):
                 translated_text = translator.translate(text)
                 # 成功時は少し待機（過負荷防止）
                 time.sleep(0.3)
-                return translated_text
+
+                # humanizeオプションがTrueの場合、Groq APIで自然な日本語に整形
+                if humanize and len(translated_text) > 30:
+                    humanized = humanize_text_with_ai(translated_text, content_type="description")
+                    return humanized if humanized else translated_text
+                else:
+                    return translated_text
+
             except Exception as e:
                 error_msg = str(e)
                 error_type = type(e).__name__
@@ -188,6 +307,23 @@ def fetch_epic_free_games():
                         title = game.get('title', 'Unknown')
                         description = game.get('description', '')
 
+                        # 説明文の処理：英語の場合は翻訳して自然な日本語に
+                        if description:
+                            # 英語かどうかチェック
+                            if any(c.isalpha() and ord(c) < 128 for c in description[:100]):
+                                # 英語説明文を翻訳 + 人間化
+                                description = translate_to_japanese(description, humanize=True)
+                            elif len(description) < 100:
+                                # 短すぎる場合はAIで充実化
+                                description = generate_description_with_ai(
+                                    title, "Epic Games", "free", description
+                                )
+                        else:
+                            # 説明文がない場合はAIで生成
+                            description = generate_description_with_ai(
+                                title, "Epic Games", "free", ""
+                            )
+
                         # 価格情報
                         original_price = "不明"
                         if game.get('price') and game['price'].get('totalPrice'):
@@ -198,7 +334,7 @@ def fetch_epic_free_games():
                             "title": f"{title} - Epic Games 無料配布中",
                             "platform": "Epic Games",
                             "type": "free",
-                            "description": description[:200] if description else f"{title}が期間限定で無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
+                            "description": description,
                             "price": "無料",
                             "originalPrice": original_price,
                             "discount": "100% OFF",
@@ -649,6 +785,9 @@ def fetch_reddit_bundles():
                         platform_url = 'https://store.steampowered.com/'
 
                     if platform and platform_url:
+                        # タイトルを簡潔にする
+                        simplified_title = simplify_title(bundle_title, max_length=100)
+
                         # RSSのsummaryから詳細情報とゲームタイトルを抽出
                         description = f"{platform}でお得なバンドルが登場！"
                         game_titles = []
@@ -661,14 +800,14 @@ def fetch_reddit_bundles():
                             # ゲームタイトルを抽出（一般的なパターン）
                             # "Game1, Game2, Game3" や "- Game1 - Game2" などのパターンを検出
                             if len(cleaned_text) > 20:
-                                # 長い説明文の場合、最初の400文字を使用
-                                if len(cleaned_text) > 400:
-                                    cleaned_text = cleaned_text[:400] + "..."
+                                # 長い説明文の場合、最初の800文字を使用（より詳しく）
+                                if len(cleaned_text) > 800:
+                                    cleaned_text = cleaned_text[:800] + "..."
 
-                                # 翻訳して人間的な説明に
+                                # 翻訳して人間的な説明に（humanize=Trueで自然な日本語に整形）
                                 if translator:
                                     try:
-                                        translated_desc = translate_to_japanese(cleaned_text)
+                                        translated_desc = translate_to_japanese(cleaned_text, humanize=True)
                                         description = f"{translated_desc}"
                                     except:
                                         description = f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
@@ -676,13 +815,13 @@ def fetch_reddit_bundles():
                                     description = cleaned_text
                             else:
                                 # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
-                            description = generate_description_with_ai(bundle_title, platform, "bundle")
+                            description = generate_description_with_ai(simplified_title, platform, "bundle", "")
 
                         bundles.append({
-                            "title": bundle_title,
+                            "title": simplified_title,
                             "platform": platform,
                             "type": "bundle",
                             "description": description,
@@ -996,15 +1135,18 @@ def fetch_reddit_sales():
                         platform_url = 'https://www.humblebundle.com/'
 
                     if platform and platform_url:
-                        # タイトルを日本語化（英語の場合）
+                        # タイトルを日本語化（英語の場合）し、簡潔化
                         japanese_title = title
                         if translator and title:
                             # タイトルに英語が多く含まれる場合は翻訳
                             if any(c.isalpha() and ord(c) < 128 for c in title):
                                 try:
-                                    japanese_title = translate_to_japanese(title)
+                                    japanese_title = translate_to_japanese(title, humanize=False)
                                 except:
                                     japanese_title = title
+
+                        # タイトルを簡潔にする
+                        simplified_title = simplify_title(japanese_title, max_length=100)
 
                         # RSSのsummaryから詳細情報を抽出
                         description = f"{platform}でお得なセールが開催中！"
@@ -1016,13 +1158,14 @@ def fetch_reddit_sales():
 
                             # 有効な説明文が残っている場合
                             if len(cleaned_text) > 20:
-                                if len(cleaned_text) > 300:
-                                    cleaned_text = cleaned_text[:300] + "..."
+                                # より長い説明文を取得（800文字まで）
+                                if len(cleaned_text) > 800:
+                                    cleaned_text = cleaned_text[:800] + "..."
 
-                                # 英語の説明文を翻訳
+                                # 英語の説明文を翻訳 + 人間化
                                 if translator:
                                     try:
-                                        translated_desc = translate_to_japanese(cleaned_text)
+                                        translated_desc = translate_to_japanese(cleaned_text, humanize=True)
                                         description = f"{translated_desc}"
                                     except:
                                         description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
@@ -1030,13 +1173,13 @@ def fetch_reddit_sales():
                                     description = cleaned_text
                             else:
                                 # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(japanese_title, platform, "sale")
+                                description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
-                            description = generate_description_with_ai(japanese_title, platform, "sale")
+                            description = generate_description_with_ai(simplified_title, platform, "sale", "")
 
                         sales.append({
-                            "title": japanese_title,
+                            "title": simplified_title,
                             "platform": platform,
                             "type": "sale",
                             "description": description,

@@ -55,7 +55,7 @@ except Exception as e:
     groq_client = None
 
 def clean_reddit_meta(text):
-    """Redditのメタ情報を削除"""
+    """Redditのメタ情報を徹底的に削除"""
     if not text:
         return ""
 
@@ -67,18 +67,42 @@ def clean_reddit_meta(text):
     # HTMLタグを削除
     text = re.sub(r'<[^>]+>', '', text)
 
-    # "submitted by /u/..." パターンを完全に削除（日本語訳も含む）
-    text = re.sub(r'submitted by /u/\S+.*', '', text, flags=re.IGNORECASE)
+    # "submitted by /u/..." パターンを完全に削除（英語・日本語両方）
+    text = re.sub(r'.*?submitted by.*?/u/\S+.*', '', text, flags=re.IGNORECASE)
     text = re.sub(r'/u/\S+\s*によって送信されました.*', '', text)
     text = re.sub(r'/u/\S+\s*により送信.*', '', text)
+    text = re.sub(r'/u/\S+\s*が投稿.*', '', text)
     text = re.sub(r'送信者.*?/u/\S+.*', '', text)
+    text = re.sub(r'投稿者.*?/u/\S+.*', '', text)
+    text = re.sub(r'提供元.*?/u/\S+.*', '', text)
 
-    # [link], [comments] などを削除
+    # [link], [comments] などを削除（英語・日本語両方）
     text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
     text = re.sub(r'\[リンク\]|\[コメント\]', '', text)
 
-    # 複数の空白を1つに
+    # Redditユーザー名パターンを削除
+    text = re.sub(r'u/\w+', '', text)
+    text = re.sub(r'/u/\w+', '', text)
+
+    # "このゲームの紹介は、...によって送信されました" のような文を削除
+    text = re.sub(r'このゲームの紹介は、.*?によって.*?されました。?', '', text)
+    text = re.sub(r'この.*?紹介.*?送信.*?', '', text)
+
+    # "サイレント思考:" や "翻訳のポイント:" などAIの思考過程を削除
+    text = re.sub(r'サイレント思考:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'翻訳のポイント:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'案\d+:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な判断:.*', '', text, flags=re.DOTALL)
+
+    # 価格表のような不自然な羅列を削除
+    # "タイトル数 GBP USD EUR..." のようなパターン
+    text = re.sub(r'タイトル数\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'Tier\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'£\s*[\d.]+\s+\$\s*[\d.]+.*?¥\s*[\d,]+.*', '', text)
+
+    # 複数の空白・改行を1つに
     text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\n+', ' ', text)
 
     return text.strip()
 
@@ -97,7 +121,7 @@ def humanize_text_with_ai(text, content_type="description"):
 
 元のタイトル: {text}
 
-整形後のタイトルのみを出力してください。"""
+IMPORTANT: 整形後のタイトル**のみ**を出力してください。説明・注釈・思考過程は一切不要です。"""
 
         elif content_type == "description":
             prompt = f"""以下のゲーム記事の説明文を、自然で読みやすい日本語に書き直してください。
@@ -111,7 +135,7 @@ def humanize_text_with_ai(text, content_type="description"):
 
 元の説明文: {text}
 
-書き直した説明文のみを出力してください。"""
+IMPORTANT: 書き直した説明文**のみ**を出力してください。説明・注釈・思考過程・「サイレント思考」などは一切含めないでください。"""
 
         else:  # その他
             prompt = f"""以下のテキストを、自然で読みやすい日本語に書き直してください。
@@ -119,21 +143,75 @@ def humanize_text_with_ai(text, content_type="description"):
 
 元のテキスト: {text}
 
-書き直したテキストのみを出力してください。"""
+IMPORTANT: 書き直したテキスト**のみ**を出力してください。説明・注釈・思考過程は一切不要です。"""
 
         response = groq_client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.8,  # より自然で多様な表現のため温度を上げる
+            temperature=0.7,  # 思考過程が出ないよう少し温度を下げる
             max_tokens=600    # より長い説明文に対応
         )
 
         result = response.choices[0].message.content.strip()
+
+        # 思考過程が含まれていたら削除
+        result = clean_reddit_meta(result)
+
         return result if result else text
 
     except Exception as e:
         print(f"  AI人間化エラー ({content_type}): {e}")
         return text  # エラー時は元のテキストを返す
+
+def format_review_title(title):
+    """レビュー記事のタイトルを【ゲーム名：レビュー】形式に整形"""
+    if not title:
+        return title
+
+    # すでに【】形式の場合はそのまま返す
+    if title.startswith('【') and '】' in title:
+        return title
+
+    # Groq APIでゲーム名を抽出して整形
+    if groq_client:
+        try:
+            prompt = f"""以下のゲームレビュー記事タイトルから、ゲーム名を抽出して「【ゲーム名：レビュー】」の形式に整形してください。
+
+要件：
+- ゲーム名のみを抽出（不要な修飾語は削除）
+- 必ず「【ゲーム名：レビュー】」の形式で出力
+- ゲーム名は正式名称を使用
+- 副題がある場合は含める
+
+元のタイトル: {title}
+
+IMPORTANT: 整形後のタイトル**のみ**を出力してください。説明は不要です。"""
+
+            response = groq_client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.5,  # より正確な抽出のため温度を下げる
+                max_tokens=100
+            )
+
+            result = response.choices[0].message.content.strip()
+
+            # 結果が【】形式になっているか確認
+            if result.startswith('【') and '】' in result:
+                return result
+            else:
+                # フォールバック：タイトルをそのまま【】で囲む
+                return f"【{title}：レビュー】"
+
+        except Exception as e:
+            print(f"  レビュータイトル整形エラー: {e}")
+            # エラー時はタイトルをそのまま【】で囲む
+            return f"【{title}：レビュー】"
+    else:
+        # Groq APIがない場合は簡易整形
+        # "〜のレビュー" "〜レビュー" などを削除してから整形
+        cleaned = re.sub(r'(の)?レビュー|review', '', title, flags=re.IGNORECASE).strip()
+        return f"【{cleaned}：レビュー】"
 
 def simplify_title(title, max_length=80):
     """長すぎるタイトルを簡潔にする（ルールベース + AI）"""
@@ -1483,34 +1561,37 @@ def fetch_review_articles():
                             if feed_info['lang'] == 'en':
                                 # タイトルを翻訳
                                 print(f"    翻訳中: {title[:40]}...")
-                                translated_title = translate_to_japanese(title)
+                                translated_title = translate_to_japanese(title, humanize=True)
+
+                                # タイトルを【ゲーム名：レビュー】形式に整形
+                                final_title = format_review_title(translated_title)
 
                                 # 説明文を翻訳して充実化
                                 if summary_clean and len(summary_clean) > 50:
-                                    # より長い説明文を生成
-                                    translated_summary = translate_to_japanese(summary_clean)
-                                    # 人間的な表現を追加
+                                    # より長い説明文を生成（人間化）
+                                    translated_summary = translate_to_japanese(summary_clean, humanize=True)
                                     description = f"{translated_summary}"
 
                                     # 説明文が短すぎる場合は補足
                                     if len(description) < 100:
                                         description += f" {feed_info['platform']}による詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。"
                                 else:
-                                    description = f"{translated_title}について、{feed_info['platform']}が詳しくレビュー。ゲームプレイの感想や評価ポイントをチェックできます。"
+                                    description = f"{final_title}について、{feed_info['platform']}が詳しくレビュー。ゲームプレイの感想や評価ポイントをチェックできます。"
 
-                                # 翻訳バッジを追加（タイトルではなくメタデータとして）
-                                final_title = translated_title
                             else:
-                                # 日本語記事はそのまま、ただし説明文を充実化
+                                # 日本語記事も【ゲーム名：レビュー】形式に整形
+                                final_title = format_review_title(title)
+
+                                # 説明文を充実化
                                 if summary_clean and len(summary_clean) > 50:
-                                    description = summary_clean
+                                    # 日本語でも人間化処理を適用
+                                    description = humanize_text_with_ai(summary_clean, content_type="description") if groq_client else summary_clean
+
                                     # 短い場合は補足
                                     if len(description) < 100:
                                         description += f" {feed_info['platform']}による詳細なレビュー記事。実際にプレイした感想や評価をご覧いただけます。"
                                 else:
-                                    description = f"{title}の詳細レビュー記事です。{feed_info['platform']}による実プレイレポートをお届けします。"
-
-                                final_title = title
+                                    description = f"{final_title}について、{feed_info['platform']}による実プレイレポートをお届けします。"
 
                             review_articles.append({
                                 "title": final_title,

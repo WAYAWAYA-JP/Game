@@ -904,6 +904,9 @@ def fetch_reddit_bundles_json():
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
                         if platform and platform_url:
+                            # タイトルを簡潔にする
+                            simplified_title = simplify_title(bundle_title, max_length=100)
+
                             # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
 
@@ -914,28 +917,28 @@ def fetch_reddit_bundles_json():
 
                                 # 有効な説明文が残っている場合
                                 if len(cleaned_text) > 20:
-                                    # 過度に長い場合は切り詰め
-                                    if len(cleaned_text) > 400:
-                                        cleaned_text = cleaned_text[:400] + "..."
+                                    # より長い説明文を取得（800文字まで）
+                                    if len(cleaned_text) > 800:
+                                        cleaned_text = cleaned_text[:800] + "..."
 
-                                    # 英語の説明文を翻訳
+                                    # 英語の説明文を翻訳 + 人間化
                                     if translator:
                                         try:
-                                            translated_desc = translate_to_japanese(cleaned_text)
+                                            translated_desc = translate_to_japanese(cleaned_text, humanize=True)
                                             description = f"{translated_desc}"
                                         except:
-                                            description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                            description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                                     else:
                                         description = cleaned_text
                                 else:
                                     # クリーンアップ後のテキストが短い場合、AIで生成
-                                    description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                    description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                             else:
                                 # selftextがない場合もAIで生成
-                                description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                description = generate_description_with_ai(simplified_title, platform, "bundle", "")
 
                             bundles.append({
-                                "title": bundle_title,
+                                "title": simplified_title,
                                 "platform": platform,
                                 "type": "bundle",
                                 "description": description,
@@ -1267,15 +1270,18 @@ def fetch_reddit_sales_json():
                             platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
 
                         if platform and platform_url:
-                            # タイトルを日本語化
+                            # タイトルを日本語化し、簡潔化
                             japanese_title = title
                             if translator and title:
                                 # タイトルに英語が多く含まれる場合は翻訳
                                 if any(c.isalpha() and ord(c) < 128 for c in title):
                                     try:
-                                        japanese_title = translate_to_japanese(title)
+                                        japanese_title = translate_to_japanese(title, humanize=False)
                                     except:
                                         japanese_title = title
+
+                            # タイトルを簡潔にする
+                            simplified_title = simplify_title(japanese_title, max_length=100)
 
                             # 投稿本文からセールの詳細を抽出
                             description = f"{platform}でお得なセールが開催中！"
@@ -1287,28 +1293,28 @@ def fetch_reddit_sales_json():
 
                                 # 有効な説明文が残っている場合
                                 if len(cleaned_text) > 20:
-                                    # 過度に長い場合は切り詰め
-                                    if len(cleaned_text) > 300:
-                                        cleaned_text = cleaned_text[:300] + "..."
+                                    # より長い説明文を取得（800文字まで）
+                                    if len(cleaned_text) > 800:
+                                        cleaned_text = cleaned_text[:800] + "..."
 
-                                    # 英語の説明文を翻訳
+                                    # 英語の説明文を翻訳 + 人間化
                                     if translator:
                                         try:
-                                            translated_desc = translate_to_japanese(cleaned_text)
+                                            translated_desc = translate_to_japanese(cleaned_text, humanize=True)
                                             description = f"{translated_desc}"
                                         except:
-                                            description = generate_description_with_ai(japanese_title, platform, "sale")
+                                            description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                                     else:
                                         description = cleaned_text
                                 else:
                                     # クリーンアップ後のテキストが短い場合、AIで生成
-                                    description = generate_description_with_ai(japanese_title, platform, "sale")
+                                    description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                             else:
                                 # selftextがない場合もAIで生成
-                                description = generate_description_with_ai(japanese_title, platform, "sale")
+                                description = generate_description_with_ai(simplified_title, platform, "sale", "")
 
                             sales.append({
-                                "title": japanese_title,
+                                "title": simplified_title,
                                 "platform": platform,
                                 "type": "sale",
                                 "description": description,

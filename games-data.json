@@ -5,7 +5,7 @@
         "title": "Styx: Master of Shadows - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Styx: Master of Shadows は、ダークファンタジーの世界を舞台にした、RPG要素のある潜入ゲームです。2世紀もの間生き続けてきたゴブリンのStyxとなり、様々な場所に潜み込み、盗みや暗殺を行っていきます。このゲームでは、プレイヤーはStyxの能力を活用して、影の中を忍び込んだり、敵を気づかせないようにして暗殺したりすることができます。様々なステージをクリアして行くことで、Styxの能力を成長させ、最終的な目標を達成することが目的です。",
+        "description": "Styx: Master of Shadowsは、ダークファンタジーの世界を舞台にした、RPG要素を取り入れた潜入ゲームです。2世紀もの長きにわたって生き続けてきたゴブリン、スティックスとなって、影の中で身を潜め、盗み、暗殺しながらゲームを進めます。このゲームでは、プレイヤーはスティックスの能力を活かし、さまざまなミッションをこなしていきます。潜入アクションとRPGの要素が融合したこのゲームは、プレイヤーにユニークな体験を提供します。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Styx が新しいステルス アドベンチャーで復活します！広大なオープン環境を自由に探索し、マスターしてください。新たな敵やボスに遭遇し、こっそり通り過ぎたり暗殺したりしてみましょう。さらに、ゴブリン暗殺者の豊富な武器庫にある新たな致死能力や武器を試してみて、スタイリッシュなアクションを体験しましょう。",
+        "description": "Styx が新しいステルス アドベンチャーで戻ってきます！広大なオープン環境を探索し、マスターしましょう。新たな敵やボスをこっそり通り過ぎたり暗殺したり、新しい致死能力や武器を試してみましょう。ゴブリン暗殺者の武器庫には、様々な新しい能力や武器が用意されていますので、是非お楽しみください。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,78 @@
       }
     ],
     "bundle": [
+      {
+        "title": "カーブゲームズ年末セール開始 For The King IIなど大幅割引",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "カーブゲームズ年末セールが始まりました。様々な人気タイトルが大幅に割引されるこのイベントは、ゲームファンにとって大きな楽しみです。特に注目すべきは、For The King IIなどの魅力的なゲーム群が特別価格で提供されることです。 For The King IIは、ローグライク要素とストラテジーを融合させた、ディープなゲームプレイ体験を提供するため、多くのゲーマーから熱い支持を集めています。このゲームでは、プレイヤーは、戦略的な思考と運を兼ね備えたアクションを駆使して、さまざまな挑戦に立ち向かいます。 年末セール期間中は、For The King IIを始めとするカーブゲームズのタイトル群が大幅に割引されるため、ゲーマーにとっては最高のチャンスです。新しいゲームを探している人や、長年のファンである人など、幅広い層のゲーマーが楽しめるこのセールは、Steamでのゲーム体験をさらに豊かにします。 大幅な割引で提供されるゲーム群の中から、新しいお気に入りを見つけることができるかもしれません。カーブゲームズ年末セールは、ゲームファンにとって最高の娯楽体験を提供するため、ぜひチェックしてみてください。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "The Iceberg Hidden Gems Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundle が提供する「The Iceberg Hidden Gems Bundle」は、隠れた宝石を発見するような気分でゲーマーを楽しませてくれるゲームバンドルです。このバンドルでは、注目されにくいながらも優れたゲームタイトルが多数収録されています。これらのゲームは、独自のゲーム性や世界観を持ち、プレイヤーを新しい冒険へと誘います。 バンドルの中には、インディーゲームの傑作や、異次元の世界を舞台にしたアクションゲーム、そして心を動かすストーリーを擁するRPGなど、様々なジャンルのゲームが含まれています。グラフィックやサウンドトラックも含め、各ゲームは独自の魅力を持ち、プレイヤーを楽しませてくれます。 Humble Bundle のバンドルは、常に新しいゲームや新しい体験を提供してきましたが、「The Iceberg Hidden Gems Bundle」は特に注目に値するバンドルです。ゲーマーが新しい発見をすることを助け、ゲームの世界をより豊かにしてくれるこのバンドルは、ゲームファンにはお勧めのバンドルです。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "How long does the humble choice coupon last?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ユーザーが月額定額で新しいゲームをプレイできる「Humble Choice」サービスを提供しています。このサービスでは、毎月新しいタイトルが追加され、ユーザーはその中から好きなゲームを選んでプレイできます。しかし、このサービスで提供されるクーポンの有効期限について、ユーザーの中には疑問を持っている人もいます。 Humble Choiceクーポンの有効期限について、ユーザーは安心してサービスを利用できます。Humble Bundleでは、クーポンの有効期限を長期に設定しており、ユーザーが好きなゲームを選んでプレイするための十分な時間を確保しています。しかしながら、クーポンの有効期限はユーザーのアクティビティに応じて変化する場合もあります。 ユーザーがHumble Choiceサービスを継続的に利用している場合、クーポンの有効期限は自動的に延長されます。一方で、サービスを一定期間利用していない場合、クーポンの有効期限が短縮されたり、クーポンが無効になったりする可能性があります。したがって、ユーザーはHumble Choiceサービスを定期的に利用し、好きなゲームをプレイするためにクーポンを活用することが重要です。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Humble Book Bundle Knit Happens PC",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Book Bundle Knit Happens PCは、ゲーマーにとって絶対に外すことができない魅力的なゲームバンドルです。このバンドルには、PC向けにデザインされた様々なゲームが収録されており、ユーザーはさまざまなジャンルのゲームを楽しむことができます。 Humble Book Bundle Knit Happens PCは、多様なゲーム体験を提供します。ユーザーは、ストーリー重視のアドベンチャーゲームから、高度なグラフィックとサウンドデザインを備えたアクションゲームまで、幅広いジャンルのゲームを探索できます。 このバンドルは、特にPCゲーマーを対象にして設計されています。つまり、ユーザーは、PCのパフォーマンスを最大限に活用して、スムーズで快適なゲーム体験を楽しむことができます。 Humble Book Bundle Knit Happens PCのもう一つの特徴は、そのコストパフォーマンスです。多くの場合、個別に購入するよりも安価に、多数のゲームを一度に入手することができます。このバンドルは、ゲームの収集を始めたばかりの人や、既存のゲームコレクションを増やす人にとって、絶対に見逃せない機会です。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Humble BundleやPS Plusの提供ゲーム予測ツール",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleやPS Plusの提供ゲーム予測ツールです。このツールは、Humble BundleやPS Plusが提供するゲームを予測するために開発されました。ゲーム好きの方々は、次にどのようなゲームが提供されるかを予測することで、楽しみに待つことができます。 このツールは、過去のデータやトレンドを分析して、次の提供ゲームを予測します。ユーザーは、自分の興味があるゲームジャンルやプラットフォームを選択して、予測結果を絞り込むことができます。また、ツールは、提供ゲームのリリース日や価格も予測することができます。 ゲームファンにとって、次にどのようなゲームが提供されるかを知ることは、大きな楽しみです。このツールを使用することで、ユーザーは次の提供ゲームを予測して、楽しみに待つことができます。また、予測結果を共有することで、友達やコミュニティと議論することもできます。 このツールは、Humble BundleやPS Plusの提供ゲームを予測するための強力なツールです。ゲーム好きの方々は、このツールを使用して、次の提供ゲームを予測し、楽しみに待つことができます。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Bundles",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでBundlesが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-01-18"
+      },
       {
         "title": "Curve Games セール - For The King II、Human Fall Flat、The Ascent 他",
         "platform": "Steam",
@@ -38,26 +110,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-18"
-      },
-      {
-        "title": "The Iceberg Hidden Gems Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleの隠れた名作ゲームコレクション。アクション、アドベンチャー、シミュレーションなど多様なインディーゲームを収録した魅力的なバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-01-18"
       }
     ],
     "review": [
       {
-        "title": "【GTA V】ロールプレイMODの公式ストアが登場",
+        "title": "【：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【：レビュー】について、AUTOMATONによる実プレイレポートをお届けします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260118-407811/",
+        "date": "2026-01-18",
+        "is_translated": false
+      },
+      {
+        "title": "【：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA Vを釣りシミュレーターにできる公式MODストアがオープン。ロックスター公認のCfx マーケットプレイスでは、FiveM・RedM向けのMODを購入可能。",
+        "description": "土曜日は時間を確認してください。私が記事を書く時間などありません。バンのトランクに荷物を積んでおり、必死に家具を分解しています。引っ越しを手伝ってくれている友達が、お茶を飲むために休んでいたのですが、私がどれほど時間を費やしているのか知らないようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-365",
+        "date": "2026-01-18",
+        "is_translated": true
+      },
+      {
+        "title": "【GTA：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "GTA 5 を釣りシミュレーターにするために、67 ドルから 50 ドル程度を費やすのが夢だった人は、今日は幸運な日です。ロックスターと提携している Cfx.re は、GTA のロールプレイングサーバーの運営者であり、FiveM や RedM の開発者でもあります。彼らは、たくさんの商品を購入できるストアである Cfx マーケットプレイスを立ち上げました。このマーケットプレイスでは、さまざまなアイテムやアクセサリーを購入し、GTA 5 の世界をさらに楽しむことができます。Cfx.re のこの新しい取り組みにより、GTA 5 のファンは、より多様なゲーム体験を楽しむことができるようになりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -67,10 +153,10 @@
         "is_translated": true
       },
       {
-        "title": "【Hytale】Steam Deck対応の可能性を検証",
+        "title": "【Hytale：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ブロック状サンドボックスゲーム「Hytale」のSteam Deck対応状況をレポート。SteamOSネイティブLinux版が発表されたが、実際のSteamリリースは未定。",
+        "description": "Hytale の早期アクセスリリースが近づくにつれて、Steam Deck でのプレイが可能になるかどうか、誰も予想できませんでした。ブロック状のサンドボックスゲームの開発者である Hypixel も自信を持てなかったようです。実際、Hypixel は SteamOS に対応したネイティブの Linux バージョンを発表しましたが、Steam でのリリースは見送りました。しかし、Hytale の Steam Deck 対応のポータビリティが実現したことは、ゲームファンにとって朗報でした。Steam Deck で Hytale をプレイすることで、より自由にゲームを楽しむことができるようになりました。ゲームの世界を垣間見ることができるブロック状のグラフィックや、サンドボックスゲームの自由度が、Steam Deck の портативなゲーム機でより一層楽しめるようになりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -80,10 +166,10 @@
         "is_translated": true
       },
       {
-        "title": "【Fallout】TVドラマ シーズン2とゲームの比較",
+        "title": "【Fallout：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "Falloutドラマシーズン2の内容が、まるで初期のFalloutゲームプレイを体験しているような構成に。ゲームファンが見逃せない要素を詳しく解説。",
+        "description": "エラ・パーネルのルーシー・マクレーンとウォルトン・ゴギンのこれまでの旅は、初期のFalloutのゲームプレイに似ているところがあります。 Polygonによる詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -91,9 +177,70 @@
         "url": "https://www.polygon.com/fallout-season-2-video-game-comparison/",
         "date": "2026-01-18",
         "is_translated": true
+      },
+      {
+        "title": "【ランニングマン：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "1987年の映画『ランニングマン』では、2人のキャラクターを組み合わせて原作に大胆な変更を加え、リチャード・ドーソンが演じる魅力的な悪役が誕生しました。2025年のリメイク版では、同様の斬新なキャスティングを採用しなかったため、チャンスを逃したのです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-new-running-man-should-have-kept-the-original-movies-best-change-to-the-source-material/",
+        "date": "2026-01-18",
+        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] NEUROZA ($1.24/50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "NEUROZAは、プレイヤーに新たな体験を提供する、心理ホラーアドベンチャーゲームです。このゲームでは、恐怖と不安を駆り立てる、心を揺さぶるストーリーに身を投じます。プレイヤーは、暗い世界を探索し、謎を解き明かしていくことで、物語の核心に迫ります。NEUROZAの特徴的なグラフィックとサウンドデザインは、プレイヤーを不安な気分にさせることで、恐怖をよりリアルに感じさせます。現在、50% オフのキャンペーン中で、通常価格の半額である $1.24 で購入できます。興味を持ったゲーマーは、Steam で NEUROZA をチェックし、心霊的な恐怖に挑戦してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "[Steam] Arctico ($1.99 / 80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Arcticoは、北極圏を舞台にした美しいグラフィックと魅力的なサウンドトラックが特徴的な、探索アドベンチャーゲームです。プレイヤーは、北極の雪と氷に覆われた広大な土地を旅し、様々な生物や自然の美しさを体験することができます。ゲームの世界は、リアルな時間の経過と天気の変化によって変化するため、常に新しい発見が待っています。さらに、オフラインでもプレイ可能なので、いつでもどこでも北極の世界を楽しむことができます。現在、Steamで80%オフの特別価格で提供中ですので、北極の未知の世界を探索してみてはいかがでしょうか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "[Steam] オハイオで終わる世界 ($2.39 / 40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アメリカのオハイオ州を舞台に繰り広げられる、世界の終わりを描いたゲームが登場です。このゲームでは、プレイヤーはオハイオ州の町並みの中で、世界の終わりの謎を解き明かしていきます。様々なキャラクターと出会い、彼らの話を聞きながら、物語は進んでいきます。キャラクターはそれぞれユニークな個性を持ち、プレイヤーにさまざまな選択肢を提示します。選択肢によって物語の展開が大きく変化するため、複数回プレイすることで、新しいストーリーやキャラクターを発見することができます。また、ゲームのグラフィックは、独特のアートスタイルを採用しており、世界の終わりの雰囲気をリアルに表現しています。音楽やサウンドエフェクトも、ゲームの雰囲気を高めています。世界の終わりの謎を解き明かすために、オハイオ州を旅してみてください。現在、Steamでは40%オフのセール中ですので、お得にゲームを購入することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-18"
+      },
+      {
+        "title": "Steam の For The King が 80% オフ [$3.99] / デラックス エディションが 73% オフ [$5.93]",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で提供されている「For The King」は、80% オフの特価 $3.99 で提供されています。さらに、デラックス エディションは 73% オフの $5.93 で購入することができます。このゲームは、ローグライクな要素と戦略的なバトルを組み合わせた、ユニークなゲームプレイを提供しています。プレイヤーは、さまざまなキャラクターを選択し、戦闘に臨みながら、王国の運命を決定します。ローグライクな要素により、各プレイは新しい体験となり、戦略的なバトルでは、戦略と戦術の重要性を学びます。デラックス エディションには、追加のキャラクター、アイテム、そしてゲームモードが含まれており、さらに豊かなゲーム体験を提供します。Steam でこの魅力的なゲームを手に入れて、王国の冒険に踏み出してみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-18"
+      },
       {
         "title": "『Elden Ring』史上最安値 - 40%オフ",
         "platform": "Steam",
@@ -234,5 +381,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-18T02:08:13.631346"
+  "last_updated": "2026-01-18T11:51:42.156439"
 }

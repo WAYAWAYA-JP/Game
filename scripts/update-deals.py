@@ -199,7 +199,14 @@ IMPORTANT: 整形後のタイトル**のみ**を出力してください。説�
 
             # 結果が【】形式になっているか確認
             if result.startswith('【') and '】' in result:
-                return result
+                # ゲーム名が空でないことを確認（【：レビュー】のような形式を除外）
+                game_name = result.split('：')[0].replace('【', '').strip()
+                if game_name and len(game_name) > 0:
+                    return result
+                else:
+                    # ゲーム名が空の場合は元のタイトルを使用
+                    print(f"    ⚠ ゲーム名の抽出に失敗、元のタイトルを使用: {title[:40]}...")
+                    return f"【{title}：レビュー】"
             else:
                 # フォールバック：タイトルをそのまま【】で囲む
                 return f"【{title}：レビュー】"
@@ -587,7 +594,17 @@ def fetch_humble_bundle_direct():
 
                     for element in bundle_elements[:3]:
                         title = element.get_text(strip=True)
-                        if title and len(title) > 5 and 'bundle' in title.lower():
+                        # タイトルが有効で、バンドル関連で、かつ適切な長さであることを確認
+                        if title and len(title) > 15 and 'bundle' in title.lower():
+                            # 不完全なタイトル（"Bundle"や"Bundles"のみ）を除外
+                            if title.lower() in ['bundle', 'bundles', 'バンドル']:
+                                continue
+
+                            # ゲームバンドルではないものを除外
+                            exclude_keywords = ['book', 'knit', 'audio', 'music', 'software', 'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook']
+                            if any(keyword in title.lower() for keyword in exclude_keywords):
+                                continue
+
                             bundles.append({
                                 "title": f"{title}",
                                 "platform": "Humble Bundle",
@@ -848,6 +865,27 @@ def fetch_reddit_bundles():
                     if not is_bundle:
                         continue
 
+                    # ゲームバンドルではない記事を除外
+                    exclude_keywords = [
+                        'book', 'knit', 'question', 'how to', 'how long', 'tool', 'predictor',
+                        'predict', 'when will', '本', 'ブック', 'どうやって', 'いつ', 'ツール',
+                        'manga', 'comic', 'audio', 'music', 'software bundle', 'app bundle',
+                        'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook'
+                    ]
+
+                    # タイトルと要約の両方をチェック
+                    full_text_lower = f"{title_lower} {summary.lower() if summary else ''}"
+                    is_excluded = any(keyword in full_text_lower for keyword in exclude_keywords)
+
+                    if is_excluded:
+                        print(f"    ✗ 除外: {title[:60]}...")
+                        continue
+
+                    # タイトルが短すぎる、または不完全な場合は除外
+                    if len(title.strip()) < 10 or title.strip().lower() in ['bundle', 'bundles', 'バンドル']:
+                        print(f"    ✗ 不完全なタイトルを除外: {title}")
+                        continue
+
                     # プラットフォームを検出
                     platform = None
                     platform_url = None
@@ -918,14 +956,24 @@ def fetch_reddit_bundles():
                 print(f"  Reddit r/{subreddit_name} RSS取得エラー: {e}")
                 continue
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in bundles:
+            # タイトルを正規化（記号、空白、ゲーム名リストを削除して比較）
             title_key = bundle['title'].lower()
-            if title_key not in seen_titles:
-                seen_titles.add(title_key)
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # ゲーム名のリスト部分を削除（"for the king"などの一般的なゲーム名を含む部分）
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
+            else:
+                print(f"    ⚠ 重複を除外: {bundle['title'][:50]}...")
 
         return unique_bundles[:5]  # 最大5件まで
     except Exception as e:
@@ -965,6 +1013,27 @@ def fetch_reddit_bundles_json():
                                      'fanatical' in title_lower and 'bundle' in title_lower)
 
                         if not is_bundle:
+                            continue
+
+                        # ゲームバンドルではない記事を除外
+                        exclude_keywords = [
+                            'book', 'knit', 'question', 'how to', 'how long', 'tool', 'predictor',
+                            'predict', 'when will', '本', 'ブック', 'どうやって', 'いつ', 'ツール',
+                            'manga', 'comic', 'audio', 'music', 'software bundle', 'app bundle',
+                            'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook'
+                        ]
+
+                        # タイトルと本文の両方をチェック
+                        full_text_lower = f"{title_lower} {selftext.lower() if selftext else ''}"
+                        is_excluded = any(keyword in full_text_lower for keyword in exclude_keywords)
+
+                        if is_excluded:
+                            print(f"    ✗ 除外: {title[:60]}...")
+                            continue
+
+                        # タイトルが短すぎる、または不完全な場合は除外
+                        if len(title.strip()) < 10 or title.strip().lower() in ['bundle', 'bundles', 'バンドル']:
+                            print(f"    ✗ 不完全なタイトルを除外: {title}")
                             continue
 
                         # プラットフォームを検出
@@ -1032,14 +1101,24 @@ def fetch_reddit_bundles_json():
                 print(f"  Reddit {subreddit}の取得に失敗: {e}")
                 continue
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in bundles:
+            # タイトルを正規化（記号、空白、ゲーム名リストを削除して比較）
             title_key = bundle['title'].lower()
-            if title_key not in seen_titles:
-                seen_titles.add(title_key)
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # ゲーム名のリスト部分を削除（"for the king"などの一般的なゲーム名を含む部分）
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
+            else:
+                print(f"    ⚠ 重複を除外: {bundle['title'][:50]}...")
 
         return unique_bundles[:5]  # 最大5件まで
     except Exception as e:
@@ -1664,13 +1743,22 @@ def update_games_data():
         # 全てのバンドル情報を統合
         all_bundles = reddit_bundles + humble_bundles + fanatical_bundles + indiegala_bundles + itchio_bundles
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in all_bundles:
             title_key = bundle.get('title', '').lower()
-            if title_key and title_key not in seen_titles:
-                seen_titles.add(title_key)
+            if not title_key:
+                continue
+
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
 
         # reddit_bundlesを統合されたバンドルリストに変更
@@ -1698,13 +1786,22 @@ def update_games_data():
         # 全てのセール情報を統合
         all_sales = reddit_sales + steam_sales + itad_sales + gog_sales
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_sales = []
         for sale in all_sales:
             title_key = sale.get('title', '').lower()
-            if title_key and title_key not in seen_titles:
-                seen_titles.add(title_key)
+            if not title_key:
+                continue
+
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # 主要な部分だけで重複判定（最初の6単語まで - セールタイトルは長めなので）
+            title_key_short = ' '.join(title_key.split()[:6])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_sales.append(sale)
 
         # reddit_salesを統合されたセールリストに変更
@@ -1855,11 +1952,13 @@ def update_games_data():
             for bundle in data['pc']['bundle']:
                 # タイトルを正規化（記号・空白を統一して比較）
                 title_key = bundle.get('title', '').lower()
-                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'[^\w\s]', ' ', title_key)  # 記号を空白に
                 title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+                # 主要な部分だけで重複判定（最初の5単語まで）
+                title_key_short = ' '.join(title_key.split()[:5])
 
-                if title_key not in seen_titles:
-                    seen_titles.add(title_key)
+                if title_key_short not in seen_titles:
+                    seen_titles.add(title_key_short)
                     unique_bundles.append(bundle)
 
             # 最新15件を保持（より多くのバンドル情報を表示）
@@ -1897,11 +1996,13 @@ def update_games_data():
             for sale in data['pc']['sale']:
                 # タイトルを正規化（記号・空白を統一して比較）
                 title_key = sale.get('title', '').lower()
-                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'[^\w\s]', ' ', title_key)  # 記号を空白に
                 title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+                # 主要な部分だけで重複判定（最初の6単語まで）
+                title_key_short = ' '.join(title_key.split()[:6])
 
-                if title_key not in seen_titles:
-                    seen_titles.add(title_key)
+                if title_key_short not in seen_titles:
+                    seen_titles.add(title_key_short)
                     unique_sales.append(sale)
 
             # 最新20件を保持（より多くのセール情報を表示）

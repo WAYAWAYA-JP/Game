@@ -62,34 +62,9 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-19"
-      },
-      {
-        "title": "Iceberg Hidden Gems Bundle for PC",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleの「Iceberg Hidden Gems Bundle for PC」は、隠れた名作ゲームを集めた特別なバンドルです。このバンドルには、さまざまなジャンルのゲームが収録されており、すべてのゲームがPCでプレイできます。隠れた名作と呼ばれるこれらのゲームは、注目度は低いものの、ゲーム性やストーリー、グラフィックなどが高く評価されています。 このバンドルには、インディーゲームやアンダーグラウンドなゲームが多数収録されており、未知の名作を発見する楽しみが味わえます。アクションゲーム、パズルゲーム、ロールプレイングゲームなど、さまざまなジャンルのゲームが収録されており、さまざまなプレイスタイルに対応しています。 Humble Bundleのバンドルは、いつも価格対性能が高く、コストパフォーマンスに優れています。このバンドルも例外ではなく、数多くの高品質なゲームを特別な価格で提供しています。さらに、Humble Bundleは、売上の一部をチャリティーに寄付していることで知られており、購入することでゲームを楽しみながら社会に貢献することもできます。 「Iceberg Hidden Gems Bundle for PC」は、ゲーマーにとって大変魅力的なバンドルです。新しいゲームを発見したり、隠れた名作をプレイしたりする機会を得ることができます。ゲームのファンには欠かせないバンドルであり、Humble Bundleの魅力を体験する機会です。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-18"
       }
     ],
     "review": [
-      {
-        "title": "【ゲーム名：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ゲーム名：レビュー】について、AUTOMATONによる実プレイレポートをお届けします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260118-407811/",
-        "date": "2026-01-19",
-        "is_translated": false
-      },
       {
         "title": "【Planet of Lana II：レビュー】",
         "platform": "doope!",
@@ -128,19 +103,6 @@
         "url": "https://doope.jp/2026/01163413.html",
         "date": "2026-01-19",
         "is_translated": false
-      },
-      {
-        "title": "【今週末はみんなで何をしますか？：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "土曜日は大変な日でした。時間を確認して、ドラットというゲームを少しプレイする時間を設けました。しかし、記事を書くべき時間ではありませんでした。車に家具を積んで引っ越しの準備をしていました。必死に家具を分解し、友人たちが手伝ってくれました。ただ、お茶を飲むために立ち止まろうとする友人たちを、時間がないことを理由に止めました。まるで、私がどれくらいの時間を費やしたかを知らないようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-365",
-        "date": "2026-01-19",
-        "is_translated": true
       },
       {
         "title": "【Euro Truck Simulator 2：レビュー】\n【GTA：レビュー】",

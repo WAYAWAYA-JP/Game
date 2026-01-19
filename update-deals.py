@@ -55,65 +55,286 @@ except Exception as e:
     groq_client = None
 
 def clean_reddit_meta(text):
-    """Redditのメタ情報を削除"""
+    """Redditのメタ情報を徹底的に削除"""
     if not text:
         return ""
+
+    import html
+
+    # HTMLエンティティをデコード（&#32; → 空白など）
+    text = html.unescape(text)
 
     # HTMLタグを削除
     text = re.sub(r'<[^>]+>', '', text)
 
-    # "submitted by /u/..." 以降を削除
-    text = re.sub(r'submitted by /u/\S+.*', '', text, flags=re.IGNORECASE)
+    # "submitted by /u/..." パターンを完全に削除（英語・日本語両方）
+    text = re.sub(r'.*?submitted by.*?/u/\S+.*', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'/u/\S+\s*によって送信されました.*', '', text)
+    text = re.sub(r'/u/\S+\s*により送信.*', '', text)
+    text = re.sub(r'/u/\S+\s*が投稿.*', '', text)
+    text = re.sub(r'送信者.*?/u/\S+.*', '', text)
+    text = re.sub(r'投稿者.*?/u/\S+.*', '', text)
+    text = re.sub(r'提供元.*?/u/\S+.*', '', text)
 
-    # [link], [comments] などを削除
+    # [link], [comments] などを削除（英語・日本語両方）
     text = re.sub(r'\[link\]|\[comments\]', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\[リンク\]|\[コメント\]', '', text)
 
-    # 複数の空白を1つに
+    # Redditユーザー名パターンを削除（単体でも）
+    text = re.sub(r'u/\w+', '', text)
+    text = re.sub(r'/u/\w+', '', text)
+
+    # "このゲームの紹介は、...によって送信されました" のような文を削除
+    text = re.sub(r'このゲームの紹介は、.*?によって.*?されました。?', '', text)
+    text = re.sub(r'この.*?紹介.*?送信.*?', '', text)
+
+    # "サイレント思考:" や "翻訳のポイント:" などAIの思考過程を削除
+    text = re.sub(r'サイレント思考:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'翻訳のポイント:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'案\d+:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な判断:.*', '', text, flags=re.DOTALL)
+    text = re.sub(r'最終的な翻訳:.*', '', text, flags=re.DOTALL)
+
+    # 価格表のような不自然な羅列を削除
+    # "タイトル数 GBP USD EUR..." のようなパターン
+    text = re.sub(r'タイトル数\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'Tier\s+GBP\s+USD\s+EUR.*', '', text)
+    text = re.sub(r'£\s*[\d.]+\s+\$\s*[\d.]+.*?¥\s*[\d,]+.*', '', text)
+
+    # 複数の空白・改行を1つに
     text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\n+', ' ', text)
 
     return text.strip()
 
-def generate_description_with_ai(title, platform, deal_type="sale"):
-    """Groq APIを使ってタイトルから説明文を生成（失敗時はデフォルト説明文）"""
+def humanize_text_with_ai(text, content_type="description"):
+    """Groq APIを使って機械的な文章を自然な日本語にリライト"""
+    if not groq_client or not text or len(text.strip()) < 10:
+        return text
+
+    try:
+        # コンテンツタイプに応じたプロンプト
+        if content_type == "title":
+            prompt = f"""以下のゲーム記事タイトルを、自然で読みやすい日本語タイトルに整形してください。
+- 不要な記号や価格情報は省略
+- 簡潔で魅力的なタイトルに（50文字以内推奨）
+- ゲーム名とプラットフォームの情報は保持
+
+元のタイトル: {text}
+
+IMPORTANT: 整形後のタイトル**のみ**を出力してください。説明・注釈・思考過程は一切不要です。"""
+
+        elif content_type == "description":
+            prompt = f"""以下のゲーム記事の説明文を、自然で読みやすい日本語に書き直してください。
+
+要件：
+- 機械翻訳のような不自然な表現を修正
+- ゲーマーが読んで興味を持つような文章に
+- 200〜400文字程度で、具体的で魅力的な説明に
+- 事実は変えずに、表現を自然に
+- 「です・ます」調で統一
+
+元の説明文: {text}
+
+IMPORTANT: 書き直した説明文**のみ**を出力してください。説明・注釈・思考過程・「サイレント思考」などは一切含めないでください。"""
+
+        else:  # その他
+            prompt = f"""以下のテキストを、自然で読みやすい日本語に書き直してください。
+機械翻訳のような不自然な表現を修正し、人間が書いたような自然な文章にしてください。
+
+元のテキスト: {text}
+
+IMPORTANT: 書き直したテキスト**のみ**を出力してください。説明・注釈・思考過程は一切不要です。"""
+
+        response = groq_client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,  # 思考過程が出ないよう少し温度を下げる
+            max_tokens=600    # より長い説明文に対応
+        )
+
+        result = response.choices[0].message.content.strip()
+
+        # 思考過程が含まれていたら削除
+        result = clean_reddit_meta(result)
+
+        return result if result else text
+
+    except Exception as e:
+        print(f"  AI人間化エラー ({content_type}): {e}")
+        return text  # エラー時は元のテキストを返す
+
+def format_review_title(title):
+    """レビュー記事のタイトルを【ゲーム名：レビュー】形式に整形"""
+    if not title:
+        return title
+
+    # すでに【】形式の場合はそのまま返す
+    if title.startswith('【') and '】' in title:
+        return title
+
+    # Groq APIでゲーム名を抽出して整形
+    if groq_client:
+        try:
+            prompt = f"""以下のゲームレビュー記事タイトルから、ゲーム名を抽出して「【ゲーム名：レビュー】」の形式に整形してください。
+
+要件：
+- ゲーム名のみを抽出（不要な修飾語は削除）
+- 必ず「【ゲーム名：レビュー】」の形式で出力
+- ゲーム名は正式名称を使用
+- 副題がある場合は含める
+
+元のタイトル: {title}
+
+IMPORTANT: 整形後のタイトル**のみ**を出力してください。説明は不要です。"""
+
+            response = groq_client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.5,  # より正確な抽出のため温度を下げる
+                max_tokens=100
+            )
+
+            result = response.choices[0].message.content.strip()
+
+            # 結果が【】形式になっているか確認
+            if result.startswith('【') and '】' in result:
+                # ゲーム名が空でないことを確認（【：レビュー】のような形式を除外）
+                game_name = result.split('：')[0].replace('【', '').strip()
+                if game_name and len(game_name) > 0:
+                    return result
+                else:
+                    # ゲーム名が空の場合は元のタイトルを使用
+                    print(f"    ⚠ ゲーム名の抽出に失敗、元のタイトルを使用: {title[:40]}...")
+                    return title
+            else:
+                # 整形に失敗した場合は元のタイトルを使用
+                print(f"    ⚠ タイトル整形に失敗、元のタイトルを使用: {title[:40]}...")
+                return title
+
+        except Exception as e:
+            print(f"  レビュータイトル整形エラー: {e}")
+            # エラー時は元のタイトルを使用
+            return title
+    else:
+        # Groq APIがない場合は簡易整形
+        # "〜のレビュー" "〜レビュー" などを削除してから整形
+        cleaned = re.sub(r'(の)?レビュー|review', '', title, flags=re.IGNORECASE).strip()
+        if cleaned and len(cleaned) > 0:
+            return f"【{cleaned}：レビュー】"
+        else:
+            # クリーニング後にタイトルが空になった場合は元のタイトルを使用
+            print(f"    ⚠ タイトルのクリーニングに失敗、元のタイトルを使用: {title[:40]}...")
+            return title
+
+def simplify_title(title, max_length=80):
+    """長すぎるタイトルを簡潔にする（ルールベース + AI）"""
+    if not title:
+        return title
+
+    # 元のタイトルが短い場合はそのまま返す
+    if len(title) <= max_length:
+        return title
+
+    # ルールベースでの簡潔化
+    # [Reddit] [Platform] などのプレフィックスを削除
+    cleaned_title = re.sub(r'^\[[\w\s]+\]\s*', '', title)
+
+    # 価格情報の詳細を削除（例: "(2/4/7 for $4.99/$8.99/$13.99..." → ""）
+    cleaned_title = re.sub(r'\(\d+/\d+/\d+\s+for\s+\$[\d\.\$/]+.*?\)', '', cleaned_title)
+    cleaned_title = re.sub(r'\(Pay\s+\$[\d\s,\w]+\)', '', cleaned_title)
+
+    # "choose from ..." 以降を削除
+    cleaned_title = re.sub(r'\s+and\s+choose from\s+.*', '', cleaned_title, flags=re.IGNORECASE)
+
+    # 複数の空白を1つに
+    cleaned_title = re.sub(r'\s+', ' ', cleaned_title).strip()
+
+    # まだ長すぎる場合はAIで整形
+    if len(cleaned_title) > max_length and groq_client:
+        return humanize_text_with_ai(cleaned_title, content_type="title")
+    else:
+        return cleaned_title
+
+def generate_description_with_ai(title, platform, deal_type="sale", original_text=""):
+    """Groq APIを使ってタイトル（と元テキスト）から説明文を生成（失敗時はデフォルト説明文）"""
     if not groq_client:
         # Groq APIが利用できない場合はデフォルトの説明文
         if deal_type == "sale":
             return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        elif deal_type == "free":
+            return f"{title}が{platform}で期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。"
         else:
             return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
 
     try:
+        # deal_typeに応じたラベル
+        type_label = {"sale": "セール", "bundle": "バンドル", "free": "無料配布"}.get(deal_type, "お得な情報")
+
         # Groq APIで説明文を生成
-        prompt = f"""以下のゲーム{'セール' if deal_type == 'sale' else 'バンドル'}のタイトルから、魅力的な紹介文を日本語で1-2文で生成してください。
-ゲーマー向けに、簡潔でわかりやすく、ワクワクする文章にしてください。
+        if original_text and len(original_text) > 10:
+            # 元テキストがある場合は、それを要約
+            prompt = f"""以下のゲーム{type_label}情報から、魅力的な紹介文を日本語で生成してください。
+
+要件：
+- 200〜400文字程度の詳しい説明
+- ゲーマーが読んで興味を持つような具体的な内容
+- ゲームの特徴や魅力を自然な日本語で表現
+- 「です・ます」調で統一
+- 過度な宣伝文句は避け、事実ベースで
+
+プラットフォーム: {platform}
+タイトル: {title}
+元の情報: {original_text[:800]}
+
+紹介文のみを出力してください。"""
+        else:
+            # タイトルのみから生成
+            prompt = f"""以下のゲーム{type_label}のタイトルから、魅力的な紹介文を日本語で生成してください。
+
+要件：
+- 200〜300文字程度の説明
+- ゲーマーが興味を持つような内容
+- ゲームの特徴を想像して自然な日本語で表現
+- 「です・ます」調で統一
+- タイトルから推測できる情報を基に
 
 プラットフォーム: {platform}
 タイトル: {title}
 
-紹介文のみを出力してください（説明や注釈は不要）。"""
+紹介文のみを出力してください。"""
 
         response = groq_client.chat.completions.create(
-            model="llama-3.3-70b-versatile",  # 高品質で無料枠が広いモデル
+            model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.7,
-            max_tokens=150
+            temperature=0.8,  # より自然で多様な表現のため温度を上げる
+            max_tokens=600    # より長い説明文に対応
         )
 
         description = response.choices[0].message.content.strip()
-        return description if description else (
-            f"{platform}でお得な{'セール' if deal_type == 'sale' else 'バンドル'}が開催中！"
-        )
+        if description:
+            return description
+        else:
+            # フォールバック
+            if deal_type == "sale":
+                return f"{platform}でお得なセールが開催中！"
+            elif deal_type == "free":
+                return f"{title}が{platform}で期間限定無料配布中！"
+            else:
+                return f"{platform}でお得なバンドルが登場！"
 
     except Exception as e:
         print(f"  AI説明文生成エラー: {e}")
-        # エラー時はデフォルト説明文
         if deal_type == "sale":
             return f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
+        elif deal_type == "free":
+            return f"{title}が{platform}で期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。"
         else:
             return f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
 
-def translate_to_japanese(text, max_retries=3):
-    """Google翻訳で英語テキストを日本語に翻訳"""
+
+def translate_to_japanese(text, max_retries=3, humanize=True):
+    """Google翻訳で英語テキストを日本語に翻訳し、オプションで自然な日本語に整形"""
     if not translator or not text:
         return text
 
@@ -130,7 +351,14 @@ def translate_to_japanese(text, max_retries=3):
                 translated_text = translator.translate(text)
                 # 成功時は少し待機（過負荷防止）
                 time.sleep(0.3)
-                return translated_text
+
+                # humanizeオプションがTrueの場合、Groq APIで自然な日本語に整形
+                if humanize and len(translated_text) > 30:
+                    humanized = humanize_text_with_ai(translated_text, content_type="description")
+                    return humanized if humanized else translated_text
+                else:
+                    return translated_text
+
             except Exception as e:
                 error_msg = str(e)
                 error_type = type(e).__name__
@@ -171,6 +399,23 @@ def fetch_epic_free_games():
                         title = game.get('title', 'Unknown')
                         description = game.get('description', '')
 
+                        # 説明文の処理：英語の場合は翻訳して自然な日本語に
+                        if description:
+                            # 英語かどうかチェック
+                            if any(c.isalpha() and ord(c) < 128 for c in description[:100]):
+                                # 英語説明文を翻訳 + 人間化
+                                description = translate_to_japanese(description, humanize=True)
+                            elif len(description) < 100:
+                                # 短すぎる場合はAIで充実化
+                                description = generate_description_with_ai(
+                                    title, "Epic Games", "free", description
+                                )
+                        else:
+                            # 説明文がない場合はAIで生成
+                            description = generate_description_with_ai(
+                                title, "Epic Games", "free", ""
+                            )
+
                         # 価格情報
                         original_price = "不明"
                         if game.get('price') and game['price'].get('totalPrice'):
@@ -181,7 +426,7 @@ def fetch_epic_free_games():
                             "title": f"{title} - Epic Games 無料配布中",
                             "platform": "Epic Games",
                             "type": "free",
-                            "description": description[:200] if description else f"{title}が期間限定で無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
+                            "description": description,
                             "price": "無料",
                             "originalPrice": original_price,
                             "discount": "100% OFF",
@@ -355,7 +600,17 @@ def fetch_humble_bundle_direct():
 
                     for element in bundle_elements[:3]:
                         title = element.get_text(strip=True)
-                        if title and len(title) > 5 and 'bundle' in title.lower():
+                        # タイトルが有効で、バンドル関連で、かつ適切な長さであることを確認
+                        if title and len(title) > 15 and 'bundle' in title.lower():
+                            # 不完全なタイトル（"Bundle"や"Bundles"のみ）を除外
+                            if title.lower() in ['bundle', 'bundles', 'バンドル']:
+                                continue
+
+                            # ゲームバンドルではないものを除外
+                            exclude_keywords = ['book', 'knit', 'audio', 'music', 'software', 'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook']
+                            if any(keyword in title.lower() for keyword in exclude_keywords):
+                                continue
+
                             bundles.append({
                                 "title": f"{title}",
                                 "platform": "Humble Bundle",
@@ -616,6 +871,27 @@ def fetch_reddit_bundles():
                     if not is_bundle:
                         continue
 
+                    # ゲームバンドルではない記事を除外
+                    exclude_keywords = [
+                        'book', 'knit', 'question', 'how to', 'how long', 'tool', 'predictor',
+                        'predict', 'when will', '本', 'ブック', 'どうやって', 'いつ', 'ツール',
+                        'manga', 'comic', 'audio', 'music', 'software bundle', 'app bundle',
+                        'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook'
+                    ]
+
+                    # タイトルと要約の両方をチェック
+                    full_text_lower = f"{title_lower} {summary.lower() if summary else ''}"
+                    is_excluded = any(keyword in full_text_lower for keyword in exclude_keywords)
+
+                    if is_excluded:
+                        print(f"    ✗ 除外: {title[:60]}...")
+                        continue
+
+                    # タイトルが短すぎる、または不完全な場合は除外
+                    if len(title.strip()) < 10 or title.strip().lower() in ['bundle', 'bundles', 'バンドル']:
+                        print(f"    ✗ 不完全なタイトルを除外: {title}")
+                        continue
+
                     # プラットフォームを検出
                     platform = None
                     platform_url = None
@@ -632,10 +908,8 @@ def fetch_reddit_bundles():
                         platform_url = 'https://store.steampowered.com/'
 
                     if platform and platform_url:
-                        # ゲーム無関係なコンテンツをフィルタリング
-                        if not is_game_related_content(bundle_title, summary if summary else ""):
-                            print(f"    ✗ 非ゲームバンドルを除外: {bundle_title[:40]}...")
-                            continue
+                        # タイトルを簡潔にする
+                        simplified_title = simplify_title(bundle_title, max_length=100)
 
                         # RSSのsummaryから詳細情報とゲームタイトルを抽出
                         description = f"{platform}でお得なバンドルが登場！"
@@ -649,34 +923,28 @@ def fetch_reddit_bundles():
                             # ゲームタイトルを抽出（一般的なパターン）
                             # "Game1, Game2, Game3" や "- Game1 - Game2" などのパターンを検出
                             if len(cleaned_text) > 20:
-                                # 翻訳して人間的な説明に（200文字程度に制限）
+                                # 長い説明文の場合、最初の800文字を使用（より詳しく）
+                                if len(cleaned_text) > 800:
+                                    cleaned_text = cleaned_text[:800] + "..."
+
+                                # 翻訳して人間的な説明に（humanize=Trueで自然な日本語に整形）
                                 if translator:
                                     try:
-                                        # 最初の300文字を翻訳
-                                        text_to_translate = cleaned_text[:300] if len(cleaned_text) > 300 else cleaned_text
-                                        translated_desc = translate_to_japanese(text_to_translate)
-                                        # 200文字程度に制限
-                                        if len(translated_desc) > 200:
-                                            description = translated_desc[:200].rsplit('。', 1)[0] + '。'
-                                        else:
-                                            description = translated_desc
+                                        translated_desc = translate_to_japanese(cleaned_text, humanize=True)
+                                        description = f"{translated_desc}"
                                     except:
-                                        description = f"{platform}でお得なバンドルが登場。複数のゲームがセットでお買い得。"
+                                        description = f"{platform}でお得なバンドルが登場！複数のゲームがセットでお買い得。"
                                 else:
-                                    # 翻訳できない場合も200文字に制限
-                                    if len(cleaned_text) > 200:
-                                        description = cleaned_text[:200] + "..."
-                                    else:
-                                        description = cleaned_text
+                                    description = cleaned_text
                             else:
                                 # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
-                            description = generate_description_with_ai(bundle_title, platform, "bundle")
+                            description = generate_description_with_ai(simplified_title, platform, "bundle", "")
 
                         bundles.append({
-                            "title": bundle_title,
+                            "title": simplified_title,
                             "platform": platform,
                             "type": "bundle",
                             "description": description,
@@ -694,14 +962,24 @@ def fetch_reddit_bundles():
                 print(f"  Reddit r/{subreddit_name} RSS取得エラー: {e}")
                 continue
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in bundles:
+            # タイトルを正規化（記号、空白、ゲーム名リストを削除して比較）
             title_key = bundle['title'].lower()
-            if title_key not in seen_titles:
-                seen_titles.add(title_key)
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # ゲーム名のリスト部分を削除（"for the king"などの一般的なゲーム名を含む部分）
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
+            else:
+                print(f"    ⚠ 重複を除外: {bundle['title'][:50]}...")
 
         return unique_bundles[:5]  # 最大5件まで
     except Exception as e:
@@ -743,6 +1021,27 @@ def fetch_reddit_bundles_json():
                         if not is_bundle:
                             continue
 
+                        # ゲームバンドルではない記事を除外
+                        exclude_keywords = [
+                            'book', 'knit', 'question', 'how to', 'how long', 'tool', 'predictor',
+                            'predict', 'when will', '本', 'ブック', 'どうやって', 'いつ', 'ツール',
+                            'manga', 'comic', 'audio', 'music', 'software bundle', 'app bundle',
+                            'font', 'asset', 'template', 'course', 'tutorial', 'ebook', 'audiobook'
+                        ]
+
+                        # タイトルと本文の両方をチェック
+                        full_text_lower = f"{title_lower} {selftext.lower() if selftext else ''}"
+                        is_excluded = any(keyword in full_text_lower for keyword in exclude_keywords)
+
+                        if is_excluded:
+                            print(f"    ✗ 除外: {title[:60]}...")
+                            continue
+
+                        # タイトルが短すぎる、または不完全な場合は除外
+                        if len(title.strip()) < 10 or title.strip().lower() in ['bundle', 'bundles', 'バンドル']:
+                            print(f"    ✗ 不完全なタイトルを除外: {title}")
+                            continue
+
                         # プラットフォームを検出
                         platform = None
                         platform_url = None
@@ -759,10 +1058,8 @@ def fetch_reddit_bundles_json():
                             platform_url = url_link if 'steampowered.com' in url_link else 'https://store.steampowered.com/'
 
                         if platform and platform_url:
-                            # ゲーム無関係なコンテンツをフィルタリング
-                            if not is_game_related_content(bundle_title, selftext if selftext else ""):
-                                print(f"    ✗ 非ゲームバンドルを除外: {bundle_title[:40]}...")
-                                continue
+                            # タイトルを簡潔にする
+                            simplified_title = simplify_title(bundle_title, max_length=100)
 
                             # 投稿本文からゲーム名と詳細を抽出
                             description = f"{platform}でお得なバンドルが登場！"
@@ -774,34 +1071,28 @@ def fetch_reddit_bundles_json():
 
                                 # 有効な説明文が残っている場合
                                 if len(cleaned_text) > 20:
-                                    # 英語の説明文を翻訳（200文字程度に制限）
+                                    # より長い説明文を取得（800文字まで）
+                                    if len(cleaned_text) > 800:
+                                        cleaned_text = cleaned_text[:800] + "..."
+
+                                    # 英語の説明文を翻訳 + 人間化
                                     if translator:
                                         try:
-                                            # 最初の300文字を翻訳
-                                            text_to_translate = cleaned_text[:300] if len(cleaned_text) > 300 else cleaned_text
-                                            translated_desc = translate_to_japanese(text_to_translate)
-                                            # 200文字程度に制限
-                                            if len(translated_desc) > 200:
-                                                description = translated_desc[:200].rsplit('。', 1)[0] + '。'
-                                            else:
-                                                description = translated_desc
+                                            translated_desc = translate_to_japanese(cleaned_text, humanize=True)
+                                            description = f"{translated_desc}"
                                         except:
-                                            description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                            description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                                     else:
-                                        # 翻訳できない場合も200文字に制限
-                                        if len(cleaned_text) > 200:
-                                            description = cleaned_text[:200] + "..."
-                                        else:
-                                            description = cleaned_text
+                                        description = cleaned_text
                                 else:
                                     # クリーンアップ後のテキストが短い場合、AIで生成
-                                    description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                    description = generate_description_with_ai(simplified_title, platform, "bundle", cleaned_text)
                             else:
                                 # selftextがない場合もAIで生成
-                                description = generate_description_with_ai(bundle_title, platform, "bundle")
+                                description = generate_description_with_ai(simplified_title, platform, "bundle", "")
 
                             bundles.append({
-                                "title": bundle_title,
+                                "title": simplified_title,
                                 "platform": platform,
                                 "type": "bundle",
                                 "description": description,
@@ -816,14 +1107,24 @@ def fetch_reddit_bundles_json():
                 print(f"  Reddit {subreddit}の取得に失敗: {e}")
                 continue
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in bundles:
+            # タイトルを正規化（記号、空白、ゲーム名リストを削除して比較）
             title_key = bundle['title'].lower()
-            if title_key not in seen_titles:
-                seen_titles.add(title_key)
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # ゲーム名のリスト部分を削除（"for the king"などの一般的なゲーム名を含む部分）
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
+            else:
+                print(f"    ⚠ 重複を除外: {bundle['title'][:50]}...")
 
         return unique_bundles[:5]  # 最大5件まで
     except Exception as e:
@@ -1001,17 +1302,20 @@ def fetch_reddit_sales():
                         platform_url = 'https://www.humblebundle.com/'
 
                     if platform and platform_url:
-                        # タイトルを日本語化（英語の場合）
+                        # タイトルを日本語化（英語の場合）し、簡潔化
                         japanese_title = title
                         if translator and title:
                             # タイトルに英語が多く含まれる場合は翻訳
                             if any(c.isalpha() and ord(c) < 128 for c in title):
                                 try:
-                                    japanese_title = translate_to_japanese(title)
+                                    japanese_title = translate_to_japanese(title, humanize=False)
                                 except:
                                     japanese_title = title
 
-                        # RSSのsummaryから詳細情報を抽出（200文字程度に制限）
+                        # タイトルを簡潔にする
+                        simplified_title = simplify_title(japanese_title, max_length=100)
+
+                        # RSSのsummaryから詳細情報を抽出
                         description = f"{platform}でお得なセールが開催中！"
 
                         if summary:
@@ -1021,34 +1325,28 @@ def fetch_reddit_sales():
 
                             # 有効な説明文が残っている場合
                             if len(cleaned_text) > 20:
-                                # 英語の説明文を翻訳（200文字程度に制限）
+                                # より長い説明文を取得（800文字まで）
+                                if len(cleaned_text) > 800:
+                                    cleaned_text = cleaned_text[:800] + "..."
+
+                                # 英語の説明文を翻訳 + 人間化
                                 if translator:
                                     try:
-                                        # 最初の300文字を翻訳
-                                        text_to_translate = cleaned_text[:300] if len(cleaned_text) > 300 else cleaned_text
-                                        translated_desc = translate_to_japanese(text_to_translate)
-                                        # 200文字程度に制限
-                                        if len(translated_desc) > 200:
-                                            description = translated_desc[:200].rsplit('。', 1)[0] + '。'
-                                        else:
-                                            description = translated_desc
+                                        translated_desc = translate_to_japanese(cleaned_text, humanize=True)
+                                        description = f"{translated_desc}"
                                     except:
-                                        description = f"{platform}でお得なセールが開催中。期間限定の特別価格。"
+                                        description = f"{platform}でお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。"
                                 else:
-                                    # 翻訳できない場合も200文字に制限
-                                    if len(cleaned_text) > 200:
-                                        description = cleaned_text[:200] + "..."
-                                    else:
-                                        description = cleaned_text
+                                    description = cleaned_text
                             else:
                                 # クリーンアップ後のテキストが短い場合、AIで生成
-                                description = generate_description_with_ai(japanese_title, platform, "sale")
+                                description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                         else:
                             # summaryがない場合もAIで生成
-                            description = generate_description_with_ai(japanese_title, platform, "sale")
+                            description = generate_description_with_ai(simplified_title, platform, "sale", "")
 
                         sales.append({
-                            "title": japanese_title,
+                            "title": simplified_title,
                             "platform": platform,
                             "type": "sale",
                             "description": description,
@@ -1136,17 +1434,20 @@ def fetch_reddit_sales_json():
                             platform_url = url_link if 'humblebundle.com' in url_link else 'https://www.humblebundle.com/'
 
                         if platform and platform_url:
-                            # タイトルを日本語化
+                            # タイトルを日本語化し、簡潔化
                             japanese_title = title
                             if translator and title:
                                 # タイトルに英語が多く含まれる場合は翻訳
                                 if any(c.isalpha() and ord(c) < 128 for c in title):
                                     try:
-                                        japanese_title = translate_to_japanese(title)
+                                        japanese_title = translate_to_japanese(title, humanize=False)
                                     except:
                                         japanese_title = title
 
-                            # 投稿本文からセールの詳細を抽出（200文字程度に制限）
+                            # タイトルを簡潔にする
+                            simplified_title = simplify_title(japanese_title, max_length=100)
+
+                            # 投稿本文からセールの詳細を抽出
                             description = f"{platform}でお得なセールが開催中！"
 
                             if selftext:
@@ -1156,34 +1457,28 @@ def fetch_reddit_sales_json():
 
                                 # 有効な説明文が残っている場合
                                 if len(cleaned_text) > 20:
-                                    # 英語の説明文を翻訳（200文字程度に制限）
+                                    # より長い説明文を取得（800文字まで）
+                                    if len(cleaned_text) > 800:
+                                        cleaned_text = cleaned_text[:800] + "..."
+
+                                    # 英語の説明文を翻訳 + 人間化
                                     if translator:
                                         try:
-                                            # 最初の300文字を翻訳
-                                            text_to_translate = cleaned_text[:300] if len(cleaned_text) > 300 else cleaned_text
-                                            translated_desc = translate_to_japanese(text_to_translate)
-                                            # 200文字程度に制限
-                                            if len(translated_desc) > 200:
-                                                description = translated_desc[:200].rsplit('。', 1)[0] + '。'
-                                            else:
-                                                description = translated_desc
+                                            translated_desc = translate_to_japanese(cleaned_text, humanize=True)
+                                            description = f"{translated_desc}"
                                         except:
-                                            description = generate_description_with_ai(japanese_title, platform, "sale")
+                                            description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                                     else:
-                                        # 翻訳できない場合も200文字に制限
-                                        if len(cleaned_text) > 200:
-                                            description = cleaned_text[:200] + "..."
-                                        else:
-                                            description = cleaned_text
+                                        description = cleaned_text
                                 else:
                                     # クリーンアップ後のテキストが短い場合、AIで生成
-                                    description = generate_description_with_ai(japanese_title, platform, "sale")
+                                    description = generate_description_with_ai(simplified_title, platform, "sale", cleaned_text)
                             else:
                                 # selftextがない場合もAIで生成
-                                description = generate_description_with_ai(japanese_title, platform, "sale")
+                                description = generate_description_with_ai(simplified_title, platform, "sale", "")
 
                             sales.append({
-                                "title": japanese_title,
+                                "title": simplified_title,
                                 "platform": platform,
                                 "type": "sale",
                                 "description": description,
@@ -1211,53 +1506,6 @@ def fetch_reddit_sales_json():
     except Exception as e:
         print(f"Redditセール情報の取得に失敗: {e}")
         return []
-
-def is_game_related_content(title, description=""):
-    """ゲーム関連のコンテンツかどうかを判定（非ゲームコンテンツを除外）"""
-    title_lower = title.lower()
-    desc_lower = description.lower()
-    combined = f"{title_lower} {desc_lower}"
-
-    # 除外するキーワード（本、映画、ツール、ハードウェアなど）
-    exclude_keywords = [
-        'book bundle', 'knit', 'knitting', '編み物', 'ニット',
-        '予測ツール', 'prediction tool', 'tracker', 'calendar',
-        'humble talk', 'podcast', 'video', 'movie', 'film',
-        'running man', 'ランニングマン', '映画'
-    ]
-
-    # 除外キーワードが含まれている場合はFalse
-    if any(keyword in combined for keyword in exclude_keywords):
-        return False
-
-    return True
-
-def extract_game_title_from_review(title, summary=""):
-    """レビュー記事のタイトルや要約からゲーム名を抽出"""
-    # タイトルから【】や「」で囲まれたゲーム名を抽出
-    import re
-
-    # 日本語のパターン
-    ja_patterns = [
-        r'『([^』]+)』',  # 『ゲーム名』
-        r'「([^」]+)」',  # 「ゲーム名」
-        r'【([^】]+)】',  # 【ゲーム名】
-    ]
-
-    for pattern in ja_patterns:
-        match = re.search(pattern, title)
-        if match:
-            return match.group(1)
-
-    # 英語のパターン - タイトルの最初の部分（":" や "-" の前）
-    if ':' in title:
-        parts = title.split(':')
-        game_name = parts[0].strip()
-        # 一般的な記事のプレフィックスを除外
-        if not any(prefix in game_name.lower() for prefix in ['review', 'preview', 'hands-on', 'first look']):
-            return game_name
-
-    return None
 
 def fetch_review_articles():
     """ゲームメディアのRSSフィードからレビュー記事を取得"""
@@ -1391,61 +1639,53 @@ def fetch_review_articles():
                     # レビュー記事かつゲーム関連の場合のみ追加
                     # ただし、ゲーム専門メディア（AUTOMATON、doope!など）の場合は
                     # レビューキーワードがあれば基本的にゲーム関連と判断
-                    game_focused_media = ['AUTOMATON', 'doope!', 'インサイド', 'Rock Paper Shotgun', 'Polygon']
+                    game_focused_media = ['AUTOMATON', 'doope!', 'インサイド', 'PC Gamer', 'Rock Paper Shotgun', 'Polygon']
 
                     if is_review and link:
                         if feed_info['platform'] in game_focused_media or is_game_related:
-                            # ゲーム無関係なコンテンツをフィルタリング
-                            if not is_game_related_content(title, summary_clean):
-                                print(f"    ✗ 非ゲームコンテンツを除外: {title[:40]}...")
-                                continue
-
                             # 英語記事は自動翻訳
                             if feed_info['lang'] == 'en':
                                 # タイトルを翻訳
                                 print(f"    翻訳中: {title[:40]}...")
-                                translated_title = translate_to_japanese(title)
+                                translated_title = translate_to_japanese(title, humanize=True)
 
-                                # ゲーム名を抽出
-                                game_name = extract_game_title_from_review(translated_title, summary_clean)
+                                # タイトルを【ゲーム名：レビュー】形式に整形
+                                final_title = format_review_title(translated_title)
 
-                                # タイトルにゲーム名を【】で明示
-                                if game_name:
-                                    final_title = f"【{game_name}】{translated_title.replace(game_name, '').strip(' -:：')}"
-                                else:
-                                    final_title = translated_title
+                                # タイトルが空の場合のみスキップ（通常は起こらない）
+                                if not final_title or len(final_title.strip()) == 0:
+                                    continue
 
-                                # 説明文を短縮（200-250文字程度）
+                                # 説明文を翻訳して充実化
                                 if summary_clean and len(summary_clean) > 50:
-                                    # 翻訳して短縮
-                                    translated_summary = translate_to_japanese(summary_clean)
-                                    # 200文字程度に制限
-                                    if len(translated_summary) > 200:
-                                        description = translated_summary[:200].rsplit('。', 1)[0] + '。'
-                                    else:
-                                        description = translated_summary
+                                    # より長い説明文を生成（人間化）
+                                    translated_summary = translate_to_japanese(summary_clean, humanize=True)
+                                    description = f"{translated_summary}"
+
+                                    # 説明文が短すぎる場合は補足
+                                    if len(description) < 100:
+                                        description += f" {feed_info['platform']}による詳細なレビュー記事です。ゲームの魅力や特徴について深く掘り下げています。"
                                 else:
-                                    description = f"{feed_info['platform']}によるレビュー記事。ゲームプレイの感想や評価ポイントをチェック。"
+                                    description = f"{final_title}について、{feed_info['platform']}が詳しくレビュー。ゲームプレイの感想や評価ポイントをチェックできます。"
+
                             else:
-                                # 日本語記事の場合
-                                # ゲーム名を抽出
-                                game_name = extract_game_title_from_review(title, summary_clean)
+                                # 日本語記事も【ゲーム名：レビュー】形式に整形
+                                final_title = format_review_title(title)
 
-                                # タイトルにゲーム名を【】で明示
-                                if game_name and game_name not in title:
-                                    final_title = f"【{game_name}】{title}"
-                                else:
-                                    final_title = title
+                                # タイトルが空の場合のみスキップ（通常は起こらない）
+                                if not final_title or len(final_title.strip()) == 0:
+                                    continue
 
-                                # 説明文を短縮（200-250文字程度）
+                                # 説明文を充実化
                                 if summary_clean and len(summary_clean) > 50:
-                                    # 200文字程度に制限
-                                    if len(summary_clean) > 200:
-                                        description = summary_clean[:200].rsplit('。', 1)[0] + '。'
-                                    else:
-                                        description = summary_clean
+                                    # 日本語でも人間化処理を適用
+                                    description = humanize_text_with_ai(summary_clean, content_type="description") if groq_client else summary_clean
+
+                                    # 短い場合は補足
+                                    if len(description) < 100:
+                                        description += f" {feed_info['platform']}による詳細なレビュー記事。実際にプレイした感想や評価をご覧いただけます。"
                                 else:
-                                    description = f"{feed_info['platform']}によるレビュー記事。実際にプレイした感想や評価をご覧いただけます。"
+                                    description = f"{final_title}について、{feed_info['platform']}による実プレイレポートをお届けします。"
 
                             review_articles.append({
                                 "title": final_title,
@@ -1517,13 +1757,22 @@ def update_games_data():
         # 全てのバンドル情報を統合
         all_bundles = reddit_bundles + humble_bundles + fanatical_bundles + indiegala_bundles + itchio_bundles
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_bundles = []
         for bundle in all_bundles:
             title_key = bundle.get('title', '').lower()
-            if title_key and title_key not in seen_titles:
-                seen_titles.add(title_key)
+            if not title_key:
+                continue
+
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # 主要な部分だけで重複判定（最初の5単語まで）
+            title_key_short = ' '.join(title_key.split()[:5])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_bundles.append(bundle)
 
         # reddit_bundlesを統合されたバンドルリストに変更
@@ -1551,13 +1800,22 @@ def update_games_data():
         # 全てのセール情報を統合
         all_sales = reddit_sales + steam_sales + itad_sales + gog_sales
 
-        # 重複を削除
+        # 重複を削除（改善版：より厳密な正規化）
         seen_titles = set()
         unique_sales = []
         for sale in all_sales:
             title_key = sale.get('title', '').lower()
-            if title_key and title_key not in seen_titles:
-                seen_titles.add(title_key)
+            if not title_key:
+                continue
+
+            # 記号と空白を統一
+            title_key = re.sub(r'[^\w\s]', ' ', title_key)
+            title_key = re.sub(r'\s+', ' ', title_key).strip()
+            # 主要な部分だけで重複判定（最初の6単語まで - セールタイトルは長めなので）
+            title_key_short = ' '.join(title_key.split()[:6])
+
+            if title_key_short not in seen_titles:
+                seen_titles.add(title_key_short)
                 unique_sales.append(sale)
 
         # reddit_salesを統合されたセールリストに変更
@@ -1600,13 +1858,28 @@ def update_games_data():
 
             # 新しい情報を先頭に追加
             all_new_games = epic_games + reddit_games
+
+            # 保存前に説明文をクリーニング（Redditメタデータ削除）
+            for game in all_new_games:
+                if 'description' in game and game['description']:
+                    game['description'] = clean_reddit_meta(game['description'])
+
+            # 既存のゲームもクリーニング
+            for game in data['pc']['free']:
+                if 'description' in game and game['description']:
+                    game['description'] = clean_reddit_meta(game['description'])
+
             data['pc']['free'] = all_new_games + data['pc']['free']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_games = []
             for game in data['pc']['free']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = game.get('title', '').lower()
+                title_key = re.sub(r'[^\w\s]', '', title_key)  # 記号削除
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+
                 if title_key not in seen_titles:
                     seen_titles.add(title_key)
                     unique_games.append(game)
@@ -1619,6 +1892,10 @@ def update_games_data():
             for article in review_articles:
                 print(f"  - {article['title'][:50]}... ({article['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in article and article['description']:
+                    article['description'] = clean_reddit_meta(article['description'])
+
             # reviewカテゴリが存在しない場合は作成
             if 'review' not in data['pc']:
                 data['pc']['review'] = []
@@ -1628,6 +1905,10 @@ def update_games_data():
             current_date = datetime.now()
             manual_reviews = []
             for review in data['pc']['review']:
+                # 既存のレビューもクリーニング
+                if 'description' in review and review['description']:
+                    review['description'] = clean_reddit_meta(review['description'])
+
                 try:
                     review_date = datetime.strptime(review.get('date', ''), "%Y-%m-%d")
                     days_old = (current_date - review_date).days
@@ -1659,9 +1940,18 @@ def update_games_data():
             for bundle in reddit_bundles:
                 print(f"  - {bundle['title'][:50]}... ({bundle['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in bundle and bundle['description']:
+                    bundle['description'] = clean_reddit_meta(bundle['description'])
+
             # bundleカテゴリが存在しない場合は作成
             if 'bundle' not in data['pc']:
                 data['pc']['bundle'] = []
+
+            # 既存のバンドルもクリーニング
+            for bundle in data['pc']['bundle']:
+                if 'description' in bundle and bundle['description']:
+                    bundle['description'] = clean_reddit_meta(bundle['description'])
 
             # 自動取得された古いバンドル情報を削除（14日以上前）
             # バンドルは通常2-4週間続くため、より長く保持する
@@ -1670,13 +1960,19 @@ def update_games_data():
             # 新しい情報を先頭に追加
             data['pc']['bundle'] = reddit_bundles + data['pc']['bundle']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_bundles = []
             for bundle in data['pc']['bundle']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = bundle.get('title', '').lower()
-                if title_key not in seen_titles:
-                    seen_titles.add(title_key)
+                title_key = re.sub(r'[^\w\s]', ' ', title_key)  # 記号を空白に
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+                # 主要な部分だけで重複判定（最初の5単語まで）
+                title_key_short = ' '.join(title_key.split()[:5])
+
+                if title_key_short not in seen_titles:
+                    seen_titles.add(title_key_short)
                     unique_bundles.append(bundle)
 
             # 最新15件を保持（より多くのバンドル情報を表示）
@@ -1688,9 +1984,18 @@ def update_games_data():
             for sale in reddit_sales:
                 print(f"  - {sale['title'][:50]}... ({sale['platform']})")
 
+                # 保存前に説明文をクリーニング（Redditメタデータ削除）
+                if 'description' in sale and sale['description']:
+                    sale['description'] = clean_reddit_meta(sale['description'])
+
             # saleカテゴリが存在しない場合は作成
             if 'sale' not in data['pc']:
                 data['pc']['sale'] = []
+
+            # 既存のセールもクリーニング
+            for sale in data['pc']['sale']:
+                if 'description' in sale and sale['description']:
+                    sale['description'] = clean_reddit_meta(sale['description'])
 
             # 自動取得された古いセール情報を削除（10日以上前）
             # セールは通常1-2週間続くため、やや長く保持する
@@ -1699,17 +2004,68 @@ def update_games_data():
             # 新しい情報を先頭に追加
             data['pc']['sale'] = reddit_sales + data['pc']['sale']
 
-            # 重複を削除（タイトルベース）
+            # 重複を削除（タイトルベース・正規化強化）
             seen_titles = set()
             unique_sales = []
             for sale in data['pc']['sale']:
+                # タイトルを正規化（記号・空白を統一して比較）
                 title_key = sale.get('title', '').lower()
-                if title_key not in seen_titles:
-                    seen_titles.add(title_key)
+                title_key = re.sub(r'[^\w\s]', ' ', title_key)  # 記号を空白に
+                title_key = re.sub(r'\s+', ' ', title_key).strip()  # 空白正規化
+                # 主要な部分だけで重複判定（最初の6単語まで）
+                title_key_short = ' '.join(title_key.split()[:6])
+
+                if title_key_short not in seen_titles:
+                    seen_titles.add(title_key_short)
                     unique_sales.append(sale)
 
             # 最新20件を保持（より多くのセール情報を表示）
             data['pc']['sale'] = unique_sales[:20]
+
+        # 保存前に全カテゴリのデータをクリーニング（常に実行）
+        print("\n🧹 全データのクリーニング中...")
+        cleaned_count = 0
+
+        # バンドルをクリーニング
+        if 'bundle' in data.get('pc', {}):
+            for item in data['pc']['bundle']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # セールをクリーニング
+        if 'sale' in data.get('pc', {}):
+            for item in data['pc']['sale']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # 無料ゲームをクリーニング
+        if 'free' in data.get('pc', {}):
+            for item in data['pc']['free']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        # レビューをクリーニング
+        if 'review' in data.get('pc', {}):
+            for item in data['pc']['review']:
+                if 'description' in item and item['description']:
+                    original = item['description']
+                    item['description'] = clean_reddit_meta(item['description'])
+                    if original != item['description']:
+                        cleaned_count += 1
+
+        if cleaned_count > 0:
+            print(f"  ✨ {cleaned_count}件の説明文をクリーニングしました")
+        else:
+            print("  ✓ クリーニングが必要なデータはありませんでした")
 
         # 更新日時を記録
         data['last_updated'] = datetime.now().isoformat()

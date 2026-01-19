@@ -206,20 +206,26 @@ IMPORTANT: 整形後のタイトル**のみ**を出力してください。説�
                 else:
                     # ゲーム名が空の場合は元のタイトルを使用
                     print(f"    ⚠ ゲーム名の抽出に失敗、元のタイトルを使用: {title[:40]}...")
-                    return f"【{title}：レビュー】"
+                    return title
             else:
-                # フォールバック：タイトルをそのまま【】で囲む
-                return f"【{title}：レビュー】"
+                # 整形に失敗した場合は元のタイトルを使用
+                print(f"    ⚠ タイトル整形に失敗、元のタイトルを使用: {title[:40]}...")
+                return title
 
         except Exception as e:
             print(f"  レビュータイトル整形エラー: {e}")
-            # エラー時はタイトルをそのまま【】で囲む
-            return f"【{title}：レビュー】"
+            # エラー時は元のタイトルを使用
+            return title
     else:
         # Groq APIがない場合は簡易整形
         # "〜のレビュー" "〜レビュー" などを削除してから整形
         cleaned = re.sub(r'(の)?レビュー|review', '', title, flags=re.IGNORECASE).strip()
-        return f"【{cleaned}：レビュー】"
+        if cleaned and len(cleaned) > 0:
+            return f"【{cleaned}：レビュー】"
+        else:
+            # クリーニング後にタイトルが空になった場合は元のタイトルを使用
+            print(f"    ⚠ タイトルのクリーニングに失敗、元のタイトルを使用: {title[:40]}...")
+            return title
 
 def simplify_title(title, max_length=80):
     """長すぎるタイトルを簡潔にする（ルールベース + AI）"""
@@ -1633,7 +1639,7 @@ def fetch_review_articles():
                     # レビュー記事かつゲーム関連の場合のみ追加
                     # ただし、ゲーム専門メディア（AUTOMATON、doope!など）の場合は
                     # レビューキーワードがあれば基本的にゲーム関連と判断
-                    game_focused_media = ['AUTOMATON', 'doope!', 'インサイド', 'Rock Paper Shotgun', 'Polygon']
+                    game_focused_media = ['AUTOMATON', 'doope!', 'インサイド', 'PC Gamer', 'Rock Paper Shotgun', 'Polygon']
 
                     if is_review and link:
                         if feed_info['platform'] in game_focused_media or is_game_related:
@@ -1645,6 +1651,10 @@ def fetch_review_articles():
 
                                 # タイトルを【ゲーム名：レビュー】形式に整形
                                 final_title = format_review_title(translated_title)
+
+                                # タイトルが空の場合のみスキップ（通常は起こらない）
+                                if not final_title or len(final_title.strip()) == 0:
+                                    continue
 
                                 # 説明文を翻訳して充実化
                                 if summary_clean and len(summary_clean) > 50:
@@ -1661,6 +1671,10 @@ def fetch_review_articles():
                             else:
                                 # 日本語記事も【ゲーム名：レビュー】形式に整形
                                 final_title = format_review_title(title)
+
+                                # タイトルが空の場合のみスキップ（通常は起こらない）
+                                if not final_title or len(final_title.strip()) == 0:
+                                    continue
 
                                 # 説明文を充実化
                                 if summary_clean and len(summary_clean) > 50:

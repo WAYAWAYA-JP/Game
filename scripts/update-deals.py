@@ -1611,6 +1611,25 @@ def fetch_review_articles():
                     link = entry.get('link', '')
                     summary = entry.get('summary', '') or entry.get('description', '')
 
+                    # 記事の公開日を取得
+                    try:
+                        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                            article_date = datetime(*entry.published_parsed[:6])
+                        elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                            article_date = datetime(*entry.updated_parsed[:6])
+                        else:
+                            article_date = datetime.now()
+
+                        # 7日以上前の記事は除外
+                        days_old = (datetime.now() - article_date).days
+                        if days_old > 7:
+                            continue
+
+                        article_date_str = article_date.strftime("%Y-%m-%d")
+                    except (ValueError, TypeError, AttributeError):
+                        # 日付のパースに失敗した場合は現在日時を使用
+                        article_date_str = datetime.now().strftime("%Y-%m-%d")
+
                     # HTMLタグを削除
                     summary_clean = re.sub(r'<[^>]+>', '', summary)[:300]
 
@@ -1700,7 +1719,7 @@ def fetch_review_articles():
                                 "discount": "",
                                 "deadline": "",
                                 "url": link,
-                                "date": current_date,
+                                "date": article_date_str,
                                 "is_translated": feed_info['lang'] == 'en'  # 翻訳済みフラグ
                             })
 

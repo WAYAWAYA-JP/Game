@@ -1550,12 +1550,15 @@ def fetch_review_articles():
             'cpu', 'gpu', 'graphics card', 'processor', 'motherboard', 'case',
             'cooling', 'corsair', 'nvidia', 'amd', 'intel', 'monitor', 'mouse',
             'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply',
-            'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade',
+            'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade', 'razer',
             'msi', 'lenovo', 'dell', 'hp omen', 'acer predator', 'router', 'wifi',
             'rtx 30', 'rtx 40', 'rtx 50', 'radeon', 'geforce', 'ryzen', 'core i',
             'cooler', 'fan', 'thermal', 'chassis', 'air 54', 'pc case', 'tower',
             'rgb', 'liquid cooling', 'watercooling', 'gaming chair', 'desk',
-            'webcam', 'microphone', 'speakers', 'controller review', 'peripheral'
+            'webcam', 'microphone', 'speakers', 'controller review', 'peripheral',
+            'thunderbolt', 'usb hub', 'dock', 'docking station', 'ドック', 'ドッキングステーション',
+            'hardware review', 'ハードウェアレビュー', 'マウスレビュー', 'キーボードレビュー',
+            'モニターレビュー', 'ヘッドセットレビュー', 'pc build', 'pc組み立て'
         ]
 
         # 各ゲームメディアのRSSフィード
@@ -1607,6 +1610,25 @@ def fetch_review_articles():
                     title = entry.get('title', '')
                     link = entry.get('link', '')
                     summary = entry.get('summary', '') or entry.get('description', '')
+
+                    # 記事の公開日を取得
+                    try:
+                        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                            article_date = datetime(*entry.published_parsed[:6])
+                        elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                            article_date = datetime(*entry.updated_parsed[:6])
+                        else:
+                            article_date = datetime.now()
+
+                        # 7日以上前の記事は除外
+                        days_old = (datetime.now() - article_date).days
+                        if days_old > 7:
+                            continue
+
+                        article_date_str = article_date.strftime("%Y-%m-%d")
+                    except (ValueError, TypeError, AttributeError):
+                        # 日付のパースに失敗した場合は現在日時を使用
+                        article_date_str = datetime.now().strftime("%Y-%m-%d")
 
                     # HTMLタグを削除
                     summary_clean = re.sub(r'<[^>]+>', '', summary)[:300]
@@ -1697,15 +1719,15 @@ def fetch_review_articles():
                                 "discount": "",
                                 "deadline": "",
                                 "url": link,
-                                "date": current_date,
+                                "date": article_date_str,
                                 "is_translated": feed_info['lang'] == 'en'  # 翻訳済みフラグ
                             })
 
                             articles_from_this_feed += 1
                             print(f"    ✓ レビュー記事を発見: {final_title[:50]}...")
 
-                            # 各フィードから最大3件まで（2件→3件に拡大）
-                            if articles_from_this_feed >= 3:
+                            # 各フィードから最大5件まで（3件→5件に拡大）
+                            if articles_from_this_feed >= 5:
                                 break
 
                 if articles_from_this_feed == 0:

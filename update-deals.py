@@ -1550,12 +1550,15 @@ def fetch_review_articles():
             'cpu', 'gpu', 'graphics card', 'processor', 'motherboard', 'case',
             'cooling', 'corsair', 'nvidia', 'amd', 'intel', 'monitor', 'mouse',
             'keyboard', 'headset', 'ram', 'ssd', 'storage', 'psu', 'power supply',
-            'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade',
+            'laptop', 'notebook', 'asus', 'tuf gaming', 'alienware', 'razer blade', 'razer',
             'msi', 'lenovo', 'dell', 'hp omen', 'acer predator', 'router', 'wifi',
             'rtx 30', 'rtx 40', 'rtx 50', 'radeon', 'geforce', 'ryzen', 'core i',
             'cooler', 'fan', 'thermal', 'chassis', 'air 54', 'pc case', 'tower',
             'rgb', 'liquid cooling', 'watercooling', 'gaming chair', 'desk',
-            'webcam', 'microphone', 'speakers', 'controller review', 'peripheral'
+            'webcam', 'microphone', 'speakers', 'controller review', 'peripheral',
+            'thunderbolt', 'usb hub', 'dock', 'docking station', 'ドック', 'ドッキングステーション',
+            'hardware review', 'ハードウェアレビュー', 'マウスレビュー', 'キーボードレビュー',
+            'モニターレビュー', 'ヘッドセットレビュー', 'pc build', 'pc組み立て'
         ]
 
         # 各ゲームメディアのRSSフィード
@@ -1704,8 +1707,8 @@ def fetch_review_articles():
                             articles_from_this_feed += 1
                             print(f"    ✓ レビュー記事を発見: {final_title[:50]}...")
 
-                            # 各フィードから最大3件まで（2件→3件に拡大）
-                            if articles_from_this_feed >= 3:
+                            # 各フィードから最大5件まで（3件→5件に拡大）
+                            if articles_from_this_feed >= 5:
                                 break
 
                 if articles_from_this_feed == 0:

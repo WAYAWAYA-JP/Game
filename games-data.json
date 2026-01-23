@@ -2,31 +2,79 @@
   "pc": {
     "free": [
       {
-        "title": "Styx: Master of Shadows - Epic Games 無料配布中",
+        "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Styx: Master of Shadowsは、ダークファンタジーの世界を舞台にした、RPG要素のある潜入ゲームです。このゲームでは、2世紀もの間生き続けたゴブリンのStyxとなって、様々なミッションを遂行します。プレイヤーは、Styxの能力を活かして、敵の目を避けながら進み、盗みや暗殺を行う必要があります。ゴブリンの知性と狡猾を駆使して、影の中を潜みながら、ゲームの世界を探索してみましょう。",
+        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に変身しましょう。非凡なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだり。伝統的なゲームプレイスタイルがすべて詰め込まれており、自由に冒険が楽しめます。中世を舞台にしたこの世界では、プレイヤーは思いもかけない行動を起こすことができます。衛兵と戦ったり、農民から略奪したり、英雄を倒したりと、様々なアクションが楽しめます。さらに、馬を盗んだり、吟遊詩人の音楽を聴いたり、非凡なクエストを完了したりと、ユニークな体験が待っています。このゲームでは、自由に冒険ができるオープンワールドが特徴です。中世の世界を自由に歩き回り、様々なキャラクターと出会い、クエストを遂行したり、アクションを楽しんだりすることができます。",
         "price": "無料",
-        "originalPrice": "¥1,980",
+        "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "Styx: Shards of Darkness - Deluxe Edition - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ゴブリン暗殺者Styxが、新しいステルスアドベンチャーで帰ってきたです。広大なオープンな環境を自由に探索し、マスターして、新たな敵やボスをこっそり通り過ぎたり、暗殺したりしましょう。さらに、ゴブリン暗殺者の武器庫にある新しい致死的な能力や武器を試してみましょう。",
-        "price": "無料",
-        "originalPrice": "¥1,980",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-22"
+        "date": "2026-01-23"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Resident Evil Bundle (Demonic Edition)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "Just Cause コンプリートコレクション",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "When does humble drops new bundles?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "Humble Tabletop Board Game Bundle: Garphill Game Expansions",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "Are any steam keys in the decked out collection bundle region-locked or are they all global?",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-23"
+      },
       {
         "title": "Just Causeシリーズ コンプリートコレクション",
         "platform": "Humble Bundle",
@@ -49,42 +97,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "Humble Tabletop Board Game Bundle: Garphill Game Expansions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "Are any steam keys in the decked out collection bundle region-locked or are they all global?",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "Just Cause コンプリートコレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-01-22"
       },
       {
@@ -177,7 +189,7 @@
         "title": "【龍が如く 極３ / 龍が如く３外伝 Dark Ties：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "セガは『龍が如く 極３ / 龍が如く３外伝 Dark Ties』の店頭体験会を現在実施中です。本稿では、体験会の様子や、開発者のインタビューを通じて本作の魅力を紹介します。体験会では、プレイヤーが直接ゲームを触り、最新作の面白さを感じることができます。インタビューでは、開発者のコメントから、シリーズの新たな展開や、キャラクターの深い背景などが垣間見えるので、ファンには必見の内容です。",
+        "description": "セガは『龍が如く 極３ / 龍が如く３外伝 Dark Ties』の店頭体験会を開催中です。本稿では、体験会の様子と、このゲームの内容について、開発チームへのインタビューを通じて垣間見える魅力的な要素をお届けします。体験会では、プレイヤーが最新作の世界に触れ、ゲームの新要素を直接体験することができます。さらに、開発チームとのインタビューでは、新しいストーリーやキャラクター、ゲームプレイの改善について",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -190,7 +202,7 @@
         "title": "【ダークオークション：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ミステリーアドベンチャーゲーム『ダークオークション』のSteamの無料体験版が新しくなりました。このゲームでは、プレイヤーは恐ろしい闇の世界を探索し、謎を解くための重要なアイテムを入手するためにオークションに参加します。無料体験版では、ゲームの世界に引き込まれ、プレイヤーは自分自身でこの不気味な世界を体験できます。アップデートされた無料体験版では、新しい機能や改良されたゲーム性が追加されています。",
+        "description": "ミステリーアドベンチャーゲーム『ダークオークション』のSteam無料体験版がアップデートされました。このゲームでは、プレイヤーがオークションに参加し、様々なアイテムを入札して購入しますが、そのアイテムの中には、暗い過去や黒魔術的な力を持つものもあります。アップデートされた体験版では、新しい機能やアイテムが追加され、より多様なゲームプレイが楽しめます。『ダークオークション』の世界は、闇に包まれたオー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -200,23 +212,114 @@
         "is_translated": false
       },
       {
-        "title": "【Pathologic 3：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【アーク レイダース：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "高評価を得ているホラーゲーム『Pathologic 3』の開発元は、海賊版を利用しているユーザーがバグを報告する際には、海賊版を使用していることを正直に申告してほしいと語っています。開発元は、海賊版を利用しているユーザーからのバグ報告は、開発チームがゲームのバグを特定し、修正する上で、非常に重要な情報となるためです。不过、海賊版利用がバグの原因である可能性もあるため、海賊版を使用していることを隠し",
+        "description": "ホテル ステラ モンティスにお祝いとお詫びを申し上げます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260121-409671/",
-        "date": "2026-01-21",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/third-person-shooter/an-italian-hotel-sharing-a-name-with-an-arc-raiders-map-is-enjoying-a-flood-of-5-star-reviews-from-players-praising-the-loot-in-its-surprisingly-charming-seed-vault-and-its-eventful-night-raid-nightlife/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【The Sims 4：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The Sims 4 の最大のモッドの 1 つは、トリプル A のゲームが羨むような数字を叩き出すものです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-sims/the-sims-4s-most-notorious-sex-mod-gets-launched-400-000-times-a-day-which-is-more-people-than-i-realized-were-even-playing-the-sims-every-day/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【パソロジー 3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "タイムトラベルミステリーがコメディと融合した、素晴らしくも陰惨で、時にはユーモアに溢れた魅力的なゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/pathologic-3-review/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Pillars of Eternity II: Deadfire：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "それは本当でしょう、見出しに書きました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/a-baldurs-gate-3-style-early-access-period-wouldnt-have-done-much-for-deadfire-the-secret-best-crpg-of-the-last-decade-per-its-director-josh-sawyer/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【パルサー X2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "激しい競争に直面するプレミアム軽量げっ歯類。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-x2-crazylight-medium-review/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Turnbound：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "現在早期アクセス中のTurnboundは、幽霊が出るボードゲームに閉じ込められた神話上の英雄を描いたターンベースのオートバトラーです。このゲームでは、プレイを開始する人は猫の絵が描かれたコインを投げて選ばれます。ユニークなゲームスタイルと魅力的な世界観が特徴で、プレイヤーはさまざまな戦略を組み立てながら、ボードゲームの世界を生き延びていく必要があります。ターンベースのシステムとオートバトラーの要素",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/turnbound-is-a-lovely-plinky-mixture-of-autobattler-and-inventory-tetris-where-turn-order-is-decided-by-a-cats-bum",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Fable：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Playground Games が手掛ける Fable のリブートで、Xbox ファンは待望のアルビオンへの帰還を実現します。Xbox Developer Direct で発表されたリリース日が待ち受ける、注目度の高いタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/fable-2026-gameplay-reveal-release-window-xbox-developer-direct/",
+        "date": "2026-01-22",
+        "is_translated": true
+      },
+      {
+        "title": "【転生獣：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Xbox Developer Direct プレゼンテーションの一部では、今後発売される Game Freak RPG の「Beast of Renationa」について、プレイヤーに詳しく説明がありました。このプレゼンテーションで、ゲームの魅力が紹介され、ファンたちの期待が高まりました。Game Freak は、ポケットモンスター シリーズで知られるメーカーですので、彼女らの新作はとても注目され",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/beast-of-reincarnation-release-date-trailer-game-freak/",
+        "date": "2026-01-22",
+        "is_translated": true
       },
       {
         "title": "【Enshrouded：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "時間がたつにつれて、私がまばたきをすればまるまる2年が経過し、2回目の早期アクセス記念日を迎えるゲームが突然現れることになるでしょう。そのようなゲームの1つがEnshroudedです。",
+        "description": "時間が経つにつれて、私はますます、まばたきをすればまるまる2年が経過し、2回目の早期アクセス記念日を迎えるEnshroudedのようなゲームが突然準備を整えることになるでしょう。時間の経過とともに、私はある日突然、目の前で2年が過ぎ去り、Enshroudedのようなゲームが2回目の早期アクセス記念日を迎える準備が整っていることに気付くことになるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -229,39 +332,13 @@
         "title": "【TR-49：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はマンチェスター大聖堂の埃っぽい地下室に隠れています。頭上の通りでは警察が国家に反対する人たちを捜索しているようです。私のような人を探しているのです。私は何かに抵抗しているように見られているようです。",
+        "description": "私はマンチェスター大聖堂の埃っぽい地下室に潜んでいます。頭上の通りでは警察が、国家に異議を唱える人物を捜索しています。私のような人物が、目標に向けて何かに取り組んでいるのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/tr-49-review-a-code-breaking-puzzle-game-where-you-get-all-up-in-some-dead-authors-gossip",
         "date": "2026-01-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Strategos：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "歴史的なリアルタイム戦術ゲーム『Strategos』が本日早期アクセスでリリースされました。このゲームは、「古代地中海の大国と小国」を基にしており、120以上の勢力と250のユニットが登場します。プレイヤーは、古代地中海世界の複雑な政治と戦略の中で、自国の存続と拡大を目指すことになります。さまざまな勢力やユニットを駆使して、戦略的な勝利を収めることができれば、古代地中海の覇権を握ることができるでし",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/real-time-tactics-game-strategos-is-out-now-in-early-access-with-some-clever-communication-and-morale-systems",
-        "date": "2026-01-20",
-        "is_translated": true
-      },
-      {
-        "title": "【もちおのハムスター戦争：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The Maw でおなじみの、ふわふわのディフェンス シューター Mochi-O が今日リリースされます。Steam デモをプレイした感想をもとにすると、少なくとも一時的には面白いMIRVの陽気な爆発を体験できるようです。遊び心のあるグラフィックやサウンドトラックも含まれたこのゲームは、プレイヤーを楽しませること間違いなしです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mochi-os-hamster-warfare-is-a-sweet-swift-sugar-rush",
-        "date": "2026-01-19",
         "is_translated": true
       }
     ],
@@ -270,37 +347,37 @@
         "title": "[Steam] Alien: Rogue Incursion VR Deluxe (75% オフ / $12.49)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで提供されている「Alien: Rogue Incursion VR Deluxe」は、75% オフという破格の価格で提供されています。現在、12.49ドルで購入できます。このゲームは、VR技術を活用して、リアルなエイリアンの世界を体験することができます。プレイヤーは、エイリアンの襲撃を受けた宇宙ステーションの中で、恐怖と興奮を感じながら、生き残るために戦います。 このゲームの特徴は、VR技術を使用して、プレイヤーがまるで実際にエイリアンの世界に入り込んだような臨場感を提供します。エイリアンの攻撃から身を守るために、プレイヤーは様々な武器や戦術を使用して、激しい戦闘を繰り広げる必要があります。また、宇宙ステーションの各所を探索して、エイリアンの弱点を発見し、戦略を立てることも重要です。 このゲームのグラフィックは、詳細なテクスチャとリアルな光효果で、エイリアンの恐ろしさを際立たせています。さらに、サウンドデザインも、プレイヤーを緊張させ、恐怖させることに成功しています。エイリアンの攻撃的な咆哮や、宇宙ステーションの崩壊する音などが、臨場感を高めています。 「Alien: Rogue Incursion VR Deluxe」は、エイリアンシリーズのファンにはもちろん、VRゲームやサバイバルホラー系のゲームを楽しむすべてのゲーマーに向けて、最高の体験を提供します。特別な価格で提供されているこのゲームを利用し、エイリアンの世界で戦い、恐怖と興奮を体験してみてください。",
+        "description": "アリエン：ローグインカーションVRデラックスは、Steamで75％オフの12.49ドルで提供中です。このゲームは、エイリアンの世界をVRで体験できるアクションパックのアドベンチャーゲームです。プレイヤーは、宇宙の危険に満ちた環境を探索し、エイリアンとの戦闘を繰り広げながら、サバイバルを目指す必要があります。ゲームのデラックスエディションには、追加のコンテンツやアイテムが含まれており、より豊富なゲーム体験を楽しむことができます。ハイクオリティのグラフィックとリアルなサウンドデザインによって、プレイヤーは映画のような体験を楽しむことができます。エイリアンのファンやVRゲームを楽しむユーザーにとって、こちらのゲームはお勧めです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
+        "date": "2026-01-23"
       },
       {
         "title": "[Steam] Songs of Silence - デイリー ディール ($14.99 / -50%)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で提供されている「Songs of Silence」は、音楽と冒険が融合したユニークなゲームです。このゲームでは、プレイヤーは美しいサウンドトラックに囲まれて、未知の世界を探索します。様々な環境やキャラクターとの遭遇により、プレイヤーは新しい音楽や楽器を発見し、ゲームの世界をより深く体験することができます。 「Songs of Silence」は、音楽をゲームプレイの中心に据えた创新的なアプローチで、プレイヤーに新しい体験を提供します。ゲームの世界は、音と音楽によって生き生きとし、プレイヤーは音楽を通じて物語やキャラクターをより深く理解することができます。 このゲームは、音楽や冒険が好きなプレイヤーにとって、最高の選択です。美しいグラフィックや心地よいサウンドトラックが、プレイヤーを新しい世界に引き込んでくれます。現在、Steam で 50% オフの特別価格で提供されていますので、好機を逃さないでください。",
+        "description": "Songs of Silenceは、Steamプラットフォームで現在50%オフの特別価格で提供中です。このゲームは、プレイヤーを美しいサウンドトラックと共に、不気味で神秘的な世界に誘います。プレイヤーは、さまざまな環境で探索し、謎を解き明かすことで、世界の秘密を解き放つことができます。美しいグラフィックと魅力的なサウンドデザインが、プレイヤーを新しい世界に引き込むでしょう。現在、14.99ドルで提供中であり、通常価格より50%オフになります。Steamのデイリー ディールを利用して、この魅力的なゲームを手に入れてみましょう。Songs of Silenceは、音楽と冒険を愛するすべてのプレイヤーに、忘れられない体験を提供します。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
+        "date": "2026-01-23"
       },
       {
         "title": "[Steam] Flufftopia: Fluffmazing Edition リリース割引 (3.99$/€/20% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームでリリースされた「Flufftopia: Fluffmazing Edition」は、現在リリース割引キャンペーン中です。このキャンペーンでは、通常価格比で20%オフとなり、3.99ドルまたは3.99ユーロで購入することができます。 「Flufftopia: Fluffmazing Edition」は、キュートでふわふわした世界を舞台にしたゲームのようです。タイトルから推測されるように、プレイヤーはこの可愛らしい世界で様々な冒険を体験できるでしょう。ゲームの内容については詳細が明かされていませんが、タイトルの「Fluffmazing」という言葉から、プレイヤーが新たな発見や楽しみを感じることができるような設計になっていることが予想されます。 この割引キャンペーンは、新しいゲーム体験を求めるゲーマーにとって絶好の機会です。Steamプラットフォームで「Flufftopia: Fluffmazing Edition」を購入することで、通常価格よりも安い価格でこの魅力的なゲームをプレイすることができます。ぜひこの機会に、ふわふわした世界での冒険を始めてみてください。",
+        "description": "Flufftopia: Fluffmazing Editionは、ファンタジーと冒険が融合したユニークなゲームです。このゲームは、かわいいキャラクターと美しいグラフィックで構成されており、プレイヤーを夢の世界へと引き込むことができます。Fluffmazing Editionでは、新しい機能やコンテンツが追加されており、より充実したゲーム体験を提供します。 ゲームの世界は、ふわふわした生物や幻想的な景色で満ちており、探索するのが楽しいです。プレイヤーは、さまざまなクエストやミッションをこなしながら、自分だけのストーリーを紡いでいくことができます。ゲームのシステムは、簡単に操作できるよう設計されており、初心者でも簡単に遊ぶことができます。 Flufftopia: Fluffmazing Editionは、リラックスした気分で遊ぶことができるゲームです。美しいサウンドトラックやかわいいキャラクターで、心を癒すことができます。Steamで現在20%オフのリリース割引キャンペーン中ですので、早速購入してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
+        "date": "2026-01-23"
       },
       {
         "title": "[Steam] LORT (34% オフ - $9.89)",
@@ -562,5 +639,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-22T12:30:32.740437"
+  "last_updated": "2026-01-23T02:01:09.409717"
 }

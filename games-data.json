@@ -5,7 +5,7 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に変身しましょう。非凡なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだり。伝統的なゲームプレイスタイルがすべて詰め込まれており、自由に冒険が楽しめます。中世を舞台にしたこの世界では、プレイヤーは思いもかけない行動を起こすことができます。衛兵と戦ったり、農民から略奪したり、英雄を倒したりと、様々なアクションが楽しめます。さらに、馬を盗んだり、吟遊詩人の音楽を聴いたり、非凡なクエストを完了したりと、ユニークな体験が待っています。このゲームでは、自由に冒険ができるオープンワールドが特徴です。中世の世界を自由に歩き回り、様々なキャラクターと出会い、クエストを遂行したり、アクションを楽しんだりすることができます。",
+        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に変身しましょう。非常識なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだり。伝統的なゲームプレイスタイルがすべて詰め込まれた、このワールドでは何が起こるかわかりません。中世を舞台に、自由に冒険しましょう。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
@@ -15,6 +15,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "DC フランチャイズ セール：バットマン コレクションなど",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-23"
+      },
       {
         "title": "Build Your Own Resident Evil Bundle (Demonic Edition)",
         "platform": "Fanatical",
@@ -186,29 +198,29 @@
     ],
     "review": [
       {
-        "title": "【龍が如く 極３ / 龍が如く３外伝 Dark Ties：レビュー】",
+        "title": "【Mecha Force -メカフォース-：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "セガは『龍が如く 極３ / 龍が如く３外伝 Dark Ties』の店頭体験会を開催中です。本稿では、体験会の様子と、このゲームの内容について、開発チームへのインタビューを通じて垣間見える魅力的な要素をお届けします。体験会では、プレイヤーが最新作の世界に触れ、ゲームの新要素を直接体験することができます。さらに、開発チームとのインタビューでは、新しいストーリーやキャラクター、ゲームプレイの改善について",
+        "description": "MING STUDIOは1月23日、ロボットアクションゲーム『Mecha Force -メカフォース-』の体験版を配信開始しました。このロボットアクションゲームでは、さまざまなロボットを操りながら、多種多様なミッションに挑戦できます。ゲームの世界観や操作感、ストーリーを事前に体験できるため、ゲームファンには必見の内容です。体験版の配信開始により、より多くのゲーマーがこのゲームの魅力を感じられるよう",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/like-a-dragon-3-and-3gaiden-20260122-409909/",
-        "date": "2026-01-22",
+        "url": "https://automaton-media.com/articles/newsjp/mecha-force-20260123-410497/",
+        "date": "2026-01-23",
         "is_translated": false
       },
       {
-        "title": "【ダークオークション：レビュー】",
+        "title": "【MOCHI-O：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ミステリーアドベンチャーゲーム『ダークオークション』のSteam無料体験版がアップデートされました。このゲームでは、プレイヤーがオークションに参加し、様々なアイテムを入札して購入しますが、そのアイテムの中には、暗い過去や黒魔術的な力を持つものもあります。アップデートされた体験版では、新しい機能やアイテムが追加され、より多様なゲームプレイが楽しめます。『ダークオークション』の世界は、闇に包まれたオー",
+        "description": "講談社ゲームラボは1月20日、終末国土防衛アドベンチャーゲーム『MOCHI-O』を発売しました。このゲームはリリース直後からすでに多くのユーザーから好評を博しており、注目を集めています。ユーザーたちは、ゲームの新しいストーリーやキャラクターに大きな関心を示しています。『MOCHI-O』は、プレイヤーが終末の世界で国土を守るために戦う、アドベンチャーゲームです。ゲームの世界観やキャラクターのデザイン",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/dark-auction-20260121-409625/",
-        "date": "2026-01-22",
+        "url": "https://automaton-media.com/articles/newsjp/20260123-410410/",
+        "date": "2026-01-23",
         "is_translated": false
       },
       {
@@ -228,7 +240,7 @@
         "title": "【The Sims 4：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "The Sims 4 の最大のモッドの 1 つは、トリプル A のゲームが羨むような数字を叩き出すものです。",
+        "description": "The Sims 4 の最大のモッドの 1 つは、トリプル A のゲームが羨むほどの驚異的な数字を叩き出すことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -238,49 +250,10 @@
         "is_translated": true
       },
       {
-        "title": "【パソロジー 3：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "タイムトラベルミステリーがコメディと融合した、素晴らしくも陰惨で、時にはユーモアに溢れた魅力的なゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/pathologic-3-review/",
-        "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Pillars of Eternity II: Deadfire：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "それは本当でしょう、見出しに書きました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/a-baldurs-gate-3-style-early-access-period-wouldnt-have-done-much-for-deadfire-the-secret-best-crpg-of-the-last-decade-per-its-director-josh-sawyer/",
-        "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
-        "title": "【パルサー X2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "激しい競争に直面するプレミアム軽量げっ歯類。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-x2-crazylight-medium-review/",
-        "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
         "title": "【Turnbound：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "現在早期アクセス中のTurnboundは、幽霊が出るボードゲームに閉じ込められた神話上の英雄を描いたターンベースのオートバトラーです。このゲームでは、プレイを開始する人は猫の絵が描かれたコインを投げて選ばれます。ユニークなゲームスタイルと魅力的な世界観が特徴で、プレイヤーはさまざまな戦略を組み立てながら、ボードゲームの世界を生き延びていく必要があります。ターンベースのシステムとオートバトラーの要素",
+        "description": "現在早期アクセス中の『Turnbound』は、ターンベースのオートバトラーです。このゲームでは、幽霊が出るボードゲームの中に閉じ込められた神話上の英雄を操作します。ゲームが始まると、猫の絵が描かれたコインを投げて、どのプレイヤーから始めるかが決まります。このユニークなスタート方法や、ボードゲームのような世界観が『Turnbound』を特徴づけています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -293,7 +266,7 @@
         "title": "【Fable：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "Playground Games が手掛ける Fable のリブートで、Xbox ファンは待望のアルビオンへの帰還を実現します。Xbox Developer Direct で発表されたリリース日が待ち受ける、注目度の高いタイトルです。",
+        "description": "Xbox は、Playground Games による Fable のリブートで、アルビオンの世界に戻ります。Xbox Developer Direct での発表により、待望のリリース日が決定しました。Fable シリーズのファンにとって、久々のアルビオンへの帰還は、想い出の世界に再び足を踏み入れることになるでしょう。新たな冒険が始まることを楽しみに待つことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,23 +276,10 @@
         "is_translated": true
       },
       {
-        "title": "【転生獣：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Xbox Developer Direct プレゼンテーションの一部では、今後発売される Game Freak RPG の「Beast of Renationa」について、プレイヤーに詳しく説明がありました。このプレゼンテーションで、ゲームの魅力が紹介され、ファンたちの期待が高まりました。Game Freak は、ポケットモンスター シリーズで知られるメーカーですので、彼女らの新作はとても注目され",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/beast-of-reincarnation-release-date-trailer-game-freak/",
-        "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
         "title": "【Enshrouded：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "時間が経つにつれて、私はますます、まばたきをすればまるまる2年が経過し、2回目の早期アクセス記念日を迎えるEnshroudedのようなゲームが突然準備を整えることになるでしょう。時間の経過とともに、私はある日突然、目の前で2年が過ぎ去り、Enshroudedのようなゲームが2回目の早期アクセス記念日を迎える準備が整っていることに気付くことになるでしょう。",
+        "description": "時間が経つにつれて、私はあることに気づくでしょう。まばたきをするだけで、まるまる2年が経過し、2回目の早期アクセス記念日を迎えるEnshroudedのようなゲームが突然準備が整うことになるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -332,7 +292,7 @@
         "title": "【TR-49：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はマンチェスター大聖堂の埃っぽい地下室に潜んでいます。頭上の通りでは警察が、国家に異議を唱える人物を捜索しています。私のような人物が、目標に向けて何かに取り組んでいるのです。",
+        "description": "私はマンチェスター大聖堂の埃っぽい地下室に潜んでいます。頭上の通りでは、警察が国家に反対する人たちを捜索しています。私のような人を探しているのです。私は何かに抵抗していることになっているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -343,6 +303,42 @@
       }
     ],
     "sale": [
+      {
+        "title": "DC フランチャイズ セール：バットマン ゲーム大割引",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DC フランチャイズ セールでは、バットマンをはじめとする人気キャラクターが登場する様々なゲームが大幅に割引されます。ゴッサムシティの暗闇を舞台に、悪と戦うバットマンの勇姿や、スーパーヒーロー同士の対決を体験することができます。アクションゲームからアドベンチャーゲームまで、多様なジャンルが用意されており、DC フランチャイズのファンには必見のセールです。バットマンの魅力的な世界に浸り込み、様々なゲームで楽しみを見つけてください。Steam で開催されているこのセールは、DC フランチャイズのゲームを遊びたいゲーマーにとっては絶好の機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "[Steam] エイリアン: ローグ インカージョン VR デラックス (75% オフ / $12.49)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「エイリアン: ローグ インカージョン VR デラックス」は、75% オフの特別価格で提供されています。これは、通常価格よりも大幅に安くなり、現在は12.49ドルで購入できます。このゲームは、エイリアンシリーズの恐ろしさとスリルの要素をVR技術で再現しており、プレイヤーは身臨其境の体験を楽しむことができます。 ゲームの内容は、エイリアンの侵略から人類を守るために、プレイヤーが戦いを繰り広げるというストーリーです。VR技術により、エイリアンとの遭遇はよりリアルなものとなり、プレイヤーは恐怖と興奮の MIXED エモーションを体験することができます。また、グラフィックやサウンドも高品質で、臨場感のある演出が特徴です。 このデラックス版には、追加コンテンツや特典が含まれており、より充実したゲーム体験を提供します。特に、エイリアンの脅威に対して、戦略的に戦う必要があるため、戦略的思考と迅速な判断力が求められるゲームです。Steamユーザーのみなさんにとって、最高のエンターテイメントを提供するため、ぜひこの機会にチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-23"
+      },
+      {
+        "title": "[Steam] Flufftopia: Fluffmazing Edition リリース割引 (3.99$/€/20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Flufftopia: Fluffmazing Editionは、Steamでリリースされた魅力的なゲームです。このゲームは、可愛らしいキャラクターと繊細なグラフィックで構成されており、プレイヤーを夢のような世界に引き込みます。Fluffmazing Editionでは、オリジナル版に加えて、新しいコンテンツや機能が追加されており、より豊富なゲーム体験を提供します。 ゲームの世界は、ふわふわした生物たちが住むFlufftopiaという名の幻想的な土地で、プレイヤーはこの世界を探索し、さまざまなミッションやクエストをこなしていきます。ゲームの特徴的なグラフィックやサウンドトラックは、プレイヤーに癒しの時間を提供し、ストレスを忘れさせます。 現在、Flufftopia: Fluffmazing Editionはリリース割引キャンペーン中で、通常価格の20%オフで3.99ドルまたはユーロで購入できます。この機会に、Flufftopiaの世界を体験してみてください。可愛らしいキャラクターたちと一緒に、夢のような冒険の旅に出ましょう。Flufftopia: Fluffmazing Editionは、ファンタジーと冒険を愛するゲーマーにとって、必見のゲームです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-23"
+      },
       {
         "title": "[Steam] Alien: Rogue Incursion VR Deluxe (75% オフ / $12.49)",
         "platform": "Steam",
@@ -368,18 +364,6 @@
         "date": "2026-01-23"
       },
       {
-        "title": "[Steam] Flufftopia: Fluffmazing Edition リリース割引 (3.99$/€/20% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Flufftopia: Fluffmazing Editionは、ファンタジーと冒険が融合したユニークなゲームです。このゲームは、かわいいキャラクターと美しいグラフィックで構成されており、プレイヤーを夢の世界へと引き込むことができます。Fluffmazing Editionでは、新しい機能やコンテンツが追加されており、より充実したゲーム体験を提供します。 ゲームの世界は、ふわふわした生物や幻想的な景色で満ちており、探索するのが楽しいです。プレイヤーは、さまざまなクエストやミッションをこなしながら、自分だけのストーリーを紡いでいくことができます。ゲームのシステムは、簡単に操作できるよう設計されており、初心者でも簡単に遊ぶことができます。 Flufftopia: Fluffmazing Editionは、リラックスした気分で遊ぶことができるゲームです。美しいサウンドトラックやかわいいキャラクターで、心を癒すことができます。Steamで現在20%オフのリリース割引キャンペーン中ですので、早速購入してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
-      },
-      {
         "title": "[Steam] LORT (34% オフ - $9.89)",
         "platform": "Steam",
         "type": "sale",
@@ -396,18 +380,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "Control Ultimate Editionは、Steamプラットフォームで現在90%オフの特別セール中です。今までの価格と比較して、驚きの3.99ドルという価格帯で購入することができます。 このゲームは、ファンターン株式会社が開発し、505 Gamesが販売しています。Control Ultimate Editionは、主にアクションアドベンチャーゲームとして分類され、サイコホラーの要素も含んでいます。 プレイヤーは、Jesse Fadenとして登場し、Federal Bureau of Controlの長官になって、オルダーハウスと呼ばれる場所で起こる超常現象を解明します。彼女は、さまざまな能力を身につけ、様々な敵に対して戦い、謎を解き明かしていきます。 Control Ultimate Editionには、基本のControlに加えて、The FoundationとAWEという2つのDLCも含まれています。これにより、さらに多くのストーリーやゲームプレイが追加されています。 Steamのユーザーレビューでは、Control Ultimate Editionは非常に高い評価を獲得しています。多くのプレイヤーが、ゲームの物語、グラフィック、サウンドトラックを高く評価しています。 Control Ultimate Editionを今すぐ購入して、謎のオルダーハウスを探索し、Jesse Fadenの冒険に参加してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "[Steam] エイリアン: ローグ インカージョン VR デラックス (75% オフ / $12.49)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでの大規模セールが現在進行中です。这回のセールでは、人気のVRゲーム「エイリアン: ローグ インカージョン VR デラックス」が75%オフの特別価格で提供されています。通常価格よりも大幅に安くなったこのゲームは、SFファンやアクションゲーム好きには外せないタイトルです。 このゲームは、エイリアンシリーズの魅力的な世界観を忠実に再現し、プレイヤーを緊張感のある宇宙空間に没入させます。凶悪なエイリアンと戦いながら、サバイバルを目指すというストーリーや、独自のゲームメカニズムは、プレイヤーを新しい体験に導きます。 デラックスエディションには、追加のダウンロードコンテンツや新しいミッションが含まれており、ゲームの再生価値を高めています。特別価格の$12.49で提供されるこの作品は、VRゲームファンやエイリアンシリーズのファンには絶対に逃すことのできないチャンスです。Steamで今すぐ購入し、エイリアンの正体と宇宙の謎に挑みましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -570,18 +542,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-01-20"
-      },
-      {
-        "title": "[Steam] NEUROZA ($1.24/50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "NEUROZA は、Steam で現在 50% オフのセール中です。このゲームは、プレイヤーに独特の体験を提供するように設計されています。NEUROZA の世界では、プレイヤーは様々な脳の機能や精神状態を模拟した、ユニークなゲームプレイを楽しむことができます。 このゲームの魅力は、そのインパクトのあるグラフィックスと、心を揺さぶるサウンドトラックにあります。プレイヤーは、さまざまなレベルをクリアし、ゲームの奥底にある秘密を解き明かす必要があります。NEUROZA では、プレイヤーの反射力と問題解決能力が試されるでしょう。 NEUROZA のセールは、限られた期間のみです。通常価格の 50% オフで、現在 1.24 ドルで購入することができます。興味のあるゲーマーは、この機会を逃さないようにしましょう。NEUROZA を購入し、精神の奥深い世界を体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-19"
       }
     ]
   },
@@ -639,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-23T02:01:09.409717"
+  "last_updated": "2026-01-23T12:29:41.507747"
 }

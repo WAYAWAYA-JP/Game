@@ -5,18 +5,42 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に変身しましょう。非常識なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだり。伝統的なゲームプレイスタイルがすべて詰め込まれた、このワールドでは何が起こるかわかりません。中世を舞台に、自由に冒険しましょう。",
+        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームにようこそ。ここでは、中世の凶悪犯になると同時に、非常識なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだりすることができる。伝統的なゲームプレイスタイルがすべて盛り込まれているので、遊んでみてください。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-23"
+        "date": "2026-01-24"
       }
     ],
     "bundle": [
       {
-        "title": "DC フランチャイズ セール：バットマン コレクションなど",
+        "title": "ローラーコースタータイコーン コレクション",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "The Sid Meier Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "DC フランチャイズ セール | バットマン：アーカム コレクション、レゴ バットマン トリロジー、ゴッサム ナイツ、スーサイド スクワッド",
         "platform": "Steam",
         "type": "bundle",
         "description": "Steamのバンドル。",
@@ -25,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
+        "date": "2026-01-24"
       },
       {
         "title": "Build Your Own Resident Evil Bundle (Demonic Edition)",
@@ -37,6 +61,30 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "Best of Humble Bundle: The Sid Meier Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "DC フランチャイズ セール：バットマン コレクションなど",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
         "date": "2026-01-23"
       },
       {
@@ -146,54 +194,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-21"
-      },
-      {
-        "title": "HumbleのThe Carnage CollectionにDead Island 2など",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleのThe Carnage Collectionは、ゲーマーにとって夢のゲームバンドルです。人気アクションゲーム「Dead Island 2」をはじめ、様々なアクションパックされたゲームが収録されています。このバンドルでは、血みどろのゾンビを倒したり、ハイスピードのアクションを体験したりすることができます。 「Dead Island 2」は、ゾンビが蔓延したロサンゼルスを舞台に、さまざまな武器やスキルを駆使してゾンビを倒していく、オープンワールドのアクションゲームです。グラフィックは美しいものの、血みどろな場面も多く、爽快なアクションを楽しむことができます。 The Carnage Collectionには、「Dead Island 2」以外にも、さまざまなアクションゲームが収録されています。例えば、ファーストパーソンシューティングゲームや、ハックアンドスラッシュゲームなど、ゲーマーが楽しめるゲームが多数含まれています。さらに、このバンドルはHumble Bundleの特徴である、安い価格で提供されています。ゲーマーにとっては、夢のチャンスです。ぜひ、The Carnage Collectionをチェックしてみてください。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-20"
-      },
-      {
-        "title": "Humble Talk January 2026 Humble Choice Review ft. Sonic Frontiers, Hunt: Showdown 1896, and More!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleの最新ゲームバンドル「Humble Talk January 2026 Humble Choice Review」が登場しました。 このバンドルでは、待ちに待ったソニックシリーズの最新作「Sonic Frontiers」が含まれています。高速でアクション満点のゲームプレイが楽しめるこのタイトルは、ソニックファン必見の作品でしょう。 さらに、西部開拓時代を舞台にした対戦ゲーム「Hunt: Showdown 1896」も収録されています。このゲームでは、プレイヤーは怪物との戦いを繰り広げつつ、他のハンターたちと競争しながら、生き残るために頑張る必要があります。戦略とチームワークが求められるこのタイトルは、対戦ゲームファンにとって新たな挑戦になるでしょう。 これら2つのタイトルのほかにも、様々なジャンルのゲームが収録されています。アクションからストラテジー、ロールプレイまで、さまざまなゲームスタイルを楽しむことができます。Humble Bundleのこの最新バンドルは、多様なゲームを一つにまとめた魅力的なパッケージです。ゲーマーにはみなさまに楽しんでいただけるコンテンツが盛りだくさんで、ぜひお試しください。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-20"
-      },
-      {
-        "title": "Curve Games 年末セール For The King II 他",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamプラットフォームでは、今年の終わりを記念して大幅なセールが行われています。Curve Games 年末セールでは、様々な魅力的なタイトルが勢揃いしています。その中でも、特に注目すべきのは「For The King II」です。このゲームは、ロールプレイと戦略の融合に特徴があり、プレイヤーを広大なファンタジーの世界に引き込みます。プレイヤーは、戦闘や探索を繰り返しながら、自分のキャラクターを成長させ、壮大なストーリーに挑みます。 セール期間中は、他の様々なタイトルもお買い得価格で提供されます。アクションゲームからパズルゲームまで、ジャンルは多岐にわたっています。ゲーマーには、自分に合ったタイトルを探す楽しみが用意されています。セールの対象となるゲームはすべて、Steamプラットフォーム上で簡単に購入およびダウンロードできます。 Curve Games 年末セールは、一年を締めくくる絶好の機会です。多くのゲームを試したり、新しいジャンルに挑戦したりすることができます。セール期間中に提供される特別価格で、気になるゲームを手に入れ、ゲーミングの楽しさをさらに深めることができます。Steamユーザーには、今年の終わりに特別な体験を提供する素敵な機会です。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-19"
-      },
-      {
-        "title": "The Iceberg Hidden Gems Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundle では、「The Iceberg Hidden Gems Bundle」という魅力的なゲームバンドルが登場しています。このバンドルでは、隠れた宝石と呼ばれる、まだ多くのゲーマーに知られていない素晴らしいゲーム群を紹介します。タイトルにある「アイスバーグ」という言葉から、氷山の隠された部分のように、まだ発見されていない多くの魅力的なゲームがあることが想像できます。 このバンドルには、様々なジャンルのゲームが収録されています。アクションゲーム、ロールプレイングゲーム、パズルゲームなど、ゲーマーの皆様に新たな楽しみを提供するための幅広いゲームが勢揃いです。バンドルに含まれるゲームは、グラフィックの美しさ、独自のゲーム性、そしてストーリーの深さなど、様々な点で高く評価されています。 「The Iceberg Hidden Gems Bundle」は、ゲームの探索を好むゲーマーにとって、絶好の機会です。まだ知らない、新しいゲームを発見し、ゲームの世界をより深く楽しみたい方には、必見のバンドルです。Humble Bundle では、常に新しいゲームバンドルが登場しており、今回のバンドルもその一つです。是非、ゲーマーの皆様にこのバンドルをチェックしていただき、隠れた宝石を発見してください。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-19"
       }
     ],
     "review": [
@@ -201,7 +201,7 @@
         "title": "【Mecha Force -メカフォース-：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "MING STUDIOは1月23日、ロボットアクションゲーム『Mecha Force -メカフォース-』の体験版を配信開始しました。このロボットアクションゲームでは、さまざまなロボットを操りながら、多種多様なミッションに挑戦できます。ゲームの世界観や操作感、ストーリーを事前に体験できるため、ゲームファンには必見の内容です。体験版の配信開始により、より多くのゲーマーがこのゲームの魅力を感じられるよう",
+        "description": "MING STUDIOは1月23日、ロボットアクションゲーム『Mecha Force -メカフォース-』の体験版を配信開始しました。このゲームでは、プレイヤーはさまざまなメカを操作して、激しいバトルアクションを楽しむことができます。体験版では、ゲームの世界観や操作感を先行して体験できるので、ファン必見の内容になります。MING STUDIOはこの体験版を配信することで、ゲームの魅力をより多くの人に",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +214,7 @@
         "title": "【MOCHI-O：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "講談社ゲームラボは1月20日、終末国土防衛アドベンチャーゲーム『MOCHI-O』を発売しました。このゲームはリリース直後からすでに多くのユーザーから好評を博しており、注目を集めています。ユーザーたちは、ゲームの新しいストーリーやキャラクターに大きな関心を示しています。『MOCHI-O』は、プレイヤーが終末の世界で国土を守るために戦う、アドベンチャーゲームです。ゲームの世界観やキャラクターのデザイン",
+        "description": "講談社ゲームラボは1月20日に、終末の世界を舞台にしたアドベンチャーゲーム『MOCHI-O』を発売しました。このゲームは発売直後に好評を得ており、ゲーマーたちの間で話題になっています。『MOCHI-O』は、プレイヤーが終末の世界で戦闘や探索を行い、国土を守るために戦うという内容です。ゲームの発売直後から好評を博していることから、ゲーマーたちの間で注目されており、今後の人気を期待しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,36 +224,36 @@
         "is_translated": false
       },
       {
-        "title": "【アーク レイダース：レビュー】",
+        "title": "【Palworld：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ホテル ステラ モンティスにお祝いとお詫びを申し上げます。",
+        "description": "私たちは、同僚たちにSteamでしか入手できないユニークなインディーズゲームを体験してもらいたいと思っているので、様々なインディーズゲームを紹介していきます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/an-italian-hotel-sharing-a-name-with-an-arc-raiders-map-is-enjoying-a-flood-of-5-star-reviews-from-players-praising-the-loot-in-its-surprisingly-charming-seed-vault-and-its-eventful-night-raid-nightlife/",
-        "date": "2026-01-22",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-developer-pocketpair-requires-job-applicants-prove-their-gamer-credentials-if-the-number-of-steam-games-played-is-0-we-basically-pass-on-them/",
+        "date": "2026-01-23",
         "is_translated": true
       },
       {
-        "title": "【The Sims 4：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【Escape From Ever After：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "The Sims 4 の最大のモッドの 1 つは、トリプル A のゲームが羨むほどの驚異的な数字を叩き出すことができます。",
+        "description": "Escape From Ever After は、ペーパーマリオシリーズの戦略的なゲーム性とおとぎ話の世界観を融合させた、ターンベースのロールプレイングゲームです。このゲームでは、プレイヤーはおとぎ話の世界で様々なキャラクターと出会い、戦闘やパズルを解決しながら、ストーリーを進めていきます。ゲームの世界観は、童話のような幻想的な雰囲気を持ちながらも、ユーモアやパロディーを込めた独特の味わいがありま",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-sims/the-sims-4s-most-notorious-sex-mod-gets-launched-400-000-times-a-day-which-is-more-people-than-i-realized-were-even-playing-the-sims-every-day/",
-        "date": "2026-01-22",
+        "url": "https://www.polygon.com/escape-from-ever-after-impressions/",
+        "date": "2026-01-23",
         "is_translated": true
       },
       {
         "title": "【Turnbound：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "現在早期アクセス中の『Turnbound』は、ターンベースのオートバトラーです。このゲームでは、幽霊が出るボードゲームの中に閉じ込められた神話上の英雄を操作します。ゲームが始まると、猫の絵が描かれたコインを投げて、どのプレイヤーから始めるかが決まります。このユニークなスタート方法や、ボードゲームのような世界観が『Turnbound』を特徴づけています。",
+        "description": "現在早期アクセス中のTurnboundは、幽霊が出るボードゲームに囚われた神話的な英雄を描いた、ターンベースのオートバトラーです。このゲームでは、プレイを開始する人が猫の絵が描かれたコインを投げて選ばれます。ゲームの世界は、伝説的な英雄が幽霊に囚われているボードゲームの中で繰り広げられ、プレイヤーはこれらの英雄を解放するために戦います。ターンベースの戦闘とオートバトルシステムが特徴で、プレイヤーは",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -263,23 +263,10 @@
         "is_translated": true
       },
       {
-        "title": "【Fable：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Xbox は、Playground Games による Fable のリブートで、アルビオンの世界に戻ります。Xbox Developer Direct での発表により、待望のリリース日が決定しました。Fable シリーズのファンにとって、久々のアルビオンへの帰還は、想い出の世界に再び足を踏み入れることになるでしょう。新たな冒険が始まることを楽しみに待つことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/fable-2026-gameplay-reveal-release-window-xbox-developer-direct/",
-        "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
         "title": "【Enshrouded：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "時間が経つにつれて、私はあることに気づくでしょう。まばたきをするだけで、まるまる2年が経過し、2回目の早期アクセス記念日を迎えるEnshroudedのようなゲームが突然準備が整うことになるでしょう。",
+        "description": "時間が経つにつれて、私はますます、自分のまばたきをしてみればまるまる2年が経過し、2回目の早期アクセス記念日を迎えるようなゲームが突然準備が整っていることに気が付くでしょう。Enshroudedのようなゲームは、プレイヤーが新しい体験をするたびに、新たな発見をすることができます。時間が経過するにつれて、ゲームの世界はより深く魅力的になってきます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -287,22 +274,45 @@
         "url": "https://www.rockpapershotgun.com/as-it-approaches-its-second-early-access-anniversary-enshrouded-gets-a-10-release-window-for-later-this-year",
         "date": "2026-01-21",
         "is_translated": true
-      },
-      {
-        "title": "【TR-49：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私はマンチェスター大聖堂の埃っぽい地下室に潜んでいます。頭上の通りでは、警察が国家に反対する人たちを捜索しています。私のような人を探しているのです。私は何かに抵抗していることになっているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/tr-49-review-a-code-breaking-puzzle-game-where-you-get-all-up-in-some-dead-authors-gossip",
-        "date": "2026-01-21",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、ヒーローズ オブ マイト アンド マジック3など",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "GOGニューイヤーセールが今週スタートしました。待望のセールでは、ウィッチャー3、FTL、ヒーローズ オブ マイト アンド マジック3など、人気ゲームが大幅に割引されています。これは、ゲームファンにとって絶好の機会です。ウィッチャー3は、オープンワールドアドベンチャーゲームで、壮大な物語と豊富なゲーム性が特徴です。FTLは、宇宙を舞台にした戦略ゲームで、プレイヤーは宇宙船を操作して、敵を倒し、宇宙を制覇します。ヒーローズ オブ マイト アンド マジック3は、ターン制戦略ゲームで、プレイヤーは様々なユニットを操作して、戦闘を指揮します。セール期間中は、数百のゲームが割引されるので、好みのゲームを見つけることができるでしょう。セールは期間限定なので、早速チェックして、ご希望のゲームを手に入れてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "[Steam] ギャラクティック グリッチ ($3.24/ 75% OFF)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ギャラクティック グリッチは、宇宙を舞台にしたアクションアドベンチャーゲームです。このゲームでは、プレイヤーは宇宙の不穏な状況を切り抜けながら、さまざまな惑星や異星人の世界を探索します。宇宙船を操作し、敵との戦闘やパズルの解決を通じて、ゲームのストーリーを進めています。ギャラクティック グリッチの特徴的なグラフィックやサウンドトラックは、プレイヤーを宇宙の世界に引き込んでくれます。さらに、ゲームの難易度は、初心者から上級者まで幅広いプレイヤーが楽しめるように調整されています。現在、Steamで75%オフのセール中ですので、この機会に体験してみてください。宇宙の冒険が、ギャラクティック グリッチで待っています。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-24"
+      },
+      {
+        "title": "DC フランチャイズ セール：バットマンシリーズなど大割引",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DC フランチャイズ セールでは、バットマンシリーズをはじめとする人気の DC ゲームが大幅に割引されます。このセールでは、ゴッサムシティの暗い街を駆け抜けるバットマンの冒険や、スーパーヒーローたちの活躍を体験することができます。様々な DC ユニバースのゲームが Steam でお届けされ、ファン必見のコンテンツが多数含まれています。バットマンシリーズは、スリル満点のアクションと、キャラクターの深い物語が魅力です。また、グラフィックやサウンドデザインも高品質で、臨場感あふれるゲーム体験を提供します。セール期間中は、Steam でお得な価格でこれらのゲームを購入することができますので、DC ファンやアクションゲーム好きには絶対に逃すことができないチャンスです。是非この機会に、DC フランチャイズの素晴らしいゲームワールドに飛び込んでみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-24"
+      },
       {
         "title": "DC フランチャイズ セール：バットマン ゲーム大割引",
         "platform": "Steam",
@@ -506,42 +516,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-20"
-      },
-      {
-        "title": "[Steam] アドベンチャー ジャム ($2.49 / 90% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、さまざまなアドベンチャーゲームを収録した「アドベンチャー ジャム」が、通常価格より90%オフになる大幅割引キャンペーンを開催中です。通常価格より大幅に安くなった2.49ドルという破格の価格で、様々なアドベンチャーゲームをプレイすることができます。 この「アドベンチャー ジャム」には、探索、パズル、ストーリー重視のゲームなど、様々なアドベンチャーゲームが収録されています。ユーザーは、未知の世界を探索したり、難問を解いたり、キャラクターと交流したりすることで、自分だけの楽しいアドベンチャーを体験することができます。 このキャンペーンは、限られた時間のみ開催されるため、興味がある方はお早めにチェックしてみてください。アドベンチャーゲームのファンにはもちろん、 новしいゲームを探しているゲーマーにもおすすめです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-20"
-      },
-      {
-        "title": "Mycosis - Steam で 80% オフ – 微生物学者が作った SF プラットフォーマー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で販売中の Mycosis は、微生物学者によって開発された、SF をテーマにしたプラットフォーマーです。80% オフの特別セール中で、ゲームファンにとって絶好の機会です。このゲームでは、未来の世界を舞台に、プレイヤーは微生物を活用してさまざまな課題に挑みます。独自のゲームメカニクスと、微生物学の知識を基にした設定が特徴で、SF ファンやプラットフォーマー好きにはたまらない魅力があります。グラフィックも美しく、未来の世界をリアルに体験できます。セール期間中は、通常価格よりも大幅に安くなっているので、気になるゲームファンにはおすすめです。プラットフォーマーのスリルと、微生物学の深い知識を融合させたこのゲームを、Steam でチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-20"
-      },
-      {
-        "title": "1月セイバー セール：人気ゲーム大割引",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalがお届けする1月セイバー セールでは、人気ゲームが大幅に割引されています。ゲーマーには夢のようなチャンスです。このセールでは、さまざまなジャンルの人気ゲームが並び、各ゲームには大きな割引が適用されています。アクションゲーム、ロールプレイングゲーム、ストラテジーゲームなど、様々なジャンルのゲームが揃っています。 セイバー セールでは、ファンタジーの世界を探索したり、未来の地球を救ったり、歴史上の戦いを体験したりすることができます。さらに、グラフィックやサウンドトラックが高い評価を受けたゲームも多く含まれています。セール期間中は、定価より大幅に安くなったゲームを購入することができます。ゲーマーには、コレクションを充実させる絶好の機会です。 セールでは、各ゲームの詳細やレビューも紹介されています。購入前にゲームの内容や評価を確認することができます。また、Fanaticalのセールは期間限定なので、興味のあるゲームはお早めにチェックすることをおすすめします。1月セイバー セールで夢の中のゲームを探し出し、ゲームプレイの楽しみを倍増させましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-01-20"
       }
     ]
   },
@@ -599,5 +573,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-23T12:29:41.507747"
+  "last_updated": "2026-01-24T01:57:13.813059"
 }

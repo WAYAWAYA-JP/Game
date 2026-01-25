@@ -5,16 +5,76 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ポップカルチャー要素が満載のクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に成りましょう。非常識なクエストを完了したり、英雄を撃破したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだり。伝統的なゲームプレイスタイルがすべて詰め込まれており、自由にアクションを楽しむことができます。",
+        "description": "ポップカルチャーが満載されたクレイジーなオープンワールドアクションゲームで、中世の凶悪犯に変身しましょう。馬を盗み、衛兵と戦い、農民から略奪するなど、非常識なクエストを完了させてみましょう。英雄を討ち取り、吟遊詩人の音楽を聴くこともできます。このゲームは、昔ながらのゲームプレイスタイルがすべて詰め込まれており、プレイヤーを中世の世界に引き込むでしょう。中世の世界で自由に冒険し、思いのままにアクションを楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-24"
+        "date": "2026-01-25"
       }
     ],
     "bundle": [
+      {
+        "title": "RollerCoaster Tycoon Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "シド・マイヤー・コレクション",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "DCフランチャイズセール開始 BATMAN：ARKHAM COLLECTION、レゴバットマントリロジー、ゴッサムナイツ、スーサイドスクワッドなど",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Best of Humble Bundle: The Sid Meier Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "When does humble drops new bundles?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-25"
+      },
       {
         "title": "RollerCoaster Tycoon Collection",
         "platform": "Humble Bundle",
@@ -49,30 +109,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-24"
-      },
-      {
-        "title": "Best of Humble Bundle: The Sid Meier Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-24"
-      },
-      {
-        "title": "When does humble drops new bundles?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-01-24"
       },
       {
@@ -158,50 +194,53 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-23"
-      },
-      {
-        "title": "Are any steam keys in the decked out collection bundle region-locked or are they all global?",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
-      },
-      {
-        "title": "Just Causeシリーズ コンプリートコレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "Build Your Own Midwinter Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-01-22"
       }
     ],
     "review": [
       {
+        "title": "放棄されたファーストパーソン・シューティングゲームのサーバーとアクションRPGの骨から作られたこのホラーゲームは、奇妙なパズルゲームの1つです。ユニークなコンセプトと不気味な雰囲気を持つこのゲームは、プレイヤーを不思議な世界に引き込みます。ゲームの世界は、廃墟のサーバーから生まれたため、不規則な構造をしており、プレイヤーは常に新しい場所を発見することになります。また、ゲームには様々なパズルが用意されており、プレイヤーはその謎を解くことでゲームを進めていきます。このゲームは、ホラーとパズルの要素を融合させた、非常に独特な体験を提供します。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "No Players Online は真に難解なアドベンチャーゲームです。このゲームは、プレイヤーにさまざまな謎を解決させ、ゲームの世界を探索するよう促します。さまざまな謎やパズルが用意されており、プレイヤーはそれらを解決することでゲームを進めていきます。難易度は高く、プレイヤーは集中してゲームに没頭する必要があります。ゲームの雰囲気も不気味で、プレイヤーを不安にさせるような効果音やグラフィックが",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/this-horror-game-built-from-the-bones-of-an-abandoned-fps-server-and-an-accidental-arpg-might-be-one-of-the-strangest-puzzlers-ive-ever-played/",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
+        "title": "【ハイガード：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "私は基本的にシングルプレイヤーのシューティングゲームしか好きではないので、『Highguard』は私を魅了するゲームではありませんでした。しかし、発表以来、誰からも低く見られていないという事実は、私がこのゲームに興味を持つきっかけとなりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/look-at-that-highguard-is-coming-out-next-week-after-all-with-a-gameplay-overview-coming-oh-thats-odd-launch-day",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
+        "title": "【アークレイダーズ：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "11月にエクストラクションシューター「Arc Raiders」について熱烈なレビューを書いたとき、私はこのゲームが私にどれくらいの時間をかけてもらえるかについては確信が持てませんでした。しかし、2ヶ月が経過し、私のプレイ時間は250時間に達しました。明らかな欠陥があるにもかかわらず、私を夢中にさせ続けてくれる魅力的なゲームであることが証明されました。また、開発者のEさんは、ゲームの不具合についても",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、朝起きてストレッチをしたり、電動歯ブラシの充電器をどこかにしまったのかと思案する日です。最初の3日間は猶予期間で、私は自分に「心配する必要はない」と言い聞かせたことができました。しかし、その日の生活はどうなるのでしょうか。",
+        "description": "土曜日は、朝起きてストレッチをしたり、電動歯ブラシの充電器をどこにしまったのかと思ったりする日です。最初の3日間は、なんとなく心配する必要はないと思える日々でした。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +253,7 @@
         "title": "【Mecha Force -メカフォース-：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "MING STUDIOは1月23日、ロボットアクションゲーム『Mecha Force -メカフォース-』の体験版を配信開始しました。",
+        "description": "MING STUDIOは1月23日、ロボットアクションゲーム『Mecha Force -メカフォース-』の体験版を配信開始しました。プレイヤーは、今すぐに体験版をダウンロードして、このアクションゲームの世界を体験できます。ロボットアクションゲーム『Mecha Force -メカフォース-』は、プレイヤーが様々なロボットを操作して戦闘を行うことができます。ゲームは、美しいグラフィックとスムーズな操作",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +266,7 @@
         "title": "【MOCHI-O：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "講談社ゲームラボは1月20日、終末国土防衛アドベンチャーゲーム『MOCHI-O』を発売しました。このゲームはリリース直後から好評を博しており、多くのゲーマーから高い評価を得ています。終末の世界を舞台に、プレイヤーは国土を防衛するために様々な挑戦に立ち向かいます。『MOCHI-O』は、ユニークなゲームプレイと魅力的なストーリーによって、ゲーマーたちの間に大きな話題を集めています。",
+        "description": "講談社ゲームラボは1月20日、終末の世界を舞台にしたアドベンチャーゲーム『MOCHI-O』を発売しました。このゲームは、リリース直後からすでに多くのユーザーから好評を博しており、大きな注目を集めています。ゲームの内容は、プレイヤーが終末の世界で生き残るために、さまざまなキャラクターと協力して国土を防衛するという、ユニークな設定が特徴です。すでに多くのゲーマーがこのゲームにハマっており、さらに多くの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,42 +276,16 @@
         "is_translated": false
       },
       {
-        "title": "【Palworld：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "私たちは同僚たちに、Steam でしか入手できないインディーズ ゲームをプレイする機会を与えたいと思っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-developer-pocketpair-requires-job-applicants-prove-their-gamer-credentials-if-the-number-of-steam-games-played-is-0-we-basically-pass-on-them/",
-        "date": "2026-01-23",
-        "is_translated": true
-      },
-      {
         "title": "【Turnbound：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "現在早期アクセス中のゲーム「Turnbound」は、ターンベースのオートバトラーで、神話上の英雄を描いています。このゲームでは、プレイヤーが最初に選ばれる方法がユニークです。猫の絵が描かれたコインを投げ、結果によって最初のプレイヤーが決定されます。ゲームの舞台は、幽霊が出るボードゲームの世界で、プレイヤーはこの世界に閉じ込められた英雄となり、さまざまな挑戦に立ち向かいます。ターンベースの戦闘システ",
+        "description": "現在早期アクセス中のゲーム「Turnbound」は、ターンベースのオートバトラーで、プレイヤーは神話上の英雄になって冒険をします。このゲームは、幽霊が出るボードゲームの中に閉じ込められた英雄を描いています。プレイを開始するプレイヤーは、猫の絵が描かれたコインを投げて選ばれます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/turnbound-is-a-lovely-plinky-mixture-of-autobattler-and-inventory-tetris-where-turn-order-is-decided-by-a-cats-bum",
         "date": "2026-01-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Enshrouded：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "時間が経つにつれて、私は次第に気付くことになるでしょう。まばたきをするだけの間に、まるまる2年が経過し、2回目の早期アクセス記念日を迎えるEnshroudedのようなゲームが突然現れることになるでしょう。ゲームの世界は日々進化を遂げており、プレイヤーもそれに合わせて成長する必要があります。早期アクセスというシステムが普及し、ゲーム開発者もより多くのアイデアを実現できるようになっている今日、Ensh",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-it-approaches-its-second-early-access-anniversary-enshrouded-gets-a-10-release-window-for-later-this-year",
-        "date": "2026-01-21",
         "is_translated": true
       }
     ],
@@ -281,13 +294,61 @@
         "title": "[Steam] レジェンド オブ ザ ムーン ( $0.59 / 80% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "レジェンド オブ ザ ムーンは、幻想的な世界を舞台に繰り広げられるアクションアドベンチャーゲームです。このタイトルでは、月を巡る伝説に彩られた壮大な物語を体験します。プレイヤーは、さまざまな能力と魔法を駆使して、暗黒の勢力と対決しながら、月の秘密を解き明かしていきます。ダイナミックなアクションと奥深いストーリーが融合したこのゲームでは、戦闘システムも独自で、戦略性とスピード感を兼ね備えています。また、美しいグラフィックと優雅なサウンドトラックが、プレイヤーを夢幻的な世界へと導きます。レジェンド オブ ザ ムーンは、80% オフの特別価格で提供されており、限られた期間の中でこの魅力的なゲームを体験することができます。Steam で今すぐダウンロードして、月の伝説に込められた不思議な世界を堪能してください。",
+        "description": "レジェンド オブ ザ ムーンは、幻想的な世界を舞台に繰り広げられるアクションアドベンチャーゲームです。このゲームでは、プレイヤーは月の伝説を追求する勇者となり、様々な敵との戦いを通じて強力な能力を身につけていきます。美しいグラフィックと魅力的なサウンドトラックが、プレイヤーを夢幻的な世界に引き込みます。ゲームの世界は広大で、多くの秘密を隠しており、探索することを楽しむことができます。戦闘システムは簡単ではあるものの、奥の深い戦略性があり、プレイヤーは戦術を駆使して敵を倒していく必要があります。レジェンド オブ ザ ムーンは、ファンタジーとアクションが好きなゲーマーにぴったりのゲームです。現在、Steamで80%オフの特別セール中で、通常価格よりも大幅に安くなっています。ぜひ、この機会に購入して、月の伝説を体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-24"
+        "date": "2026-01-25"
+      },
+      {
+        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、ヒーローズ オブ マイト アンド マジック3など",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "GOGニューイヤーセールが今始まっています。今年の最初のセールで、さまざまな人気ゲームが特別な価格で提供されます。特に注目されるのは、オープンワールドRPGの傑作『ウィッチャー3』です。このゲームは、壮大なストーリーと深いキャラクター設定で知られています。また、リアルタイムストラテジーゲームの『ヒーローズ オブ マイト アンド マジック3』や、スペースを舞台にしたシミュレーションゲームの『FTL』も含まれています。これらのゲームは、各ジャンルの最高の作品として評価されています。 GOGニューイヤーセールでは、多くのゲームが大幅な割引価格で提供されます。ゲーマーにとっては、今年のゲームプレイを最高のスタートで始めるための絶好の機会です。セール中のゲームは、さまざまなジャンルやスタイルの作品が用意されており、どんなタイプのゲームも楽しむことができます。さらに、GOGではDRMフリーのゲームが特徴で、購入したゲームを自由にプレイすることができます。 今回のセールでは、新しいゲームを発見したり、長年の希望していたゲームを手に入れたりすることができます。セール期間中は、さまざまなゲームが特別な価格で提供されるため、是非この機会にチェックしてみてください。GOGニューイヤーセールは、ゲーマーにとって今年の始まりを最高の方法でスタートさせるための素晴らしい機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "[Steam] ギャラクティック グリッチ ($3.24/ 75% OFF)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ギャラクティック グリッチは、宇宙を舞台にしたアクションパックされたゲームです。このゲームでは、プレイヤーは宇宙船を操り、さまざまな惑星や空間を探索して、新しいアイテムや技術を発見します。75%オフのこのセールは、ギャラクティック グリッチの宇宙の冒険を体験する絶好の機会です。宇宙の危険に立ち向かい、宇宙船を強化して、宇宙の不思議を解き明かすために、ギャラクティック グリッチを今すぐ購入してください。Steamで現在75%オフの特別価格$3.24で提供中です。宇宙の冒険を始めるには、ギャラクティック グリッチをダウンロードして遊んでください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "DC フランチャイズ セール：バットマン ゲーム大割引",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DC フランチャイズ セールでは、バットマンをはじめとする人気キャラクターが登場する様々なゲームが大幅に割引されています。ゴッサムシティの暗い夜を舞台に、アーカム・アサイラムの恐ろしさを体験したり、スーパーヒーローとしての誇りを感じることができます。アクションアドベンチャーゲームから、オープンワールドの探索まで、バットマンの世界を自由に楽しみます。さらに、DC ユニバースの他のキャラクターも登場するゲームが多数割引されており、ファン必見のセールです。Steam で行われるこのセールでは、バットマン ゲームの大幅割引を利用して、ご自身のゲームライブラリを充実させることができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 50% オフです! Steam上",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "私のゲーム Z.O.N.A: Origin は、PC と VR でプレイできるアクションアドベンチャーゲームです。このゲームでは、多彩な武器やスキルを駆使して、壮大な世界を冒険し、様々な敵と戦っていきます。50% オフのセール期間中は、通常価格よりも大幅に安い価格で購入できます。Steam 上でダウンロードして、激しいアクションとスリルの世界に没頭してください。VR に対応しているため、よりリアルな体験を楽しむことができます。ゲームの世界には、さまざまなミッションや挑戦が用意されており、プレイヤーのスキルを試してみることができます。セール期間中は、通常よりも安い価格でこのゲームを体験することができるため、興味のあるゲーマーにはお勧めです。Z.O.N.A: Origin の世界に飛び込んで、未知の冒険を開始してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
       },
       {
         "title": "GOGニューイヤーセール：ウィッチャー３、FTL、サイバーパンク２０７７など",
@@ -299,18 +360,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-01-24"
-      },
-      {
-        "title": "[Steam] ギャラクティック グリッチ ($3.24/ 75% OFF)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ギャラクティック グリッチは、宇宙を舞台にしたアクションパックされたゲームです。このゲームでは、プレイヤーは宇宙の不思議な世界を探索し、様々な敵と戦います。75% オフの特別価格で提供されているこのゲームは、ギャラクシーの危機を救うために、プレイヤーが宇宙船を操縦し、異星人の攻撃から地球を守る必要があります。ギャラクティック グリッチの特徴は、壮大な宇宙空間を自由に飛行できることです。さらに、多彩な宇宙船と強力な武器が用意されており、プレイヤーは自分の戦闘スタイルに合わせてカスタマイズできます。Steam で提供されているこのゲームは、スリリングな宇宙冒険を体験できる素晴らしいオポートニティです。ギャラクティック グリッチをプレイして、宇宙の秘密を解き明かしましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
         "date": "2026-01-24"
       },
       {
@@ -326,18 +375,6 @@
         "date": "2026-01-24"
       },
       {
-        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、ヒーローズ オブ マイト アンド マジック3など",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGニューイヤーセールが今週スタートしました。待望のセールでは、ウィッチャー3、FTL、ヒーローズ オブ マイト アンド マジック3など、人気ゲームが大幅に割引されています。これは、ゲームファンにとって絶好の機会です。ウィッチャー3は、オープンワールドアドベンチャーゲームで、壮大な物語と豊富なゲーム性が特徴です。FTLは、宇宙を舞台にした戦略ゲームで、プレイヤーは宇宙船を操作して、敵を倒し、宇宙を制覇します。ヒーローズ オブ マイト アンド マジック3は、ターン制戦略ゲームで、プレイヤーは様々なユニットを操作して、戦闘を指揮します。セール期間中は、数百のゲームが割引されるので、好みのゲームを見つけることができるでしょう。セールは期間限定なので、早速チェックして、ご希望のゲームを手に入れてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-01-24"
-      },
-      {
         "title": "DC フランチャイズ セール：バットマンシリーズなど大割引",
         "platform": "Steam",
         "type": "sale",
@@ -348,18 +385,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-24"
-      },
-      {
-        "title": "DC フランチャイズ セール：バットマン ゲーム大割引",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DC フランチャイズ セールでは、バットマンをはじめとする人気キャラクターが登場する様々なゲームが大幅に割引されます。ゴッサムシティの暗闇を舞台に、悪と戦うバットマンの勇姿や、スーパーヒーロー同士の対決を体験することができます。アクションゲームからアドベンチャーゲームまで、多様なジャンルが用意されており、DC フランチャイズのファンには必見のセールです。バットマンの魅力的な世界に浸り込み、様々なゲームで楽しみを見つけてください。Steam で開催されているこのセールは、DC フランチャイズのゲームを遊びたいゲーマーにとっては絶好の機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
       },
       {
         "title": "[Steam] エイリアン: ローグ インカージョン VR デラックス (75% オフ / $12.49)",
@@ -504,18 +529,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-21"
-      },
-      {
-        "title": "[ALLYOUPLAY] StarRupture (€15.89 -20% オフ / £13.1 -22% オフ / $15.62 / -21% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで提供されているゲーム、StarRuptureは、現在20%〜22%の割引を受けることができます。価格は、15.89ユーロ、13.1ポンド、15.62ドルと非常に魅力的です。このゲームは、EU、英国、米国でSteamアクティベーションに対応しています。 StarRuptureは、宇宙を舞台にしたアクションアドベンチャーゲームのようです。タイトルから推測すると、プレイヤーは星々をrupture（破壊）するような強大なパワーを持ったキャラクターを操作することになるでしょう。 このゲームは、スリリングな宇宙空間のバトルや、複雑な宇宙ステーションの探索、様々な惑星への冒険など、多様なゲームプレイを提供するかもしれません。グラフィックも、美しい星空や、リアルな宇宙船のデザインなど、見た目にも楽しみたいと思わせるようです。 さらに、ゲームのストーリーは、宇宙の謎を解くというものかもしれません。プレイヤーは、宇宙の秘密を解明するために、様々な惑星を訪れ、異星人の種族との遭遇、宇宙ステーションの調査など、様々なミッションを遂行することになるでしょう。 StarRuptureは、宇宙をテーマにしたゲームファンには、非常に魅力的かもしれません。現在の割引価格で購入することもでき、Steamアクティベーションに対応しているので、手軽に遊ぶことができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-21"
       }
     ]
   },
@@ -573,5 +586,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-24T12:24:11.282556"
+  "last_updated": "2026-01-25T02:11:35.164418"
 }

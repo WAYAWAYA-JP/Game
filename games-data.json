@@ -5,16 +5,64 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "中世を舞台にしたオープンワールドアクションゲームで、凶悪な犯罪者に変身してみましょう。馬を盗んだり衛兵と戦ったり、農民から略奪したり、英雄を殺したりと、非常識なクエストをこなしていきます。さらに、吟遊詩人の魅力的な音楽も楽しむことができます。従来のゲームプレイスタイルをすべて網羅した、このクレイジーなゲームで、ポップカルチャー要素を満喫してください。",
+        "description": "ポップカルチャーを彩る様々な要素が盛り込まれた、クレイジーなオープンワールドアクションゲームにおいては、中世の凶悪犯罪者に扮することができます。無茶なクエストを達成したり、英雄を討ち取ったり、馬を盗んだり、衛兵と戦闘を繰り広げたり、農民から略奪したり、そして吟遊詩人の音楽を聴くことができます。伝統的なゲームプレイスタイルを存分に楽しむことができる、充実したゲーム体験が待っています。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-26"
+        "date": "2026-01-27"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Fight to Survive Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "収録: ering Rooms / Dishonored 2 / The Evil Within 2 / Blazing Sails / Berserk Boy / NO-SKIN / Luck & Loot / NEDRA / Death Relives / More)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "How much gets donated through humble bundle choice subscription?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "Best of Humble Bundle: The Sid Meier Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "When does humble drops new bundles?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-27"
+      },
       {
         "title": "ローラーコースターティクーン コレクション",
         "platform": "Humble Bundle",
@@ -49,30 +97,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "How much gets donated through humble bundle choice subscription?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "Best of Humble Bundle: The Sid Meier Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-01-26"
       },
       {
@@ -136,18 +160,6 @@
         "date": "2026-01-25"
       },
       {
-        "title": "When does humble drops new bundles?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-25"
-      },
-      {
         "title": "RollerCoaster Tycoon Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -182,26 +194,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-24"
-      },
-      {
-        "title": "The Sid Meier Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-24"
       }
     ],
     "review": [
       {
+        "title": "【Hytale：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私の場合はキャンプファイヤーに入って死んでしまいました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-update-adds-a-new-weapon-for-summoning-undead-hordes-but-keep-your-early-access-expectations-in-check/",
+        "date": "2026-01-27",
+        "is_translated": true
+      },
+      {
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Baldur's Gate 3 は早期アクセスから完全リリースへの移行に伴い、大幅な変更が加えられました。開発元の Larian は、ゲームの完成度を高めるために、多くの調整と変更を行いました。当然ながら、これらの変更は、特定の計画やアイデアが実現しないことを意味します。開発チームは、ゲームのバランスや難易度、ストーリーなど、様々な要素を微調整し、ゲームの全体的な質を向上させました。結果として、ゲ",
+        "description": "Baldur's Gate 3 は早期アクセスから完全リリースへの移行に伴って、大幅な調整と変更が行われました。Larian がこの巨大な RPG を完成させていくにつれて、計画の変更や削除が行われたのは当然です。特定の部分や計画が計画に反映されないこともありました。開発チームは、ゲームのバランスを調整し、プレイヤーの体験を向上させるために、さまざまな調整と変更を行いました。これにより、ゲームはよ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +224,23 @@
         "is_translated": true
       },
       {
+        "title": "【Code Vein 2：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Code Vein 2 は、最初の Code Vein で見られた問題点をそのまま引き継いでおり、当たり障りのないオープンワールドを追加することで、Soulslike ゲームの魅力を誤解しているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/code-vein-2-review/",
+        "date": "2026-01-26",
+        "is_translated": true
+      },
+      {
         "title": "【ノー レスト フォー ザ ウィケッド：レビュー】\n【FUMES：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "今週セールが始まった中から、最も安い価格で提供されるタイトルをいくつか紹介します。",
+        "description": "今週セールが開始された作品の中から、最もお得なタイトルをピックアップして紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,49 +250,10 @@
         "is_translated": false
       },
       {
-        "title": "【Out of Action：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "今回のゲームは、移動を体験するために訪れることができます。また、複数のプレイヤーで戦う「高度なマルチプレイヤー バレット タイム」も楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/early-access-multiplayer-shooter-out-of-action-is-ironically-full-of-action-with-cyborg-ninjas-blasting-each-other-in-a-mix-of-titanfall-and-max-payne/",
-        "date": "2026-01-25",
-        "is_translated": true
-      },
-      {
-        "title": "【Star Birds：レビュー】\n【Dorfromantik：レビュー】\n【エイリアンにピザを食べさせたことがありますか？：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Star Birds の 3 つの新しいレベルは、発売時に含まれていたレベルよりも「長く、より複雑」です。新しく追加されたこれらのレベルは、より長い距離と複雑なコースで構成されており、プレイヤーに新たな挑戦を提供します。発売前のレベルと比較すると、より多くの障害物や難所が配置されており、より高度なテクニックと戦略が求められます。レベル内の各ステージも、より複雑な構造で設計されており、プレイヤーが新",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/dinner-is-served-in-star-birds-latest-early-access-update-adding-bakeries-and-restaurants-to-the-dorfromantik-devs-factory-management-sim-ever-fed-an-alien-pizza/",
-        "date": "2026-01-25",
-        "is_translated": true
-      },
-      {
-        "title": "放棄されたFPSサーバーとARPGの骨を組み合わせて作られたこのホラーゲームは、プレイした中で最も不思議なパズルゲームの1つです。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "No Players Online は、真に難解なアドベンチャーゲームです。プレイヤーは、不気味で不安を感じさせる世界を探索しながら、様々な謎を解決していくことになります。このゲームは、恐怖を体験したいゲーマーにぴったりの選択です。ゲーム内の不気味な雰囲気と難解な謎は、プレイヤーを引き込む力があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/this-horror-game-built-from-the-bones-of-an-abandoned-fps-server-and-an-accidental-arpg-might-be-one-of-the-strangest-puzzlers-ive-ever-played/",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイガード：レビュー】",
+        "title": "ハイガードは来週発売予定です。来週にはゲームプレイの概要も公開される予定です。発売日が近づいてきて、気になるゲームファンも多いのではないでしょうか。ゲームの発売日はいつもワクワクするものです。来週が待ち遠しいですね。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私は基本的にシングルプレイヤー シューティング ゲームしか好きではないので、『Highguard』は私を魅了するゲームではありませんでした。しかし、発表以来、このゲームがなめられることはなかったという事実は、私を助ける要因でした。実際、私はシングルプレイヤー シューティング ゲームのファンであるため、このジャンルのゲームにはとても厳しいですが、『Highguard』は私の期待を裏切らなかったのです",
+        "description": "基本的に私はシングルプレイヤーシューティングゲームが好きなので、『Highguard』は私にとって特別な魅力を持つゲームではありませんでした。しかし、発表以来、このゲームが軽視され続けていることが事実であることに気づいたとき、私はその状況に興味を持ちました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -279,7 +266,7 @@
         "title": "【アークレイダーズ：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "11月にエクストラクションシューター「Arc Raiders」を試してみたとき、私はこのゲームが長期的に私を魅了し続けるかどうか確信が持てませんでした。しかし、2か月が経過し、私がこのゲームに費やした時間は250時間に達しました。明らかな欠陥が存在するにも関わらず、開発者のEさんの情熱が感じられるこのゲームは、私を夢中にさせ続けることができました。",
+        "description": "11月にエクストラクションシューター「Arc Raiders」のレビューを執筆したとき、私はこのゲームがどれくらいの期間私を虜にできるのか、確信が持てませんでした。しかし2か月が経過し、すでに250時間をこのゲームに費やしていることで、私の疑問は解消されました。明らかな欠陥があるにもかかわらず、私を夢中にさせる力を持ったこのゲームは、開発者のEさんの情熱と努力が感じられます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -292,7 +279,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、朝起きてストレッチをしたり、電動歯ブラシの充電器をどこにしまったのか考え込む日です。最初の3日間は、自分に「心配する必要はない」と言い聞かせながら、ひとときの猶予を楽しむことができました。",
+        "description": "土曜日は、朝起きてストレッチをしたり、電動歯ブラシの充電器がどこにあるか悩んだりする、ごく普通の日です。最初の3日間は、自分に「心配する必要はない」と言い聞かせていたのですが、そんな日々もありました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -300,33 +287,68 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-366",
         "date": "2026-01-24",
         "is_translated": true
-      },
-      {
-        "title": "【Turnbound：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "現在早期アクセス中のTurnboundは、ターンベースのオートバトラーで、神話上の英雄が幽霊が出るボードゲームに閉じ込められているという設定です。このゲームでは、猫の絵が描かれたコインを投げて、最初にプレイする人が決まります。ゲームの世界では、さまざまなキャラクターが登場し、プレイヤーは戦略的に戦いを進めながら、ボードゲームからの脱出を目指します。Turnboundの魅力は、ターンベースのバトルシ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/turnbound-is-a-lovely-plinky-mixture-of-autobattler-and-inventory-tetris-where-turn-order-is-decided-by-a-cats-bum",
-        "date": "2026-01-22",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Steam] レジェンド オブ ザ ムーン ( $0.59 / 80% オフ)",
+        "title": "[Steam] バトルシェイパー ($9.99 / 60% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "レジェンド オブ ザ ムーンは、幻想的な世界を舞台にしたアクションアドベンチャーゲームです。このゲームでは、月の魔力を利用して、様々な能力を駆使して冒険を進めます。魔法と剣術の融合が特徴的なこのゲームでは、プレイヤーはさまざまなキャラクターを操作して、月の秘密を解き明かすために戦いながら進みます。美しいグラフィックとキャラクターの独自のデザインが、ゲームの世界観を一層引き立てています。さらに、ゲームのバランスが良く、操作性も優れているため、初心者から上級者まで楽しむことができます。Steamで現在80%オフの特価で提供中のレジェンド オブ ザ ムーンは、興味を持つゲーマーにとっては絶対に見逃せない機会です。これを逃さないように今すぐチェックしてみてください。",
+        "description": "Steamで現在、バトルシェイパーが60%オフの特別セール中です。この魅力的なゲームは、プレイヤーに独自の戦闘スタイルを生み出す自由を与えます。さまざまな能力やスキルを組み合わせて、自分だけの戦闘シナリオを形作ることができます。バトルシェイパーは、戦略とアクションを融合させた、高速でスリリングなゲーム体験を提供します。 バトルシェイパーには、様々な敵やボスキャラクターが登場し、プレイヤーは戦闘に必要な戦略と戦術を身につける必要があります。ゲームのグラフィックやサウンドデザインも、プレイヤーをゲームの世界に引き込むことに成功します。Steamでのセール中は、通常価格の60%オフで本作を購入することができ、通常の9.99ドルの価格が大幅に割引されるので、ゲームファンには見逃せないチャンスです。バトルシェイパーを今すぐ購入して、戦闘の世界で新たな挑戦に立ち向かっていきましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-26"
+        "date": "2026-01-27"
+      },
+      {
+        "title": "[Steam] Arcadium - 宇宙の旅 (40% オフ / $4.79)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでの「Arcadium - 宇宙の旅」は、現在40%オフの特別価格で提供されています。この魅力的なゲームでは、プレイヤーは宇宙を舞台に、様々な惑星や空間ステーションを探索することができます。宇宙の旅の中で、プレイヤーは様々な異星の生物と出会い、宇宙の秘密を解き明かすことができます。 ゲームのグラフィックは、美しい星空と惑星の風景をリアルに表現しています。加えて、ゲームのサウンドトラックは、宇宙の雰囲気を際立たせ、プレイヤーを宇宙の世界へと引き込んでくれます。さらに、ゲームのシステムは、プレイヤーが自由に宇宙を移動し、探索することができるように設計されています。 「Arcadium - 宇宙の旅」は、宇宙を舞台にしたアドベンチャーゲームとして、プレイヤーに新しい体験を提供します。現在の価格は$4.79ですので、是非この機会にSteamで購入して、宇宙の旅を開始してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "[Steam] レジェンド オブ ザ ムーン ( $0.59 / 80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レジェンド オブ ザ ムーンは、幻想的な世界を舞台にしたアクションアドベンチャーゲームです。このゲームでは、月の力に選ばれた勇者となって、暗黒の勢力と戦い、世界を救うために旅立ちます。美しいグラフィックと壮大なサウンドトラックで、ゲームの世界に没入できます。様々な武器や魔法を使用して、多種多様な敵を撃破し、ボスとの激闘を体験できます。また、ゲーム内のさまざまなアイテムやスキルを集めて強化することで、自らの戦闘スタイルをカスタマイズできます。レジェンド オブ ザ ムーンでは、スムーズな操作と快適なゲーム性で、プレイヤーの心を引き付けます。現在、Steam で 80% オフの特別セール中です。ぜひ、この機会に試遊してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "今後の 2026 年の Steam セールに向けたイベント カレンダーを作成しました",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "2026 年の Steam セールに向けて、イベント カレンダーが公开されました。Steamユーザーは、今年のセール期間中、様々なゲームが大幅な割引になることが予想されます。セールのカレンダーは、ユーザーが事前に計画を立て、欲しいゲームを購入する機会を提供します。 カレンダーには、春、夏、冬などの主要なセール期間が記載されています。ユーザーは、セール期間中、最新のゲームからクラシックなゲームまで、幅広いゲームが割引されることが予想されます。また、人気のゲームや、新作ゲームもセール対象になる可能性があります。 Steam セールは、ゲームファンにとって大変楽しみなイベントです。セール期間中、ユーザーはお気に入りのゲームを購入する機会を得るだけでなく、新しいゲームを発見することもできます。Steam セール カレンダーをチェックすることで、ユーザーはセールの準備を整えることができ、今年のセール期間中、楽しいゲーム体験を楽しむことができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-27"
+      },
+      {
+        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 50% オフです! Steam上",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで配信中の、私のゲームZ.O.N.A: Origin (PCVR)が50%オフになりました。VR技術を活かし、プレイヤーは没入感の高い世界の中でゲームを体験できます。SFをテーマにしており、未来的な環境と、そこで展開するストーリーを楽しむことができます。VRコントローラーを使用して、自由に動き回り、ゲーム内のオブジェクトやキャラクターと交互に作用することができます。50%オフのチャンスを逃さないで、今日 Steamでこのゲームをチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-27"
       },
       {
         "title": "GOGニューイヤーセール：ウィッチャー3、FTL、サイバーパンク2077など",
@@ -357,18 +379,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "バットマンのファンにはもってこいです。DC フランチャイズ セールがSteamで開催中です。このセールでは、バットマンを中心としたDCコミックのフランチャイズを題材にしたゲームが大幅に割引になっています。バットマンの活躍を見ながら、ゴッサムシティの暗黒街を巡る『バットマン アーカム シリーズ』や、スーパーヒーローの集結を描く『インジャスティス』など、さまざまなゲームが勢揃いしています。バットマンのカリスマを体験したい方や、DCコミックの世界に興味がある方には、見逃せないチャンスです。割引期間は限られているため、 お見逃しなくにお楽しみください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "今後の 2026 年の Steam セールに向けたイベント カレンダーを作成しました",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "2026 年の Steam セールに向けて、イベント カレンダーを作成しました。今年はさまざまなゲームが大幅な割引で提供される予定です。セール期間中に、最新のヒット作から定番のクラシックまで、多種多様なゲームを探索できます。Steam コミュニティが提供する豊富なコンテンツにアクセスして、友達と一緒に新しいゲームを発見しましょう。カレンダーをチェックして、次のセールの日程を確認し、待ちに待ったゲームを購入するタイミングを計画できます。セール中は、ゲーム開発者の特別な発表や、Steam コミュニティの活発な議論も見逃せません。2026 年の Steam セールは、ゲーム愛好者のための大きなイベントとなりそうです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -417,18 +427,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "DC フランチャイズ セールでは、バットマンをはじめとする人気キャラクターが登場する様々なゲームが勢ぞろいです。ゴッサムシティの暗躍する悪と戦うバットマン、またはスーパーヒーローのチームを率いて世界を救うミッションに挑む、あなたの冒険の時間がここにです。 さまざまなジャンルのゲームの中から、自分に適したバットマンのゲームを見つけてください。アクションアドベンチャーゲームでバットマンのスキルを存分に発揮したり、オープンワールドのゴッサムシティを自由に駆け回すことができます。様々なゲームスタイルで楽しむことができるので、どのゲームを選んでもバットマンファンなら楽しむことができます。 DC フランチャイズ セールは、バットマンシリーズのファン必見のセールです。新しいゲームを発見するための絶好の機会です。セール期間中は様々なゲームが特価になるので、気になるタイトルが安くなっているかどうかチェックしてみてください。_DC フランチャイズ セールでバットマン ゲームの世界に飛び込み、スーパーヒーローとしてのあなたの冒険を始めてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 50% オフです! Steam上",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam上で現在、注目すべきセールが行われています。私のゲーム Z.O.N.A: Origin (PCVR) が 50% オフとなり、ゲーマーの皆さんにとっては大変魅力的な機会です。这は、PC と VR の両方でプレイ可能なゲームであり、多様なプレイスタイルに対応しています。ゲームの世界では、ユニークなグラフィックやサウンドデザインがawaitされており、プレイヤーは新しい体験を楽しむことができます。 Z.O.N.A: Origin は、ストーリー重視のゲームで、プレイヤーはキャラクターを操作して、ゲームの世界で様々なクエストやミッションを遂行します。ゲームのオリジナルな設定や、キャラクターの深い背景などが、プレイヤーを引き付ける要素となっています。また、VR 対応により、より没入感の高い体験ができることも大きな魅力です。 このセールは、ゲームを未プレイのゲーマーにとっては一度は挑戦してみる価値あります。通常価格から 50% オフ となるこの機会を逃さないでください。Steam 上で Z.O.N.A: Origin をチェックし、ゲームの世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -531,30 +529,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-23"
-      },
-      {
-        "title": "[Steam] LORT (34% オフ - $9.89)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamにおいて、注目度の高いゲーム「LORT」が34%オフとなり、現在$9.89で購入できます。この魅力的なゲームは、プレイヤーに新しい体験を提供することを目的としています。LORTは、ユニークなゲームシステムと豊富なストーリーラインを備えており、ゲーマーたちはさまざまなステージを攻略し、様々な課題に挑戦します。グラフィックも美しく、ダイナミックなサウンドデザインで、プレイヤーをゲームの世界に引き込むことができます。さらに、Steamコミュニティでの評価も高く、多くのプレイヤーから好評価を得ています。もし、あなたが新しいゲーム体験を求めているのであれば、「LORT」は必ず試してみるべきゲームです。Steamストアで今すぐチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
-      },
-      {
-        "title": "[Steam] Control Ultimate Edition (-90% オフ / $3.99)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Control Ultimate Editionは、Steamプラットフォームで現在90%オフの特別セール中です。今までの価格と比較して、驚きの3.99ドルという価格帯で購入することができます。 このゲームは、ファンターン株式会社が開発し、505 Gamesが販売しています。Control Ultimate Editionは、主にアクションアドベンチャーゲームとして分類され、サイコホラーの要素も含んでいます。 プレイヤーは、Jesse Fadenとして登場し、Federal Bureau of Controlの長官になって、オルダーハウスと呼ばれる場所で起こる超常現象を解明します。彼女は、さまざまな能力を身につけ、様々な敵に対して戦い、謎を解き明かしていきます。 Control Ultimate Editionには、基本のControlに加えて、The FoundationとAWEという2つのDLCも含まれています。これにより、さらに多くのストーリーやゲームプレイが追加されています。 Steamのユーザーレビューでは、Control Ultimate Editionは非常に高い評価を獲得しています。多くのプレイヤーが、ゲームの物語、グラフィック、サウンドトラックを高く評価しています。 Control Ultimate Editionを今すぐ購入して、謎のオルダーハウスを探索し、Jesse Fadenの冒険に参加してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-22"
       }
     ]
   },
@@ -612,5 +586,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-26T12:29:57.774656"
+  "last_updated": "2026-01-27T02:07:46.661765"
 }

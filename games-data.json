@@ -5,28 +5,16 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "中世の世界を舞台にしたクレイジーなオープンワールドアクションゲームにようこそ。ポップカルチャー要素が満載されたこのゲームでは、プレイヤーは凶悪犯となり、普通ではないクエストをこなしたり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだりすることができます。伝統的なゲームプレイスタイルを存分に楽しむことができるので、是非挑戦してみてください。",
+        "description": "ポップカルチャー要素が豊富に盛り込まれた、狂気的なオープンワールドアクションゲームで中世の凶悪犯罪者に変身してみましょう。常識を超えたクエストをクリアしたり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を聴いたりして、昔ながらのゲームプレイスタイルを体験できます。伝統的なゲーム性がすべて詰め込まれており、プレイヤーは中世の世界で自由に冒険できます。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-27"
+        "date": "2026-01-28"
       }
     ],
     "bundle": [
-      {
-        "title": "Build Your Own Fight to Survive Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "収録: ering Rooms / Dishonored 2 / The Evil Within 2 / Blazing Sails / Berserk Boy / NO-SKIN / Luck & Loot / NEDRA / Death Relives / More)",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-01-27"
-      },
       {
         "title": "How much gets donated through humble bundle choice subscription?",
         "platform": "Humble Bundle",
@@ -37,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-27"
+        "date": "2026-01-28"
       },
       {
         "title": "Best of Humble Bundle: The Sid Meier Collection",
@@ -49,6 +37,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "Build Your Own Fight to Survive Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "収録: ering Rooms / Dishonored 2 / The Evil Within 2 / Blazing Sails / Berserk Boy / NO-SKIN / Luck & Loot / NEDRA / Death Relives / More)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
         "date": "2026-01-27"
       },
       {
@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【零 ～紅い蝶～ REMAKE：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "コーエーテクモゲームスは1月28日、《零 ～紅い蝶～ REMAKE》の無料体験版を3月5日に配信することを発表しました。さらに、《SILENT HILL f》との相互コラボレーションも告知されており、ファンを大いに喜ばせています。無料体験版の配信は、3月5日に予定されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260128-412091/",
+        "date": "2026-01-28",
+        "is_translated": false
+      },
+      {
         "title": "【OPUS: Prism Peak：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "SIGONOは1月27日、写真家として少女と共に不思議な地からの「帰り道」を探すアドベンチャーゲーム『OPUS: Prism Peak』を3月26日にリリースすることを発表しました。本作は、プレイヤーが美しい風景を撮影しながら、少女と共に不思議な世界を旅し、帰る道を探すという内容です。ゲームの中では、自然の美しさを堪能することができ、心に残る瞬間を撮影することもできます。SIGONOは、本作がプレ",
+        "description": "SIGONOは1月27日、待望のアドベンチャーゲーム『OPUS: Prism Peak』のリリース日を3月26日に決定した。プレイヤーは写真家となり、少女と共に不思議な地からの帰り道を探す、心温まるストーリーを体験することができる。本作は、美しい風景の中で少女との絆を深めながら、帰る道を探すというユニークなコンセプトが特徴だ。ゲームの世界は、写真を通じて表現されており、プレイヤーは少女との旅を通じ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,41 +224,67 @@
         "is_translated": false
       },
       {
-        "title": "【アース・マスト・ダイ：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【Absolum：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "ポイント アンド クリックすると、従者が表示されます。",
+        "description": "昨年10月にローンチされ、高い評価を獲得し、初週に20万本の販売突破を果たしたベルトスクロールアクション「Absolum」は、DotemuとGuard Crush Games、Supamonksによる完全新作です。このタイトルは、新たなDoteの提供により、さらに注目を集めています。ベルトスクロールアクションのジャンルでは、高い評価を獲得し、多くのプレイヤーから支持を集めています。初週の販売本数も",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/earth-must-die-review-an-inventive-adventure-game-thats-just-a-bit-too-obsessed-with-orgies/",
+        "url": "https://doope.jp/2026/01163656.html",
         "date": "2026-01-27",
-        "is_translated": true
+        "is_translated": false
       },
       {
-        "title": "【Hytale：レビュー】",
+        "title": "ハイガードスタジオは、ディスリスペクト博士がプレスプレビューに参加したという話は嘘であり、アクセスバッジの写真も偽物であると主張しました。この出来事により、インターネット上は大混乱に陥りました。スタジオは「ディスリスペクト博士は、過去も現在もハイガードのイベントに招待されることはない」と述べています。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "私の場合はキャンプファイヤーに入って死んでしまいました。",
+        "description": "このゲームの謎は何を意味するのでしょうか。主人公が取った行動の意味や、誰に好印象を与えようとしているのか、そして何が起こると考えていたのか。親愛なる読者に正直に言いますと、これらは私にもわかりません。様々な疑問が浮かぶこのゲーム、様々な物語を読み解く楽しみが味わえます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-update-adds-a-new-weapon-for-summoning-undead-hordes-but-keep-your-early-access-expectations-in-check/",
+        "url": "https://www.pcgamer.com/games/fps/internet-confused-as-highguard-studio-says-dr-disrespect-lied-about-attending-a-press-preview-and-his-photo-of-an-access-badge-was-fake-ddr-was-not-invited-to-any-highguard-event-past-or-present/",
         "date": "2026-01-27",
         "is_translated": true
       },
       {
-        "title": "【No Rest for the Wicked：レビュー】",
+        "title": "【ハイガード：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "レビュー爆撃は誰の役にも立ちません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/highguard-deserves-a-chance-so-dont-kill-it-out-of-spite/",
+        "date": "2026-01-27",
+        "is_translated": true
+      },
+      {
+        "title": "【DXRacer Martian XL：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私には力がある――さてどうする？",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/dxracer-martian-xl-review/",
+        "date": "2026-01-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Highguard：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "Moon Studios の早期アクセス アクション RPG、No Rest for the Wicked が Steam で爆発的に売れているようです。",
+        "description": "Highguard は 2025 Game Awards の流れを締めくくったことで有名ですが、これまでのところ、発売時の評判は世界中に広がっています。多くのゲーマーがこのゲームに注目しています。このゲームの魅力は、ユニークなゲームプレイと美しいグラフィックにあります。発売前から多くの期待が寄せられており、実際のゲームが如何なるものか、多くの人が興味を持っています。ゲームのストーリーやキャラクター",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/no-rest-for-the-wicked-steam-charts-top/",
+        "url": "https://www.polygon.com/highguard-launch-rocky-start/",
         "date": "2026-01-27",
         "is_translated": true
       },
@@ -253,7 +292,7 @@
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Baldur's Gate 3 は早期アクセスから完全リリースへの移行において、Larian がこの巨大な RPG を完成させるために、多数の調整と変更を実施しました。当然のことながら、これには特定の部分や計画が実際の計画に反映されないことを意味します。開発チームは、ゲームのバランスや難易度、ストーリーの展開など、様々な要素を微調整することで、より完成度の高いゲーム体験を提供することを目指していま",
+        "description": "Baldur's Gate 3 の早期アクセス版から完全リリース版への移行では、Larian がこの巨大な RPG を完成させるために多くの調整と変更を加えました。これにより、特定の部分や計画が変更されたり、計画から除外されたりすることもありました。開発チームは、ゲームのバランスを調整し、不具合を修正し、新しい機能を追加するために、多くの時間と労力を費やしました。結果として、完全リリース版の Ba",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -261,72 +300,68 @@
         "url": "https://www.rockpapershotgun.com/a-ton-of-cut-baldurs-gate-3-early-access-encounters-including-over-100-chats-have-been-resurrected-by-a-modder",
         "date": "2026-01-26",
         "is_translated": true
-      },
-      {
-        "title": "【コードヴェイン 2：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Code Vein 2 は、最初の Code Vein と同じ間違いをすべて繰り返し、当たり障りのないオープンワールドを追加することで、Soulslikes の特徴を誤解しています。そうした間違いは、ゲームの深みや難しさを損なっています。 Code Vein 2 の世界は、自由に探索できる広大な空間ですが、そこに待ち受けるのは、当たり障りのないステージや、個性のないエネミーたちです。ゲームの難しさ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/code-vein-2-review/",
-        "date": "2026-01-26",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイガード：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私は基本的にシングルプレイヤーのシューティングゲームが好きで、他のジャンルにはあまり興味がありません。そのため、『Highguard』は私を魅了するゲームではありませんでした。しかし、発表以来、誰からも低く見られていないという事実に気づいたとき、私はこのゲームに注目するようになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/look-at-that-highguard-is-coming-out-next-week-after-all-with-a-gameplay-overview-coming-oh-thats-odd-launch-day",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "【アークレイダーズ：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "11月にエクストラクションシューター「Arc Raiders」について熱烈なレビューを書いたとき、私はこのゲームが長期的に私を夢中にさせ続けるかどうか、確信が持てませんでした。しかし、2か月が経過した今、私のプレイ時間は250時間に達しました。明らかな欠陥があるにもかかわらず、開発者のE氏の努力が実を結んでいるようです。このゲームは、プレイヤーに新しい挑戦を提供し続け、魅力的な世界観を提供すること",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊びますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "土曜日は、朝起きてストレッチをしたり、電動歯ブラシの充電器をどこにしまったのか考えたりする、ひとときのリラックスを楽しむ日です。最初の3日間は猶予期間で、私は自分に「心配する必要はない」と言い聞かせられました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-366",
-        "date": "2026-01-24",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Steam] アノニマス ハッカー シミュレーター ($5.99/70% オフ)",
+        "title": "[Steam] Sniper Elite 5: Complete Edition ($16.56/83% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで提供されているアノニマス ハッカー シミュレーターは、ハッカーの世界を体験できるユニークなゲームです。このゲームでは、プレイヤーはハッカーとなり、さまざまなコンピューターシステムに侵入し、機密情報を盗み出すなどのミッションを遂行します。ゲームの世界は、現実のハッカーの活動を参考にして作られているため、リアルな雰囲気を味わうことができます。 このゲームの特徴は、その高度なハッキングシステムと、プレイヤーの選択によって物語が変化することです。プレイヤーは、さまざまなツールとテクニックを使用して、システムのセキュリティを突破し、機密情報を入手する必要があります。また、ゲームのグラフィックとサウンドも、ハッカーの世界をリアルに表現しています。 アノニマス ハッカー シミュレーターは、通常価格より70%オフの$5.99で提供されています。この魅力的な価格は、ゲームを試すための絶好の機会です。ハッカーの世界に興味がある方や、シミュレーションゲームを楽しむ方には、ぜひお勧めしたいゲームです。Steamプラットフォームで今すぐ購入して、ハッカーとしての新しい冒険を開始しましょう。",
+        "description": "Steamで提供されているSniper Elite 5: Complete Editionは、83%オフの特別セール中です。このタイムリミット付きのセールでは、通常価格より大幅に割引された16.56ドルで本作を入手することができます。 Sniper Elite 5は、第二次世界大戦を舞台にしたスナイパー戦術ゲームで、プレイヤーは戦略的な狙撃とステルスアクションを駆使して敵を倒していきます。Complete Editionには、基本ゲームに加えて追加のDLCやコンテンツが含まれており、より多様なミッションや新しい武器などが利用できます。 このゲームは、スナイパーライフルを使用した長距離狙撃や、近距離で敵を取り調べたり潜入したりするなど、様々な戦術的なアプローチを取り入れています。グラフィックやサウンドデザインも高品質であり、戦場での臨場感を強く感じることができます。 Sniper Elite 5: Complete Editionは、スナイパーゲームファン向けに最高の選択肢となります。限時間付きのセール期間中は、通常価格より大幅に安く入手できるため、興味がある方はお見逃しなくください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-27"
+        "date": "2026-01-28"
+      },
+      {
+        "title": "[Steam] Earth Must Die (€9,96 / 25% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "地球を守るために、様々な戦闘能力を持ったヒーローたちを召集します。Steam上で提供されている「Earth Must Die」は、25%オフのキャンペーン中です。このアクションパックのゲームでは、プレイヤーは地球を脅かす異星人の軍隊と戦い、地球の存続を守ります。ゲームの特徴には、多様な武器やスキル、そしてさまざまなヒーローが含まれています。プレイヤーは、それぞれのヒーローをマスターし、異星人の軍隊を撃退するために最も効果的な戦略を構築することができます。また、グラフィックも高品質で、ダイナミックな戦闘シーンを提供します。地球を救うために、友達と協力してヒーローたちを操作し、強力な敵を倒しましょう。地球を守るためのこのスリリングな冒険に今すぐ参加してください。Steamでの25%オフキャンペーンを活用して、「Earth Must Die」をプレイし、地球の命運を決定しましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "Paradox セール：Crusader Kings III、Age of Wonders 4 | 蒸気",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで開催中のParadoxセールは、ゲーマーにとって大いに期待されるイベントです。特に、Crusader Kings IIIやAge of Wonders 4のような人気ゲームが登場します。Crusader Kings IIIは、中世のヨーロッパを舞台にしたグランドストラテジーゲームで、プレイヤーは王朝の運命を握り、歴史を形作ります。Age of Wonders 4は、ファンタジー世界で戦略と探索を組み合わせたゲームで、プレイヤーは帝国を築き、魔法と技術を駆使して覇権を争います。 Paradoxセールでは、これらのゲームが大幅に割引されるため、試してみたいゲーマーやコレクターにとっては絶好の機会です。また、シリーズの新規参入者も、魅力的なストーリーや複雑なゲームシステムを体験できます。Steamのセール期間中は、様々なParadoxゲームが特別価格で提供されるため、気になるタイトルをチェックしてみる価値があります。Paradoxセールは、ゲームファンが新たな冒険を開始するきっかけとなるでしょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "[Steam] 邪悪なデザインの部屋 (75% オフ / $2.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "このゲーム「邪悪なデザインの部屋」は、Steamプラットフォームで75%オフの特別セール中です。通常価格より大幅に安くなった2.99ドルで購入でき、格安のゲームを探しているゲーマーにはおすすめのタイトルです。 このゲームでは、恐ろしい部屋を探索し、さまざまな謎を解く必要があります。邪悪なデザインの部屋は、恐怖と興奮を同時に体験できる独自のゲームです。部屋の中には、怖い音や恐ろしい影が潜んでいますが、勇気を出して部屋を探索することで、隠された秘密を発見できます。 このゲームの特徴は、その独特の雰囲気と、プレイヤーを引き込むストーリーです。邪悪なデザインの部屋は、ホラー要素とパズル要素を組み合わせた、ユニークなゲーム体験を提供します。Steamでのセール期間中は、2.99ドルでこのゲームを購入できます。邪悪なデザインの部屋は、ホラーゲームファンやアドベンチャーゲームファンにとって、絶対に試してみるべきゲームです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "[Steam] アノニマス ハッカー シミュレーター ($5.99/70% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでのアノニマス ハッカー シミュレーターは、通常価格より70%オフの5.99ドルで提供されています。このゲームでは、プレイヤーはハッカーの世界に身を投じ、さまざまなコンピューターシステムへのアクセスを試みながら、インターネットの暗部を体験できます。さまざまなツールやスキルを駆使して、セキュリティシステムを破り、機密情報を入手することができます。 このゲームは、ハッキングの実際の感覚をプレイヤーに提供することに重点を置いて設計されており、プレイヤーはさまざまな課題とミッションをクリアしながら、ハッカーとしてのスキルを養っていくことができます。また、グラフィックやサウンドエフェクトも、ハッカーの世界をリアルに表現しています。 アノニマス ハッカー シミュレーターは、ハッキングに興味のあるゲーマーや、サイバーセキュリティの世界に興味を持つ人にとって、非常に魅力的です。Steamでの販売期間中は、70%オフの特別価格で提供されています。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-28"
       },
       {
         "title": "[Steam] バトルシェイパー ($9.99 / 60% オフ)",
@@ -507,54 +542,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-25"
-      },
-      {
-        "title": "GOGニューイヤーセール：ウィッチャー３、FTL、サイバーパンク２０７７など",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGニューイヤーセールが始まりました！このセールでは、人気ゲームのウィッチャー３、FTL、サイバーパンク２０７７などが大幅に割引されています。ウィッチャー３は、壮大なオープンワールドと深いストーリーを楽しめるアクションRPGです。FTLは、宇宙を舞台にした戦略的なゲームで、プレイヤーは艦船を操作して敵を倒していきます。サイバーパンク２０７７は、近未来の世界を描いたRPGで、プレイヤーはキャラクターをカスタマイズしてミッションを遂行します。 これらのゲームは、GOGで販売されており、DRMフリーのゲームを楽しむことができます。セール期間中は、多数のゲームが割引されるので、気になるゲームをチェックしてみてください。ウィッチャー３、FTL、サイバーパンク２０７７などの人気ゲームをはじめ、様々なジャンルのゲームが勢揃いしています。GOGニューイヤーセールは、ゲーマーにとって大きな機会ですので、ぜひチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-01-24"
-      },
-      {
-        "title": "DC フランチャイズ セール：バットマンシリーズなど大割引",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DC フランチャイズ セールでは、バットマンシリーズをはじめとする人気の DC ゲームが大幅に割引されます。このセールでは、ゴッサムシティの暗い街を駆け抜けるバットマンの冒険や、スーパーヒーローたちの活躍を体験することができます。様々な DC ユニバースのゲームが Steam でお届けされ、ファン必見のコンテンツが多数含まれています。バットマンシリーズは、スリル満点のアクションと、キャラクターの深い物語が魅力です。また、グラフィックやサウンドデザインも高品質で、臨場感あふれるゲーム体験を提供します。セール期間中は、Steam でお得な価格でこれらのゲームを購入することができますので、DC ファンやアクションゲーム好きには絶対に逃すことができないチャンスです。是非この機会に、DC フランチャイズの素晴らしいゲームワールドに飛び込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-24"
-      },
-      {
-        "title": "[Steam] エイリアン: ローグ インカージョン VR デラックス (75% オフ / $12.49)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで提供されている「エイリアン: ローグ インカージョン VR デラックス」は、75% オフの特別価格で提供されています。これは、通常価格よりも大幅に安くなり、現在は12.49ドルで購入できます。このゲームは、エイリアンシリーズの恐ろしさとスリルの要素をVR技術で再現しており、プレイヤーは身臨其境の体験を楽しむことができます。 ゲームの内容は、エイリアンの侵略から人類を守るために、プレイヤーが戦いを繰り広げるというストーリーです。VR技術により、エイリアンとの遭遇はよりリアルなものとなり、プレイヤーは恐怖と興奮の MIXED エモーションを体験することができます。また、グラフィックやサウンドも高品質で、臨場感のある演出が特徴です。 このデラックス版には、追加コンテンツや特典が含まれており、より充実したゲーム体験を提供します。特に、エイリアンの脅威に対して、戦略的に戦う必要があるため、戦略的思考と迅速な判断力が求められるゲームです。Steamユーザーのみなさんにとって、最高のエンターテイメントを提供するため、ぜひこの機会にチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
-      },
-      {
-        "title": "[Steam] Flufftopia: Fluffmazing Edition リリース割引 (3.99$/€/20% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Flufftopia: Fluffmazing Editionは、Steamでリリースされた魅力的なゲームです。このゲームは、可愛らしいキャラクターと繊細なグラフィックで構成されており、プレイヤーを夢のような世界に引き込みます。Fluffmazing Editionでは、オリジナル版に加えて、新しいコンテンツや機能が追加されており、より豊富なゲーム体験を提供します。 ゲームの世界は、ふわふわした生物たちが住むFlufftopiaという名の幻想的な土地で、プレイヤーはこの世界を探索し、さまざまなミッションやクエストをこなしていきます。ゲームの特徴的なグラフィックやサウンドトラックは、プレイヤーに癒しの時間を提供し、ストレスを忘れさせます。 現在、Flufftopia: Fluffmazing Editionはリリース割引キャンペーン中で、通常価格の20%オフで3.99ドルまたはユーロで購入できます。この機会に、Flufftopiaの世界を体験してみてください。可愛らしいキャラクターたちと一緒に、夢のような冒険の旅に出ましょう。Flufftopia: Fluffmazing Editionは、ファンタジーと冒険を愛するゲーマーにとって、必見のゲームです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-23"
       }
     ]
   },
@@ -612,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27T12:30:29.640649"
+  "last_updated": "2026-01-28T02:03:38.398072"
 }

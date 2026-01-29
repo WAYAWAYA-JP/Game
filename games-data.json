@@ -5,16 +5,52 @@
         "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "中世の世界を舞台に、ポップカルチャー要素が満載のオープンワールドアクションゲームを体験しましょう。プレイヤーは凶悪犯となり、非常識なクエストを完了したり、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したりすることができます。さらに、吟遊詩人の音楽を聴くこともできます。伝統的なゲームプレイスタイルがすべて詰め込まれており、プレイヤーは中世の世界で自由に冒険することができます。このゲームでは、オープンワールドの自由度を堪能しながら、さまざまなクエストやミッションを完了することができます。中世の世界で繰り広げられるクレイジーなアクションに、ぜひ挑戦してみてください。",
+        "description": "中世の世界を舞台にしたオープンワールドアクションゲームで、ポップカルチャー要素が随所に散りばめられています。プレイヤーは凶悪な犯罪者となり、常識を越えたクエストをこなし、英雄を倒したり、馬を盗んだり、衛兵と戦ったり、農民から物を略奪したりすることができます。さらに、吟遊詩人の楽しい音楽を聴くこともできます。伝統的なゲームプレイスタイルを存分に楽しむことができるでしょう。ゲームの世界を自由に探索し、さまざまなキャラクターと出会い、物語を進めながら、プレイヤーは中世の世界で自由を感じることができます。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-28"
+        "date": "2026-01-29"
       }
     ],
     "bundle": [
+      {
+        "title": "Nacon Racing Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-29"
+      },
+      {
+        "title": "Build Your Own Very Positive Bundle (2026)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-01-29"
+      },
+      {
+        "title": "One month Humble Choice for 8€/9$ (JAN26 code)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-29"
+      },
       {
         "title": "How much gets donated through humble bundle choice subscription?",
         "platform": "Humble Bundle",
@@ -25,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-28"
+        "date": "2026-01-29"
       },
       {
         "title": "Best of Humble Bundle: The Sid Meier Collection",
@@ -37,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-01-28"
+        "date": "2026-01-29"
       },
       {
         "title": "Build Your Own Fight to Survive Bundle",
@@ -158,50 +194,53 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-25"
-      },
-      {
-        "title": "RollerCoaster Tycoon Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "DCフランチャイズセール開始 BATMAN：ARKHAM COLLECTION、レゴバットマントリロジー、ゴッサムナイツ、スーサイドスクワッドなど",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "RollerCoaster Tycoon Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-24"
       }
     ],
     "review": [
       {
+        "title": "【カード魔王: 頭だけになっても！：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "インディーゲーム開発者のYuWave氏は1月29日、ローグライトアクションゲーム『カード魔王: 頭だけになっても！』の体験版向けに大型アップデートを配信しました。このアップデートでは、多くの新要素が追加され、ゲームの楽しさがさらに増しました。ユーザーは、新しいキャラクターやステージを遊びながら、ゲームの世界に没入することができるでしょう。アップデートの詳細については、公式サイトで確認できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/roguelite-20260129-414088/",
+        "date": "2026-01-29",
+        "is_translated": false
+      },
+      {
+        "title": "【仁王3：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『仁王3』は、Team NINJA作品のDNAがどのように注ぎ込まれているのか。大胆なアクションと、深いストーリーが融合したこのゲームは、プレイヤーを新たな世界に引き込む。Team NINJAの他の作品と同様に、戦闘システムは高度に洗練されており、プレイヤーはさまざまな戦術を駆使して敵を倒すことができる。また、ストーリーは日本の歴史と神話を基に構築されており、プレイヤーは豊かな文化に触れることがで",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/nioh-3-20260129-412971/",
+        "date": "2026-01-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Fallout：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このゲームでは、登場人物の声を演じている俳優が、実は『Fallout』シリーズのオリジナル声優です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/the-fallout-series-finally-let-us-meet-a-character-whos-been-part-of-the-lore-for-more-than-25-years/",
+        "date": "2026-01-29",
+        "is_translated": true
+      },
+      {
         "title": "【Highguard：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Highguard』は現在、Steamにて数多くの不評なレビューが投稿されているが、本作のレビューの傾向について興味深い分析も寄せられている。Steamでは、ユーザーたちからのレビューが集積されており、その中には本作に対する厳しい評価も含まれている。その一方で、レビューの傾向を分析することで、本作の魅力や問題点が浮き彫りになる。本作のレビューを読むことで、ゲームの内容やユーザーの反応についてより",
+        "description": "『Highguard』は現在、Steamにおいて多くのユーザーから不評を抱かれるレビューが投稿されている。しかし、本作のレビューの傾向について、興味深い分析も寄せられている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +253,7 @@
         "title": "【零 ～紅い蝶～ REMAKE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "コーエーテクモゲームスは1月28日、『零 ～紅い蝶～ REMAKE』の無料体験版が3月5日に配信されることを発表しました。また、『SILENT HILL f』との相互コラボレーションも告知されています。このコラボレーションは、ファンを大いにワクワクさせます。両作品の魅力を存分に味わえる内容になることが予想され、無料体験版の配信に注目が集まっています。",
+        "description": "コーエーテクモゲームスは1月28日、『零 ～紅い蝶～ REMAKE』の無料体験版が3月5日に配信されることを発表しました。このゲームでは、人気ホラー作品『SILENT HILL f』との相互コラボレーションも予定されています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,15 +263,93 @@
         "is_translated": false
       },
       {
-        "title": "【Baldur's Gate 3：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【Dispatch：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "それはアスタリオンが生意気であることがたくさんあります。",
+        "description": "傑作「The Wolf Among Us」と「Tales from the Borderlands」のクリエイターたちが設立したAdHoc Studioの新作が昨年10月にローンチされ、今年初めにはすでに300万ダウンロードを記録しています。このスタジオのデビュー作は、人気シリーズのファンから大きな注目を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-mod-restores-more-than-100-conversations-and-1-000-lines-of-voiced-dialogue-from-the-early-access-version-previously-lost-in-the-ethereal-plane/",
+        "url": "https://doope.jp/2026/01163679.html",
+        "date": "2026-01-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Monster Train 2：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ローグライクなデッキ構築ゲーム「Monster Train」のナンバリング続編として、今年5月に発売され、高い評価を獲得した「Monster Train 2」ですが、新たにShiny Shoeが本作の初のDLCを発表しました。Monster Train 2は、プレイヤーが独自のデッキを構築し、さまざまな敵と戦いながら、列車を守りながら進める、ローグライクなゲームです。発売後、高い評価を獲得し、ファ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163619.html",
+        "date": "2026-01-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Deadlock：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "多いほど少ない場合もあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/after-playing-deadlocks-new-oops-all-teamfights-mode-highguards-kitchen-sink-ruleset-feels-overwrought/",
+        "date": "2026-01-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Linux：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "コミュニティがまとまりのあるプロセスを持っていないと、必ず気まずい状況でカルビンボールをプレイすることになってしまうでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/the-linux-kernel-now-has-a-succession-plan-for-when-linus-torvalds-checks-out-which-emerged-after-an-apparently-uplifting-discussion-about-our-eventual-march-toward-death/",
+        "date": "2026-01-28",
+        "is_translated": true
+      },
+      {
+        "title": "【コードヴェイン：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "コードヴェイン 2 のキャラクターは、少し暗すぎて、プレイヤーの楽しみを奪う可能性があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/code-vein-2-review/",
+        "date": "2026-01-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Dune: Awakening：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『Dune: Awakening』は発売以来、エンドゲームのタッチに苦戦してきましたが、MMOの次の大きなアップデートである第3章では、大幅な刷新を約束しています。このアップデートでは、プレイヤーが楽しめる新しい要素が多数追加され、ゲームの深みや楽しさがさらに増すことが予想されます。第3章では、新しいコンテンツやゲームモードが追加され、プレイヤーが新たな体験をすることができるようになります。開発チ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/dune-awakening-hopes-to-spruce-up-its-endgame-in-its-next-major-update-coming-next-week",
+        "date": "2026-01-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Ghost Keeper：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "私は、グールや幽霊、悪魔、その他の超常現象や超自然的な野獣から身を守ったり、倒したりするゲームをプレイするのが好きですが、自分が自分自身であるゲームはどうでしょうか。自分自身が主人公で、自分自身の世界で冒険するという新しい体験は、ゲームをよりリアルで楽しいものにするでしょう。自分自身の能力やスキルを活用して、自分自身のストーリーを展開することができるゲームは、プレイヤーに新しい楽しみ方を提供するで",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/scare-off-legally-distinct-victorian-ghostbusters-with-your-legion-of-spirits-in-ghost-keeper-out-in-early-access-now",
         "date": "2026-01-28",
         "is_translated": true
       },
@@ -240,7 +357,7 @@
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Larian の CEO である Swen Vincke は、最近 Divinity 生成 AI 論争の最前線から出てきましたが、彼はビデオゲームの批評家やレビュアーについて、かなり辛辣な考えを持っています。彼は Twitter に投稿し、ゲーム批評家やレビュアーの役割について独自の見解を示しています。ゲームの評価やレビューのあり方について、Swen は新しい視点を提供し、ゲーム業界への影響につい",
+        "description": "Larian の CEO である Swen Vincke は、最近、Divinity 生成 AI 論争の最前線から出てきました。彼は、ビデオ ゲームの批評家やレビュアーについて、思うところがあり、それを Twitter に投稿しました。Swen は、批評家やレビュアーがゲームに対して厳しすぎると感じているようです。彼のツイートでは、ゲームの評価基準やレビューの方法について、批判的な意見を述べていま",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,95 +367,79 @@
         "is_translated": true
       },
       {
-        "title": "【Absolum：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年10月に発売され、高い評価を受けて初週に20万本の販売を突破したベルトスクロールアクション「Absolum」は、DotemuとGuard Crush Games、Supamonksの完全新作です。このタイトルは、新たなDoteの情報が公開されました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163656.html",
-        "date": "2026-01-27",
-        "is_translated": false
-      },
-      {
-        "title": "ハイガードスタジオは、ディスリスペクト博士がプレスプレビューに参加したという話を否定し、アクセスバッジの写真は偽物だったと主張しました。これにより、インターネットは大いに混乱しました。理由は、ディスリスペクト博士は過去も現在もハイガードのイベントに招待されていないということです。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "これには一体何の意味があるのでしょうか？いったいなぜ彼はそんなことをしたのでしょうか？誰に好印象を与えようとしているのでしょうか？彼は何が起こると思いましたか？親愛なる読者の皆様、正直に言いますと、私には全く分かりません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/internet-confused-as-highguard-studio-says-dr-disrespect-lied-about-attending-a-press-preview-and-his-photo-of-an-access-badge-was-fake-ddr-was-not-invited-to-any-highguard-event-past-or-present/",
-        "date": "2026-01-27",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイガード：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "レビュー爆撃は誰の役にも立ちません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/highguard-deserves-a-chance-so-dont-kill-it-out-of-spite/",
-        "date": "2026-01-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Highguard：レビュー】",
+        "title": "このスーパーヒーローゲームは、映画やテレビから多大なインスピレーションを得ています。映画やテレビのようなダイナミックなアクションシーンや、スーパーヒーローが活躍するストーリーは、プレイヤーを魅了します。このゲームでは、プレイヤーはスーパーヒーローとなり、様々なミッションをこなしていきます。映画やテレビで見られるようなスーパーヒーローのような体験ができるので、スーパーヒーローのファンにはたまらないゲームです。",
         "platform": "Polygon",
         "type": "review",
-        "description": "Highguard は 2025 ゲーム アワードで注目を集め、その魅力的な世界観と独自のゲームプレイスタイルで、世界中のゲーマーの間で大きな話題となっています。発売以来、口コミで評判が広がり、多くの人々がこのゲームの素晴らしさを体験しています。Highguard は、プレイヤーに新しい体験を提供することで、ゲーム業界に新たな風を吹き込んでいます。",
+        "description": "AdHoc の選択主導のヒーロー ゲームである Dispatch は、ストーリーと演出に適切な教訓を適用し、他のゲームが従うべき高い水準を設定しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/highguard-launch-rocky-start/",
-        "date": "2026-01-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Baldur's Gate 3：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Baldur's Gate 3 は早期アクセスから完全リリースに移行する際に、Larian による大幅な調整と変更が行われました。このプロセスでは、開発チームが巨大な RPG を完成させるにつれて、さまざまな部分が調整され、計画が変更されることがあります。当然のことながら、この変更は一部の計画が反映されないことを意味します。開発チームは、ゲームのバランスやプレイヤーの体験を向上させるために、さまざ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-ton-of-cut-baldurs-gate-3-early-access-encounters-including-over-100-chats-have-been-resurrected-by-a-modder",
-        "date": "2026-01-26",
+        "url": "https://www.polygon.com/dispatch-game-review-adhoc/",
+        "date": "2026-01-28",
         "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "エルダースクロールズシリーズ スチームセール",
+        "title": "EAセール：Jedi Survivorなど大幅割引",
         "platform": "Steam",
         "type": "sale",
-        "description": "エルダースクロールズシリーズのSteamセールは、ファンタジーと冒険を愛するゲーマーにとって夢のようなチャンスです。このシリーズは、広大なオープンワールド、豊富なストーリー、そして自由度の高いゲームプレイで知られています。タイトルから推測できる通り、エルダースクロールズシリーズはベセスダ・ソフトワークスの代表的なシリーズであり、モロウインド、オブリビオン、スカイリム、オンラインなど、様々な作品が含まれています。 このセールでは、シリーズのさまざまなタイトルやDLCが割引されるため、既存のファンはコレクションを充実させることができ、新規のプレイヤーはシリーズの世界に初めて足を踏み入れる機会を得ることができます。エルダースクロールズシリーズのゲームでは、プレイヤーは自分だけのキャラクターを創造し、独自のストーリーを進め、魔法、剣術、ステルスなどのさまざまなスキルをマスターすることができます。 セール中のゲームには、グラフィックやゲームプレイの強化を含む、さまざまなアップデートや拡張パックが含まれている場合もあります。エルダースクロールズシリーズは、深いストーリー、豊かな世界観、そして無限の冒険の可能性で知られており、Steamセール期間中は、これらのタイトルを手に入れる絶好の機会です。",
+        "description": "Steamでは、EAセールが開催中です。スターウォーズシリーズの最新作「Jedi Survivor」など、人気ゲームが大幅に割引されています。このセールでは、EAのさまざまなゲームタイトルが特別価格で提供され、ゲーマーにとっては絶好の機会です。アクションアドベンチャーゲームからスポーツゲームまで、様々なジャンルのゲームが割引されており、自分の好きなゲームを見つけることができます。また、Steamのセール期間中は、他のゲームも割引されることが多いので、他のゲームもチェックすることをお勧めします。セールは期間限定なので、 놓치ないようにご注意ください。SteamのEAセールをチェックして、好きなゲームを手に入れてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-28"
+        "date": "2026-01-29"
+      },
+      {
+        "title": "[Steam] Vagrus-The Riven Realms (16,49 € / 45% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Vagrus-The Riven Realmsは、Steamで45%オフの16.49ユーロで購入できる、ファンタジーな世界を舞台にしたロールプレイングゲームです。このゲームは、プレイヤーに広大な世界を冒険し、さまざまなキャラクターと出会い、戦略的な戦闘を楽しむ機会を提供します。壮大なストーリーと深いキャラクター設定により、プレイヤーはゲームの世界に没頭し、さまざまな挑戦に立ち向かいます。さらに、ゲームのグラフィックとサウンドトラックは、プレイヤーに高品質なゲーム体験を提供します。Vagrus-The Riven Realmsは、ロールプレイングゲームファンには必見の作品です。ゲームの魅力的な世界と様々なゲームプレイ機会により、プレイヤーは長時間にわたって楽しむことができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-29"
+      },
+      {
+        "title": "エルダースクロールズシリーズ スチームセール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "エルダースクロールズシリーズの Steam セールでは、ファンタジー世界を舞台にしたオープンワールドの冒険が待っています。シリーズを通して、さまざまな時代や地域を舞台に、独自のストーリーやキャラクターを体験できます。モロウウィンド、シロディール、ハンマーフェル、スカイリムなど、各地域の文化や伝説を探索し、壮大な物語に没頭できます。 エンギニアスなゲームシステムを活かして、自由にキャラクターをカスタマイズし、戦闘、魔法、盗賊のスキルをマスターしてください。シリーズの各タイトルは、グラフィックやサウンドトラックの質にこだわり、臨場感あふれるゲーム体験を提供します。Steam セールでは、シリーズの各タイトルやダウンロードコンテンツが割引価格で提供されますので、エルダースクロールズシリーズの世界に飛び込んで、忘れられない冒険を体験してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-29"
+      },
+      {
+        "title": "[Steam] ドロクタウン ($13.49 / 10% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで今話題のドロクタウンが10%オフとなり、通常価格より安価にプレイすることができます。ドロクタウンは、ユニークな世界観とキャラクターで知られており、プレイヤーはこの町で様々なキャラクターと出会い、交流を深めることができます。タウンでは様々なイベントやミニゲームもあり、プレイヤーは町の住民とともに楽しく過ごすことができます。 このゲームでは、プレイヤーは自由に町を探索し、各キャラクターのストーリーを追跡することができます。キャラクターたちはそれぞれ独自の性格と背景を持っており、プレイヤーは彼らの生活に影響を与えることができます。ゲームのグラフィックは可愛らしく、色彩豊かで、雰囲気のあるサウンドトラックもゲームの世界に没入することを助けます。 ドロクタウンは、リラックスしてプレイできるゲームであり、ストレスを軽減するのに役立ちます。町の住民との繋がりを深め、町をより良くするために努力すると、プレイヤーは満足感を得ることができます。此度のセールは、ドロクタウンを体験してみる良い機会です。Steamで今すぐ購入して、ドロクタウンでの新しい生活を始めてみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-29"
       },
       {
         "title": "[Steam] Sniper Elite 5: Complete Edition ($16.56/83% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Sniper Elite 5: Complete Editionは、第二次世界大戦を舞台にしたタクティカル・スナイパーシミュレーション・ゲームです。このゲームでは、プレイヤーは熟練したスナイパーとなり、戦場を支配するために戦略的な射撃と隠密行動を組み合わせます。Complete Editionには、すべてのDLCが含まれており、さらに多くのミッション、武器、ゲームモードが楽しめます。スナイパー・エリートシリーズのファンとしては、もちろん新しいエピソードを体験したいと思います。さらに、このセールでは83%の割引により、16.56ドルで購入できます。スナイパー・エリートシリーズのファンはもちろん、新規に参入しようとするゲーマーにもお勧めです。戦略的なスナイパー・アクションを体験してみてください。",
+        "description": "Steamプラットフォームでは、スナイパーエリートシリーズの最新作『Sniper Elite 5: Complete Edition』が83%オフの特価で提供されています。通常よりも大幅に安い16.56ドルで購入できます。このゲームは、スナイパーとしての実力を存分に発揮できる、タクティカルな射撃アクションを特徴としています。第二次世界大戦を舞台に、精密なスナイパー射撃と戦略的な戦闘を体験できます。 『Sniper Elite 5: Complete Edition』では、シングルプレイヤーおよびマルチプレイヤーモードを楽しむことができ、様々なミッションやチャレンジを解決するための武器やアイテムが豊富に用意されています。グラフィックやサウンドも高品質で、臨場感あふれるゲーム体験を提供します。さらに、コンプリートエディションとして、基本ゲームに加えて、追加ダウンロードコンテンツや特典アイテムなどが含まれています。 この特価は、ゲームファンにとって大きな機会です。スナイパーエリートシリーズのファンであればもちろん、新規参入者にとっても魅力的なオファーです。興味のある方は、Steamストアを訪れて『Sniper Elite 5: Complete Edition』の購入を検討してみてください。限時での提供になるため、好きなゲームを格安で手に入れる機会を逃さないようにしましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-28"
+        "date": "2026-01-29"
       },
       {
         "title": "[Steam] Earth Must Die (€9,96 / 25% オフ)",
@@ -519,42 +620,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-26"
-      },
-      {
-        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、ヒーローズオブマイトアンドマジック3など",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGのニューイヤーセールが始まりました。今年のセールでは、人気ゲームの「ウィッチャー3」、「FTL」、「ヒーローズオブマイトアンドマジック3」などが大幅に値下げされています。「ウィッチャー3」は、壮大なストーリーと深いキャラクター造りで知られるアクションRPGです。「FTL」は、宇宙を舞台にしたストラテジーゲームで、プレイヤーは宇宙船を操り、敵の攻撃から逃げながら目的地を目指します。「ヒーローズオブマイトアンドマジック3」は、ターン制の戦略ゲームで、ファンタジーの世界を舞台に様々なユニットを率いて戦いを繰り広げます。このセールでは、他にも多数のゲームが特価で提供されています。ゲームファンにはお見逃しなくてはいけないイベントです。セール期間中、GOGでは様々なゲームが大幅に値下げされるので、気になるゲームをチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "DC フランチャイズ セール：バットマン ゲーム集",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DC フランチャイズ セールでは、バットマンをはじめとする人気キャラクターが登場する様々なゲームが勢ぞろいです。ゴッサムシティの暗躍する悪と戦うバットマン、またはスーパーヒーローのチームを率いて世界を救うミッションに挑む、あなたの冒険の時間がここにです。 さまざまなジャンルのゲームの中から、自分に適したバットマンのゲームを見つけてください。アクションアドベンチャーゲームでバットマンのスキルを存分に発揮したり、オープンワールドのゴッサムシティを自由に駆け回すことができます。様々なゲームスタイルで楽しむことができるので、どのゲームを選んでもバットマンファンなら楽しむことができます。 DC フランチャイズ セールは、バットマンシリーズのファン必見のセールです。新しいゲームを発見するための絶好の機会です。セール期間中は様々なゲームが特価になるので、気になるタイトルが安くなっているかどうかチェックしてみてください。_DC フランチャイズ セールでバットマン ゲームの世界に飛び込み、スーパーヒーローとしてのあなたの冒険を始めてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、ヒーローズオブマイトアンドマジックなど",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGニューイヤーセールは、今年の初めをとって素晴らしいゲーム体験を提供します。このセールでは、世界的に有名なタイトルから、インディーゲームまで、多種多様なゲームが割引されています。特に注目されるのは、暗いファンタジーの世界を舞台にした「ウィッチャー3」です。このゲームは、豊かなストーリーと高度なゲームプレイで、プレイヤーを魅了します。 また、戦略とアクションを組み合わせた「FTL」や、戦術性の高い「ヒーローズオブマイトアンドマジック」も登場します。これらのゲームは、それぞれ独自の魅力と挑戦を持ち、ゲーマーを楽しませます。GOGニューイヤーセールでは、これらのタイトルを含む数多くのゲームが特別価格で提供されます。ゲーマーは、この機会に新しいゲーム体験を試したり、気になっていたタイトルを手に入れたりすることができます。セール期間中、GOGの豊富なゲームライブラリを探索し、楽しい時間を過ごしてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-01-25"
       }
     ]
   },
@@ -612,5 +677,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-28T12:31:01.292431"
+  "last_updated": "2026-01-29T02:25:42.809877"
 }

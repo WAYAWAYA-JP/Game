@@ -2,19 +2,55 @@
   "pc": {
     "free": [
       {
-        "title": "Rustler - Grand Theft Horse - Epic Games 無料配布中",
+        "title": "Definitely Not Fried Chicken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "中世を舞台にしたオープンワールドアクションゲームで、ポップカルチャー要素が満載のクレイジーな世界に飛び込みましょう。非常識なクエストをこなしたり、英雄を討ち取り、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだりすることができます。このゲームは、昔ながらのゲームプレイスタイルをすべて網羅しており、プレイヤーが自由に冒険することができます。ゲーム内では、さまざまなキャラクターが出現し、ユニークな能力やストーリーを体験することができます。中世の雰囲気を味わいながら、自由に冒険することができるこのゲームは、オープンワールドアクションゲームのファンに必見です。",
+        "description": "Definitely Not Fried Chickenは、独特のひねりを加えた経営シミュレーションゲームです。このゲームでは、表向きのビジネスと裏の麻薬取引の両方を上手く管理しながら、利益を増やすことが目標です。新しい顧客を獲得し、新しい商品を開発し、更に強力な麻薬を作り出し、最終的には大金を稼いで廃墟の都市を支配することが目標です。プレイヤーは、合法的なビジネスを運営しながら、裏では非合法な取引を進めていく必要があります。このゲームは、ユーモアと黒いジョークを交えながら、麻薬取引の世界を描写しています。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-01-29"
+        "date": "2026-01-30"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Bedlam Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "One month Humble Choice for 8€/9$ (JAN26 code)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "How much gets donated through humble bundle choice subscription?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-01-30"
+      },
       {
         "title": "GTGD Bundle、Choo Choo Survivorシリーズなどがセール中",
         "platform": "Steam",
@@ -49,30 +85,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "One month Humble Choice for 8€/9$ (JAN26 code)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "How much gets donated through humble bundle choice subscription?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-01-29"
       },
       {
@@ -182,26 +194,27 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-26"
-      },
-      {
-        "title": "DC フランチャイズ セール：バットマン アーカム コレクション、レゴ バットマン トリロジー、ゴッサム ナイツ 他",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-25"
       }
     ],
     "review": [
       {
+        "title": "【龍が如く 極３：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "セガ／龍が如くスタジオは1月30日、『龍が如く 極３』および『龍が如く３外伝 Dark Ties』の無料体験版に関するユーザーの反応について声明を発表しました。この声明では、無料体験版に寄せられたユーザーのフィードバックについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260130-414454/",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
         "title": "【ShapeHero Factory：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "アソビズムは1月29日、『ShapeHero Factory』向けに大型アップデート第3弾を配信しました。このアップデートでは、新しいモードや機能などが多数実装されています。ユーザーには、より多彩で楽しいゲーム体験が提供されることになります。アップデートには、さまざまな新要素が盛り込まれており、ユーザーが新たな楽しみを見つけることができるでしょう。",
+        "description": "アソビズムは1月29日、『ShapeHero Factory』向けに大型アップデート第3弾を配信した。同アップデートでは、新しいモードや機能などが実装されており、プレイヤーが新たな楽しみ方を体験できる。アップデートにより、新しい挑戦や楽しみが追加され、ゲームの奥深さがさらに増している。新しいモードでは、プレイヤーは新たなステージや難易度に挑戦でき、新しい機能を活用してゲームをより楽しむことができる",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +227,7 @@
         "title": "【モンスターハンターワイルズ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『モンスターハンターワイルズ』は、Steamユーザーから高く評価されており、多数の好評が集まっています。",
+        "description": "『モンスターハンターワイルズ』はSteamユーザーの間で高い評価を集めており、多くのユーザーから好評価を得ている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +240,7 @@
         "title": "【カード魔王: 頭だけになっても！：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "インディーゲーム開発者のYuWave氏は1月29日、ローグライトアクションゲーム『カード魔王: 頭だけになっても！』の体験版向けに大型アップデートを配信しました。このアップデートにより、ゲームの内容が大幅に拡充され、プレイヤーは新たなキャラクターやステージを楽しむことができます。『カード魔王: 頭だけになっても！』は、さまざまなカードを組み合わせて強力な魔法を発動するローグライトアクションゲームで",
+        "description": "インディーゲーム開発者のYuWave氏は1月29日、ローグライトアクションゲーム『カード魔王: 頭だけになっても！』の体験版向けに大型アップデートを配信しました。このゲームでは、プレイヤーはカードを活用して戦闘に挑み、様々な能力やアイテムを身につけて強化することができます。アップデートにより、新しいカードやステージが追加され、ゲームの内容がさらに豊かになりました。体験版をプレイして、この魅力的なロ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,114 +250,49 @@
         "is_translated": false
       },
       {
-        "title": "【仁王3：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『仁王3』には、Team NINJA作品のDNAがどのように注ぎ込まれているのか、気になる所です。過去のTeam NINJA作品が持っていた独自の戦闘スタイルやゲームシステムは、どのように『仁王3』に受け継がれているのでしょうか。『仁王3』は、Team NINJAのゲームデザイン哲学をどのように反映しているのでしょうか。『仁王3』のゲームプレイは、Team NINJA作品ファンが期待するような、ス",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/nioh-3-20260129-412971/",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【Fallout：レビュー】",
+        "title": "【ケアン：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "これらのキャラクターを演じている俳優たちは、実はファロアウトシリーズのオリジナル声優です。",
+        "description": "Death Stranding や Baby Steps のようなナビゲーション パズルゲームからインスピレーションを得たこのゲームは、プレイヤーに新しい体験を提供します。怒りを感じさせないように設計されたナビゲーションと、親しみやすくもやもやしないクライミングのシステムが特徴です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/the-fallout-series-finally-let-us-meet-a-character-whos-been-part-of-the-lore-for-more-than-25-years/",
+        "url": "https://www.pcgamer.com/games/action/cairn-review/",
         "date": "2026-01-29",
         "is_translated": true
       },
       {
-        "title": "【Highguard：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【Crimson Desert：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Highguard』は現在、Steamでは不評を抱えるレビューが数多く投稿されているが、本作のレビューの傾向について興味深い分析も寄せられている。Steamユーザーからはさまざまな意見が上がっており、ゲームの評価は賛否両論となっている。興味深いのは、ユーザーのレビューが単にゲームの質を評価するものではなく、ゲームの特徴や要素についての深い分析も含まれていることである。これにより、ゲームに対するユ",
+        "description": "『Crimson Desert』を初めてプレイしたとき、ゲームが何を目指しているのかを理解するのに苦労しました。スパイダーマンやウィッチャー、真・三國無双、ドラゴンズドグマ、ジェダイアカデミーなどの要素が混在しており、正直どのようなゲームなのかわかりませんでした。しかし、ゲームを進めることで、様々なジャンルの要素が独自に融合された、ユニークなゲーム世界が広がっていることがわかりました。『Crims",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/highguard-20260128-412875/",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Dispatch：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "傑作「The Wolf Among Us」と「Tales from the Borderlands」のクリエイターたちが設立したAdHoc Studioの新作が、昨年10月にローンチされました。この新作は、今年初めにはすでに300万人のプレイヤーから支持を得ています。AdHoc Studioのチームは、ストーリーテリングとキャラクター開発の分野で高い評価を受けてきました。そのため、この新作も、魅力",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163679.html",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Monster Train 2：Destiny of the Railforged：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ローグライクなデッキ構築ゲーム「Monster Train」のナンバリング続編として、今年5月にリリースされ、高い評価を獲得した「Monster Train 2」が登場しました。新たにShiny Shoeが本作初のDLCを発表し、ファンを大いに喜ばせています。この新しいDLCでは、さらなる挑戦と楽しみが用意されています。新しいモンスターとカードが追加され、プレイヤーの戦略と戦術を大いに変えることに",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163619.html",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Deadlock：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "多いほど少ない場合もあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/after-playing-deadlocks-new-oops-all-teamfights-mode-highguards-kitchen-sink-ruleset-feels-overwrought/",
-        "date": "2026-01-28",
+        "url": "https://www.rockpapershotgun.com/whopping-new-crimson-desert-video-sharpens-suspicion-that-its-a-really-shonky-zelda-tears-of-the-kingdom",
+        "date": "2026-01-29",
         "is_translated": true
       },
       {
-        "title": "【Linux：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【Huntdown: Overtime：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "コミュニティが合意されたプロセスを確立していない場合、不快な状況に陥り、カルビンボールをプレイすることになってしまうでしょう。",
+        "description": "サイバネティックな殺人装置を破壊すると、1980年代のような太い髪の毛が流行っていた時代の、アーノルド・シュワルツェネッガーが映画で使っていたようなショットガンが出現します。このゲーム「ハントダウン: 延長戦」では、プレイヤーが様々な武器を駆使して、サイバネティックな敵と戦うことができます。ゲームの世界は暗く激しいものですが、プレイヤーが戦闘を進めるにつれて、より強力な武器が出現し、戦闘がより激し",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/the-linux-kernel-now-has-a-succession-plan-for-when-linus-torvalds-checks-out-which-emerged-after-an-apparently-uplifting-discussion-about-our-eventual-march-toward-death/",
-        "date": "2026-01-28",
-        "is_translated": true
-      },
-      {
-        "title": "【コードヴェイン：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "コードヴェイン 2 のキャラクターは、プレイヤーが期待する楽しみを奪う可能性があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/code-vein-2-review/",
-        "date": "2026-01-28",
+        "url": "https://www.rockpapershotgun.com/vhs-veiled-huntdown-overtime-a-retro-gangland-roguelite-run-and-gunner-arrives-in-early-access-this-year",
+        "date": "2026-01-29",
         "is_translated": true
       },
       {
         "title": "【Dune: Awakening：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Dune: Awakening』は発売以来、エンドゲームの面で苦戦を強いられてきましたが、MMOの大きなアップデートとなる第3章では、新たな楽しみ方を提供する約束で盛り上がりを誘っています。このアップデートにより、プレイヤーは新しい体験をすることができ、ゲームの魅力がさらに高まっています。第3章では、エンドゲームの内容が刷新され、プレイヤーはより多様な選択肢や挑戦に直面することになります。開発チ",
+        "description": "『Dune: Awakening』は発売以来、エンドゲームの部分で苦戦してきましたが、次の大型アップデートである第3章では、プレイヤーにとって満足できる刷新を約束しています。第3章では、新しいコンテンツやゲームプレイの改善などが予想され、プレイヤーがより楽しく遊ぶことができるようになるでしょう。開発チームは、プレイヤーのフィードバックを取り入れ、ゲームのバランスや難易度を調整するなど、様々な改善を",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -357,7 +305,7 @@
         "title": "【Ghost Keeper：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私は、グールや幽霊、悪魔、その他の超常現象や超自然的な野獣から身を守ったり、倒したりするゲームをプレイするのが好きですが、自分が自分自身であるゲームはどうでしょうか。自分自身と戦うという新しい体験は、興味深いものになるでしょう。自分自身との戦いでは、自分の弱点や強みを探り、自分自身を克服するために戦う必要があります。自分自身の能力や性格を知り、自分自身との戦いで勝つために戦略を立てる必要があります",
+        "description": "私は、グールや幽霊、悪魔、その他の超常現象や超自然的な野獣から身を守ったり、倒したりするゲームをプレイするのが好きですが、自分が自分自身であるゲームはどうでしょうか。自分自身と戦うという、ちょっと不思議なコンセプトに私は強く惹かれます。自分自身の恐ろしさを体験することで、より深い恐怖感を味わえるのではないでしょうか。自分自身が敵という、不思議な体験をしてみませんか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -370,7 +318,7 @@
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Larian の CEO、Swen Vincke は、最近、Divinity をめぐる AI 論争の最前線から登場しました。彼は、ビデオ ゲームの批評家やレビュアーについて、思うところがあるようです。Swen は Twitter に投稿し、ゲーム評価のあり方について、辛辣な意見を述べました。ゲームの評価は、単に感想を述べるだけでなく、より深い分析が必要だと考えるようです。ゲームの質を高めるためには",
+        "description": "Larian の CEO、Swen Vincke は、最近、Divinity 生成 AI 論争の最前線から出てきました。彼は、ビデオゲームの批評家やレビュアーについて、面白い考えをツイッターで公開しています。具体的には、彼は、ゲームの評価が、ゲームのクオリティーや面白さだけでなく、ゲームの売上やマーケティングに影響されることがあると指摘しています。Vincke 氏は、ゲームの批評家やレビュアーが、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -378,33 +326,68 @@
         "url": "https://www.rockpapershotgun.com/baldurs-gate-3-studio-boss-calls-out-hurtful-personal-videogame-reviewers-sometimes-i-think-itd-be-a-good-idea-for-critics-to-be-scored-metacritic-style",
         "date": "2026-01-28",
         "is_translated": true
-      },
-      {
-        "title": "【ディスパッチ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "AdHoc の選択主導のヒーローゲームである Dispatch は、ストーリーと演出に適切な教訓を適用し、他のゲームが目指すべき高い基準を設定しています。選んだ選択肢によって、ゲームの進行が大きく変化するため、プレイヤーは自らの選択に責任を持って、ストーリーを進めていく必要があります。このような、プレイヤーの選択が物語に大きな影響を与えるゲームシステムは、他のゲームでも採用されるべきと考えられます",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/dispatch-game-review-adhoc/",
-        "date": "2026-01-28",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Steam] ウィキッドに休息なし (€23,99 / 40% オフ)",
+        "title": "[Steam] デイリーセール: Darkest Dungeon ($1.99 / -92%) |オファーは 2 月 12 日に終了します。",
         "platform": "Steam",
         "type": "sale",
-        "description": "ウィキッドに休息なしは、プレイヤーを戦略とアクションの世界に引き込む、スリリングなゲーム体験を提供します。40% オフのこの魅力的なセールでは、通常価格の€23.99から、大幅に安価な価格でこのゲームを入手できます。 このゲームでは、プレイヤーは休む暇もない激しい戦闘に挑みながら、様々な能力を駆使して敵を撃破します。ウィキッドに休息なしの世界は、ダークファンタジー要素とアクションパックの要素が混在し、プレイヤーを新しい挑戦へと引き寄せます。 ストーリーは複雑で深みがあり、プレイヤーがゲーム世界の秘密を解き明かすためのクエストに参加することを促します。多様なキャラクターとアイテムが用意されており、プレイヤーは自分の好みに合った戦闘スタイルを自由に選択できます。 このセールでは、ウィキッドに休息なしの世界に飛び込んで、スリリングなアドベンチャーを体験する機会が訪れました。安価な価格で入手できるこのゲームは、Steamプラットフォーム上でのアクションと戦略のファンに必見のタイトルです。",
+        "description": "Steamでは今、注目されるセールが行われています。ダンジョンを探索するローグライクゲーム『Darkest Dungeon』が、通常価格より92%オフの1.99ドルで提供されています。この魅力的なゲームでは、プレイヤーはダンジョンを探索し、モンスターと戦い、財宝を集めるためにチームを率いています。ダンジョンの奥深くには強大なボスが待っていますが、プレイヤーの勇気と戦略が試されます。さらに、キャラクターの精神状態やストレスにも注意を払う必要があり、よりリアルなゲーム体験を提供しています。ただし、このオファーは2月12日までの期間限定なので、早速チェックしてみることをお勧めします。Steamユーザーには、絶対に外せないチャンスです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
+        "date": "2026-01-30"
+      },
+      {
+        "title": "[Steam] Nocturnal (90% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SteamでのNocturnalセールは90%オフという破格の価格で提供されています。このゲームは、不気味で心を掻き立てる雰囲気を体験できる、ホラー要素の強いアドベンチャーゲームです。プレイヤーは、闇に包まれた世界を進みながら、恐ろしい出来事に直面し、生存を賭けて戦います。緊張感漂うサウンドトラックや、身の毛がよだつようなグラフィックが、プレイヤーを不安にさせ、絶体絶命の状況に追い込むでしょう。 ゲーム内の世界は、不気味な影と暗い謎に満ちています。プレイヤーは、謎を解き明かし、恐ろしい真実に立ち向かう必要があります。キャラクターの運命は、プレイヤーの選択によって決まります。様々な選択肢が用意されており、プレイヤーは、恐怖と戦いながらも、ゲームの世界に没入することができます。 このセールは、ホラーが好きなゲーマーには絶好の機会です。Nocturnalは、恐怖を体験したいという願いを持つ人向けの、最高のアドベンチャーゲームです。90%オフという破格の価格で提供されているので、ぜひ一度体験してみてください。心を震わせる恐怖と、不気味な雰囲気を体験できること間違いなしです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "[Steam] ウィキッドに休息なし (€23,99 / 40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ウィキッドに休息なしは、非-stopのアクションが特徴的な、アドベンチャーゲームです。このゲームでは、プレイヤーは、休息することなく、様々なステージをクリアしていく必要があります。さまざまな敵を倒し、障害物を避けながら、次々と現れる課題に挑戦します。高速なゲームプレイと、スピーディな操作が求められるこのゲームは、アクションゲームファンにはたまらないでしょう。 このゲームの特徴的な点は、常に変化するステージ構成と、ランダムなイベントの発生です。プレイヤーは、瞬時の判断と、迅速な反応能力を必要とします。さらに、様々なアップグレードと、パワーアップアイテムを入手することで、プレイヤーの能力を強化できます。 ウィキッドに休息なしは、単調なゲームプレイを嫌う人向けの、刺激的な体験を提供します。高速なアクションと、スリル満点のゲームプレイが味わえるこのゲームは、Steamで40%オフの特別価格で提供中です。アドベンチャーゲームファンや、アクションゲーム好きには、必見のタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "カプコン ファイア セール: バイオハザード ヴィレッジ、モンスターハンター ストーリーズ 2 | 蒸気",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "カプコン ファイア セールは、熱いゲームファンを待っています。Steam で開催されるこのセールでは、バイオハザード ヴィレッジやモンスターハンター ストーリーズ 2 などの人気タイトルが特価で提供されます。バイオハザード ヴィレッジでは、恐怖とスリルの MIX されたストーリーを体験できます。モンスターハンター ストーリーズ 2 では、友情と冒険の物語を楽しむことができます。このセールは、カプコンの名作ゲームをプレイしたい方必見のイベントです。Steam でカプコン ファイア セールをチェックして、夢中になるゲーム体験をお楽しみください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "[ALLYOUPLAY] ケアン (€26.95 -10% オフ / £22.4 -10% オフ / $26.95 / -10% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ケアンは、Steamプラットフォームで提供されているアクションアドベンチャーゲームです。このゲームは、ユニークな世界観と壮大な戦闘システムを提供し、プレイヤーが新しい体験を楽しむことができます。ケアンの世界では、プレイヤーはさまざまなステージをクリアしながら、強力な敵と戦う必要があります。ゲームの特徴的なグラフィックとサウンドトラックは、プレイヤーを引き付けて、より深いゲーム体験を提供します。 現在、ケアンは10%オフの特別セール中です。ヨーロッパ、英国、米国のプレイヤーは、€26.95、£22.4、$26.95で購入することができます。Steamアクティベーションに対応しているため、購入後すぐにゲームを開始できます。ケアンの世界に足を踏み入れて、未知の冒険を体験してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-30"
       },
       {
         "title": "ファイナルファンタジーシリーズ 60% オフ",
@@ -585,54 +568,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-01-27"
-      },
-      {
-        "title": "[Steam] Arcadium - 宇宙の旅 (40% オフ / $4.79)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでの「Arcadium - 宇宙の旅」は、現在40%オフの特別価格で提供されています。この魅力的なゲームでは、プレイヤーは宇宙を舞台に、様々な惑星や空間ステーションを探索することができます。宇宙の旅の中で、プレイヤーは様々な異星の生物と出会い、宇宙の秘密を解き明かすことができます。 ゲームのグラフィックは、美しい星空と惑星の風景をリアルに表現しています。加えて、ゲームのサウンドトラックは、宇宙の雰囲気を際立たせ、プレイヤーを宇宙の世界へと引き込んでくれます。さらに、ゲームのシステムは、プレイヤーが自由に宇宙を移動し、探索することができるように設計されています。 「Arcadium - 宇宙の旅」は、宇宙を舞台にしたアドベンチャーゲームとして、プレイヤーに新しい体験を提供します。現在の価格は$4.79ですので、是非この機会にSteamで購入して、宇宙の旅を開始してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-27"
-      },
-      {
-        "title": "[Steam] レジェンド オブ ザ ムーン ( $0.59 / 80% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "レジェンド オブ ザ ムーンは、幻想的な世界を舞台にしたアクションアドベンチャーゲームです。このゲームでは、月の力に選ばれた勇者となって、暗黒の勢力と戦い、世界を救うために旅立ちます。美しいグラフィックと壮大なサウンドトラックで、ゲームの世界に没入できます。様々な武器や魔法を使用して、多種多様な敵を撃破し、ボスとの激闘を体験できます。また、ゲーム内のさまざまなアイテムやスキルを集めて強化することで、自らの戦闘スタイルをカスタマイズできます。レジェンド オブ ザ ムーンでは、スムーズな操作と快適なゲーム性で、プレイヤーの心を引き付けます。現在、Steam で 80% オフの特別セール中です。ぜひ、この機会に試遊してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-27"
-      },
-      {
-        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 50% オフです! Steam上",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで配信中の、私のゲームZ.O.N.A: Origin (PCVR)が50%オフになりました。VR技術を活かし、プレイヤーは没入感の高い世界の中でゲームを体験できます。SFをテーマにしており、未来的な環境と、そこで展開するストーリーを楽しむことができます。VRコントローラーを使用して、自由に動き回り、ゲーム内のオブジェクトやキャラクターと交互に作用することができます。50%オフのチャンスを逃さないで、今日 Steamでこのゲームをチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-27"
-      },
-      {
-        "title": "GOGニューイヤーセール：ウィッチャー3、FTL、サイバーパンク2077など",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGニューイヤーセールが今始まりました。人気タイトル「ウィッチャー3」や、SFの要素をふんだんに取り入れた「FTL」、そして未来的な世界観を描く「サイバーパンク2077」など、多数の魅力的なゲームが大幅に値下げされています。 このセールでは、さまざまなジャンルのゲームが紹介されており、ファンタジー、SF、アクション、冒険など、どのようなものでもお楽しみいただけます。特に、「ウィッチャー3」は、深いストーリーと広大なゲーム世界で知られており、ゲームファンに人気があります。一方、「FTL」は、宇宙を舞台にした戦略的なゲームプレイが特徴であり、プレイヤーに挑戦的な楽しみを提供します。 「サイバーパンク2077」は、近未来の暗い世界を描き、プレイヤーに自由なゲームプレイを提供します。このセールでこれらのゲームを紹介することで、GOGはゲーマーに新しいエンターテイメントの機会を提供し、さまざまなゲーム体験を楽しむことができます。セール期間中は、多数のゲームが割引価格で提供されるため、ゲーマーにはお得な機会となります。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-01-26"
       }
     ]
   },
@@ -690,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-29T12:36:40.016244"
+  "last_updated": "2026-01-30T02:25:32.001288"
 }

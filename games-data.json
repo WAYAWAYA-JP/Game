@@ -5,7 +5,7 @@
         "title": "Definitely Not Fried Chicken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Definitely Not Fried Chickenは、独特のひねりを加えた経営シミュレーションゲームです。このゲームでは、ビジネスの両面を巧みに管理しながら、合法的な手段で麻薬取引を成功させます。プレイヤーは新しい顧客を開拓し、新しい「ビジネス」を獲得していきます。また、より強力な麻薬を開発し、大きな利益を上げることを目指します。最終的には、荒廃した都市を再興させるのが目標です。このゲームでは、プレイヤーはビジネスと麻薬取引のバランスをうまく取りながら、成功を目指します。",
+        "description": "Definitely Not Fried Chickenは、独特のひねりを加えた経営シミュレーションゲームです。このゲームでは、表向きのビジネスと裏の麻薬取引の両方をうまく管理しながら、合法的な方法で麻薬取引を成長させていきます。新しい顧客を獲得し、新しい「ビジネス」を開拓し、より強力な麻薬を開発し、大きな利益を上げて、荒廃した都市を支配することが目標です。プレイヤーは、ビジネスマンと麻薬王の二足のわらじをはいて、都市を乗っ取っていきます。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
@@ -198,10 +198,75 @@
     ],
     "review": [
       {
-        "title": "【ウェイ オブ ザ ハンター：レビュー】 \n【BALL x PIT：レビュー】 \n【ダレカレ：レビュー】",
+        "title": "【ペルソナ3 リロード：レビュー】\n【パラノマサイト FILE23 本所七不思議：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "今週セールが開始された作品の中から、最安値をつけたタイトルをいくつか紹介します。",
+        "description": "ニンテンドーeショップでは2月2日、Nintendo Switch 2とNintendo Switch向けの新しいセールが開始されました。このセールでは、様々なタイトルが割引価格で提供されるので、ゲーマーには見逃せないチャンスです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260202-415423/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【終末ミジンコラボラトリー：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フライハイワークスは2月2日、SKIPMOREが開発する『終末ミジンコラボラトリー』の体験版が2月11日に配信開始されることを発表しました。本作は、人類が絶滅した世界で働くアンドロイドの少女を見守る放置系ゲームです。終末の世界で少女が何をして過ごすのか、プレイヤーは彼女の日々を見つめていくことになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/post-apocalypse-microbe-lab-20260202-415350/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【天穂のサクナヒメ～ヒヌカ巡霊譚～：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この作品の一部を先行して体験する機会を得たので、現時点で判明している内容を紹介したいと思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/sakunahime-20260202-415283/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【アッシュ・オブ・クリエーション：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Kickstarter で 320 万ドルを集めてから 9 年、Steam の早期アクセスが開始されてからわずか数週間が経過した-MMORPGAshes Of Creation- は、大きな困難に直面しているようです。ゲームの全体的なリーダーシップが大きく揺さぶられ、開発チームの将来についての懸念が高まっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/ashes-of-creation-director-quits-over-decisions-he-could-not-ethically-support-as-staff-report-mass-layoffs",
+        "date": "2026-02-02",
+        "is_translated": true
+      },
+      {
+        "title": "【ディズニー ロルカーナのウィンタースペル：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マジックプレイヤーとして、ウィンタースペルのプレビューパックを開封した瞬間、懐かしさと混乱が同時に訪れました。しかし、そこから生まれた初めてのロルカナデッキは、驚くほど楽しいものとなりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/",
+        "date": "2026-02-02",
+        "is_translated": true
+      },
+      {
+        "title": "【ウェイ オブ ザ ハンター：レビュー】\n【BALL x PIT：レビュー】\n【ダレカレ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "今週セールが始まった作品の中から、最も安い価格で提供されているタイトルをいくつかご紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,10 +289,10 @@
         "is_translated": true
       },
       {
-        "title": "【モロウウィンド：レビュー】",
+        "title": "【The Elder Scrolls III: モロウウィンド：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Daggerfall のリメイクをしましょう。",
+        "description": "Daggerfall のリメイクが実現したら、想像を絶するでしょう。何を言っても構いませんが、 Daggerfall のリメイクを実現することの方が、多くのゲーマーにとっては夢のようなプロジェクトだと思います。 Daggerfall は、The Elder Scrolls シリーズにおいて重要な位置を占めており、そのリメイクは、シリーズのファンにとって大きな喜びになるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -240,7 +305,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この1週間で、私の知っている熱心なサイクリスト2人は、どちらも3月まで自転車に乗るのをやめました。寒さや雨が原因で、自転車に乗るのをやめたようです。彼らは寒すぎることや濡れすぎることを理由に挙げていました。しかし、私は彼らの警告を忘れて、自転車に乗り続けるつもりです。",
+        "description": "この1週間で、私の知っている热心なサイクリスト2人は、3月まで自転車に乗ることを中止することにしました。寒さや濡れ具合が原因だそうです。彼らは自転車に乗るのをやめることにしたそうですが、私は彼らの警告を忘れようとしています。寒さや雨で自転車に乗るのが難しいのは事実ですが、挑戦してみようと思うのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,23 +315,10 @@
         "is_translated": true
       },
       {
-        "title": "「生成AIはゲーム業界に悪影響とする業界関係者が52％」との調査レポート。AIへの風当たり強まる一方、日常業務では活用も",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "近年のゲーム業界の調査レポート「2026 STATE OF THE GAME INDUSTRY」では、生成AIに対する否定的な意見が前年比で急増していることが明らかになっています。ゲーム業界における生成AIの利用について、昨年と比較して多くの否定的な声が上がっていることを示しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260130-414565/",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Crimson Desert：レビュー】\n【ゼルダの伝説 ティアーズ オブ ザ キングダム：レビュー】",
+        "title": "【Crimson Desert：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Crimson Desert』を初めてプレイしたとき、私はこのゲームが何を目指しているのかを理解するのに苦労しました。スパイダーマン、ウィッチャー、真・三國無双、ドラゴンズドグマ、ジェダイアカデミーなどの要素が混在しているように感じました。不过、このゲームはこれらの要素を独自のスタイルで融合させ、独特の世界観を創造しています。『Crimson Desert』は、プレイヤーが壮大な冒険の世界に浸り",
+        "description": "『Crimson Desert』を初めてプレイしたとき、ゲームの意図を理解するのが難しかったです。スパイダーマンやウィッチャー、真・三國無双、ドラゴンズドグマ、ジェダイアカデミーなどの要素が混在しており、ゲームの方向性が掴みにくかったのです。ただ、プレイを進めていくにつれて、3つの新しいトークスルーの中で最初の作品としての面白さが見えてきました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,29 +328,16 @@
         "is_translated": true
       },
       {
-        "title": "【Huntdown: Overtime：レビュー】\n【ガンナー：レビュー】",
+        "title": "【Huntdown: Overtime：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "サイバネティックな殺人装置を破壊すると、アーノルド・シュワルツェネッガーが出演した過去のアクション映画のような、太い髪の毛とコカインが流行っていた時代の雰囲気を感じるショットガンが登場します。このゲーム「ハントダウン: 延長戦」では、プレイヤーはこのような懐かしいアイテムを発見しながら、激しいアクションを楽しむことができます。",
+        "description": "サイバネティックな殺人装置を破壊すると、アーノルド・シュワルツェネッガーが映画の中で振り回していたような太い髪の毛とコカインが流行っていた時代を彷彿とさせるショットガンが出現します。ハントダウン: 延長戦では、プレイヤーはこの魅力的な世界で戦い続けます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/vhs-veiled-huntdown-overtime-a-retro-gangland-roguelite-run-and-gunner-arrives-in-early-access-this-year",
         "date": "2026-01-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Dune: Awakening：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『Dune: Awakening』は発売以来、エンドゲームの部分で苦戦してきましたが、MMOの大型アップデートである第3章では、プレイヤーが満足できる刷新を約束しています。このアップデートでは、エンドゲームの内容が大幅に改善され、より充実したゲーム体験が提供される予定です。開発チームは、プレイヤーのフィードバックを取り入れ、ゲームのバランスやコンテンツを調整して、より楽しいゲーム体験を提供すること",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dune-awakening-hopes-to-spruce-up-its-endgame-in-its-next-major-update-coming-next-week",
-        "date": "2026-01-28",
         "is_translated": true
       }
     ],
@@ -599,5 +638,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-02T02:34:43.296298"
+  "last_updated": "2026-02-02T12:37:25.909330"
 }

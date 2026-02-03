@@ -5,7 +5,7 @@
         "title": "Definitely Not Fried Chicken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Definitely Not Fried Chicken は、独自の要素を取り入れた経営シミュレーションゲームです。このゲームでは、表向きは合法的なビジネスを運営しながら、裏では大規模な麻薬取引を成長させていきます。プレイヤーは新しい顧客を獲得し、新しい「商品」を開発し、利益を増やしていきます。目標は、巨額の富を築き、都市を再建することです。麻薬取引の二面性を体験し、ビジネスと裏社会のバランスを取って、成功を収めることができます。",
+        "description": "Definitely Not Fried Chickenは、独特のひねりを加えた経営シミュレーションゲームです。ユーザーは、表向きは合法的なビジネスを運営しながら、裏では麻薬取引を成長させていくことを目指します。新しい顧客を獲得し、新しい「ビジネス」を立ち上げ、より強力な麻薬を開発し、大きな利益を得ることが目標です。さらに、ユーザーはこの「ビジネス」を通じて、廃墟と化した都市を復興させていくことができます。ゲームでは、ビジネスの両面を上手くバランスさせながら、さまざまな課題に挑戦し、成功を収めていく必要があります。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-02"
+        "date": "2026-02-03"
       },
       {
         "title": "Is there a way to automatically compile a list of Humble Choice games I have yet to redeem?",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-02"
+        "date": "2026-02-03"
       },
       {
         "title": "One month Humble Choice for 8€/9$ (JAN26 code)",
@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【Highguard：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Highguard』のSteamにおけるユーザーレビューは、以前は「やや不評」という評価だったですが、最近は「賛否両論」というステータスへと改善されています。その背景には、開発チームが頻繁にアップデートを実施し、ゲームの不満点を迅速に解消していることが要因のようです。ユーザーの意見を真剣に受け止め、改善に努めている姿勢が評価されているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/highguard-20260203-415613/",
+        "date": "2026-02-03",
+        "is_translated": false
+      },
+      {
         "title": "【Baladins：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "現在、パチンコとビジュアルノベルを融合させた不条理コメディ「Jump the Track」の開発を進めているフランスのSeed by Seedは、2024年5月にPC版のローンチを果たし、高い評価を得た独創的なRPG「B」を持っている。",
+        "description": "現在、パチンコとビジュアルノベルを融合させた不条理コメディ「Jump the Track」の開発を進めているフランスのSeed by Seedは、独創的なRPGとして2024年5月にPC版を発売し、非常に高い評価を得た「B」は、2024年5月にPC向けにリリースされ、高い評価を受けた。Seed by SeedのこのユニークなRPGは、プレイヤーから大きな注目を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +224,36 @@
         "is_translated": false
       },
       {
+        "title": "【Valheim：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "こういったことすべてに満足しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/to-celebrate-5-years-in-early-access-valheim-gets-a-new-hat-better-steam-deck-performance-and-wait-for-it-frosted-sweetbread/",
+        "date": "2026-02-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Civilization 7：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Civ のファンなら誰でも知っているように、時間は流れていきます。来週で、Civ 7 はついに1周年を迎えることになります。Firaxis の新しい試みに対する最初の反応は賛否両論だったものの、定期的なアップデートや調整が行われた1年間で、多くのことが変化しました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/civilization-7s-big-test-of-time-update-thatll-bring-back-playing-as-one-civ-for-the-whole-game-is-set-to-drop-this-spring",
+        "date": "2026-02-03",
+        "is_translated": true
+      },
+      {
         "title": "【ペルソナ3 リロード：レビュー】\n【パラノマサイト FILE23 本所七不思議：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ニンテンドーeショップでは2月2日、Nintendo Switch 2とNintendo Switch向けの新しいセールが始まりました。このセールでは、さまざまなタイトルを特割価格で購入することができます。ゲーマーには、待望のタイトルを安く手に入れる好機です。セール期間中は、ニンテンドーeショップで様々なゲームが割引価格で提供されますので、ぜひチェックしてみてください。",
+        "description": "ニンテンドーeショップでは2月2日、Nintendo Switch 2とNintendo Switch向けの新しいセールが始まりました。このセールでは様々なタイトルが割引されるので、気になるゲームを探してみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +266,7 @@
         "title": "【終末ミジンコラボラトリー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "フライハイワークスは2月2日、SKIPMOREが開発する『終末ミジンコラボラトリー』の体験版が2月11日に配信されることを発表しました。このゲームは、人類が絶滅した世界で働くアンドロイドの少女を守るという、放置系ゲームです。プレイヤーは、アンドロイドの少女が生き残るために必要な物資を管理しながら、彼女の生活を間接的に見守ることができます。このゲームは、放置系ゲームの要素と、少女の生活をサポートする",
+        "description": "フライハイワークスは2月2日、SKIPMOREが開発する『終末ミジンコラボラトリー』の体験版が2月11日に配信されることを発表しました。このゲームは、人類が絶滅した後の世界を舞台に、アンドロイドの少女が働く様子を見守る放置系ゲームです。人類が消えた後の世界で、アンドロイドの少女が何をして生きていくのか、彼女の日常を見つめ続けることで、プレイヤーは新たな体験を得ることができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,23 +276,10 @@
         "is_translated": false
       },
       {
-        "title": "【天穂のサクナヒメ～ヒヌカ巡霊譚～：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "先行プレイの機会をいただけたので、現時点で明らかになっている作品の内容を紹介していきたいと思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/sakunahime-20260202-415283/",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
         "title": "【Steam コントローラー：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "見落とされているのか、それとも正当に無視されているのか?",
+        "description": "見落とされているのか、それとも正当に無視されているのか？",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -266,7 +292,7 @@
         "title": "【SenS：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "NaissanceE の開発チームである Limasse Five は、早期アクセスのオープンワールド洞窟探検ゲーム SenS に大型アップデートをリリースしました。このゲームでは、ユニークな場所やツール、アーティファクトを発見するための探索が楽しめます。洞窟の中には、さまざまな構造物が隠れており、プレイヤーはこれらの構造物を探索しながら、未知の世界を解き明かすことができます。新しいアップデートに",
+        "description": "NaissanceE の開発元である Limasse Five は、早期アクセス中のオープンワールド洞窟探検ゲーム SenS に、大型アップデートをリリースしました。このゲームでは、ユニークな場所やツール、アーティファクトを内包するような構造物を探索することができます。プレイヤーは、未知の世界を自由に冒険しながら、様々な秘密を解明していきます。ゲームの世界は、広大な洞窟や遺跡など、多様な環境で構成",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -279,7 +305,7 @@
         "title": "【アッシュ・オブ・クリエーション：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Kickstarter で 320 万ドルを集めてから 9 年、Steam の早期アクセスが開始されてからわずか数週間が経過したMMORPG「Ashes Of Creation」は、重大な困難に直面しています。ゲーム全体のリーダーシップが揺らぎ、開発チームは大きな課題に立ち向かっていなければなりません。",
+        "description": "Kickstarter で 320 万ドルを調達してから 9 年、Steam の早期アクセスが開始されてわずか数週間が経過したところ、MMORPG の Ashes Of Creation は大きな困難に直面しています。ゲーム全体のリーダーシップが試される時期です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -289,23 +315,10 @@
         "is_translated": true
       },
       {
-        "title": "【ウェイ オブ ザ ハンター：レビュー】\n【BALL x PIT：レビュー】\n【ダレカレ：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "今週セールが始まった作品の中から、最も安い価格になったタイトルをいくつか紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260201-415020/",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この1週間で、私の知っている2人の熱心なサイクリストが、3月まで自転車に乗るのをやめました。寒さと濡れが原因で、彼らは自転車での通勤を中止することにしました。私は彼らの警告を忘れて、自転車での通勤を続けることにしました。",
+        "description": "この1週間で、私の知っている熱心なサイクリスト2人は、3月まで自転車に乗るのをやめました。寒さと濡れが原因で、彼らは自転車を休めることにしました。しかし、私は彼らの警告を忘れようとしています。彼らのような熱心なサイクリストが自転車をやめるほどの寒さと濡れは、想像に難くありませんが、私はまだ自転車に乗りたいと思っているのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -318,7 +331,7 @@
         "title": "【Crimson Desert：レビュー】\n【ゼルダの伝説 ティアーズ オブ ザ キングダム：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Crimson Desert』を初めてプレイしたとき、ゲームが何を目指しているのかを理解するのに苦労しました。スパイダーマン、ウィッチャー、真・三國無双、ドラゴンズドグマ、ジェダイアカデミーなど、様々なゲームのイメージが頭を巡りました。しかし、実際にはこれらとまったく異なる、独自の世界観が広がっていました。ゲームを進めると、プレイヤーはオープンワールドを自由に探索できます。戦闘はアクション重視で",
+        "description": "『Crimson Desert』を初めてプレイしたとき、ゲームが何を目指しているのかを理解するのが難しかったです。スパイダーマン、ウィッチャー、真・三國無双、ドラゴンズドグマ、ジェダイアカデミーなどの要素が混在しています。実際、開発者は3つの新しいタイトルを発表しましたが、そのうちの1つ目が『Crimson Desert』です。ゲームの世界は中世をベースにしており、プレイヤーはさまざまなキャラクタ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -326,22 +339,69 @@
         "url": "https://www.rockpapershotgun.com/whopping-new-crimson-desert-video-sharpens-suspicion-that-its-a-really-shonky-zelda-tears-of-the-kingdom",
         "date": "2026-01-29",
         "is_translated": true
-      },
-      {
-        "title": "【Huntdown: Overtime：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "サイバネティックな殺人装置のようなブロックを破壊すると、ユニークなショットガンが登場します。このショットガンは、アーノルド・シュワルツェネッガーが主演した映画の世界観を彷彿とさせるものです。太い髪の毛が流行し、コカインが社会問題となっていた時代の雰囲気を感じることができます。ハントダウン：延長戦では、プレイヤーはこのようなアイテムを入手し、戦略を立てながらゲームを進めていきます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/vhs-veiled-huntdown-overtime-a-retro-gangland-roguelite-run-and-gunner-arrives-in-early-access-this-year",
-        "date": "2026-01-29",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "Divinity フランチャイズ セール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SteamでのDivinityフランチャイズセールは、熱烈なファンを含むすべてのギャンブラーにとって夢の現実です。このセールでは、多くの優れたゲームが大幅な割引で提供され、Divinityシリーズの魅力を体験するための絶好の機会です。特に、Divinity: Original Sin 2という、批評家から高く評価されている作品が含まれています。このゲームは、深いストーリーと複雑な戦闘システムで知られており、ギャンブラーの間で高い人気を博しています。さらに、Divinityシリーズの他の作品も割引で提供されており、シリーズのすべての魅力を体験することができます。Steamでのこのセールは、Divinityシリーズのファンにとって大きな喜びであり、ギャンブラーには新しいゲーム体験の機会を提供しています。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "[Steam] Doom: The Dark Ages (26.39€ / 67% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Doom: The Dark Agesは、Steamで67%オフの特価26.39€で提供されています。このゲームは、人気が高いDoomシリーズのひとつであり、暗い中世を舞台に、恐ろしさとスリルの組み合わせを体験できます。プレイヤーは、地獄から侵攻してきた悪魔たちと戦いながら、暗い時代を生き残るために必死に戦います。高速でアクション満点のゲームプレイが特徴で、さまざまな武器やアイテムを使って敵を倒すことができます。グラフィックも迫力があり、暗い世界がリアルに表現されています。Doomシリーズのファンにはもちろん、ファーストパーソン・シューティングゲームを楽しむすべてのゲーマーに必見のタイトルです。価格も特別なセール中なので、興味がある場合は今すぐチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "[ファナティカル] バイオハザード レクイエム (18% オフ - $57.39 / £49.19 / €57.39 / CA$77.89 / A$88.51)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "バイオハザード レクイエムは、ファナティカルで18%オフの特別セール中です。このタイトルは、バイオハザードシリーズの最新作であり、恐怖とスリルの究極の体験を提供します。バイオハザード レクイエムでは、プレイヤーは、新たな恐怖に立ち向かうために、シリーズのアイコン的なキャラクターを操作します。グラフィックは驚異的で、臨場感あふれるサウンドデザインにより、プレイヤーは、ゾンビや怪物が跋扈する世界に没入できます。さまざまなステージや難易度を備えたこのゲームは、リピートプレイ価値が高く、ゲーマーにとって非常に魅力的です。さらに、ファナティカルでのセールにより、通常価格よりも大幅に安く購入できます。バイオハザード レクイエムを今すぐ購入し、心を震わせる恐怖の体験を堪能してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "ウィークリーセール：レムナント２、ウォーハンマー４０、０００、バイオハザード４、バイオハザードリメイク、ディノクライシス２、オーバークック２等",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "GOGでの週末セールは、熱い戦いの世界を舞台にした「レムナント２」や、壮大なファンタジー世界を体験できる「ウォーハンマー４０、０００」など、様々なジャンルのゲームが大幅な値下げになっています。また、人気のサバイバルホラー「バイオハザード４」やそのリメイク版、クラシックなサバイバルゲーム「ディノクライシス２」もセール対象です。他にも、協力プレイが楽しめる「オーバークック２」など、友達と一緒にプレイするのにぴったりのゲームが多数ラインナップされています。ゲーム好きの方には、きっとお待ちかねのタイトルが含まれているでしょう。セールは期間限定なので、気になるゲームはお急ぎください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "インディーゲーム セール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "インディーゲーム セールです。さまざまなジャンルのインディーゲームが大幅に割引されています。アクションゲーム、ロールプレイングゲーム、パズルゲームなど、様々なゲームが勢揃いしています。Steamでのセール期間中は、多くのインディーゲームを特別な価格で購入することができます。セール中のゲームはすべて、インディーゲーム開発者の創造性と独自性を感じることができます。グラフィックの美しさや、独自のゲームシステム、そしてストーリーの深みなど、様々な要素が魅力的に表現されています。インディーゲーム セールでは、知られざる名作や、新しい発見を待つ隠れた宝石のようなゲームも多数登場します。セール中のゲームをチェックして、自分に合った新しいゲームを発見してみてください。インディーゲーム セールでは、ゲームファンにとって、新しい体験や楽しみを提供する素晴らしい機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-03"
+      },
       {
         "title": "[Steam] Glyphica : タイピング サバイバル - ($6.99/30% オフ)",
         "platform": "Steam",
@@ -521,66 +581,6 @@
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
         "date": "2026-01-29"
-      },
-      {
-        "title": "[Steam] ドロクタウン ($13.49 / 10% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ステアムプラットフォームで、ドロクタウンという面白いゲームが10%オフになりました。通常価格より安くなったこのゲームは、13.49ドルで購入できます。ドロクタウンは、ユーザーに独特の魅力を提供するゲームであり、プレイヤーは様々なキャラクターと共に、町で冒険を楽しむことができます。このゲームでは、町の発展やキャラクターの成長を経験することができ、ユーザーは新しい友情や愛を育むことができます。ドロクタウンでは、ユーザーは自由に町を探索し、様々なクエストやミッションを完了することができます。また、ゲーム内でさまざまなアイテムやリソースを集め、町を更に発展させることができます。ドロクタウンの世界では、ユーザーは想像力を膨らませ、自分だけの物語を生み出すことができます。ドロクタウンは、すべての年齢のユーザーに適しており、家族や友人と一緒に楽しむことができます。さっそく購入して、ドロクタウンの世界を体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "EA 正月セール：Jedi Survivor、Jedi: Fallen Order、Dragonage: Veilguard",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "EA 正月セールでは、人気ゲームが大幅割引になります。スター・ウォーズのファンには、「Jedi Survivor」と「Jedi: Fallen Order」が必見です。これらのゲームでは、ジェダイの力を使って銀河系を冒険し、エピックなバトルを体験できます。また、ファンタジーRPGのファンには、「Dragonage: Veilguard」が推奨されます。ドラゴンエイジの世界で、新たなストーリーやキャラクターを楽しむことができます。EA 正月セールでは、これらのゲームを安く購入することができます。Steamで今すぐチェックして、ギフトとして購入することもできます。これは、ゲームファンにとって大きな機会です。セール期間中は、他のEAのゲームも割引になるので、他のタイトルもチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "Steam の Vagrus-The Riven Realms が最大 45% オフ (16,49 €)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Vagrus-The Riven Realms は、壮大なストーリーと複雑な戦闘システムが特徴的な、ファンタジー設定のロールプレイングゲームです。このゲームでは、プレイヤーは「Vagrus」と呼ばれるキャラクターを操作し、さまざまなクエストをこなしながら、広大な世界を冒険します。最大 45% オフ のこの Steam セールでは、通常価格より大幅に安い 16.49 ユーロで購入することができます。豊富なストーリーと深い戦闘システムを堪能できるこのゲームは、RPG ファンにはおすすめです。Steam で最大 45% オフ の Vagrus-The Riven Realms を購入して、冒険の世界に飛び込んでみてください。魅力的なキャラクターと壮大な物語が、プレイヤーを待っています。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "EAセール：Jedi Survivorなど大幅割引",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、EAセールが開催中です。スターウォーズシリーズの最新作「Jedi Survivor」など、人気ゲームが大幅に割引されています。このセールでは、EAのさまざまなゲームタイトルが特別価格で提供され、ゲーマーにとっては絶好の機会です。アクションアドベンチャーゲームからスポーツゲームまで、様々なジャンルのゲームが割引されており、自分の好きなゲームを見つけることができます。また、Steamのセール期間中は、他のゲームも割引されることが多いので、他のゲームもチェックすることをお勧めします。セールは期間限定なので、 놓치ないようにご注意ください。SteamのEAセールをチェックして、好きなゲームを手に入れてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
-      },
-      {
-        "title": "[Steam] Vagrus-The Riven Realms (16,49 € / 45% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Vagrus-The Riven Realmsは、Steamで45%オフの16.49ユーロで購入できる、ファンタジーな世界を舞台にしたロールプレイングゲームです。このゲームは、プレイヤーに広大な世界を冒険し、さまざまなキャラクターと出会い、戦略的な戦闘を楽しむ機会を提供します。壮大なストーリーと深いキャラクター設定により、プレイヤーはゲームの世界に没頭し、さまざまな挑戦に立ち向かいます。さらに、ゲームのグラフィックとサウンドトラックは、プレイヤーに高品質なゲーム体験を提供します。Vagrus-The Riven Realmsは、ロールプレイングゲームファンには必見の作品です。ゲームの魅力的な世界と様々なゲームプレイ機会により、プレイヤーは長時間にわたって楽しむことができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-29"
       }
     ]
   },
@@ -638,5 +638,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-03T02:31:45.032924"
+  "last_updated": "2026-02-03T12:38:46.989754"
 }

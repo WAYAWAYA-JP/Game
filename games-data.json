@@ -5,18 +5,18 @@
         "title": "Definitely Not Fried Chicken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Definitely Not Fried Chickenは、面白いひねりを加えた経営シミュレーションゲームです。このゲームでは、合法的なビジネスを運営しながら、裏では大規模な麻薬取引を成長させていくことを目指します。新しい顧客を獲得し、より強力な麻薬を開発し、大金を稼ぐことで、廃墟の都市を復興させていきます。法律を遵守したまま、麻薬王に成り上がるというユニークなゲームです。",
+        "description": "Definitely Not Fried Chicken は、独自のひねりを加えた経営シミュレーションゲームです。プレイヤーは、表向きのビジネスと裏の麻薬取引の両方を上手く管理しながら、合法的な形で麻薬取引を成長させていきます。新しいビジネスチャンスを獲得し、新しい顧客とのつながりを深め、さらに強力な麻薬を開発していくことで、大きな利益を得ることができます。最終的には、貧困と荒廃した都市を残すことが目標です。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-04"
+        "date": "2026-02-05"
       }
     ],
     "bundle": [
       {
-        "title": "Resident Evil Villageなどが含まれたゲーム群がSteamで配信",
+        "title": "Resident Evil Villageほかが Steamで配信",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: a Gun、SteamWorld Build、Bus Simulator 21 Next Stop",
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-04"
+        "date": "2026-02-05"
       },
       {
         "title": "February 2026 Humble Choice | Overview / Discussion Megathread",
@@ -37,13 +37,25 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-04"
+        "date": "2026-02-05"
       },
       {
         "title": "Humble Choice January 2026 | All games on Steam Deck (+ performance notes in comments)",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Resident Evil Villageなどが含まれたゲーム群がSteamで配信",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: a Gun、SteamWorld Build、Bus Simulator 21 Next Stop",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -182,26 +194,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-27"
-      },
-      {
-        "title": "ローラーコースターティクーン コレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-01-26"
       }
     ],
     "review": [
       {
+        "title": "【Stick it to the Stickman：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気2Dアクション「Broforce」を生んだFree Livesの新作「Stick It to the Stickman」は、昨年8月に早期アクセス版がローンチされ、高い評価を獲得しました。このゲームは、プレイヤーがさまざまなステージをクリアしながら、様々な能力を持つキャラクターを操作して、敵を倒していくという内容です。早期アクセス版のローンチ以来、開発者はフィードバックを集めて、ゲームをさらに",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163842.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
         "title": "【YAPYAP：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Maison Bapは2月4日に新作ゲーム『YAPYAP』の配信を開始しました。このゲームは、すぐにSteamのユーザーレビューで「非常に好評」のステータスを獲得しました。ユーザーたちから高い評価を得たこのゲームは、プレイヤーたちから大きな注目を集めています。Steamでの好評価は、ゲームの魅力と人気を示す重要な指標です。Maison Bapの『YAPYAP』は、ゲームファンたちに大きな期待を抱か",
+        "description": "Maison Bapは2月4日、『YAPYAP』の配信を開始しました。本作はすぐにSteamユーザーレビューで「非常に好評」ステータスを獲得しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +227,7 @@
         "title": "【仁王3：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "コーエーテクモゲームスは2月3日、ダークな戦国時代を舞台にしたアクションRPG『仁王3』の体験版が全世界で100万回以上ダウンロードされたと発表しました。プレイヤーはこの体験版を通じて、壮大な戦国時代の世界を体験し、さまざまなキャラクターを操作して戦うことができます。『仁王3』は、戦国時代の日本を舞台に、人と妖怪が共存する世界で繰り広げられる激しいバトルを描いたアクションRPGです。プレイヤーは、",
+        "description": "コーエーテクモゲームスは2月3日、ダークな世界観とアクションが融合したアクションRPG『仁王3』の体験版が、全世界で100万ダウンロードを突破したことを発表しました。このゲームは、戦国時代の日本を舞台に、さまざまな妖怪や敵と戦うアクション要素と、ストーリーの深みを兼ね備えています。体験版のダウンロード数が100万を超えたことは、ゲームファンからの高い注目を集めている『仁王3』の人気を証明しています",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,23 +237,62 @@
         "is_translated": false
       },
       {
-        "title": "【バックパック・バトル：モバイル版：レビュー】",
-        "platform": "doope!",
+        "title": "【仁王3：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "先日モバイル対応がアナウンスされたデッキ構築系オートバトラー「バックパック・バトル」は、昨年6月のPC版ローンチを経て高い評価を獲得しています。本日、予定通りiOSとAndroid向けのモバイル版がリリースされ、より多くのプレイヤーがこの魅力的なゲームを体験できるようになりました。バックパック・バトルでは、独自のデッキを構築し、戦略的なバトルを楽しむことができます。モバイル版では、どこでも簡単にプ",
+        "description": "私が基本的な戦闘スキルに苦手であっても仁王3をプレイできるのなら、あなたもプレイできます。仁王シリーズは、初心者であってもスムーズに遊べるよう、基本操作を簡単に学べるように設計されています。戦闘はもちろん、キャラクターの育て方やストーリーの進め方も、段階的に理解できるようになっています。仁王3に興味があるなら、心配せずに最初のステップを踏み出してみてください。ゲーム内でのヒントやチュートリアルがあ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/02163827.html",
+        "url": "https://www.pcgamer.com/games/action/i-still-cant-master-one-of-niohs-simplest-mechanics-even-after-10-years-with-the-games-and-20-hours-playing-nioh-3/",
         "date": "2026-02-04",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "【サンダーフォーク：ランベース：スピンオフ：ドリームヘブン】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Shadowstone は今年の後半に早期アクセスが開始される予定です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/mike-morhaimes-dreamhaven-continues-to-look-for-a-hit-this-time-with-a-run-based-spin-off-of-sunderfolk-without-the-phone-controls/",
+        "date": "2026-02-04",
+        "is_translated": true
+      },
+      {
+        "title": "【仁王3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Team Ninjaは、このオープンワールドの続編に心血を注ぎ、精力的に制作に取り組みました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/nioh-3-review/",
+        "date": "2026-02-04",
+        "is_translated": true
+      },
+      {
+        "title": "【仁王 3：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "3番目の仁王をプレイすることで得られた経験は、他の多くのゲームを思い出させました。具体的には、エルデン リングのような広大なオープンワールドを自由に探索できる楽しさ、アサシン クリード シャドウズのようなサムライやニンジャの戦い方を体験できるゲームプレイ、戦闘で得られる戦利品ドロップがドーパミンを生成するような楽しみなどが特色です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nioh-3-review-a-superb-blend-of-soulslike-splendour",
+        "date": "2026-02-04",
+        "is_translated": true
       },
       {
         "title": "【GTA 6：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Take-Twoの最高経営責任者であるストラウス・ゼルニック氏は、ロックスター・ゲームスのGTA 6の開発において、ジェネレーティブAIは「全く役割を果たしていない」と述べた。ゼルニック氏は同社の最新決算報告会の場でこのことを明らかにし、GTA 6の開発においてAIの役割は無かったことを強调した。GTAシリーズは、オープンワールドのゲームとして有名で、開発には膨大な時間と労力が必要である。ゼルニッ",
+        "description": "Take-Twoの最高経営責任者であるストラウス・ゼルニック氏は、ロックスター・ゲームスのGTA 6の制作において、ジェネレーティブAIは「全く役割を果たしていない」と述べた。同氏は、同社の最新決算報告会の場でこのことを明らかにし、ゲーム業界におけるAIの役割について語った。ゼルニック氏の発言は、GTA 6の開発においてAIの活用が期待されていた中でのものであり、ゲームファンや開発者への影響が注目",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,23 +302,23 @@
         "is_translated": true
       },
       {
-        "title": "【ハイガード：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【The Sims 4：ロイヤルティ＆レガシーパック：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Highguard のセントラル モードは非常に面白いですが、FPS のトレンドが多すぎて、少し間を空けてからやりたいと思います。",
+        "description": "The Sims 4 ロイヤルティ & レガシー拡張パックは、豪華なアイテム、新しいキャリア、そして卑劣なスキャンダルをもたらしてくれる魅力的なコンテンツです。しかし、DLC にはその価格に見合う価値があるのでしょうか。豪華なアイテムや新しいキャリアを追加することで、プレイヤーの体験をより一層豊かにしてくれることは確かですが、そのコンテンツが価格に見合う価値があるかどうかは、プレイヤーによって異な",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/highguard-review/",
-        "date": "2026-02-03",
+        "url": "https://www.polygon.com/sims-4-royalty-and-legacy-review/",
+        "date": "2026-02-04",
         "is_translated": true
       },
       {
         "title": "【メナス：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Battle Brothers を開発した Overhype Studios が最新作として発表した、ターンベースの戦術ゲーム Menace が早期アクセスでリリースされました。Menace には、ロールプレイングゲームのような偶然の要素が含まれており、プレイヤーは新しい指揮官のようにさまざまな戦闘を指揮することになります。このゲームでは、戦略的な思考と戦術的な決定が求められ、プレイヤーは自分の軍",
+        "description": "Battle Brothers を開発した Overhype Studios による最新のターンベース戦術ゲーム、Menace が早期アクセスで登場しました。Menace では、ロールプレイングゲームのような偶然の要素が戦術に取り入れられています。新しく就任した指揮官のように、戦場で部下たちを指揮し、戦略を立てて勝ちを目指します。ターンベースの戦闘システムで敵と戦い、部下たちのスキルや装備を強化し",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -279,7 +331,7 @@
         "title": "【Civilization 7：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Civ シリーズのファンなら誰でも知っていることですが、時間は流れていくものです。来週で、Civ 7 はついに1周年を迎えることになります。Firaxis の新作に対する初期の反応は賛否両論だったものの、開発チームは定期的に新しいコンテンツを追加し、ゲームバランスを調整してきました。その結果、1年間で大きな進化を遂げたと言えるでしょう。",
+        "description": "サイビルザेशनシリーズのファンなら誰でも知っているように、時間は経過するものです。来週で、サイビルザेशन7はリリースから1年が経過します。開発元のFiraxisの試みに対する初期の反応は賛否両論ありましたが、その後は定期的な追加コンテンツやゲームバランスの調整が行われ、一定の評価を受けています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -292,7 +344,7 @@
         "title": "【SenS：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "NaissanceE を開発した Limasse Five は、オープンワールドの洞窟探検ゲーム SenS の大型アップデートをリリースしました。このゲームでは、ユニークな場所やツール、アーティファクトを囲むような構造物を探索することができます。プレイヤーは、未知の世界を冒険しながら、新しい発見をして進化していきます。ゲームの世界は、広大な洞窟や遺跡が広がり、さまざまな秘密を隠しています。プレイヤ",
+        "description": "NaissanceE の開発者である Limasse Five は、早期アクセス中のオープンワールド洞窟探検ゲーム SenS に、大きなアップデートをリリースしました。このゲームでは、ユニークな場所やツール、アーティファクトを封じ込めるような構造物を探索することができます。プレイヤーは、未知の地帯を冒険し、未知の秘密を解き明かすことができます。ゲームの世界は、広大な洞窟や地下空間で構成されており、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -300,45 +352,68 @@
         "url": "https://www.rockpapershotgun.com/if-youre-in-the-mood-for-a-beautiful-shapeshifting-labyrinth-naissancee-follow-up-sens-has-a-new-update",
         "date": "2026-02-02",
         "is_translated": true
-      },
-      {
-        "title": "【アッシュ・オブ・クリエーション：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Kickstarter で 320 万ドルを集めたからには 9 年、Steam の早期アクセスが開始されてからわずか数週間が経過したところ、MMORPG の Ashes Of Creation は大きな困難に直面しているようです。開発チームのリーダーシップ全体が今、試練を迎えているのです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/ashes-of-creation-director-quits-over-decisions-he-could-not-ethically-support-as-staff-report-mass-layoffs",
-        "date": "2026-02-02",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "Divinity フランチャイズセール",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGでは、人気シリーズ「Divinity」のフランチャイズセールが開催中です。このセールでは、シリーズの名作から新作まで、様々なタイトルが大幅に割引されています。ファンタジー世界を舞台にした「Divinity: Original Sin 2」や、ダークファンタジーをテーマにした「Divinity: Dragon Commander」など、各ゲームは独自のストーリーとゲームプレイを提供します。 プレイヤーは、魔法と剣術を駆使して戦い、キャラクターを育成し、複雑なストーリーに没頭できます。セール中は、コレクションを整理したり、新しいアドベンチャーに挑戦したりする機会です。シリーズのファンには、より深いドライブを楽しむチャンスとなり、シリーズに興味があるゲーマーには、入門点を提供します。GOGのDivinityフランチャイズセールをチェックして、幻想の世界の冒険を始めてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "[Fanatical] 仁王 3 (12% オフ - $61.59 / £57.19 / €70.39 / CA$80.07 / A$96.66 / ¥8,518)",
+        "title": "[ファナティカル] 龍が如く 極 3 & ダーク タイズ (12% オフ - $52.79 / £48.39 / €52.79 / CA$73.91 / A$87.95)",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "Fanatical では、豪華なアクションアドベンチャーゲーム「仁王 3」が 12% オフで提供されています。このゲームは、美しい日本の風景や暗い時代の雰囲気を体験することができ、プレイヤーはさまざまな敵と戦い、強大な武術を身につけることができます。壮大なストーリーや複雑なキャラクターも魅力のひとつです。現在、$61.59、£57.19、€70.39、CA$80.07、A$96.66、または ¥8,518 で購入することができます。Fanatical のこのオファーでは、ゲームファンが待望のタイトルを手に入れることができ、最高のゲーム体験を楽しむことができます。",
+        "description": "ファナティカルでは、人気ゲームのセールを実施中です。《龍が如く 極 3 & ダーク タイズ》が12%オフになるこのチャンスを逃さないでください。通常価格よりも大幅に割引されたこのゲームセットを手に入れることができます。 《龍が如く 極 3 & ダーク タイズ》は、龍が如くシリーズの新しい章を体験できるパッケージです。《龍が如く 極 3》では、シリーズの新しいストーリーに取り組み、キャラクターを操作して任務を遂行します。また、《ダーク タイズ》では、シリーズの別の側面を体験することができます。 このセットには、2つのゲームが同梱されており、ファンにはもちろん、シリーズに興味のある新規プレイヤーにもおすすめです。魅力的なストーリーやキャラクター、そしてアクション満載のゲームプレイが待っています。割引価格でこのセットを購入することができます。ファナティカルでのセールを活用して、 《龍が如く 極 3 & ダーク タイズ》の世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-02-04"
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Divinity フランチャイズセール",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "Divinity フランチャイズセールは、人気のRPGシリーズ「Divinity」のファン必見のイベントです。このセールでは、シリーズの様々なタイトルが大幅に値下げされ、プレイヤーは豊富なゲーム体験を楽しむことができます。シリーズの最新作から往年の名作まで、多様なゲームがまとめて手に入るチャンスです。 「Divinity」シリーズは、深いストーリー、広大なオープンワールド、複雑な戦闘システムで知られています。プレイヤーは、ユニークなキャラクターを作成し、魔法と剣術を駆使してモンスターとの戦いに挑みます。また、シリーズの多くのタイトルは、協力プレイをサポートしているため、友人と一緒に冒険することもできます。 このセールでは、シリーズの代表作である「Divinity: Original Sin 2」や、「Divinity: Dragon Commander」などのタイトルが登場します。さらに、拡張パックやDLCも含まれており、ゲームの全容を体験することができます。GOGでのDivinity フランチャイズセールは、RPGファンが見逃せないイベントです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "[Fanatical] 仁王 3 (12% オフ - $61.59 / £57.19 / €70.39 / CA$80.07 / A$96.66 / ¥8,518)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "仁王3は、暗い時代を舞台にしたアクションアドベンチャーゲームです。戦国時代の日本を設定にし、剣と魔法を駆使して戦う、激しいバトルが特徴です。美麗な日本風のグラフィックと、複雑なキャラクター設定が魅力です。プレイヤーは、さまざまな武器とスキルを組み合わせて戦うことができ、自由度の高いゲームプレイが楽しめます。さらに、ストーリーモードでは、複数のキャラクターを操作して物語を進めることができ、リプレイ性も高いです。仁王シリーズのファンにとっては、必玩のタイトルであると同時に、新規プレイヤーでも楽しめる内容です。現在、Fanaticalでは12%オフのキャンペーン中で、特別な価格で購入することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Divinity フランチャイズ セール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、人気のRPGシリーズ「Divinity」のフランチャイズセールが開催中です。このセールでは、シリーズのさまざまなタイトルが大幅に割引されています。Divinityシリーズは、深いストーリー、広大なオープンワールド、複雑な戦闘システムで知られており、RPGファンに愛されています。特に、「Divinity: Original Sin 2」は、批評家とプレイヤーからの高評価を受けています。 このセールでは、「Divinity: Original Sin 2」だけでなく、その前作「Divinity: Original Sin」や、シリーズのスピンオフ作品も含まれています。また、DLCや拡張パックも割引されているため、既にシリーズをプレイしたこともあるファンにもおすすめです。 Steamの「Divinity」フランチャイズセールは、RPGファンにとって絶好の機会です。シリーズの新しいタイトルを試したい人や、既にプレイしているファンがさらに楽しむ機会になるでしょう。セールは期間限定なので、チャンスを逃さないようにお急ぎください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Steam の Mainframe Defender のセール 90%",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam の Mainframe Defender のセールは、90% オフで登場しました。サイバーパンクを彷彿とさせる未来的な世界で、プレイヤーは主なコンピューターシステムの守護者となり、さまざまな脅威からネットワークを守る役割を担います。戦略的にアイテムを配置して、侵入するウイルスやハッカーを退治する必要があります。レベルをクリアするごとに、システムの複雑さは上昇し、新しい脅威が現れます。プレイヤーはさまざまなアップグレードやパワーアップアイテムを使用して、システムを強化し、攻撃を耐えられるようにしなければなりません。ゲームの特徴的なグラフィックとサウンドトラックは、プレイヤーを未来的な世界に引き込みます。主なコンピューターシステムを守りながら、プレイヤーは自分の戦略的思考力をテストし、限界まで追い込まれます。Steam の Mainframe Defender のセールは、90% オフで提供中なので、今すぐチェックして、サイバーパンクの世界での戦いを開始しましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-05"
       },
       {
         "title": "ディヴィニティ フランチャイズ セール for PC",
@@ -399,18 +474,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-04"
-      },
-      {
-        "title": "Divinity フランチャイズ セール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "SteamでのDivinityフランチャイズセールは、熱烈なファンを含むすべてのギャンブラーにとって夢の現実です。このセールでは、多くの優れたゲームが大幅な割引で提供され、Divinityシリーズの魅力を体験するための絶好の機会です。特に、Divinity: Original Sin 2という、批評家から高く評価されている作品が含まれています。このゲームは、深いストーリーと複雑な戦闘システムで知られており、ギャンブラーの間で高い人気を博しています。さらに、Divinityシリーズの他の作品も割引で提供されており、シリーズのすべての魅力を体験することができます。Steamでのこのセールは、Divinityシリーズのファンにとって大きな喜びであり、ギャンブラーには新しいゲーム体験の機会を提供しています。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-03"
       },
       {
         "title": "ウィークリーセール：レムナント２、ウォーハンマー４０、０００、バイオハザード４、バイオハザードリメイク、ディノクライシス２、オーバークック２等",
@@ -531,30 +594,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-01"
-      },
-      {
-        "title": "インディー ジョーンズとグレート サークル スチーム版",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "インディー ジョーンズとグレート サークル スチーム版は、史上最も有名な冒険家の新しい旅を体験できる、アクションアドベンチャーゲームです。このゲームでは、インディー ジョーンズがグレート サークルを巡って、さまざまな謎や危険を克服しながら、世界中の秘宝を探索します。ユーザーは、インディー ジョーンズを操作して、ジャングルや遺跡などのさまざまな環境を探索し、敵と戦い、パズルを解決して進みます。ゲームのグラフィックとサウンドトラックは、ユーザーをインディー ジョーンズの世界に引き込むように設計されており、リアルな体験を提供します。さらに、このゲームは、さまざまな難易度のレベルやコレクションアイテムを収集することで、リプレイ価値を高めています。インディー ジョーンズとグレート サークル スチーム版は、アドベンチャーゲームのファンには必見のタイトルです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-31"
-      },
-      {
-        "title": "[Steam] Nocturnal (90% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "このタイトルから推測できる情報を基に、Nocturnalは夜の世界を舞台にしたゲームであると想定できます。夜の闇に潜む不気味な存在や、月の光に照らされた不思議な風景が登場するかもしれません。このゲームでは、プレイヤーは夜の世界でさまざまな冒険に挑むことになるでしょう。 Nocturnalでは、夜の世界を探索し、不思議な出来事や恐ろしい瞬間を体験できるでしょう。ゲームの世界は、リアルなグラフィックと心躍る音響で表現されています。プレイヤーは、夜の世界で生存するために、さまざまなアイテムやスキルを活用しながら、不気味な存在から逃れなければなりません。 このゲームは、夜の世界を舞台にしたアクションアドベンチャーゲームなので、プレイヤーは夜の世界で自由に探索し、さまざまなミッションをクリアすることができます。夜の世界の不思議な風景や、不気味な存在との遭遇が待っているでしょう。Steamでの90%オフのセールは、Nocturnalを体験する絶好の機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-01-31"
       }
     ]
   },
@@ -612,5 +651,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-04T12:38:37.247989"
+  "last_updated": "2026-02-05T02:28:28.712607"
 }

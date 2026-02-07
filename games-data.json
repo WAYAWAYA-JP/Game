@@ -11,24 +11,24 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-06"
+        "date": "2026-02-07"
       },
       {
         "title": "ポイズンレトロセット - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、魅力的でリトロなゲームセット「ポイズンレトロセット」を無料で配布しています。このセットは、エネルギッシュなアーケードシーズンからインスピレーションを得て作成されており、プレイヤーを戦場へ導くことで時を遡る体験を提供します。ポイズンレトロセットでは、クラシックなアーケードゲームの雰囲気を感じながら、現代的なグラフィックスとサウンドで新しい体験が楽しめます。複数のレトロスタイルのゲームを収録しており、各ゲームは独自のゲーム性と挑戦を提供します。ポイズンレトロセットは、レトロゲームファンにはもちろん、アーケードゲームの新しい時代を体験したいプレイヤーにもお勧めです。Epic Gamesから無料でダウンロードして、懐かしいアーケードの世界に戻ってみましょう。",
+        "description": "Epic Gamesでは、現在「ポイズンレトロセット」を無料で配布しています。このセットはエネルギッシュなアーケードシーズンからインスピレーションを得て作成されており、ユーザーは戦場へ進むために時を遡ることができます。ポイズンレトロセットは、レトロな雰囲気を取り入れたユニークなゲーム体験を提供します。ユーザーはこのセットを利用して、新しいゲームスタイルを試したり、友達と一緒に戦闘を楽しんだりすることができます。セットの内容は、戦場での戦闘をよりダイナミックに enjoymentにするためのアイテムや機能が含まれています。無料で配布されているため、気軽にダウンロードして遊んでみることができます。ポイズンレトロセットは、ゲームをより興奮的にするための新しい要素を提供し、ユーザーが新しいゲーム体験を楽しむことができるようになります。",
         "price": "無料",
         "originalPrice": "¥2,800",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-06"
+        "date": "2026-02-07"
       }
     ],
     "bundle": [
       {
-        "title": "Build Your Own Platinum Collection (February 2026)",
+        "title": "Safe in Our Worldチャリティバンドル2026",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-02-06"
+        "date": "2026-02-07"
       },
       {
         "title": "Stealthyshiroean's Humble Choice February 2026 Review",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-06"
+        "date": "2026-02-07"
       },
       {
         "title": "February 2026 Humble Choice | Overview / Discussion Megathread",
@@ -61,6 +61,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-02-07"
+      },
+      {
+        "title": "Build Your Own Platinum Collection (February 2026)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
         "date": "2026-02-06"
       },
       {
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-01-29"
-      },
-      {
-        "title": "Build Your Own Very Positive Bundle (2026)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-01-29"
       }
     ],
     "review": [
       {
+        "title": "【ヘッドボブ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ほんの小さなデザインの選択が、他は完璧なゲームをも全て台無しにしてしまうことがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/i-didnt-realize-how-important-headbob-was-until-i-played-an-rpg-without-it/",
+        "date": "2026-02-07",
+        "is_translated": true
+      },
+      {
         "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Team Tetrapodは2月6日、『Staffer Retro: 超能力推理クエスト』の日本向けクラウドファンディングについて前向きに検討していると告知しました。このプロジェクトは、超能力をテーマにしたユニークな推理クエストを体験できるゲームです。クラウドファンディングの成功により、多くのゲーマーがこの新しいゲーム体験を楽しむことができるようになります。Team Tetrapodは、ファンの支",
+        "description": "Team Tetrapodは2月6日、『Staffer Retro: 超能力推理クエスト』の日本向けクラウドファンディングについて前向きに検討していることを告知しました。このゲームは、超能力を駆使して謎を解くクエストを体験できる魅力的な作品です。クラウドファンディングの実施によって、日本のゲーマーにもこの新しい体験を提供することが期待できます。Team Tetrapodのこの動きは、日本のゲームフ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【グランブルーファンタジーヴァーサス -ライジング-：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "新しいDLCでは、新しいプレイアブルキャラクター「イルザ」が追加される予定ですが、幸運にも今回の実装に先んじて、弊誌ではイルザを試遊する機会をいただくことができました。この新キャラクターは、ゲームの世界観を更に深く豊かにすることが期待でき、ファンにとってはとても楽しみな追加です。イルザの特徴や能力については、実際に試遊してみた感想をもとに紹介します。",
+        "description": "新しくリリースされるDLCでは、新しいプレイアブルキャラクター「イルザ」が追加される予定です。弊誌では幸運にも、このイルザを先行して試遊する機会をいただきました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Dyping Escape：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "PLAYISMは2月6日、ホラータイピングゲーム『Dyping Escape』の体験版をSteamで配信開始しました。本作は「呪われたタイピングゲーム」と呼ばれる恐怖を体験できるユニークなゲームで、プレイヤーはタイピングスキルを駆使して恐ろしい状況から脱出を目指します。Steamで配信された体験版では、ゲームの世界と恐怖を味わうことができ、タイピングゲームの新しい次元を体験することができます。",
+        "description": "PLAYISMは2月6日、ホラータイピングゲーム『Dyping Escape』の体験版をSteamで配信開始しました。このゲームは、「呪われたタイピングゲーム」と呼ばれる恐怖の体験を提供する、ユニークなタイピングゲームです。プレイヤーは、タイピングスキルを駆使して恐怖から脱出を試みます。Steamで体験版をプレイしてみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +265,7 @@
         "title": "【Timberborn：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Mechanistryは2月5日、待望のゲーム『Timberborn』を3月5日に正式にリリースすることを発表しました。",
+        "description": "Mechanistryは2月5日、待望のゲーム『Timberborn』の正式リリース日を3月5日と発表しました。このゲームは、ビーバーたちが川の流れを利用して、木材を集め、運搬するというユニークなゲームです。プレイヤーは、ビーバーたちの村を築き、発展させていくことを目標に、森林を切り開き、ダムを建設し、水車を動かします。『Timberborn』は、自然と調和したビーバーの生活を体験できる、面白く創",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +278,7 @@
         "title": "【仁王3：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "筆者は以前、レビューにて『仁王2』のことを「仁王ver.2.0」と評したが、本作にもまた同様の評価を述べたい。『仁王3』は、その実、「仁王ver.3.0」である。過去の作品からの進化は明らかで、シリーズの魅力をさらに高めています。ゲームシステムやグラフィックの向上は、より 몰입感の高いゲーム体験を提供することでしょう。『仁王3』は、シリーズファンにも新規プレイヤーにも楽しめるコンテンツを多数含んで",
+        "description": "筆者は以前、レビューにて『仁王2』のことを「仁王ver.2.0」と評したが、本作にも同様の評価を述べたい。『仁王3』は、その実、「仁王ver.3.0」である。『仁王』シリーズは毎回、前作から多くの要素を引き継ぎながらも、新しい要素を追加して進化を遂げており、『仁王3』もその例に漏れず、新しいストーリーやキャラクターを追加しながら、より深みのあるゲームワールドを構築している。シリーズファンはもちろん",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,23 +288,75 @@
         "is_translated": false
       },
       {
-        "title": "【Dread Delusion：レビュー】",
-        "platform": "doope!",
+        "title": "【Legend of Khiimori：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "イングランドのインディーゲームデベロッパー「Lovely Hellplace」が開発しているオープンワールドRPGは、2024年5月にPC向けにリリースされ、高い評価を獲得しました。このゲームは、アーティストのJames Wragg氏が主宰する個人スタジオの作品で、ユーザーからの期待が高まっています。",
+        "description": "オオカミ、悪天候、さらには幽霊に備えてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/02163924.html",
+        "url": "https://www.pcgamer.com/games/the-legend-of-khiimoris-new-gameplay-shows-death-stranding-with-a-horse-is-an-idea-that-has-legs/",
         "date": "2026-02-06",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "【Civilization：レビュー】",
+        "title": "【ミュウジェニクス：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "エドモンド・マクミレンの野心的な新作ゲームは、プレイヤーに予測不可能なカオスの世界を受け入れる勇気を教えてくれるでしょう。このゲームでは、制御不能な状況に直面し、混沌とした環境の中で生き残るための戦略を見いだす必要があります。マクミレンのユニークなゲームデザインは、プレイヤーを刺激し、新たな挑戦に立ち向かう勇気を与えてくれます。彼のゲームは、常に新しい発見を提供し、プレイヤーを魅了する力を持ってい",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/mewgenics-review/",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【メナス：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Civilization 7』は、来年2月の発売以来、ニューエイジフォーマットのような大胆な機能に対する強い反応が見られる中、多くの変更を経てきました。次回の更新においても、ファンが期待を高める新しい内容が予想されます。ゲームの開発チームは、ユーザーのフィードバックを重視し、ゲームをよりエキサイティングでバランスの取れた体験にするための改善に取り組んでいます。新しい機能やゲームプレイの調整は、ゲ",
+        "description": "今週、ターンベースの戦術ゲーム「Menace」の早期アクセスがリリースされました。このゲームは、Battle Brothers の開発チームが手掛けており、ジュリアンはすでにこのゲームで非常に楽しい時間を過ごしています。Menace は、ターンベースの戦略的な戦闘システムや、ユニークなキャラクターを作成できるシステムなど、多くの魅力的な要素を備えています。ゲームの世界観も、ダークファンタジー的な雰",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/if-youre-struggling-to-play-tactics-sim-menace-it-could-be-because-your-antivirus-is-randomly-deleting-files",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Mewgenics：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "エドモンド・マクミレンとタイラー・グレイエルによる、猫の繁殖ローグライク戦闘ゲーム「ミュージュニックス」が、来週ついに登場します。長い開発期間を経て、開発者はこのゲームを完成させました。このゲームでは、プレイヤーは猫を繁殖させ、それぞれの能力を活かして戦闘に挑みます。ゲームの内容はローグライクな要素を含み、プレイヤーを飽きさせない多様な戦闘を提供することが期待されています。開発者は、ゲームの完成に",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mewgenics-developers-reckon-going-for-a-full-launch-over-early-access-is-a-weird-thing-now",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Mewgenics：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "フィッシュスティックのことが頭から離れません。食べ物ではなく、エドモンド・マクミレンとタイラー・グレイエルの新しいローグライト作品の小屋に私が押し込んだ、潰れた顔とずんぐりした足を持つ野良猫です。この野良猫は、私がローグライトゲームをプレイするときに必ず出会う、愛らしいキャラクターの1つです。ゲームの世界では、プレイヤーがさまざまなアイテムやスキルを集めて、ダンジョンを冒険することができます。ロー",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Civilization 8：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『Civilization 7』は、昨年2月の発売以来、ニューエイジ フォーマットのような波乱万丈な機能に対する強い反応が見られる中、多くの変更を経てきました。ゲームの次回の更新は、プレイヤーの要望に応えるものになっているでしょう。開発チームは、ゲームのバランスや難易度を調整するためのさまざまな変更を加えてきました。ゲームのグラフィックやサウンドも向上させており、よりリアルなゲーム体験が楽しめるよ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,68 +366,16 @@
         "is_translated": true
       },
       {
-        "title": "【仁王3：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "この特殊な能力を利用して、SEKIROをプレイしているように見せかけることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/nioh-3-parry-unlock/",
-        "date": "2026-02-05",
-        "is_translated": true
-      },
-      {
-        "title": "【Horizon：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Horizo​​n Hunters Gathering は、「独立した」シリーズのまったく新しい解釈です。新しいゲームスタイルを取り入れたこのシリーズは、プレイヤーに新しい体験を提供します。独自のゲームシステムと新しい要素を組み合わせたHorizo​​n Hunters Gatheringは、シリーズのファンにとって必見の作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/sonys-co-op-horizon-game-is-real-its-coming-to-pc-day-one-and-you-can-sign-up-for-playtests-that-start-this-month/",
-        "date": "2026-02-05",
-        "is_translated": true
-      },
-      {
         "title": "【Battalion 1944：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "兵士たち、物陰に隠れては10/4座って繰り返すのをやめましょう。Battalionの開発元であるBulkheadは、今年中に早期アクセスで登場する新しい軍事サンドボックスシューターを発表しました。その名前はウォードッグです。ウォードッグは、第二次世界大戦を舞台に、戦略的なチームプレイを重視したゲームです。プレイヤーは、兵器の開発や資源の管理を行いながら、戦場を支配するために戦略を立てていきます。ウ",
+        "description": "兵士たちよ、物陰に隠れて10分の4を繰り返すことを習慣付けましょう。Battalionの開発元であるBulkheadは、今年のうちに早期アクセスが開始される新しい軍事サンドボックスシューターを発表しました。その名前はウォードッグです。このゲームでは、プレイヤーは戦闘の最中に兵士たちを指揮し、戦略的な作戦を立てる必要があります。ウォードッグは、兵士たちが戦争の最中に戦闘や休息を繰り返すことを通じて、",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/arma-3s-king-of-the-hill-mod-inspired-the-battalion-1944-devs-new-100-player-shooter-deploying-in-early-access-this-year",
         "date": "2026-02-05",
-        "is_translated": true
-      },
-      {
-        "title": "【仁王 3：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "3番目の仁王での経験は、他の多くのゲームを思い出させました。広大な世界を自由に駆け巡る『エルデン リング』のオープンワールド、アクションと忍術が融合する『アサシン クリード シャドウズ』のサムライやニンジャの戦い方、戦利品を集めることでドーパミンが湧き出すような戦闘など、様々な要素が組み合わさっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nioh-3-review-a-superb-blend-of-soulslike-splendour",
-        "date": "2026-02-04",
-        "is_translated": true
-      },
-      {
-        "title": "【GTA 6：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Take-Twoの最高経営責任者であるストラウス・ゼルニック氏は、ロックスター・ゲームスのGTA 6の制作において、ジェネレーティブAIは「全く役割を果たしていない」と述べました。これは同社の最新の決算報告会での発言です。ゼルニック氏は会場で、このように説明しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/generative-ai-plays-zero-part-in-gta-6-take-two-boss-confirms-but-the-company-do-have-hundreds-of-ai-pilots-and-implementations-on-the-go",
-        "date": "2026-02-04",
         "is_translated": true
       }
     ],
@@ -371,13 +384,13 @@
         "title": "PlayStation - HELLDIVERS 2 アニバーサリー セール",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam上的PlayStation - HELLDIVERS 2 アニバーサリー セールは、熱狂的なゲーマーを待っています。 HELLDIVERS 2は、プレイヤーが宇宙の脅威に対して戦う、超高強度のアクションゲームです。このアニバーサリー セールでは、ゲームの発売を記念して、様々なアイテムやコンテンツが特別価格で提供されます。 HELLDIVERS 2では、プレイヤーは軍事ユニットのリーダーとなり、強力な武器や戦術を駆使して、多種多様なエイリアンの敵を倒します。ゲームの特徴である協力プレイ機能により、友人や他のプレイヤーと共にチームを組んで、宇宙の脅威に対して戦うことができます。 このアニバーサリー セールでは、ゲーム本体やDLC、キャラクターアイテムなどが割引価格で提供されます。さらに、特典アイテムや限定コンテンツも用意されています。HELLDIVERS 2の世界に興味があるゲーマーは、ぜひこのセールをチェックしてみてください。期間限定の割引価格で、ゲームの全容を体験できます。",
+        "description": "Steam上で開催中のPlayStation - HELLDIVERS 2 アニバーサリー セールは、ギャグとアクションが満載されたHELLDIVERS 2を特集したセールです。このゲームは、地球に迫り来る異星人との戦いを描いたサードパーソンシューティングゲームで、プレイヤーは地球防衛軍の一員となり、様々な惑星で戦闘に参加します。アニバーサリー セールでは、HELLDIVERS 2本体やDLCなどのアイテムが特割りの価格で提供されるので、ゲームをより深く楽しむことができます。さらに、オンラインコープモードを搭載しているため、友人と協力して異星人と戦うこともできます。 HELLDIVERS 2のユニークなゲームプレイと魅力的なグラフィックは、ギャグとアクションを好むゲーマーに必見のゲームです。このセールを機に、地球を守るために戦い、異星人の脅威を打ち破るために HELLDIVERS 2を体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-06"
+        "date": "2026-02-07"
       },
       {
         "title": "[ファナティカル] 龍が如く 極 3 & ダーク タイズ (12% オフ - $52.79 / £48.39 / €52.79 / CA$73.91 / A$87.95)",
@@ -663,5 +676,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-06T12:38:35.484743"
+  "last_updated": "2026-02-07T02:24:01.681141"
 }

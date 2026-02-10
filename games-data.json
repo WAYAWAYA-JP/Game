@@ -2,6 +2,42 @@
   "pc": {
     "free": [
       {
+        "title": "Eternal Threads - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Eternal Threads』は、時間を操り、選択によって未来を変えていく、シングルプレイのストーリーが中心のパズルゲームです。時間の流れを操作することで、様々な選択肢が生まれ、プレイヤーの選択によって物語が展開していきます。このゲームでは、時間操作というユニークな要素を利用して、未来を変えることができます。様々な選択肢と時間操作を上手く使いこなして、物語を解き進めていくのが面白いです。",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの世界が舞台の、ファーストパーソン・シューティングアクションゲームです。このゲームでは、前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や、新たなストーリー、バイクで疾走するステージ、改良されたスキルやサイバー忍者アクションが集結しています。ゲームの世界は、サイバーパンクの街が広がり、プレイヤーはその世界を駆け抜けながら、アクションを楽しむことができます。熾烈なボス戦や、新たなストーリーは、プレイヤーを没入感のある世界に引き込みます。さらに、バイクステージや改良されたスキル、サイバー忍者アクションは、プレイヤーに新たな体験を提供します。『ゴーストランナー 2』は、サイバーパンクの世界を舞台に、プレイヤーに新たなアクション体験を提供するゲームです。",
+        "price": "無料",
+        "originalPrice": "¥4,880",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "Monument Valley - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
+        "price": "無料",
+        "originalPrice": "¥920",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-02-10"
+      },
+      {
         "title": "Botany Manor - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -11,22 +47,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
       },
       {
         "title": "ポイズンレトロセット - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の「ポイズンレトロセット」は、エネルギッシュなアーケードシーズンにインスパイアされた魅力的なセットです。このセットを活用することで、プレイヤーは時を遡り、戦場へ進み、新たな経験を楽しむことができます。レトロな雰囲気と現代的なゲームプレイを融合させたこのセットは、ゲームファンにとって新しい刺激を提供するでしょう。戦場での戦い方や、セットの特徴的な要素を活用する方法を学びながら、プレイヤーは新たな冒険を体験することができます。ポイズンレトロセットは、無料配布のチャンスを活用して、ゲームの新たな世界を探索してみてください。",
+        "description": "Epic Gamesで配布中の『ポイズンレトロセット』は、エネルギッシュなアーケードシーズンからインスパイアされたユニークなセットです。このセットを利用することで、プレイヤーは戦場へ進出することができ、過去のアーケードゲームの雰囲気を体験することができます。レトロなグラフィックとサウンドエフェクトが特徴的で、懐かしい時代のゲームを再現しています。『ポイズンレトロセット』は、ゲームファンが過去のアーケードゲームの魅力を再び体験できる絶好の機会です。戦場へ進出して、レトロなゲームの世界を楽しみましょう。",
         "price": "無料",
         "originalPrice": "¥2,800",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
       }
     ],
     "bundle": [
+      {
+        "title": "Mortal Kombat Elder God Bundle (-84%/$13.05) - Complete Your Bundle for MK X, MK 11, MK1 + all DLC",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-10"
+      },
       {
         "title": "Stealthyshiroean's Humble Choice February 2026 Review",
         "platform": "Humble Bundle",
@@ -37,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
       },
       {
         "title": "February 2026 Humble Choice | Overview / Discussion Megathread",
@@ -194,26 +242,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-02-02"
-      },
-      {
-        "title": "Build Your Own Bedlam Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-01-31"
       }
     ],
     "review": [
       {
+        "title": "【フォールアウト4：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Fallout 4を正しい方法でプレイしている唯一の男。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fallout/ghost-in-the-shell-director-mamoru-oshii-has-played-10-000-hours-of-fallout-4-while-refusing-to-do-the-main-quest-build-settlements-or-travel-with-anyone-but-dogmeat-id-much-rather-be-beaten-to-death-by-deathclaws/",
+        "date": "2026-02-10",
+        "is_translated": true
+      },
+      {
         "title": "【Jelly Troops：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Phoenixxは2月9日、旗とりバトルゲーム『Jelly Troops』向けに大型アップデートを配信しました。このアップデートは、プレイヤーが新たな機能やコンテンツを楽しむことができる大きな更新となります。詳細については、公式サイトなどで確認できます。",
+        "description": "Phoenixxは2月9日、旗取りバトルゲーム『Jelly Troops』の大型アップデートを配信しました。このアップデートにより、ゲームの内容が大幅に変わり、プレイヤーの体験がさらに楽しくなりました。新しい機能やモードが追加され、ゲームの世界がより広がり、プレイヤー同士のバトルがより激しさを増しました。アップデートの詳細については、公式サイトで確認できます。『Jelly Troops』は、旗取り",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +275,7 @@
         "title": "【Creature Kitchen：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "The Rat Zoneは2月7日、料理ゲーム『Creature Kitchen』を配信した。この新作は、すぐに非常に高い評価を獲得している。assistant The Rat Zoneは2月7日に、ユニークな料理ゲーム『Creature Kitchen』をリリースし、大きな注目を集めている。プレイヤーは、様々な食材を組み合わせて新しいレシピを作成し、幻想的な世界で料理の腕を試すことができる。この",
+        "description": "The Rat Zoneは2月7日、料理ゲーム『Creature Kitchen』を配信しました。本作はたちまち非常に高い評価を獲得しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +285,10 @@
         "is_translated": false
       },
       {
-        "title": "【Omelet You Cook（オムレツにそれ入れる？）：レビュー】",
+        "title": "【Omelet You Cook：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "SchuBox Gamesは2月9日、ローグライク料理ゲーム『Omelet You Cook（オムレツにそれ入れる？）』を正式にリリースしました。このゲームは圧倒的な好評率を誇っていますが、今回の正式リリースでは最高難易度の追加などのアップデートが含まれています。",
+        "description": "SchuBox Gamesは2月9日、ローグライク料理ゲーム『Omelet You Cook（オムレツにそれ入れる？）』を正式にリリースしました。本作は圧倒的な好評率を誇り、最高難易度追加などの新しいアップデートを含む形でリリースされました。プレイヤーはさまざまな食材や調理法を組み合わせて、独自の料理を作ることができます。また、ゲームの難易度は随時変化し、プレイヤーのスキルを試されるローグライク要",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +301,7 @@
         "title": "【Aeruta（アルタ）：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "弊誌では、アップデートの発表に先駆けて、同アップデートの内容を含むバージョンを先行してプレイする機会を得ることができました。",
+        "description": "弊誌ではアップデートに先立って、同アップデートの内容を含むバージョンを先行プレイする機会を得ました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,10 +311,75 @@
         "is_translated": false
       },
       {
+        "title": "【Mewgenics：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2013年8月の発表から13年近くが経過した今、ついに2026年2月10日に発売されることになる、Edmund McMillen氏とTyler Glaiel氏による遺伝子組み替えネコを育成するローグライクゲーム「Mewgenics」です。発売が近づくにつれ、ゲームファン们の期待は高まっています。このユニークなゲームでは、プレイヤーは様々な遺伝子組み換えネコを育成し、能力を強化させながら、さまざまな",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163984.html",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このゲームでは、自分が何かを実行することができるかどうかではなく、その行動が本当に正しいのかどうかを問うことが重要です。プレイヤーは、自分の能力を発揮するのではなく、行為の意味や結果について深く考える必要があります。このゲームは、プレイヤーに新たな視点や考え方を促すもので、ただ単に何かを成し遂げるのではなく、自分の行動が持つ意味を理解することの重要性を教えてくれます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/platforms/steam-now-lets-early-access-devs-show-a-1-0-release-date-then-says-eh-maybe-leave-it-blank-just-because-this-feature-exists-does-not-mean-you-should-or-must-use-it/",
+        "date": "2026-02-09",
+        "is_translated": true
+      },
+      {
+        "title": "【なし：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steamの最近のアップデートにより、開発者は早期アクセスゲームの1.0リリース予定日をリストすることができるようになりました。開発者は、いつでもこの情報をブログ投稿やドキュメントで自由に共有することができますが、Steamの公式ページでもこの情報を確認することができます。早期アクセスゲームは、開発中のゲームであり、開発者は継続的にアップデートや改善を加えています。1.0リリース予定日をリストする",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valves-made-it-much-easier-to-tell-when-a-games-leaving-steam-early-access",
+        "date": "2026-02-09",
+        "is_translated": true
+      },
+      {
+        "title": "【Nioh 3：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "仁王3のレビュアーであるジェレミー・ブラム氏は、「仁王1」と「仁王2」よりも優れていると述べています。この観察は、二元性を表現したジェレミーの文章の一部を成しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/team-ninja-fix-a-terrifying-very-rare-nioh-3-bug-that-corrupts-your-save-when-you-pray-at-shrine-checkpoints",
+        "date": "2026-02-09",
+        "is_translated": true
+      },
+      {
+        "title": "【龍が如く 極 3 & Dark Ties：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "私は桐生一馬です。地元のギャング抗争が私が経営する孤児院にとって何を意味するかについて、無愛想なヤクザの若者たちに話すつもりです。私の話は真剣なものです。私がこの街で何をしようとしているのか、そして私がどれだけの情熱を注いでいるのかを、彼らに伝えたいのです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/yakuza-kiwami-3-dark-ties-review-a-stuffed-remake-defined-by-its-own-grim-connections",
+        "date": "2026-02-09",
+        "is_translated": true
+      },
+      {
         "title": "【けものティータイム：レビュー】\n【エンダーマグノリア：レビュー】\n【DOOM：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "この1週間でセールが始まった作品の中から、最も安い価格で提供されているタイトルをいくつか紹介します。",
+        "description": "今週セールが始まった作品の中から、最も安い価格になったタイトルをいくつかご紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,62 +389,10 @@
         "is_translated": false
       },
       {
-        "title": "【Fallout：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "それができる小さな黙示録的なロールプレイング ゲーム。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/",
-        "date": "2026-02-08",
-        "is_translated": true
-      },
-      {
-        "title": "【Timberborn：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Mechanistry の都市ビルダーは 3 月に早期アクセスを終了します。早期アクセスの期間中に、開発者は多数のアップデートと改善を実施し、ゲームをより魅力的なものにしました。 Mechanistry は、プレイヤーがインダストリアルな世界を構築し、リソースを管理し、都市を発展させることを可能にする、面白く複雑な都市ビルディングゲームです。 Mechanistry の公式リリースは、早期アクセス",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/city-builder/timberborn-gets-a-1-0-release-date-and-new-lore-trailer-showing-some-very-thirsty-beavers/",
-        "date": "2026-02-08",
-        "is_translated": true
-      },
-      {
-        "title": "【Untitled Goose Game：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "チンガスグースをプレイすると、少し汚い気分になりますが、それがなんとなく好きなところがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/if-you-thought-untitled-goose-game-had-a-horrible-goose-wait-until-you-play-this-powerfully-unsettling-idle-clicker-where-humans-give-birth-to-waterfowl/",
-        "date": "2026-02-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Rust：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "カーネルレベルのアンチチートを実現するために、どれだけのパイロンを構築する必要があるのでしょうか。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/rust-devs-surveil-cheaters-like-theyre-playing-an-rts-game-every-gun-shot-every-message-every-dropped-item-every-kind-of-interaction-is-logged/",
-        "date": "2026-02-07",
-        "is_translated": true
-      },
-      {
         "title": "【Killer Inn：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "いくつかの月が経過するにつれて、スクウェア・エニックスは特定のゲームを特定のプラットフォームでしか公開しないという戦略をとっていたが、実際にはこれが彼らにとってあまり良い結果にはならないことが明らかになる時期が近づいている。特定のプラットフォームでのみリリースすることによって、スクウェア・エニックスは多くのユーザーから距離を置かれることになり、ゲームの普及度や評価にも影響を及ぼすことになる。ゲーム",
+        "description": "スクウェア・エニックスは、特定のゲームを特定のプラットフォームでのみリリースするという戦略に従ってきたが、実際には彼らにとってあまり良い結果ではなかったと考えられる。数か月後には、この取り組みの結果を振り返る機会が訪れることになる。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -340,10 +402,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今日の午前中は、午後に行く2歳の誕生日パーティーに向けて、会話のネタを準備することに多くの時間を費やすことになりそうです。幼児だけでなく、すべての年齢層が楽しめる会話の準備が必要です。",
+        "description": "今日の午前中は、午後に行く2歳の誕生日パーティーに向けて会話のネタを準備するのに多くの時間を費やすことになりそうです。幼児だけが問題というわけではありません。すべてのことが問題です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -351,48 +413,69 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-368",
         "date": "2026-02-07",
         "is_translated": true
-      },
-      {
-        "title": "【メナス：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週、Battle Brothers の開発チームが手掛けた、新しいターンベースの戦術ゲーム Menace が早期アクセスでリリースされました。ジュリアンは、このゲームでとても楽しい時間を過ごし、ゲームの魅力に取り組んでいます。Menace は、プレイヤーに戦略的に戦闘を指示し、戦場で勝利を収めるために必要な戦術を身に付けさせます。ゲームの世界観やシステムは、Battle Brothers と共通",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/if-youre-struggling-to-play-tactics-sim-menace-it-could-be-because-your-antivirus-is-randomly-deleting-files",
-        "date": "2026-02-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Mewgenics：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "エドモンド・マクミレンとタイラー・グレイエルによって開発された、猫の繁殖ローグライク戦闘ゲーム「ミュージェニックス」が、来週ついにリリースされます。長い開発期間を経て、開発者はこのゲームを完成させました。ミュージェニックスは、プレイヤーが猫の繁殖を管理しながら、ローグライクな戦闘システムを楽しむことができます。開発者はこのゲームを「生意気な笑いを浮かべながらトイレから出てきます」と紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mewgenics-developers-reckon-going-for-a-full-launch-over-early-access-is-a-weird-thing-now",
-        "date": "2026-02-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Mewgenics：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "フィッシュスティックのことが頭から離れません。食べ物ではなく、エドモンド・マクミレンとタイラー・グレイエルの新しいローグライト作品の世界に私が押し込んだ、潰れた顔とずんぐりした足の野良猫です。この猫はまるでフィッシュスティックのように愛らしいですが、同時に不気味な雰囲気も感じられます。開発者の2人は、プレイヤーに独特の体験を提供するために、さまざまな要素を組み合わせてこのゲームを作り上げました。ゲ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success",
-        "date": "2026-02-06",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "旧正月セール: DOOM / Dave the Diver / Tales of Graces f / Atomfall / Kingdom Come / Helldivers 2 / Dredge",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "旧正月セールがFanaticalで始まりました。人気タイトルを特価で購入できます。アクションゲームファンには、高速アクションの「DOOM」や「Helldivers 2」が楽しめます。アドベンチャーゲーム好きには、「Dave the Diver」や「Dredge」がオススメです。また、RPGファンには、「Tales of Graces f」や「Kingdom Come」が注目されています。さらに、戦術的なゲームプレイを楽しむことができる「Atomfall」も販売中です。旧正月セールでは、様々なジャンルのゲームが特価で提供されていますので、是非この機会に探してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "ウィンター セールでSTAR WARS Jediなどが激安",
+        "platform": "Epic Games",
+        "type": "sale",
+        "description": "Epic Gamesのウィンター セールが始まりました。STAR WARS Jediをはじめ、注目のゲームが勢揃いして登場します。このセールでは、STAR WARSシリーズの最新作や人気ゲームが大幅に価格割引されます。ゲームファンには夢のようなチャンスです。 STAR WARS Jediは、STAR WARSシリーズのファン必見のゲームで、壮大な宇宙を舞台にしたストーリーや、迫力のあるアクションが楽しめます。また、グラフィックも高品質で、ゲームの世界に没入できます。 さらに、セール期間中は、他の人気ゲームも大幅に価格割引されるので、気になるゲームを探すこともおすすめです。Epic Gamesのウィンター セールは、ゲームファンが冬の寒い季節を暖かく過ごせるチャンスです。ぜひこの機会に、様々なゲームを試してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "PlayStation PCセール：HELLDIVERS 2、Stellar Bladeなど",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "PlayStation PCセールは、様々な人気ゲームを安価でお楽しみいただける、特別な機会です。HELLDIVERS 2やStellar Bladeなど、さまざまなジャンルのゲームが勢揃いしています。HELLDIVERS 2は、協力プレイを重視したアクションゲームで、地球外の生命体との戦いを経験できます。一方、Stellar Bladeは、美しいグラフィックとスムーズなゲームプレイが特徴のアクションアドベンチャーゲームです。PlayStation PCセールでは、これらのゲームを含む様々なタイトルが割引価格で提供されます。ゲーマーの皆さんにとって、自宅で新しいゲーム体験をする絶好の機会です。Steamプラットフォームでお楽しみいただけます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "[Epic Games] スピリット キャッチャー 93' - 75% オフ ($3.74 USD)",
+        "platform": "Epic Games",
+        "type": "sale",
+        "description": "Epic Games で現在開催されているセールで、注目を集めるタイトルが登場しました。『スピリット キャッチャー 93'』が 75% オフ の驚きの価格で提供されています。このゲームは、ユニークな世界観とキャラクターで知られており、プレイヤーを新しい冒険の世界に引き込むことでしょう。スピリット キャッチャー 93' では、プレイヤーは様々なスピリットと出会い、それらをキャッチしてコレクションを完成させることを目指します。このゲームでは、ストーリーに沿ったミッションや自由に探索できるオープンワールドが特徴です。 ゲームのグラフィックとサウンドトラックは、プレイヤーに深い印象を与えるもので、魅力的なキャラクターと美しい環境が繰り広げられるでしょう。さらに、ゲームの難易度は、初心者から上級者まで幅広いプレイヤーに適しているため、誰でも楽しむことができます。現在、Epic Games で 75% オフ の特別価格 $3.74 USD で提供中なので、興味のあるゲーマーにはおすすめの購入機会です。スピリット キャッチャー 93' をプレイして、未知の世界でスピリットを捕まえ、心を引き付ける冒険に興じてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "[Steam] Grapplers: Relic Rivals ($5.59 / 60% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Grapplers: Relic Rivalsは、Steamで現在60%オフのキャンペーン中です。通常価格よりも大幅に割引された5.59ドルで購入できるこのゲームは、格闘ゲームのファンにとって大変魅力的です。タイトルから推測されるように、レリックをめぐってライバルたちと対戦するというコンセプトが特徴的です。プレイヤーは、さまざまなスキルや能力を持つキャラクターを操作して、相手に勝利を収めることを目指します。キャラクターのカスタマイズや、様々なステージでの対戦も楽しめます。ストーリーモードやマルチプレイモードにも対応しているため、友人との対戦や、キャラクターのストーリーを追うこともできます。格闘ゲームを好きになるきっかけとなる、手ごろな価格設定に注目してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-10"
+      },
       {
         "title": "[Steam] SECTOR ZERO ($3.59 / 10% オフ) 2 月 17 日まで",
         "platform": "Steam",
@@ -572,66 +655,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-02-04"
-      },
-      {
-        "title": "ディヴィニティ シリーズ セール",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "ディヴィニティ シリーズ セールです。GOG で開催中のこのセールでは、ファンタジー世界を舞台にしたオープンワールド RPG の名作シリーズ「ディヴィニティ」が大幅にディスカウント価格になります。このシリーズは、深いストーリー、複雑なキャラクター、自由度の高いゲームプレイが特徴で、ファンから高い評価を得ています。幅広いスキルや魔法を活用して、自分だけの戦闘スタイルを楽しんだり、キャラクターの成長をカスタマイズでき、リプレイ性も非常に高いです。さらに、シリーズの中には、協力プレイや対戦プレイも可能なタイトルがあり、友人と一緒に冒険することもできます。ディヴィニティ シリーズ セールでは、シリーズのさまざまなタイトルや DLC が割引価格で提供されるので、まだ遊んでいない方はもちろん、シリーズのファンにもおすすめです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "ウィークリーセール：レムナント２、ウォーハンマー４０、０００、バイオハザード４、バイオハザードリメイク、ディノクライシス２、オーバークック２等",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGでの週末セールは、熱い戦いの世界を舞台にした「レムナント２」や、壮大なファンタジー世界を体験できる「ウォーハンマー４０、０００」など、様々なジャンルのゲームが大幅な値下げになっています。また、人気のサバイバルホラー「バイオハザード４」やそのリメイク版、クラシックなサバイバルゲーム「ディノクライシス２」もセール対象です。他にも、協力プレイが楽しめる「オーバークック２」など、友達と一緒にプレイするのにぴったりのゲームが多数ラインナップされています。ゲーム好きの方には、きっとお待ちかねのタイトルが含まれているでしょう。セールは期間限定なので、気になるゲームはお急ぎください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "インディーゲーム セール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "インディーゲーム セールです。さまざまなジャンルのインディーゲームが大幅に割引されています。アクションゲーム、ロールプレイングゲーム、パズルゲームなど、様々なゲームが勢揃いしています。Steamでのセール期間中は、多くのインディーゲームを特別な価格で購入することができます。セール中のゲームはすべて、インディーゲーム開発者の創造性と独自性を感じることができます。グラフィックの美しさや、独自のゲームシステム、そしてストーリーの深みなど、様々な要素が魅力的に表現されています。インディーゲーム セールでは、知られざる名作や、新しい発見を待つ隠れた宝石のようなゲームも多数登場します。セール中のゲームをチェックして、自分に合った新しいゲームを発見してみてください。インディーゲーム セールでは、ゲームファンにとって、新しい体験や楽しみを提供する素晴らしい機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "[Steam] Glyphica : タイピング サバイバル - ($6.99/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で提供されている「Glyphica : タイピング サバイバル」は、タイピングを活用したサバイバルゲームです。このゲームでは、タイピングのスピードと正確さが、プレイヤーの生存に直接影響します。様々な挑戦と障害をタイピングで克服しながら、ゲームの世界を進んでいきます。 このゲームの特徴は、タイピングのスキルが直接ゲームの進行に影響することです。タイピングを通じて、敵を倒したり、道具を取得したり、さまざまな問題を解決していきます。タイピングの速度と正確さを高めることで、ゲーム内での生存率を高めることができます。 「Glyphica : タイピング サバイバル」は、タイピングの練習を楽しくするための新しいアプローチを提供します。通常のタイピング練習とは異なり、ゲームの要素を取り入れたこのゲームは、プレイヤーを楽しませながらタイピングのスキルを向上させます。現在、30% オフの特別価格で提供されており、タイピングのスキルを試したい方や、サバイバルゲームのファンにはお勧めです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-02"
-      },
-      {
-        "title": "DOOM: The Dark Ages スチーム版 大幅割引",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DOOM: The Dark Ages スチーム版の大幅割引が現在行われています。こちらのゲームは、人気シリーズのDOOMをベースに、中世の暗き時代を舞台に、強大な悪魔たちと戦う、アクションパック済みのファーストパーソン・シューティングゲームです。このゲームでは、プレイヤーは中世の世界に飛ばされ、恐ろしげな悪魔たちと対決しながら、自分の生存を賭けて戦います。 グラフィックとサウンドは、臨場感あふれる中世の雰囲気を体験できるよう、詳細に作り込まれています。複数の兵器や魔法を使い、悪魔たちを一掃して進んだり、さまざまなパズルを解くことで新たなエリアを解放していくこともできます。ストーリーモードでは、プレイヤーは自分のスキルを試し、多様な悪魔たちと対戦します。さらに、マルチプレイモードでは、友人と一緒に協力して悪魔を討伐したり、対戦モードで互いに戦うこともできます。 この割引期間中は、通常よりも大幅に安くDOOM: The Dark Agesを購入することができます。ファンである方や、新しいゲームを探している方には、絶好の機会です。Steam版では、簡単にゲームをダウンロードして遊ぶことができ、常に最新のバージョンが利用できます。ゲームを購入して、中世の世界で悪魔たちと戦い、爽快なアクションを体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-02"
       }
     ]
   },
@@ -689,5 +712,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-09T12:46:22.188395"
+  "last_updated": "2026-02-10T02:44:18.308725"
 }

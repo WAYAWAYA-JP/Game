@@ -11,31 +11,31 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
       },
       {
         "title": "Eternal Threads - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Eternal Threads』は、時間を自在に操り、選択肢を選んで世界を変化させていく、シングルプレイのパズルゲームです。このゲームでは、時間を操作する力を持って、物語の結末を変えていくことができます。プレイヤーは、選択するたびに新たな展開を見つけ、ストーリーを進めていくことができます。時間操作のパズルを解きながら、物語の核心に迫っていく、独自のゲームプレイが楽しめます。",
+        "description": "『Eternal Threads』は、時間を操作し、選択することで、物語の展開を変えていく、シングルプレイのストーリー重視のパズルゲームです。このゲームでは、時間を操る力を持つ主人公が、さまざまな選択肢を選んで物語を進めていきます。選択した内容によって、物語の結末が変化するため、プレイヤーは慎重に選択しながら、パズルを解いていく必要があります。このゲームの特徴的な時間操作システムと、選択による物語の変化は、プレイヤーに新たなゲーム体験を提供します。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
       },
       {
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のFPPアクションゲームです。前作『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦や没入感あふれる新たなストーリーが追加されています。さらに、迫力のバイクステージや改良されたスキル、サイバー忍者アクションが集結し、ゲームの魅力が増しています。サイバーパンクの世界を自由に駆け回り、強敵と戦い、スキルを磨くことで、より高度なアクションが可能です。『ゴーストランナー 2』は、サイバー忍者アクションゲームを好きになる人のために、最高のゲーム体験を提供するゲームです。",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの世界を舞台にした、ハイスピードのアクションゲームです。このゲームは、前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や新しいストーリー、バイクで疾走するステージ、改良されたスキル、サイバー忍者のアクションなどが盛り込まれています。サイバーパンクの街を駆け抜けるのは、迫力満点の体験になるでしょう。ゲームの世界は没入感があり、サイバー忍者のアクションはスリリングなものです。新しいストーリーや熾烈なボス戦も楽しみのひとつです。迫力のバイクステージや改良されたスキルも、ゲームの魅力を高めています。 『ゴーストランナー 2』は、サイバーパンクの世界を存分に楽しめる、アクションゲームのファン必見の作品です。",
         "price": "無料",
         "originalPrice": "¥4,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
       },
       {
         "title": "Nobody Wants to Die - Epic Games 無料配布中",
@@ -59,10 +59,46 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
       }
     ],
     "bundle": [
+      {
+        "title": "Overwhelming Positive Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-14"
+      },
+      {
+        "title": "Build Your Own Craft and Build Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-14"
+      },
+      {
+        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-14"
+      },
       {
         "title": "Build Your Own Romance Bundle",
         "platform": "Fanatical",
@@ -206,102 +242,66 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-02-05"
-      },
-      {
-        "title": "Resident Evil Villageほかが Steamで配信",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: a Gun、SteamWorld Build、Bus Simulator 21 Next Stop",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Resident Evil Villageなどが含まれたゲーム群がSteamで配信",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: a Gun、SteamWorld Build、Bus Simulator 21 Next Stop",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "Resident Evil Villageほかが登場する２月の新作ゲーム",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: a Gun、SteamWorld Build、Bus Simulator 21 Next Stop",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-04"
       }
     ],
     "review": [
       {
-        "title": "【Absolum：レビュー】",
-        "platform": "doope!",
+        "title": "「ゲームのレビュー点数を理不尽に厳しくするゲーマー心理」を巡って議論白熱。“目が肥えた”結果なのか、好みの問題か",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "昨年10月にリリースされて以来、高い評価を獲得し、先日50万本の販売突破が報じられたDotemuとGuard Crush Games、Supamonksの共同開発による完全新作ベルトスクロールアクション「Absolum」が、新たなステージに突入します。Doteumuは、ファンからの熱い支持に応えて、新しいアップデートやコンテンツを発表しています。ベルトスクロールアクションファンには、必見のニュース",
+        "description": "ゲーマーの間では、ゲームのレビューに点数を付ける基準を巡る議論が活発に行われています。ゲーマーコミュニティでは、ゲームの評価基準について意見が分かれており、多くのゲーマーが自分の意見を主張しています。このような議論は、ゲームの魅力を引き出す上でとても重要です。各ゲーマーがゲームに対する独自の視点を共有することで、より多くの人にゲームの楽しさが伝わります。さらに、ゲームの評価基準を明確にすることで、",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/02164141.html",
-        "date": "2026-02-13",
+        "url": "https://automaton-media.com/articles/newsjp/20260214-420967/",
+        "date": "2026-02-14",
         "is_translated": false
       },
       {
-        "title": "Steam レビューでは、プレイヤーのスペックが表示されているため、各プレイヤーの体験を共有する意図があれば、それを見て簡単に判断することができます。最低限のシステム要件を読み間違えているプレイヤーと、意図的に体験を共有するプレイヤーを区別することも容易です。",
-        "platform": "PC Gamer",
+        "title": "【Mewgenics：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "ただし、これはユーザーが追加を選択した場合に限ります。",
+        "description": "2013年8月の発表から13年近く経った先日、待望のローンチを迎えたローグライクゲーム「Mewgeni」は、高い評価を獲得しています。这は、Edmund McMillen氏とTyler Glaiel氏による遺伝子組み替えネコの育成をテーマにしたユニークなゲームです。プレイヤーはネコを育てながら、遺伝子組み替えの結果を体験し、さまざまな能力を持ったネコを育てることができます。このゲームは、ユーモアと",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/steam-reviews-set-to-show-a-players-specs-so-its-easier-to-know-if-youll-share-their-experience-or-they-misread-the-minimum/",
+        "url": "https://doope.jp/2026/02164156.html",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【ハイ・オン・ライフ 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "創造的で面白く、そして厄介な問題を抱えた驚くほど冷静な冒険。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/high-on-life-2-review/",
         "date": "2026-02-13",
         "is_translated": true
       },
       {
-        "title": "【モンスターハンターストーリーズ3 ～運命の双竜～：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『モンスターハンターストーリーズ3 ～運命の双竜～』を、過去のシリーズ2作品を合計700時間ほど遊んだ筆者が先行プレイした感想をお届けします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/monster-hunter-stories-3-20260212-420220/",
-        "date": "2026-02-12",
-        "is_translated": false
-      },
-      {
-        "title": "【リンチオーブン：ゲームの世界を深く探索】",
+        "title": "【龍が如く 極 3：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "それは隣人としてやるべきことだ。",
+        "description": "私はこの地球に残された限られた時間を大切にしているので、オリジナルとリメイクの両方を同時にプレイしているのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/one-of-the-best-reviewed-new-games-on-steam-right-now-is-about-feeding-raccoons-and-cryptids-with-the-cosmic-lynchian-oven-of-your-eerie-woodland-house/",
-        "date": "2026-02-12",
+        "url": "https://www.pcgamer.com/games/action/yakuza-kiwami-3-spoils-an-interesting-remake-with-odd-changes-and-an-abysmally-misjudged-recast/",
+        "date": "2026-02-13",
         "is_translated": true
       },
       {
         "title": "【ゼロ パレード：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Disco Elysiumの続編であるZero Paradesについて具体的な情報が公開されました。ZA/UMによる新しいRPGであることが確かです。その他の詳細はまだ明らかになっていませんが、ファンの期待が高まっています。ZA/UMの新作は、ファンやゲーマーの間で大きな注目を集めています。Disco Elysiumの続編として、Zero Paradesは新しいストーリーやキャラクターを導入する予",
+        "description": "Disco Elysium の続編である Zero Parades について具体的な情報があるとすれば、それは ZA/UM が新しい RPG を制作しているということだけです。その他の詳細については、すべてがあなたの想像に任せられることになります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,7 +314,7 @@
         "title": "【マスターズ オブ アルビオン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ピーター・モリニューの取り組みには、確かに称賛に値するものがあります。彼は、マスターズ・オブ・アルビオンに至るまで、際限なく過剰な約束をし続けてきました。しかし、尊敬していると言っているわけではありません。彼の情熱と、ゲームへの懸念が高く評価できるところです。",
+        "description": "ピーター・モリニューの取り組みは、確かに称賛に値するものがあります。彼の最後のゲームであるマスターズ オブ アルビオンに至るまで、際限なく過剰な約束をし続けたのは、彼の情熱と挑戦精神が高く評価できるからです。しかし、彼の姿勢には、尊敬するものではありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -327,7 +327,7 @@
         "title": "【Starsand Island：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "新しい農業シミュレーションゲームが登場し、Starsand Islandの形をとっています。このゲームは、プレイヤーが島で農業をして生活するという内容です。ゲームの目標は、島で自給自足の生活を送ることであり、プレイヤーは農業を通じて資源を集め、島を発展させていきます。島にはさまざまな資源や物資が存在し、プレイヤーはこれらを活用して島を豊かにしていきます。ゲームは、プレイヤーが農業を通じて島で生活す",
+        "description": "新しい農業シミュレーションゲームが登場し、Starsand Island の魅力的な世界を舞台にしています。このゲームは、プレイヤーが島で農業を営みながら、自然と調和した生活を送ることができる、心地よい体験を提供します。農業を通じて島の景観を変え、住民との関係を深めながら、豊かな島の生活を満喫できます。Starsand Island の豊かな自然と住民との交流を楽しみながら、農業シミュレーションの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -337,10 +337,10 @@
         "is_translated": true
       },
       {
-        "title": "【Re:Animal：レビュー】",
+        "title": "【Reanimal：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "「子どもたちのことを考えて」という声に悩まされているゲーム業界において、メガネザルのゲームは大人が夢にも思わないほど子どもたちが完全に堕落する可能性があることを思い出させるのに役立つ。子どもたちが自由に遊ぶことで得られる経験は、思わぬ方向へ進む可能性があり、それは大人が想像できないほどのものとなる場合がある。このゲームは、そんな子どもたちの世界を垣間見せるものです。",
+        "description": "子どもたちのことを考えてほしいという声が業界の中で絶えない中、メガネザルのゲームは、誰もが想像できなかった方法で、子どもたちが完全に堕落する可能性を思い出させるものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -352,16 +352,52 @@
     ],
     "sale": [
       {
+        "title": "[Steam] トラピスト - (€12/20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "トラピストは、独特な魅力を持つシミュレーションゲームです。修道院を管理し、トラピスト修道士たちを導いて、繁栄する修道院を築き上げます。このゲームでは、修道院の運営と発展を通じて、プレイヤーは経済、農業、そして信仰のバランスをとる必要があります。修道僧たちを訓練し、さまざまな職業に就かせ、修道院のあらゆる側面を管理することができます。美しく描かれたグラフィックと、穏やかなサウンドトラックが、プレイヤーを修道院の世界に没頭させます。修道院を運営することに伴う喜びと課題を体験し、トラピストの世界で自分のスタイルを発揮してください。Steamで現在20%オフの特別価格で提供中です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-14"
+      },
+      {
+        "title": "High On Life 2 (€53.50 -9% オフ / £46.20 -7% オフ / $51.60 / -13% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "High On Life 2は、スチームプラットフォームで提供されているアクションパックドなゲームです。欧州、英国、米国でのみ利用可能なこのタイトルは、現在9%、7%、13%オフの特別セール中です。価格はそれぞれ€53.50、£46.20、$51.60です。High On Life 2は、スチームアクティベーションに対応しており、スチームのユーザーたちはこの魅力的なゲームワールドを体験できます。ゲーム内では様々なステージやミッションをプレイすることができ、ユニークなキャラクターと壮大なストーリーが用意されています。アクションゲームを好むゲーマーには、たまらない魅力的なゲームです。スチームでのゲームプレイを始めるには、スチームアクティベーションを使用してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-14"
+      },
+      {
         "title": "[ファナティカル] 黒神話悟空 ($41.99 / 30% オフ)",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "ファナティカルでは、人気ゲーム「黒神話悟空」のセールが行われています。このゲームは、中国の古代神話を基にした独自の世界観と、高速でアクション満載のゲームプレイが特徴です。主人公の悟空を操作して、様々な敵と戦闘を繰り広げ、強大な力を身につけていきます。中国の伝統的な文化と神話が融合されたグラフィックも、目を引く要素のひとつです。ファナティカルでのセールにより、通常価格より30%オフになるので、興味があるゲーマーにはおすすめです。限時セールなので、迷わず購入してこの魅力的なゲームの世界に踏み出してみてください。",
+        "description": "ファナティカルでは、人気ゲーム「黒神話悟空」が30%オフになりました。通常価格の41.99ドルから大幅ディスカウントされたこのゲームは、ファンタジーとアクションを融合させたユニークな世界観が特徴です。プレイヤーは、神話的な存在である悟空を操作し、様々な敵と戦いながら、自分だけのストーリーを紡ぎ出します。 このゲームでは、スムーズな操作と華麗なアクションシーンが楽しめます。さまざまな武器やスキルを駆使して、強大な敵を打倒し、キャラクターを成長させていくことができます。また、豊富なストーリーやキャラクターのバリエーションも楽しめます。 ファナティカルでのセール期間中は、通常価格より大幅に安くなっているため、気になるゲーマーにはおすすめのチャンスです。アクションゲームやファンタジーが好きな方には、ぜひこの機会に「黒神話悟空」を体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-02-13"
+        "date": "2026-02-14"
+      },
+      {
+        "title": "Steam の LRHDB セール イベントでは、100 以上のゲームが割引されます。",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam の LRHDB セール イベントは、待ちに待ったゲームの祭典です。100 を超えるタイトルが割引されるこのイベントでは、ゲーマーたちはさまざまなジャンルのゲームをよりお手頃な価格で楽しむことができます。アクションゲーム、ロールプレイングゲーム、ストラテジーからアイドルゲーム、サンドボックスゲーム、スポーツゲームまで、多彩なラインナップが用意されています。 セール期間中は、人気タイトルが大幅に割引されるため、長期間待っていたゲームを安価で入手するチャンスです。また、新しいゲームを発見する機会にもなり、ゲーマーたちは新しいスタイルやジャンルを試すことができます。Steam コミュニティの活発な議論やレビューも参考にすれば、本当に面白いゲームを見つけることが容易です。 このイベントは、Steam プレイヤーにとって大きな喜びです。ゲームの世界をより多くの人に楽しんでもらおうと、Steam が用意した特別な贈り物です。様々なゲームを探索し、友人や家族と共有する楽しみを体験してみてください。このセール イベントで新たなゲームの冒険を始めてみませんか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-14"
       },
       {
         "title": "[Steam] 皮剥ぎされた男 ($1.79/40% オフ)",
@@ -554,42 +590,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-10"
-      },
-      {
-        "title": "[Epic Games] スピリット キャッチャー 93' - 75% オフ ($3.74 USD)",
-        "platform": "Epic Games",
-        "type": "sale",
-        "description": "Epic Games で現在開催されているセールで、注目を集めるタイトルが登場しました。『スピリット キャッチャー 93'』が 75% オフ の驚きの価格で提供されています。このゲームは、ユニークな世界観とキャラクターで知られており、プレイヤーを新しい冒険の世界に引き込むことでしょう。スピリット キャッチャー 93' では、プレイヤーは様々なスピリットと出会い、それらをキャッチしてコレクションを完成させることを目指します。このゲームでは、ストーリーに沿ったミッションや自由に探索できるオープンワールドが特徴です。 ゲームのグラフィックとサウンドトラックは、プレイヤーに深い印象を与えるもので、魅力的なキャラクターと美しい環境が繰り広げられるでしょう。さらに、ゲームの難易度は、初心者から上級者まで幅広いプレイヤーに適しているため、誰でも楽しむことができます。現在、Epic Games で 75% オフ の特別価格 $3.74 USD で提供中なので、興味のあるゲーマーにはおすすめの購入機会です。スピリット キャッチャー 93' をプレイして、未知の世界でスピリットを捕まえ、心を引き付ける冒険に興じてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "[Steam] Grapplers: Relic Rivals ($5.59 / 60% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Grapplers: Relic Rivalsは、Steamで現在60%オフのキャンペーン中です。通常価格よりも大幅に割引された5.59ドルで購入できるこのゲームは、格闘ゲームのファンにとって大変魅力的です。タイトルから推測されるように、レリックをめぐってライバルたちと対戦するというコンセプトが特徴的です。プレイヤーは、さまざまなスキルや能力を持つキャラクターを操作して、相手に勝利を収めることを目指します。キャラクターのカスタマイズや、様々なステージでの対戦も楽しめます。ストーリーモードやマルチプレイモードにも対応しているため、友人との対戦や、キャラクターのストーリーを追うこともできます。格闘ゲームを好きになるきっかけとなる、手ごろな価格設定に注目してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "[Steam] SECTOR ZERO ($3.59 / 10% オフ) 2 月 17 日まで",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "SECTOR ZERO は、Steam プラットフォームで現在 10% オフの特典価格 $3.59 で提供されています。この魅力的なオファーは 2 月 17 日まで有効です。SECTOR ZERO は、未来的な世界観とスリリングなアクションが絡み合う、ハートポンプなゲーム体験を約束しています。プレイヤーは、未知の領域で様々な課題に立ち向かうことで、自身のキャラクターを成長させます。さまざまな能力やアイテムを活用して、ゲームの奥深いストーリーや複雑なゲームメカニクスに没頭することができます。限時セール期间中に SECTOR ZERO を手に入れることで、他のプレイヤーたちと共にこのダイナミックなゲーム世界を自由に探索できます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-09"
       }
     ]
   },
@@ -647,5 +647,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-13T12:37:46.936045"
+  "last_updated": "2026-02-14T02:25:19.968600"
 }

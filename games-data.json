@@ -11,31 +11,31 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
       },
       {
         "title": "Eternal Threads - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Eternal Threads』は、時間を操作し、選択することで、やがてを変えていく、シングルプレイのストーリーが中心のパズルゲームです。このゲームでは、時間の流れを操作する力を持って、ストーリーの結末を変えることができます。選択肢によって物語は様々に変化し、プレイヤーはパズルを解きながら、さまざまな結末を見つけていくことができます。ストーリーに深みを加える多彩なキャラクターと、時間操作の要素が融合することで、プレイヤーは新しい体験をすることができます。時間操作を利用して、複数の結末を目指すことは、プレイヤーに新たな挑戦と楽しみを提供するでしょう。",
+        "description": "『Eternal Threads』は、時間を操り、選択によって未来を変えていく、シングルプレイのストーリー要素が豊かなパズルゲームです。このゲームでは、時間を操作する力を持って、様々な選択を行い、物語の展開を変化させていきます。プレイヤーは、パズルを解決することで、ストーリーが進展し、最終的に物語の結末を変えることができます。時間操作と選択の要素が融合したこのゲームは、プレイヤーに新しい体験を提供することでしょう。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
       },
       {
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を疾走するアクションゲームで、先行作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や新たなストーリーが追加されています。さらに、新たなバイクステージや改良されたスキルも導入され、サイバー忍者アクションがより一層充実しています。迫力のあるゲームワールドで、プレイヤーは新たな体験を楽しむことができます。",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のあるファーストパーソンシューティングゲームです。前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や没入感の高い新しいストーリー、スピード感のあるバイクステージ、スキルの改良、サイバー忍者のアクションが集まっています。ゲームでは、プレイヤーはサイバーパンクの世界を探索し、強力な敵と戦い、スキルやアクションを駆使して、ゲームの世界を体験できます。ゲームのグラフィックやサウンドも、サイバーパンクの世界を実現するために高品質になっています。",
         "price": "無料",
         "originalPrice": "¥4,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
       },
       {
         "title": "Nobody Wants to Die - Epic Games 無料配布中",
@@ -59,10 +59,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own 3D Platformer Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-17"
+      },
       {
         "title": "Overwhelming Positive Games Bundle",
         "platform": "Humble Bundle",
@@ -77,18 +101,6 @@
       },
       {
         "title": "Is it not allowed to post bad humble bundle experience here?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-16"
-      },
-      {
-        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -230,18 +242,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-02-07"
-      },
-      {
-        "title": "Build Your Own Platinum Collection (February 2026)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-02-06"
       }
     ],
     "review": [
@@ -249,7 +249,7 @@
         "title": "【けん玉100人シミュレーター：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "インディーゲームスタジオのWINGLAYは2月14日、『けん玉100人シミュレーター（The Kendama Challenge: 100 Players）』のデモ版を公開しました。このゲームは、けん玉を楽しむ100人のプレイヤーが登場するユニークなシミュレーションゲームです。デモ版の公開により、ファンやゲーマーたちは、この新しいゲームの世界を味わうことができます。WINGLAYの『けん玉100人",
+        "description": "インディーゲームスタジオのWINGLAYは、2月14日に新しいゲームのデモ版を公開しました。そのゲームは『けん玉100人シミュレーター』と呼ばれ、けん玉をテーマにしたユニークなシミュレーションゲームです。プレイヤーは、けん玉を回してみたり、他のプレイヤーと対戦したりすることができます。このゲームは、簡単な操作で誰でも遊べるように設計されています。デモ版の公開により、ゲーマーたちはこの新しいゲームの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,7 +262,7 @@
         "title": "【ロミオ・イズ・ア・デッドマン：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ロミオ・イズ・ア・デッドマン』の公式Xアカウントでは、メディアレビューの紹介を実施しています。高得点のレビューだけでなく、低得点のレビューも全てまとめて紹介しており、その姿勢は称賛を集めています。",
+        "description": "『ロミオ・イズ・ア・デッドマン』の公式Xアカウントは、メディアレビューを紹介するという企画を行っています。高得点のレビューだけではない、低得点のレビューも含めて全てをまとめて紹介するというユニークなアプローチが話題となり、称賛を受けています。このアカウントでは、さまざまなメディアからのレビューを網羅し、ゲームの良さを多角的に紹介しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,7 +275,7 @@
         "title": "【Dark Pals: The 1st Floor：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Skunx Gameは2月14日、シングルプレイヤー向けのマスコットホラーゲーム『Dark Pals: The 1st Floor』のSteamストアページを公開し、無料体験版を配信しました。このゲームは、打ち捨てられた児童精神療養施設を舞台に、マスコットから逃げながら施設の謎に迫るホラーゲームです。施設の中で起こる様々な出来事や恐ろしい体験を通じて、プレイヤーは施設の暗い秘密に迫っていくことがで",
+        "description": "Skunx Gameは2月14日、シングルプレイヤー用のマスコットホラーゲーム『Dark Pals: The 1st Floor』のSteamストアページを公開しました。また、無料体験版も同時に配信されました。本作は、打ち捨てられた児童精神療養施設を舞台に、マスコットキャラクターから逃げながら施設の謎に迫る、スリリングなホラーゲームです。施設の奥深い謎に迫るにつれ、恐怖が増し、プレイヤーはマスコッ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -285,10 +285,10 @@
         "is_translated": false
       },
       {
-        "title": "【ポコ・ア・ポケモン：レビュー】",
+        "title": "【ぽこ あ ポケモン：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スローライフ・サンドボックスゲーム『ぽこ あ ポケモン』の試遊プレイ感想をお届けします。このゲームでは、ゆったりとした生活を送りながら、自由に冒険することができます。ポケモンたちと出会い、友達になり、楽しい時間を過ごすことができます。このゲームの特徴は、ゆっくり遊ぶことができることです。時間に追われることなく、ポケモンたちと楽しく遊び、自然の中で冒険することができます。試遊プレイでは、ゲームの世界",
+        "description": "スローライフ・サンドボックスゲーム『ぽこ あ ポケモン』の試遊プレイ感想をお届けします。このゲームでは、ゆっくりしたペースで自由に冒険ができるので、ストレスを感じることなく、ポケモンの世界を満喫できます。様々なポケモンと出会い、友達になることができ、楽しい時間を過ごすことができます。試遊プレイを通じて、ゲームの魅力を紹介しますので、兴味がある方はぜひご覧ください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -298,15 +298,54 @@
         "is_translated": false
       },
       {
-        "title": "Discordは、自動検出とAI検証を組み合わせた上で、人間によるレビューを実施し、エージゲートするサーバーを決定する予定です。この方法により、エージゲート対象となるサーバーをより的確に判定し、ユーザーの安全性を高めることが期待されています。",
+        "title": "アヤネオは旧正月を記念して、米国にある拠点の修理施設で現在テスト中の新しい顧客サービス向上計画を開始します。この計画はより質の高いサービスを提供することを目的とします。旧正月に合わせて始まるこの新しい取り組みは、顧客の満足度を高めるための重要なステップです。また、現在テスト中のサービスは、より迅速で効率的な対応を可能にし、顧客のニーズに応えるための重要な取り組みです。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "何が問題になる可能性がありますか?",
+        "description": "メモリ危機の深刻化により、一部の現行製品の販売が中止される可能性があると警告している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/software/discord-will-decide-which-servers-to-age-gate-with-a-combination-of-automated-detection-with-ai-validation-and-human-review/",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-celebrates-the-chinese-new-year-with-the-launch-of-a-new-customer-service-improvement-plan-with-us-based-repair-facilities-currently-being-tested/",
+        "date": "2026-02-16",
+        "is_translated": true
+      },
+      {
+        "title": "【龍が如く 極 3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "カメラの前で他人に性的暴行を加えた人物のキャスティングを無視したとしても、このリメイクは元の作品に比べると質が落ちていると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/yakuza-kiwami-3s-blunders-have-made-it-the-worst-reviewed-game-in-the-series-on-steam-creatively-bankrupt-doesnt-even-begin-to-describe-the-current-state-of-rgg/",
+        "date": "2026-02-16",
+        "is_translated": true
+      },
+      {
+        "title": "この宇宙を舞台にしたMMOゲームは、AIによってコードが書かれ、AIによってプレイされるため、プレイヤーはそれを見て楽しむことしかできません。ゲームの中では、AIがプレイヤーの代わりにゲームを操作し、宇宙を冒険します。プレイヤーはこの世界を探索し、宇宙の不思議を体験することができます。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "SpaceMolt は、AI エージェント同士が対決する、独自のバイブで彩られた「生きた宇宙」です。このゲームでは、プレイヤーは、さまざまな AI エージェントが自らのルールで動き出す、ダイナミックで生き生きとした宇宙を体験できます。バイブコーディングされたこの世界では、プレイヤーは、常に変化する状況に応じて、戦略的に行動して、宇宙を制覇することを目指します。SpaceMolt は、プレイヤーに、",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/this-space-mmo-was-coded-by-ai-is-played-by-ai-and-all-us-meatbags-can-do-is-watch-them/",
+        "date": "2026-02-16",
+        "is_translated": true
+      },
+      {
+        "title": "【ヴァンパイア：ザ・マスカレード - ブラッドライン2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ブラッドライン2のステータスを持つ「チャイニーズ ルームのヴァンパイア：ザ マスカレード」をプレイした人を呼んでください。私は怪しげなニュースサロンの両開きドアを突き破りながら叫んだ。そうだね、ヴァンパイアをテーマにしたこのゲームは、プレイヤーに興奮と緊張をもたらす。ブラッドライン2の世界では、ヴァンパイアの血統とその秘密を探求することができる。様々なキャラクターと出会い、物語を進めながら、ヴァン",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/hardsuits-canned-vampire-the-masquerade-bloodlines-2-refuses-to-fade-away-as-leaked-gameplay-videos-show-what-might-have-been",
         "date": "2026-02-16",
         "is_translated": true
       },
@@ -314,7 +353,7 @@
         "title": "【RE:ANIMAL：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "弊誌はリリースの前日となる12日、東京の恵比寿ガーデンルームで開催された本作の完成披露会を取材しました。このイベントでは、開発者の熱い情熱と工夫が込められたゲームの世界が紹介され、会場は大いに盛り上がりました。ゲームファンや関係者の間で、期待が高まる本作について、開発者のコメントや、ゲームプレイの様子などを詳しく紹介します。",
+        "description": "弊誌は、リリースの前日となる12日、東京・恵比寿ガーデンルームで開催された本作の完成披露会を取材しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -324,36 +363,10 @@
         "is_translated": false
       },
       {
-        "title": "【Hellscreen：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『Doom』のようなシューティングゲームは、予算上の理由により、より完成度の高いゲームになることができませんでした。ゲーム開発者は、より高度なグラフィックや豊富なゲームプレイを実現したかったと思われますが、予算の制約により、最終的に目標を達成することができませんでした。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/hellscreen-the-fps-with-a-rear-view-mirror-has-left-steam-early-access-two-episodes-short-of-its-original-plan-this-is-a-bittersweet-experience-for-me/",
-        "date": "2026-02-15",
-        "is_translated": true
-      },
-      {
-        "title": "【UNBEATABLE：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年12月にようやく発売になったガールズバンドアドベンチャーゲーム「UNBEATABLE」は、高い評価を獲得しました。発売後も改善や拡張が続いており、新たなアップデートが発表されました。D-CELL GAMESより、PCとコンソールを対象とした1.7アップデートが実施され、これまでの不具合修正や新要素の追加などが行われました。このアップデートでは、ゲームの安定性とプレイヤビリティが向上し、より楽し",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164163.html",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "冬まで病気にならずに乗り切ることができるだろうと思っていましたが、いよいよ3月が近づいてきました。時計が変わって、明るい夕方が戻ってくる時期に差し掛かっているにもかかわらず、まだ寒さが厳しいため、体調を崩さないように気を付けなければなりません。冬の寒さが厳しい季節はあと少しあと、春の訪れを心待ちにしながら、健康を大切にしている毎日を送っています。",
+        "description": "冬まで病気にならずに乗り切れると思っていたのですが、いよいよ3月が近づいてきました。時計が変わり、明るい夕方が戻ってくる時期にさえなっても、まだまだ寒さは厳しく、体調を崩す人も多いようです。そんな中、体調を崩さずに冬を乗り切るために、健康に良い食事や生活習慣を心がけることが大切です。体調管理は、1日を始める前に、あるいは就寝前に行うことが効果的です。健康を維持するためのアプローチは人によって異なり",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -366,7 +379,7 @@
         "title": "【ゼロ パレード：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Disco Elysium の続編である Zero Parades に関して具体的な情報があるとすれば、それは間違いなく ZA/UM による新しい RPG であるということです。その他については、あなたの想像に委ねます。ZA/UM が新たな物語を紡ぐことで、プレイヤーは新しい世界観に没頭することになるでしょう。Zero Parades は、Disco Elysium の魅力的な世界観をさらに深化さ",
+        "description": "Disco Elysium の続編である Zero Parades について具体的に言えることは、それが ZA/UM による新しい RPG であるということだけです。その他の詳細は、まだファンの想像に任せられているようです。ZA/UM は、Disco Elysium で見せた革新的な物語とゲームプレイでファンの心を掴んだため、続編に対する期待も高まっています。Zero Parades がどのような",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -379,7 +392,7 @@
         "title": "【マスターズ オブ アルビオン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ピーター モリニューは、最後のゲームであるマスターズ オブ アルビオンに至るまで、常に高みを目指し、多大な努力を払ってきた。彼の取り組みは、確かに称賛に値するものです。ただし、彼のやり方に対しては、敬意を表するわけではありません。",
+        "description": "ピーター・モリニューの取り組みは、確かに称賛に値するものです。彼は、マスターズ・オブ・アルビオンに至るまで、際限なく過剰な約束をし続けてきました。彼の姿勢は、尊敬に値するものであり、ゲームファンや開発者から注目を集めています。しかし、彼のアプローチは、過去に批判されることもありました。そうした中で、彼の最後のゲームは、多くの期待を集めています。ゲームの世界では、ピーター・モリニューの名前は、常に話",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -392,7 +405,7 @@
         "title": "【Starsand Island：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "新しい農業シミュレーションゲームが登場し、 Starsand Island という名前でリリースされました。このゲームは、農業を通して新しい島で生活する楽しさを体験できる魅力的な作品です。農業シミュレーションゲームファンには、絶対に一度試してみるべきゲームです。",
+        "description": "新しい農業シミュレーションゲームが登場し、Starsand Island という名前にして登場します。この新しいゲームは、農業をテーマにしたシミュレーションゲームであり、プレイヤーが島で農業を行い、島を発展させていくという内容です。ゲームのグラフィックは美しく、島の自然をリアルに表現しています。また、ゲームのシステムも簡単に操作できるようになっており、初心者でも簡単に遊ぶことができます。農業シミュ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -400,33 +413,68 @@
         "url": "https://www.rockpapershotgun.com/a-day-after-launch-starsand-islands-devs-address-those-user-agreement-modding-and-fake-review-concerns",
         "date": "2026-02-12",
         "is_translated": true
-      },
-      {
-        "title": "【Reanimal：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "子どもたちのことを考えてとの声に悩まされているゲーム業界において、メガネザルのゲームは大人が夢にも思わないような方法で、子どもたちが完全に堕落する可能性があることを思い出させるのに役立つ。後は子供たちを守るか、放っておくかの選択が迫られます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/reanimal-review-the-dollhouse-horror-of-little-nightmares-gives-way-to-a-grimier-tale-of-war-and-slaughter",
-        "date": "2026-02-11",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Steam] ローグ ゾディアックス (82% OFF)",
+        "title": "[Steam] ダーク ピクチャーズ アンソロジー: シーズン 1 (90% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "ローグ ゾディアックスは、プレイヤーが惑星を漂う宇宙ステーションでサバイバルを試みる、ローグライクの宇宙サバイバルゲームです。このゲームでは、プレイヤーはさまざまなアイテムやスキルを駆使して、宇宙ステーション内の危険なエリアを探索し、敵を倒し、資源を集めながら生き残ることを目指します。宇宙ステーションの各エリアはランダムに生成されるため、毎回新しい体験ができるようになっています。 ローグ ゾディアックスでは、プレイヤーは多種多様なキャラクターから選択可能で、それぞれにユニークな能力が存在します。さらに、ゲームには複数の難易度モードがあるため、初心者から上級者まで、各プレイヤーのニーズに応えることができます。Steam版のローグ ゾディアックスは、現在82%オフの特別セール中です。この機会に、宇宙ステーションでのサバイバルアドベンチャーを体験してみてはいかがでしょうか。ローグ ゾディアックスの魅力的なゲームプレイを今すぐお楽しみください。",
+        "description": "Steam で公開されている「ダーク ピクチャーズ アンソロジー: シーズン 1」は、90% オフの特別セールで提供されています。このゲームは、ホラーとサスペンスを融合させた、心を震わす体験をプレイヤーに提供します。ダーク ピクチャーズ シリーズの第一弾として、さまざまなダークな物語を収録しています。 各エピソードは、不気味で暗い雰囲気に包まれ、プレイヤーを恐怖と不安の世界に引き込みます。独自のストーリーラインと複数のエンディングを持つため、プレイヤーは自分の選択によって物語の進み方を決定できます。さらに、美しいグラフィックスと効果的なサウンドデザインによって、臨場感のある体験が可能です。 このセールは、ホラー ゲームのファンには絶好の機会です。通常価格の 10 分の 1 で、プレイヤーは「ダーク ピクチャーズ アンソロジー: シーズン 1」の全エピソードを楽しむことができます。恐怖とサスペンスが好きなゲーマーには、必見のタイトルです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
+      },
+      {
+        "title": "[Steam] トラブルシューター: 放棄された子供たち ($$6.24/75% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで現在開催中のセールでは、注目すべきタイトル「トラブルシューター: 放棄された子供たち」が75%オフの特別価格で提供されています。このアクションパックードなゲームでは、プレイヤーはトラブルシューターとなり、様々なミッションを遂行しながら、壮大な物語を体験します。豊富なアクションと、多様な敵キャラクターとの対決を楽しむことができ、ゲームの進め方も自由度が高く、プレイヤーの戦略性を試します。 このゲームの最大の魅力は、多様なキャラクターと、それぞれに独自の能力や戦闘スタイルを持つことです。プレイヤーは、自分の好みに合わせてキャラクターを選択し、スキルツリーを使用してキャラクターをカスタマイズすることができます。また、ゲームには様々な難易度が用意されており、初心者から上級者まで、幅広いプレイヤーが楽しむことができる内容となっています。 現在、Steamで75%オフの特別価格で提供中の「トラブルシューター: 放棄された子供たち」は、ギャンブル要素やアイテムの課金要素がありますが、魅力的で面白いゲームです。アクションゲームファンには特におすすめできます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Quantic Dreamのゲームが大幅割引 Beyond、Detroitなどが激安",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Quantic Dreamのゲームが大幅割引となりました。Steamで提供されているこのセールでは、BeyondやDetroitなど、人気のゲームが激安になっています。Quantic Dreamは、ストーリー重視のゲームで知られており、プレイヤーを引き込むキャラクターと物語が特徴です。このセールを利用すれば、これまでお試ししたかったQuantic Dreamのゲームを安心して購入することができます。また、Quantic Dreamのファンであれば、コンプリートするために欠けているタイトルを追加する機会となります。セール期間中、BeyondやDetroitなどのゲームを大幅割引で購入できます。Steamで今すぐチェックしてみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Styx: Blades of Greed スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Styx: Blades of Greed は、Steam で配信されている、アクションアドベンチャーゲームです。このゲームは、プレイヤーが主人公スタイクスを操作し、ダークファンタジーの世界を探索することを特徴としています。スタイクスは、貧困に苦しむ世界で生きるために、盗賊や暗殺などの非合法的な活動を行うグノームです。 このゲームは、ステルスアクションとアドベンチャーの要素を組み合わせた、独自のゲームプレイスタイルを提供します。プレイヤーは、スタイクスの能力を活用して、敵を倒したり、宝物を狙ったりすることができます。また、ゲームの世界は、美しくも不気味な環境で構成されており、プレイヤーはさまざまな場所を探索することができます。 Styx: Blades of Greed は、ゲーム内の高度なグラフィックスとサウンドデザインによって、プレイヤーを引き込むことができます。さらに、ゲームのストーリーは、プレイヤーの選択によって変化することがあり、リプレイ価値も高くなるため、複数回プレイすることをお勧めします。Steam で配信されているこのゲームは、ファンタジーやアクションゲームのファンには絶対に試してみるべきタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "[Steam] ローグ ゾディアックス (82% OFF)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ローグ ゾディアックスは、ローグライク要素とアクション要素を兼ね備えた、興奮するようなゲームです。プレイヤーは、ランダムに生成されるダンジョンを冒険し、様々な敵と戦い、強力なアイテムを集めていく必要があります。ゲームの進行に合わせて、キャラクターのスキルと能力をアップグレードして、より強くなることができます。 このゲームの特徴的な点は、ローグライク要素とアクション要素の組み合わせです。プレイヤーは、ダンジョンの探索と戦闘をスムーズに切り替えながら、ゲームを進めていく必要があります。さらに、ランダムに生成されるダンジョンと、多種多様な敵キャラクターにより、プレイヤーは常に新しい挑戦に直面します。 また、ゲームのグラフィックとサウンドトラックも、高品質で印象的です。美しく描かれたキャラクターとダンジョンのグラフィック、以及、臨場感のあるサウンドトラックにより、プレイヤーはゲームの世界に完全に没頭することができます。ローグ ゾディアックスは、ローグライクゲームとアクションゲームのファンにとって、絶対に試してみるべきゲームです。現在、82% OFFでのセール中ですので、是非この機会に試してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-17"
       },
       {
         "title": "[Steam] Stolen Realm (-65% | $6.99 | セールは 2 月 24 日まで)",
@@ -607,54 +655,6 @@
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/",
         "date": "2026-02-11"
-      },
-      {
-        "title": "旧正月セール：DOOMほか大幅割引",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "旧正月セールは、熱烈なゲームファンを待っています。Fanaticalでは、伝説的なFPSゲーム「DOOM」ほか数多くのタイトルが大幅に割引されています。このセールでは、最新のヒット作から懐かしいクラシックまで、様々なジャンルのゲームが勢ぞろいしています。ファンキーなアクションゲームや、脳を鍛えるパズルゲーム、そして心を揺さぶるアドベンチャーゲームまで、すべてが特別な価格で提供されています。旧正月セールの期間中は、通常価格よりも大幅に安くゲームを購入することができます。ゲームライブラリーを充実させたい方や、新しいゲーム体験をしようと考えている方にとって、絶好の機会です。Fanaticalの旧正月セールをチェックし、新しいゲーム冒険を始めてみてください。セール期间は有限なので、好きなゲームを早めに購入しましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-02-11"
-      },
-      {
-        "title": "ウィンター セール：STAR WARS Jedi Survivor、Serial Cleaners、The Outlast Trialsなど",
-        "platform": "Epic Games",
-        "type": "sale",
-        "description": "Epic Gamesでは、ウィンター セールが開催中です。 STAR WARS Jedi Survivor、Serial Cleaners、The Outlast Trialsなど、様々な人気ゲームが大幅ディスカウント価格で提供されています。 STAR WARS Jedi Survivorは、スターウォーズシリーズの最新作であり、グリフィス・ケイジとして、銀河系を冒険し、強力なフォースを駆使して敵と戦います。 Serial Cleanersは、暗くコミカルな世界を舞台に、クリーンアップ要員として、事件現場を片付けるというユニークなゲームです。 The Outlast Trialsは、怖さの名高いOutlastシリーズの最新作であり、サバイバルホラーの新たな体験を提供します。 これらのゲームは、Epic Gamesストアで期間限定で大幅ディスカウント価格で提供されています。 ゲーマーなら誰でも、心行くまでゲームを楽しむことができます。 ウィンター セールの期間中、Epic Gamesストアをチェックして、自分の好きなゲームを探してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/",
-        "date": "2026-02-11"
-      },
-      {
-        "title": "PlayStation - Ghost of Tsushima、God of War Ragnarök セール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "PlayStation - Ghost of Tsushima、God of War Ragnarök セールは、Steam上で開催中の注目すべきイベントです。 このセールでは、PlayStationの優れたタイトルをSteamでプレイすることができます。特に、Ghost of TsushimaとGod of War Ragnarökは、高く評価されているアクションアドベンチャーゲームです。 Ghost of Tsushimaは、1274年の日本を舞台に、武士の戦いと忍術を駆使して、蒙古軍を撃退するストーリーを描きます。美しい風景と切ない戦いのドラマが印象的な作品です。 一方、God of War Ragnarökは、北欧神話を基にした世界で、神々と巨人の戦いを描く壮大な物語です。主人公のクратスと息子のアトレウスが、世界の終末を前にして、神々との戦いを繰り広げます。 このセールでは、これらの優れたゲームを特別な価格で入手することができます。Steam上でPlayStationの作品を体験するのは、ゲーマーにとって大きなチャンスです。Steamのコミュニティ機能を利用して、他のプレイヤーと交流したり、成績を競ったりすることもできます。ぜひ、このセールをチェックして、PlayStationの魅力をSteamで体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "ウィンター セールで STAR WARS Jedi: Survivor、Fallout 4 などがセール",
-        "platform": "Epic Games",
-        "type": "sale",
-        "description": "Epic Gamesではウィンター セールが開催中です。このセールでは、STAR WARS Jedi: SurvivorやFallout 4などの人気タイトルが大幅に割引されています。STAR WARSシリーズの最新作であるSTAR WARS Jedi: Survivorは、銀河系を舞台に、強い力を持つジェダイの生存を描くアクションアドベンチャーゲームです。Fallout 4は、ポストアポカリプス世界を舞台に、自由な探索と戦闘を楽しむことができるRPGです。他にも様々なジャンルのゲームがセール対象となっています。ウィンター セール期間中は、多数のゲームが大幅に値下げされるので、気になるタイトルを見つけてみるのはいかがでしょうか。Epic Gamesのウィンター セールで、新しいゲーム体験を試してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/",
-        "date": "2026-02-10"
       }
     ]
   },
@@ -712,5 +712,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-16T12:40:58.881221"
+  "last_updated": "2026-02-17T02:30:31.163770"
 }

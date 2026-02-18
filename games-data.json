@@ -11,31 +11,31 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-17"
+        "date": "2026-02-18"
       },
       {
         "title": "Eternal Threads - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Eternal Threads』は、時間を操り、選択肢を選ぶことで、物語の結末を変えていく、シングルプレイのストーリー重視のパズルゲームです。このゲームでは、時間を操作する力を持つ主人公が、様々な選択をして、物語の展開を変えていきます。プレイヤーは、選択肢を選んで、物語の結末を変えることができ、複数のエンディングを体験することができます。ゲームの世界は、ユニークな時間操作メカニ즘と組み合わせて、プレイヤーに新しい体験を提供します。",
+        "description": "『Eternal Threads』は、時間を操り、選択肢を選んで未来を変化させていく、シングルプレイのストーリー重視のパズルゲームです。このゲームでは、時間を操作する力を使って、物語の進み方を変えていくことができます。プレイヤーの選択によって、物語の結末が変化するため、プレイヤーは自分の選択によって未来を形作っていくことができます。独自の時間操作メカニズムと、ストーリーに重きを置いたゲームデザインが特徴です。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-17"
+        "date": "2026-02-18"
       },
       {
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のFPPアクションゲームです。前作『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦や没入感溢れる新たなストーリーが盛り込まれています。さらに、迫力のバイクステージや改良されたスキル、サイバー忍者アクションが集結し、より激しいアクション体験が楽しめます。サイバーパンクの世界を舞台に、プレイヤーは高速で動き回り、敵を倒していくという激しい戦闘が楽しめます。ストーリーやキャラクターも深化しており、ゲームをプレイすることでその内容が明らかになるでしょう。",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を疾走する圧倒的な力を持ったファーストパーソンアクションゲームです。このゲームは、前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や没入感のある新しいストーリー、スピード感のあるバイクステージ、改良されたスキル、サイバー忍者アクションが集約されています。ゲームの世界は、サイバーパンクの街を舞台にしており、プレイヤーはこの世界で自由に駆け回り、敵を倒していくことができます。激しいアクションとスピード感のあるゲームプレイが特色で、サイバー忍者アクションを楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥4,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-17"
+        "date": "2026-02-18"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-17"
+        "date": "2026-02-18"
       },
       {
         "title": "Nobody Wants to Die - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-17"
+        "date": "2026-02-18"
       }
     ],
     "bundle": [
@@ -246,10 +246,23 @@
     ],
     "review": [
       {
+        "title": "【A Game About Penguins：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "CO’s Entertainmentは2月17日、ペンギンをテーマにしたサンドボックスゲーム『A Game About Penguins』のデモ版を配信開始しました。このゲームのデモ版を実際にプレイしてみたところ、開発者と出くわすことができました。ゲームの世界では、ユーザーは自由にペンギンのキャラクターを操作して、雪の景色の中でさまざまなアクションを体験できます。開発者との出会いは、ゲームの新しい",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260217-421899/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
         "title": "【DEDA：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Deepinコーポレーションは、2月14日にホラーゲーム『DEDA』を配信しました。",
+        "description": "deepin corp.は2月14日、ホラーゲーム『DEDA』を配信しました。このゲームは、プレイヤーを恐怖の世界に引き込む魅力的な体験を提供します。deepin corp.の配信により、ゲーマーはこの新しいホラーゲームをプレイする機会を得ることができ、恐怖の世界で戦いながらスリルを感じることができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,7 +275,7 @@
         "title": "【コメンテーター：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ジー・モードは2月17日、テバサキゲームズが開発しているノベルゲーム『コメンテーター』のパブリッシャーを担当することを発表しました。このゲームは、プレイヤーが世論を操作することをテーマにしており、非常にユニークな魅力を持っています。ジー・モードは、同作の体験版の配信も同時に告知しており、早速プレイヤーがゲームの世界を体験できるようになりました。『コメンテーター』では、プレイヤーは様々な選択肢を選ん",
+        "description": "ジー・モードは2月17日、テバサキゲームズが手がけるノベルゲーム『コメンテーター』のパブリッシャーを担当することを発表しました。同作は世論操作をテーマにしており、プレイヤーがさまざまな選択肢を選んで物語を進めていくことができます。このゲームの特徴は、プレイヤーの選択が物語の展開に大きな影響を与えることです。ジー・モードは同作の体験版の配信も同時に告知しており、ファンたちは楽しみに待ち望んでいます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -272,75 +285,23 @@
         "is_translated": false
       },
       {
-        "title": "【Styx: Shards of Darkness：レビュー】",
+        "title": "【Fallout 3：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "この第3弾では、Cyanideの世界をより広く深化させることで、新しいオープンワールドや多彩な人物を紹介し、シリーズの魅力をさらに高めています。",
+        "description": "「ホワイトハウス周辺ではゲームプレイはなかった。」",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/styx-blades-of-greed-review/",
+        "url": "https://www.pcgamer.com/games/fallout/the-white-house-is-a-radioactive-crater-in-fallout-3-because-there-were-no-quests-there-so-why-build-it-it-is-our-version-of-indiana-jones-shooting-the-guy-rather-than-pulling-out-his-whip-and-going-into-a-fight/",
         "date": "2026-02-17",
         "is_translated": true
       },
       {
-        "title": "【Paranormasight: The Mermaid's Curse：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スクウェア・エニックスのパラノーマサイトの続編は、前作を凌ぐ強力な内容と、見事なビジュアルノベルとして書かれています。ストーリーやキャラクター、グラフィックなど、あらゆる点で前作を上回る魅力を持っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/paranormasight-mermaids-curse-review-switch/",
-        "date": "2026-02-17",
-        "is_translated": true
-      },
-      {
-        "title": "【けん玉100人シミュレーター：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "インディーゲームスタジオのWINGLAYは、2月14日に『けん玉100人シミュレーター（The Kendama Challenge: 100 Players）』のデモ版をリリースしました。このゲームは、けん玉を模したユニークなシミュレーションゲームで、プレイヤーはけん玉の達人を目指して、さまざまな技をマスターすることができます。デモ版を遊んでみることで、けん玉100人シミュレーターの魅力的なゲーム",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260216-421541/",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【ロミオ・イズ・ア・デッドマン：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ロミオ・イズ・ア・デッドマン』の公式Xアカウントでは、メディアレビューを紹介している。おすすめの理由は、高得点のレビューだけではなく、低得点のレビューも網羅して紹介していることです。このような姿勢は、ファンやゲーム関係者からの称賛を受けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260216-421498/",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "アヤネオは旧正月を祝って、米国に拠点を置く修理施設で現在テスト中の新しい顧客サービス向上計画を開始します。顧客の満足度を高めることを目指したこの計画は、より一層のサービス向上に寄与するものです。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "メモリ危機が深刻化するにつれて、一部の現行製品の販売が中止される可能性があると警告されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-celebrates-the-chinese-new-year-with-the-launch-of-a-new-customer-service-improvement-plan-with-us-based-repair-facilities-currently-being-tested/",
-        "date": "2026-02-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Vampire: The Masquerade - Bloodlines 2：レビュー】",
+        "title": "【ヴァンパイア：ザ・マスカレード - ブラッドライン 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "チャイニーズルームのヴァンパイア：ザ・マスカレードをプレイしたことがある人を集めてください。ブラッドライン2のステータスを確認しようと、思い切って怪しげなニュースサロンの両開きドアを突き破った。そう叫ぶと、ドアの向こう側にいた人々は、私を不思議な目で見つめた。ブラッドライン2は、チャイニーズルームのヴァンパイア：ザ・マスカレードの世界を舞台に、新しい物語が展開される。ヴァンパイア達の秘密の社会を舞",
+        "description": "「チャイニーズ ルームのヴァンパイア: ザ マスカレード」のプレイ経験者なら誰でもこのゲームを知っているはずです。ブラッドライン2のステータスが上がると、ヴァンパイア: ザ マスカレードの世界に再び足を踏み入れることになります。私はニュースサロンのドアを勢いよく開け、「ブラッドライン2 ステータスを上げた人はいますか」と大声で問いました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -353,52 +314,13 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "冬まで病気にならずに乗り切ることができると思っていた私ですが、時が過ぎて3月が近づいてきました。時計の変わり目が明るい夕方が戻ってくる時期にもかかわらず、まだ寒さが厳しい日々が続いています。このような季節の変化に合わせて、ゲーム内の世界も変化しています。雪の降る冬景色から、春の訪れを感じる季節へと移り変わっていきます。そんな中で、プレイヤーは新しい冒険に出発することになります。新しいクエストやイベ",
+        "description": "3月が近づいてきましたが、冬の寒さがまだ厳しく、病気にならずに冬まで乗り切ることができるかどうか、不安が残っています。時計の変化や、夕方の明るさが戻ってくることも近い距離にあるはずですが、身体の調子が心配です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-369",
         "date": "2026-02-14",
-        "is_translated": true
-      },
-      {
-        "title": "【ゼロ パレード：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Disco Elysiumの続編であるZero Paradesについて具体的な情報があるとすれば、それはZA/UMの新しいRPGであるということです。その以外の詳細については、すべてがあなたの想像に任せられていることになります。Zero Paradesは、ZA/UMの新しいRPGとして期待を高めているゲームです。ゲームのストーリーや設定については、まだ具体的な情報が発表されていませんが、Disco",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/make-what-you-will-of-zaums-zero-parades-with-this-lengthy-look-at-gameplay-ahead-of-a-demo-later-this-month",
-        "date": "2026-02-12",
-        "is_translated": true
-      },
-      {
-        "title": "【マスターズ オブ アルビオン：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ピーター モリニューは、最後のゲームであるマスターズ オブ アルビオンに至るまで、常に大きな期待を抱かせる約束を繰り返してきました。彼の取り組みには、確かに評価すべき点がありますが、彼の姿勢に対して敬意を払っているわけではありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/peter-molyneux-plays-the-hits-in-an-in-depth-but-not-too-in-depth-gameplay-trailer-for-masters-of-albion",
-        "date": "2026-02-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Starsand Island：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "新しい農業シミュレーションゲームが登場しました。今回は、Starsand Island という名前で、プレイヤーを新たな世界に引き込みます。このゲームでは、農業を通じて島を発展させ、住民との交流を深めていくことができます。島の環境を整え、農業を始めることができ、魚を釣ったり、動物と交流したりすることもできます。ゲームの目標は、島の発展と住民の幸せを実現することです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-day-after-launch-starsand-islands-devs-address-those-user-agreement-modding-and-fake-review-concerns",
-        "date": "2026-02-12",
         "is_translated": true
       }
     ],
@@ -699,5 +621,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-17T12:41:09.523109"
+  "last_updated": "2026-02-18T02:33:11.522628"
 }

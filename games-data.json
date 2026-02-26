@@ -5,28 +5,40 @@
         "title": "Return to Ash - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の「Return to Ash」は、不気味で心を引きつける雰囲気を醸し出しているゲームです。このゲームでは、空っぽで静かな病院を探索することになります。いつもと比べると明るく、まるで雪の中を歩いているかのように感じられます。しかし、寒さは感じることなく、まるで感覚自体がなくなっているような不気味な体験が待っています。 ゲームの世界は、不気味な静寂と、まるで時間が止まっているような空間で構成されています。プレイヤーは、病院の中を進みながら、不気味な雰囲気を体験し、ゲームの物語を感じていくことになります。グラフィックやサウンド設計は、不気味な雰囲気を高めることに成功しており、プレイヤーをゲームの世界に引き込むことができます。 「Return to Ash」は、不気味で心を引きつけるゲーム体験を求めるゲーマーにとって、最適な選択です。空っぽで静かな病院を探索し、不気味な感覚を体験することができるこのゲームは、ただのゲームではなく、心に残る体験を提供します。Epic Gamesでの無料配布を利用して、「Return to Ash」の不気味な世界を体験してみてください。",
+        "description": "Epic Gamesでは、無料ゲームの配布を行っています。その中に含まれるのは、Return to Ashというタイトルのゲームです。このゲームは、空っぽになった病院を舞台にしています。静かで、通常よりも明るい病院内では、まるで雪の中を歩いているかのような雰囲気を体験することができます。しかしながら、寒さを感じることはできません。さらに、感覚を感じること自体がなくなっているような、不思議な世界が広がっています。 このゲームでは、プレイヤーは謎の空間を探索し、そこで見つかる様々な物や音、そして映像から、病院の秘密やそこで起こった出来事を解明することになります。ゲーム内では、静かな音や明るい光がプレイヤーに与える影響を体験することができます。Return to Ashは、ユニークなアトモスフィアと、物語の展開が特徴的なゲームです。Epic Gamesから無料で配布されているため、興味がある方はぜひチャレンジしてみてください。",
         "price": "無料",
         "originalPrice": "¥580",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
       },
       {
         "title": "STALCRAFT: X Starter Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "STALCRAFT:X は、RPG 要素を備えた基本プレイ無料の MMOFPS です。スターター パックを購入することで、ゾーンの世界の探索を始めることができます。このパックには、7 日間のプレミアム、武器、防具、アーティファクト、装飾品など、最初のレイドに必要なアイテムがすべて含まれています。スターター パックで用意されたアイテムを活用して、ゾーンの世界を自由に探索し、他のプレイヤーと協力して強大な敵と戦いましょう。STALCRAFT:X の世界では、プレイヤーは自分だけの戦闘スタイルを開発し、他のプレイヤーと協力して強大な敵と戦うことができます。スターター パックを購入することで、すぐにゲームを開始し、ゾーンの世界の冒険を楽しむことができます。",
+        "description": "STALCRAFT:X は、RPG 要素を備えた、基本プレイ無料の MMOFPS です。スターター パックを入手することで、ゾーンの世界の探索を始めることができます。このスターター パックには、7 日間のプレミアム、武器、防具、アーティファクト、装飾品など、最初のレイドに必要なアイテムがすべて含まれています。これで、早速ゾーンの世界に飛び込んで、ゲームの世界を体験してみましょう。-STALCRAFT:X の魅力を感じてみてください。",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
       }
     ],
     "bundle": [
+      {
+        "title": "Bundlefest - Build Your Own Fanatical Favourites Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-26"
+      },
       {
         "title": "[Steam, Nintendo, Xbox] Ninja Gaiden Masters Collection ($19.99 50%)",
         "platform": "Steam",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
       },
       {
         "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
@@ -49,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
       },
       {
         "title": "Bundlefest - Build Your Own Killer Bundle",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-02-16"
-      },
-      {
-        "title": "Is it not allowed to post bad humble bundle experience here?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-16"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【Modo Modo：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HAJI HEAVY INDUSTIRESは2月18日に、新作『魔哆魔哆 Modo Modo』をリリースしました。この作品は、Modo Modoと呼ばれています。",
+        "description": "HAJI HEAVY INDUSTRIESは2月18日、待望の新作『魔哆魔哆 Modo Modo』を発売した。この作品は、同社のユニークな世界観と魅力的なゲーム性が融合した、注目すべきタイトルです。Modo Modoでは、プレイヤーは新しい冒険の旅に出ることになり、様々な謎や課題を解決しながら、ゲームの奥深いストーリーや美しいグラフィックを堪能できます。HAJI HEAVY INDUSTRIESの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +226,7 @@
         "title": "【悪意：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamでは、新しいホラーゲーム『悪意（Dread Neighbor）』の体験版が現在配信中です。この体験版では、ゲームの序盤をプレイすることができ、恐怖を感じることができます。ホラーゲームファンにはもちろん、恐怖を体験したい人にもおすすめです。Steamにアクセスして、体験版をダウンロードしてみてください。",
+        "description": "Steamでは、ホラーゲーム『悪意（Dread Neighbor）』の体験版が現在配信中です。この体験版を遊ぶことで、ゲームの世界観や恐怖を味わうことができます。『悪意』は、プレイヤーが恐ろしい隣人から逃げることを目指す、スリルとサスペンスが溢れるホラーゲームです。体験版をプレイすることで、ゲームの雰囲気やゲームプレイを先行体験することができます。興味があるゲーマーは、Steamで体験版をチェック",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +239,7 @@
         "title": "【白き鋼鉄のX 1+2 デュアルコレクション：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "インティ・クリエイツは2月25日、アクションゲーム『白き鋼鉄のX 1+2 デュアルコレクション』を発表しました。このゲームは、シリーズの2つの作品をまとめたコレクションで、ファンには必見の作品となっています。シリーズの最初の作品とその続編が1つになったこのコレクションでは、プレイヤーは2つの違ったストーリーを体験できます。ゲームの世界では、プレイヤーはさまざまな敵と戦い、強力な武器や能力を駆使して",
+        "description": "インティ・クリエイツは2月25日、アクションゲーム『白き鋼鉄のX 1+2 デュアルコレクション』を発表しました。このゲームは、2つの作品を1つにまとめたコレクションで、プレイヤーはさまざまなキャラクターを操作して、激しい戦闘アクションを楽しむことができます。ゲームのグラフィックやサウンドも高品質で、快適なプレイ体験を提供します。『白き鋼鉄のX 1+2 デュアルコレクション』は、アクションゲームファ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,49 +249,127 @@
         "is_translated": false
       },
       {
-        "title": "【マラソンサーバースラム：レビュー】",
+        "title": "【ウィッチャー3 ワイルドハント：レインズ：】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "マラソン オープン プレビュー ウィークエンドに挑むための信頼できるガイドです。このウィークエンドは、プレイヤーが新しいマラソン モードを遊び、さまざまなゲームプレイの機能やアップデートを体験するための絶好の機会です。マラソン モードでは、プレイヤーはさまざまな種類の車両を使用して、複数のステージで競争します。ウィークエンド中に行われるイベントやアクティビティについても情報を提供します。",
+        "description": "カードをウィッチャーに投げます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/marathon-server-slam-times-rewards/",
+        "url": "https://www.pcgamer.com/games/the-witcher/reigns-the-witcher-review/",
         "date": "2026-02-25",
         "is_translated": true
       },
       {
-        "title": "【Akatori：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "メトロイドヴァニア・アクションゲーム『Akatori』の体験版が、Contrast Gamesより2月24日に配信された。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/metroidvania-20260224-423900/",
-        "date": "2026-02-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Horizo​​n Hunters Gathering：レビュー】",
+        "title": "スケートスタジオのフルサークルは、一時的に従業員を解雇するという措置を講じており、これにより働く人員を減らすことができるようになるという。そうすることで、「より速く動き、より注意深く耳を傾け、全員に一貫して提供する」ことが可能になるとしています。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "確かに、これらのゲームはさまざまなジャンルやプレイスタイルを持っていますが、私には少し不思議な感じがします。多様なゲーム体験が提供されているのはわかっているのですが、それでも、なんだかおかしいと思ってしまうのです。",
+        "description": "SteamでのSkateのプレイヤー数は、早期アクセスの開始から5か月後には急激に減少しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/boy-this-is-awkward-sony-drops-the-first-horizon-hunters-gathering-playtest-directly-on-top-of-the-marathon-server-slam-this-weekend/",
-        "date": "2026-02-24",
+        "url": "https://www.pcgamer.com/games/sports/skate-studio-full-circle-is-laying-off-employees-says-having-fewer-people-working-there-will-enable-it-to-move-faster-listen-more-closely-and-deliver-consistently-for-all-of-you-somehow/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "そして、あのひどいドゥーム映画を破壊する時間も見つけます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/resident-evil-director-paul-w-s-anderson-says-hes-got-no-time-for-people-who-do-game-adaptations-without-playing-them-thats-outrageous/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード レクイエム：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "新しいものと古いものを一緒に。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-review/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【Helldivers 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "もしあなたが、ロボットのカウボーイウィザードが追加されることを熱望して、ヘルダイバーズ2のプレイを保留しているのであれば、あなたは間違いなく、気が狂うほどの風変わり者です。ヘルダイバーズ2は、プレイヤーがさまざまなキャラクターを操作して、複数のステージを攻略する、アクションゲームです。ロボットのカウボーイウィザードは、ゲームの新しいキャラクターで、プレイヤーが新しい能力を体験できるようになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/recovering-helldivers-2-players-should-check-out-the-cowboy-robot-gunplay-of-far-far-west-which-has-a-demo",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード レクイエム：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『バイオハザード レクイエム』には、過去のゲームを思い出させるウィンクがたくさん含まれているので、私が何度もプレイしてきたゲームの中で、カプコンが間違いなく私に忘れてほしいと思っているゲームである『バイオハザード 6』へのオマージュが多く含まれていることに驚きました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/resident-evil-requiem-review-a-cathartic-cross-breed-of-creeps-and-carnage",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【World of Warcraft：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "World of Warcraft の最新拡張版「Midnight」がまもなくリリースされます。世界中のゲーマーが心待ちにしている、この新しい拡張版は、あなたのタイムゾーンでいつリリースされるのでしょうか。最新の情報を基に、リリースの時期や新しい内容について紹介します。新しいストーリーやキャラクター、ゲームプレイの変更点など、WoW: Midnight の魅力をご紹介します。World of Wa",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wow-world-of-warcraft-midnight-early-access-release-time-est-pst/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【ザ・ブラフ：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "インドで大スターのプリヤンカー・チョープラー・ジョナスが、Amazonのプライム・ビデオで配信される海賊アクション映画に出演します。この映画では、カール・アーバンやテムエラ・モリソンと共演しながら、悪役として活躍する予定です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-bluff-review-pirates-priyanka-chopra-jonas-john-wick/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【マラソンサーバー：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "さまざまなタイムゾーンでマラソンサーバーのスラムがいつ開始されるか、および4日間のプレビューで何が予想されるかについてのすべての詳細です。マラソンサーバーのスラムは、プレイヤーが集まり、協力して挑戦するイベントです。プレビュー期間中は、新しいコンテンツやゲームモードが紹介され、プレイヤーは新しい機能を体験することができます。マラソンサーバーのスラムの開始時刻や、プレビュー期間中に予想される内容につ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marathon-server-slam-beta-start-release-time-est-pst/",
+        "date": "2026-02-25",
         "is_translated": true
       },
       {
         "title": "【Cicadamata：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "すぐにいくつかの注意点を述べて、過剰な見出しが目立たなくしましょう。はっきり言って、Cicamadata はあなたの好みではないかもしれません。ゲーム内の激しい表現や句読点に嫌悪感を抱く人もいるでしょう。ただ、もしもあなたがこのゲームをプレイすることに興味があり、挑戦したいのなら、まずは注意点を知っておくことが大切です。特に、ゲームの内容や操作方法について理解しておくことが重要になります。そうすれ",
+        "description": "このゲームの魅力に敏感でない人もいるかもしれません。特に、ゲーム内の激しい表現が苦手な人には、こちらのゲームは向いていない可能性があります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -299,46 +377,68 @@
         "url": "https://www.rockpapershotgun.com/cicadamata-is-the-most-exciting-fps-ive-played-in-years-come-try-the-demo",
         "date": "2026-02-24",
         "is_translated": true
-      },
-      {
-        "title": "【サンデー・ペーパーズ：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "日曜日は、気合を入れてクリスマスのお金の一部を2000年代の英国ツーリングカー選手権シーズンレビューのボックスセットに使う日です。ボックスセットの最初のDVDを挿入すると、3時間の試合の様子が目の前に広がります。英国ツーリングカー選手権の魅力を存分に味わえるこのボックスセットは、レースファンのための最高の贈り物です。各レースのハイライトシーンやドライバーのインタビューなど、贵重な映像が収録されてい",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-sunday-papers-798",
-        "date": "2026-02-22",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊びますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "土曜日の朝は、二日酔いやケンカや暗殺されたりしないようにしたいものです。私がこの言葉を書いているのは金曜日ですが、ちょうど友達から1つのグラと一緒に公園で飲みに誘われたところです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-370",
-        "date": "2026-02-21",
-        "is_translated": true
       }
     ],
     "sale": [
       {
+        "title": "【Steam】カードファイト!!ヴァンガード ディアデイズ ($5.59 / -92% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「カードファイト!!ヴァンガード ディアデイズ」は、人気トレーディングカードゲーム「カードファイト!!ヴァンガード」を基にしたデジタルカードゲームです。このゲームでは、プレイヤーは様々なユニットやスキルを持つカードを集めて、戦略的なデッキを構築し、対戦相手と対決することができます。カードのコレクションやデッキの作成に加えて、ゲームにはストーリーモードもあり、ヴァンガードの世界をより深く体験することができます。 通常価格より92%オフの特別価格で提供されているこのゲームは、ヴァンガードのファンや新しいカードゲームを探しているプレイヤーにとって絶好の機会です。Steamでの販売により、簡単にダウンロードしてすぐに遊び始めることができます。カードゲームの魅力に引き込まれ、戦略的な対戦を楽しんでください。Steamストアで今すぐ購入し、カードファイト!!ヴァンガード ディアデイズの世界に飛び込んでみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "[Steam] Arctico ($1.99 / 80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで現在、80%オフの大人気セールが行われています。その中から、魅力的なゲームをご紹介します。Arcticoは、北極圏を舞台にしたアドベンチャーゲームです。プレイヤーは、雪に覆われた広大な地帯を探索し、そこで出会う多様な生物や、凛とした風景に心を奪われることでしょう。凍った湖や、雪に埋もれた森、そして北極の夜空に輝くオーロラを体験できることでしょう。 このゲームは、美しいグラフィックと、心を癒すBGMで、プレイヤーを北極圏の世界に引き込むことができます。加えて、シンプルながらも深みのあるゲームプレイが楽しめるので、ゲーマーにとっては新しい体験になるでしょう。通常価格より80%オフの$1.99という破格の価格で提供されているので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "[Steam] Cat President: 三流候補者ローンチセール ($8.09/10% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "猫の候補者が大統領選に立候補する、独創的な政治シミュレーションゲーム「Cat President: 三流候補者」がSteamでローンチセール中です。通常価格より10%オフになるこのチャンスを逃すことはありません。このゲームでは、猫の候補者を操り、選挙戦略を立て、支持率を上げるために様々なキャラクターと交流します。様々なイベントやクエストが用意されており、プレイヤーが独自の政治スタイルを発揮できる自由度が高いのが特徴です。政治シミュレーションゲームのファンはもちろん、猫が大好きな人にもおすすめできるユニークなゲームです。今すぐSteamでローンチセールをチェックし、この魅力的で楽しいゲームを體験してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "[Steam] 真菌症 (75% OFF)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "真菌症は、ユニークなゲームワールドを探索するための革新的な体験です。このゲームでは、真菌の世界に身を投じ、未知の生物や環境と出会います。75%OFFのこの魅力的なゲームは、Steamでプレイできます。真菌症の世界では、真菌の生態系を体験し、真菌のネットワークを通じて情報を収集することができます。ゲームのグラフィックとサウンドトラックは、真菌の世界の不思議な雰囲気を再現しています。真菌症は、真菌の世界を探索するための新しい視点を提供し、ゲームの世界に新しい体験をもたらします。真菌症をプレイすることで、真菌の世界の奥深さを体験し、真菌の不思議な世界に没頭することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-26"
+      },
+      {
         "title": "[GOG] ファイナルファンタジー VII (1997) (-60% オフ)",
         "platform": "GOG",
         "type": "sale",
-        "description": "今回のセールでは、伝説的なRPG「ファイナルファンタジーVII」が60%オフで提供されます。1997年に発売されたこのゲームは、スクウェア（現スクウェア・エニックス）のファイナルファンタジーシリーズの7作目であり、3Dグラフィックを導入した最初の作品です。 このゲームは、ミッドガールと呼ばれる未来都市を舞台に、環境保護組織「アバランチ」と巨大企業「神羅」との戦いを描きます。主人公クラウド・ストライフ率いるアバランチは、神羅が惑星の生命エネルギー「マコ」を搾取する計画を阻止しようとします。 ファイナルファンタジーVIIは、その当時としては驚異的なグラフィックと、壮大なストーリーでゲームファンを魅了しました。また、シリーズ伝統のマテリアシステムや、戦闘システムの改良も特徴です。 GOGでのこのセールは、往年の名作を再度体験したいゲーマーや、初めてプレイするゲーマーにとって絶好の機会です。60%オフで提供されるこのゲームは、必見のタイトルであり、ゲーム史を学びたい方や、RPGファンにとってはおすすめの選択です。",
+        "description": "GOGでのファイナルファンタジーVIIのセールは、ゲームファンにとって大きな機会です。1997年に発売されたこの名作RPGは、ゲーム界に革命をもたらしたと言っても過言ではありません。深いストーリー、魅力的なキャラクター、そして革新的だった3Dグラフィックスで、数多くのゲーマーの心を捉えてきました。 このタイトルでは、クラウド・ストライフを始めとした仲間たちと共に、プラネットを脅かす巨大企業「神羅企業」に対して戦いを繰り広げます。キャラクターの成長システムや、戦略的なバトルシステムは、当時としては非常に進歩的で、現在でも楽しまれる要素です。 今回のセールでは、60%オフの特別価格で提供されます。この機会に、ゲーム史に残る名作を体験しませんか。ファイナルファンタジーVIIは、GOGのユーザーにとって絶対に逃すべきではないタイトルです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
       },
       {
         "title": "[Steam] Ark: Survival Ascended ($11.24 USD / -75% オフ) (一部の DLC では -67% も)",
@@ -519,54 +619,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-18"
-      },
-      {
-        "title": "[ALLYOUPLAY] 夜明けまで (€31.89 -34% オフ / £26.95 -55% オフ / $26.95 -55% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで配信中のゲーム、[ALLYOUPLAY] 夜明けまでは、現在34%から55%オフのセール中です。このゲームは、ユーロ圏、英国、米国でスチームアクティベーションに対応しており、世界中のゲーマーが楽しむことができます。夜明けまでというタイトルから、夜の世界を舞台にしたゲームであることが想像されます。プレイヤーは、夜の静寂と不気味な雰囲気の中で、さまざまなミッションやチャレンジに取り組むことになるでしょう。ゲームのグラフィックとサウンドデザインは、夜の世界をリアルに表現し、プレイヤーをその世界に引き込むことを目指しています。夜明けまでは、スリルとアドベンチャーを求めるゲーマーにぴったりのゲームです。現在のセールを活用して、夜明けまでの世界に飛び込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "[Steam] トラブルシューター: 放棄された子供たち ($$6.24/75% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "トラブルシューター: 放棄された子供たちは、スチームプラットフォームで現在75%オフの特別セール中です。このアクションパックされたゲームでは、プレイヤーは困難な状況を切り抜け、様々な敵と戦いながら、放棄された子供たちを救出するという使命を遂行します。ゲームの世界は、豊富なグラフィックスとスムーズな操作性で構成されており、プレイヤーに没入感を与えます。 様々なアップグレードやパワーアップシステムを利用して、プレイヤーの能力を強化し、困難なステージを克服することができます。また、ゲームには様々なボスキャラクターが登場し、プレイヤーの戦闘スキルを試すことができます。トラブルシューター: 放棄された子供たちは、興奮するアクションと、深いストーリーを組み合わせた、魅力的なゲーム体験を提供します。現在、$6.24で購入可能なこのゲームは、ゲーマーにとって絶対に見逃せないオファーです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "[Steam] ソティドロキマ (40% オフ/2,39 ユーロ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ソティドロキマは、Steamプラットフォームで現在40%オフの特別セール中です。このゲームは、ユーロで2.39という非常に安い価格で提供されており、ゲーマーにとっては大変魅力的です。 このゲームは、独特なグラフィックと面白いゲームプレイが特徴で、プレイヤーはさまざまなミッションをクリアしながら、キャラクターを成長させていくことができます。ソティドロキマの世界は、豊かなストーリーや多彩なキャラクターによって構成されており、プレイヤーはさまざまな謎を解決しながら、ゲームの世界を探索することができます。 今回のセールは、ソティドロキマを体験したいゲーマーにとっては、絶好の機会です。安い価格でこのゲームを購入することで、ゲーマーは新たなゲーム体験を楽しむことができ、Steamコミュニティでの他のプレイヤーと交流することもできます。ソティドロキマの魅力を体験してみてはいかがでしょうか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Quantic Dream スチームキー セール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Quantic Dream スチームキー セールでは、Quantic Dream の代表的なゲームタイトルが特売中です。これは、ストーリー重視のゲームを好むゲーマーにはとても魅力的です。Quantic Dream のゲームは、グラフィックやサウンドトラックが高品質であり、ゲームプレイの 몰입感を高めてくれます。 このセールでは、Quantic Dream の人気ゲームを安価で購入できます。例えば、インタラクティブなドラマゲームや、アクションアドベンチャーゲームなど、様々なジャンルのゲームが含まれています。Quantic Dream のゲームは、プレイヤーがストーリーに深く関与できるよう設計されており、複数のエンディングがあるため、プレイヤーは自分の選択によって物語を進めていくことができます。 このセールを利用すれば、Quantic Dream のゲームを手に入れるのに大きな出費をする必要はありません。様々なゲームを試してみることができ、Quantic Dream の魅力を体験することができます。さらに、Steam でのセールは期間限定なので、好きなゲームを見つけたらすぐに購入することをお勧めします。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-17"
       }
     ]
   },
@@ -624,5 +676,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-25T12:42:17.843947"
+  "last_updated": "2026-02-26T02:28:09.519263"
 }

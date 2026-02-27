@@ -2,31 +2,79 @@
   "pc": {
     "free": [
       {
-        "title": "Return to Ash - Epic Games 無料配布中",
+        "title": "Boxes: Lost Fragments - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームで配布されているゲーム「Return to Ash」は、不気味な雰囲気と独特の世界観を備えた、アドベンチャーゲームです。このゲームは、空っぽで静かな病院を舞台に、プレイヤーは何も感じることができない異常な状況に陥ります。まるで雪の中を歩いているかのように、寒さも感じられないこの世界では、プレイヤーは不気味な空気を満喫しながら、病院の謎を解き明かすための探索に臨みます。ゲームの世界は、雪のような白い静寂に包まれており、プレイヤーに緊張感と不安感を与えます。病院の奥深くに隠された秘密を掘り起こすために、プレイヤーは慎重に進み、謎を解決する必要があります。Return to Ashは、独特なストーリーと不気味な雰囲気でプレイヤーを引き付け、緊張感の高いゲーム体験を提供します。",
+        "description": "謎のパズルボックスがいっぱいの豪華な邸宅から脱出しましょう!",
         "price": "無料",
-        "originalPrice": "¥580",
+        "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-26"
+        "date": "2026-02-27"
       },
       {
-        "title": "STALCRAFT: X Starter Edition - Epic Games 無料配布中",
+        "title": "My Night Job - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "STALCRAFT:X は、RPG 要素を備えた基本プレイ無料の MMOFPS です。スターター パックを入手すれば、ゾーンの世界の探索を始めることができます。このスターター パックには、7 日間のプレミアム権利や、最初のレイドに必要な武器、防具、アーティファクト、装飾品などがすべて含まれています。スターター パックで最初の冒険を始め、ゾーンの世界を自由に探索してみましょう。",
+        "description": "My Night Jobでは、プレイヤーは放棄された建物に送り込まれ、モンスターの大群と戦います。60以上の武器を駆使して自分を守り、できるだけ多くの生存者を救出することが目標です。しかし、注意しなければなりません。部屋が破壊されすぎると、最初に想像していたよりも早くゲームが終了してしまうかもしれないからです。",
         "price": "無料",
-        "originalPrice": "¥2,480",
+        "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-02-26"
+        "date": "2026-02-27"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Swordhaven: Iron Conspiracy + Sector Unknown Bundle (-30% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Bundlefest - Build Your Own Prestige Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Humble Choice discount for this month?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-27"
+      },
       {
         "title": "Bundlefest - Build Your Own Fanatical Favourites Bundle",
         "platform": "Fanatical",
@@ -49,18 +97,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-02-26"
       },
       {
@@ -170,50 +206,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-18"
-      },
-      {
-        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Build Your Own 3D Platformer Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Overwhelming Positive Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-16"
       }
     ],
     "review": [
       {
         "title": "【バイオハザード レクイエム：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "責任のあるサイトは、実際の編集スタッフを解雇したのは、ほんの数週間前のことです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/an-ai-generated-review-of-resident-evil-requiem-written-by-a-fake-igaming-and-sports-betting-analyst-briefly-hit-metacritic/",
+        "date": "2026-02-27",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード レクイエム：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ケアセンターでレオンとしてプレイすることに少し迷っていますか? レオンというキャラクターを操作することで、独自の能力や戦い方を体験できます。ケアセンターでのレオンの活躍は、プレイヤーが新たなストーリーやキャラクターと出会うきっかけにもなります。レオンの強さや弱点を理解し、戦略的にプレイすることで、ゲームの奥深さを感じることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/resident-evil/requiem-victors-office-location/",
+        "date": "2026-02-27",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード レクイエム：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "バイオハザード レクイエムは、過去のシリーズの名作要素を効果的に取り入れているものの、シリーズの将来像についてはまだ不確かな部分が残っている。シリーズの新しい展開を期待してきたファンには、少し物語の先が見えにくいという印象を受けるかもしれない。ただし、レクイエムは過去のシリーズの要素を新しい解釈で再現し、シリーズの伝統を受け継ぎながらも新しい挑戦を試みている。レクイエムのストーリーやゲームプレイを",
+        "description": "『バイオハザード レクイエム』は、過去のシリーズの遺産を上手く使いながらも、新しい展開についてはまだ明確な未来像が描けていない。シリーズの根底にある恐怖やスリルの要素は引き継がれつつも、未知の要素を取り入れることで新しい恐怖を体験できるゲームです。シリーズのファンにはもちろん、新規プレイヤーにもおすすめできる作品となっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +249,10 @@
         "is_translated": false
       },
       {
-        "title": "【モンスターハンターライズ：レビュー】 \n【Slime Rancher 2：レビュー】",
+        "title": "【モンスターハンターライズ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ソニー・インタラクティブエンタテインメントは2月26日、PlayStation Plusの加入者向けに、3月のフリープレイで提供されるコンテンツの情報を公開しました。提供されるコンテンツの中には、人気のハンティングアクションゲーム『モンスターハンターライズ』が含まれています。PlayStation Plus加入者は、3月にこのゲームを無料でプレイすることができます。このゲームは、シリーズの新しい要",
+        "description": "ソニー・インタラクティブエンタテインメントは2月26日、PlayStation Plus加入者向けの3月のフリープレイ提供コンテンツ情報を公開しました。この月の対象タイトルには、人気ハンティングアクションゲーム『モンスターハンターライズ』が含まれています。加入者はこれらの作品を無料で遊ぶことができ、PlayStation Plusの魅力を存分に楽しむことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +262,36 @@
         "is_translated": false
       },
       {
+        "title": "【Going Medieval：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "植民地シムおよび都市建設ゲームの「Going Medieval」は、3月12日に早期アクセスを終了する予定です。その際、タイトルが「Gone Medieval」に変更される可能性が高いと考えられています。しかし、タイトル変更の件についてはまだ正式な発表がありません。早期アクセスの終了とともに、ゲームの新しい展開が期待できそうです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/colony-sim-going-medieval-aka-friendlier-rimworld-hits-10-release-in-march-after-16-major-updates",
+        "date": "2026-02-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Outbound：レビュー】 \n【Cyberpunk 2077：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "人生はほとんどの場合、最悪です。しかし、まれに月が並ぶこともあります。先週末は、居心地の良いキャンピングカー サバイバルビルダー「Outbound」のSteam Next Festデモをプレイして、数時間を費やしました。ゲームの世界では、キャンピングカーの中で過ごす時間が楽しくて、時間の感覚がなくなりました。Outboundは、サバイバルゲームの要素とキャンピングカーの生活を組み合わせた、ユニーク",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/my-thirst-for-campervanning-has-been-quenched-by-outbounds-steam-next-fest-demo-and-a-cyberpunk-2077-mod",
+        "date": "2026-02-26",
+        "is_translated": true
+      },
+      {
         "title": "【スケート：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "エレクトロニック・アーツが公开する早期アクセススケートボードゲーム「Skate」の開発チームが、不特定多数のスタッフを解雇すると発表しました。このゲームは、開発チームFull Circleが担当しており、Annoシリーズの開発にも携わっています。開発チームの解雇は、ゲーム開発の進捗に影響を及ぼす可能性があります。ゲームの早期アクセスは、開発チームの状況に注目が集まっています。開発チームの解雇により",
+        "description": "エレクトロニック・アーツが公開する早期アクセススケートボードゲーム「Skate」の開発チームが、多数のスタッフを解雇することを発表しました。開発チームのFull Circleは、実際にはAnnoを持っているのです。ゲームの開発が進む中で、このような人事異動が起こっていることは、ゲームファンにとっては意外なニュースです。開発チームがこれからもどのような展開を見せるのか、興味を持って見守っていきたいと",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,10 +301,23 @@
         "is_translated": true
       },
       {
+        "title": "【Deadlock：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Valve のヒーロー シューティング ゲーム Deadlock はまだベータ版ですが、プレイヤーが楽しめる最高のマルチプレイヤー ゲームの 1 つです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/you-need-to-be-playing-deadlock-right-now/",
+        "date": "2026-02-26",
+        "is_translated": true
+      },
+      {
         "title": "【Modo Modo：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HAJI HEAVY INDUSTIRESは2月18日に、新しいゲーム『魔哆魔哆 Modo Modo』を発売しました。",
+        "description": "HAJI HEAVY INDUSTIRESは2月18日に、ファンタジー要素が込められた新作ゲーム『魔哆魔哆 Modo Modo』（以下、Modo Modo）をリリースしました。Modo Modoはユニークなゲーム性とグラフィックで、プレイヤーの心を掴む魅力的なゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,62 +327,10 @@
         "is_translated": false
       },
       {
-        "title": "【悪意：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamでは、恐怖を体験するホラーゲーム『悪意（Dread Neighbor）』の体験版が現在配信中です。この体験版をプレイすることで、ゲームの魅力を先に感じてみることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260225-424224/",
-        "date": "2026-02-25",
-        "is_translated": false
-      },
-      {
-        "title": "【ウィッチャー：レインズ：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "カードをウィッチャーに投げます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-witcher/reigns-the-witcher-review/",
-        "date": "2026-02-25",
-        "is_translated": true
-      },
-      {
-        "title": "スケートスタジオのフルサークルでは、従業員の一時解雇を実施しており、これにより人員を削減することが可能になりました。こうすることで、より迅速に動き、注意深く耳を傾け、全員に一貫して提供することができるようになります。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "早期アクセスの開始から5か月後、SteamでのSkateのプレイヤー数が急激に減少したことが確認されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sports/skate-studio-full-circle-is-laying-off-employees-says-having-fewer-people-working-there-will-enable-it-to-move-faster-listen-more-closely-and-deliver-consistently-for-all-of-you-somehow/",
-        "date": "2026-02-25",
-        "is_translated": true
-      },
-      {
-        "title": "【バイオハザード：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "そして、あのひどいドゥーム映画を破壊する時間も見つけます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/resident-evil-director-paul-w-s-anderson-says-hes-got-no-time-for-people-who-do-game-adaptations-without-playing-them-thats-outrageous/",
-        "date": "2026-02-25",
-        "is_translated": true
-      },
-      {
         "title": "【Helldivers 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "もしあなたが、ロボットのカウボーイウィザードが追加されるのを待ってヘルダイバーズ2のプレイを保留しているのであれば、あなたは本当にユニークな人です。ロボットのカウボーイウィザードは、ヘルダイバーズ2の世界に新たな風を吹き込むこと間違いなしです。カウボーイとウィザードを融合させたこのロボットは、通常のゲームキャラクターとは一線を画すユニークさを持っています。ロボットのカウボーイウィザードが登場すると",
+        "description": "もしあなたが、最終的にはロボットのカウボーイウィザードが追加されることを熱望して、ヘルダイバーズ 2 のプレイを保留しているのであれば、あなたは気が狂うほどの風変わり者です。ヘルダイバーズ 2 には、新しいキャラクターが追加されるなどのアップデートが行われており、プレイヤーに新しい体験を提供しています。ロボットのカウボーイウィザードは、ゲームの世界観をさらに豊かにし、プレイヤーに新しい楽しみを提供",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +343,7 @@
         "title": "【バイオハザード レクイエム：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『バイオハザード レクイエム』には、過去のゲームを思い出させるウィンクがたくさんあるので、私が何度も戻ってきたゲームが、カプコンが間違いなく私に忘れてほしいと思っているゲームである『バイオハザード 6』だったことに驚きました。",
+        "description": "『バイオハザード レクイエム』には、過去のゲームを思い出させるウィンクがたくさん含まれています。私は何度も戻ってくる試金石が、カプコンが間違いなく忘れてほしいと思っている試金石である『バイオハザード 6』だったことに驚きました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -338,89 +351,74 @@
         "url": "https://www.rockpapershotgun.com/resident-evil-requiem-review-a-cathartic-cross-breed-of-creeps-and-carnage",
         "date": "2026-02-25",
         "is_translated": true
-      },
-      {
-        "title": "【World of Warcraft：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "WoW: Midnight が間もなく終了します。World of Warcraft の最新拡張版があなたのタイムゾーンでリリースされる時期と、その内容をご紹介します。最新の情報をチェックして、WoW の新しい世界に踏み出そうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/wow-world-of-warcraft-midnight-early-access-release-time-est-pst/",
-        "date": "2026-02-25",
-        "is_translated": true
-      },
-      {
-        "title": "【ザ・ブラフ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "インドを代表するスーパースター、プリヤンカー・チョープラー・ジョナスが、プライム・ビデオの新作海賊アクション映画で、悪役を演じるカール・アーバンとテムエラ・モリソンと対決します。この映画では、彼女が二人の強敵と激しいバトルを繰り広げるさまざまなシーンが描かれます。映画ファンやアクション映画好きには、必見の作品となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-bluff-review-pirates-priyanka-chopra-jonas-john-wick/",
-        "date": "2026-02-25",
-        "is_translated": true
-      },
-      {
-        "title": "【Cicadamata：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "すぐにいくつかの注意点を述べて、この大げさな見出しの熱を和らげましょう。まず明らかな通り、あなたはこのゲームの激しい表現に嫌悪感を感じるかもしれません。蝉を含むゲーム内の様々な要素に嫌悪感を抱く人もいるかもしれません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/cicadamata-is-the-most-exciting-fps-ive-played-in-years-come-try-the-demo",
-        "date": "2026-02-24",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[ALLYOUPLAY] ネストランド (€10.45 -11% オフ / $12.05 -11% オフ)、EU、米国 |スチームアクティベーション",
+        "title": "Nacon パブリッシャー セール | クラッシュ: アーティファクト オブ カオス ゼノ エディション、ローグブック デラックス エディション、Steelrising バスティーユ エディションなど",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "Nacon パブリッシャー セールでは、人気ゲームが大幅割引されています。クラッシュ: アーティファクト オブ カオス ゼノ エディション、ローグブック デラックス エディション、Steelrising バスティーユ エディションなど、様々なジャンルのゲームが収録されています。アクションゲームやロールプレイングゲーム、戦略ゲームなど、どのジャンルも楽しめます。 クラッシュ: アーティファクト オブ カオス ゼノ エディションは、ファンタジー世界で繰り広げられるアクションアドベンチャーゲームです。プレイヤーは、さまざまな武器や魔法を使用して、強大な敵と戦います。ローグブック デラックス エディションは、ロールプレイングゲームと戦略ゲームの要素を組み合わせた、ユニークなゲームです。プレイヤーは、キャラクターを育てて、戦略的な戦闘を楽しめます。 Steelrising バスティーユ エディションは、SF世界で繰り広げられるアクションRPGです。プレイヤーは、ロボットの身体を操作して、敵と戦います。ゲームは、美しく描かれたグラフィックと、スムーズな操作感で、プレイヤーを魅了します。Nacon パブリッシャー セールでは、これらのゲームを大幅割引で購入できますので、是非お楽しみください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "[Steam] Wayward Valley (30% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで提供されている「ネストランド」は、ファンタジー世界を舞台にしたアクションアドベンチャーゲームです。ユーザーはこの世界でさまざまなキャラクターを操作し、壮大な冒険を体験できます。ゲームの中では、美しいグラフィックと迫力のあるサウンドデザインが特徴です。また、様々な挑戦やミッションが用意されており、ユーザーのスキルと戦略性を試すことができます。現在、11%オフのキャンペーンが実施されており、歐州や米国でSteamアクティベーションが可能です。価格は約€10.45または$12.05です。ネストランドの世界に飛び込んで、未知の土地を探索し、強大な敵と戦い、友情と冒険の絆を深めることができるでしょう。ゲームの魅力的なグラフィックとアクション満点のゲームプレイは、ゲーマーにとって絶対に楽しめるものです。",
+        "description": "Wayward Valley は、Steam で 30% オフ の魅力的なゲームセールです。このゲームは、不思議な世界を舞台に、プレイヤーがさまざまな挑戦に取り組み、未知の地域を探索することを目的としています。独特のグラフィックと、不思議な雰囲気に包まれたサウンドトラックが、プレイヤーを引き込む世界を創り出しています。 このゲームの特徴は、自由度の高い探索と、さまざまなパズルやミステリーを解決することです。プレイヤーは、不思議な生物や、隠された秘密を発見することができます。また、ゲームの世界は、プレイヤーの選択によって変化するので、再プレイ性も高く、様々なエンディングを目指すことができます。 Wayward Valley は、冒険とパズルを好むゲーマーにぴったりのゲームです。現在、30% オフ のセール中なので、ぜひこの機会に購入して、不思議な世界を体験してみてください。Steam で Wayward Valley を購入し、不思議な世界の冒険を始めてみましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
+        "date": "2026-02-27"
+      },
+      {
+        "title": "[ALLYOUPLAY] ネストランド (€10.45 -11% オフ / $12.05 -11% オフ)、EU、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「ネストランド」は、11%オフの特別価格で提供されています。通常価格から€10.45、または$12.05と、魅力的な価格設定でお楽しみいただけます。このゲームは、EUと米国で利用可能であり、スチームアクティベーションに対応しています。ネストランドでは、プレイヤーは不思議な世界に迷い込み、そこで様々なアドベンチャーや探索を楽しむことができます。美しいグラフィックと独特のゲームプレイが特徴で、プレイヤーは新しい経験を求める人にぴったりのゲームです。スチームアクティベーションを利用することで、簡単にゲームを開始でき、すぐにネストランドの世界にダイブできます。価格の割りに、魅力的な内容が詰まったこのゲームは、ゲーム好きの方必見のタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-27"
       },
       {
         "title": "【Steam】カードファイト!!ヴァンガード ディアデイズ ($5.59 / -92% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "カードゲームファン必見のタイトル、カードファイト!!ヴァンガード ディアデイズがSteamで大幅な割引を受けています。通常価格より92%オフの破格価格、$5.59で購入可能です。このゲームは、人気トレーディングカードゲーム「カードファイト!!ヴァンガード」を基にしたデジタルカードゲームで、多彩なカードや戦略的なプレイが楽しめます。様々なデッキを構築し、強豪プレイヤーと対戦して勝利を目指すことができます。グラフィックやサウンドも高品質で、気になるカードゲームファンにはおすすめのタイトルです。割引は期間限定なので、気になる方はお早めにチェックしてみてください。カードファイト!!ヴァンガード ディアデイズで、カードバトルを始めてみませんか。",
+        "description": "カードファイト!!ヴァンガード ディアデイズは、人気トレーディングカードゲーム「カードファイト!!ヴァンガード」をベースにした、Steam向けのデジタルカードゲームです。このゲームでは、様々なキャラクターとカードを使って、戦略的なカードバトルを楽しむことができます。強力なカードを集めてデッキを構築し、オンライン対戦で勝利を目指すことができます。グラフィックも美しく、キャラクターのボイスも実録されているので、カードファイト!!ヴァンガードの世界に没入することができます。さらに、現在92%オフの特価で提供されています。カードゲームファンにはお勧めのタイトルです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
+        "date": "2026-02-27"
+      },
+      {
+        "title": "[Steam] Arctico ($1.99 / 80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで現在、注目のゲーム「Arctico」が80%オフの特別セール中です。この機会に、北極圏を舞台にしたこのアドベンチャーゲームを体験してみてはいかがでしょうか。寒冷な環境の中で、プレイヤーはさまざまな挑戦に立ち向かう必要があります。凍える風の中を進み、雪に埋もれた謎を解き明かすという、緊迫したストーリーが待っています。 このゲームでは、北極圏の厳しい自然環境をリアルに描写しており、美しいグラフィックとサウンドトラックが印象的です。氷と雪に覆われた広大な景色の中で、プレイヤーは重要なアイテムやヒントを探し出す必要があります。また、ストーリーはプレイヤーの選択によって変化するので、繰り返しプレイする価値があります。 セール期間中は、通常価格より80%割引された1.99ドルで購入可能です。この魅力的なゲームを手に取り、北極圏の氷と雪の世界に身を投じてみてはいかがでしょうか。冒険の呼び声に応えて、未知の領域を探索してみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-27"
       },
       {
         "title": "[Steam] 真菌症 (75% OFF)",
         "platform": "Steam",
         "type": "sale",
         "description": "真菌症は、恐ろしい真菌の感染が広がる世界を舞台にした、サバイバルホラーゲームです。このゲームでは、真菌の感染を治すための方法を探しながら、恐ろしい環境の中で命を繋ぎ止めようとします。ゲームの世界は、真菌の感染が広がった後に崩壊し、恐ろしい生物が徘徊する所です。真菌の感染を治すために、さまざまなアイテムや能力を使用し、生物から逃げたり戦ったりしながら、真実を解き明かそうとします。真菌症は、ホラー要素とサバイバル要素を兼ね備えた、心を凍らせるゲームです。75% OFFのこの機会に、真菌症の世界に足を踏み入れてみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "[Steam] Arctico ($1.99 / 80% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Arctico は、Steam で 80% オフという破格の価格で提供されます。本作は、北極圏を舞台にしたサバイバルアドベンチャーゲームです。プレイヤーは、厳しい環境の中で生き残るために、資源を集め、シェルターを建設し、寒さから身を守りながら、北極圏の美しさと厳しさを体験します。グラフィックは美しい雪景色や北極の動物たちがリアルに表現されています。ゲーム内のバランスが良く、チャレンジングなミッションやクエストも用意されています。北極圏の未知の世界を探索し、サバイバルスキルをテストするには、まさに今がチャンスです。Steam で Arctico を購入し、北極圏の冒険に立ち向かいましょう。通常価格よりも大幅に安くなっているので、是非この機会にプレイしてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -595,30 +593,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-21"
-      },
-      {
-        "title": "スタートレックやアドベンチャーゲームが Steam でセール中",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでのセールは、ゲーマーにとっては大きなニュースです。特に今回は、スタートレックやアドベンチャーゲームがセール中です。これらのゲームは、ストーリーが豊かで、プレイヤーを新しい世界へと誘います。スタートレックのゲームは、宇宙を舞台にした冒険が特徴で、プレイヤーは宇宙船のキャプテンとして、様々な惑星を訪れ、異星人の種族との遭遇を体験できます。また、アドベンチャーゲームは、謎を解くことや、プレイヤーの選択によって物語が展開するという点が楽しめます。Steamでのセールによって、これらのゲームを安く入手することができます。興味があるゲーマーは、Steamをチェックし、これらのゲームを手に入れて、新しい冒険の世界へと飛び込んでみてください。セール期間は有限ですので、早めにチェックして、好きなゲームを手に入れることができます。Steamでのセールは、ゲームファンにとっては大きな機会ですので、ぜひこのチャンスを活用してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-20"
-      },
-      {
-        "title": "[Steam] AMEN 11 11 ($2.09/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "AMEN 11 11は、 Steamプラットフォームで現在30%オフの特別セール中です。この魅力的なゲームを今すぐ購入すれば、通常価格より2.09ドルで手に入れることができます。AMEN 11 11は、ユニークなゲームプレイとインパクトのあるグラフィックで注目を集めています。プレイヤーは、様々なステージをクリアして行く途中で、様々な敵キャラクターと対決しながら、自分が持つ特別な能力を活用して進んでいくことになります。さらに、ゲーム中の背景やキャラクターのデザインは、独特のアートスタイルで表現されており、プレイヤーの目を引き付けます。セール期間中は、通常の価格よりも30%オフになるので、ゲームファンにはお得な機会です。AMEN 11 11を今すぐ購入して、ユニークなゲーム体験を楽しんでください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-19"
       }
     ]
   },
@@ -676,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-26T12:42:39.506187"
+  "last_updated": "2026-02-27T02:26:40.651616"
 }

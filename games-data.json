@@ -17,7 +17,7 @@
         "title": "My Night Job - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "My Night Jobは、プレイヤーを廃棄された建物に送り込み、モンスターの大群と戦うゲームです。60以上の武器を使用して自分を守りながら、できるだけ多くの生存者を救出することが目標です。しかし、注意しないと、部屋が破壊されすぎて、予想よりも早くゲームが終了してしまう危険性もあるので、戦略的に進めていく必要があります。ゲームの進め方によっては、想定していたよりも早く最終的な決着がついてしまうかもしれません。",
+        "description": "My Night Jobは、プレイヤーを廃墟と化した建物に投入し、モンスターの大群と戦うサバイバルホラーです。60種類以上の武器を駆使して、自分を守りながら可能な限り多くの生存者を救出します。しかし、部屋を破壊しすぎると、思ったよりも早くゲームが終了してしまう危険性があるため、注意が必要です。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "Mega Man Charged Up Collection",
+        "title": "Mega Man コレクション",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -49,6 +49,30 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Mega Man Charged Up Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-02-28"
       },
       {
@@ -73,18 +97,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-02-28"
       },
       {
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-21"
-      },
-      {
-        "title": "Best of Humble Bundle: Beamdog Owlcat: RPG Masters",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-21"
       }
     ],
     "review": [
       {
+        "title": "【ギルド探求団へようこそ！：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "個人ゲーム開発者のパルソニック氏は2月27日、『ギルド探求団へようこそ！』のSteamレビューが「圧倒的に好評」を達成したと報告しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/guild-20260228-425094/",
+        "date": "2026-02-28",
+        "is_translated": false
+      },
+      {
+        "title": "今週末はみんなで何をして遊びますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "エドウィンは先日、ボコボコに打ちのめされたので、今週末にみんなが何をプレイするかを尋ねるのは私に任せるしかないと思います。ここでは大げさな冗談はありません。彼は完全にボロボロな状態です。本当に、体がばらばらです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-371",
+        "date": "2026-02-28",
+        "is_translated": true
+      },
+      {
         "title": "【バイオハザード レクイエム：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "人気のレビュー集積サイトMetacriticに掲載されていた、ゲームサイトVideoGamerによる『バイオハザード レクイエム』のレビューが、取り下げられることになりました。この決定は、ゲームファンやレビューサイトの関係者にとって大きなニュースとなりました。Metacriticは、様々なレビューサイトの評価を集積し、ゲームの総合的な評価を示す役割を果たしています。取り下げられたレビューは、ゲーム",
+        "description": "レビュー集積サイトMetacriticに掲載されていた『バイオハザード レクイエム』のレビューが、VideoGamerによって取り下げられることになった。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +249,10 @@
         "is_translated": false
       },
       {
-        "title": "【Until Then：Afterimages：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "フィリピンのインディスタジオPolychroma Gamesが手掛ける新作アドベンチャーゲームが、2024年6月に発売されました。このゲームはフィリピン文化をモチーフに、ほろ苦い青春と壮大で予想外の展開を描いています。ゲームの内容は、高い評価を獲得し、プレイヤーの間で話題になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164591.html",
-        "date": "2026-02-27",
-        "is_translated": false
-      },
-      {
-        "title": "【Reigns: The Witcher：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気シリーズ「ウィッチャー」とコラボレーションした「Reigns」シリーズの最新作「Reigns: The Witcher」が昨日リリースされ高い評価を獲得しています。この新作の発売を記念して、CD PROJEKT REDはライブストリーミングイベントを開催しました。このイベントでは、開発チームが本作の魅力を紹介し、ファンとの交流を深めることを目指しています。ゲームの発売に併せて、開発チームによる",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164589.html",
-        "date": "2026-02-27",
-        "is_translated": false
-      },
-      {
         "title": "【Horizo​​n Hunters Gather：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "サイバーパンク2077やグランドセフトオート6のような大作ゲームの発売を避けるために、ゲームの発売を遅くするスタジオもあります。しかし、クアンティック・ドリームはそうではなく、むしろ大作ゲームの発売時期と重なるようにゲームを発売するという、他のスタジオとは逆の戦略を取っています。",
+        "description": "サイバーパンク2077やグランドセフトオート6のような人気ゲームの発売が近づくと、他のスタジオは新作の発売を遅らせてしまうことがあります。しかしそのような戦略に従わないスタジオもあります。クアンティック・ドリームはそのようなスタジオの一つで、逆に人気ゲームが発売される時期に新作を発売するという大胆な戦略をとっています。このようなアプローチは、ゲームファンにとって新しい選択肢を提供し、クアンティック",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,10 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "中世を舞台にしたMMOゲームが、6年の早期アクセスと1年足らずの完全リリースを経て2023年に閉鎖された後、驚くほどの復活を遂げます。",
+        "title": "【Camelot Unchained：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Gloria Victis は、新しい所有権の下で基本プレイ無料のゲームとして復活します。このゲームでは、プレイヤーは中世ヨーロッパを舞台に、戦闘や政治、経済などの要素を体験できます。中世の雰囲気を再現したグラフィックと、リアルな戦闘システムが特徴です。プレイヤーは、自分だけのキャラクターを作成し、さまざまなクエストやミッションをこなして成長させていくことができます。さらに、他のプレイヤーとのパー",
+        "description": "Gloria Victis は新しい所有権の下で、基本プレイ無料のゲームとして復活します。このゲームは、プレイヤーが戦略的な戦闘やクラフトシステムを楽しむことができる、オープンワールドのMMORPGです。中世ヨーロッパをモチーフにした世界で、プレイヤーはさまざまな国家間の戦いの中で、自国の栄光を目指します。基本プレイ無料になったことで、より多くのプレイヤーがこの魅力的な世界に足を踏み入れることがで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +304,7 @@
         "title": "【Going Medieval：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "植民地シムおよび都市建設ゲームの「Going Medieval」は、3月12日に早期アクセスを終了する予定です。その際にタイトルが「Gone Medieval」に変更されるのではないかと考えられています。ただし、これはあなたを怒らせるような冗談です。実際にはタイトルが変更されるわけではありません。早期アクセス終了後も、「Going Medieval」の魅力的なゲーム内容は変わりません。",
+        "description": "植民地シムおよび都市建設ゲーム『Going Medieval』は、3月12日に早期アクセスを終了する予定です。その時点でタイトルが『Gone Medieval』に変更される可能性があります。ただし、これはあなたを怒らせるような冗談です。ゲームの開発状況や変更点については、今後さらに情報が公開されることが期待できます。早期アクセス終了後のゲームの進化に、多くのゲーマーが注目しています。新しいタイトル",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +317,7 @@
         "title": "【Outbound：レビュー】\n【Cyberpunk 2077：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ほとんどの場合、人生は最悪です。しかし、まれに月が並ぶような思い出を作ることもあります。先週末は、居心地の良いキャンピングカーを舞台にしたサバイバルビルダー「Outbound」のSteam Next Festデモをプレイして、数時間を楽しむことができました。このゲームでは、プレイヤーはキャンピングカーを改造してさまざまな地域を旅しながら、資源を集め、危険な状況を乗り越える必要があります。ゲームの雰",
+        "description": "人生はほとんどの場合、最悪なものです。しかし、まれに月が並ぶような幸運な出来事もあります。先週末、居心地の良いキャンピングカーを舞台にしたサバイバルビルダー「Outbound」のSteam Next Festデモをプレイして、数時間を費やしました。その間に、ゲームの世界に没頭し、キャンピングカーを改造したり、物資を集めたり、自然の中で生き延びるための戦略を立てたりしました。Outboundは、プレ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +330,7 @@
         "title": "【スケート：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "エレクトロニック・アーツが公開する早期アクセススケートボードゲーム「Skate」の開発チームが、大規模な人員整理を行い、多数のスタッフを解雇すると発表しました。この発表は、開発チームの構成やチームの将来的な方向性に大きな変化をもたらすものです。開発チーム「Full Circle」は、実際には「Anno」と呼ばれています。ゲームの開発が進む中で、チームは大きな課題に直面し、人員の整理を行うことを決断",
+        "description": "エレクトロニック・アーツが提供する早期アクセススケートボードゲーム「Skate」の開発チームが、多くのスタッフを解雇すると発表しました。開発チームのFull Circleには、実際にAnnoの所有権があります。ゲーム開発に携わるスタッフの解雇は、ゲーム業界では珍しいことではありませんが、ファンやユーザーには大きな影響を与えることがあります。開発チームの将来的な動向やゲームの進展については、注目が集",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -343,7 +343,7 @@
         "title": "【Helldivers 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "もしあなたが、最終的にはロボットのカウボーイウィザードが追加されることを熱望しているために、ヘルダイバーズ 2 のプレイを保留しているのであれば、まず、あなたは気が狂うほどの風変わり者です。ロボットのカウボーイウィザードという、誰もが想像できないユニークなキャラクターが実現することを夢見て、ゲームを楽しむのを我慢しているのであれば、あなたの情熱は действительно 本物です。ヘルダイバー",
+        "description": "もしもあなたが、最終的にはロボットのカウボーイウィザードが追加されることを熱望しているために、ヘルダイバーズ 2 のプレイを保留しているのであれば、まず、あなたは気が狂うほどの風変わり者です。ロボットのカウボーイウィザードは、ヘルダイバーズ 2 の世界に新たな魅力をもたらします。彼はロボットの体とカウボーイの魂を併せ持った、ユニークなキャラクターです。ウィザードの魔法とカウボーイのガンアクションが",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -351,22 +351,45 @@
         "url": "https://www.rockpapershotgun.com/recovering-helldivers-2-players-should-check-out-the-cowboy-robot-gunplay-of-far-far-west-which-has-a-demo",
         "date": "2026-02-25",
         "is_translated": true
-      },
-      {
-        "title": "【バイオハザード レクイエム：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『バイオハザード レクイエム』には、過去のゲームを思い出させるウィンクがたくさん含まれています。特に、私が何度も戻ってくる試金石である『バイオハザード 6』は、カプコンが間違いなく忘れてほしいと思っているはずです。そんなことに驚かされます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/resident-evil-requiem-review-a-cathartic-cross-breed-of-creeps-and-carnage",
-        "date": "2026-02-25",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "Ubisoft セール - The Crew Motorfest 他",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Ubisoft セールの最中、様々なアクション満載のゲームが大幅に価格を下げています。The Crew Motorfest は、ハワイの美しい島々を舞台に、スピードとスタイルが共存する、オープンワールドのレースゲームです。プレイヤーは、さまざまな車種を収集してカスタマイズし、友達と一緒に島内を駆け巡り、さまざまなミッションをクリアすることができます。 このセールでは、The Crew Motorfest 以外にも、Assassin's Creed、Far Cry、Watch Dogs などの人気シリーズのゲームが勢揃いしています。各ゲームは、それぞれ独自のキャラクターとストーリーを持っており、プレイヤーはさまざまな世界を冒険することができます。 このセールは、Ubisoft のゲームを初めてプレイする人にも、既にファンである人にも、興奮と楽しめる機会を提供します。Steam で Ubisoft セールをチェックし、自分に合ったゲームを見つけてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Nacon パブリッシャー セール: クラッシュ、ローグブック、Steelrising 他",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "Nacon パブリッシャー セールは、熱狂的なゲーマーを待っています。様々なジャンルの人気ゲームが、特別な価格で提供されています。ローグライク要素を含むアクションゲーム「ローグブック」、高速なレースゲーム「クラッシュ」、そして、フランスの革命を舞台にしたアクションRPG「Steelrising」など、多くのタイトルがラインナップされています。 これらのゲームは、Nacon パブリッシャーによって、独自の魅力と遊び心を持って開発されています。プレイヤーは、各ゲームのユニークな世界観とゲームシステムを体験できます。ローグブックの深い戦略、クラッシュのスピードとスリル、Steelrisingの壮大なストーリーなど、様々な要素が、ゲーマーの心を掴みます。 GOGでのNacon パブリッシャー セールは、ゲーム愛好家にとって絶好の機会です。様々なゲームを試すことができ、自分にぴったりのものを見つけることができます。セール期間中、特典的な価格でゲームを購入することができ、ゲーマーのコレクションを充実させることができます。ゲーマーは、Nacon パブリッシャー セールの魅力的な世界に入り、新しいゲーム体験を楽しむことができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "[Steam] Wayward Valley (30% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Wayward Valleyは、探索とサバイバルを組み合わせたオープンワールドゲームです。このゲームでは、未知の土地を冒険し、資源を集め、危険なクリーチャーから身を守りながら、自分だけのバレーを築き上げます。30%オフのこの特別セール期間中、Steamでこのゲームを購入することで、未知の世界を体験することができます。 Wayward Valleyの世界は広大で、多様な環境が存在し、探索の度に新しい発見が待っています。独自のキャラクターを作成し、スキルをカスタマイズして、自分だけのスタイルでゲームをプレイすることができます。さらに、気候や季節の変化もゲームの中で表現されており、実際に生きているような感覚でプレイすることができます。 Wayward Valleyは、サバイバルゲームファンには最高の体験を提供することでしょう。Steamで今すぐ購入して、未知のバレーでの冒険を始めてみませんか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-02-28"
+      },
       {
         "title": "Ubisoft セール - The Crew Motorfest、Tom Clancy's The Division、Far Cry Primal",
         "platform": "Steam",
@@ -389,18 +412,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "[Steam] Wayward Valley (30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Wayward Valley は、Steam で 30% オフ のキャンペーン中です。このゲームでは、プレイヤーは不思議な世界「ウェイワードバレー」に足を踏み入れることになります。バレーでは、自然と魔法が調和しているように見えますが、実は何かが異常です。この異常を解明するためには、バレーの奥深くへ進み、様々なキャラクターと出会い、謎を解く必要があります。 ゲームの世界は、美しいグラフィックと独特のサウンドトラックで溢れています。バレーの不思議な景色や、そこに住むキャラクターたちは、プレイヤーをこの世界に引き込んでくれます。また、ゲームには様々なパズルや探索要素もあり、プレイヤーは頭脳と勇気を試されるでしょう。 Wayward Valley の最も魅力的なのは、自由に探索できるオープンな世界です。プレイヤーは、好きなようにバレーを歩き回り、秘密を発見し、物語を進めていくことができます。さらに、ゲームのストーリーはプレイヤーの選択によって変化するので、誰でも自分だけのユニークな体験を楽しむことができます。Steam で 30% オフ のキャンペーン中なので、これ以上の機会はありません。Wayward Valley の世界に飛び込み、不思議な冒険を始めてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
         "date": "2026-02-28"
       },
       {
@@ -582,30 +593,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-23"
-      },
-      {
-        "title": "[Steam] オークは奴隷にならない ($3.49/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "このゲーム「オークは奴隷にならない」は、Steamプラットフォームで30%オフの特別セール中です。現在、$3.49で購入できるこのゲームは、通常の価格よりも大幅に安くなっています。ファンタジー世界を舞台に、強大なオークが主人公となり、迫害や差別に立ち向かっていくストーリーを描いています。ゲーム内では、戦闘やステータス、スキルの管理など、ロールプレイングゲームの醍醐味を味わうことができます。さらに、独自のグラフィックやサウンドトラックも魅力的に仕上がっています。ファンタジーRPGを好むゲーマーには、まさに必携の1作となっています。この機会に、心を奮い起こしたオークと共に、未知の世界へと冒険に出ましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-23"
-      },
-      {
-        "title": "スタートレックやアンタレスの死者がSteamで割引中",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、宇宙を舞台にした壮大なアドベンチャーゲームが現在割引中です。スタートレックやアンタレスの死者などの人気タイトルが大幅な値下げになっています。スタートレックシリーズは、有名なSFドラマを基にしたゲームで、プレイヤーは宇宙船の船長となり、様々な惑星を探索し、異星人と遭遇することができます。アンタレスの死者は、宇宙の未知なる領域を舞台にしたサバイバルゲームで、プレイヤーは地球外生命体と対決しながら、資源を集め、宇宙船を修理して帰還を目指します。Steamでの割引期間は限られているため、興味を持ったゲーマーは早速チェックしてみましょう。宇宙の不思議な世界にダイブし、未知なる冒険を体験してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-22"
       }
     ]
   },
@@ -663,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28T02:09:49.722219"
+  "last_updated": "2026-02-28T12:27:36.686886"
 }

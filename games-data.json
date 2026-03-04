@@ -17,7 +17,7 @@
         "title": "My Night Job - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "My Night Jobは、プレイヤーを廃墟となった建物の中に放り込み、モンスターの大群との戦いを繰り広げます。60種類以上の武器を駆使して、自らを守りながら、可能な限り多くの生存者を救出します。しかし、部屋を破壊しすぎると、予想していたよりも早くゲームが終了する可能性があるため、注意が必要です。",
+        "description": "My Night Jobは、プレイヤーを放棄された建物の中に送り込み、モンスターの大群を倒すという内容です。60以上の武器を使用して自分を守りながら、できるだけ多くの生存者を救出することを目標にします。しかし、部屋を破壊しすぎると、予想よりも早くゲーム終了してしまう危険性があるため、注意が必要です。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -27,6 +27,66 @@
       }
     ],
     "bundle": [
+      {
+        "title": "GTGD Bundleほか、PC向けゲームがセール中",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "March 2026：Tempest Rising 他の新作ゲーム",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "Build Your Own Bundleシリーズが3/5/7個セットで特価",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "Did they send out a discount code for February 2026 Humble Choice?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-04"
+      },
       {
         "title": "3月の新作：テンペストライジング、シャントオブセナール、スウォーン、世界樹の迷宮III HDなど",
         "platform": "Humble Bundle",
@@ -64,18 +124,6 @@
         "date": "2026-03-04"
       },
       {
-        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-04"
-      },
-      {
         "title": "Here's the 1st game of Humble Choice March",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -86,18 +134,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-03-04"
-      },
-      {
-        "title": "Did they send out a discount code for February 2026 Humble Choice?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-03"
       },
       {
         "title": "Mega Man: Charged Up Collection",
@@ -170,50 +206,53 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-02-28"
-      },
-      {
-        "title": "Humble Choice discount for this month?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-27"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Fanatical Favourites Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "[Steam, Nintendo, Xbox] Ninja Gaiden Masters Collection ($19.99 50%)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
       }
     ],
     "review": [
       {
+        "title": "【The Midnight Walk：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Fast Travel Gamesは3月4日、ハンドクラフト・アドベンチャーゲーム『The Midnight Walk』のNintendo Switch版が3月26日に配信開始されることを発表しました。このゲームはユニークな世界を探索することで、プレイヤーが新たな冒険に臨むことができます。Nintendo Switch版の『The Midnight Walk』では、美しいグラフィックと独特のゲーム",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260304-426421/",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【BAKUDO：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "集英社ゲームズは3月4日、激しいボスバトルアクションが楽しめる『BAKUDO』の体験版を配信開始しました。このゲームでは、様々な技を駆使して強敵と戦うことができます。集英社ゲームズは今回の体験版配信を通じて、ゲームの魅力を多くのプレイヤーに体験してもらいたいと思っています。『BAKUDO』の体験版は、無料でプレイすることができ、闘球ボスバトルアクションゲームのファンには必見の作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260304-426198/",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Tides of Tomorrow：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "独創的なロードトリップアドベンチャー「Road 96」や「Lost in Harmony」、「11-11 Memories Retold」などの作品を手掛けたDigixartの新作が、2024年6月にアナウンスされ、今年1月に詳細が公開されました。この新作は、Digixartのこれまでの作品に匹敵する、またはそれを上回るレベルの魅力的なゲームになることが予想されます。ロードトリップアドベンチャーや",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164725.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
         "title": "【shapez 2：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "ドイツのtobspr Gamesが開発する工場自動化ロジックパズル「shapez」の続編として、2024年8月に早期アクセス向けにローンチされ、高い評価を獲得した「shapez 2」は、新たな展開を迎えます。",
+        "description": "ドイツのtobspr Gamesが開発する工場自動化ロジックパズル「shapez」の続編である「shapez 2」が、2024年8月に早期アクセス向けにローンチされ、高い評価を獲得しました。このゲームは、新たな機能や要素を追加して、より魅力的なゲーム体験を提供するために、tobspr Gamesによって継続的に開発されています。プレーヤーは、工場を自動化するために、さまざまな形や機械を組み合わせて",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +265,7 @@
         "title": "【Tales of the Shire：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "昨年7月、PCやPS5、Xbox Series X/S、Nintendo Switch向けにリリースされた「Tales of the Shire」は、高い評価を獲得し、「指輪物語」の世界を舞台にした、ホビット庄の生活シミュレーションゲームです。このゲームでは、ホビット庄の住民として生活し、農業や畜産などを通じてコミュニティを築いていきます。ゲームの世界は、豊かな自然とゆったりした生活のリズムが特徴",
+        "description": "昨年7月、PCとPS5、Xbox Series X/S、Nintendo Switchでリリースされた「Tales of the Shire」は、高い評価を獲得し、話題となった。ホビット庄を舞台にしたライフシムゲームで、「指輪物語」のテーマを忠実に再現している。プレイヤーは、美しい自然の中で自由に生活し、キャラクターと交流したり、家や畑を作ったりすることができる。ゲームの世界は豊かで詳細に描かれて",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,56 +275,30 @@
         "is_translated": false
       },
       {
-        "title": "【ラタタン（RATATAN）】",
-        "platform": "AUTOMATON",
+        "title": "【アバター：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "任天堂は3月3日、Nintendo Switch 2やNintendo Switch向けのインディーゲームを紹介する番組「Indie World 2026.3.3」を放送しました。この番組の中で、リズムアクションゲーム『ラタタン（RATATAN）』のNintendo Switch 2版が7月16日に発売されることが発表されました。このゲームは、音楽のリズムに合わせてアクションを楽しむことができるユ",
+        "description": "レオン・ケネディを演じる上での試練と艱難。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/ratatan-20260303-426030/",
-        "date": "2026-03-03",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/resident-evil/leon-kennedys-actor-has-seen-all-your-thirst-traps-i-found-myself-in-life-embodying-an-avatar-thats-just-infinitely-better-looking-than-myself/",
+        "date": "2026-03-04",
+        "is_translated": true
       },
       {
-        "title": "【シュレディンガーズ・コール：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【エソテリック・エブ：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "集英社ゲームズは3月3日、待望の新作『シュレディンガーズ・コール』の発売日を5月28日と発表しました。同時に、Steam以外にもNintendo Switch向けにもリリースされることが明らかになり、ファンを大いに喜ばせています。新しいプラットフォームへの対応によって、より多くのプレイヤーが本作の魅力的な世界を体験できることになります。発売日まで待ち切れないファンも多いこと間違いなしです。",
+        "description": "おそらく 2026 年の最高の RPG になるでしょうか?",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/adv-20260303-426019/",
-        "date": "2026-03-03",
-        "is_translated": false
-      },
-      {
-        "title": "【マラソン：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Valveは3月3日、「Steam Nextフェス 2026年2月エディション」が終了したことを受けて、最も多くプレイされたトップ50の体験版を発表しました。この中には、『Marathon』や『Burglin' Gnomes』などの魅力的なタイトルがランクインしています。Steam Nextフェスでは、最新のゲームの体験版が多数提供されており、ユーザーたちは新しいゲームを自由にプレイしてみることが",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-next-fes-20260303-425870/",
-        "date": "2026-03-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Esoteric Ebb：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、Steam Nextフェス向けのデモ配信が開始され、発売日が2026年3月3日に決定したChris Bodegård氏の野心的なファンタジーCRPG「Esoteric Ebb」ですが、開発者自らが新たな情報を公開しています。ディスコ エリジウムのクリス・ボデガード氏は、このゲームの世界観やストーリー、ゲームプレイについて話しています。Esoteric Ebbは、ユニークな魔法システムや深いス",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164701.html",
-        "date": "2026-03-03",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/rpg/esoteric-ebb-review/",
+        "date": "2026-03-04",
+        "is_translated": true
       },
       {
         "title": "【Outer Wilds：レビュー】",
@@ -301,10 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "【スコット ピルグリム EX：レビュー】",
+        "title": "【スコット ピルグリム vs. ザ ワールド：ザ ゲーム EX：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ビートエムアップの新たな黄金時代が幕を開け、陽気で軽食の喧嘩屋たちが、その熱気をさらに高めながら続いています。",
+        "description": "ビートエムアップの新たな黄金時代が幕を開け、陽気で軽食の喧嘩屋たちが次々と登場してきています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,36 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "【バイオハザード レクイエム：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "レオンおじさんは少し調子が出てきました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/resident-evil/i-did-create-a-whole-mood-board-playing-leon-kennedy-in-resident-evil-requiem-was-uncharted-territory-for-nick-apostolides-because-the-stakes-were-so-high/",
-        "date": "2026-03-03",
-        "is_translated": true
-      },
-      {
-        "title": "【ハート・オブ・ザ・マシン：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "「AI が優秀だったらどうなるでしょうか?」マシンの中心部で",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/heart-of-the-machine-review/",
-        "date": "2026-03-03",
-        "is_translated": true
-      },
-      {
         "title": "【The Legend of Khiimori：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！とりあえず、マネイベントへ！特異なゲームの早期アクセス版はどれですか？ このゲームは、ユニークな体験を提供する早期アクセス版です。スタジオのライブで聴衆の笑い声が聞こえるのは、普通のことではありません。馬の音ではなく、笑い声が響く場面は、ゲームの面白さを示唆しています。マ",
+        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！とりあえず、マネイベントへ！特異なゲームの早期アクセス版は、どれが一番人気なのでしょうか。早期アクセス版のゲームは、開発中のゲームを先行体験することができます。ユーザーのフィードバックを集めることで、開発者はゲームをより良くすることができます。このようなゲームの早期アクセ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -356,39 +343,13 @@
         "title": "【Destiny 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "RPS 月曜日の朝の会議まであと 30 分です。ジュリアンが私たちに今週末何をしたのか尋ねるまで、あと 30 分です。リア王が娘に尋ねるような、一見愛らしい雰囲気を漂わせながら、ジュリアンは私たちにその話を聞こうとします。",
+        "description": "RPS 月曜日の朝の会議まであと 30 分です。ジュリアンが私たちに今週末何をしたのか尋ねるまで、あと 30 分です。まるでリア王が娘に尋ねるような、一見愛らしい雰囲気を漂わせながら、ジュリアンの質問に答える準備をします。会議が始まれば、週末の出来事を共有する時間がやってきます。ジュリアンの質問に答えながら、週末の楽しい経験を思い出せるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/bungie-share-top-feedback-from-marathons-playtest-including-pc-performance-ui-issues-and-ammo-shortages",
         "date": "2026-03-02",
-        "is_translated": true
-      },
-      {
-        "title": "【ウォーハンマー40,000：ダーク異端：ローグトレーダー：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Owlcatは昨年、Warhammer 40,000の世界を舞台にした別のCRPG「Dark Heresy」の開発を発表しました。これにより、同社が別のプロジェクトに注力している可能性が高まり、開発中のプロジェクトが完了したという仮定につながる可能性があります。同社は多くのプロジェクトを同時に進めており、Warhammer 40,000の世界観を活かしたゲームの開発も予想されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-warhammer-40000-dark-heresy-gets-an-early-gameplay-look-in-rogue-trader-gets-an-infinitely-brief-dlc-teaser",
-        "date": "2026-02-28",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "エドウィンは先日ボコボロにされてしまったので、みんなが今週末何をプレイするのか気になるのは私だけではないと思います。ここでは大げさな冗談はありません。彼は本当にボロボロで、ばらばらです。彼の状態はとてもひどいです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-371",
-        "date": "2026-02-28",
         "is_translated": true
       }
     ],
@@ -397,7 +358,19 @@
         "title": "[Steam] プラネット オブ ラナ ($1.99 / 90% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "プラネット オブ ラナは、Steamプラットフォームで現在大幅なセール中です。通常priceより90%オフの1.99ドルで購入できます。このゲームでは、不思議な惑星を探索し、そこに住む異星人たちとの交流を楽しむことができます。惑星の奥深くに隠された秘密を解き明かし、惑星を救うために必要な力を持つことができます。グラフィックは美しく、音楽も心地よいので、プレイヤーは惑星の世界に没頭できます。さらに、ゲームの難易度はステージに応じて変化するので、初心者から上級者まで楽しめる内容です。セール期間中は、通常価格より大幅に安くなっているので、興味がある方はこの機会に購入してみてください。",
+        "description": "Steamで現在、プラネット オブ ラナが大幅な価格割引を受けて販売中です。通常よりも90%も安く、なんと1.99ドルで手に入ります。このタイトルは、ランナーゲームの新しい定義を提供することを目的とした、高速なアクションが特徴のゲームです。プレイヤーは、美しく描かれた異世界を舞台に、様々な障害を突破するために、スピードとタイミングの重要性を学びながら、キャラクターを操作します。 このゲームの特徴的な点は、その独創的なグラフィックと、ユニークなサウンドトラックが、プレイヤーに没入感を与えることです。また、ゲーム内の複雑なレベルデザインと、難易度の適切な段階性も、プレイヤーを引き付けて離さない魅力です。 Steamでは、プラネット オブ ラナを今すぐ購入することで、ゲームの世界に飛び込み、スピードとアクションの楽しみを体験できます。価格が大幅に下がっているこの機会を逃さないでください。限定の90%オフ Sale期間中、プラネット オブ ラナを手に入れて、ランナーゲームの新たな境地を探索してみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "Hell is Us スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Hell is Usは、暗黒の世界を舞台にしたアクションアドベンチャーゲームです。このゲームでは、プレイヤーは恐ろしげな環境の中で戦い、探索を繰り返します。さまざまな敵キャラクターと戦い、強力なアイテムやスキルを獲得してキャラクターを成長させます。ゲームの世界は、地獄のような環境が広がり、恐ろしげな生物や罠が待ち受けています。プレイヤーは、戦略的にアイテムを使用して、敵を倒し、困難な課題をクリアする必要があります。アクションと探索が混在するこのゲームは、熱い戦闘シーンと、広大な世界の探索を楽しみたいゲーマーにぴったりの選択です。Steamで配信されているHell is Usは、ハードコアなアクションファンから、探索を好むプレイヤーまで、幅広いゲーム愛好家にアピールする魅力的なゲームです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -409,7 +382,7 @@
         "title": "[Steam] Thief's Shelter (70% オフ / $5.99)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Thief's Shelterは、プレイヤーがスリの視点からゲームを体験できる、ユニークなゲームです。このゲームでは、プレイヤーはさまざまなステージをクリアしながら、アイテムを集め、障害物を避け、ゴール地点に到達することを目指します。難易度が上がるにつれ、ステージの複雑さも増し、プレイヤーのスキルと戦略性が試されます。 Thief's Shelterの特徴的な点は、そのシンプルながらも挑戦的なゲームデザインです。プレイヤーは、スリの能力を活用して、トラップや敵を回避しながら進みます。また、各ステージには複数のルートがあり、プレイヤーは最適なルートを選択する必要があります。 現在、Thief's Shelterは70%オフで$5.99での購入が可能です。これは、興味のあるゲーマーにとって、絶好のチャンスです。SteamプラットフォームでThief's Shelterを購入して、スリの世界を体験してみてください。",
+        "description": "Thief's Shelter は、プレイヤーがスリというキャラクターを操作して、さまざまなミッションをクリアするステルスアクションゲームです。このゲームでは、プレイヤーは暗い街の中で、隠れながら敵を避け、ターゲットの物を盗みます。さまざまなアイテムやスキルを活用して、難しいミッションを成功させる必要があります。 今回のセールでは、Thief's Shelter が 70% オフとなり、通常価格よりも大幅に安くなっています。Steam で $5.99 という魅力的な価格で手に入れることができます。この機会に、スリの世界に足を踏み入れてみてはいかがでしょうか。ステルスアクションの楽しさを体験し、プレイヤーが直面するさまざまな課題に挑戦してみてください。Thief's Shelter は、ストーリーとゲームプレイの両方で満足できる体験を提供することでしょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -421,7 +394,7 @@
         "title": "[STEAM] HAM: ザ ゲーム (20% 起動割引 / €6.39)",
         "platform": "Steam",
         "type": "sale",
-        "description": "HAM: ザ ゲームは、Steamプラットフォームで20%の割引で提供されています。この魅力的なゲームは、ユーザーに新しい体験をもたらすためにデザインされています。€6.39の格安価格で、HAM: ザ ゲームの世界に飛び込むことができます。このゲームは、ユーザーの想像力を掻き立てるため、様々な可能性を探索することができます。Steamでの発売により、ユーザーは簡単にアクセスしてプレイすることができます。HAM: ザ ゲームの魅力的なゲームプレイやグラフィックも、ユーザーを引き付けます。割引期間中は、HAM: ザ ゲームの世界を体験するために、Steamでこのゲームを購入することをお勧めします。",
+        "description": "HAM: ザ ゲームは、ユニークなゲーム世界を体験できる、 Steam で配信中の作品です。本作は、20% の割引を受けて €6.39 で入手可能です。HAM: ザ ゲームでは、プレイヤーは様々なミッションをクリアしながら、ゲーム独自の魅力に引き込まれます。シンプルながらも深いゲームシステムが特徴であり、ユーザーはさまざまな戦略を試みながら、ゲームの奥深さを感じることができます。また、グラフィックやサウンドも高いクオリティで、プレイヤーを没入感のある世界に導きます。HAM: ザ ゲームは、ゲームを楽しみながら、新しい体験も得られる作品です。Steam での限定割引を今すぐチェックして、HAM: ザ ゲームの世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -620,18 +593,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-27"
-      },
-      {
-        "title": "【Steam】カードファイト!!ヴァンガード ディアデイズ ($5.59 / -92% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "カードゲームファンにはたまらない大幅割引が登場です。カードファイト!!ヴァンガード ディアデイズは、人気トレーディングカードゲーム「ヴァンガード」の世界を舞台にしたデジタルカードゲームです。このゲームでは、様々なキャラクターとカードを駆使して戦略的なバトルを楽しむことができます。ゲームのグラフィックは、美麗なイラストレーションで彩られ、キャラクターの声優も豪華です。ストーリーモードでは、ヴァンガードの世界を舞台にしたオリジナルストーリーが展開されます。また、オンライン対戦機能もあり、世界中のプレイヤーと対戦することができます。通常価格より92%オフの5.59ドルという破格の価格で提供中です。カードゲームファンやヴァンガードシリーズのファンにとっては、見逃せないオファーです。Steamで今すぐ購入して、カードバトルを始めてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-27"
       }
     ]
   },
@@ -689,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-04T02:25:20.514028"
+  "last_updated": "2026-03-04T12:36:23.023406"
 }

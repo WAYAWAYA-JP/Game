@@ -11,22 +11,46 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
       },
       {
         "title": "My Night Job - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "My Night Jobは、プレイヤーを放棄された建物に送り込み、モンスターの大群と戦うゲームです。60以上の武器を使用して身を守り、できるだけ多くの生存者を救うことが目的です。しかし、注意しなければなりません。あまりにも多くの部屋が破壊されると、ゲームの終わりが予想以上に早く訪れる可能性があります。多くの部屋を破壊せずに、できるだけ多くの生存者を救うことが、プレイヤーの重要な課題です。",
+        "description": "My Night Jobは、プレイヤーを廃墟となった建物の中に放り込み、モンスターの大群との戦いを繰り広げます。60種類以上の武器を駆使して、自らを守りながら、可能な限り多くの生存者を救出します。しかし、部屋を破壊しすぎると、予想していたよりも早くゲームが終了する可能性があるため、注意が必要です。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
       }
     ],
     "bundle": [
+      {
+        "title": "3月の新作：テンペストライジング、シャントオブセナール、スウォーン、世界樹の迷宮III HDなど",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "Double Bundlefest Drop - Build Your Own Arcade & Shooter Bundle + Build Your Own RPG & Strategy Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-04"
+      },
       {
         "title": "Bundlefest - Build Your Own Story Rich Adventures Bundle",
         "platform": "Fanatical",
@@ -37,7 +61,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
+      },
+      {
+        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-04"
       },
       {
         "title": "Here's the 1st game of Humble Choice March",
@@ -49,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
       },
       {
         "title": "Did they send out a discount code for February 2026 Humble Choice?",
@@ -170,50 +206,66 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-26"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Killer Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-02-25"
-      },
-      {
-        "title": "Humble Talk February 2026 Humble Choice Review ft. Resident Evil Village, Date Everything and More!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Resident Evil Village、Date Everything and More!",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "Focus Entertainment Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-23"
       }
     ],
     "review": [
       {
+        "title": "【shapez 2：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ドイツのtobspr Gamesが開発する工場自動化ロジックパズル「shapez」の続編として、2024年8月に早期アクセス向けにローンチされ、高い評価を獲得した「shapez 2」は、新たな展開を迎えます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164710.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Tales of the Shire：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年7月、PCやPS5、Xbox Series X/S、Nintendo Switch向けにリリースされた「Tales of the Shire」は、高い評価を獲得し、「指輪物語」の世界を舞台にした、ホビット庄の生活シミュレーションゲームです。このゲームでは、ホビット庄の住民として生活し、農業や畜産などを通じてコミュニティを築いていきます。ゲームの世界は、豊かな自然とゆったりした生活のリズムが特徴",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164713.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【ラタタン（RATATAN）】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "任天堂は3月3日、Nintendo Switch 2やNintendo Switch向けのインディーゲームを紹介する番組「Indie World 2026.3.3」を放送しました。この番組の中で、リズムアクションゲーム『ラタタン（RATATAN）』のNintendo Switch 2版が7月16日に発売されることが発表されました。このゲームは、音楽のリズムに合わせてアクションを楽しむことができるユ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ratatan-20260303-426030/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【シュレディンガーズ・コール：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "集英社ゲームズは3月3日、待望の新作『シュレディンガーズ・コール』の発売日を5月28日と発表しました。同時に、Steam以外にもNintendo Switch向けにもリリースされることが明らかになり、ファンを大いに喜ばせています。新しいプラットフォームへの対応によって、より多くのプレイヤーが本作の魅力的な世界を体験できることになります。発売日まで待ち切れないファンも多いこと間違いなしです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/adv-20260303-426019/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
         "title": "【マラソン：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Valveは3月3日、「Steam Nextフェス 2026年2月エディション」が本日閉幕したことを受けて、もっともプレイされたトップ50の体験版を公表しました。注目されるタイトルとして『Marathon』や『Burglin' Gnomes』などがランクインしています。このリストには、様々なジャンルのゲームがランクインしており、ユーザーが新しいゲームを発見する機会を提供しています。Steam Ne",
+        "description": "Valveは3月3日、「Steam Nextフェス 2026年2月エディション」が終了したことを受けて、最も多くプレイされたトップ50の体験版を発表しました。この中には、『Marathon』や『Burglin' Gnomes』などの魅力的なタイトルがランクインしています。Steam Nextフェスでは、最新のゲームの体験版が多数提供されており、ユーザーたちは新しいゲームを自由にプレイしてみることが",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,88 +275,88 @@
         "is_translated": false
       },
       {
-        "title": "【Necrophosis Subconsciousness：レビュー】",
+        "title": "【Esoteric Ebb：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "ズジスワフ・ベクシンスキーやH・R・ギーガー、ラヴクラフトの作品からインスピレーションを得たグロテスクで超現実的な宇宙を舞台に、コズミックホラー系アドベンチャーゲームが昨年4月にリリースされ、高い評価を獲得しました。このゲームは、 Dragongiの世界を体験するための新しい機会です。",
+        "description": "先日、Steam Nextフェス向けのデモ配信が開始され、発売日が2026年3月3日に決定したChris Bodegård氏の野心的なファンタジーCRPG「Esoteric Ebb」ですが、開発者自らが新たな情報を公開しています。ディスコ エリジウムのクリス・ボデガード氏は、このゲームの世界観やストーリー、ゲームプレイについて話しています。Esoteric Ebbは、ユニークな魔法システムや深いス",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03164649.html",
+        "url": "https://doope.jp/2026/03164701.html",
         "date": "2026-03-03",
         "is_translated": false
       },
       {
-        "title": "【Hydroneer：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2020年5月にリリースされた「Hydroneer」は、高い評価を獲得しています。このゲームは、採掘や自動化を中心としたサンドボックスゲームで、ソファCo-opを含む新しい要素や、いくつかの改善が導入されています。Foulball Hangoverが開発を手掛けており、プレイヤーは採掘や製造を自動化するためのシステムを構築することができます。また、ソファCo-opを通じて、友達と一緒にプレイするこ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164676.html",
-        "date": "2026-03-03",
-        "is_translated": false
-      },
-      {
-        "title": "【バンダイナムコスタジオ新人研修ゲーム：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "バンダイナムコスタジオとPhoenixxは、2月27日にSteamで配信中の新人研修制作ゲーム6作品の配信終了を発表しました。これらの作品はすべて無料で楽しむことができました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260302-425726/",
-        "date": "2026-03-02",
-        "is_translated": false
-      },
-      {
-        "title": "【FF14：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スクウェア・エニックスは、3月2日に『ファイナルファンタジーXIV』のスタッフに対する社会的評価を低下させる内容が含まれているとして、「ネトゲ速報」の管理人との間で協議を行った結果、和解に至ったことを発表しました。この記事には、ゲームスタッフへの誹謗中傷が含まれており、スクウェア・エニックスはこれに対して厳しく対応しました。和解の内容については、詳しい情報は公開されていませんが、この件についてはゲ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260302-425626/",
-        "date": "2026-03-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Arma 3：レビュー】",
+        "title": "【Outer Wilds：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "テクノロジーの進歩により、本物と偽物を区別することはこれまで以上に困難になっていますが、だからといってずさんな行為が許されるわけではありません。",
+        "description": "見ているとテーマソングが聞こえてきそうです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/once-again-arma-3-gameplay-is-being-passed-around-as-real-combat-footage-it-doesnt-even-look-real-one-overexcited-poster-exclaims/",
-        "date": "2026-03-02",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-players-found-an-empty-campsite-that-references-2019s-planet-hopping-puzzler-outer-wilds/",
+        "date": "2026-03-03",
         "is_translated": true
       },
       {
-        "title": "【Cherry Xtrfy MX 8.2 Pro TMR TKL：レビュー】",
+        "title": "【スコット ピルグリム EX：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "あなたにとってTMRは本当にそれだけの価値がありますか？",
+        "description": "ビートエムアップの新たな黄金時代が幕を開け、陽気で軽食の喧嘩屋たちが、その熱気をさらに高めながら続いています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-mx-8-2-pro-tmr-tkl-review/",
-        "date": "2026-03-02",
+        "url": "https://www.pcgamer.com/games/action/scott-pilgrim-ex-review/",
+        "date": "2026-03-03",
+        "is_translated": true
+      },
+      {
+        "title": "【バイオハザード レクイエム：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "レオンおじさんは少し調子が出てきました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/resident-evil/i-did-create-a-whole-mood-board-playing-leon-kennedy-in-resident-evil-requiem-was-uncharted-territory-for-nick-apostolides-because-the-stakes-were-so-high/",
+        "date": "2026-03-03",
+        "is_translated": true
+      },
+      {
+        "title": "【ハート・オブ・ザ・マシン：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「AI が優秀だったらどうなるでしょうか?」マシンの中心部で",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/heart-of-the-machine-review/",
+        "date": "2026-03-03",
+        "is_translated": true
+      },
+      {
+        "title": "【The Legend of Khiimori：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！とりあえず、マネイベントへ！特異なゲームの早期アクセス版はどれですか？ このゲームは、ユニークな体験を提供する早期アクセス版です。スタジオのライブで聴衆の笑い声が聞こえるのは、普通のことではありません。馬の音ではなく、笑い声が響く場面は、ゲームの面白さを示唆しています。マ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/its-time-to-pick-up-the-reins-as-the-13th-century-horse-courier-game-the-legend-of-khiimori-is-out-in-early-access",
+        "date": "2026-03-03",
         "is_translated": true
       },
       {
         "title": "【Destiny 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "RPS 月曜日の朝の会議まであと 30 分です。ジュリアンが私たちに今週末何をしたのか尋ねるまで、あと 30 分です。会話の雰囲気は一見愛らしいですが、危険が潜んでいます。リア王が娘に質問するような、温かいながらも内に秘めた緊張感が漂います。",
+        "description": "RPS 月曜日の朝の会議まであと 30 分です。ジュリアンが私たちに今週末何をしたのか尋ねるまで、あと 30 分です。リア王が娘に尋ねるような、一見愛らしい雰囲気を漂わせながら、ジュリアンは私たちにその話を聞こうとします。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +369,7 @@
         "title": "【ウォーハンマー40,000：ダーク異端：ローグトレーダー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨年、Owlcat は、人気のウォー・ハンマー40,000の世界を舞台にした、新たなCRPG「Dark Heresy」の開発を発表しました。このプロジェクトが進行していることから、彼らが別のプロジェクトを完了したことを示唆している可能性があります。Owlcat の新作は、ウォー・ハンマー40,000の世界観を活かした、ダークファンタジーに彩られた暗い未来を描く作品になる予感です。ゲームファンには、",
+        "description": "Owlcatは昨年、Warhammer 40,000の世界を舞台にした別のCRPG「Dark Heresy」の開発を発表しました。これにより、同社が別のプロジェクトに注力している可能性が高まり、開発中のプロジェクトが完了したという仮定につながる可能性があります。同社は多くのプロジェクトを同時に進めており、Warhammer 40,000の世界観を活かしたゲームの開発も予想されます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +382,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "エドウィンは先日ボコボロにやられてしまったので、今週末みんなが何をプレイするかは私が決めることになりそうです。ここでは大げさな冗談は言いません。彼は本当にボロボロで、ばらばらな状態です。",
+        "description": "エドウィンは先日ボコボロにされてしまったので、みんなが今週末何をプレイするのか気になるのは私だけではないと思います。ここでは大げさな冗談はありません。彼は本当にボロボロで、ばらばらです。彼の状態はとてもひどいです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -342,16 +394,52 @@
     ],
     "sale": [
       {
-        "title": "[Steam] Vampyr (90% オフ / 3.99$ )",
+        "title": "[Steam] プラネット オブ ラナ ($1.99 / 90% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamでの大感謝セールで、注目されるゲームが多数登場しています。その中でも、特に目を引くタイトルが「Vampyr」です。このゲームは、90%オフで3.99$で購入可能です。 「Vampyr」は、吸血鬼となってしまった医師の物語を描く、アクションRPGです。ロンドンを舞台に、プレイヤーは夜の街をさまよい、人間を襲ったり、他の吸血鬼と戦うことができます。 このゲームの特徴は、プレイヤーの選択によって物語が変化することです。人間を襲うことで強くなる反面、街の住民との関係が悪 化する可能性もあります。これにより、プレイヤーは、自身の行動の結果について考えることになります。 また、美しいグラフィックと、臨場感のあるサウンドトラックが、ゲームをより魅力的になっています。Steamでのセールでは、通常価格より大幅に安くなっているので、興味がある方は今すぐチェックしてみてください。",
+        "description": "プラネット オブ ラナは、Steamプラットフォームで現在大幅なセール中です。通常priceより90%オフの1.99ドルで購入できます。このゲームでは、不思議な惑星を探索し、そこに住む異星人たちとの交流を楽しむことができます。惑星の奥深くに隠された秘密を解き明かし、惑星を救うために必要な力を持つことができます。グラフィックは美しく、音楽も心地よいので、プレイヤーは惑星の世界に没頭できます。さらに、ゲームの難易度はステージに応じて変化するので、初心者から上級者まで楽しめる内容です。セール期間中は、通常価格より大幅に安くなっているので、興味がある方はこの機会に購入してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
+      },
+      {
+        "title": "[Steam] Thief's Shelter (70% オフ / $5.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Thief's Shelterは、プレイヤーがスリの視点からゲームを体験できる、ユニークなゲームです。このゲームでは、プレイヤーはさまざまなステージをクリアしながら、アイテムを集め、障害物を避け、ゴール地点に到達することを目指します。難易度が上がるにつれ、ステージの複雑さも増し、プレイヤーのスキルと戦略性が試されます。 Thief's Shelterの特徴的な点は、そのシンプルながらも挑戦的なゲームデザインです。プレイヤーは、スリの能力を活用して、トラップや敵を回避しながら進みます。また、各ステージには複数のルートがあり、プレイヤーは最適なルートを選択する必要があります。 現在、Thief's Shelterは70%オフで$5.99での購入が可能です。これは、興味のあるゲーマーにとって、絶好のチャンスです。SteamプラットフォームでThief's Shelterを購入して、スリの世界を体験してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "[STEAM] HAM: ザ ゲーム (20% 起動割引 / €6.39)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "HAM: ザ ゲームは、Steamプラットフォームで20%の割引で提供されています。この魅力的なゲームは、ユーザーに新しい体験をもたらすためにデザインされています。€6.39の格安価格で、HAM: ザ ゲームの世界に飛び込むことができます。このゲームは、ユーザーの想像力を掻き立てるため、様々な可能性を探索することができます。Steamでの発売により、ユーザーは簡単にアクセスしてプレイすることができます。HAM: ザ ゲームの魅力的なゲームプレイやグラフィックも、ユーザーを引き付けます。割引期間中は、HAM: ザ ゲームの世界を体験するために、Steamでこのゲームを購入することをお勧めします。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-04"
+      },
+      {
+        "title": "[Steam] Vampyr (90% オフ / 3.99$ )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されているVampyrは、90%オフの特別セール中です。この驚異的なセールでは、通常価格より大幅に安くなり、わずか3.99$で体験できます。Vampyrは、ロンドンを舞台にした暗くてゴシックな雰囲気を持つアクションRPGです。プレイヤーは、吸血鬼である医師を操作して、病に苦しむロンドンの市民を救うために、吸血鬼の能力と人間の医療技術を融合させた独自の戦闘スタイルを体験できます。また、吸血鬼の血の欲求と医師としての使命感との間で苦悩するキャラクターの物語も、ゲームの核心を形成しています。ゲーム内の選択は、街の運命に大きな影響を与え、複数のエンディングを生み出すことができます。吸血鬼の魅力と医師の使命感が交差する、このユニークなゲームワールドを、特別セールの価格で体験してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-04"
       },
       {
         "title": "ディズニー ドリームライト バレー アルティメット エディション スチーム",
@@ -544,42 +632,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-27"
-      },
-      {
-        "title": "[Steam] Arctico ($1.99 / 80% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで現在、注目のゲーム「Arctico」が80%オフの特別セール中です。この機会に、北極圏を舞台にしたこのアドベンチャーゲームを体験してみてはいかがでしょうか。寒冷な環境の中で、プレイヤーはさまざまな挑戦に立ち向かう必要があります。凍える風の中を進み、雪に埋もれた謎を解き明かすという、緊迫したストーリーが待っています。 このゲームでは、北極圏の厳しい自然環境をリアルに描写しており、美しいグラフィックとサウンドトラックが印象的です。氷と雪に覆われた広大な景色の中で、プレイヤーは重要なアイテムやヒントを探し出す必要があります。また、ストーリーはプレイヤーの選択によって変化するので、繰り返しプレイする価値があります。 セール期間中は、通常価格より80%割引された1.99ドルで購入可能です。この魅力的なゲームを手に取り、北極圏の氷と雪の世界に身を投じてみてはいかがでしょうか。冒険の呼び声に応えて、未知の領域を探索してみましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-27"
-      },
-      {
-        "title": "[Steam] 真菌症 (75% OFF)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "真菌症は、恐ろしい真菌の感染が広がる世界を舞台にした、サバイバルホラーゲームです。このゲームでは、真菌の感染を治すための方法を探しながら、恐ろしい環境の中で命を繋ぎ止めようとします。ゲームの世界は、真菌の感染が広がった後に崩壊し、恐ろしい生物が徘徊する所です。真菌の感染を治すために、さまざまなアイテムや能力を使用し、生物から逃げたり戦ったりしながら、真実を解き明かそうとします。真菌症は、ホラー要素とサバイバル要素を兼ね備えた、心を凍らせるゲームです。75% OFFのこの機会に、真菌症の世界に足を踏み入れてみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "[Steam] Cat President: 三流候補者ローンチセール ($8.09/10% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで新たにリリースされたゲーム「Cat President: 三流候補者」は、ユーモア溢れるストーリーと魅力的なキャラクターでゲーマーの心を掴みます。このゲームでは、猫を主人公に据えた独創的な設定が特徴で、プレイヤーは猫の候補者となって大統領選挙を戦います。ユーモラスな会話やキャラクターの表情が豊かで、プレイヤーを笑顔にさせます。 ゲームの世界では、猫の候補者がさまざまな出来事に直面し、難しい選択を迫られます。プレイヤーは、これらの選択によって物語の展開が変化するので、さまざまなエンディングを目指してチャレンジできます。キャラクターのグラフィックも愛らしいデザインで、気軽に遊べます。 現在、ローンチセール中で10%オフとなり、通常価格よりもお得に購入できます。価格は$8.09と非常に手頃な価格帯です。 Steamユーザーなら誰でも簡単にアクセスでき、インストールしてすぐに遊び始めることができます。もしユーモア溢れるストーリーや独創的なキャラクターが好きなゲーマーであれば、「Cat President: 三流候補者」をチェックする価値があります。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-26"
       }
     ]
   },
@@ -637,5 +689,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-03T12:36:15.322916"
+  "last_updated": "2026-03-04T02:25:20.514028"
 }

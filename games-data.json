@@ -17,7 +17,7 @@
         "title": "My Night Job - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "My Night Job はプレイヤーを廃墟となった建物に送り込み、モンスターの大群との戦いを描きます。60種類以上の武器を用いて自衛し、可能な限り多くの生存者を救出することが目的です。しかし、注意しなければなりません。部屋が破壊されすぎると、予想していたよりも早くゲームが終了してしまう可能性があるからです。",
+        "description": "My Night Jobは、プレイヤーを廃墟となった建物に送り込み、モンスターの大群と闘うゲームです。60以上の武器を使用して自分を守り、可能な限り多くの生存者を救出することが目的です。しかし、部屋を破壊しすぎると、最初に想像していたよりも早くゲームが終了してしまう可能性があるため、注意が必要です。さまざまな武器を駆使して、モンスターと戦いながら生存者を助け、ゲームを進めてください。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "Prestige Collectionに4つの新しいタイトル追加",
+        "title": "Prestige Collectionに4つの新しいタイトルが追加",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -40,7 +40,7 @@
         "date": "2026-03-05"
       },
       {
-        "title": "GTGD Bundleなどがセール中",
+        "title": "GTGD Bundle、Choo Choo SurvivorシリーズなどがSale中",
         "platform": "Steam",
         "type": "bundle",
         "description": "Steamのバンドル。",
@@ -73,6 +73,30 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Prestige Collectionに4つの新しいタイトル追加",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "GTGD Bundleなどがセール中",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
         "date": "2026-03-05"
       },
       {
@@ -182,38 +206,79 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-03-02"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Capcom Favorites Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Mega Man コレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-02-28"
       }
     ],
     "review": [
       {
+        "title": "【Trash Goblin：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Spilt Milk Studiosは3月5日、面白い雑貨屋経営ゲーム『Trash Goblin』の新しいアップデート「New Horizons」を配信しました。このアップデートにより、人気のこのゲームが日本語に対応したことになります。ゲームの世界がさらに広がり、新しい楽しみ方ができそうです。このアップデートで、日本語を話すプレイヤーもより楽しめるようになりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/trash-goblin-20260305-426700/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamトレンド：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "リュウズオフィスは3月5日、 Steamのトレンド情報を提供するサービス「Steamトレンド」を公開しました。本サイトでは、Steamのゲームのトレンドランキングやユーザーからの評価を5段階で確認することができます。ユーザー評価は、ゲームの質や人気を把握する上で重要な指標です。Steamトレンドでは、ユーザー評価のほかにも、ゲームの発売日やジャンル、価格帯などの情報も提供しています。さらに、トレン",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-trend-20260305-426656/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Apopia: スイート・ナイトメア：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ハピネットは3月3日、『Apopia: スイート・ナイトメア』を配信開始しました。本作は数は少ないものの着実に好評レビューが寄せられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/apopia-20260305-426608/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【サカつく2026：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "セガの『プロサッカークラブをつくろう！2026』を、3か月間集中してプレイする連載企画の第2回をお届けします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260305-426554/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Midnight：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "繰り返しますが、私は幸運な人の一人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/after-playing-a-bunch-of-midnight-i-dont-think-i-miss-wows-combat-addons-or-my-old-class-design-at-all/",
+        "date": "2026-03-05",
+        "is_translated": true
+      },
+      {
         "title": "【The Midnight Walk：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Fast Travel Gamesは3月4日、手作りのアドベンチャーゲーム『The Midnight Walk』のNintendo Switch版を3月26日に配信することを発表しました。このゲームは、ユニークな世界観とハンドクラフトなグラフィックで、プレイヤーを魅了するはずです。Nintendo Switchで遊ぶことができる『The Midnight Walk』は、3月26日から配信開始となり",
+        "description": "Fast Travel Gamesは3月4日、ハンドクラフト・アドベンチャーゲーム『The Midnight Walk』のNintendo Switch 2版を3月26日に配信することを発表しました。このゲームは、ユニークなハンドクラフトな世界を舞台に、プレイヤーが新たな冒険に臨むことができます。Nintendo Switch 2版では、オリジナル版の魅力をさらに高めたグラフィックやサウンド、そし",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +288,10 @@
         "is_translated": false
       },
       {
-        "title": "【BAKUDO：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "集英社ゲームズは3月4日、激しいボスバトルが楽しめるアクションゲーム『BAKUDO』の体験版を配信開始しました。このゲームでは、さまざまな技を駆使して強敵との対決を繰り広げます。プレイヤーは、さまざまなキャラクターを操作して、スピード感のあるアクションを体験できます。体験版をプレイすることで、ゲームの世界観や操作感を先行して感じることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260304-426198/",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【CONTROL Resonant：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「CONTROL」シリーズのナンバリング続編として、昨年末にお披露目を果たし、初代の主人公ジェシーの弟であるディランの戦いを描くことが報じられていた「CONTROL Resonant」ですが、オールデストハウスで起こる様々な出来事が描かれることになります。 CONTROLシリーズのファンには、待ちに待った続編のリリースが楽しみなこと間違いなしです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164663.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
         "title": "【Counter-Strike: Global Offensive：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "CS:GO は数年前に Counter-Strike 2 に統合されていましたが、現在は再び独自の Steam ページを持つようになっています。",
+        "description": "CS:GO は数年前に Counter-Strike 2 に組み込まれた時期がありましたが、現在は再び独自の Steam ページを持つようになっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,62 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【Crimson Desert：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Pearl Abyssは、自信に満ちた大胆なデザインに取り組んでおり、なんとかうまくいっているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/after-6-hours-crimson-desert-is-one-of-the-most-overwhelming-chaotic-madcap-videogames-ive-ever-played-and-im-hungry-for-more/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Poor Things：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "クリスチャン・ベールとジェシー・バックリーが主演するこの作品は、ボニーとクライド、パンクロック、レディー・ガガを題材にして『フランケンシュタインの花嫁』をワイルドで乱雑なストーリーに書き直したものです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-bride-review-maggie-gyllenhaal/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【バイオハザード レクイエム：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "私たちが選んだ『バイオハザード レクイエム』のMODには、難易度を調整するモディファイアや、グラフィックの質を高めるリシェーダー、そしてレオン・ケネディのコスチュームを変更するものなどが含まれています。これらのMODを使うことで、プレイヤーはゲームの難易度やビジュアルを自由にカスタマイズすることができます。特に、ビジュアル強化のためのリシェーダーは、ゲームの世界をよりリアルで臨場感のあるものに変え",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/resident-evil-requiem-mods-best/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Slay the Spire 2：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Slay the Spire 2 の早期アクセスリリースが間もなく待ち受けています。Mega Crit スタジオは、世界中のさまざまなタイムゾーンで、新しいデッキ構築ゲームをいつリリースするかについて、詳細な情報を公開しています。ゲームファンが待ちに待った、この新作ゲームのリリース時期を確認することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/slay-the-spire-2-early-acess-release-time-est-pst/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
         "title": "【The Legend of Khiimori：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！とりあえず、マネイベントへ！特異なゲームの早期アクセス版はどれですか？早期アクセス版のゲームは、開発中のゲームを先行体験できるユニークな機会です。さまざまなジャンルのゲームが用意されており、プレイヤーはゲームの開発途中で体験できるため、開発者の意図を垣間見ることができます",
+        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！マネイベントへようこそ！特異なゲームの早期アクセス版を紹介します。世界中のプレイヤーが注目している、革新的で面白いゲームを体験しましょう。早期アクセス版では、ゲームが完成する前に体験することができます。新しいゲームを探している方や、最新のトレンドに興味がある方にぴったりの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -332,7 +319,19 @@
         "title": "[Steam] 「Fate of Fire: Kyvedy Guardiah」 ($8.44 / €8,31 / 35% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームでは、魅力的なゲーム「Fate of Fire: Kyvedy Guardiah」が現在35%オフの特別価格で提供されています。このゲームは、ファンタジー世界を舞台に、プレイヤーに新たな冒険の旅を約束します。特徴的なグラフィックや、独自のゲームシステムで、ユーザーを引きつける魅力的な体験が待っています。 「Fate of Fire: Kyvedy Guardiah」には、様々なキャラクターが登場し、各々の力や能力を利用して、プレイヤーは様々な戦略を組み立てることができます。ゲームの世界は、広大なフィールドや複雑なダンジョンで構成されており、探索や戦闘を楽しむことができます。また、ゲームのストーリーは、プレイヤーの選択によって変化し、複数のエンディングを目指すことができます。 このゲームは、Steamプラットフォームで現在$8.44、または€8.31で提供されており、通常価格より35%割引されています。Steamユーザーなら誰でも、安価でこの魅力的なゲームを体験する機会を得ることができます。もし、あなたが新しいゲームを探しているのであれば、「Fate of Fire: Kyvedy Guardiah」は絶対にチェックするべきゲームです。",
+        "description": "Fate of Fire: Kyvedy Guardiahは、Steamプラットフォームで配信中のアクションアドベンチャーゲームです。このゲームは、35% オフの特別セール中で、通常価格より大幅に安価に購入することができます。価格は、8.44ドル、8.31ユーロです。 このゲームでは、プレイヤーは、様々な敵と戦いながら、キャラクターを成長させ、さまざまなスキルや能力を身につけることができます。ゲームの世界は、広大なフィールドやダンジョンが広がり、冒険のために探索することができます。また、グラフィックやサウンドトラックも高品質で、臨場感のあるゲーム体験を提供します。 セール中の価格で購入することで、経済的に手頃な価格でこのゲームを体験することができます。Fate of Fire: Kyvedy Guardiahは、アクションゲームやアドベンチャーゲームのファンには、必見のタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Hell is Us スチームで販売中",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Hell is Us は、Steam で販売中の新しいアクションアドベンチャーゲームです。このゲームでは、プレイヤーは地獄のような世界を舞台に、強力な敵と戦いつつ、様々な秘密を解き明かすことができます。ダークファンタジーな世界観と、アクション満載の戦闘システムが特徴的なこのゲームは、ゲーマーの心を虜にします。 様々な武器やスキルを駆使して、プレイヤーは地獄の深層へ進み、そこに隠された真実を探求します。壮大なボスバトルや、複雑なパズルを解くこともできます。グラフィックスも美麗で、地獄の世界がリアルに表現されています。 Hell is Us は、スチームプラットフォームで販売中ですので、すぐに購入してプレイを開始できます。アクションアドベンチャーゲームファンなら絶対に楽しめる作品です。地獄の世界に足を踏み入れて、強烈なアドベンチャーを体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -555,18 +554,6 @@
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
         "date": "2026-02-28"
-      },
-      {
-        "title": "Nacon パブリッシャー セール | クラッシュなど大幅割引",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "Nacon パブリッシャー セールでは、クラッシュをはじめとする様々な人気ゲームが大幅に割引されています。GOGプラットフォームで開催されているこのセールでは、ゲーマーたちはお気に入りのゲームを手に入れるための絶好の機会を得ることができます。クラッシュのようなアクションアドベンチャーゲームのファンは、ハイスピードな運転とスリル満点のレースを楽しむことができ、他のジャンルのタイトルも多数用意されています。Nacon パブリッシャー セールでは、さまざまなゲームが大幅な割引価格で提供されており、ゲーマーたちはこれらのタイトルを試すことができます。セール期間中は、GOGでさまざまなゲームをチェックし、大幅な割引でのお得な購入を楽しむことができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-27"
       }
     ]
   },
@@ -624,5 +611,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-05T02:27:59.253697"
+  "last_updated": "2026-03-05T12:38:56.909953"
 }

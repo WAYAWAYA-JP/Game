@@ -2,31 +2,79 @@
   "pc": {
     "free": [
       {
-        "title": "Boxes: Lost Fragments - Epic Games 無料配布中",
+        "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "謎のパズルボックスがいっぱいの豪華な邸宅から脱出しましょう!",
+        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームで、小説やキャンペーン、テレビ番組に登場する様々な象徴的なキャラクターを壮大な冒険に集結させています。このゲームでは、プレイヤーは多様なヒーローたちを集め、育成し、戦略的な戦闘を指揮することができます。豊富なキャラクターと壮大なストーリーが織り成すこのゲームの世界は、ファンタジーと冒険を愛するゲーマーにとって、夢のようなくつろぎの時間を約束しています。",
+        "price": "無料",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "Turnip Boy Robs a Bank - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesで配布されている「Turnip Boy Robs a Bank」は、ユニークなゲームワールドと面白いストーリーでプレイヤーを楽しませます。カブボーイが主役となり、恐ろしいピクルス・ギャングと手を組んで、史上最もヘンテコな強盗作戦を実行します。このゲームは、プレイヤーに新しい強盗の体験を提供し、ユーモアとアクションを組み合わせたエンターテイメントを味わえることでしょう。ゲームの特徴的なキャラクターと愉快なゲームプレイが、プレイヤーを魅了し、楽しい時間を過ごせるでしょう。Epic Gamesで無料で配布されているので、ぜひチャレンジしてみてください。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "My Night Job - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "My Night Jobは、プレイヤーを廃墟となった建物に送り込み、モンスターの大群と闘うゲームです。60以上の武器を使用して自分を守り、可能な限り多くの生存者を救出することが目的です。しかし、部屋を破壊しすぎると、最初に想像していたよりも早くゲームが終了してしまう可能性があるため、注意が必要です。さまざまな武器を駆使して、モンスターと戦いながら生存者を助け、ゲームを進めてください。",
-        "price": "無料",
-        "originalPrice": "¥970",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-05"
+        "date": "2026-03-06"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Cupiclaw Launch discount ($8.99 / 10% off) + Limited time bundle with Dungeon Clawler",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "収録: Dungeon Clawler",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "Bundlefest - Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "Stealthyshiroean's Humble Choice March 2026 Review",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-06"
+      },
       {
         "title": "Prestige Collectionに4つの新しいタイトルが追加",
         "platform": "Fanatical",
@@ -49,18 +97,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-03-05"
       },
       {
@@ -170,50 +206,40 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-03-04"
-      },
-      {
-        "title": "Here's the 1st game of Humble Choice March",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-04"
-      },
-      {
-        "title": "Mega Man: Charged Up Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Humble Choice February 2026 | All games on Steam Deck (+ performance notes in comments)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-02"
       }
     ],
     "review": [
       {
+        "title": "【RUINER 2：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2017年9月にリリースされて以来高い評価を獲得し、現在ユニバーサルが手掛ける映画化プロジェクトが進行中のReikon Gamesの人気サイバーパンクアクション「RUINER」。この作品は、新たなプロジェクトに取り組むReikon Gamesの新しい挑戦の第一歩となりそうです。サイバーパンクの世界を舞台に、高速でスタイリッシュなアクションを体験できる「RUINER」は、ゲーマーたちから高い評価を得",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164804.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【The Legend of Khiimori：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このページでは、すべての馬シミュレーション機能の詳細と、レジェンド オブ キイモリの早期アクセスの現状を説明しているので、プレイするタイミングを決める参考にしていただけます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/legend-of-khiimori-early-access-features/",
+        "date": "2026-03-06",
+        "is_translated": true
+      },
+      {
         "title": "【Trash Goblin：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Spilt Milk Studiosは3月5日、面白い雑貨屋経営ゲーム『Trash Goblin』の新しいアップデート「New Horizons」を配信しました。このアップデートにより、人気のこのゲームが日本語に対応したことになります。ゲームの世界がさらに広がり、新しい楽しみ方ができそうです。このアップデートで、日本語を話すプレイヤーもより楽しめるようになりました。",
+        "description": "Spilt Milk Studiosは3月5日、人気の雑貨屋経営ゲーム『Trash Goblin』向けにアップデート1.4「New Horizons」を配信しました。この最新アップデートにより、プレイヤーは日本語でゲームを楽しむことができるようになりました。『Trash Goblin』はユニークなゲーム性と面白いグラフィックで、多くのゲーマーの支持を得ています。このアップデートで、日本語を母国語と",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "【Steamトレンド：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "リュウズオフィスは3月5日、 Steamのトレンド情報を提供するサービス「Steamトレンド」を公開しました。本サイトでは、Steamのゲームのトレンドランキングやユーザーからの評価を5段階で確認することができます。ユーザー評価は、ゲームの質や人気を把握する上で重要な指標です。Steamトレンドでは、ユーザー評価のほかにも、ゲームの発売日やジャンル、価格帯などの情報も提供しています。さらに、トレン",
+        "description": "リュウズオフィスは3月5日、Steamのゲームをまとめた「Steamトレンド」を公開しました。このサイトでは、Steamのゲームのトレンドランキングやユーザーによる5段階の評価を確認することができます。トレンドランキングでは、現在の人気ゲームが一目でわかり、ユーザー評価では各ゲームの評判が5段階で表現されています。Steamでどのゲームが人気なのか、どのゲームが高く評価されているのかを簡単に知るこ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +265,7 @@
         "title": "【Apopia: スイート・ナイトメア：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハピネットは3月3日、『Apopia: スイート・ナイトメア』を配信開始しました。本作は数は少ないものの着実に好評レビューが寄せられています。",
+        "description": "ハピネットは3月3日、ファンタジー要素を含んだホラー・アドベンチャーゲーム『Apopia: スイート・ナイトメア』を配信開始した。本作は数は少ないものの、着実に好評レビューが寄せられている。ゲームの世界観やストーリー、グラフィックなどが高く評価されており、ホラー・アドベンチャーゲームファンには必見の1作となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +278,7 @@
         "title": "【サカつく2026：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "セガの『プロサッカークラブをつくろう！2026』を、3か月間集中してプレイする連載企画の第2回をお届けします。",
+        "description": "セガの『プロサッカークラブをつくろう！2026』を、3か月間深くプレイする連載企画の第2回をお届けします。この連載では、ゲームの魅力に焦点を当て、プレイヤーが直面するさまざまな挑戦や楽しみを紹介していきます。ゲームの奥深さや、プレイヤーがクラブを運営する上での戦略的な思考を必要とする点など、ゲームの本質を掘り下げていく予定です。セガの『プロサッカークラブをつくろう！2026』の世界に踏み込んでみて",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,59 +288,83 @@
         "is_translated": false
       },
       {
-        "title": "【Midnight：レビュー】",
+        "title": "【マラソン：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "繰り返しますが、私は幸運な人の一人です。",
+        "description": "くじら座タウからの報告から、化粧品が不足していることが明らかになりました。選手たちは爆発寸前の状態です。さらに、バックパックが詰め込まれている様子も見受けられます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/after-playing-a-bunch-of-midnight-i-dont-think-i-miss-wows-combat-addons-or-my-old-class-design-at-all/",
+        "url": "https://www.pcgamer.com/games/fps/marathon-day-one-check-in-thief-impressions-broken-deluxe-edition-bonuses-and-so-many-assassins/",
         "date": "2026-03-05",
         "is_translated": true
       },
       {
-        "title": "【The Midnight Walk：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Fast Travel Gamesは3月4日、ハンドクラフト・アドベンチャーゲーム『The Midnight Walk』のNintendo Switch 2版を3月26日に配信することを発表しました。このゲームは、ユニークなハンドクラフトな世界を舞台に、プレイヤーが新たな冒険に臨むことができます。Nintendo Switch 2版では、オリジナル版の魅力をさらに高めたグラフィックやサウンド、そし",
+        "description": "待ちに待った時がやっと来ました！予言の日が訪れ、手を試す時が来ました。『Slay the Spire 2』がついに早期アクセスを開始しました。長距離を走るマラソンのようなゲームもありますが、今回は早期アクセスでリリースされたこのゲームに注目しましょう。ゲームの世界では、プレイヤーはさまざまな選択肢を選びながら、塔を登りながら強くなることを目指します。早期アクセスでは、ゲームの基本的なシステムやゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260304-426421/",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Counter-Strike: Global Offensive：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "CS:GO は数年前に Counter-Strike 2 に組み込まれた時期がありましたが、現在は再び独自の Steam ページを持つようになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/",
-        "date": "2026-03-04",
+        "url": "https://www.rockpapershotgun.com/prepare-your-decks-once-more-slay-the-spire-2-is-now-out-in-early-access",
+        "date": "2026-03-05",
         "is_translated": true
       },
       {
-        "title": "【The Legend of Khiimori：レビュー】",
+        "title": "【マラソン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "準備はできていますか？周りの馬？何？いいえ、それは缶詰の笑いではありません、それはスタジオのライブの聴衆です、それは面白いです！マネイベントへようこそ！特異なゲームの早期アクセス版を紹介します。世界中のプレイヤーが注目している、革新的で面白いゲームを体験しましょう。早期アクセス版では、ゲームが完成する前に体験することができます。新しいゲームを探している方や、最新のトレンドに興味がある方にぴったりの",
+        "description": "Bungie のマラソン リブートが本日 PC でリリースされました。本作は先週末のプレイテストにおいて、ここしばらくで最も難しいエクストラクション シューターとみなされています。プレイヤーは老舗のビクトリア朝スタイルに挑戦し、強力な敵と対決しながら、さまざまなステージを攻略していくことになります。マラソン リブートは、プレイヤーに高レベルの難易度と緊張感を提供することで、エクストラクション シュ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.rockpapershotgun.com/its-time-to-pick-up-the-reins-as-the-13th-century-horse-courier-game-the-legend-of-khiimori-is-out-in-early-access",
-        "date": "2026-03-03",
+        "url": "https://www.rockpapershotgun.com/one-of-marathons-more-controversial-mechanics-brings-back-a-neat-idea-from-anthem",
+        "date": "2026-03-05",
+        "is_translated": true
+      },
+      {
+        "title": "【Diablo 4：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ウォーロッククラスは、Lord of Hatred拡張パックでDiablo 4に登場します。Blizzardは、ライブストリームやハンズオンプレビューの際に、このクラスについての新しい詳細を明らかにしました。ウォーロッククラスは、強大な魔法と召喚能力を兼ね備え、プレイヤーが様々な戦略を駆使して敵と戦うことができます。ウォーロックは、さまざまな悪魔や生物を召喚して戦闘に参加させることができ、さらに、",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/diablo-4-warlock-preview-lord-of-hatred-season-12/",
+        "date": "2026-03-05",
         "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "Planet of Lana II (€14.00 -29% オフ / £11.94 -31% オフ / $14.00 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Planet of Lana IIは、スチームプラットフォームで提供されている、魅力的なアドベンチャーゲームです。このゲームでは、美しいグラフィックと独自のゲームシステムで、プレイヤーは惑星ラナの不思議な世界を探索します。惑星ラナIIのストーリーは、プレイヤーが新しい仲間と出会い、共に惑星の危機を解決するための冒険に臨むという内容です。 このゲームの特徴として、美しい水彩画のようなグラフィックや、不思議な生物との交流が楽しめます。プレイヤーは、惑星ラナの自然環境を利用しながら、パズルを解決し、障害を克服していきます。また、ゲームの中では、独自の能力を持つ仲間たちと協力して、惑星の平和を守るために戦い抜きます。 Planet of Lana IIは、スチームアクティベーションに対応しているため、スチームユーザーにはぴったりのゲームです。現在、EU、英国、米国では29%オフから31%オフの特別セール中です。プレイヤーは、この魅力的なゲームを安価で手に入れることができます。Planet of Lana IIは、美しいグラフィックと独自のゲームシステムで、プレイヤーを惑星ラナの不思議な世界に引き込みます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "[Steam] Pushmania (15,92 ユーロ / 35% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでのセールが今行われています。Pushmaniaというゲームは、現在35%オフの魅力的価格で提供されています。通常価格よりも15.92ユーロと大幅に安くなっているので、購入する機会を逃さないでください。 Pushmaniaは、プレイヤーがさまざまなプッシュアクションを繰り返し、スキルと戦略を高めながら進む、ユニークなゲームです。様々なステージをクリアすることで、新しい能力やアイテムを解放し、ゲームの難易度が段々と上昇していきます。 このゲームの特徴は、シンプルな操作性と複雑なステージデザインの組み合わせで、プレイヤーは常に新しい挑戦に直面することになります。また、グラフィックやサウンドトラックも、ゲームの雰囲気を高めてくれます。Steamでのセール期間中は Pushmania をお試しやすい価格で購入できるので、ゲームファンにはおすすめのタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-06"
+      },
       {
         "title": "[Steam] 「Fate of Fire: Kyvedy Guardiah」 ($8.44 / €8,31 / 35% オフ)",
         "platform": "Steam",
@@ -530,30 +580,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-02-28"
-      },
-      {
-        "title": "Ubisoft セール - The Crew Motorfest、Tom Clancy's The Division、Far Cry Primal",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Ubisoft セールでは、人気ゲームが大幅に値下げされます。The Crew Motorfest をプレイして、ハワイの美しい島々を駆け巡り、カスタマイズされた車両でアドレナリンを満たします。Tom Clancy's The Division を遊んで、ニューヨーク市の雪に覆われた街で、友人と協力して危機を乗り越えます。Far Cry Primal は、原始時代の世界で、野生動物と戦いながらサバイバルをします。Ubisoft のゲームは、グラフィックとゲームプレイの質において高い評価を受けています。今回のセールは、様々なジャンルのゲームファンにとって、夢のチャンスです。Steam で Ubisoft セールをチェックし、ご希望のゲームを手に入れましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Nacon セール：クラッシュ、ローグブック、Steelrising 他",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "Nacon セールの登場です！GOG で開催中のこのセールでは、様々なジャンルの魅力的なゲームを堪能することができます。アクションゲームファンには、高速でダイナミックな「Steelrising」が必見です。このゲームでは、18世紀のパリを舞台に、ロボットと戦う女性プロタゴニストの物語が繰り広げられます。 また、ローグライクゲームの「ローグブック」も注目に値します。ターン制の戦闘と、ランダムに生成されるダンジョンを探索する楽しみが味わえるでしょう。さらに、クラフト要素と、プレイヤーの選択が物語に影響を与える「クラッシュ」もおすすめです。 これらのゲームは、GOG の Nacon セール期間中、特別価格で提供されます。限られた時間の中に、是非これらの魅力的なゲームをチェックしてみてください。Nacon セールで新たなゲーム体験を探索しましょう！",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-28"
       }
     ]
   },
@@ -611,5 +637,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-05T12:38:56.909953"
+  "last_updated": "2026-03-06T02:26:16.633283"
 }

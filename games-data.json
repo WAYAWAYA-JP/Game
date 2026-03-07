@@ -5,28 +5,64 @@
         "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームで、人気の小説やキャンペーン、テレビ番組に登場する様々な象徴的なキャラクターを集めて、プレイヤーに大胆な冒険を体験させます。このゲームでは、プレイヤーは自分のチームを編成し、戦略を立てて、様々な挑戦に立ち向かいます。ゲームの世界は、ダンジョンズ＆ドラゴンズのユニバースを忠実に再現しており、ファンはお馴染みのキャラクターと場所に出会うことができます。戦略と管理の要素を組み合わせたこのゲームは、プレイヤーに深いゲーム体験を提供し、ダンジョンズ＆ドラゴンズの世界を新たな視点から楽しむことができる魅力的ゲームです。",
+        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームで、小説やキャンペーン、テレビ番組に登場するアイコン的なキャラクターを多数集めて、壮大な冒険を繰り広げます。このゲームでは、プレイヤーはさまざまな英雄を集め、パーティを編成してダンジョンやモンスターと戦います。戦略的な思考とリソース管理が求められるこのゲームは、ダンジョンズ＆ドラゴンズのファンにはもちろん、新しいプレイヤーにも楽しく挑戦できる内容になっています。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
       },
       {
         "title": "Turnip Boy Robs a Bank - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、新しいゲーム「Turnip Boy Robs a Bank」が配布されています。このゲームでは、カブボーイが恐ろしいピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。カブボーイは前作から戻ってきたようですが、今回はピクルス・ギャングとの不思議な関係を描いています。プレイヤーはカブボーイとともに、バンクを強盗するための計画を立て、実行に移します。強盗の最中には、さまざまな障害や敵キャラクターと対決することになります。カブボーイのユーモア溢れるアクションと、ピクルス・ギャングの恐ろしさが調和する、この珍しいゲームを是非体験してみてください。",
+        "description": "Epic Gamesプラットフォームで配布中の「Turnip Boy Robs a Bank」は、ユニークなゲームワールドと面白いストーリーが特徴です。このゲームでは、カブボーイが恐ろしいピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。プレイヤーはカブボーイとなり、銀行を襲撃し、さまざまな課題をクリアしながら、ピクルス・ギャングと協力して強盗を成功させることを目指します。 このゲームは、ユーモア溢れるグラフィックと、面白いキャラクターが登場するため、ゲーマーに楽しい体験を提供します。また、ゲームのストーリーも、予想外の展開が用意されており、プレイヤーを飽きさせないように設計されています。さらに、ゲームの操作はシンプルで、誰でも簡単にプレイすることができます。 「Turnip Boy Robs a Bank」は、無料でプレイできるため、誰でも簡単に試すことができます。Epic Gamesプラットフォームで配布中なので、ゲーマーはすぐにこのユニークなゲームを体験することができます。もし、あなたが新しいゲームを探しているのであれば、「Turnip Boy Robs a Bank」はおすすめです。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
       }
     ],
     "bundle": [
+      {
+        "title": "ESA All-Star Alliance Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "Stealthyshiroean's Humble Choice March 2026 Review",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-07"
+      },
       {
         "title": "[Steam] Cupiclaw Launch discount ($8.99 / 10% off) + Limited time bundle with Dungeon Clawler",
         "platform": "Steam",
@@ -49,30 +85,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "Stealthyshiroean's Humble Choice March 2026 Review",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "March 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-03-06"
       },
       {
@@ -194,39 +206,66 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-03-04"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Story Rich Adventures Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-04"
       }
     ],
     "review": [
       {
-        "title": "【The Legend of Khiimori：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【South of Midnight：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "このページでは、馬シミュレーション機能の詳細と、レジェンド オブ キイモリの早期アクセス状況を紹介しているので、プレイするか待つかを判断するための参考材料となります。",
+        "description": "光と影をモチーフに少女の冒険を描いた「Contrast」や、薬物で幸福を強要するディストピアを描いた「We Happy Few」で知られるデベロッパーのCompulsion Gamesが、新作を昨年4月にローンチしました。このデベロッパーは、独自の世界観とストーリーテリングでファンに支持されていることで知られています。新作も、同様にユニークな設定と魅力的な物語が特徴です。ゲームの詳細については、公",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/legend-of-khiimori-early-access-features/",
+        "url": "https://doope.jp/2026/03164854.html",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
+        "title": "【MENACE：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Overhype Studiosは、タクティカルRPGのファンから高い評価を受けた『Battle Brothers』を生み出しました。このスタジオの新作『MENACE』は、今年2月に早期アクセス版としてローンチされ、高い評価を獲得しています。『MENACE』は新たにパブリッシャーのHoodと提携し、ゲームの魅力と可能性をさらに高めています。このタクティカルRPGは、戦略的な戦闘とキャラクターの成長",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164849.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Into the Dead: Our Darkest Days：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「This War of Mine」とゾンビアポカリプスの要素を融合させたような、ハードコアで独創的な2.5Dサバイバルゲームとして高い評価を獲得している「Into the Dead」は、先日待望の日本語対応を果たしました。このゲームは、PikPokによって開発され、ゾンビたちから逃れながらさまざまなアイテムを集め、生存を目指すという、ハードコアなサバイバル体験をプレイヤーに提供します。高い評価を",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164842.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "メタ社のAIスマートグラスは、人間の請負業者によって厳密に検査されており、これが同社に対する新たな訴訟につながっていることが報告書で明らかになった。請負業者は契約上の範囲をはるかに超えて映像を確認しており、これはプライバシーを重視する人々にとって懸念される問題だ。メタ社のAI技術は、ユーザーの生活を便利にするために開発されたものだが、このような問題が浮上することは、同社の評価に影を落とすことになる。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "人々は自分自身を記録する際に、間違った方法をとることがあります。場合によっては、彼らが何を記録しようとしているのかを理解していない可能性さえあります。しかし、彼らはあなたや私と同じように、本当の人間です。彼らの生活は、日常的な出来事や経験で構成されています。このゲームでは、プレイヤーはこれらの人々の生活を覗き見することができ、自分自身の存在について考えるきっかけにします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/we-see-everything-report-says-metas-ai-smart-glasses-footage-is-reviewed-by-human-contractors-who-see-far-more-than-they-bargained-for-which-has-led-to-a-new-lawsuit-against-the-company/",
         "date": "2026-03-06",
         "is_translated": true
       },
       {
-        "title": "【Vault of Glass：レビュー】",
+        "title": "【Destiny：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Bungie のマラソン リブート版が昨日リリースされましたが、開発者の報道禁止ガイドラインは批評家に「完全なレビューと感想」を遅らせるよう要求しており、そのような印象は受けられないかもしれません。このガイドラインは、批評家がゲームの全貌を体験してからレビューすることを求めており、ゲームの評価が公平になることを目指しています。開発者は、ゲームのリリース後に批評家のレビューが公表されるのを待つ必要が",
+        "description": "Bungie のマラソン リブート版は昨日リリースされましたが、開発者の報道禁止ガイドラインにより、批評家が「完全なレビューと感想」を発表するのを遅らせるよう要求されていました。つまり、批評家がゲームについての全面的な評価を発表する前に、一定の期間を空ける必要がありました。このようなガイドラインは、ゲームの評価が公平かつ真実であることを保つためにとられる措置のひとつです。ゲームの評価を書く批評家た",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,23 +275,10 @@
         "is_translated": true
       },
       {
-        "title": "【マラソン：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "くじら座タウからの報告は、驚くべき内容です。化粧品が不足していることが明らかになりました。また、選手たちの活躍は爆発的なもので、バックパックはあらゆる物で詰め込まれているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/marathon-day-one-check-in-thief-impressions-broken-deluxe-edition-bonuses-and-so-many-assassins/",
-        "date": "2026-03-05",
-        "is_translated": true
-      },
-      {
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "待ちに待った予言の日がついに到来しました。手をプレイする時がやっと来ました。ローグライクカードゲームの『Slay the Spire 2』が早期アクセスを開始しました。マラソンを走るような長期の開発期間を経て、ついにプレイヤーの手に届きます。早速ゲームを体験して、さまざまなカードを組み合わせながら、新たな戦略を模索してみてください。『Slay the Spire 2』の魅力を存分に楽しんでください",
+        "description": "待ちに待った予言の日がついに到来しました。長い時間待ちに待ったSlay the Spire 2が早期アクセスを開始しました。早速手をプレイする時が来たのです。マラソンを走るような長期的なゲームプレイができるSlay the Spire 2は、ゲームファンが期待する作品です。早速ゲームを始めて、新しいステージとキャラクターを体験してみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +291,7 @@
         "title": "【マラソン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Bungie のマラソン リブートが今日、PC でリリースされました。先週末のプレイテストを受けて、本作は近頃で最も難しい、別名「最も汗をかく」エクストラクション シューターとみなされています。古典的なビクトリア朝のような雰囲気を醸し出すこのゲームは、プレイヤーに高いスキルと戦略性を要求することで知られています。エクストラクション シューターというジャンルでは、プレイヤーはチームを率いて、ホストI",
+        "description": "Bungie のマラソン リブートが本日 PC でリリースされました。本作は先週末のプレイテストで、その難易度の高さから、ここしばらくで最も難しいエクストラクション シューターとして注目を集めています。プレイヤーは、古典的なビクトリア朝の雰囲気を感じながら、戦闘に挑み、汗をかきながらゲームを進めていくことになります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,6 +302,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] Mainframe Defenders (90% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Mainframe Defenders は、プレイヤーを未来の世界に導く、SF風のタワーディフェンスゲームです。90% オフという破格の価格で提供されるこのゲームは、魅力的なグラフィックと面白いゲームプレイが特徴です。プレイヤーは、さまざまな種類のタワーを配置して、侵略的なエイリアンの攻撃から未来の都市を守る必要があります。ゲームの進行に伴って、タワーのアップグレードや新しいタワーの解放が可能になり、戦略的思考とリソース管理が求められます。Steam プラットフォームで利用できるこのゲームは、ゲームセンターで遊ぶことなく、自宅でタワーディフェンスの楽しみを体験できます。ゲームのサウンドトラックや効果音も、未来的な雰囲気を醸し出しており、プレイヤーを没入感のある世界に導きます。Mainframe Defenders をプレイすることで、プレイヤーは新たな戦略とアクションの世界を発見することができ、ゲームの楽しさを存分に味わうことができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "[Steam] .hack//G.U.最終レコード ($9.99/80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "このゲームは、.hackシリーズの最終章です。Steamプラットフォームで提供されており、現在80%オフの特価で提供中です。通常価格から大幅に値下げされているので、シリーズファンや新規プレイヤーにとっても魅力的な選択肢となっています。 .hack//G.U.最終レコードは、サイバーパンクな世界を舞台に、ネットワークと仮想現実をテーマにしたストーリーを描くゲームです。プレイヤーは、ネットワークの中でさまざまなキャラクターと出会い、戦い、そして物語を進めていきます。リアルタイムバトルシステムと深いキャラクターストーリーが特徴で、シリーズファンには必見の要素が多く含まれています。 このゲームでは、プレイヤーは複雑なストーリーを追体験し、さまざまなキャラクターとの関係を築いていくことで、世界の謎に迫っていきます。さらに、バトルシステムは、戦略性とタイミングの重要性を兼ね備え、プレイヤーを引き付ける要素となっています。 Steamプラットフォームでは、簡単にゲームを購入してプレイを開始できます。80%オフの特価での提供は、シリーズを体験したい人や、ゲームコレクションを充実させたい人にとって、大きな機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "SHIRO、Obsurity、The Excrawlers、MiceGard 大幅割引",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、注目度の高い4つのゲームが大幅に割引されていることをお知らせします。SHIRO、Obsurity、The Excrawlers、MiceGardは、それぞれユニークなゲーム性と世界観を持ち、プレイヤーを新たな体験に引き込むこと間違いなしです。 SHIROは、美しいグラフィックと深みのあるストーリーが特徴的です。プレイヤーは、主人公を操作し、不思議な世界を探索し、様々な挑戦に立ち向かいます。Obsurityは、ダークファンタジーをテーマにしたアクションゲームで、恐ろしさとスリルの組み合わせが楽しいです。The Excrawlersは、ユーモアとアクションが混在する、独特なゲーム性を持っています。MiceGardは、かわいいキャラクターと面白いゲーム性が特徴的です。 これらのゲームは、それぞれが独自の魅力を持っていますが、大幅な割引により、より手軽にプレイすることができます。Steamユーザーには、是非一度チェックしてみてください。新たなゲーム体験を求めるゲーマーには、きっと魅力的な選択肢になってくれることでしょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "モンスターハンター ストーリーズ 3: Twisted Reflection (18% オフ - $57.39 / £45.09 / €57.39 / CA$77.89 / A$88.52)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "モンスターハンター ストーリーズ 3: Twisted Reflectionは、人気シリーズの最新作です。このゲームでは、モンスターハンターの世界を新たな視点から体験します。強大なモンスターと戦い、未知の土地を探索することで、ゲームの世界をより深く知ることができます。 Twisted Reflectionは、シリーズのファンが待ちに待った新しいストーリーやキャラクターを導入しています。ゲームのグラフィックやサウンドトラックも、モンスターハンターの世界をよりリアルに表現しています。さらに、ゲームのバトルシステムも改良され、よりスムーズで快適なプレイが可能です。 Fanaticalでのセールにより、モンスターハンター ストーリーズ 3: Twisted Reflectionを18%オフで購入することができます。通常価格より大幅に安くなり、ゲームを体験するための絶好の機会です。モンスターハンターの世界を新たな視点から体験したい方、またはシリーズのファンである方には、ぜひこの機会を逃すなかれです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "Steam の Mainframe Defender のセール 90%",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で提供されている Mainframe Defender は、現在 90% オフのセール中です。この激安セールにより、世界中のゲーマーがこの面白いゲームを楽しむことができます。Mainframe Defender は、サイバーセキュリティをテーマにしたゲームで、プレイヤーは脅威となるハッカーからコンピューターシステムを守る役割を担います。ハッカーの攻撃を察知して対処し、システムのセキュリティを強化する必要があります。複数のステージと様々なハッキングテクニックが用意されており、プレイヤーは戦略的な思考と迅速な対応が求められます。グラフィックも美しく、ゲームの雰囲気を高めています。さらに、Steam のコミュニティ機能を通じて、他のプレイヤーと交流したり、ランキングで競争したりすることもできます。セール期間中は限られた時間のみのオファーなので、早いときに Steam で Mainframe Defender を購入して、サイバーセキュリティの世界で活躍してください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-07"
+      },
       {
         "title": "[Steam] Pushmania (15,92 ユーロ / 35% オフ)",
         "platform": "Steam",
@@ -455,66 +541,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-02"
-      },
-      {
-        "title": "Nacon セール：クラッシュ、アーティファクト オブ カオス、ローグブックなど",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "Nacon セールが今始まっています。GOG で開催されているこのセールでは、Nacon のさまざまな人気ゲームが大幅に値下げされています。アクションゲームファンには、クラッシュ シリーズがおすすめです。高速でダイナミックなゲームプレイを楽しむことができます。また、ストラテジー ゲームのファンには、アーティファクト オブ カオスが魅力的です。ターンベースの戦略と、独自のゲームシステムを特徴としています。さらに、ローグライク RPG のローグブックも登場します。ランダムに生成されたダンジョンと、様々なキャラクターを操りながら、冒険の世界を探索することができます。Nacon セールでは、これらのゲーム以外にも、様々なジャンルのゲームが特別価格で提供されています。ゲーマーには、夢のゲームを見つける絶好の機会です。ぜひ、このセールをチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-03-01"
-      },
-      {
-        "title": "Nacon パブリッシャー セール：クラッシュ、アーティファクト オブ カオスなど",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGでは、Naconパブリッシャーのさまざまなゲームがセール中です。このセールでは、人気ゲーム「クラッシュ」と「アーティファクト オブ カオス」などが特集されています。アクションゲームやファンタジー系のゲームが多く含まれており、さまざまなジャンルのゲームがセール中です。 クラッシュは、スピードとアクションが求められるレースゲームです。複数のキャラクターと車両から選択でき、各キャラクターにはユニークな能力があります。高速でスリリングなレースを楽しむことができます。 アーティファクト オブ カオスは、ファンタジー系のアクションゲームです。魔法と剣術を組み合わせた戦闘システムが特徴で、プレイヤーは強力な魔法を使って敵を倒します。美しいグラフィックと壮大なストーリーが特徴です。 Naconパブリッシャーのセールでは、これらのゲーム以外にも、さまざまなタイトルが割引されています。ゲームのファンにはもちろんのこと、新しいゲームを探している人にもおすすめです。セールは期間限定なので、気になるゲームをチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-03-01"
-      },
-      {
-        "title": "Ubisoft セール - The Crew Motorfest 他",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Ubisoft セールの最中、様々なアクション満載のゲームが大幅に価格を下げています。The Crew Motorfest は、ハワイの美しい島々を舞台に、スピードとスタイルが共存する、オープンワールドのレースゲームです。プレイヤーは、さまざまな車種を収集してカスタマイズし、友達と一緒に島内を駆け巡り、さまざまなミッションをクリアすることができます。 このセールでは、The Crew Motorfest 以外にも、Assassin's Creed、Far Cry、Watch Dogs などの人気シリーズのゲームが勢揃いしています。各ゲームは、それぞれ独自のキャラクターとストーリーを持っており、プレイヤーはさまざまな世界を冒険することができます。 このセールは、Ubisoft のゲームを初めてプレイする人にも、既にファンである人にも、興奮と楽しめる機会を提供します。Steam で Ubisoft セールをチェックし、自分に合ったゲームを見つけてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Nacon パブリッシャー セール: クラッシュ、ローグブック、Steelrising 他",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "Nacon パブリッシャー セールは、熱狂的なゲーマーを待っています。様々なジャンルの人気ゲームが、特別な価格で提供されています。ローグライク要素を含むアクションゲーム「ローグブック」、高速なレースゲーム「クラッシュ」、そして、フランスの革命を舞台にしたアクションRPG「Steelrising」など、多くのタイトルがラインナップされています。 これらのゲームは、Nacon パブリッシャーによって、独自の魅力と遊び心を持って開発されています。プレイヤーは、各ゲームのユニークな世界観とゲームシステムを体験できます。ローグブックの深い戦略、クラッシュのスピードとスリル、Steelrisingの壮大なストーリーなど、様々な要素が、ゲーマーの心を掴みます。 GOGでのNacon パブリッシャー セールは、ゲーム愛好家にとって絶好の機会です。様々なゲームを試すことができ、自分にぴったりのものを見つけることができます。セール期間中、特典的な価格でゲームを購入することができ、ゲーマーのコレクションを充実させることができます。ゲーマーは、Nacon パブリッシャー セールの魅力的な世界に入り、新しいゲーム体験を楽しむことができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "[Steam] Wayward Valley (30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Wayward Valleyは、探索とサバイバルを組み合わせたオープンワールドゲームです。このゲームでは、未知の土地を冒険し、資源を集め、危険なクリーチャーから身を守りながら、自分だけのバレーを築き上げます。30%オフのこの特別セール期間中、Steamでこのゲームを購入することで、未知の世界を体験することができます。 Wayward Valleyの世界は広大で、多様な環境が存在し、探索の度に新しい発見が待っています。独自のキャラクターを作成し、スキルをカスタマイズして、自分だけのスタイルでゲームをプレイすることができます。さらに、気候や季節の変化もゲームの中で表現されており、実際に生きているような感覚でプレイすることができます。 Wayward Valleyは、サバイバルゲームファンには最高の体験を提供することでしょう。Steamで今すぐ購入して、未知のバレーでの冒険を始めてみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-02-28"
       }
     ]
   },
@@ -572,5 +598,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06T12:34:54.405235"
+  "last_updated": "2026-03-07T02:12:50.790169"
 }

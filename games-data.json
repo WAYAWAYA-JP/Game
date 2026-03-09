@@ -5,7 +5,7 @@
         "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームです。このゲームでは、小説、キャンペーン、テレビ番組に登場する象徴的なキャラクターたちを最大限に活用して、冒険に挑みます。ユーザーは、これらのキャラクターを集めてパーティーを組み、様々なクエストに取り組みます。ゲームの随所に『ダンジョンズ＆ドラゴンズ』の世界観が反映されており、ファンにはたまらない魅力的な要素が盛り込まれています。キャラクターの育成やパーティーの編成を自由にカスタマイズできるため、ユーザーの戦略性と冒険心を刺激するゲームです。",
+        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームで、様々な小説やキャンペーン、テレビ番組に登場する多彩なキャラクターたちが集結する大冒険を提供しています。このゲームでは、象徴的なキャラクターたちを集め、最大限の冒険を楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Turnip Boy Robs a Bank - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで配布される「Turnip Boy Robs a Bank」は、ユニークなゲームワールドを魅力的に表現したタイトルです。このゲームでは、プレイヤーはカブボーイというキャラクターを操作し、ピクルス・ギャングと手を組んで、史上最も異常な強盗作戦を実行します。カブボーイが帰ってきた今作は、プレイヤーを不思議な世界に引き込み、強盗作戦の成功を目指すというユニークなストーリーを提供します。ゲームの特徴としては、プレイヤーが強盗の計画を立て、ピクルス・ギャングと協力して、目標を達成するためのアクションを実行する必要があります。ゲームの世界は、カブボーイのユーモアと個性が色濃く出ており、プレイヤーは楽しい時間を過ごすことができます。強盗作戦のスリルと、ピクルス・ギャングとの協力という要素が組み合わさることで、プレイヤーは興奮と挑戦感を同時に体験することができます。Epic Gamesでの無料配布により、多くのゲーマーがこのユニークなゲーム体験を楽しむことができるようになりました。",
+        "description": "Epic Gamesプラットフォームで配布されている「Turnip Boy Robs a Bank」は、ユニークなゲーム性と魅力的なストーリーを持ち合わせたおすすめタイトルです。このゲームでは、カブボーイが恐ろしいピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。プレイヤーはカブボーイとなり、バンクを目標に様々な課題をクリアしながら進めていきます。ゲームの世界はユーモア溢れるキャラクターと Situationが特徴で、プレイヤーを笑顔にすることが保証されています。また、ゲームのグラフィックやサウンドトラックも、ユニークな雰囲気を醸し出しています。强盗作戦を成功させるために、プレイヤーは戦略的に動き回り、ピクルス・ギャングとの連携を効果的に行う必要があります。面白いストーリーや、ユニークなゲーム性が楽しめる「Turnip Boy Robs a Bank」は、Epic Gamesを通じて無料でプレイできます。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
@@ -210,10 +210,75 @@
     ],
     "review": [
       {
+        "title": "【Lost and Found Co.：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Bit Eggは3月6日、手描き背景が特徴的な探し物ゲーム『Lost and Found Co.』の配信をスタートさせました。このゲームは、ユーザーに新鮮な体験を提供することが期待でき、ゲームファンには注目すべきタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260309-427769/",
+        "date": "2026-03-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Half-Life 2：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気ゲーム『Half-Life 2』のSteamストアページに、意外なレビューが寄せられたことが話題となっている。そのレビューは、開発元でありSteamの運営元でもあるValveの社員によって投稿された不評レビューだった。Valve社員によるこのレビューは、ゲームファンを驚かせた。Steamストアページには、通常、ユーザーからのレビューが寄せられるが、開発元自身による不評レビューは珍しい。Valv",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/half-life-2-20260309-427577/",
+        "date": "2026-03-09",
+        "is_translated": false
+      },
+      {
+        "title": "【深 四のの目 -陰陽の巫女-：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ABCアニメーションとKADOKAWA Game Linkageは3月9日、ローグライクホラーゲーム『深 四のの目 -陰陽の巫女-』の配信日を3月26日に決定したことを発表しました。このゲームは、プレイヤーが恐怖を感じながら進めていくローグライクホラーゲームで、陰陽の巫女をテーマにしています。陰陽の世界を舞台に、プレイヤーは様々な恐怖に立ち向かっていくことになります。ゲームのストーリーやシステムに",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/roguelike-horror-20260309-427553/",
+        "date": "2026-03-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam Machine：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Valve は、新しい Steam Machine に長期的な遅延の可能性を残していた不確かな響きの文章を修正するために、Steam ブログ投稿を書き直しました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-steam-machine-update-reignited-release-date-fears-but-valve-say-the-new-hardware-is-still-shipping-this-year",
+        "date": "2026-03-09",
+        "is_translated": true
+      },
+      {
+        "title": "【Slay The Spire 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Slay The Spire 2 は先週、早期アクセスを開始し、その結果、50 万人以上の Steam 同時接続者数を獲得するという驚異的な記録を達成しました。このゲームの早期アクセス開始は、多くのゲーマーの注目を集めました。Slay The Spire 2 は、ローグライクゲームとデッキビルディングの要素を組み合わせた、ユニークなゲームシステムを特徴としています。プレイヤーは、さまざまなカードを",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/slay-the-spire-2-update-fixes-some-spectacular-multiplayer-bugs-like-the-relic-that-gives-infinite-block",
+        "date": "2026-03-09",
+        "is_translated": true
+      },
+      {
         "title": "【Dwarf Fortress：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Boyfriend DungeonやStreets of Fortunaを手掛けたデザイナーのTanya X. Shortが、TR-49やTabletop Simulatorを通じてパンデミックを乗り越えた経験について話しています。",
+        "description": "Boyfriend DungeonやStreets of FortunaのデザイナーであるTanya X. Shortが、TR-49とTabletop Simulatorを通じてパンデミックを生き抜く方法について語ります。彼女のデザイン哲学に基づいたゲームは、プレイヤーを新しい世界に引き込み、そこでの生活を体験させることを目的としています。TR-49では、プレイヤーはパンデミックが蔓延する世界で生",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,7 +288,7 @@
         "is_translated": true
       },
       {
-        "title": "【Papers, Please：レビュー】",
+        "title": "【Hard West 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "『愚者の宴』には奇妙なアイデアが溢れている。",
@@ -236,10 +301,23 @@
         "is_translated": true
       },
       {
+        "title": "【Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作は脱獄をテーマとする高評価RPGです。Nintendo SwitchおよびNintendo Switch 2版では日本語吹替に対応しており、壮大なストーリーをボイス付きで楽しむことができます。脱獄というテーマを扱ったこのRPGは、評価も高く、ストーリーもとても面白いです。Nintendo SwitchやNintendo Switch 2で遊ぶ場合、日本語音声にも対応しているので、多くの人に楽し",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
         "title": "【CONTROL Resonant：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "先日、戦闘システムに関するハンズオフプレビューを紹介した「CONTROL Resonant」ですが、前作とは大きく異なるアプローチが取られている続編の仕上がりに期待が高まっています。この作品は、シリーズ最新作として注目を集めていますが、新たな情報が公開となりました。",
+        "description": "先日、戦闘周りのシステムに関するハンズオフプレビューを紹介した「CONTROL」シリーズの最新作「CONTROL Resonant」は、前作とは大きく異なるアプローチが取られている続編です。仕上がりに対する期待が高まる中、新たな情報が公開されました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +330,7 @@
         "title": "【Menace：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Battle Brothers を開発した Overhype Studios による最新作、Menace は、約 1 か月前から早期アクセスが開始されました。そして、そのロードマップも到着しました。Menace は XCOM に似たタクティカル RPG の要素を持ち、戦略的な戦闘とキャラクターの育成を楽しむことができます。早期アクセスでは、プレイヤーはゲームの基本的な要素を試すことができ、開発者の",
+        "description": "Battle Brothers の開発元である Overhype Studios から、新作ゲーム Menace が登場しました。XCOM を彷彿とさせるこのタイトルは、約 1 か月前に早期アクセスが開始され、ロードマップも公開されています。Menace は、戦術性の高いターン制戦闘と、キャラクターの成長を重視したゲームデザインが特徴です。Overhype Studios の過去作である Batt",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,10 +340,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "あなたを見てくれたのは私だけではありません。太陽としてのあなたは、午前6時から丘に現れて、丸12時間そこに留まりました。隠れる必要はありません。恥ずかしがることもありません。私が言いたいのは、この事実をただ受け入れてもらいたい、そのためにはあなたが太陽であることを受け入れてもらいたい、ということです。",
+        "description": "あなた、太陽です。隠れる必要はありません。昨日、午前6時に丘に姿を現し、ほぼ12時間留まったことを私は見ました。恥ずかしそうな顔をすることはありません。問題ないです。どうして、私はあなたのことを知っているのか、その理由を教えてあげましょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -278,7 +356,7 @@
         "title": "【Destiny 2：Vault of Glass：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Bungie のマラソン リブート版は昨日リリースされましたが、開発者の報道禁止ガイドラインによって批評家のレビューが遅れる可能性があります。このガイドラインでは、「完全なレビューと感想」を提供することを批評家に求めており、リリースの初期の評価が遅れるかもしれません。",
+        "description": "Bungie のマラソン リブート版は昨日リリースされましたが、開発者の報道禁止ガイドラインにより批評家に「完全なレビューと感想」を遅らせるよう要求しているため、そのような印象は受けられないかもしれません。開発者のガイドラインには、批評家がゲームの全容を体験してからレビューすることを求めています。これにより、批評家はゲームのあらゆる側面を徹底的に評価することができます。ゲームのリリースに合わせて、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -286,40 +364,50 @@
         "url": "https://www.rockpapershotgun.com/bungie-asks-marathon-critics-to-delay-full-reviews-till-the-release-of-an-endgame-zone-and-i-am-wistfully-reminded-of-vault-of-glass",
         "date": "2026-03-06",
         "is_translated": true
-      },
-      {
-        "title": "【Slay the Spire 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "待ちに待った時がやっと来ました！予言の日が到来し、手を試す時が訪れました。ローグライクデッキビルダー「Slay the Spire 2」が早期アクセスを開始しました。マラソンを走るような長期の開発期間が終わり、ついにプレイする時が来ました。早速ハンドルを取り、さまざまなカードを組み合わせながら、最強のデッキを構築してみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/prepare-your-decks-once-more-slay-the-spire-2-is-now-out-in-early-access",
-        "date": "2026-03-05",
-        "is_translated": true
-      },
-      {
-        "title": "【Anthem：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Bungie のマラソン リブートが今日、PC でリリースされました。このゲームは先週末のプレイテストを受けたユーザーから、高度な難易度を持つエクストラクション シューターとして評価されています。特に、プレイヤーを苛立たせるほどの難しさから、「最も汗をかく」ゲームと呼ばれています。従来のビクトリア朝時代のような雰囲気を取り入れたこのゲームは、プレイヤーのスキルを試すための舞台となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/one-of-marathons-more-controversial-mechanics-brings-back-a-neat-idea-from-anthem",
-        "date": "2026-03-05",
-        "is_translated": true
       }
     ],
     "sale": [
       {
+        "title": "[ALLYOUPLAY] KLETKA (€8.79 -9% オフ / £7.44 -12% オフ)、EU、英国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "新しいゲームの登場です。KLETKAというタイトルは、Steamプラットフォームで利用可能で、現在9%オフの€8.79、または12%オフの£7.44で購入できます。ユーザーは、EUおよび英国でスチームアクティベーションを利用できます。このゲームは、ユニークなグラフィックやサウンドトラック、そして面白いゲームプレイを提供します。プレイヤーは、様々なステージで挑戦することになりますが、その内容はタイトルから推測することが難しいです。しかし、価格が手頃なので、気軽に購入して遊ぶことができます。ゲームのジャンルやストーリーについては、詳細な情報が公開されていないため、購入後にゲームを体験することで、それらを知ることができます。KLETKAは、他のゲームと 比べて新しい試みやアイデアを導入しているかもしれません。ゲームのレビューを読むことで、ゲームの内容についてもっと知ることができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "[Steam] プラネタリーダストフ (£0.68/92% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「プラネタリーダストフ」は、現在92%オフの特別セール中です。通常価格より大幅に割引された0.68ポンドでのご購入が可能です。このゲームは、宇宙探査をテーマにした、アクションとアドベンチャーが融合した作品です。プレイヤーは、未知の惑星や銀河系を冒険することになります。宇宙の奥深さに隠された秘密を発見し、多様な異星の生物と遭遇することで、新たな体験が待っています。グラフィックやサウンドトラックも高いクオリティで、プレイヤーを宇宙の世界に没入させることができます。さらに、ゲームのストーリーやシステムは、プレイヤーの選択によって変化する要素も含まれているため、リプレイ価値も高く、多様な楽しみ方を提供します。Steamで提供されているこのセールは、ゲームファンにとって大いに魅力的な機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-09"
+      },
+      {
         "title": "[Steam] .hack//G.U.最終レコード ($9.99/80% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": ".hack//G.U.最終レコードは、人気シリーズの最終章となります。このゲームでは、プレイヤーはネットワークの世界に潜入し、仮想現実の謎に挑みます。80% オフの限定セールで、通常価格より大幅に安く購入できます。ゲームの最終章では、物語が完結し、プレイヤーは最終的な決着を迎えることになります。特にシリーズのファンには、心を動かすドラマティックな結末が用意されています。ネットワークの世界を探索し、戦闘システムを駆使して敵と戦い、ゲームの世界に没頭してください。最終章の魅力的なストーリーや、美しいグラフィック、そしてスリリングなゲームプレイを体験してみてください。",
+        "description": "Steamでは、人気のRPGシリーズ「.hack」の最新作「.hack//G.U.最終レコード」が80%オフの特別セール中です。このゲームは、シリーズのファンが待ちに待った最終章であり、物語の結末を描くため、多くのプレイヤーが注目しています。プレイヤーたちは、未来の世界で仮想現実ゲームの中に閉じ込められた主人公と共に、真実を追求し、仮想世界と現実世界の境界線を超える冒険に巻き込まれます。 このゲームでは、シリーズ伝統の深いストーリーとキャラクター、そして新しく導入されたバトルシステムが特徴です。プレイヤーは、さまざまなキャラクターを操作して戦闘に臨み、スキルやアイテムを活用して強力な敵を倒すことができます。また、ゲームのグラフィックやサウンドトラックも、シリーズの高品質な水準を維持しています。 このセールは、シリーズのファンや新規プレイヤーにとって絶好の機会です。通常価格より大幅に割引された9.99ドルの価格で、最終レコードを体験することができます。Steamでのセールは期間限定なので、気になる方はお早めにチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 40% オフです! Steam上",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam上で、VR対応ゲーム「私のゲーム Z.O.N.A: Origin (PCVR)」が40%オフになりました。PCでプレイできるこのゲームは、VR技術を活用して、没入感の高い体験を提供します。プレイヤーは、未来の世界で様々なミッションを遂行し、敵と戦う必要があります。ゲームのグラフィックは、現実的な場面を描写し、臨場感を高めています。また、VR機能により、プレイヤーはよりリアルな戦闘体験を楽しむことができます。ストーリーも豊かで、プレイヤーはゲームの世界を深く探索することができます。特に、VRゲームを楽しむファンにはお勧めのタイトルです。限定セール期間中は、40%の割引で購入できますので、ぜひこの機会にチェックしてみてください。Steam上で「私のゲーム Z.O.N.A: Origin (PCVR)」を購入して、未来の戦場で戦闘の熱い瞬間を体験してみましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -344,18 +432,6 @@
         "platform": "Steam",
         "type": "sale",
         "description": "Steamで大幅割引中の4つのゲーム、SHIRO、Obsurity、The Excrawlers、MiceGardについて紹介します。SHIROは、美しい白黒のグラフィックと独特のストーリーが魅力的なアドベンチャーゲームです。Obsurityは、ダークファンタジーの世界を舞台にしたロールプレイングゲームで、深いストーリーと複雑なキャラクターが特徴です。The Excrawlersは、_SFホラーの要素を含んだサバイバルアクションゲームで、不安感と緊張感を味わえます。MiceGardは、かわいいマウスが主人公のユニークなゲームで、牧場やガーデニングの要素が楽しめます。Steamでこれらのゲームをプレイしようとしているゲーマーには、絶対に外せない大幅割引のチャンスです。是非この機会に、様々なジャンルのゲームを体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "私のゲーム Z.O.N.A: Origin (PCVR) が 40% オフです! Steam上",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam上でお待ちかねのセールが始まりました。現在、私のゲーム Z.O.N.A: Origin (PCVR) が 40% オフとなり、ゲーマーたちの間で大きな話題になっています。このゲームは、VR技術を活用した革新的な体験を提供することが特徴です。プレイヤーは、完全に没入できる世界の中で、さまざまな挑戦に立ち向かうことになります。 Z.O.N.A: Origin の世界は、未来の地球を舞台にしたSF設定で、プレイヤーは未知の領域を探索し、さまざまな謎を解き明かす必要があります。高度なグラフィックスとリアルなサウンドデザインが、プレイヤーをこの世界に完全に引き込みます。また、VR技術により、プレイヤーはよりリアルな体験を得ることができ、ゲームの世界の中で自由に動き回ることができます。 このセールは、Z.O.N.A: Origin を体験したいゲーマーにとって、絶好の機会です。通常価格より 40% オフになるため、通常よりも安い価格でこのゲームを楽しむことができます。Steam上で今すぐ入手し、未知の世界での冒険を始めてみてください。限時セールなので、早めにチェックしてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -530,30 +606,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-03"
-      },
-      {
-        "title": "[Steam] ロールバウンド ( 25% オフ /$2.99 )",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "このロールバウンドは、ユニークなゲームワールドを体験できる、ロールプレイングゲームです。プレイヤーは、バウンドすることによって、障害物を避けながら進み、さまざまなステージをクリアする必要があります。スピードとタイミングを正確にコントロールすることで、ゲームをより一層楽しみます。このロールバウンドでは、多様なステージと難易度が用意されており、プレイヤーは自分のスキルを試すことができます。さらに、魅力的なグラフィックとサウンドトラックがゲームの雰囲気を高めています。ロールバウンドをプレイすることで、プレイヤーは新しいゲーム体験を得ることができ、楽しくて刺激的な時間を過ごすことができます。Steam で 25% オフ の特別価格で提供中なので、ぜひこの機会にチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "[Steam] カリビアン セイル (70% オフ / $4.49)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "カリブ海を舞台にしたアドベンチャーゲーム「カリビアン セイル」は、プレイヤーを海賊の世界に引き込みます。このゲームでは、プレイヤーは自分だけの船を所有し、カリブ海を航海します。様々な島々を訪問し、資源を集め、海戦を繰り広げます。ゲームの世界は美しく細かく表現されており、プレイヤーは本当に海賊になっているような感覚を味わえるでしょう。 ゲームの特徴として、プレイヤーは海賊のキャラクターをカスタマイズして、自分のスタイルに合わせた海賊を作ることができます。また、ゲームには多くのクエストやミッションがあり、プレイヤーはそれらをクリアすることで報酬を得ることができます。海戦もリアルでスリリングな体験を提供し、プレイヤーは戦略的に戦う必要があります。 現在、Steamで70%オフの特価で提供されており、通常価格よりも大幅に安くなっています。海賊の世界に興味がある方には、ぜひこの機会にチェックしてみてください。ゲームの魅力に引き込まれることでしょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-03"
       }
     ]
   },
@@ -611,5 +663,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-09T02:32:07.464405"
+  "last_updated": "2026-03-09T12:39:45.181413"
 }

@@ -5,25 +5,25 @@
         "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームです。小説、キャンペーン、テレビ番組に登場する様々な象徴的なキャラクターが集結し、最大限な冒険を体験できるゲームです。このゲームでは、プレイヤーは様々なヒーローを集め、育て、戦略を立ててダンジョンに挑み、様々な挑戦に立ち向かいます。豊富なストーリーとキャラクターが用意されており、ダンジョンズ＆ドラゴンズの世界をより深く体験することができます。",
+        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームで、さまざまな小説やキャンペーン、テレビ番組に登場する有名なキャラクターが集結する、壮大な冒険を体験できるゲームです。このゲームでは、多くの象徴的なキャラクターが一堂に会し、プレイヤーはそれらのキャラクターを率いて、様々なステージを攻略していきます。戦略的な思考と、リソースの効果的な管理が求められるこのゲームは、ダンジョンズ＆ドラゴンズの世界を愛するファン必見の作品です。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-10"
+        "date": "2026-03-11"
       },
       {
         "title": "Turnip Boy Robs a Bank - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで配布中の『Turnip Boy Robs a Bank』は、ユニークなキャラクターと面白いストーリーが特徴のアクションアドベンチャーゲームです。このゲームでは、主人公のカブボーイがピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。プレイヤーは、カブボーイを操作してバンクを強盗し、警察から逃げるために様々なアクションを繰り出す必要があります。 ゲームの世界はカラフルで賑やかで、多様なキャラクターが登場します。カブボーイの強盗作戦は、さまざまな障害や敵キャラクターを克服する必要があり、プレイヤーは戦略的にアクションを計画する必要があります。また、ゲームには様々なアイテムやパワー・アップが用意されており、カブボーイの能力を強化することができます。 『Turnip Boy Robs a Bank』は、ユーモアとアクションが融合した魅力的で面白いゲームです。カブボーイの冒険を体験してみてはいかがでしょうか。",
+        "description": "Epic Gamesプラットフォームにて配布される『Turnip Boy Robs a Bank』は、カブボーイが主役の面白いゲームです。このゲームでは、カブボーイは恐ろしいピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。ユニークな世界観とコミカルなキャラクターが特徴的で、プレイヤーはカブボーイと共に様々な課題に挑戦します。ゲームのグラフィックはカラフルで、キャラクターのデザインは愛らしいので、プレイヤーを楽しませることができます。強盗作戦の成功を目指して、カブボーイと一緒に様々なステージを攻略してみましょう。『Turnip Boy Robs a Bank』は、無料で配布されているので、興味がある方はぜひ試してみてください。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-10"
+        "date": "2026-03-11"
       }
     ],
     "bundle": [
@@ -213,7 +213,7 @@
         "title": "【紅の砂漠：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "筆者が『紅の砂漠』を徹底的にプレイしてみたところ、ゲーム内容の方向性が「世界を冒険すること」に特に焦点を当てていることが感じられた。ゲームの世界は広大で、さまざまな場所を探索することができ、プレイヤーは未知の地域を発見し、そこでの冒険に臨むことができる。ゲームの中では、砂漠の広い空間を駆け巡り、様々な生物やNPCと出会い、クエストをこなしていくことができる。さらに、ゲームのグラフィックやサウンドト",
+        "description": "『紅の砂漠』をガッツリとプレイした筆者は、ゲーム内容の方向性が「世界を冒険すること」に特化していることが印象に残った。世界の探索がメインとなっており、プレイヤーは広大な砂漠の世界を自由に冒険できる。ゲームの世界は、美しく繊細な砂漠の風景や、さまざまな生物が生息するエリアなど、さまざまな景色や環境が用意されている。プレイヤーは、砂漠の世界を探索しながら、さまざまなミッションやクエストをこなしていくこ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,49 +223,75 @@
         "is_translated": false
       },
       {
-        "title": "【Dome Keeper：レビュー】",
+        "title": "【Cozy Grove: Camp Spirit：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "ドイツのインディーゲームデベロッパーであるbippinbitsが開発したローグライクな採掘サバイバルゲーム「Dome Keeper」は、2022年9月にリリースされ、高い評価を獲得しました。このゲームは、プレイヤーが採掘を通じて資源を集め、地底の危険から逃れるためにドームを守るという、ユニークなコンセプトを持ちます。bippinbitsとパブリッシャーは、新たなプロジェクトを開始し、ゲーマーたちに",
+        "description": "人気ライフシム「Cozy Grove」の続編である「Cozy Grove: Camp Spirit」は、2024年6月にNetflix向けにローンチし、高い評価を獲得しました。これは、Spry Foxが開発した新しいタイトルで、同社は本作のSteamでのリリースも予定しています。Cozy Groveシリーズは、心地よい生活シミュレーションを提供し、多くのファンを魅了してきました。Cozy Grov",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03164913.html",
+        "url": "https://doope.jp/2026/03164922.html",
         "date": "2026-03-10",
         "is_translated": false
       },
       {
-        "title": "【Slay the Spire：レビュー】",
+        "title": "【Bloodgrounds：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "先日、待望のローンチを果たし、驚異的なプレイヤー数と高い評価を獲得したMega Critの新作「Slay the Spire 2」ですが、具体的なローンチ規模や今後の動向に大きな注目が集まっています。多くのゲーマーがこのゲームの進化に期待を寄せており、引き続き様々な情報やアップデートが発表されること間違いなしです。ローンチ直後からプレイヤー数が急増し、高い評価を得ていることも話題になっています。こ",
+        "description": "クロアチアのExordium Gamesが開発した新作「Bloodgrounds」は、昨年11月に早期アクセス版が発売され、高い評価を獲得しています。このゲームは独創的な闘技場シミュレーションゲームで、プレイヤーは戦士を育成して闘技場での勝利を目指します。新たにパブリッシャーのDaedalicが参入し、ゲームのさらなる開発と普及をサポートすることになりました。「Bloodgrounds」は、そのユ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03164897.html",
+        "url": "https://doope.jp/2026/03164891.html",
         "date": "2026-03-10",
         "is_translated": false
       },
       {
-        "title": "【Xenonauts 2：レビュー】",
-        "platform": "doope!",
+        "title": "【Greedfall: The Dying World：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "2023年7月に早期アクセスでリリースされ、高い評価を獲得したGoldhawk InteractiveのX-COM系ストラテジーゲーム「Xenonauts 2」は、いくつかの大きなアップデートを導入し、ゲームの内容を充実させてきました。最新のニュースによると、新たなアップデートがリリースされ、Hoodという新要素が追加されました。",
+        "description": "『スパイダース』の前日譚には、賞賛すべき点もいくつかあります。しかし、バグが多すぎるという問題があります。さらに、ゲームの保守的なアプローチも、プレイヤーを苛立たせるほどイライラさせてしまうことがあります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03164903.html",
+        "url": "https://www.pcgamer.com/games/rpg/after-two-years-in-early-access-greedfall-the-dying-world-still-feels-unfinished/",
         "date": "2026-03-10",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "早期アクセス リリースは少し懐かしすぎます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/after-beating-slay-the-spire-2-with-an-8-year-old-deck-im-starting-to-feel-like-this-is-more-of-a-remake-than-a-sequel/",
+        "date": "2026-03-10",
+        "is_translated": true
+      },
+      {
+        "title": "【Claude Code Review：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Anthropic は、このツールを内部的に使用することで、ほとんどのプル リクエストを効率的に処理することができると主張しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/anthropic-introduces-claude-code-review-so-you-dont-even-need-to-check-all-of-your-own-ai-slop/",
+        "date": "2026-03-10",
+        "is_translated": true
       },
       {
         "title": "【Lost and Found Co.：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Bit Eggは3月6日、手描き背景が特徴的な探し物ゲーム『Lost and Found Co.』の配信を開始しました。このゲームでは、ユーザーは美しい手描きの背景の中でさまざまな物体を探します。探し物ゲームファンにはもちろん、手描きのグラフィックを楽しむことができるので、グラフィックファンにもおすすめです。",
+        "description": "Bit Eggは3月6日、手描き背景が特徴的な探し物ゲーム『Lost and Found Co.』の配信を開始しました。このゲームでは、ユーザーは美しい手描きの背景の中でさまざまなアイテムを探すことができます。ユニークなグラフィックと面白いゲームプレイが特徴的で、ゲーマーを引き付ける魅力的な作品となっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,23 +301,10 @@
         "is_translated": false
       },
       {
-        "title": "【Slay the Spire 2：レビュー】\n【Esoteric Ebb：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ハンドヘルド ゲーム PC で何をプレイしていますか? この質問は、ゲーマーにとってとても重要なものです。ハンドヘルド ゲーム PC の性能は日々向上し、様々なジャンルのゲームを遊ぶことができるようになっています。アクションゲームからアドベンチャーゲーム、ロールプレイングゲームまで、ハンドヘルド ゲーム PC で遊ぶことができるゲームは多数あります。 ハンドヘルド ゲーム PC の魅力は、どこでも",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/card-games/playing-slay-the-spire-2-and-esoteric-ebb-on-my-rog-ally-all-weekend-turned-me-into-a-happy-lump-of-swaddled-gamer-joy/",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
         "title": "【Steam Machine：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Valveは、Steam Machineの発売がさらなる遅延になる可能性を示唆していた元の文章を修正するために、Steamブログ投稿を書き直しました。",
+        "description": "Valve は、新しい Steam Machine にさらなる長期遅延の可能性を残した不確かな響きの文章を書き直しました。この書き直しは、Steam ブログ投稿で行われました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,10 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "【Slay The Spire：レビュー】",
+        "title": "【Slay The Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Slay The Spire 2は先週、早期アクセスを開始し、すでに50万人以上のSteam同時接続者数を記録しています。このゲームは、ファンから大きな注目を集めています。",
+        "description": "Slay The Spire 2 は先週早期アクセスを開始し、すでに50 万人以上のユーザーが Steam で同時にゲームをプレイする人気を誇っています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,23 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "GDC 2026の最新情報をチェックしましょう。ニュース、プレビュー、インタビュー、デモなど、ゲーム開発者の集まるこのイベントでは、ゲーマーも多くの楽しみがあるようです。最新のゲーム情報や、開発者のインタビューを読んで、次のゲームの楽しみを高めてみてください。",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "年次ゲーム開発者カンファレンスが、3月9日から13日までサンフランシスコで開催されます。ここでは、新しいゲームの最新情報や、開発者たちの新しい挑戦が語られます。世界中から集まったゲーム開発者たちが、最新のトレンドや技術について話し合い、インスピレーションを得るこのイベントは、ゲームファンにとってはとても魅力的なものです。最大のストーリーや新しいゲームの発表が予想されるこのカンファレンスで、最新のゲ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gdc-2026-news-previews-interviews-demos/",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
         "title": "【Menace：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Battle Brothers の開発者である Overhype Studios が手がけた、XCOM を彷彿とさせる最新ゲーム「Menace」が約 1 か月前に早期アクセスを開始しました。このゲームのロードマップも到着しています。Menace は、戦略性とタクティカルな要素を兼ね備えた魅力的なゲームです。Overhype Studios は、Battle Brothers で見せた高いクオリティ",
+        "description": "Battle Brothersの開発者であるOverhype Studiosが手がけた、XCOMのような戦略的なゲーム「Menace」が約1か月前に早期アクセスを開始しました。このゲームのロードマップも公開され、ファンが今後の開発の進捗を予測できるようになりました。Menaceは、タクティカルな戦闘とキャラクターの育成を重視したゲームで、XCOMシリーズのファンには必見の作品です。早期アクセス開始",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -343,7 +343,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "あなたのことを指しています、太陽です。隠れる必要はありません。昨日、午前6時に丘に現れて、ほぼ丸12時間そこに留まっていたのを見ましたから。恥ずかしそうな顔をする必要はありません。問題なんてありません。どうして、私はあなたが毎日丘に現れるのかに興味があるのです。",
+        "description": "おい、あなた！そう、あなたが太陽だ。隠れる必要はありません。昨日、あなたが午前6時に丘に現れて、ほぼ12時間そこに留まっていたのを見ているからです。恥ずかしそうな顔をするのはやめてください。問題はありません。どうして、私はあなたのことを知っているのか、その理由を説明しましょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -351,22 +351,69 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-372",
         "date": "2026-03-07",
         "is_translated": true
-      },
-      {
-        "title": "【Destiny 2：Vault of Glass：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Bungie のマラソン リブート版は昨日リリースされましたが、開発者の報道禁止ガイドラインにより、批評家たちは「完全なレビューと感想」を公開するのを遅らせることになりました。このガイドラインにより、批評家たちはゲームの全容について語ることができません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/bungie-asks-marathon-critics-to-delay-full-reviews-till-the-release-of-an-endgame-zone-and-i-am-wistfully-reminded-of-vault-of-glass",
-        "date": "2026-03-06",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "Dead Spaceシリーズセール | PC",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで開催中の「Dead Spaceシリーズセール」は、PCゲーマー必見のイベントです。このセールでは、人気ホラーゲームシリーズ「Dead Space」のタイトルが大幅に割引されています。「Dead Space」シリーズは、恐怖とスリルを込めたゲームプレイで知られており、プレイヤーは宇宙の闇の中で恐ろしい敵たちと戦います。 このセールでは、シリーズのすべてのタイトルが対象となっています。最初の「Dead Space」から最新作まで、すべてのゲームが割引価格で提供されています。さらに、シリーズのDLCやスペシャルエディションも含まれています。つまり、プレイヤーはシリーズのすべての内容を一括して購入できるということです。 「Dead Space」シリーズは、ホラーゲームファンにとっては夢の来たりです。グラフィックやサウンドデザインが素晴らしいだけでなく、ゲームプレイも非常に面白いです。特に、シリーズの主役であるアイザック・クラークというキャラクターは、プレイヤーに強い印象を残します。 このセールは、シリーズをまだプレイしていない人にとっては絶好の機会です。さらに、すでにシリーズをプレイしたことがある人でも、DLCやスペシャルエディションを購入することで、新しいゲームプレイ体験を楽しむことができます。Steamでの「Dead Spaceシリーズセール」は、ホラーゲームファンには見逃せないイベントです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "[Steam] ギャラクティック グリッチ ($3.89 | 70% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ギャラクティック グリッチは、Steamで現在70%オフの特別セール中です。通常価格より大幅に割引された3.89ドルで購入することができます。このゲームでは、プレイヤーは宇宙を舞台にさまざまなミッションを遂行し、宇宙船を操作して敵を倒していきます。美しく描かれた宇宙の背景とダイナミックなゲームプレイが特徴で、ギャラクティック グリッチは宇宙をテーマにしたゲームファンに大人気です。大量の敵を一瞬で倒したり、さまざまなアイテムを収集したり、仲間と協力して強大なボスを倒したりできるなど、さまざまな要素が盛り込まれています。さらに、ゲームのグラフィックは高品質で、スムーズなゲームプレイが楽しめます。ギャラクティック グリッチは、Steamで手軽に購入できるので、気軽に遊んでみることができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "FATAL FRAME II Crimson Butterfly REMAKE",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "ファナティカルで限定セール中の『FATAL FRAME II Crimson Butterfly REMAKE』は、旧作をリメイクしたホラーゲームです。この作品は、恐怖とサスペンスをテーマに、プレイヤーを心霊現象に巻き込むことで、心を震わす体験を提供します。リメイクされたグラフィックと音響は、よりリアルな恐怖感を醸し出します。 『FATAL FRAME』シリーズの代表的なタイトルである『FATAL FRAME II Crimson Butterfly』は、恐怖と謎が渦巻く世界を舞台に、姉妹の物語を描きます。プレイヤーは姉妹を操作し、さまざまな場所で発生する心霊現象に立ち向かうことになります。ゲームの特徴である「視野の奥に潜む恐怖」という概念は、プレイヤーに常に緊張感を与えます。 このリメイク版では、新しいシステムや機能が追加されており、よりスムーズなプレイが可能になりました。グラフィックやサウンドの向上により、より没入感の高い体験が楽しめます。ファナティカルでのセール期間中は、通常価格よりも大幅に安く購入できます。ホラーゲームファンやシリーズのファンにとっては、絶対に逃すことができません。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "スパイク・チュンソフトセール：ダンガンロンパ2、Re:ゼロ、Zero Escape Trilogyなど大幅割引",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スパイク・チュンソフトセールでは、ダンガンロンパ2やRe:ゼロ、Zero Escape Trilogyなど人気作品が大幅に割引されています。ダンガンロンパ2は、学園を舞台に繰り広げられるサスペンスフルなストーリーや、トリックたっぷりの謎解きが魅力です。Re:ゼロは、タイムトラベルをテーマにした、アドベンチャーゲームで、複雑な時間軸を通して物語が展開していきます。Zero Escape Trilogyは、脱出ゲームをベースに、サバイバル要素やストーリーを組み合わせた、ユニークなゲームです。 これらの作品は、スパイク・チュンソフトのゲーム特有の、深いストーリーや独創的なゲームシステムが楽しめることでしょう。ダンガンロンパシリーズのファンにはもちろん、サスペンスやアドベンチャーゲームを好むゲーマーにもお勧めです。スパイク・チュンソフトセールでは、他にも多数のタイトルが割引されていますので、是非この機会にチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "スプリング セール: バイオハザード ヴィレッジ ゴールド エディション",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Fanaticalでは、スプリング セールの開催を記念して、人気ゲーム「バイオハザード ヴィレッジ ゴールド エディション」が特別価格で提供されています。これは、バイオハザードシリーズの最新作であり、恐怖とスリルのバランスが取れたゲームプレイを体験できることで知られています。ゴールド エディションには、追加のストーリーやキャラクターが含まれており、ゲームの世界をより深く探索することができます。 スプリング セール期间中、ファナティカルではこのゲームを大幅に割引価格で提供しており、ゲーマーにとってはとても魅力的です。バイオハザード ヴィレッジ ゴールド エディションは、ハイクオリティなグラフィックスとサウンドデザインによって、恐怖とスリルの究極の体験を提供します。さらに、ゲームのストーリーは、バイオハザードシリーズのファンにとっては必見であり、シリーズの新しい展開を楽しむことができます。 スプリング セールの期間は限定されているため、バイオハザード ヴィレッジ ゴールド エディションを購入するには、早めの行動が必要です。ファナティカルでは、セール期間中、他の多くのゲームも特別価格で提供されていますので、他の魅力的なゲームもチェックしてみてください。スプリング セールを活用して、バーゲン価格で梦中のゲームを手に入れてみませんか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-11"
+      },
       {
         "title": "スパイク・チュンソフト セール - ダンガンロンパ2、Re:ゼロから始める異世界生活",
         "platform": "Steam",
@@ -546,66 +593,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-07"
-      },
-      {
-        "title": "[Steam] Pushmania (15,92 ユーロ / 35% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで提供されている「Pushmania」は、35%オフの特別セール中です。この魅力的なゲームは、15.92ユーロという破格の価格で楽しまれることができます。Pushmaniaは、プレイヤーに新しい体験を提供する、ユニークなゲームメカニズムを特徴としています。ゲーム内では、プレイヤーは様々な障害物やパズルを解決しながら、進んでいく必要があります。スピーディなアクションと戦略的な思考が必要なこのゲームは、ギャンブル要素も含まれており、プレイヤーをより深く引き込みます。Steamのセール期間中、Pushmaniaを購入することで、あなたもこの刺激的なゲームの世界に飛び込むことができます。友達と一緒にプレイしたり、オンラインランキングで他のプレイヤーと競争したり、新たな挑戦を経験してみませんか。Pushmaniaは、 熱い感情が揺さぶられる、プレイヤーにとって忘れられない体験を約束しています。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "Planet of Lana II (€14.00 -29% オフ / £11.94 -31% オフ / $14.00 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Planet of Lana IIは、Steamプラットフォームで現在大幅な割引キャンペーン中です。通常価格より29%、31%、30%オフとなり、 欧州、英国、米国でそれぞれ€14.00、£11.94、$14.00で購入できます。このゲームは、美しいグラフィックと独特の世界観で知られており、プレイヤーを新しい冒険の世界へと誘います。ゲームの内容は、惑星の探索や謎解き、そして戦闘を含むアクション要素など、多様な要素が含まれていると想定されます。Planet of Lana IIは、ゲームファンにとって新しい体験を提供することが期待されています。Steamアクティベーションに対応しているため、簡単にアクティベートしてプレイを始めることができます。Planet of Lana IIをお得に購入し、新しいゲームの世界を体験してみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "[Steam] 「Fate of Fire: Kyvedy Guardiah」 ($8.44 / €8,31 / 35% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Fate of Fire: Kyvedy Guardiahは、Steamプラットフォームで配信中のアクションアドベンチャーゲームです。このゲームは、35% オフの特別セール中で、通常価格より大幅に安価に購入することができます。価格は、8.44ドル、8.31ユーロです。 このゲームでは、プレイヤーは、様々な敵と戦いながら、キャラクターを成長させ、さまざまなスキルや能力を身につけることができます。ゲームの世界は、広大なフィールドやダンジョンが広がり、冒険のために探索することができます。また、グラフィックやサウンドトラックも高品質で、臨場感のあるゲーム体験を提供します。 セール中の価格で購入することで、経済的に手頃な価格でこのゲームを体験することができます。Fate of Fire: Kyvedy Guardiahは、アクションゲームやアドベンチャーゲームのファンには、必見のタイトルです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Hell is Us スチームで販売中",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Hell is Us は、Steam で販売中の新しいアクションアドベンチャーゲームです。このゲームでは、プレイヤーは地獄のような世界を舞台に、強力な敵と戦いつつ、様々な秘密を解き明かすことができます。ダークファンタジーな世界観と、アクション満載の戦闘システムが特徴的なこのゲームは、ゲーマーの心を虜にします。 様々な武器やスキルを駆使して、プレイヤーは地獄の深層へ進み、そこに隠された真実を探求します。壮大なボスバトルや、複雑なパズルを解くこともできます。グラフィックスも美麗で、地獄の世界がリアルに表現されています。 Hell is Us は、スチームプラットフォームで販売中ですので、すぐに購入してプレイを開始できます。アクションアドベンチャーゲームファンなら絶対に楽しめる作品です。地獄の世界に足を踏み入れて、強烈なアドベンチャーを体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Hell is Us スチーム",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Hell is Us は、Steam で配信中のアクションアドベンチャーゲームです。このゲームは、ダークファンタジーの世界を舞台に、プレイヤーは主人公となり、地獄のような環境で戦いながら、神秘的な力や武器を駆使して、様々な挑戦に立ち向かいます。美しいグラフィックとスムーズなゲームプレイが特徴で、プレイヤーは地獄の世界でさまざまな敵と戦いながら、ストーリーを進めて行きます。さらに、さまざまなキャラクターと出会い、協力してクエストをクリアすることもできます。Hell is Us は、快適な操作感と壮大な世界観が特徴で、ゲーマーにとって新たな体験を提供します。Steam で今すぐダウンロードして、地獄の世界での冒険を開始してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-05"
       }
     ]
   },
@@ -663,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-10T12:39:34.466051"
+  "last_updated": "2026-03-11T02:24:04.992280"
 }

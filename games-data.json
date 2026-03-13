@@ -2,33 +2,45 @@
   "pc": {
     "free": [
       {
-        "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
+        "title": "Cozy Grove - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲームであり、人気小説、キャンペーン、テレビ番組に登場する多様なキャラクターが勢揃いする、雄大な冒険の世界を体験できます。このゲームでは、プレイヤーはこれらの象徴的なキャラクターたちを率いて、様々な挑戦に立ち向かいます。",
+        "description": "『Cozy Grove』へようこそ。このゲームは、瀬戸内海の島でキャンプをしながら、日々の生活を楽しむライフシミュレーションゲームです。島の風景や季節は毎日変化するので、常に新しい発見が待っています。キャラクターとの交流や島の探索、そしてキャンプライフの楽しみを体験できる、リラックスした雰囲気のゲームです。",
         "price": "無料",
-        "originalPrice": "¥0",
+        "originalPrice": "¥1,520",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-12"
+        "date": "2026-03-13"
       },
       {
-        "title": "Turnip Boy Robs a Bank - Epic Games 無料配布中",
+        "title": "Isonzo - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームで配布中の「Turnip Boy Robs a Bank」は、カブボーイが新たな冒険に挑戦する、ユニークなゲームです。このタイトルでは、カブボーイは恐ろしいピクルス・ギャングと手を組み、史上最もヘンテコな強盗作戦を実行します。ゲームの世界では、プレイヤーはカブボーイを操作して、強盗の計画を進めながら、様々な障害や課題に立ち向かいます。 このゲームの特徴は、そのユーモア溢れたストーリーや、シュールなキャラクターたちが活躍する、ユニークなゲームワールドです。プレイヤーは、強盗の計画を成功させるために、様々なアイテムやスキルを利用して、ピクルス・ギャングのメンバーと協力して強盗を行います。また、ゲーム中には様々なパズルやミニゲームがあり、プレイヤーが楽しく挑戦できる要素も多く含まれています。 「Turnip Boy Robs a Bank」は、ユニークなゲームプレイやユーモア溢れたストーリーによって、プレイヤーを楽しませてくれる魅力的なタイトルです。Epic Gamesプラットフォームで無料で配布中のため、興味があるゲーマーはぜひ試してみてください。",
+        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑みます。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加し、タクティカルスキルの限界に挑戦してみましょう。戦場の状況を読み、チームワークを重視した戦略を駆使して、敵を打ち倒そう。FPSゲームファンにはたまらない、ハートポンプンドの戦闘体験が待っています。",
         "price": "無料",
-        "originalPrice": "¥1,460",
+        "originalPrice": "¥3,080",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-12"
+        "date": "2026-03-13"
       }
     ],
     "bundle": [
       {
-        "title": "メトロイドバニア・メイヘム・バンドル",
+        "title": "Build Your Own Spring Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "メトロイドベニアバンドル",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: in: Satgat、Kingdom Shell)",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-03-12"
+        "date": "2026-03-13"
       },
       {
         "title": "[Steam] The Daedalic Armageddon Bundle - 11 games ($4.99/95% off)",
@@ -49,6 +61,30 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Tempest Rising、Chants of Sennaar and More!",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "メトロイドバニア・メイヘム・バンドル",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: in: Satgat、Kingdom Shell)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-03-12"
       },
       {
@@ -73,18 +109,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Tempest Rising、Chants of Sennaar and More!",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-03-12"
       },
       {
@@ -182,56 +206,71 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-03-05"
-      },
-      {
-        "title": "GTGD Bundle、Choo Choo SurvivorシリーズなどがSale中",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Did they send out a discount code for February 2026 Humble Choice?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-05"
       }
     ],
     "review": [
       {
-        "title": "【Mewgenics：レビュー】",
+        "title": "【Dread Delusion：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "先日待望のローンチを果たし、初週100万本を超える販売と極めて高い評価を手にした、Edmund McMillen氏とTyler Glaiel氏の遺伝子組み替えネコ育成ローグライクゲーム「Mewgenics」ですが、すでに次の計画が始動しています。このゲームは、プレイヤーが遺伝子組み替えされたネコを育成し、さまざまな能力を身につけさせながら、ローグライクの世界で冒険するという、ユニークなコンセプトで",
+        "description": "イングランドのインディーゲームデベロッパー「Lovely Hellplace」は、オープンワールドRPGの開発を手掛けています。このプロジェクトは、アーティストのJames Wragg氏が個人で運営するスタジオによるものです。2024年5月にはPC版がリリースされ、近日コンソール版も発売予定です。Lovely Hellplaceは、独自の世界観とゲームプレイを提供することを目指しており、ゲーマーの",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03164955.html",
-        "date": "2026-03-12",
+        "url": "https://doope.jp/2026/03165004.html",
+        "date": "2026-03-13",
         "is_translated": false
       },
       {
-        "title": "【Warhammer 40,000: Dawn of War III：レビュー】",
+        "title": "【World of Warcraft：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "私たちは皆さんが繰り広げる同期キルや近接戦闘を見たいと思っています。なぜなら、それらの激しい戦いの瞬間がゲームの醍醐味だからです。同期キルは、プレイヤー同士のチームワークと戦略が完璧に機能する瞬間であり、近接戦闘は、プレイヤーの反射神経と戦術が試される瞬間です。私たちは、プレイヤーがこれらの瞬間を体験し、共有できるように、ゲームを設計しています。",
+        "description": "クエストが継続することを期待しているだけで、ちょっと待ってください、それで終わりですか？",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4-playtesters-want-the-combat-to-take-longer-because-of-how-much-they-enjoy-watching-it/",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-questing-system-was-inspired-by-a-playtest-that-didnt-work-out-as-planned-because-the-testers-didnt-play-mmos-and-had-no-idea-what-they-were-supposed-to-do-i-ran-out-of-quests-right-away/",
+        "date": "2026-03-12",
+        "is_translated": true
+      },
+      {
+        "title": "【World of Warcraft：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "軽蔑を抑えるようにしてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/playing-world-of-warcraft-with-a-controller-might-become-my-preferred-playstyle-thanks-to-this-excellent-gamepad-friendly-addon-thats-letting-me-enjoy-azeroth-from-my-couch/",
+        "date": "2026-03-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Arc Raiders：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「この時点で多くの試合が中止になっていただろう。」",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/no-one-at-embark-could-describe-arc-raiders-before-its-extraction-shooter-pivot-leading-to-playtest-battles-of-competing-directions-for-the-game/",
+        "date": "2026-03-12",
+        "is_translated": true
+      },
+      {
+        "title": "インディーズ古典的な洞窟物語のウォークスルーでもあるこのラップアルバムは、繰り返し聞きたくなる魅力があります。",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "これまでに使った中で最高のビデオゲームガイドは何ですか。どのような情報を含める必要があるのか、それをどのように表現するのか、また文書によるガイドか、ビデオによるガイドかを理解するには、コツが必要です。では、21についてどうでしょうか。最高のビデオゲームガイドを作るためには、必要な情報を的確に把握し、わかりやすく伝える方法を見つけることが重要です。ゲームの基本ルール、攻略方法、ヒントやテクニックなど",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-am-going-to-be-playing-this-rap-album-thats-also-a-walkthrough-of-indie-classic-cave-story-on-repeat",
         "date": "2026-03-12",
         "is_translated": true
       },
@@ -239,7 +278,7 @@
         "title": "【Grow Wild：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Spectrum48 のフィリップ・シンクレア氏は、15 年間かけて大規模な野原を再野生化させてきました。「再野生化」とは、環境を自然なバランスに戻すプロセスです。シンクレア氏はこの経験を基に、野生動物や自然の美しさを描いたビデオゲームを作成中です。このゲームでは、プレイヤーは野原の自然な世界を体験できるでしょう。シンクレア氏の再野生化プロジェクトは、自然環境の重要性を示すものです。彼のゲームは、",
+        "description": "Spectrum48 のフィリップ・シンクレア氏は、15 年間をかけて野原を再野生化させてきました。「再野生化」とは、生態系を自然なバランスに戻すプロセスのことです。彼はこの経験を基に、野原を舞台にしたビデオゲームを作成中です。ゲームでは、自然の回復と共存をテーマに、プレイヤーが野生生物と共に生きる世界を体験できるでしょう。シンクレア氏の経験と情熱が込められたこのゲームは、自然愛好家や環境保護に関",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -247,22 +286,33 @@
         "url": "https://www.rockpapershotgun.com/learn-about-real-life-rewilding-in-idle-city-builder-creature-collector-grow-wild-which-is-taking-playtest-sign-ups",
         "date": "2026-03-11",
         "is_translated": true
-      },
-      {
-        "title": "【Steam Machine：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Valveは、元の文章が新しいSteam Machineに長期的な遅延の可能性を暗示していたことを受けて、Steamブログ投稿を修正しました。この修正により、Steam Machineの発売時期についての新たな情報が明らかになりました。Valveは、Steam Machineの開発が順調に進んでおり、発売時期については近々発表する予定です。Steam Machineは、PCゲーミングの新たな時代を",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-steam-machine-update-reignited-release-date-fears-but-valve-say-the-new-hardware-is-still-shipping-this-year",
-        "date": "2026-03-09",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "春のセール毎日フラッシュ セール: バイオハザード リメイク トリロジー (-67%)、スナイパー エリート V2 リマスター (-90%)、リベンジ オブ ザ サベージ プラネット (-60%)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "春のセール毎日フラッシュ セールは、ゲーマーにとって大いに期待できるイベントです。このセールでは、バイオハザード リメイク トリロジーが67%オフで提供されており、恐怖とスリルの組み合わせが特徴的なこのシリーズを楽しむことができます。さらに、スナイパー エリート V2 リマスターが90%オフという破格の価格で登場し、スナイパーの精度と戦略性を存分に体験できるでしょう。リベンジ オブ ザ サベージ プラネットも60%オフで提供され、ユニークなゲームプレイとグラフィックを堪能することができます。毎日新しいタイトルが登場するこのセールで、ゲーマーは様々なジャンルのゲームを割引価格で購入する機会を得ることができます。春のセール毎日フラッシュ セールは、ゲーム好きには絶対に外すことができません。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "スプリングセール：Age of Mythology Retold、デスハウルなどが安価に",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Fanaticalでのスプリングセールは、ゲームファンにとって大きな楽しいイベントです。このセールでは、人気ゲーム「Age of Mythology Retold」やアクションゲーム「デスハウル」など、様々なジャンルのゲームが安価に提供されているため、ゲーマーにとっては梦のようなチャンスです。歴史やファンタジーが好きな方は、神話に彩られた世界で戦略と冒険を楽しむことができます。また、アクションゲームが好きな方は、高速な戦闘アクションを体験することができます。セール期間中は、さまざまなゲームが特価で提供されるため、ゲーマーの皆さんにとっては大きな機会です。新しいゲームを探している方や、既存のゲームのコレクションを増やしたい方にとっては、見逃せないイベントです。スプリングセールを利用して、あなたのゲームライブラリを充実させてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-13"
+      },
       {
         "title": "スプリングセール：Age of Mythology Retold、デスハウル、シェルダイバーが割引",
         "platform": "Fanatical",
@@ -478,30 +528,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-10"
-      },
-      {
-        "title": "[ALLYOUPLAY] KLETKA (€8.79 -9% オフ / £7.44 -12% オフ)、EU、英国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォーム上で提供される新しいゲーム「KLETKA」が、特別な割引で登場しました。現在、9%オフの€8.79、または12%オフの£7.44で購入できるこのゲームは、ユーロ圏および英国で利用可能です。Steamアクティベーションに対応しているため、簡単にアクティベートしてプレイを開始できます。 「KLETKA」は、ユニークなグラフィックと興味深いゲームプレイに特色があります。プレイヤーは、さまざまなステージを通じて、挑戦的なパズルやアクション要素を克服しながら進みます。ゲームの世界は、独自の雰囲気を持つ美しいグラフィックで表現されており、プレイヤーを引き込む魅力的な体験を提供します。 この割引キャンペーンは、限られた期間のみ有効です。ゲーム関連のニュースや更新情報をチェックすることで、最新の情報を入手できます。Steamのコミュニティ機能を利用すれば、他のプレイヤーとの交流も可能です。ゲームの評価やユーザーレビューも参考にして、自己のプレイスタイルに合わせた購入決定を行うことができます。 「KLETKA」は、新しいゲーム体験を探しているゲーマーにぴったりの選択です。現在の価格で購入することで、特別な割引を活用できます。すぐにSteamにアクセスして、アクティベーションコードを入手して、ゲームの世界に飛び込んでください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "スパイク・チュンソフト セール - ダンガンロンパ2 他",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スパイク・チュンソフトの魅力的なゲームが集まったセールが今始まっています。ダンガンロンパシリーズのファンにとっては、まさに待ちに待った機会です。ダンガンロンパ2をはじめ、様々な人気タイトルが特別価格で提供されています。 スパイク・チュンソフトのゲームは、独特のストーリーとキャラクターで知られています。ダンガンロンパシリーズは、その代表的な例で、学園を舞台にしたサスペンスfulなストーリーと、個性豊かなキャラクターが魅力です。また、シリーズのファンには、ゲームの世界観やキャラクターの設定が充実していることも大きな魅力です。 このセールでは、ダンガンロンパ2以外にも、スパイク・チュンソフトの他のタイトルが割引価格で提供されます。ゲームファンにとっては、夢のチャンスです。この機会に、スパイク・チュンソフトのゲームをチェックしてみてはいかがでしょうか。ダンガンロンパシリーズの新規ファンが誕生するかもしれませんし、既存のファンにとっても、コレクションを充実させる絶好の機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-10"
       }
     ]
   },
@@ -559,5 +585,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-12T12:38:08.966403"
+  "last_updated": "2026-03-13T02:27:14.420546"
 }

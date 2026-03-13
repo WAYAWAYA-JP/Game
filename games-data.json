@@ -5,7 +5,7 @@
         "title": "Cozy Grove - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Cozy Grove』へようこそ。このゲームは、瀬戸内海の島でキャンプをしながら、日々の生活を楽しむライフシミュレーションゲームです。島の風景や季節は毎日変化するので、常に新しい発見が待っています。キャラクターとの交流や島の探索、そしてキャンプライフの楽しみを体験できる、リラックスした雰囲気のゲームです。",
+        "description": "『Cozy Grove』へようこそ。このゲームは、変化し続ける瀬戸内海の島でキャンプをするという、ユニークなライフシミュレーションゲームです。自然の中でゆっくり過ごしたり、島の秘密を解き明かしたり、キャラクターたちとの交流を楽しんだり、島を美しくするための活動に取り組んだりすることができます。毎日が新しい冒険の始まりです。",
         "price": "無料",
         "originalPrice": "¥1,520",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Isonzo - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑みます。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加し、タクティカルスキルの限界に挑戦してみましょう。戦場の状況を読み、チームワークを重視した戦略を駆使して、敵を打ち倒そう。FPSゲームファンにはたまらない、ハートポンプンドの戦闘体験が待っています。",
+        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑み、タクティカルスキルの限界を試そう。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加し、戦争の激烈さを体験できる。戦略的な戦闘やチームワークを駆使して、戦争の勝利を目指そう。",
         "price": "無料",
         "originalPrice": "¥3,080",
         "discount": "100% OFF",
@@ -37,6 +37,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Tempest Rising、Chants of Sennaar and More!",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-03-13"
       },
       {
@@ -61,18 +73,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Tempest Rising、Chants of Sennaar and More!",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-03-13"
       },
       {
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【なし：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "VideoGamer自体が、Googleの検索エンジンにインデックスされなくなっていることが報告されている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/videogamer-20260313-428834/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
         "title": "【Dread Delusion：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "イングランドのインディーゲームデベロッパー「Lovely Hellplace」は、オープンワールドRPGの開発を手掛けています。このプロジェクトは、アーティストのJames Wragg氏が個人で運営するスタジオによるものです。2024年5月にはPC版がリリースされ、近日コンソール版も発売予定です。Lovely Hellplaceは、独自の世界観とゲームプレイを提供することを目指しており、ゲーマーの",
+        "description": "イングランドのインディーゲームデベロッパーである「Lovely Hellplace」（アーティストのJames Wragg氏が運営する個人スタジオ）が開発を手掛けるオープンワールドRPGが、2024年5月にPC向け製品版として発売されました。また、近日コンソール版のローンチも予定されています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,36 @@
         "is_translated": false
       },
       {
+        "title": "【ジャーニー：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "司会者のサム・マッグス氏は、中止となったゲームの数々についても触れており、その中には決して日の目を見ることのなかったものも含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/journey-composer-austin-wintory-played-an-unreleased-song-from-his-canceled-dream-job-of-all-time-during-the-game-developers-choice-awards-just-to-drive-home-that-the-industrys-doing-great/",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
+        "title": "【At Fate's End：レビュー】\n【Mina the Holwer：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "GDC 2026 は、多くの素晴らしいゲームで溢れていました。特に、『At Fate's End』や『Mina the Holwer』などのタイトルが、今年の GDC で大きな注目を集めました。これらのゲームは、ゲーマーの間で大きな話題となり、将来のゲーム業界に大きな期待を抱かせています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-games-gdc-2026/",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
         "title": "【World of Warcraft：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "クエストが継続することを期待しているだけで、ちょっと待ってください、それで終わりですか？",
+        "description": "ちょっと待ってください、クエストが継続することを期待しているだけですか？",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,23 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【Arc Raiders：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "「この時点で多くの試合が中止になっていただろう。」",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/no-one-at-embark-could-describe-arc-raiders-before-its-extraction-shooter-pivot-leading-to-playtest-battles-of-competing-directions-for-the-game/",
-        "date": "2026-03-12",
-        "is_translated": true
-      },
-      {
-        "title": "インディーズ古典的な洞窟物語のウォークスルーでもあるこのラップアルバムは、繰り返し聞きたくなる魅力があります。",
+        "title": "【洞窟物語：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これまでに使った中で最高のビデオゲームガイドは何ですか。どのような情報を含める必要があるのか、それをどのように表現するのか、また文書によるガイドか、ビデオによるガイドかを理解するには、コツが必要です。では、21についてどうでしょうか。最高のビデオゲームガイドを作るためには、必要な情報を的確に把握し、わかりやすく伝える方法を見つけることが重要です。ゲームの基本ルール、攻略方法、ヒントやテクニックなど",
+        "description": "これまで使った中で最高のビデオゲームガイドは何ですか。どのような情報を含めるべきか、またどのようにそれらの情報を含めるかを理解するには、ある程度のコツが必要です。例えば、必要な情報をどのように選択し、どのように提示するかは、文書によるガイドとビデオによるガイドでは大きく異なります。21についてはどうでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -278,7 +304,7 @@
         "title": "【Grow Wild：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Spectrum48 のフィリップ・シンクレア氏は、15 年間をかけて野原を再野生化させてきました。「再野生化」とは、生態系を自然なバランスに戻すプロセスのことです。彼はこの経験を基に、野原を舞台にしたビデオゲームを作成中です。ゲームでは、自然の回復と共存をテーマに、プレイヤーが野生生物と共に生きる世界を体験できるでしょう。シンクレア氏の経験と情熱が込められたこのゲームは、自然愛好家や環境保護に関",
+        "description": "Spectrum48 のフィリップ・シンクレア氏は、野原をその自然な姿に戻す「再野生化」プロジェクトに15年間取り組んできました。「再野生化」とは、生態系を自然なバランスに戻すプロセスです。現在、彼はこの経験を基にビデオゲームを作成中です。このゲームは、自然と人間の関係性を探求する内容で、プレイヤーは野原を再野生化させるという大胆な計画を進めていきます。自然の再生をテーマにしたこのゲームは、環境保",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -290,10 +316,22 @@
     ],
     "sale": [
       {
+        "title": "[Steam] キャプテン オブ インダストリー ($24.49/30% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で現在開催されているセールで、インダストリーの世界を舞台に繰り広げられるゲーム「キャプテン オブ インダストリー」が 30% オフで提供されています。このゲームでは、プレイヤーは産業のリーダーとなり、さまざまな資源の管理や生産効率の向上に取り組みます。工場の建設から資源の輸送まで、産業の全要素をコントロールすることができます。 キャプテン オブ インダストリーは、産業シミュレーションゲームのファンにはたまらない魅力的な要素を持ち合わせています。繰り返しプレイするたびに、新しい戦略やテクニックを発見することができ、ゲームの深みを感じることができます。また、グラフィックやサウンドトラックも高品質で、ゲーム体験をさらに楽しくします。 このセールは期間限定ですので、興味を持たれた方はお急ぎください。キャプテン オブ インダストリーを Steam で 30% オフで購入する机会は、まさに今です。産業の世界で新たな挑戦に取り組み、キャプテン オブ インダストリーの世界に没頭してみませんか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-13"
+      },
+      {
         "title": "春のセール毎日フラッシュ セール: バイオハザード リメイク トリロジー (-67%)、スナイパー エリート V2 リマスター (-90%)、リベンジ オブ ザ サベージ プラネット (-60%)",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "春のセール毎日フラッシュ セールは、ゲーマーにとって大いに期待できるイベントです。このセールでは、バイオハザード リメイク トリロジーが67%オフで提供されており、恐怖とスリルの組み合わせが特徴的なこのシリーズを楽しむことができます。さらに、スナイパー エリート V2 リマスターが90%オフという破格の価格で登場し、スナイパーの精度と戦略性を存分に体験できるでしょう。リベンジ オブ ザ サベージ プラネットも60%オフで提供され、ユニークなゲームプレイとグラフィックを堪能することができます。毎日新しいタイトルが登場するこのセールで、ゲーマーは様々なジャンルのゲームを割引価格で購入する機会を得ることができます。春のセール毎日フラッシュ セールは、ゲーム好きには絶対に外すことができません。",
+        "description": "ファナティカルでは、春のセール毎日フラッシュ セールが開催中です。バイオハザード リメイク トリロジーが67%オフで提供されており、恐怖とスリルの世界に身を投じることができます。また、スナイパー エリート V2 リマスターが90%オフとなり、戦略的なスナイピングの楽しみを味わうことができます。さらに、リベンジ オブ ザ サベージ プラネットが60%オフで販売中であり、独創的なゲームプレイを体験することができます。多種多様なゲームが割引価格で提供されているので、是非この機会にチェックしてみてください。さまざまなジャンルの魅力的なゲームに迫って、ゲームの楽しみを存分に楽しむことができます。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -516,18 +554,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-10"
-      },
-      {
-        "title": "[Steam] プラネタリーダストフ (£0.68/92% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "このゲーム「プラネタリーダストフ」は、通常価格から92%オフの特別オファーで提供されています。現在、Steamで£0.68という非常にリーズナブルな価格で購入できるこのゲームは、ゲームファンにはとっておきのチャンスです。 「プラネタリーダストフ」は、宇宙を舞台にしたアクションゲームです。プレイヤーは、さまざまな惑星を巡りながら、敵と戦い、様々なミッションをこなしていきます。グラフィックは美しく、スムーズな操作が楽しめるようになっています。 このゲームの特徴は、自由に惑星を移動できることが挙げられます。各惑星には独自の景観や敵が存在し、プレイヤーはそれらと戦いながら、宇宙の秘密を解き明かしていきます。さらに、さまざまな武器やアイテムを集めることで、プレイヤーは自分の能力を強化することができます。 この特別オファーは、限られた時間しかありません。ゲームファンには、間違いなくおすすめできるタイトルです。Steamで「プラネタリーダストフ」を購入し、宇宙での冒険を始めてみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-10"
       }
     ]
   },
@@ -585,5 +611,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-13T02:27:14.420546"
+  "last_updated": "2026-03-13T12:36:55.494918"
 }

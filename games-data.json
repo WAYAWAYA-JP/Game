@@ -5,39 +5,39 @@
         "title": "Cozy Grove - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Cozy Grove』へようこそ。このゲームは、変化し続ける瀬戸内海の島でキャンプをするという、ユニークなライフシミュレーションゲームです。自然の中でゆっくり過ごしたり、島の秘密を解き明かしたり、キャラクターたちとの交流を楽しんだり、島を美しくするための活動に取り組んだりすることができます。毎日が新しい冒険の始まりです。",
+        "description": "『Cozy Grove』へようこそ！本作は、瀬戸内海の島でキャンプをしながら、自然と共に変化し続ける生活を体験することができる、ライフシミュレーションゲームです。島の風景や季節の移り変わりを感じながら、キャラクターと交流したり、島を探索したりすることができます。自然の美しさと癒しの時間を味わえる、心地よい雰囲気のゲームです。",
         "price": "無料",
         "originalPrice": "¥1,520",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-13"
+        "date": "2026-03-14"
       },
       {
         "title": "Isonzo - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑み、タクティカルスキルの限界を試そう。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加し、戦争の激烈さを体験できる。戦略的な戦闘やチームワークを駆使して、戦争の勝利を目指そう。",
+        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑み、タクティカルスキルの限界を試してみます。美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加し、戦場の激動を体験します。イタリア北部の様々な環境で戦闘が繰り広げられ、プレイヤーは戦略と勇気を発揮して敵を倒す必要があります。このゲームでは、史実に基づいた戦場を通じて、第一次世界大戦の山岳戦の厳しさを感じることができます。",
         "price": "無料",
         "originalPrice": "¥3,080",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-13"
+        "date": "2026-03-14"
       }
     ],
     "bundle": [
       {
-        "title": "Build Your Own Spring Bundle",
-        "platform": "Fanatical",
+        "title": "[Steam] Light Fairytale Trilogy Bundle ($11.88/53% off)",
+        "platform": "Steam",
         "type": "bundle",
-        "description": "Fanaticalのバンドル。",
+        "description": "Steamのバンドル。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-13"
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-14"
       },
       {
         "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
@@ -49,6 +49,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "Build Your Own Spring Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
         "date": "2026-03-13"
       },
       {
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-03-06"
-      },
-      {
-        "title": "Prestige Collectionに4つの新しいタイトルが追加",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-05"
       }
     ],
     "review": [
       {
+        "title": "【ダレカレ：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨日開催された第26回「Game Developers Choice Awards」で、オーディエンスアワードを受賞したTearyHand Studioの「ダレカレ」は、国内発のインディーゲームとして初めてこの栄誉を得るという快挙を成し遂げました。これにより、「ダレカレ」は国内外のプレイヤーから高い支持を受けていることが証明されました。この受賞は、インディーゲームの可能性を示すものであり、将来的に",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165043.html",
+        "date": "2026-03-14",
+        "is_translated": false
+      },
+      {
         "title": "【なし：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "VideoGamer自体が、Googleの検索エンジンにインデックスされなくなっていることが報告されている。",
+        "description": "ゲーム情報サイトのVideoGamerは、現在Googleの検索エンジンにインデックスされなくなっていることが報告されています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,75 +236,62 @@
         "is_translated": false
       },
       {
-        "title": "【Dread Delusion：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "イングランドのインディーゲームデベロッパーである「Lovely Hellplace」（アーティストのJames Wragg氏が運営する個人スタジオ）が開発を手掛けるオープンワールドRPGが、2024年5月にPC向け製品版として発売されました。また、近日コンソール版のローンチも予定されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165004.html",
-        "date": "2026-03-13",
-        "is_translated": false
-      },
-      {
-        "title": "【ジャーニー：レビュー】",
+        "title": "【アーク レイダース：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "司会者のサム・マッグス氏は、中止となったゲームの数々についても触れており、その中には決して日の目を見ることのなかったものも含まれています。",
+        "description": "彼らにはまだ興味深いゲームプレイが残っているので、決して「絶対にやらない」とは言わないでください。新しいゲームをプレイする際には、最初の印象が重要です。ゲームをプレイする前に、さまざまな要素を考慮する必要があります。ゲームのジャンル、ストーリー、キャラクター、グラフィックなどの要素をみて、自分が楽しめるゲームかどうかを判断します。ただし、ゲームをプレイしていくうちに、最初の印象と異なる面も発見でき",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/journey-composer-austin-wintory-played-an-unreleased-song-from-his-canceled-dream-job-of-all-time-during-the-game-developers-choice-awards-just-to-drive-home-that-the-industrys-doing-great/",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-old-machine-designs-sound-so-diabolical-its-no-wonder-they-were-reworked-or-removed-after-poor-playtest-feedback-at-that-time-they-didnt-fit-with-the-game-very-well/",
         "date": "2026-03-13",
         "is_translated": true
       },
       {
-        "title": "【At Fate's End：レビュー】\n【Mina the Holwer：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "GDC 2026 は、多くの素晴らしいゲームで溢れていました。特に、『At Fate's End』や『Mina the Holwer』などのタイトルが、今年の GDC で大きな注目を集めました。これらのゲームは、ゲーマーの間で大きな話題となり、将来のゲーム業界に大きな期待を抱かせています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/best-games-gdc-2026/",
-        "date": "2026-03-13",
-        "is_translated": true
-      },
-      {
-        "title": "【World of Warcraft：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ちょっと待ってください、クエストが継続することを期待しているだけですか？",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-questing-system-was-inspired-by-a-playtest-that-didnt-work-out-as-planned-because-the-testers-didnt-play-mmos-and-had-no-idea-what-they-were-supposed-to-do-i-ran-out-of-quests-right-away/",
-        "date": "2026-03-12",
-        "is_translated": true
-      },
-      {
-        "title": "【World of Warcraft：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "軽蔑を抑えるようにしてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/playing-world-of-warcraft-with-a-controller-might-become-my-preferred-playstyle-thanks-to-this-excellent-gamepad-friendly-addon-thats-letting-me-enjoy-azeroth-from-my-couch/",
-        "date": "2026-03-12",
-        "is_translated": true
-      },
-      {
-        "title": "【洞窟物語：レビュー】",
+        "title": "【Slay The Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これまで使った中で最高のビデオゲームガイドは何ですか。どのような情報を含めるべきか、またどのようにそれらの情報を含めるかを理解するには、ある程度のコツが必要です。例えば、必要な情報をどのように選択し、どのように提示するかは、文書によるガイドとビデオによるガイドでは大きく異なります。21についてはどうでしょうか。",
+        "description": "ローグライク デッキビルダー Slay The Spire 2 は、早期アクセスのアップデートを継続していて、さまざまなクラッシュ バグの修正や、新しいカード アートの追加などが行われています。また、ゲーム ファイルの MOD を変更する方法も変更され、いくつかの新しい機能も実装されています。これらのアップデートにより、より安定したプレイ体験が提供されることになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/latest-slay-the-spire-2-update-stops-you-having-over-a-billion-hp-while-tweaking-the-deckbuilders-mod-support",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
+        "title": "【FINAL FANTASY XIV：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "FFXIV Live Letter 91では、バージョン7.5のリリース日が発表され、いくつかの大きな改善や新ジョブ「ビーストマスター」の導入が予告されました。ビーストマスターのジョブは、プレーヤーに新しい戦闘スタイルを提供し、ゲームの深みをさらに増すことになります。さらに、7.5のアップデートでは、生活の質の向上も予定されており、プレーヤーのゲーム体験をより便利に、楽しくするためのさまざまな機能",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ffxiv-7-5-release-date-live-letter-beastmaster-dye-armoire-updates/",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
+        "title": "【マジック:ザ・ギャザリング：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マジック：ザ・ギャザリングのトーナメントは参加者が多く、競争が激しいものです。そのため、参加することが怖いと感じる人もいるかもしれません。しかし、実際には、豊かで楽しい経験が待っています。トーナメントでは、多くのプレーヤーと出会い、新しいデッキや戦略を学ぶことができます。さらに、競争することで、自分のスキルを高め、自己の成長を実感することができます。トーナメントは、MTGの楽しさを最大限に享受する",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/magic-the-gathering-mtg-competitive-tournament-matters/",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
+        "title": "【Spelunky：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今までで最高のビデオゲームガイドについて考えてみると、どのような情報を含めるべきか、またどのように盛り込むべきかという点が重要です。ゲームガイドは、文書形式なのか、ビデオ形式なのかによっても、内容の伝え方が変わります。21というゲームガイドは、どのような特徴を持っているのでしょうか。実際に使ってみて、他のガイドと比べてみると、21はどのように感じられますか。ゲームをより楽しむためのヒントや、ゲーム",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +304,7 @@
         "title": "【Grow Wild：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Spectrum48 のフィリップ・シンクレア氏は、野原をその自然な姿に戻す「再野生化」プロジェクトに15年間取り組んできました。「再野生化」とは、生態系を自然なバランスに戻すプロセスです。現在、彼はこの経験を基にビデオゲームを作成中です。このゲームは、自然と人間の関係性を探求する内容で、プレイヤーは野原を再野生化させるという大胆な計画を進めていきます。自然の再生をテーマにしたこのゲームは、環境保",
+        "description": "Spectrum48 のフィリップ・シンクレア氏は、15 年にわたって野原を再野生化させてきました。「再野生化」とは、生態系を自然な平衡状態に戻すプロセスです。彼はこのプロセスを実現するために、さまざまな努力を払ってきました。今、彼はこの経験を基にビデオゲームを作っています。ゲームでは、プレイヤーが自然な環境を再生させ、野生の生物を保護するというミッションを遂行します。シンクレア氏のビデオゲームは",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -316,16 +316,64 @@
     ],
     "sale": [
       {
-        "title": "[Steam] キャプテン オブ インダストリー ($24.49/30% オフ)",
+        "title": "春のセール | STAR WARSシリーズやDragon Ageが激安に",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で現在開催されているセールで、インダストリーの世界を舞台に繰り広げられるゲーム「キャプテン オブ インダストリー」が 30% オフで提供されています。このゲームでは、プレイヤーは産業のリーダーとなり、さまざまな資源の管理や生産効率の向上に取り組みます。工場の建設から資源の輸送まで、産業の全要素をコントロールすることができます。 キャプテン オブ インダストリーは、産業シミュレーションゲームのファンにはたまらない魅力的な要素を持ち合わせています。繰り返しプレイするたびに、新しい戦略やテクニックを発見することができ、ゲームの深みを感じることができます。また、グラフィックやサウンドトラックも高品質で、ゲーム体験をさらに楽しくします。 このセールは期間限定ですので、興味を持たれた方はお急ぎください。キャプテン オブ インダストリーを Steam で 30% オフで購入する机会は、まさに今です。産業の世界で新たな挑戦に取り組み、キャプテン オブ インダストリーの世界に没頭してみませんか。",
+        "description": "春のセールが到来です。Steamでは人気シリーズ『STAR WARS』やファンタジーRPGの傑作『Dragon Age』が激安になりました。『STAR WARS』シリーズは、宇宙を舞台に繰り広げられる壮大なストーリーや、愛されるキャラクターなど、ファンの間で根強い人気を誇ります。一方、ドラゴンエイジシリーズは、深いストーリーとキャラクターの成長システムが特徴的であり、ファンタジーRPGファンにはたまらない選択肢です。 今回のセールでは、これらのシリーズのさまざまなタイトルが大幅に値下げされています。 STAR WARSシリーズの『STAR WARS：旧共和国』や『STAR WARS Jedi：フォールン・オーダー』、Dragon Ageシリーズの『ドラゴンエイジ：インクイジション』や『ドラゴンエイジII』などが激安価格で提供されます。さらに、シリーズ内の他のタイトルやDLCも割引対象になっています。 このセールは、STAR WARSやDragon Ageシリーズのファンにとっては夢のチャンスです。まだプレイしていないタイトルを試したり、コンプリートすべきシリーズを揃える機会です。また、シリーズに入りたいと思っているゲーマーにもピッタリの機会となります。セール期間中はSteamをチェックし、好きなゲームを手に入れてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-13"
+        "date": "2026-03-14"
+      },
+      {
+        "title": "[Steam] RUINER (90% オフ / 1.99$ )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RUINERは、暗いサイバーパンク世界を舞台にしたアクションゲームです。90%オフの特別セールで、通常価格より大幅に安く購入できます。ゲームでは、プレイヤーはRUINERと呼ばれる強力なスキルを持った主人公を操作し、サイバネティックな敵たちと戦いながら、都市の奥深くに隠された真実を解き明かしていきます。 このゲームの特徴は、高速で苛烈なアクションと、サイバーパンクの雰囲気を醸し出すグラフィックです。ゲームの世界は、ネオンが輝く夜の都市から、廃墟と化した建物まで、多彩な環境で構成されています。プレイヤーは、さまざまな武器とスキルを使用して、敵を倒し、難関を突破し、ストーリーの核心に迫っていきます。 RUINERの世界は、暗くてハードな雰囲気を持ちながらも、プレイヤーに深い感銘を与えるという評価が多く、サイバーパンクファンやアクションゲーム好きにはたまらない作品です。現在、Steamで1.99$という特別な価格で提供されていますので、興味がある方はぜひこの機会に購入してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "春のセール：Frostpunk 2、Legacy of Kain Soul Reaver、Zombie Army 4",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Fanaticalの春のセールでは、注目すべきタイトルが多数登場します。まず、「Frostpunk 2」は、氷に覆われた世界で人類の最後の希望を守るために戦う、シビアなサバイバルシミュレーションゲームです。続いて、「Legacy of Kain Soul Reaver」は、暗いファンタジーの世界を舞台に、吸血鬼の魂を蘇らせるために戦う、高速アクションゲームです。さらに、「Zombie Army 4」は、第三次世界大戦後の世界で、ゾンビの大軍と戦う、ハードコアなサードパーソンシューティングゲームです。春のセールでは、これらのタイトルを含む多数のゲームが割引されます。ファンキーなゲームを探している方には、必見のセールです。各ゲームのユニークな世界観とゲームプレイを体験してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "[ファナティカル] クリムゾンデザート (15% オフ - $59.49 / €59.49 / CA$76.49 / A$93.45)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "ファナティカルでは、人気ゲーム「クリムゾンデザート」が15%オフで販売中です。現在、$59.49 / €59.49 / CA$76.49 / A$93.45で購入できます。このゲームは、美しい砂漠の世界を舞台に、プレイヤーがさまざまなミッションをこなしていく、アクションアドベンチャーゲームです。クリムゾンデザートの世界では、プレイヤーは強力な武器やスキルを使用して、敵を倒し、秘密を解き明かしていきます。ゲームのグラフィックは、高品質なテクスチャや詳細なキャラクターモデルで、臨場感を演出しています。さらに、サウンドトラックも、ゲームの雰囲気を高めるのに役立ちます。クリムゾンデザートは、ファンアタックやアクションゲームのファンには、必ず興味をそそるでしょう。ファナティカルでのセールを活用して、クリムゾンデザートの世界に飛び込んでみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "[Steam] キャプテン オブ インダストリー ($24.49/30% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「キャプテン オブ インダストリー」は、30%オフの特別セール中です。通常価格より24.49ドルで購入できるこのゲームは、インダストリーの世界を舞台に、プレイヤーがキャプテンの役割を演じ、様々な挑戦に立ち向かっていく内容です。 このゲームでは、プレイヤーはキャプテンとして、さまざまな産業を管理し、資源を集め、施設を建設して、最終的に強大なインダストリー帝国を築き上げていきます。ゲーム内では、キャラクターの育成や施設の改善など、プレイヤーの選択が重要な役割を果たします。 グラフィックやサウンドは、ゲームの雰囲気を高め、プレイヤーをインダストリーの世界に引き込んでくれます。さらに、ゲームのシステムは、プレイヤーが自由に戦略を立てることができるように設計されており、繰り返しプレイしても、新しい発見があることで飽きることなく楽しむことができます。 セール期間中は、通常価格より大幅に安く購入することができるので、インダストリーをテーマにしたゲームに興味がある方には、絶好のチャンスです。Steamプラットフォームで「キャプテン オブ インダストリー」をお楽しみください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-14"
       },
       {
         "title": "春のセール毎日フラッシュ セール: バイオハザード リメイク トリロジー (-67%)、スナイパー エリート V2 リマスター (-90%)、リベンジ オブ ザ サベージ プラネット (-60%)",
@@ -506,54 +554,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-11"
-      },
-      {
-        "title": "スプリング セール: バイオハザード ヴィレッジ ゴールド エディション",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalでは、スプリング セールの開催を記念して、人気ゲーム「バイオハザード ヴィレッジ ゴールド エディション」が特別価格で提供されています。これは、バイオハザードシリーズの最新作であり、恐怖とスリルのバランスが取れたゲームプレイを体験できることで知られています。ゴールド エディションには、追加のストーリーやキャラクターが含まれており、ゲームの世界をより深く探索することができます。 スプリング セール期间中、ファナティカルではこのゲームを大幅に割引価格で提供しており、ゲーマーにとってはとても魅力的です。バイオハザード ヴィレッジ ゴールド エディションは、ハイクオリティなグラフィックスとサウンドデザインによって、恐怖とスリルの究極の体験を提供します。さらに、ゲームのストーリーは、バイオハザードシリーズのファンにとっては必見であり、シリーズの新しい展開を楽しむことができます。 スプリング セールの期間は限定されているため、バイオハザード ヴィレッジ ゴールド エディションを購入するには、早めの行動が必要です。ファナティカルでは、セール期間中、他の多くのゲームも特別価格で提供されていますので、他の魅力的なゲームもチェックしてみてください。スプリング セールを活用して、バーゲン価格で梦中のゲームを手に入れてみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "スパイク・チュンソフト セール - ダンガンロンパ2、Re:ゼロから始める異世界生活",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スパイク・チュンソフト セールが Steam で開催中です。このセールでは、人気ゲーム「ダンガンロンパ2」と「Re:ゼロから始める異世界生活」が大幅に価格下げされています。 「ダンガンロンパ2」は、学園を舞台にしたサバイバルアドベンチャーゲームです。殺人事件が起こり、主人公と仲間たちが容疑者となり、裁判で真相を突き止める必要があります。ストーリーは複雑で、プレイヤーは事件を解決するために、クイズやパズルを解決しながら進めていきます。 一方、「Re:ゼロから始める異世界生活」は、ファンタジー世界を舞台にしたアドベンチャーゲームです。主人公は、異世界で過去に戻り、命を繰り返すことで、世界を変えていくことを目指しています。ストーリーは複雑で、プレイヤーは選択肢によって、異なるエンディングを迎えることができます。 このセールは、スパイク・チュンソフトのゲームファンには必見です。どちらのゲームも、独自の世界観と魅力的なキャラクターが特徴で、プレイヤーを引き込むストーリーを提供します。価格も大幅に下げられているので、是非この機会にチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "スプリングセール: バイオハザードヴィレッジ for PCなど",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalのスプリングセールでは、バイオハザードヴィレッジを含む様々な人気ゲームが特別価格で提供されます。バイオハザードシリーズの最新作であるバイオハザードヴィレッジは、恐怖とスリルの絶妙なバランスでプレイヤーを魅了します。このゲームでは、プレイヤーは恐ろしげな村や城などを探索し、さまざまなモンスターと戦いながら、謎の人々と出会います。ゲームのグラフィックは高解像度で、臨場感あふれるサウンドデザインも相まって、よりリアルな体験を提供します。 また、スプリングセールでは、バイオハザードヴィレッジ以外にも、ファンタジー、SF、アクションなどのジャンルを網羅した多数のゲームが割引価格で提供されます。プレイヤーは、自らの好みに合わせてさまざまなゲームを選び、限時期間中のみの特別価格で購入できます。 Fanaticalのスプリングセールは、ゲーム愛好家にとって見逃せない機会ですので、是非ご覧になってください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "[Steam] HEXADEL ($0.59 USD / 70% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "HEXADELは、Steamプラットフォームで現在70%オフのセール中です。このタイトルは、パズル要素とアクションが融合したユニークなゲームです。プレイヤーは、六角形のタイルを組み合わせてパズルを解決し、さまざまなステージをクリアする必要があります。様々なパワーを使用して、障害物を破壊したり、タイルを移動させたりして、ゲームを進めていきます。HEXADELのグラフィックは、簡潔だが印象的なデザインで、プレイヤーに魅力的です。現在、0.59 USDで提供されており、非常にお得なプライスです。HEXADELをプレイして、パズルとアクションの融合に挑戦してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-10"
       }
     ]
   },
@@ -611,5 +611,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-13T12:36:55.494918"
+  "last_updated": "2026-03-14T02:25:39.083353"
 }

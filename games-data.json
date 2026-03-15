@@ -5,25 +5,25 @@
         "title": "Cozy Grove - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Cozy Grove』へようこそ。本作は、変化し続ける瀬戸内海の島でキャンプするライフシミュレーションゲームです。このゲームでは、プレイヤーは島の自然と生き物たちとの触れ合いを通じて、リラックスした気分で島生活を楽しむことができます。島の風景や季節が変わるたびに、新しい体験が待っています。島で過ごす時間を如何に楽しみ、島の秘密を解き明かすかは、プレイヤー次第です。",
+        "description": "『Cozy Grove』へようこそ。このゲームは、美しい瀬戸内海の島でキャンプしながら、自由に生活を楽しむことができるライフシミュレーションゲームです。島の自然環境は、時とともに変化していきます。プレイヤーは、島の魅力を発見しながら、キャンプライフを満喫することができます。リラックスした雰囲気の中で、島の秘密を解き明かしていくのがこのゲームの魅力です。",
         "price": "無料",
         "originalPrice": "¥1,520",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-14"
+        "date": "2026-03-15"
       },
       {
         "title": "Isonzo - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "第一次世界大戦を忠実に再現したFPSゲームで、苛烈な山岳戦に挑み、タクティカルスキルの限界に挑戦してみましょう。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で繰り広げられる戦闘に参加して、戦場の激しさを体験できます。戦略と勇気を兼ね備えたプレイが求められるこのゲームで、自分のタクティカルスキルを限界まで駆り出してみませんか。",
+        "description": "第一次世界大戦を忠実に再現したFPSゲームでは、苛烈な山岳戦に挑み、プレイヤーのタクティカルスキルを限界まで試されることになる。イタリア北部の美しい山脈や深い谷、のどかな町で繰り広げられる戦闘に参加し、戦争の厳しさを体験できる。ゲームでは、実際の第一次世界大戦での戦闘を再現しており、プレイヤーは歴史上の戦場で戦うことができる。戦略的に戦闘に臨み、タクティカルスキルを駆使して敵を打ち破ることが重要となる。美しい風景が舞台となりながらも、戦争の残酷さを感じることができるこのゲームは、FPSファンに必見の作品である。",
         "price": "無料",
         "originalPrice": "¥3,080",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-14"
+        "date": "2026-03-15"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-14"
+        "date": "2026-03-15"
       },
       {
         "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-03-14"
+        "date": "2026-03-15"
       },
       {
         "title": "Build Your Own Spring Bundle",
@@ -213,7 +213,7 @@
         "title": "【ダレカレ：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "昨日開催された第26回「Game Developers Choice Awards」では、TearyHand Studioの「ダレカレ」がオーディエンスアワードを獲得しました。この受賞は、国内発のインディータイトルとして初の快挙となり、大きな話題となっています。",
+        "description": "昨日開催された第26回「Game Developers Choice Awards」では、TearyHand Studioの「ダレカレ」がオーディエンスアワードを獲得しました。これにより、「ダレカレ」は国内発のインディータイトルとして初めてこの賞を受賞する快挙を成し遂げました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +223,23 @@
         "is_translated": false
       },
       {
+        "title": "【Xenonauts 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「発売後もゲームの改善とパッチの適用を継続する予定です。」",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/throwback-xcom-successor-xenonauts-2-leaves-early-access-in-april-though-the-developer-says-the-milestone-doesnt-mean-our-work-is-done/",
+        "date": "2026-03-14",
+        "is_translated": true
+      },
+      {
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日がやってきました。Blustery WindやChill In The Airのような古い友人たちも顔を出しましたね。私としては、あなたにはもっと大きな期待を寄せていますが、あなたはその2人があなたの期待を裏切るだけだと知っているようです。あなたには、まだまだ大きな可能性が秘められているはずです。",
+        "description": "土曜日がやってきましたね。また会いましょう。古い友達の風と冷たい空気が一緒に来ているようですが、私はあなたにさらに良きことを見込んでいます。あなたには大きな可能性があることが分かっていますが、あなたの今の状態ではその2人があなたをがっかりさせるだけだとわかっているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,23 +249,10 @@
         "is_translated": true
       },
       {
-        "title": "【アーク レイダース：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "まだお楽しみいただけるゲームプレイが残っているので、絶対にやらないと決めつけないでください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-old-machine-designs-sound-so-diabolical-its-no-wonder-they-were-reworked-or-removed-after-poor-playtest-feedback-at-that-time-they-didnt-fit-with-the-game-very-well/",
-        "date": "2026-03-13",
-        "is_translated": true
-      },
-      {
         "title": "【Slay The Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ローグライク デッキビルダー Slay The Spire 2 は、早期アクセスのステージで新しいアップデートをリリースしました。このアップデートでは、さまざまなクラッシュ バグが修正され、美しい新しいカード アートが追加され、ゲーム ファイルの MOD を変更する方法が改善され、いくつかの新しい機能が実装されています。このアップデートにより、ゲームの安定性とプレイヤビリティが向上し、より楽しいゲ",
+        "description": "ローグライクデッキビルダーの『Slay The Spire 2』は、早期アクセスのステージを通じて様々な改善を加えてきています。最新のアップデートでは、クラッシュバグの修正や新しいカードアートの追加など、多くの問題が解消されています。また、ゲームファイルのMODを変更する方法が見直され、いくつかの新しい機能も実装されています。これらの変更により、ゲームはさらに魅力的なものになりました。新しいカード",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,23 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "【FINAL FANTASY XIV：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "FFXIV Live Letter 91では、バージョン7.5のリリース日が明らかになり、プレイヤーの生活の質を向上させる、いくつかの大きなアップデートと、ビーストマスターの新ジョブが初めて紹介されました。これらのアップデートにより、ゲーム内の生活がより快適になるだけでなく、新しいジョブの追加によって、プレイヤーは新たな戦闘スタイルを体験できるようになります。ビーストマスターのジョブは、動物と協力",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ffxiv-7-5-release-date-live-letter-beastmaster-dye-armoire-updates/",
-        "date": "2026-03-13",
-        "is_translated": true
-      },
-      {
-        "title": "【洞窟物語：レビュー】",
+        "title": "【Spelunky：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これまでで最高のビデオゲームガイドは何ですか。どの情報を含めるべきか、どのように含めるべきか、そして文書によるガイドなのかビデオなのかを理解するには、コツが必要です。21についてはどうでしょうか。質の高いビデオゲームガイドは、プレイヤーがゲームをより楽しむことができるように、必要な情報を明確かつ簡潔に提供する必要があります。ゲームのストーリーやキャラクター、ゲームプレイの基本的なルール、そしてゲー",
+        "description": "最高のビデオゲームガイドはどれですか。どのような情報を含めるべきか、それをどのように伝えるか、また、それが文章によるガイドなのか、ビデオなのかを決めるには、コツが必要です。21の場合、どのような特徴があるのでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -286,22 +273,69 @@
         "url": "https://www.rockpapershotgun.com/i-am-going-to-be-playing-this-rap-album-thats-also-a-walkthrough-of-indie-classic-cave-story-on-repeat",
         "date": "2026-03-12",
         "is_translated": true
-      },
-      {
-        "title": "【Grow Wild：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Spectrum48 のフィリップ・シンクレア氏は、野原の再野生化に 15 年という長期間をかけて取り組んでいます。再野生化とは、生態系を自然な平衡状態に戻すプロセスです。現在、彼はこの経験を基にビデオゲームの制作に取り組んでいます。野原を再野生化するというプロセスは、自然環境を守り、生態系のバランスを取り戻すことに大きな意味があります。シンクレア氏の取り組みは、自然と共存することの重要性を強調し",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/learn-about-real-life-rewilding-in-idle-city-builder-creature-collector-grow-wild-which-is-taking-playtest-sign-ups",
-        "date": "2026-03-11",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "TurnBasedMondayFest 2026 セール | Slay the Spire 他多数作品がセール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、TurnBasedMondayFest 2026 セールを開催中です。人気タイトル「Slay the Spire」をはじめ、多数のターンベースゲームがセールに参加しています。このセールでは、戦略性と冒険が融合したさまざまなゲームを特価で購入できます。ターンベースのゲームファンにとっては、夢のチャンスです。購入したゲームは、Steamプラットフォーム上でプレイすることができ、様々なジャンルのゲームを楽しみながら、新しいゲーム体験をしてみることができます。セール期間中は、通常価格よりも大幅に安くなっているため、興味があるゲームをまとめて購入することもできます。このセールでは、ターンベースゲームの魅力が存分に楽しめる作品が多数ラインナップされています。ゲームの世界に新しい刺激を求めるゲーマーには、見逃せないイベントです。セールの詳細や購入方法については、Steamの公式サイトで確認することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-15"
+      },
+      {
+        "title": "[Steam] スピリットキャッチャー 93' (90% OFF)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スピリットキャッチャー93'は、90%オフの特別セール中です。このゲームは、ユニークなグラフィックとサウンドトラックでプレイヤーを魅了することができます。スピリットキャッチャー93'では、プレイヤーはさまざまなミッションをこなしながら、スピリットを捕獲し、成長させていく必要があります。ゲームの世界は、ファンタジーとアドベンチャーが混ざり合った不思議な空間で、プレイヤーは新しいスピリットとの出会いを経て成長していきます。スピリットキャッチャー93'のゲームプレイは、戦略と探索が重要な要素となっており、プレイヤーはさまざまなスピリットを集めながら、自分の力を高めていく必要があります。セール中のこのゲームは、Steamでプレイすることができ、魅力的なゲーム体験を提供します。スピリットキャッチャー93'を今すぐ購入して、不思議な世界での冒険を始めてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-15"
+      },
+      {
+        "title": "スプリングセール：STAR WARS、Dragon Age、Titanfall 2ほか",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スチームプラットフォームでは、スプリングセールが開催中です。このイベントでは、人気ゲームの STAR WARS シリーズ、Dragon Age シリーズ、Titanfall 2 などが大幅に値下げされています。STAR WARS シリーズのファンは、銀河系を舞台に繰り広げられる壮大な冒険を体験できます。Dragon Age シリーズのファンは、壮大なストーリーと深いキャラクター設定を楽しむことができます。また、Titanfall 2 は、フロンティアの世界でロボットとともに戦うアクションゲームです。 スプリングセール期間中は、これらのゲームを初めてプレイする人も、既にシリーズを愛している人も、安価で購入することができます。さらに、他の多くのタイトルも特価で提供されているので、興味のあるゲームを探してみるのもよいでしょう。スチームのスプリングセールは、ゲームファンにとって大きなお得な opportunity です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-15"
+      },
+      {
+        "title": "[Steam] RUINER (90% オフ / 1.99$ )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RUINERは、サイバーパンクが舞台のアクションゲームです。プレイヤーは、近未来の都市で戦闘に特化したエージェントを操作して、敵を倒し、ミッションを完了します。ゲームの特徴は、高速なアクションと戦略的な戦闘システムです。プレイヤーは、様々な武器やスキルを駆使して、強力な敵を倒す必要があります。また、ゲームのグラフィックは、独特のサイバーパンクスタイルで描かれており、プレイヤーに未来的な世界観を体験させることができます。RUINERは、ファストペースなアクションと、深いストーリーが特徴です。90%オフの現在、RUINERを1.99$で購入することができます。Steamプラットフォームで利用可能です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-15"
+      },
+      {
+        "title": "春のセール：Frostpunk 2、Legacy of Kain、Zombie Army 4",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Fanaticalでは、春のセールが開催中です。このセールでは、人気ゲームファン待望のタイトルが多数登場します。特に注目されるのは、都市計画とサバイバル要素を融合させた《Frostpunk 2》です。凍てついた世界で人々を導き、都市を築くという挑戦が待っています。 別のジャンルでは、《Legacy of Kain》シリーズが登場します。このシリーズは、ダークファンタジーの世界観と深いストーリーで知られています。プレイヤーは、吸血鬼の主人公を操作し、陰謀と戦闘に挑みます。 さらに、アクション満点の《Zombie Army 4》もセール対象です。第三次世界大戦を舞台に、ゾンビの大量襲来に立ち向かう、合作プレイを重視したシューティングゲームです。協力してゾンビを撃退し、戦争を終結させます。 これらのタイトルは、Fanaticalの春のセールで特別価格で提供されます。ゲーマーには、春を彩る新しいゲーム体験が待っています。是非、春のセールをチェックして、ご自身に合ったゲームを見つけてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-15"
+      },
       {
         "title": "スプリングセール：STAR WARSやDragon Ageが大幅割引",
         "platform": "Steam",
@@ -312,30 +346,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "[Steam] RUINER (90% オフ / 1.99$ )",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RUINER は、未来的なサイバーパンク世界を舞台にしたアクションゲームです。90% オフの特別セールで、通常価格より大幅に安くなり、1.99$ で購入できます。このゲームでは、プレイヤーは高性能な兵器を装備したエージェントとなり、複雑な社会階層に挑みます。高速で激しいアクションと、複数の敵を一気に倒す爽快感が特徴です。 RUINER の世界は、暗くて粗暴なサイバーパンクの都市で、プレイヤーはその陰謀に巻き込まれます。ゲームのグラフィックは、独特のデザインと細かいディテールを備えています。複数の敵を一気に倒す「ダッシュ」システムや、様々な攻撃を組み合わせることができる「オーバードライブ」システムなど、様々な戦闘システムが用意されています。 このセールは、RUINER の魅力を体験する絶好の機会です。通常価格より大幅に安くなっているため、興味があるゲーマーにはお勧めです。Steam で 1.99$ で購入できるので、ぜひこの機会に RUINER をプレイしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "春のセール：Frostpunk 2、Legacy of Kain Soul Reaver、Zombie Army 4 大幅割引",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalでは、春のセールが開催中です。このセールでは、人気ゲームが大幅に割引されています。Frostpunk 2は、雪に覆われた世界で市民を守るための都市を建設する、シミュレーションゲームです。Legacy of Kain Soul Reaverは、ダークファンタジーの世界を舞台に、吸血鬼の復讐を描く、アクションアドベンチャーゲームです。Zombie Army 4は、ゾンビの脅威に立ち向かう、シューティングゲームです。これらのゲームは、各々がユニークなゲームプレイやグラフィックスを持ち合わせており、ゲーマーにとって大変魅力的です。割引を受けた価格でこれらのゲームをプレイすることは、ゲームを楽しむための最高の機会です。ぜひ、Fanaticalの春のセールをチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
         "date": "2026-03-14"
       },
       {
@@ -505,42 +515,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-11"
-      },
-      {
-        "title": "[Steam] ギャラクティック グリッチ ($3.89 | 70% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでのギャラクティック グリッチのセールは、ギャラクシーを舞台にしたアクションアドベンチャーゲームのファンにとって絶好の機会です。このゲームでは、プレイヤーは未知の宇宙を探索し、様々な惑星を訪れ、エイリアンの種族との遭遇を体験します。ギャラクティック グリッチでは、独自のグラフィックデザインとダイナミックなサウンドトラックが、プレイヤーを宇宙の奥深くに引き込んでくれます。 今回のセールでは、通常価格より70%オフの特別価格で提供され、通常の価格の3.89ドルで購入することができます。このセールは、ギャラクシーを巡る冒険に興味があるゲーマーにとって、見逃せない機会です。ギャラクティック グリッチを購入して、宇宙の秘密を解き明かす旅に出てみませんか。宇宙の広大な空間を自由に探索し、様々な種族との交流や戦闘を体験することができます。ギャラクティック グリッチの世界では、プレイヤーの選択が物語を形作り、多様な結末を待ち受けています。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "FATAL FRAME II Crimson Butterfly REMAKE",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "ファナティカルプラットフォームで提供されている「FATAL FRAME II Crimson Butterfly REMAKE」は、ホラーゲームファン必見のタイトルです。オリジナルの『FATAL FRAME II』がリメイクされたこの作品は、恐怖とサスペンスをより一層引き立てた新しい体験を提供します。ストーリーは、妹を探すために廃村を訪れた双子の姉妹が、さまざまな超自然的な出来事に直面するというものです。 このリメイク版では、グラフィックやサウンドが大幅に強化されており、よりリアルで心を凍りつかせるような体験ができます。さらに、ゲームシステムも改良され、プレイヤーは双子の姉妹を操作して、さまざまな謎を解きながら、恐ろしい敵から逃れていく必要があります。 「FATAL FRAME II Crimson Butterfly REMAKE」は、ホラーゲームのファンにはもちろん、ストーリーに深みのあるゲームを探しているすべてのゲーマーにとって、絶対に体験しておきたいタイトルです。恐怖とサスペンスが满ち溢れるこのゲームで、プレイヤーは緊張感と不安感を味わいながら、双子の姉妹の運命を紡いでいきます。ファナティカルでこのリメイク版を手に入れて、心を震わす恐怖の世界に踏み込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "Dead Spaceシリーズセール | PC",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで開催中の「Dead Spaceシリーズセール」は、PCゲーマー必見のイベントです。このセールでは、人気ホラーゲームシリーズ「Dead Space」のタイトルが大幅に割引されています。「Dead Space」シリーズは、恐怖とスリルを込めたゲームプレイで知られており、プレイヤーは宇宙の闇の中で恐ろしい敵たちと戦います。 このセールでは、シリーズのすべてのタイトルが対象となっています。最初の「Dead Space」から最新作まで、すべてのゲームが割引価格で提供されています。さらに、シリーズのDLCやスペシャルエディションも含まれています。つまり、プレイヤーはシリーズのすべての内容を一括して購入できるということです。 「Dead Space」シリーズは、ホラーゲームファンにとっては夢の来たりです。グラフィックやサウンドデザインが素晴らしいだけでなく、ゲームプレイも非常に面白いです。特に、シリーズの主役であるアイザック・クラークというキャラクターは、プレイヤーに強い印象を残します。 このセールは、シリーズをまだプレイしていない人にとっては絶好の機会です。さらに、すでにシリーズをプレイしたことがある人でも、DLCやスペシャルエディションを購入することで、新しいゲームプレイ体験を楽しむことができます。Steamでの「Dead Spaceシリーズセール」は、ホラーゲームファンには見逃せないイベントです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-11"
       }
     ]
   },
@@ -598,5 +572,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14T12:31:30.386602"
+  "last_updated": "2026-03-15T02:45:02.960487"
 }

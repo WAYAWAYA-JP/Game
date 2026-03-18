@@ -5,28 +5,40 @@
         "title": "Cozy Grove - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Cozy Grove』へようこそ！このゲームは、美しい瀬戸内海の島でキャンプできるライフシミュレーションゲームです。この島は、季節の変化や自然の変動によって、常に新しい景色を見せる魅力的な場所です。プレイヤーは、この島でキャンプを楽しみながら、自然と交流し、島の秘密を解き明かしていきます。ゲームの中では、キャラクターとの会話や、島の探索、自然の調査など、様々なアクティビティを楽しむことができます。『Cozy Grove』は、癒しと冒険が合わさったユニークなゲーム体験を提供します。",
+        "description": "『Cozy Grove』へようこそ。本作は、変化し続ける瀬戸内海の島でキャンプするライフシミュレーションゲームです。この島では、自然の美しさの中でキャンプを楽しみながら、様々な体験をすることができます。島の風景は常に変化し、新しい発見が待っています。キャンプライフを通じて、自然と調和して暮らす喜びを体験してみてください。",
         "price": "無料",
         "originalPrice": "¥1,520",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-17"
+        "date": "2026-03-18"
       },
       {
         "title": "Isonzo - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "第一次世界大戦を忠実に再現したFPSゲームに参加し、苛烈な山岳戦に挑戦してみましょう。イタリア北部の美しい山脈や恐ろしい谷、のどかな町で激しい戦闘が繰り広げられます。タクティカルスキルの限界に挑戦し、戦闘に参加してみましょう。美しい風景が戦場と化し、戦争の厳しさを体験できます。戦略的な思考と迅速な行動が求められるこのゲームで、プレイヤーのタクティカルスキルを限界まで試してみましょう。",
+        "description": "第一次世界大戦を忠実に再現したFPSゲームに没頭し、苛烈な山岳戦に挑戦してみよう。美しい山脈や深い谷、のどかな町で繰り広げられる戦闘に参加し、タクティカルスキルの限界を試してみます。イタリア北部の壮大な自然の中で、戦争の厳しさを体験できるでしょう。戦略的な思考と迅速な行動が求められるこのゲームで、自分のスキルを限界まで引き出してみませんか。",
         "price": "無料",
         "originalPrice": "¥3,080",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-17"
+        "date": "2026-03-18"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Play on the Go Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-18"
+      },
       {
         "title": "Humble Talk March 2026 Humble Choice Review ft. Tempest Rising, Chants of Sennaar and More!",
         "platform": "Humble Bundle",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-03-17"
+        "date": "2026-03-18"
       },
       {
         "title": "[Steam] Light Fairytale Trilogy Bundle ($11.88/53% off)",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-06"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Platinum Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-06"
       }
     ],
     "review": [
       {
+        "title": "【Dread Delusion：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Lovely Hellplaceというインディーデベロッパが開発を手掛けるPC向けのオープンワールドRPGは、非常に高い評価を得ています。このゲームは、イングランドのアーティストJames Wragg氏の個人スタジオが手掛けた作品で、先日コンソール版の発売が発表されました。Lovely Hellplaceの作品は、独自の世界観と深いストーリーが特徴で、プレイヤーはオープンワールドを自由に探索できま",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165141.html",
+        "date": "2026-03-18",
+        "is_translated": false
+      },
+      {
         "title": "【Starship Troopers: Ultimate Bug War!：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Auroch Digitalは3月17日、一人称シューター『Starship Troopers: Ultimate Bug War!』の配信を開始しました。このゲームは、人気SFシリーズ『星船トゥルーパーズ』をベースにしており、プレイヤーは地球連邦軍の兵士となり、巨大な虫のようなエイリアンと戦うことになります。ゲームのストーリーは、原作の小説や映画を踏まえながらも、新しい要素を取り入れた独自の展開",
+        "description": "Auroch Digitalは3月17日、一人称シューター『Starship Troopers: Ultimate Bug War!』の配信を開始しました。このゲームは、人気小説や映画シリーズ『Starship Troopers』をベースにしており、プレイヤーは強大な宇宙の敵と戦いながら、さまざまなミッションを遂行します。詳細なグラフィックスとスリリングなアクションが特徴の、このゲームは、一人称シ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,88 @@
         "is_translated": false
       },
       {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "昨日、裁判官はクラフトン氏が2025年にギル氏を不当に解雇したとの判決を下し、アンノウン・ワールドのCEOに復帰するよう命じた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-set-for-early-access-release-in-may-as-krafton-signals-surrender-we-look-forward-to-working-with-ted-gill-to-support-a-smooth-transition-and-work-toward-a-successful-launch/",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このゲームは、ローグライク デッキビルダーの主要な機能をすべて含んでおり、早期アクセスでのプレイ感覚はSlay the Spire 2とよく似ています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-early-access-features/",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Antec Flux Pro Noctua Edition：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Noctua のビルドに必要な唯一の言い訳。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/antec-flux-pro-noctua-edition-review/",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "やあ、裁判官がクラフトンに対し、『Subnautica 2』の開発者であるアンノウン・ワールドの元リーダーたちを同じポジションに戻すよう命じたとの知らせを聞いてから、まだ1日しか経っていないが、我々はここで『Subnautica 2』の最新情報をまとめてみることにしました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-day-after-unknown-worlds-ousted-ceo-gets-reinstated-subnautica-2-gets-an-early-access-release-date",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Going Medieval：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ついにその時がやってきました！中世を舞台にした、リムワールドに似た植民地シムおよび都市ビルダーゲーム「Going Medieval」で、中世に旅立つ時間がやって来ました。早期アクセス版を約5年間配布した後、ついにゲームのバージョン1.0がリリースされました。このゲームでは、プレイヤーは中世の厳しい環境の中で生き残り、繁栄するために村を築き、防衛します。ゲームのバージョン1.0には、新しい機能やコン",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-very-rimwold-esque-going-medieval-hits-10-today-after-almost-five-years-of-early-access",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
+        "title": "【スパイダーマン：ブランドの新しい：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ソニーとマーベルが共同で制作する、次のスパイダーマン映画の最初の予告編は3月18日に公開される予定ですが、主演のトム・ホランドはすでにティーザー映像を公開しています。この新作でスパイダーマンがどのような冒険に挑むのか、ファンの皆さんは大いに期待しています。最新のスパイダーマン映画シリーズは、トム・ホランドがタイトルキャラクターを演じ、世界中で大きな人気を博しています。新作のストーリーや登場人物につ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/spider-man-brand-new-day-trailer-date-first-look/",
+        "date": "2026-03-17",
+        "is_translated": true
+      },
+      {
         "title": "【GooNECT√2：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Phoenixxは3月16日、運命を共有するプレイヤー同士で協力して戦う、アクションゲーム『GooNECT√2』を発表しました。このゲームでは、プレイヤーは共同で様々な挑戦に立ち向かうことになります。『GooNECT√2』は、プレイヤー同士の協力と運命共同体を重視したゲームです。",
+        "description": "Phoenixxは3月16日、プレイヤー同士で協力して運命を共有する合作アクションゲーム『GooNECT√2』を発表しました。このゲームは、プレイヤーが一緒に挑戦し、協力して難しいステージを攻略することができます。ゲームの世界観はユニークで、プレイヤーは運命を共有することで、新しい能力や強力な攻撃を引き出せるようになります。『GooNECT√2』は、協力プレイを重視したゲームで、プレイヤー同士の絆",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,36 +327,10 @@
         "is_translated": false
       },
       {
-        "title": "【Timberborn：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Mechanistryは、3月13日に『Timberborn』を正式にリリースしました。このゲームは、過去最大級となる2万5000人を超えるSteam同時接続プレイヤーを獲得し、大きな成功を収めました。リリース当日、多くのプレイヤーがこのゲームに興味を示し、同時にプレイする人数が増えました。これは、Mechanistryがゲームファンから高い評価を受けていることを示しています。『Timberbor",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/timberborn-20260316-429643/",
-        "date": "2026-03-16",
-        "is_translated": false
-      },
-      {
-        "title": "新しいアップデートを先行して体験したい場合は、スケジュール 1 ベータ ブランチでゲームをプレイすることができます。ベータ ブランチでは、最新のアップデートを先行してプレイすることができ、ゲームの開発に貢献することができます。ただし、ベータ ブランチではバグや不具合が発生する可能性がありますので、注意が必要です。ベータ ブランチに切り替えることで、最新のアップデートを先行して体験することができます。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 上のブランチを交換することで、誰でもテスト ビルドに簡単にアクセスできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/schedule-1-beta-branch-update/",
-        "date": "2026-03-16",
-        "is_translated": true
-      },
-      {
         "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日はもうすぐ到来します。あなたの古い友人であるBlustery WindとChill In The Airも来ているようですが、期待はずれなものだと思います。あなたにはとても大きな可能性があり、もっと素晴らしいものを見せてくれることを期待しています。",
+        "description": "土曜日にはまた会いましょう。古い友人であるブラスティー・ウィンドとチル・イン・ザ・エアがやって来るようですね。私はあなたに、もっと良いことを期待しています。あなたは、2人があなたをがっかりさせるだけだと知っているのです。あなたにはとても大きな可能性があります。それでも、私はあなたの能力を信じています。土曜日には、どんな結果が待っているのか楽しみです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -273,22 +338,69 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-373",
         "date": "2026-03-14",
         "is_translated": true
-      },
-      {
-        "title": "【Slay The Spire 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ローグライク デッキビルダー Slay The Spire 2 は、様々なクラッシュ バグの修正や新しいカード アートの追加など、多くのアップデートを実施しながら、早期アクセスの旅を続けています。ゲーム ファイルの MOD を変更する方法も見直され、数多くの新しい機能が実装されています。このように、開発チームは不断の更新と改善に取り組み、プレイヤーに新たな体験を提供し続けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/latest-slay-the-spire-2-update-stops-you-having-over-a-billion-hp-while-tweaking-the-deckbuilders-mod-support",
-        "date": "2026-03-13",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "春のセール毎日フラッシュ ディール:RimWorld (-30%)、Bramble: The Mountain King (-88%)、DOOM: The Dark Ages (-72%)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "春のセール毎日フラッシュ ディールが始まりました。これは、熱心なゲーマーにとって大変な機会です。RimWorld、Bramble: The Mountain King、DOOM: The Dark Ages など、人気のゲームが大幅に値下げされています。 RimWorld は、プレイヤーが荒野で生き残るために、コロニーの管理と運営をします。コロニーのメンバーの関係や個性を考慮しながら、資源の管理や建物の建設など、様々な作業をします。ストーリーはランダムに生成されるため、プレイヤーには常に新しい体験が待っています。 Bramble: The Mountain King は、美しいグラフィックと不気味な雰囲気を持つアクションアドベンチャーゲームです。プレイヤーが異世界で探索し、様々な敵と戦い、パズルを解く必要があります。 DOOM: The Dark Ages は、人気のFPSシリーズ DOOM の新しい作品です。プレイヤーが地獄の軍団と戦い、様々な武器と能力を使用して勝利を目指します。 これらのゲームは、通常価格よりも大幅に安くなっています。ゲーマーには、春のセール毎日フラッシュ ディールを利用して、夢中になるゲームを見つける絶好の機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "[Steam] 1周年記念 |カイザーパンク ($17.99/ -40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、1周年記念として「カイザーパンク」が40%オフの特別セール中です。このタイトルは、サイバーパンク風の世界観とアクション要素を組み合わせたゲームです。プレイヤーは、未来的な都市を舞台に、様々なミッションを遂行し、強力な敵と戦い、己の存在を主張するという、ダイナミックなゲームプレイを体験できます。 「カイザーパンク」は、独自のゲームシステムとグラフィックスで、プレイヤーを新しい世界に引き込むことができます。サイバーパンクの雰囲気を味わいながら、ハイスピードなアクションとストーリーを楽しむことができます。 このセールは、1周年記念の特別企画として提供されています。興味のある方は、是非この機会に「カイザーパンク」をチェックしてみてください。40%オフの価格で、Steamで購入できます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "[Steam] The Ratline ($11.99 / 20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Ratline は、Steam でプレイできる、スリリングなアドベンチャーゲームです。このゲームでは、プレイヤーは暗くて不気味な世界を探索し、謎を解くためにさまざまなヒントやアイテムを集めなければなりません。20% オフの SPECIAL OFFER で、通常価格より安く $11.99 で購入できます。ゲームの世界観は、不気味な雰囲気を醸し出しており、プレイヤーを引き込む力があります。プレイヤーは、暗い場所を恐れずに、危険な状況を乗り越え、最終的な目標を達成するために、勇気と智恵を発揮する必要があります。The Ratline は、スリルと緊張感を求めるゲーマーにとって、最高の選択肢です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "Crimson Desert スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Crimson Desert スチームアクティベーションは、Steamプラットフォームで利用できる新たなゲーム体験です。このゲームは、広大な砂漠の世界を舞台に、冒険と戦闘が待っているアクションRPGです。プレイヤーは、独自のキャラクターを作成し、砂漠の危険な環境に挑み、強大な敵と戦います。 ゲームの特徴としては、美しいグラフィックとダイナミックな戦闘システムが挙げられます。プレイヤーは、様々な武器とスキルを使用して敵を倒し、自分だけの戦闘スタイルを開発できます。また、ゲームには、豊富なストーリーとキャラクターのバリエーションが用意されており、プレイヤーは自分だけの物語を体験できます。 Crimson Desert スチームアクティベーションは、Steamプラットフォームでのプレイを可能にするため、Steamの機能をフルに活用できます。プレイヤーは、Steamのフレンド機能を使用して友達と一緒にプレイしたり、Steamのコミュニティ機能を使用して他のプレイヤーと交流したりできます。さらに、Steamの成績システムとトロフィーも利用できます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "[ファナティカル]スプリングセールデイリーフラッシュセール: スナイパーエリート: レジスタンス(-56%)、ジ・オルターズ(-52%)、エール修道院 - 修道院の醸造所タイクーン(-50%)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "ファナティカルではスプリングセールデイリーフラッシュセールが開催中です。スナイパーエリートシリーズの最新作「スナイパーエリート: レジスタンス」や、伝説のRPG「ジ・オルターズ」、そして中世を舞台にした経営シミュレーションゲーム「エール修道院 - 修道院の醸造所タイクーン」が大幅に割引価格で提供されます。 「スナイパーエリート: レジスタンス」は、第二次世界大戦を舞台にしたスナイパーシューティングゲームで、56%の割引により非常に魅力的な価格で購入できます。ジ・オルターズは、52%割引で提供され、ファンタジーRPGファンにとっては見逃せない機会です。さらに、「エール修道院 - 修道院の醸造所タイクーン」は、50%の割引で販売中で、中世の修道院を舞台にしたユニークな醸造所経営の魅力を体験できます。 これらのタイトルはファナティカルのスプリングセールデイリーフラッシュセールで期間限定で提供されています。ゲームファンには、期間内にこれらの魅力的なゲームを手に入れる絶好の機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-18"
+      },
       {
         "title": "[Steam] One Hour One Life ($3.74 / 75% オフ)",
         "platform": "Steam",
@@ -299,18 +411,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-17"
-      },
-      {
-        "title": "[ファナティカル]スプリングセールデイリーフラッシュセール: スナイパーエリート: レジスタンス(-56%)、ジ・オルターズ(-52%)、エール修道院 - 修道院の醸造所タイクーン(-50%)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "ファナティカルでは、新しいスプリングセールが始まりました。スナイパーエリート: レジスタンス、ジ・オルターズ、エール修道院 - 修道院の醸造所タイクーンなどの人気ゲームが大幅な割引で提供されます。スナイパーエリート: レジスタンスは、戦場で戦うスナイパーの戦いを描くアクションゲームです。ジ・オルターズは、超能力を使いながらミッションを遂行するアクションアドベンチャーゲームです。エール修道院 - 修道院の醸造所タイクーンは、修道院を経営し、ビールの醸造に挑戦するシミュレーションゲームです。これらのゲームは、今回のスプリングセールでそれぞれ56%、52%、50%オフで提供されています。ファナティカルでは、日替わりで新しいゲームが割引されるため、毎日チェックする価値があります。ゲームファンには、見逃せないチャンスです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
         "date": "2026-03-17"
       },
       {
@@ -480,54 +580,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-15"
-      },
-      {
-        "title": "[ファナティカル] クリムゾンデザート (15% オフ - $59.49 / €59.49 / CA$76.49 / A$93.45)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "ファナティカルでは、クリムゾンデザートが15%オフで提供されています。通常价格より安い価格で、プレイヤーはこのアクションアドベンチャーゲームを楽しむことができます。クリムゾンデザートは、美しい砂漠の世界を舞台に、プレイヤーは冒険の旅に出ます。このゲームでは、プレイヤーはさまざまな敵と戦い、宝物を集め、秘密を解き明かすことができます。スリリングなアクションと興奮する冒険が待っています。クリムゾンデザートの魅力を体験するには、ファナティカルで今すぐ購入してください。通常価格より安い価格で、クリムゾンデザートの世界に飛び込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "[Steam] キャプテン オブ インダストリー ($24.49/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "キャプテン オブ インダストリーは、インダストリアルな世界を舞台にした経営シミュレーションゲームです。このゲームでは、プレイヤーは工場を運営し、さまざまな製品を生産して販売することで富を築きます。リソースの管理や労働者の管理、市場の動向を読むことが重要になります。また、テーマパークのような施設を建設して顧客を楽しませることもできます。ゲームの世界は細かく作られており、プレイヤーは自分の工場を自由に設計して運営することができます。キャプテン オブ インダストリーは、経営シミュレーションゲームのファンにはもちろん、ストラテジーゲームやサンドボックスゲームのファンにもおすすめです。現在、Steamで30%オフのキャンペーン中なので、これを機にプレイしてみるのはいかがでしょうか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "春のセール | STAR WARSシリーズやDragon Ageが激安に",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "春のセールが到来です。Steamでは人気シリーズ『STAR WARS』やファンタジーRPGの傑作『Dragon Age』が激安になりました。『STAR WARS』シリーズは、宇宙を舞台に繰り広げられる壮大なストーリーや、愛されるキャラクターなど、ファンの間で根強い人気を誇ります。一方、ドラゴンエイジシリーズは、深いストーリーとキャラクターの成長システムが特徴的であり、ファンタジーRPGファンにはたまらない選択肢です。 今回のセールでは、これらのシリーズのさまざまなタイトルが大幅に値下げされています。 STAR WARSシリーズの『STAR WARS：旧共和国』や『STAR WARS Jedi：フォールン・オーダー』、Dragon Ageシリーズの『ドラゴンエイジ：インクイジション』や『ドラゴンエイジII』などが激安価格で提供されます。さらに、シリーズ内の他のタイトルやDLCも割引対象になっています。 このセールは、STAR WARSやDragon Ageシリーズのファンにとっては夢のチャンスです。まだプレイしていないタイトルを試したり、コンプリートすべきシリーズを揃える機会です。また、シリーズに入りたいと思っているゲーマーにもピッタリの機会となります。セール期間中はSteamをチェックし、好きなゲームを手に入れてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "春のセール毎日フラッシュ セール: バイオハザード リメイク トリロジー (-67%)、スナイパー エリート V2 リマスター (-90%)、リベンジ オブ ザ サベージ プラネット (-60%)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "ファナティカルでは、春のセール毎日フラッシュ セールが開催中です。バイオハザード リメイク トリロジーが67%オフで提供されており、恐怖とスリルの世界に身を投じることができます。また、スナイパー エリート V2 リマスターが90%オフとなり、戦略的なスナイピングの楽しみを味わうことができます。さらに、リベンジ オブ ザ サベージ プラネットが60%オフで販売中であり、独創的なゲームプレイを体験することができます。多種多様なゲームが割引価格で提供されているので、是非この機会にチェックしてみてください。さまざまなジャンルの魅力的なゲームに迫って、ゲームの楽しみを存分に楽しむことができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-13"
       }
     ]
   },
@@ -585,5 +637,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17T12:47:37.117244"
+  "last_updated": "2026-03-18T02:35:02.302320"
 }

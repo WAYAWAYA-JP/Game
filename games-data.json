@@ -5,28 +5,40 @@
         "title": "Electrician Simulator - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "電気技師の役割を引き受けて、職業の基礎を学びましょう。顧客の家でコンセントの設置や老朽化した機器の修理、壊れた家電の組み立て、電球の交換、配線の敷設などを行います。電気の仕事は非常に重要なものですので、すべての作業を必ず2回確認して、安全を確保することが大切です。電気には確かに冗談が通用しません。",
+        "description": "電気技師の役割を引き受けて、職業の基礎を学びましょう。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設したりする仕事をします。電気の仕事はとても重要なので、すべてを必ず2回確認する必要があります。電気には冗談が通用しません。",
         "price": "無料",
         "originalPrice": "¥1,750",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
       },
       {
         "title": "『World of Warships』– Epic アニバーサリー橘パック - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Games Storeに本タイトルが登場してから5周年が経過したことを祝い、日本プレミアム駆逐艦1隻と、無期限迷彩「Epic」を手に入れましょう。長い間のご支持に感謝し、記念アイテムをプレゼントします。",
+        "description": "Epic Games Storeでの本タイトル発売から5周年を記念して、特別なアイテムをゲットしましょう。日本のプレミアム駆逐艦1隻と、無期限の「Epic」迷彩が手に入ります。",
         "price": "無料",
         "originalPrice": "¥2,754",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Very Positive Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-21"
+      },
       {
         "title": "Let's Learnシリーズ for PC",
         "platform": "Steam",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
       },
       {
         "title": "Let's Learn 日本語＆韓国語＆戦略ゲーム コレクション",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-03-12"
-      },
-      {
-        "title": "Frictional Games: Amnesia、SOMA、Penumbra",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-12"
       }
     ],
     "review": [
       {
+        "title": "【Hard West 2：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2022年8月にPC向けにリリースされ、高い評価を獲得したXCOM系の西部劇ターンベースストラテジーゲーム「Hard West 2」の続編が登場しました。新たにKlabaterとGood Shepherd Entertainmentが参入し、ゲームの新たな展開が期待されます。Hard West 2は、西部開拓時代を舞台に、プレイヤーがキャラクターを操作し、戦略的に戦闘を行います。ターンベースの戦闘",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165206.html",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
         "title": "【Find Matt’s Cats：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "個人開発者のMatt Roszak氏は、3月17日に2Dの宝探しクリッカー『Find Matt's Cats』をリリースしました。このゲームは、ユーザーが猫を探し出すというユニークなコンセプトで楽しみます。シンプルでアドベンチャーな要素を兼ね備えたこのゲームは、ユーザーに新しい体験を提供します。",
+        "description": "個人のゲーム開発者であるMatt Roszak氏が、3月17日に新しいゲーム『Find Matt's Cats』をリリースしました。このゲームは、2Dの宝探しクリッカーです。プレイヤーは、猫を探し出し、クリックすることでポイントを集めていきます。ゲームの開発は、Matt Roszak氏が一人で行っており、ゲームのアイデアやグラフィック、サウンドなどすべてを手がけています。『Find Matt's",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【紅の砂漠：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Pearl Abyssは3月20日、『紅の砂漠』を配信しました。このゲームはSteamでは同時接続プレイヤー数が23万人を超える盛況スタートとなり、多くのユーザーから注目を集めました。しかし、評価の面ではまだ伸び悩んでいる点もあります。ゲームの世界は、ユーザーが広大な砂漠を冒険することができ、独自の戦闘システムや美しいグラフィックも特徴です。しかしながら、一部のユーザーからは、ゲームのバランスや操",
+        "description": "Pearl Abyssは3月20日、『紅の砂漠』を配信した。このゲームはSteamでは同時接続プレイヤー数が23万人を超える盛況スタートとなり、大きな注目を集めた。しかし、評価の面ではまだ伸び悩んでいる点も見受けられる。多くのユーザーがこのゲームに興味を示しており、同時接続プレイヤー数の記録は大きな話題となった。一方で、評価の面では、ゲームの内容や操作性について、様々な意見が寄せられている。Pea",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +249,36 @@
         "is_translated": false
       },
       {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "この不条理にはいくつかのニュアンスがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-players-leave-over-9-000-negative-steam-reviews-in-one-day-over-a-card-nerf-that-hasnt-even-gone-live-yet-but-chinas-steam-restrictions-might-bear-some-of-the-blame/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
+        "title": "【クリムゾン・デザート：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamのレビューは賛否両論ですが、販売結果はその逆です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/pearl-abyss-announces-crimson-desert-has-sold-more-than-2-million-copies-in-less-than-24-hours-promises-to-work-to-make-improvements-quickly/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
         "title": "【Crimson Desert：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "この記事を読むには、LB ボタンと RB ボタンを同時に押し、次に LB ボタンを放します。次に、左スティックを押し込みながら、A ボタンをタップしてください。",
+        "description": "この記事を読むには、LBとRBの両方のボタンを押した後、LBを放してから左スティックを押し込み、Aボタンをタップしてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +304,7 @@
         "title": "【Fallout：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "New Vegas をまだプレイしたことがない場合、もう言い訳はできません。ファルアウト シリーズのファンであるなら、必ずおすすめしたいタイトルです。このゲームは、豊かなストーリーやキャラクター、そして広大なオープンワールドが特徴です。プレイヤーは、砂漠の中に佇むモハーベ砂漠を舞台に、様々なクエストやミッションを遂行し、OWNの運命を決定します。さまざまな派閥や登場人物との交流を通じて、プレイヤー",
+        "description": "New Vegas をまだプレイしたことがない場合、もう言い訳はできません。すでに発売から10年以上が経過していますが、このゲームは依然としてファンたちの支持を受けています。New Vegas では、モホーベ砂漠を舞台に、Vault 101 から旅立ったカウボーイが、さまざまなクエストやミッションを遂行します。このゲームは、オープンワールドの自由度の高さと、豊富なストーリーやキャラクター設定が特徴",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,10 +314,23 @@
         "is_translated": true
       },
       {
+        "title": "【Age of Empires：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "上司が長年にわたって私の仕事を評価するときは、通常、緊張しながらGoogleドキュメントの周りでカーソルが動く様子を見ているという形で行われます。彼らはこのとき、不要な情報を削除し、必要な詳細を追加する作業を行います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/as-soon-as-it-fired-up-hed-get-up-and-go-to-lunch-how-age-of-empires-developers-tested-mission-difficulty",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
         "title": "【Steam Deck：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "SteamOS 3.8.0 のアップデートが現在プレビュー ブランチで利用可能になりました。このアップデートでは、今後の Steam Machine ハードウェアの初期サポートが初めて提供されます。ただし、これはまだ初期段階であり、様々な機能が順次追加されることが予想されます。SteamOS 3.8.0 は、Steam Machine ハードウェアのサポートを向上させると同時に、ユーザーエクスペリ",
+        "description": "SteamOS 3.8.0 アップデートは現在、プレビュー ブランチで試すことができ、将来の Steam Machine ハードウェアの最初のサポートを提供します。これは、Steam Machine 用の新しいハードウェアがリリースされるための準備段階です。アップデートにより、Steam Machine の新しいハードウェアをサポートするために必要な基本的な機能が実装されます。アップデートの詳細に",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +343,7 @@
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Subnautica 2』が5月の早期アクセスリリースを目指していることが内部メモで明らかになったが、予定通り進むとは限らない。ゲームの開発は予測不可能な要素が多く、予定通りに進むとは限らないからだ。開発中のゲームは、予定と異なることが多いのが現実だ。『Subnautica 2』もその例外ではない。早期アクセスリリースの予定が立てられているが、実際のリリースは予定と異なるかもしれない。ゲームファ",
+        "description": "『Subnautica 2』が5月に早期アクセスリリースを目指していることが内部メモで明らかになりましたが、その予定が順調に進むとは限らない状況です。ゲームの開発は予想通りに進むことは少ないので、このような予定の変更は珍しくありません。しかし、ファンの間では『Subnautica 2』の早期アクセスリリースが大いに期待されており、開発の進捗状況に注目が集まっています。ゲームの世界観や新しい機能が発",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,10 +353,23 @@
         "is_translated": true
       },
       {
+        "title": "【Expedition 33：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Sandfall Interactive はゲームの結果に大胆な賭けをしましたが、フランスのスタジオの誰もこの RPG が Metacritic スコア 92 に達するとは信じていませんでした。Sandfall Interactive は、自社のゲームに大きな期待を寄せていたのですが、フランスの開発スタジオのスタッフは、 Metacritic スコアが 92 になることを想像していませんでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/expedition-33-devs-metacritic-review-score-bets/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
         "title": "【Dark Scrolls：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Devolver Digitalは3月19日、doinksoftが開発した横スクロールアクションゲーム『Dark Scrolls』を発表しました。本作は、『Gunbrella』などを手がけたdoinksoftの新作であり、同スタジオのファンにはとても注目される作品です。doinksoftはこれまでに多くのヒット作を輩出し、ゲームファンの間で高い評価を得ています。『Dark Scrolls』も同様に",
+        "description": "Devolver Digitalは3月19日、doinksoftが開発した横スクロールアクションゲーム『Dark Scrolls』を発表しました。本作は、『Gunbrella』などの作品を手がけたdoinksoftの最新作であり、期待が高まっています。『Dark Scrolls』は、プレイヤーが様々なステージを駆け抜けながら、様々な敵と戦い、ボスを倒して進めていく、クラシックな横スクロールアクショ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,23 +379,10 @@
         "is_translated": false
       },
       {
-        "title": "2022 年で最も注目されなかった RPG の続編が来月、早期アクセスでリリースされることになりました。しかし、待つ必要はありません。大規模な更新が施されたデモバージョンを今すぐプレイすることができます。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ダイヤモンドハンドの動きを長い間待っていました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-sequel-to-the-most-underrated-rpg-of-2022-is-launching-in-early-access-next-month-but-you-can-try-its-massive-updated-demo-right-now/",
-        "date": "2026-03-19",
-        "is_translated": true
-      },
-      {
         "title": "【Crimson Desert：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "RPS 100 に登場するゲームは、まるで血の飛沫のように四方八方に散らばっています。そこで、コンセンサスや RPS ツリーハウスなどの言葉が浮かぶことはありません。しかし、私たちがオープンワールドでプレイしてきた中では、意外な共通点が見つかります。コンセンサスとは、ゲームの評価における総意や共通認識を指します。一方、RPS ツリーハウスは、ロック・ペーパー・スクissors のようなゲームの世界",
+        "description": "「コンセンサス」と「RPS ツリーハウス」という言葉は、通常、無関係なものです。新しい RPS 100 の中で散らばる血の飛沫からも、それがわかります。しかし、私たちがオープンワールドでプレイしてきた経験からすると、これら二つの要素は実は密接に結びついているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -343,7 +395,7 @@
         "title": "【Moves of the Diamond Hand：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Cosmo D の魅力的なジャズ ノワール RPG、Moves Of The Diamond Hand は、4 月 13 日に Steam で早期アクセスを開始します。この作品は、夢中になれるほどの魅力的な世界を提供しており、プレイヤーはその世界に引き込まれること間違いありません。早期アクセスでは、開発チームはユーザーのフィードバックを収集し、ゲームをさらに充実させる予定です。 Moves Of",
+        "description": "ジャズノワールRPGの「Moves Of The Diamond Hand」は、Cosmo Dが夢中になれるような作品です。この魅力的なゲームは、4月13日にSteamで早期アクセスを開始します。私たちの休暇の計画については気にしないでください。このゲームは、ユーザーがジャズノワールの世界に没頭できるように設計されています。Steamでの早期アクセス開始により、より多くのユーザーがこのゲームを体験",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -358,49 +410,61 @@
         "title": "[Steam] 2026 スプリングセール",
         "platform": "Steam",
         "type": "sale",
-        "description": "2026 年の春、Steam では大規模なセールが開催されます。様々なジャンルのゲームが大幅に値下げされ、ゲーマーの皆さんに大いに喜ばれること間違いなしです。アクションゲームからアドベンチャーゲーム、ロールプレイングゲームまで、どのジャンルも網羅しており、お気に入りのゲームを見つけることができるでしょう。 セール中は、通常価格よりも大幅に安くなったゲームを購入することができます。また、バンドル商品やダウンロードコンテンツも含めて、値下げ対象ゲームが多数用意されています。Steam のライブラリをさらに充実させるのに最適な機会です。 さらに、Steam ではセール中限定の特典も用意されています。特定のゲームを購入すると、無料のアイテムやインゲームアイテムをゲットできるなど、魅力的な特典が多数あります。セールに参加することで、新しいゲームを発見したり、好みのゲームを安価で入手したりすることができます。 2026 スプリングセールでは、ゲーマーの皆さんに新しいゲーム体験を提供することを目指しています。様々なゲームが安価で提供されるため、好みのゲームを見つけることができ、Steam ライブラリを拡大することができます。ぜひ、このセールを利用して、新しいゲームの世界を探索してみてください。",
+        "description": "Steam 2026 スプリングセールは、待望のゲームセールイベントです。このイベントでは、様々なジャンルのゲームが大幅に割引されるため、ゲーマーにとっては絶好の機会です。アクションゲームからロールプレイングゲームまで、さまざまなジャンルのゲームがラインナップされており、プレイヤーは自分好みのゲームを見つけることができます。 このセールでは、人気ゲームや新作ゲームが多数割引されています。最新のグラフィックスや革新的なゲームプレイを体験したい場合は、新作ゲームをチェックしてみると良いでしょう。他にも、過去の名作ゲームが割引されているので、古典的なゲームをプレイしたい場合はこちらをチェックしてください。 Steam 2026 スプリングセールは、ゲームファンにとって大きな楽しみです。様々なゲームが割引されるので、新しいゲームを見つけることができ、ゲームライブラリーを充実させることができます。セール期間中にゲームを購入すると、割引価格で遊ぶことができるので、大きなお得になるでしょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
+      },
+      {
+        "title": "[Steam] 探偵ドットソン ($4.04 / 70% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "探偵ドットソンは、魅力的でユニークなゲームです。このゲームでは、プレイヤーは探偵の役割を演じ、様々なミステリーを解決します。探偵ドットソンは、70% オフの特売中で、通常価格より大幅に割引されています。Steam で本作を購入することで、プレイヤーは、様々な謎を解き明かすために、頭脳と探偵スキルを駆使することができます。探偵ドットソンは、ミステリーとアクションを融合させた、独自のゲーム体験を提供します。プレイヤーは、さまざまなヒントを集め、事件を解決するために、探偵の能力をフルに活用する必要があります。steam で購入することで、プレイヤーはこの魅力的で刺激的なゲームを体験することができ、探偵ドットソンという名の探偵とともに、様々な事件を解決することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-21"
       },
       {
         "title": "【Steam】レトロラリー！ (80% オフ/0.59 ドル)",
         "platform": "Steam",
         "type": "sale",
-        "description": "レトロラリー！は、懐かしいレトロゲームの世界を体験できる、クラシックなゲームです。80% オフの特価で提供され、現在は0.59ドルで購入できます。この魅力的なゲームは、往年のゲーム機の雰囲気を再現し、プレイヤーを過去のワールドに連れて行きます。レトロラリー！では、レトロゲームのファンが懐かしいキャラクターとグラフィックを楽しむことができます。また、シンプルながらも魅力的なゲーム性は、初心者から上級者まで幅広い層のプレイヤーを楽しませることができます。レトロラリー！をプレイすることで、昔ながらのゲームの面白さを体験することができ、現代のゲームとは異なる、新たな楽しみを探しているゲーマーにはぴったりの選択です。",
+        "description": "Steamプラットフォームで行われている「レトロラリー！」のセールは、ゲームファンにとって大きなお祭りです。通常価格から80%オフになるこのセールで、ゲームを0.59ドルで入手することができます。これは、レトロゲームの魅力を体験したいユーザーにとって、絶好の機会です。 レトロラリー！は、懐かしいクラシックなゲームの雰囲気を現代に蘇らせた作品です。懐かしいグラフィックやサウンド、そしてシンプルながらも深いゲーム性が特色です。ユーザーは、往年のゲームセンターのような雰囲気を体験することができます。レトロゲームが好きなユーザーはもちろん、クラシックなゲームに興味のある人にもお勧めです。 このセールは、ゲームの魅力を初めて体験するユーザーや、レトロゲームコレクターにとっては素敵な機会です。限定時間の中に、レトロラリー！を0.59ドルで入手することができます。Steamユーザーには、ゲームライブラリーを充実させる絶好のチャンスです。セール期間中、レトロラリー！をチェックして、レトロゲームの世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "[Steam] ブラジルの麻薬ディーラー 3: ミット アイアを復活させようとしてファベーラで地獄へのポータルを開いたので閉じなければなりません (3.45$ / 31% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで現在進行中のセールでは、ブラジルの麻薬ディーラー3が31%オフで販売されています。このゲームでは、ミットアイアを復活させようとしてファベーラで地獄へのポータルを開いてしまったため、それを閉じることが必要です。プレイヤーは、危険な麻薬ディーラーの世界を舞台に、スリルと冒険が待っているファベーラのストリートを駆け抜けます。地獄へのポータルを閉じるために、ミットアイアの復活を阻止することがプレイヤーの使命です。このゲームは、リアルなグラフィックと緊張感のあるサウンドトラックで、プレイヤーをブラジルの暗黒街に引き込みます。31%オフのこの魅力的な価格で、ブラジルの麻薬ディーラー3を体験してみませんか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
       },
       {
         "title": "[Steam] ヒーローズ万歳サバイバーズ (80% オフ / €0.99)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamで提供されている「ヒーローズ万歳サバイバーズ」は、現在80%オフの特別セール中です。通常価格よりも大幅に割引された€0.99での購入が可能です。このゲームは、サバイバル要素とヒーローものの独特な組み合わせが特徴で、プレイヤーはさまざまなチャレンジを克服しながら、自分だけのヒーローを育てていきます。アクションと戦略のバランスが取れたゲームプレイを提供し、様々なステージやミッションをこなしていくことで、プレイヤーのスキルも向上します。加えて、グラフィックやサウンドトラックも、ゲームの世界観に合った素敵な仕上がりになっています。限られた時間ですが、€0.99という安価でこの魅力的なゲームを体験することができ、ヒーローとしての活躍を始めることができるでしょう。",
+        "description": "新たな冒険が待っています。ヒーローズ万歳サバイバーズは、ユニークなゲーム性を提供する、アクションアドベンチャーゲームです。このゲームでは、プレイヤーは、さまざまなヒーローを操作して、危険な環境を生き残り、強力な敵を倒す必要があります。さまざまなヒーローから選択でき、各ヒーローには独自の能力と強みがあるため、戦略的にプレイする必要があります。また、ゲームには、さまざまなステージやボスが用意されており、挑戦するたびに、新たな要素が追加されていきます。さらに、グラフィックやサウンドトラックも、ゲームの雰囲気を高めており、プレイヤーを引き込む力があります。現在、Steamで80%オフの特別セール中ですので、ぜひこの機会にチェックしてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-20"
+        "date": "2026-03-21"
+      },
+      {
+        "title": "[Steam] ブラジルの麻薬ディーラー 3: ミット アイアを復活させようとしてファベーラで地獄へのポータルを開いたので閉じなければなりません (3.45$ / 31% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ブラジルの麻薬ディーラー3は、ミットアイアを復活させようとしてファベーラで地獄へのポータルを開いてしまったため、閉じなければなりません。このゲームでは、プレイヤーはブラジルの貧困街であるファベーラを舞台に、麻薬ディーラーとして生き残りながら、地獄へのポータルを閉じるために戦い続けなければなりません。ブラジルの文化や社会問題をテーマとしたこのゲームは、ユニークな設定とストーリーでプレイヤーを魅了します。Steamプラットフォームで販売中のこのゲームは、現在31%オフの3.45ドルで購入できます。地獄へのポータルを閉じるために、プレイヤーは様々なチャレンジに直面し、戦略とスキルを駆使して生き残る必要があります。ブラジルの麻薬ディーラー3は、興奮とスリルのあるゲーム体験を提供するので、ゲーマーにはお勧めのゲームです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-21"
       },
       {
         "title": "[Steam] Space Menace 2 ($5.99 / 40% オフ)",
@@ -581,18 +645,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-17"
-      },
-      {
-        "title": "[Steam] SYNDUALITY Echo of Ada ($1.99 / 95% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam プラットフォームで提供されている SYNDUALITY Echo of Ada は、現在 95% オフという特別なセール価格で提供されています。通常価格から大幅に値下げされたこのタイトルは、ゲームファンにとって見逃せない機会です。このゲームは、SYNDUALITY シリーズの一つとして知られており、Echo of Ada では、プレイヤーは新たなストーリーやキャラクターと出会うことができます。 SYNDUALITY Echo of Ada は、独自のゲームシステムと美しいグラフィックで知られており、プレイヤーを引き込むようなゲーム体験を提供します。ゲームの世界は、未来的な要素とアクション要素が融合したもので、プレイヤーはさまざまなミッションをこなしながら、キャラクターの能力を上達させていくことができます。 このセール価格で SYNDUALITY Echo of Ada を手に入れることで、ゲームファンは独自のゲーム体験を楽しむことができます。通常価格の 1/20 に相当する $1.99 は、ゲームの質と楽しさを考えると非常に魅力的です。セール期間は限定されているため、興味がある場合はすぐに購入することをお勧めします。Steam プラットフォームで SYNDUALITY Echo of Ada をチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-17"
       }
     ]
   },
@@ -650,5 +702,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-20T12:38:01.196626"
+  "last_updated": "2026-03-21T02:23:00.233483"
 }

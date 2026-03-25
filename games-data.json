@@ -5,25 +5,25 @@
         "title": "Electrician Simulator - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "電気技師の役割を引き受けて、職業の基礎を学びましょう。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設したりします。電気の仕事は非常に重要なので、すべての作業を必ず2回確認する必要があります。電気には冗談は通用しないので、細心の注意を払って仕事を進めましょう。",
+        "description": "電気技師の役割を引き受けて、職業の基礎を学びましょう。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設します。作業は慎重に進め、全てを2回確認する必要があります。電気は扱い方を間違えると危険なので、特に注意が必要です。",
         "price": "無料",
         "originalPrice": "¥1,750",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-24"
+        "date": "2026-03-25"
       },
       {
         "title": "『World of Warships』– Epic アニバーサリー橘パック - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Games Storeでの本タイトル発売から5周年を記念して、日本のプレミアム駆逐艦1隻と無期限の迷彩「Epic」を入手することができます。",
+        "description": "「Epic Games Store」に本タイトルが登場してから5周年が経過したことを祝い、日本プレミアム駆逐艦1隻と、無期限迷彩「Epic」を入手できます。",
         "price": "無料",
         "originalPrice": "¥2,754",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-24"
+        "date": "2026-03-25"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-24"
+        "date": "2026-03-25"
       },
       {
         "title": "Build Your Own Very Positive Bundle",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【デアデビル ボーン・アゲイン：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "デアデビル: ボーン・アゲイン シーズン 2 は、最終回の混乱を招く展開にもかかわらず、トランプ政権に対する批判的な物語をさらに深く掘り下げています。シーズン 2 では、主人公マット・マードックが、街を支配しようとする悪の組織と対決する姿が描かれています。さらに、トランプ政権の政策や思想に対する批判が、物語の中で繰り返し表現されています。主人公の仲間や敵として登場するキャラクターも、トランプ支持者",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/daredevil-born-again-season-2-review/",
+        "date": "2026-03-25",
+        "is_translated": true
+      },
+      {
         "title": "【RUBATO：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "dconnは3月20日、2Dプラットフォームアクションゲーム『RUBATO』の配信を開始しました。このゲームは、プレイヤーが様々なステージを横スクロールしながら、障害物を避けながらゴールを目指す、クラシックな2Dアクションゲームの要素を備えています。美しいグラフィックと、心地よいサウンドトラックが特徴的なこのゲームは、2Dアクションゲームファンには必ず魅了されるでしょう。",
+        "description": "dconnは3月20日、2Dプラットフォームアクションゲーム『RUBATO』の配信を開始しました。このゲームは、ユーザーに新しいゲーム体験を提供することを目的としています。『RUBATO』では、プレイヤーはさまざまなステージをクリアしながら、キャラクターの能力をアップグレードして、ゲームを進めていきます。ゲームのグラフィックやサウンドトラックも、ユーザーのゲーム体験を高めるために充実しています。ゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【紅の砂漠：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "アップデートの甲斐あってか、ゲームは「やや好評」のステータスまで回復しています。",
+        "description": "アップデートの甲斐あってか、ゲームの評判は「やや好評」まで持ち直している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,41 +249,41 @@
         "is_translated": false
       },
       {
-        "title": "【Hyperkin：レビュー】",
+        "title": "【マラソンの振り返り：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ホームフィールドでプレイする場合、最大限のアドバンテージを得ることができますが、アウェイゲームの場合は、その強さが劣る可能性があります。",
+        "description": "Bungie のような FPS をプレイしたことがある人なら、必ず思い出させることになるでしょう。FPS の王道を体験したことがある人なら、自信を持って思い出すことができるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/game-pads/hyperkin-competitor-review/",
+        "url": "https://www.pcgamer.com/games/fps/marathon-review/",
         "date": "2026-03-24",
         "is_translated": true
       },
       {
-        "title": "【愚者の宴：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【EverQuest Legends：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ペンと紙を準備してください。",
+        "description": "2026 年、新たなエバークエストの時代が到来しようとしています。今日発表された EverQuest Legends は、30 年間にわたって愛されてきた同様の MMO です。多くのゲーマーが EverQuest を長年にわたってプレイしてきたため、EverQuest Legends も同様の魅力を持っています。EverQuest Legends は、新しい世代のゲーマーにも楽しく、そしてオリジナ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/banquet-for-fools-review/",
+        "url": "https://www.rockpapershotgun.com/everquest-legends-is-the-1999-mmo-you-know-and-love-born-again-with-more-respect-for-your-time",
         "date": "2026-03-24",
         "is_translated": true
       },
       {
-        "title": "【AA ディープカット：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【It Has My Face：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Mars War Logsは驚くべきものではありませんが、調査する価値があることは間違いありません。",
+        "description": "ローグライトのクローン刺しであるIt Has My Faceは、驚くほど効果的なパラノイアを生み出すゲームです。このゲームは今月、早期アクセスから外れ、Steamニュースの更新によって2026年4月3日に1.0がリリースされることが確認されました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/i-felt-like-playing-a-janky-choice-driven-rpg-on-my-steam-deck-and-this-gritty-aa-deepcut-is-hitting-the-spot-for-just-99-cents/",
+        "url": "https://www.rockpapershotgun.com/it-has-my-face-my-favourite-sci-fi-assassination-sim-about-being-stalked-by-a-clone-of-yourself-has-a-10-release-date",
         "date": "2026-03-24",
         "is_translated": true
       },
@@ -278,7 +291,7 @@
         "title": "【サカつく2026：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『プロサッカークラブをつくろう！2026』を3か月間毎日プレイし続けるという挑戦の日記の第4回目です。",
+        "description": "『プロサッカークラブをつくろう！2026』を3か月間ひたすらプレイし続ける日記の第4回目です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +304,7 @@
         "title": "【Million Depth：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "PLAYISMは3月23日、『Million Depth』の大型アップデートVer.2.0を配信開始しました。このアップデートでは、様々な新機能や改良点が盛り込まれており、プレイヤーにとってより楽しむことができるコンテンツが追加されています。新しいアップデートで、『Million Depth』の世界はさらに一層豊かになり、プレイヤーは新たな冒険に挑戦できるようになります。アップデートの詳細は、公式",
+        "description": "PLAYISMは3月23日、『Million Depth』の大型アップデートVer.2.0を配信開始しました。このアップデートでは、ゲームの内容が大幅に強化され、新しい機能や要素が追加されています。ユーザーは今すぐこのアップデートを適用することで、『Million Depth』の新しい世界を体験できます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +317,7 @@
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Slay the Spire 2 は現在、早期アクセス中のゲームです。これは、ゲームに多くの変更が加えられる可能性があることを意味します。最も重要な点は、現在の変更は必ずしも最終的なものではなく、ゲームのバランスや要素を調整するためのテストであることを示しています。早期アクセス中ということは、開発チームはまだゲームを改善し、ユーザーのフィードバックを収集している最中です。ゲームが最終的な形になるま",
+        "description": "Slay the Spire 2は現在、早期アクセス中のゲームです。これは、行われた変更が必ずしも最終的なものではなく、単なる追加のテストであることを意味します。早期アクセス中ということは、開発チームがゲームのバランスや新しい機能を試験的に導入し、ユーザーのフィードバックを集めながら、ゲームを完成させるための重要なプロセスを経ていることを示しています。早期アクセス中のゲームであるため、開発チームは",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -312,70 +325,68 @@
         "url": "https://www.rockpapershotgun.com/this-progress-will-not-be-linear-mega-crit-outline-their-patching-process-for-slay-the-spire-2-after-ruffling-some-feathers",
         "date": "2026-03-21",
         "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週末、田舎の家族のところへ自転車で出かけるとき、太陽が晴れてくれないか心から願っています。しかし、雨に濡れて到着することは避けたいと思っています。確かに、雨の中を自転車で走ると、到着してみると体中ずぶ濡れになってしまいます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-374",
-        "date": "2026-03-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Age of Empires：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "上司が私の仕事を評価する際は、Google ドキュメントのカーソルが動く様子を見ながら行われます。緊張感を感じつつ、上司が必要な情報を追加したり、必要のない情報を削除したりする様子を確認します。上司の細かい指示に従い、ドキュメントを完成させていくプロセスは、仕事に没頭する私にとって、毎年行われる重要なイベントです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-soon-as-it-fired-up-hed-get-up-and-go-to-lunch-how-age-of-empires-developers-tested-mission-difficulty",
-        "date": "2026-03-20",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "Hooded Horse パブリッシャーセール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Hooded Horse パブリッシャーセールは、様々なジャンルの魅力的なゲームを取り揃えたセールです。Steam 上で開催されているこのセールでは、Hooded Horse が配信している様々なタイトルが特価で提供されています。戦略シミュレーション、ロールプレイングゲーム、またはアクションアドベンチャーなど、多種多様なゲームが勢揃いしています。 このセールでは、Hooded Horse の代表的なタイトルから、新作まで幅広いラインナップを堪能することができます。各ゲームは独自の世界観とゲームプレイスタイルを備えており、ゲーマーにとって新しい発見と楽しみを提供します。此れらのゲームは、グラフィックやサウンドデザインにもこだわり、immersiveな体験を求めるゲーマーにもおすすめです。 Hooded Horse パブリッシャーセールは、ゲームファンにとって大変貴重な機会です。様々なジャンルのゲームを一つのセールで体験できることは、ゲーマーにとって大きな楽しみです。セール期間中、Hooded Horse のゲームをチェックし、新しいお気に入りのゲームを見つけてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-24"
-      },
-      {
-        "title": "スプリング セール - ピーク / エルダー スクロールズ オンライン / ジャックボックス パーティー パック 7",
+        "title": "スプリング セール Dredge Evil Genius 2 Stray",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "fanaticalのスプリング セールは、待ちに待ったイベントです。ピークやエルダー スクロールズ オンライン、ジャックボックス パーティー パック 7などの魅力的なタイトルが勢揃いしています。ピークは、美しいグラフィックと心地良いサウンドトラックで、プレイヤーを癒します。エルダー スクロールズ オンラインは、巨大なオープンワールドで、自由に冒険することができます。ジャックボックス パーティー パック 7は、友達と一緒に楽しめる、パーティーゲームのコレクションです。このスプリング セールでは、さまざまなジャンルのゲームが勢揃いしていますので、ゲーマーには夢のようです。fanaticalのスプリング セールは、ゲーム好きにはmissしないはずです。",
+        "description": "Fanaticalのスプリングセールでは、様々な注目作品が大幅割引で提供されています。まず、深海の底で未知の生物を捕獲する「Dredge」は、海洋探検ゲームファンにとって必プレイのタイトルです。次に、「Evil Genius 2」では、悪の天才となって悪の組織を築き、世界を支配しようとします。悪の組織を運営するための戦略と管理が楽しめる、このユニークなゲームは、悪の天才を目指すゲーマーに特におすすめです。また、猫の目線で見た世界を冒険する「Stray」は、美しいグラフィックと独特のゲーム性で、プレイヤーを魅了します。Fanaticalのスプリングセールでは、これらの作品をはじめ、多数のゲームが割引価格で提供されています。ゲーマーには、見逃せないチャンスです。ぜひ、Fanaticalをチェックして、ご自身にぴったりのゲームを見つけてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-24"
+        "date": "2026-03-25"
       },
       {
-        "title": "[Steam] One Rotten Oath - Steam スプリング セール 2026 (-20% / $5.59)",
+        "title": "[Steam] アリタナとハーピーの羽根 (50% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam スプリング セール 2026 で、注目されるゲーム [\"One Rotten Oath\"](https://store.steampowered.com/app/2128440/One_Rotten_Oath/) が 20% オフで提供されます。このゲームは、ユニークなゲームプレイと魅力的なグラフィックで、プレイヤーを引き付けています。プレイヤーは、さまざまなステージをクリアしながら、キャラクターを成長させたり、さまざまなアイテムを集めたりすることができます。ゲームの世界は、ユーモアとアクションで溢れており、プレイヤーは楽しい時間を過ごすことができるでしょう。また、ゲームの難易度は、初心者から上級者まで幅広いプレイヤーに適しています。Steam スプリング セール 2026 で、この魅力的なゲームを 5.59 ドルで入手することができます。",
+        "description": "アリタナとハーピーの羽根は、まさにあなたの心を掴むような、ファンタジー世界を舞台にしたアクションアドベンチャーゲームです。この魅力的なゲームでは、主人公アリタナが、ハーピーの羽根を手に入れるために、様々な難題や強敌との戦いを乗り越えるという、壮大な冒険のストーリーを体験します。美しいグラフィックと、ダイナミックなアクションが融合したこのゲームは、プレイヤーを想像の世界に引き込むことができます。 アリタナとハーピーの羽根では、様々な魔法や特殊能力を使用して、敵を倒し、謎を解くことができます。さらに、ゲーム中では、様々なアイテムやキャラクターとの出会いを通じて、ストーリーが深化していきます。50% オフのこのチャンスは、ゲームファンにとって見逃せない機会です。アリタナとハーピーの羽根を今すぐ Steam でダウンロードして、奇跡の世界での冒険を開始しましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-24"
+        "date": "2026-03-25"
+      },
+      {
+        "title": "Hooded Horse パブリッシャーセール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Hooded Horse パブリッシャーセールは、Steamユーザーにとって大変な注目度の高いイベントです。このセールでは、Hooded Horseがパブリッシュしている様々なジャンルのゲームが大幅に割引されます。ファンタジー、SF、戦略、シミュレーションなど、多種多様なゲームがラインナップされており、ユーザーは自分の好みに合ったゲームを見つけることができます。さらに、Hooded Horseは新作ゲームの発表にも積極的に取り組んでおり、最新のゲーム情報もこのセールで入手することができます。セール中はSteamストアでHooded Horseのページをチェックして、気になるゲームを探すことができます。割引率も高く、コストパフォーマンスの高いゲーム体験を楽しむことができます。Hooded Horse パブリッシャーセールは、ゲーム好きの方には必見のイベントです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "スプリング セール ピーク エルダー スクロールズ オンライン ジャックボックス パーティー パック 7",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Fanaticalでのスプリング セール ピークでは、エルダー スクロールズ オンライン ジャックボックス パーティー パック 7を大幅に割引価格で購入できます。エルダー スクロールズ オンラインは、人気のオープンワールド RPG シリーズ「エルダー スクロールズ」のオンライン版で、多くのプレイヤーが共に冒険できる楽しみを提供します。 ジャックボックス パーティー パック 7には、様々なアイテムやボーナスが含まれており、ゲーム内での強化やカスタマイズに役立ちます。パーティーを組んで友人と一緒に探索したり、オンラインコミュニティで他のプレイヤーと交流したりすることができます。 このパックは、エルダー スクロールズ オンラインをより楽しむためのアイテムや機能を多数搭載しており、すでにゲームをプレイしているファンにはもちろん、新規プレイヤーにとっても魅力的です。スプリング セール ピーク期间中、ファナティカルでの購入はお勧めです。エルダー スクロールズ オンラインの魅力を存分に体験できるこのパックを今すぐお求めください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "[Steam] One Rotten Oath - Steam スプリング セール 2026 (-20% / $5.59)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam スプリング セール 2026では、注目すべきタイトル「One Rotten Oath」が20%オフでの提供です。このゲームは、ユニークな世界観とキャラクター、そして深いストーリーを体験できる作品です。プレイヤーは、さまざまな選択肢を選びながらキャラクターを成長させ、ストーリーを進めていきます。ゲームのグラフィックは、独特のアートスタイルで描かれており、魅力的です。サウンドトラックも、ゲームの雰囲気を高めるのに役立ちます。Steam スプリング セール 2026期間中は、通常価格よりも20%割引された5.59ドルでの提供です。この機会に、「One Rotten Oath」をチェックしてみてください。ゲームの魅力を体験し、楽しい時間を過ごしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-25"
       },
       {
         "title": "[Steam] 間違いなく卑劣だが卑劣ではない ($1.24 / 75% オフ)",
@@ -556,30 +567,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-21"
-      },
-      {
-        "title": "[Newegg] Marvel's Spider-Man 2 - PC [Steam デジタル コード] - コード EPF4244 付き (45% オフ / $32.99)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で配信中の「Marvel's Spider-Man 2」は、スパイダーマンの新しい冒険を体験できるアクションアドベンチャーゲームです。このゲームでは、ニューヨーク市を舞台に、スパイダーマンとして様々な悪者と戦い、市民を守ります。ゲームのグラフィックは非常にリアルで、スパイダーマンの Webb スリングアクションも忠実に再現されています。 このゲームの特徴として、スパイダーマンの能力をアップグレードすることができます。様々なスキルやアビリティを解放して、戦闘や探索をより効率的に行うことができます。また、ゲームには豊富なストーリーとキャラクターが用意されており、スパイダーマンの世界に没頭することができます。 現在、Newegg で 45% オフのセールが行われており、通常価格より大幅に安く「Marvel's Spider-Man 2」をプレイすることができます。Steam デジタル コードが配布されるため、すぐにゲームをダウンロードして開始することができます。スパイダーマンのファンやアクションアドベンチャーゲームを楽しむ方には、決して逃すべきではない機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-21"
-      },
-      {
-        "title": "[Steam] 2026 スプリングセール",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "2026 スプリングセールは、ゲームファンにとって大変な楽しいイベントです。Steam プラットフォームでのこのセールでは、様々なジャンルのゲームが大幅に割引されるため、欲しかったゲームを手に入れる絶好の機会です。アクションゲーム、ロールプレイングゲーム、ストラテジーゲームなど、多様なジャンルのゲームが集まり、ゲーマーは新しい体験を楽しむことができます。 セール中は、人気のゲームや、隠れた名作が大量に割引されるため、ゲームの世界をより奥深く楽しむことができます。さらに、Steam のコミュニティ機能を活用して、友達と一緒にゲームをプレイしたり、レビューを読んで次に遊ぶゲームを探したりすることもできます。 このセールは、ゲーム好きなら外すことができないイベントです。新しいゲームを探したり、既存のゲームコレクションを充実させる機会を逃さないでください。Steam の 2026 スプリングセールで、ゲームの楽しみをさらに高めてみましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-21"
       }
     ]
   },
@@ -637,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-24T12:50:05.346304"
+  "last_updated": "2026-03-25T02:34:09.416735"
 }

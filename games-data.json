@@ -2,31 +2,43 @@
   "pc": {
     "free": [
       {
-        "title": "Electrician Simulator - Epic Games 無料配布中",
+        "title": "Hyper Echelon - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "電気技師の役割を引き受けて、職業の基礎を学びましょう。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設したりします。すべての作業について、必ず2回確認する必要があります。電気には冗談が通用しないため、細心の注意を払いながら作業に取り組む必要があります。",
+        "description": "シアン銀河は暗雲が垂れ込め、危機に瀕しています。そこであなたの頼もしい小さなスターファイターと、寄せ集めた僚機たちが、邪悪なエクソドンの脅威に立ち向かう唯一の希望となっています。さまざまなロケールで繰り広げられる熱狂的な戦闘に身を投じて、初めのうちは貧弱な豆鉄砲から始めますが、戦いを重ねることで攻撃力の強いプレイヤーに成長していくことができます。",
         "price": "無料",
-        "originalPrice": "¥1,750",
+        "originalPrice": "¥1,260",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
       },
       {
-        "title": "『World of Warships』– Epic アニバーサリー橘パック - Epic Games 無料配布中",
+        "title": "Havendock - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Epic Games Store」に本タイトルが登場してから5周年を迎えることを記念し、日本プレミアム駆逐艦1隻と、無期限迷彩「Epic」を手に入れましょう！この特別な記念日を祝い、ゲームをより楽しくプレイできるチャンスです。",
+        "description": "Epic Gamesプラットフォームで配布されているHavendockは、快適な居住地シムを体験できるゲームです。このゲームでは、漂流者のための安息地を作り上げ、資源を管理し、海の上で最高の人生を過ごすことができます。簡素な居住地から始めて、徐々にハイテクな社会を目指すことができます。ゲーム内では、拠点を発展させながら、様々な挑戦や機会に遭遇することになります。プレイヤーは、自らの判断と意思決定によって、海の上での生活を形作っていきます。Havendockは、リラックスした雰囲気でプレイできるゲームであり、プレイヤーは海の上での生活を満喫することができます。",
         "price": "無料",
-        "originalPrice": "¥2,754",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Bethesda Bundle - GOG Edition",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-03-27"
+      },
       {
         "title": "Build Your Own Cute and Cozy Bundle (3/5/7 for £4.95/$7.99/$10.15",
         "platform": "Fanatical",
@@ -134,50 +146,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-15"
-      },
-      {
-        "title": "Build Your Own Spring Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "メトロイドベニアバンドル",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: in: Satgat、Kingdom Shell)",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "[Steam] The Daedalic Armageddon Bundle - 11 games ($4.99/95% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-13"
       }
     ],
     "review": [
       {
+        "title": "【Easy Delivery Co.：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年9月にリリースされたSam C氏の新作「Easy Delivery Co.」は、高い評価を獲得し、先日コンソールとモバイル対応に加え、PC版の25万本販売突破が報じられました。そんな中、本作は今日、予定通りPS5とXbox Series X/Sで国内外同時に発売されます。高い評価を得たこの作品は、ゲームファンから大きな注目を集めています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165460.html",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【SAROS：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Returnal』の流れを汲むゲームとして注目を集めている新作ゲーム『SAROS』は、試遊体験会でも大いに期待を高める存在でした。試遊体験会で筆者が注目したポイントをご紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/saros-20260327-432391/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
         "title": "【トモダチコレクション わくわく生活：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『トモダチコレクション わくわく生活』の体験版において、プレイヤーから予想外に多くの悲鳴が聞かれるようになった。",
+        "description": "『トモダチコレクション わくわく生活』の体験版では、プレイヤーから予想外の反響が寄せられている様子が見られる。なぜかプレイヤーから「悲鳴」が上がっているようだ。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -190,7 +192,7 @@
         "title": "【南極計画：レビュー】\n【Finding Polka：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "TOKYO INDIE GAMES SUMMIT 2026では、PARCO GAMESのパブリッシングタイトルを試遊する機会がありました。このイベントでは、注目されるインディーゲームの最新作や、インディーゲーム開発者が集まり、様々なゲームを体験することができました。PARCO GAMESのパブリッシングタイトルは、ユニークなゲーム性や、独特の世界観を持ち、多くのゲーマーの注目を集めています。このよ",
+        "description": "「TOKYO INDIE GAMES SUMMIT 2026」では、PARCO GAMESのパブリッシングタイトルを体験してきた。最新のゲーム作品を試遊することで、新しいゲームの魅力を発見できた。さまざまなジャンルのゲームが紹介されており、ゲーマーにとってはとても楽しい時間になった。PARCO GAMESのタイトルは、インディーゲームの可能性を広げるものであり、将来のゲームの方向性を垣間見える。ゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -200,107 +202,42 @@
         "is_translated": false
       },
       {
-        "title": "【Until Then：レビュー】",
-        "platform": "doope!",
+        "title": "【Stalker 2：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "フィリピンのインディーゲームスタジオ、Polychroma Gamesが2024年6月にリリースした新作アドベンチャーゲームは、フィリピン文化を題材に、ほろ苦い青春と予想外の展開を描くことで高い評価を獲得しています。壮大なストーリーと共に、プレイヤーは未知の世界を体験することができます。",
+        "description": "ゾーンの2つの最大派閥間の「脆弱な平和」がついに終わるかもしれない。長年の対立が再燃し、戦いの火蓋が切られる可能性が高まっている。派閥間の緊張が高まり、戦争の一触即発の状況が続いている。どの派閥が優位性を握るか、または新たな勢力が登場するのか、ゾーンの未来は不確実である。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/03165406.html",
+        "url": "https://www.pcgamer.com/games/fps/stalker-2s-first-major-story-expansion-is-coming-this-summer-with-two-new-regions-and-dozens-of-hours-of-gameplay/",
         "date": "2026-03-26",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "【ホビット庄の物語 ～指輪物語の世界から～：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年7月にローンチされ、高い評価を獲得した「指輪物語」テーマのホビット庄ライフシム「ホビット庄の物語 ～指輪物語の世界から～」が、先日Nintendo Switch 2に対応することがアナウンスされました。このゲームは、J.R.R.トールキンの代表作「指輪物語」の世界をベースにしています。プレイヤーは、ホビット庄で生活し、農業や牧畜を行い、コミュニティを築いていきます。ゲームの世界は豊かでディテー",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165397.html",
-        "date": "2026-03-26",
-        "is_translated": false
-      },
-      {
-        "title": "【メタスコアによる2025年ゲーム会社ランキング：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "レビュー集積サイトMetacriticは3月25日、2026年のゲームパブリッシャーランキングを発表しました。スクウェア・エニックスがトップに立っていることは、ゲームファンにとってとても嬉しいニュースです。Metacriticのランキングは、さまざまなゲームのレビューを集めて、パブリッシャーの評価を行います。スクウェア・エニックスは、人気ゲームシリーズを多く抱えており、ファンの支持を集めています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260325-432127/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【トモダチコレクション わくわく生活：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "任天堂は3月25日、『トモダチコレクション わくわく生活』の「はじめてのわくわく体験版」を配信開始しました。この体験版では、プレイヤーはゲームの中でさまざまなキャラクターと交流したり、家具を飾ったり、生活を楽しむことができます。さらに、体験版をプレイしたデータは、将来的に発売される 본編に引き継ぐことができるので、事前にゲームの世界に触れてみるのはいかがでしょうか。トモダチコレクションシリーズのフ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260325-432017/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Cairn：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "HavenやFuriで知られるゲーム開発会社「The Game Bakers」の新作「Cairn」は、1月末に国内外でローンチされ、非常に高い評価を獲得しました。この登山シムは、ユーザーから大きな支持を受けています。さらに、「The Game Bakers」は、Steamで新しいアップデートを発表しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165387.html",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Untitled Goose Game：レビュー】",
+        "title": "【Splitgate：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "House House は親切にも、参加した PR の 1 人が撮影した、Big Walk での私の実践セッションのビデオを保存してくれました。一般的に、プレーヤーの音声を含むプレビュー イベントの完全なビデオは珍しいものです。",
+        "description": "昨年末、1047 Games は Splitgate 2 を Spligate: Arena Reloaded として再リリースし、好評を博しました。現在、新しいシューティング ゲームの制作に着手しているようです。詳細はまだ明らかになっていませんが、_AR技術を活用して、より自由に移動できるゲームになる可能性があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/titanfall-and-black-ops-3-enjoyers-might-like-a-new-movement-shooter-the-splitgate-devs-are-hoping-to-start-playtesting-soon",
+        "date": "2026-03-26",
+        "is_translated": true
+      },
+      {
+        "title": "【ビッグ ウォーク：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "House House は親切にも、参加した PR の 1 人が撮影した、Big Walk での私の実践セッションのビデオを保存してくれました。一般に、プレーヤーの音声を含むプレビュー イベントの完全なビデオは貴重です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/i-was-the-untitled-goose-in-big-walk-the-balmy-new-open-world-co-op-puzzler-from-house-house",
         "date": "2026-03-25",
-        "is_translated": true
-      },
-      {
-        "title": "【EverQuest Legends：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "2026 年、待望の新作が登場します。先日発表された EverQuest Legends は、30 年間にわたって愛されてきた MMO の新しい形です。EverQuest の名を冠したこの作品は、シリーズのファンにとっては懐かしい気持ちになるはずです。同作品は、過去30年間で培ってきたゲーム性と、新しい要素を融合させた、革新的なMMOゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/everquest-legends-is-the-1999-mmo-you-know-and-love-born-again-with-more-respect-for-your-time",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【It Has My Face：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ローグライトのクローンをベースとした「It Has My Face」は、驚くほど効果的なパラノイアを生み出すゲームです。今月、早期アクセスから正式にリリースされることが発表され、Steam ニュースの更新により、2026 年 4 月 3 日に 1.0 がリリースされることが確認されました。このゲームは、ローグライトの要素と独自の要素を組み合わせて、プレイヤーに緊張感と予測不可能な体験を提供します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/it-has-my-face-my-favourite-sci-fi-assassination-sim-about-being-stalked-by-a-clone-of-yourself-has-a-10-release-date",
-        "date": "2026-03-24",
         "is_translated": true
       }
     ],
@@ -309,49 +246,61 @@
         "title": "[Steam] スプライトの栄誉! (6.39 / 20% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "スプライトの栄誉は、Steamプラットフォームで提供され、現在6.39ドルで20%オフの特別セール中です。このゲームは、ファンタジー世界を舞台に、スプライトを集め、育成し、戦闘に繰り出させるという、独自のゲームシステムを持っています。プレイヤーは、各スプライトの特殊能力を活かして、戦略的な戦い方を身に付け、強大な敵を倒すことができます。 グラフィックは、美しいファンタジー世界を描き出しており、キャラクターのデザインも魅力的です。ゲームのサウンドトラックも、ファンタジー世界にふさわしい、魔法のような音楽で、プレイヤーを引き込む力があります。さらに、ゲームの難易度は、初心者から上級者まで対応しており、さまざまなスキルレベルのプレイヤーが楽しめる内容です。 スプライトの栄誉は、Steamプラットフォームで高い評価を得ているゲームであり、現在のセール価格では非常に魅力的です。ゲームのファンには、ぜひ一度プレイしてみてほしいタイトルです。スプライトの栄誉の世界に飛び込んで、スプライトを集め、戦闘に挑んでみてください。",
+        "description": "スプライトの栄誉は、Steamで20%オフという魅力的な価格で提供されています。スプライトとは、コンピューターグラフィックスで使用されるグラフィカルな要素のことで、ゲームの世界ではスプライトを基にしたグラフィックが多くのゲームで使用されています。このゲームは、スプライトをテーマにしたユニークなグラフィックと、スプライトの世界を舞台にした魅力的なストーリーが特徴です。プレイヤーは、スプライトの世界で様々な冒険を体験し、スプライトの力を使って様々な課題に挑戦することができます。スプライトのグラフィックは、レトロな雰囲気を感じることができますが、同時にモダンな感覚も持っています。スプライトの栄誉は、グラフィックの美しさと、スプライトの世界での冒険の楽しさを同時に体験できるゲームです。これは、グラフィックやゲーム性に興味があるゲーマーにとって、魅力的なゲームです。Steamでの20%オフは、スプライトの栄誉を体験するための素晴らしい機会です。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
       },
       {
         "title": "[ファナティカル] スプリングセール デイリーフラッシュセール 17日目 - 街から街へ (-35%) / ネプテューヌ X 閃乱カグラ 忍者大戦 (-85%) / ネオンホワイト (-69%)",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "現在、ファナティカルではスプリングセールのデイリーフラッシュセールが開催中です。17日目のセールでは、さまざまなジャンルの魅力的ゲームが特別価格で提供されています。街から街へは、オープンワールドアドベンチャーを楽しむことができるゲームで、現在35%オフの価格で購入できます。ネプテュヌ X 閃乱カグラ 忍者大戦は、人気ゲームシリーズのコラボレーションによって生まれたアクションゲームで、85%の割引価格で楽しむことができます。さらに、ネオンホワイトは、未来的な世界を舞台にしたアクションゲームで、69%オフの特別価格で提供されています。これらのゲームは、ファナティカルのスプリングセール期間中のみ特別価格で購入できるため、早期にチェックすることをお勧めします。",
+        "description": "ファナティカルでは、スプリングセールのデイリーフラッシュセールが17日目を迎えました。このセールでは、様々な人気ゲームが大幅な割引価格で提供されています。まず、「街から街へ」は、35%の割引によりお得に購入できます。このゲームでは、プレイヤーはさまざまな街を探索し、魅力的なキャラクターと出会い、楽しいアドベンチャーを楽しむことができます。 さらに、「ネプテュヌ X 閃乱カグラ 忍者大戦」は、驚きの85%割引になりました。このゲームは、2つの人気シリーズのコラボレーションにより、ユニークなゲーム性と豊富なキャラクターを提供します。アクションと忍者の世界を融合させたこのゲームは、ファン必見のタイトルです。 最後に、「ネオンホワイト」は、69%の割引価格で提供されています。このゲームでは、プレイヤーはネオンホワイトの世界を探索し、さまざまなミッションをクリアし、豊富なストーリーを体験できます。スプリングセールのデイリーフラッシュセールでは、これらの魅力的なゲームをはじめ、様々なタイトルが割引価格で提供されています。ゲーマーには、見逃せない機会です。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
       },
       {
-        "title": "スプリング セール：Dredge、Evil Genius 2、Stray が安価に",
+        "title": "スプリング セール Dredge、Evil Genius 2、Stray 大幅割引",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "現在、Fanaticalでスプリング セールが開催中です。このセールでは、注目すべきタイトルが安価に提供されています。まず、海洋の奥深くに隠された秘密を探索することができる「Dredge」があります。このゲームでは、プレイヤーは海底に沈んだ船や海洋生物を調査し、未知の世界を発見することができます。 さらに、悪の天才に憧れるプレイヤーには、「Evil Genius 2」がお勧めです。このゲームでは、プレイヤーは悪の組織のリーダーとなり、世界征服を目指すことができます。悪の計画を立て、部下を率いて、世界を支配するために必要なリソースを集めましょう。 最後に、猫の視点から街を探索する「Stray」があります。このゲームでは、プレイヤーは猫のキャラクターを操作して、廃墟となった街を歩き回り、秘密を解き明かすことができます。美しいグラフィックと独特のゲームプレイが待っています。 これらのタイトルは、通常価格よりも大幅に安くなっています。Fanaticalのスプリング セールをチェックして、気になるゲームを手に入れましょう。期間限定のセールなので、早めにチェックすることをお勧めします。",
+        "description": "Fanaticalのスプリング セールでは、人気ゲームが大幅割引で提供されます。漁師の生活を描く「Dredge」、悪の天才の計画を描く「Evil Genius 2」、猫の目を通した都市の不思議な世界「Stray」など、様々なジャンルのゲームが勢揃いです。さまざまなゲームが一堂に会し、プレイヤーに新しい体験を提供します。割引期間中は、お気に入りのゲームを安価で購入することができます。ゲームの世界で新しい冒険を始めるには、Fanaticalのスプリング セールをチェックしてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
       },
       {
         "title": "[Steam] アリタナとハーピーの羽根 (50% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "アリタナとハーピーの羽根は、ファンタジー世界を舞台にしたアクションアドベンチャーゲームです。このゲームでは、主人公アリタナがハーピーの羽根を手に入れ、空を飛ぶ能力を獲得します。美しいグラフィックとスムーズな操作で、自由に空中を飛び回り、様々なステージを攻略することができます。 ゲームの特徴的な要素の1つは、ハーピーの羽根を使用した空中戦闘です。プレイヤーは、羽根を操りながら、空中を飛ぶ敵を倒し、障害物を避けながら進んでいきます。また、羽根の能力をアップグレードすることで、よりスピーディーな飛行や、強力な攻撃ができるようになります。 さらに、このゲームでは、さまざまな種類のハーピーの羽根を収集することができます。各羽根には独自の能力や特徴があり、プレイヤーは好みの羽根を選択して、ゲームを楽しみます。美しいグラフィックと興奮するアクションが融合した、このアリタナとハーピーの羽根は、ファンタジーとアドベンチャーが好きなゲーマーにぴったりのゲームです。現在、Steamで50%オフのセール中ですので、ぜひこの機会にチェックしてみてください。",
+        "description": "アリタナとハーピーの羽根は、ファンタジー世界を舞台にしたアクションアドベンチャーゲームです。プレイヤーは、アリタナという勇敢な戦士となり、ハーピーの羽根を手に入れるために、危険な地形や強敵を克服しながら、壮大な冒険に挑みます。美しいグラフィックと魅力的なサウンドトラックが、プレイヤーをこの魔法の世界に引き込むでしょう。 ゲームでは、さまざまな武器や魔法を使用して、敵を倒し、謎を解くことができます。さらに、ハーピーの羽根を集めることで、アリタナの能力を強化し、ゲームの難易度に応じた戦略を立てることができます。アリタナとハーピーの羽根は、快適なゲームプレイと魅力的なストーリーが特徴で、ファンタジーとアクションが好きなゲーマーにぴったりのゲームです。 現在、50% オフのセール中ですので、この機会にアリタナとハーピーの羽根を体験してみてください。Steam で今すぐ購入できます。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-26"
+        "date": "2026-03-27"
+      },
+      {
+        "title": "Steam セール – Tactics Greed 50% オフ (~$9.99 → ~$4.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam セールの熱い戦いが始まりました。Tactics Greed が 50% オフになり、約 9.99 ドルから約 4.99 ドルに大幅値下げされました。この戦略ゲームでは、プレイヤーは戦術の腕前を存分に発揮できます。戦場の制圧、兵器の操作、戦略の構築など、多様な要素がこのゲームを魅力的にしています。プレイヤーはさまざまなキャラクターを操作し、戦闘を通じて成長と強化を目指します。また、ゲーム内のストーリーモードでは、プレイヤーはさまざまなミッションをこなし、最終的な勝利を目指します。戦略ゲームファンにはおすすめのタイトルです。Steam セールのチャンスを逃さずに、Tactics Greed を今すぐ購入し、戦術の世界に飛び込みましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-27"
       },
       {
         "title": "Hooded Horse パブリッシャーセール | マナー ロード、メナス、9 キングスほか",
@@ -532,18 +481,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-22"
-      },
-      {
-        "title": "PlayStationでスプリングセール、スパイダーマン2やHELLDIVERS 2が割引",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamではありませんが、PlayStationでスプリングセールが開催中です。このセールでは、スパイダーマン2やHELLDIVERS 2などの人気タイトルが割引価格で提供されます。スパイダーマン2は、オープンワールドアクションアドベンチャーゲームで、マーベルヒーローのスパイダーマンを操作して、ニューヨーク市を巡りながら悪者と戦います。HELLDIVERS 2は、協力プレイに特化したシューティングゲームで、プレイヤーは宇宙の別の惑星で異星人の侵略を阻止するために戦います。 これらのゲームは、興奮するアクションと壮大なグラフィックスで知られています。スパイダーマン2では、スパイダーマンの能力をフルに活用して、都市を守ります。HELLDIVERS 2では、チームワークと戦略を駆使して、強力な敵を倒します。このセールは、PlayStationユーザーにとって大きな機会です。割引価格で、これらの素晴らしいゲームを体験して、興奮と冒険を満喫してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-22"
       }
     ]
   },
@@ -601,5 +538,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-26T12:54:18.106702"
+  "last_updated": "2026-03-27T02:43:13.573237"
 }

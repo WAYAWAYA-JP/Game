@@ -2,31 +2,79 @@
   "pc": {
     "free": [
       {
-        "title": "Hyper Echelon - Epic Games 無料配布中",
+        "title": "Eternal Threads - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "シアン銀河は危機の淵に立っています。あなたの信頼できる小さなスターファイターと、寄せ集めた僚機たちが、邪悪なエクソドンに挑む最後の希望です。この銀河を救うために、あなたは様々なロケールで繰り広げられる激しい戦闘に 参加することになります。最初は弱い豆鉄砲からスタートしますが、戦闘を重ねながら強力な攻撃力を手に入れ、プレイヤーをレベルアップさせます。この冒険に挑み、シアン銀河を危機から救いましょう。",
-        "price": "無料",
-        "originalPrice": "¥1,260",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Havendock - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesプラットフォームで配布されているHavendockというゲームは、快適な居住地シムです。このゲームでは、漂流者のための安息地を作り、資源を管理し、海の上で最高の人生を過ごすことができます。簡素な居住地から始めて、徐々にハイテクな社会を目指すことができます。プレイヤーは、拠点を発展させるためにさまざまな施設を建設し、資源を管理し、漂流者のニーズを満たす必要があります。ゲームの特徴は、ゆったりとしたペースでプレイできることです。プレイヤーは、肩の力を抜いて、のんびりゲームを楽しむことができます。さらに、ゲームのグラフィックは美しく、海の上での生活をリアルに表現しています。Havendockは、リラックスしたいときにぴったりのゲームです。ゲームを進めることで、新しい施設やアイテムを解放し、より充実した生活を送ることができます。ぜひ、Havendockを試してみてください。",
+        "description": "『Eternal Threads』は、時間を操り、選択肢を選ぶことで、物語の展開を変えていくシングルプレイのストーリーを中心にしたパズルゲームです。時間を操作する能力を利用して、問題を解決し、物語の進行を促します。各選択肢は、物語の結末に影響を与え、プレイヤーは自分の選択によって、さまざまな展開を見ることができます。時間操作の要素を取り入れたこのゲームは、プレイヤーに独自の体験を提供し、ストーリーを深く探求する機会を与えます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-03-30"
+        "date": "2026-03-31"
+      },
+      {
+        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のあるファーストパーソン・シューティングゲームです。前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や新たなストーリーが追加されています。さらに、バイクで疾走するステージや、改良されたスキル、サイバー忍者アクションが特徴です。没入感あふれる世界で、プレイヤーはサイバー忍者の能力を活かし、街の中を駆け抜けます。迫力のあるアクションと、深いストーリーが融合したこのゲームは、サイバーパンクの世界を体験したいゲーマーに必見の作品です。",
+        "price": "無料",
+        "originalPrice": "¥4,880",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Monument Valley - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
+        "price": "無料",
+        "originalPrice": "¥920",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Hyper Echelon - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "シアン銀河は危機に瀕しています。そこで、あなたの頼もしい小さなスターファイターと、僚機の寄せ集め部隊が、邪悪なエクソドンに立ち向かう唯一の希望となります。この銀河を救うために、あなたが主役となり、多くの素晴らしいロケールでの熱狂的な戦闘に参加します。豆鉄砲から始めて、さまざまな強力な武器を集めながら、攻撃力の強いプレイヤーにレベルアップしていきます。銀河の運命を決定する、このスリリングな戦いの舞台で、あなたの勇気と戦略が試されます。",
+        "price": "無料",
+        "originalPrice": "¥1,260",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Havendock - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesで無料配布中のHavendockは、快適な居住地シムとして知られています。このゲームでは、漂流者のための安息地を作り、資源を管理しながら、海の上で最高の人生を過ごすことができます。シンプルなスタートから始めて、ハイテクな社会を目指すことができるので、プレイヤーは自分の居住地を自由に発展させることができます。資源の管理や拠点の発展を通じて、プレイヤーは海の上での生活を楽しむことができます。快適な生活を送るために、居住地の開発や管理を通じて、プレイヤーは自分の海の上の世界を創造します。Havendockは、リラックスした雰囲気とスムーズな操作で、プレイヤーを魅了するゲームです。",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-03-31"
       }
     ],
     "bundle": [
+      {
+        "title": "ロックマンスターフォース レガシーコレクション Steam",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "収録: code STARFORCEDRAGON) | $31.99 / €31.99 / C$39.99 w/ code) | Steam | Ends April 2nd 00:00 CET",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-31"
+      },
       {
         "title": "War Commander Bundle - Tiered",
         "platform": "Fanatical",
@@ -150,10 +198,10 @@
     ],
     "review": [
       {
-        "title": "【New World：レビュー】",
+        "title": "Steamのある放置MMORPGで「重課金者のBAN処分」きっかけにレビュー爆撃が発生し、泥沼化。開発者が“Valveは助けてくれない”と不満こぼす",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Chezeは、ゲーム『Milky Way Idle』のSteam版で発生した「レビュー爆撃」について言及しています。この問題について、Steamの運営会社であるValveからのサポートが不足していることを訴えています。これにより、大きな反響を呼んでいます。Chezeの言葉は、ゲーム開発者やユーザーからの注目を集めています。Steamでのレビュー爆撃は、ゲームの評価を下げるために大量の否定的なレビュ",
+        "description": "chezeは、Steam版の『Milky Way Idle』で発生した「レビュー爆撃」について言及しています。Steamの運営会社であるValveからのサポートが不足していることを訴えており、大きな反響を呼んでいます。この問題は、Valveからのサポートが不十分であることが原因で、ユーザーがゲームに対する不満を表現する手段としてレビューを利用していることがわかります。chezeの発言は、この問題に",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -163,10 +211,23 @@
         "is_translated": false
       },
       {
-        "title": "ジャック・ブラックは、実写のヤクザ映画がもう一度できたら、「カッコいいアメリカ人」の役を演じたいと考えているようです。その際には、セガのジングルを使用してほしいと語っています。",
+        "title": "Inzoi Studioの責任者は、早期アクセスについて触れながら、その必要性を認めつつも、少し気分が悪いと述べています。責任者によると、ユーザーがゲームのテストを行ってくれることで、開発チームの負担が軽減されることは確かですが、それでも常にユーザーに申し訳ないと思っているようです。早期アクセスにより、ユーザーはゲームの完成度を高めるための重要な役割を担っていると言えるでしょう。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "彼は本当にビデオゲーム化における大きな功績を積み上げようとしているのだ。",
+        "description": "はい、ほぼそのとおりです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/inzoi-studio-head-says-early-access-was-unavoidable-but-he-feels-kind-of-bad-about-it-the-users-are-testing-it-on-our-behalf-so-i-always-feel-sorry-for-them/",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
+        "title": "【ヤクザ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "彼は真的にビデオゲーム化の功績を積み上げようとしているのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -176,10 +237,49 @@
         "is_translated": true
       },
       {
+        "title": "【スクリーマー：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ジェームスと私が先週、アニメ「レーサー スクリーマー」の感想を公開したとき、ガレージから出てオンラインレースをぜひ試してみたいと言いました。観光スポーツやオンラインレースが好きな人には、ぜひ一度試してみてほしいと思います。レーシングゲームとしての完成度は高く、オンラインレースのスリルを存分に味わえるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/screamers-multiplayer-chases-unleash-the-racers-full-chaotic-potential-trapping-you-inside-a-relentlessly-boosty-bashy-and-boomy-washing-machine",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Pokémon Champions：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Pokémon Champions 2026 の PAX East デモでは、対戦バトルがより親しみやすくなっていることが分かります。しかし、ポケモンを個人的に感じさせる要素が欠けているのが残念です。対戦バトルでは、プレイヤーが戦略的にポケモンを選び、戦闘を進めていく必要があります。そのため、戦略的思考と戦闘の緊張感が高まります。一方で、ポケモンを個人的に感じさせる要素が不足しているため、ポケモン",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/pokemon-champions-pax-east-2026-demo-review-impressions/",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
+        "title": "【PAX East 2026：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ボストンで開催されたPAX East 2026では、トレーディングカードゲームからボードゲーム、テーブルトップロールプレイングゲームまで、様々なジャンルのテーブルゲームが紹介されました。そこで、会場で実際にプレイした中から、特に印象的な5つのテーブルゲームをご紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/pax-east-2026-best-tcg-tabletop-board-games/",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
         "title": "【Time Takers：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Time Takers』のプレイを通じて強く印象に残ったのは、時間そのものを奪い合いながら戦闘、強化、生存が高速で循環していくゲーム体験です。このゲームでは、時間を制することが勝利のカギとなり、プレイヤーは時間を奪い合いながら戦略的に戦闘を進め、強化を重ね、生存を目指す必要があります。高速なゲームの流れは、プレイヤーを常に集中させ、臨場感を味わえる体験を提供します。時間管理と戦略的思考を要求する",
+        "description": "『Time Takers』のプレイを通じて強く印象に残ったのは、時間そのものを奪い合いながら戦闘、強化、生存が高速で循環していくゲーム体験です。このゲームでは、時間を駆使して戦闘に勝利し、強化を重ね、生存を賭けた戦いを繰り広げます。時間の奪い合いが戦闘や強化、生存に大きく影響するため、迅速な判断と戦略が求められます。時間をうまく使いこなせば、強大な力を手に入れることができる一方で、時間を失うと劣勢",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -189,49 +289,10 @@
         "is_translated": false
       },
       {
-        "title": "【Kingdom Come: Deliverance：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "英語でKCD2をプレイしたことがあるなら、おそらく私の作品を見たことがあるでしょう。私の作品は、英語圏のゲームファンの中で一定の評価を得ています。実際、KCD2の英語版は、私の翻訳を基にして制作されました。もし英語でKCD2をプレイしたことがあれば、ゲーム中のテキストや会話の翻訳は、私の手によるものです。このような経験を通じて、私は翻訳の重要性を実感しています。ゲームの世界では、言葉が正確に伝わる",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-translator-says-he-was-fired-from-warhorse-studios-and-replaced-with-ai/",
-        "date": "2026-03-29",
-        "is_translated": true
-      },
-      {
-        "title": "【マラソン：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Bungie のエクストラクション シューターは、批評家の間で着実に支持を集めており、最優秀マルチプレイヤー ゲーム賞の最有力候補となっています。また、GOTY ノミネートの可能性もあり、ゲームファンから大きな注目を集めています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marathon-goty-the-game-awards-best-multiplayer-game/",
-        "date": "2026-03-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Damon and Baby：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Arc Systems Works は、ドラゴンボール ファイターズなどのアニメ戦闘ゲームで知られていますが、デイモンとベイビーによって新しいジャンルの実験に成功しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/damon-and-baby-review/",
-        "date": "2026-03-29",
-        "is_translated": true
-      },
-      {
         "title": "【アーク レイダー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "プレイテストの問題は、ゲームが世に出た後に特定の人が行う可能性のある最後の行動をすべて予測するのが不可能であることです。これは不完全な科学であり、自分ができる限りの最善を尽くす必要があります。ゲームを開発する上で、プレイヤーの行動は予測不可能な要素であると言えるでしょう。開発者側では、さまざまなシナリオを想定し、テストを繰り返してゲームのバランスを調整する必要があります。しかしながら、すべての可能",
+        "description": "プレイテストの問題点は、ゲームがリリースされてから特定の人が行う可能性のある最後の行動をすべて予測することは不可能であることです。このため、不完全な科学であることを認識し、自分のできる限りの最善を尽くす必要があります。ゲームをより良いものにするために、開発者は可能な限りのテストと検証を行う必要がありますが、ユーザーの行動は予測不可能なため、すべてのシナリオを網羅することはできません。したがって、開",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -241,10 +302,10 @@
         "is_translated": true
       },
       {
-        "title": "【クラフトンのバトルグラウンド：レビュー】",
+        "title": "【ブラインドスポット：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "無料プレイのタクティカルシューター『PUBG: Blindspot』は、早期アクセスのキャリアが始まってから約2ヶ月ほどで、開発者のArc TeamとパブリッシャーのKraftonによって閉鎖されました。2月5日に発売される予定でしたが、開発が中止されました。",
+        "description": "『PUBG: Blindspot』は、無料でプレイできるタクティカルシューティングゲームです。早期アクセスが開始されてから約2か月で、開発チームのArc TeamとパブリッシャーのKraftonによって閉鎖が決定されました。2月5日に正式にサービスが終了する予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -256,58 +317,70 @@
     ],
     "sale": [
       {
+        "title": "スプリング セール：サイバーパンク 2077、UNCHARTED、Alan Wake Remastered などが割引",
+        "platform": "Epic Games",
+        "type": "sale",
+        "description": "Epic Gamesではスプリング セールが開催中です。サイバーパンク 2077、UNCHARTED、Alan Wake Remasteredなど人気タイトルが大幅に割引されています。サイバーパンク 2077は、近未来の暗い世界を舞台に、プレイヤーは高性能な体にサイバー化された強化を施し、スリリングなアクションを体験できます。UNCHARTEDシリーズは、ハードボイルドな冒険とアクションが魅力のシリーズで、さまざまな舞台で繰り広げられるスリリングなストーリーを楽しめます。Alan Wake Remasteredは、ミステリーとスリルの要素が込められたホラー・アドベンチャーゲームで、プレイヤーは暗い森の中で起きる不思議な出来事に挑みます。これらの人気ゲームをはじめ、様々なジャンルのゲームが特別価格で提供されています。ゲームファンには夢のようなセールですので、是非この機会に気になるゲームをチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/",
+        "date": "2026-03-31"
+      },
+      {
         "title": "[STEAM] レオ: ザ・スクエア ($2.49/50% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamで提供されている「レオ: ザ・スクエア」は、現在50%オフの特別セール中です。このゲームは、独特の世界観とキャラクターを持ち、プレイヤーを新しい冒険の世界に 招待しています。レオという名前の主人公は、四角い形をしていて、さまざまな障害物を克服しながら、目標に向かって進みます。 このゲームの特徴は、そのシンプルながらも面白いゲームシステムです。プレイヤーはレオを操作して、複数のステージをクリアする必要があります。各ステージには、さまざまな種類の障害物や敵が登場し、プレイヤーの反応能力と思考力を試します。 グラフィックはシンプルながらも魅力的で、独特のアートスタイルが特徴です。サウンドトラックも、ゲームの雰囲気を高めてくれます。全体的に見ると、「レオ: ザ・スクエア」は、気軽にプレイできるけれども、挑戦的で楽しいゲーム体験を提供してくれる作品です。現在のセール期間中は、通常価格の半額となる$2.49で購入できます。もし、あなたが新しいゲームを探しているのであれば、「レオ: ザ・スクエア」をチェックしてみてください。",
+        "description": "Steamでは、面白いパズルゲーム「レオ: ザ・スクエア」が50%オフで発売中です。このゲームは、プレイヤーがレオという愛らしいキャラクターを操作して、さまざまなステージをクリアすることを目指します。レオは四角い形をしていますが、壁に当たるとその方向に動き出すという独特の能力があります。 このゲームの特徴は、シンプルながらも深いパズル要素と、レオの可愛らしいデザインです。プレイヤーは、レオの能力を活用して、障害物を避けながらゴールを目指す必要があります。各ステージには、さまざまなトリックとパズルが用意されており、プレイヤーの思考力を試します。 「レオ: ザ・スクエア」は、気軽にプレイできるパズルゲームとして楽しめるだけでなく、思考力を鍛えることもできます。現在、50%オフの特別価格で提供されていますので、興味のある方はぜひこの機会に試してみてください。Steamで今すぐダウンロードして、レオの冒険に一起しましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Borderlands 4 ストーリーパック1 スチーム",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Borderlands 4 ストーリーパック1 スチームは、Steamで配信中のアクションパック詰め込みFPSゲームです。パンデモニウムの世界で、新たな冒険が始まります。この新作では、より多くの武器、スキル、そしてキャラクターが追加され、ゲームの奥深さと自由度が増しています。プレイヤーは、4人のユニークなキャラクターから選択し、それぞれのスキルとプレイスタイルを活かして、激しい戦闘に挑みます。 ストーリーパック1では、新たなミッションやクエストが追加され、ゲームの世界観をより深く掘り下げます。さらに、プレイヤーは、新しい武器やアイテムを入手し、キャラクターを更に強化することができます。マルチプレイヤー機能を活かし、友達と協力して、強力なエネミーに挑戦することもできます。 Borderlandsシリーズのファンには、もちろんお勧めですが、新規プレイヤーにも、魅力的なゲーム世界と、豊富なゲームプレイ体験が提供されています。Steamで配信中のBorderlands 4 ストーリーパック1は、FPSファンやアクションゲーム好きの方にぜひお勧めします。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-30"
+        "date": "2026-03-31"
       },
       {
         "title": "[Steam] Veranoia: Nightmare of Case 37 ($0.79 / 80% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Veranoia: Nightmare of Case 37 は、Steam で現在 80% オフの特別セール中です。このゲームは、恐怖とサスペンスを組み合わせた独特な体験を提供します。プレイヤーは、不気味で不安を誘う世界を探索し、Case 37 の謎を解明するために、さまざまな挑戦に立ち向かいます。 このゲームは、不気味な雰囲気と緊迫したストーリーで知られており、プレイヤーを恐怖と興奮の世界に引き込みます。様々なパズルや謎を解くことで、プレイヤーは物語を進め、最終的な真実を明らかにすることができます。Veranoia: Nightmare of Case 37 は、ホラーゲームファンにはお勧めのタイトルであり、通常価格よりも大幅に安くなっているこのセールを逃すことはできません。現在の価格は $0.79 で、通常価格より 80% 割引されています。恐怖とスリルを求めるゲーマーにとって、絶対に試してみるべきゲームです。",
+        "description": "Veranoia: Nightmare of Case 37 は、Steam で現在 80% オフの特別セール中です。通常価格よりも大幅に割引された 0.79 ドルの金額で、この心地よいホラーゲームを体験できます。 このゲームでは、プレイヤーは Case 37 という不気味な事件に立ち向かいます。恐怖を感じる心の準備ができたですか。Veranoia: Nightmare of Case 37 の世界では、常識では説明できない不可思議な現象が起こります。 このゲームは、ホラー要素とミステリーを組み合わせた、独自のゲームプレイを提供します。特に、ホラーゲームファンにはたまらない魅力的な体験になるでしょう。 Veranoia: Nightmare of Case 37 を今すぐSteamで購入して、恐怖と不安の世界に足を踏み入れてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-03-30"
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Borderlands 4 - ストーリーパック1 スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Borderlandsシリーズの最新作、Borderlands 4 - ストーリーパック1 スチームは、Steamプラットフォームで利用可能です。このパックでは、新しいストーリーとキャラクターが追加され、ゲームの世界がさらに広がります。プレイヤーは、さまざまなミッションとクエストをこなしながら、強力な武器とアイテムを集め、キャラクターを成長させます。Borderlandsシリーズの特徴であるユーモアとSFの要素が充実し、オンラインマルチプレイを通じて友人と協力して遊ぶことができます。さらに、グラフィックとサウンドも向上しており、よりリアルなゲーム体験を提供します。ストーリーパック1では、新しいエリアとボスが追加され、ゲームの難易度と挑戦が増します。Steamでの購入により、すぐにプレイを開始できます。 Borderlandsシリーズのファンには必見のタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "GALAXY HIGHWAYS は Steam で 35% オフ ($6.49)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "GALAXY HIGHWAYS は、宇宙を舞台にしたアクションゲームです。このゲームでは、プレイヤーは豪華な宇宙船を操縦し、星々を結ぶ高速道路を駆け抜けます。高speedな宇宙船操作とスリル満点のアクションが特徴で、宇宙の未知なる領域を探索することができます。 宇宙を舞台にしたこのゲームは、グラフィックが美しく、宇宙の雰囲気を存分に楽しむことができます。また、さまざまなミッションやマルチプレイヤーモードも用意されており、プレイヤーは友達と協力して宇宙の脅威に対抗することができます。 現在、Steam で 35% オフ の $6.49 で提供されており、宇宙を舞台にしたアクションゲームのファンにはおすすめです。宇宙の冒険に興味がある方は、ぜひこの機会に GALAXY HIGHWAYS を試してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-03-31"
       },
       {
         "title": "[Steam] キングス ブレイド ($5.39 / 40% オフ)",
         "platform": "Steam",
         "type": "sale",
         "description": "キングス ブレイドは、幻想世界を舞台にしたアクションRPGです。このゲームでは、剣と魔法が融合した独自の戦闘システムを体験できます。さまざまなキャラクターを操作し、多彩なスキルと魔法を駆使して、強力な敵たちと戦うことができます。 グラフィックは美麗で、キャラクターデザインも独特です。ゲームの世界観は、伝説的な剣と魔法の物語からインスピレーションを得たもので、探索の楽しみも存分に味わえます。さらに、キャラクターのカスタマイズも可能で、自分好みのスタイルで冒険を楽しむことができます。 キングス ブレイドは、単純なアクションゲームに留まらず、ストーリーも深みがあり、キャラクターたちの関係性や世界の歴史がしっかりと描かれています。Steamで現在40%オフの特別価格で提供中です。興味がある方は、ぜひこの機会にチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "GALAXY HIGHWAYS は Steam で 35% オフ ($6.49)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "宇宙の高速道路を駆け抜ける、SFアクションゲーム「GALAXY HIGHWAYS」がSteamで35%オフとなり、現在$6.49で購入できます。このゲームでは、プレイヤーは未来の宇宙を舞台に、高速で移動する宇宙船を操作し、様々な障害物や敵と戦います。凄まじいスピード感とアドレナリンの溢れるアクションが特徴で、爽快なゲーム体験を提供します。美麗な宇宙の景色を眺めながら、スピードと戦闘のバランスを調整する必要があるため、戦略性も求められます。Steamのユーザー向けに特別割引が用意されているので、宇宙を駆け抜けるスリルを味わいたいゲーマーにはお勧めです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -482,18 +555,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-03-27"
-      },
-      {
-        "title": "Steam セール – Tactics Greed 50% オフ (~$9.99 → ~$4.99)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam セールの熱い戦いが始まりました。Tactics Greed が 50% オフになり、約 9.99 ドルから約 4.99 ドルに大幅値下げされました。この戦略ゲームでは、プレイヤーは戦術の腕前を存分に発揮できます。戦場の制圧、兵器の操作、戦略の構築など、多様な要素がこのゲームを魅力的にしています。プレイヤーはさまざまなキャラクターを操作し、戦闘を通じて成長と強化を目指します。また、ゲーム内のストーリーモードでは、プレイヤーはさまざまなミッションをこなし、最終的な勝利を目指します。戦略ゲームファンにはおすすめのタイトルです。Steam セールのチャンスを逃さずに、Tactics Greed を今すぐ購入し、戦術の世界に飛び込みましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-03-27"
       }
     ]
   },
@@ -551,5 +612,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-30T12:56:56.743116"
+  "last_updated": "2026-03-31T02:43:09.359287"
 }

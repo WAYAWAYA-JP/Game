@@ -198,10 +198,49 @@
     ],
     "review": [
       {
+        "title": "【OPUS: Prism Peak：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始した。このゲームは、リリース直後から高い評価を獲得しており、プレイヤーから大いに注目されている。ゲーム独自の魅力に加え、開発チームの手腕が存分に発揮された作品となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438211/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Clair Obscur: Expedition 33：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "『スターダスト』と『デアデビル』のスターは、自身が出演するゲームを試したことがないことを認めた。ゲームに出演することは新しい挑戦であったそうです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/charlie-cox-has-finally-played-clair-obscur-expedition-33-a-bit/",
+        "date": "2026-04-17",
+        "is_translated": true
+      },
+      {
+        "title": "【バルダーズ・ゲート3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "彼はアスタリオンとはプレーしませんが、彼らはレイブンロフトに行きます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coasts-official-d-and-d-actual-play-series-will-feature-neil-newbon-and-devora-wilde-from-baldurs-gate-3-among-its-players/",
+        "date": "2026-04-17",
+        "is_translated": true
+      },
+      {
         "title": "【Vindictus: Defying Fate：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では、アクションゲーム『Vindictus: Defying Fate』のプレイ感や魅力を、実際のプレイレポートを通じて紹介します。プレイヤーが操作するキャラクターの動きや、戦闘シーンの様子など、ゲームの奥深さを垣間見ることができるでしょう。また、本作の独自のアクションシステムや、グラフィックのクオリティについても触れています。ゲームファンはもちろん、新しいゲームを探しているユーザーにもおすす",
+        "description": "本稿では、『Vindictus: Defying Fate』のアクションがどのようなものなのか、プレイレポートをお届けします。本作は、ダイナミックなアクションと壮大なグラフィックで知られており、プレイヤーは戦闘の激しさとスピードを体験できます。ゲームの世界は、ファンタジー要素と暗い雰囲気を融合させた独特の設定であり、プレイヤーは様々なキャラクターを操作して、さまざまなミッションを遂行します。また、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,36 +250,10 @@
         "is_translated": false
       },
       {
-        "title": "【蟲神器：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ニンテンドーeショップでは4月16日、Nintendo Switch 2とNintendo Switch向けのタイトル約600本を対象に、新しいセールが開始されました。このセールでは、様々なジャンルのタイトルが割引価格で提供され、ゲーマーにとってはお得な機会です。セール対象のタイトルは多数あり、人気作品から隠れた名作まで様々なゲームを楽しむことができます。セールは期間限定なので、気になるタイトルを",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260416-437869/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【パラノマサイト FILE38 伊勢人魚物語：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スクウェア・エニックスは4月16日、『パラノマサイト FILE38 伊勢人魚物語』のアップデートVer.1.1を配信開始しました。このアップデートにより、プレイヤーは新しい機能やコンテンツを楽しむことができます。スクウェア・エニックスは、このアップデートでゲームの不具合を修正し、プレイヤーのゲーム体験を向上させることを目指しています。アップデートVer.1.1では、ゲームの安定性とパフォーマンスが",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260416-437816/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【スターシップ・トゥルーパーズ：アルティメット・バグ・ウォー：レビュー】",
+        "title": "【スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "『スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー』は、戦闘に特化したゲームではありません。",
+        "description": "『スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー』は戦闘を重視したゲームではありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -263,49 +276,10 @@
         "is_translated": true
       },
       {
-        "title": "【Windrose：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ああ、それは良いスタートですね。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/pirate-survival-windrose-sees-500-000-mateys-buy-the-game-as-steam-reviews-are-mostly-positive/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【ファースト・ライト：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "私たちはラナ・デル・レイの007シリーズのテーマソング「ファースト・ライト」をレビューしましたが、このレビューは2012年のピッチフォークのトラックレビューのスタイルで行われました。ラナ・デル・レイの歌声はジェームズ・ボンドの世界にぴったりで、彼女のユニークな歌声がこのテーマソングに新しい息吹を吹き込んでいます。歌詞もジェームズ・ボンドの世界観に合った暗い雰囲気を醸し出しており、映画の雰囲気を完璧",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lana-del-rey-007-first-light-track-review/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Expedition 33：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "デアデビルで俳優を務め、ギュスターヴ・チャーリー・コックスの声を担当した彼は、この尊敬されるRPGの初期部分の一部を体験したと語っている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/expedition-33-charlie-cox-played-the-game-gustave-voice-actor-praise/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【アトムフォール：レビュー】",
+        "title": "【アトムフォール：】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりとハマり始めているように感じました。ゲームの世界に引き込まれ、掘り下げてみたくなる魅力がありました。",
+        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。ゲームの世界観やシステムが興味を引いたので、もう一度掘り下げてみることにしました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -638,5 +612,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-17T02:52:45.319468"
+  "last_updated": "2026-04-17T12:57:55.084323"
 }

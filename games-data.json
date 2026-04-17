@@ -2,28 +2,16 @@
   "pc": {
     "free": [
       {
-        "title": "TOMAK: Save the Earth Regeneration - Epic Games 無料配布中",
+        "title": "The Stone of Madness - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "伝説の育成シミュレーション『TOMAK: Save the Earth』の25周年記念エディションがEpic Gamesストアに登場しました。滅亡の危機に瀕した地球を救うために、愛の女神「エビアン」を植木鉢に植え、3年間大切に育ててください。このゲームは衝撃的なコンセプトで話題となり、多くのプレイヤーから支持されています。愛の女神を育てながら、地球を救うために様々な挑戦に立ち向かっていきましょう。地球の運命はあなたの手にあります。",
+        "description": "『ザ・ストーン・オブ・マッドネス』は18世紀スペインの修道院が舞台のリアルタイム戦略ステルスゲームだ。5人の囚人がそれぞれのスキルと知恵を結集して恐怖に立ち向かう。正気を失うことなく修道院の謎を解き明かし、脱出への道を切り開け。",
         "price": "無料",
-        "originalPrice": "¥870",
+        "originalPrice": "¥2,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "Prop Sumo - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Prop Sumoは、普通の小道具を組み合わせて異常な戦いを繰り広げるパーティー格闘ゲームです。友達を倒してスコアボードを制覇しましょう。このゲームでは、想像を超えた戦いがawaitしています。友達と一緒にプレイし、勝利を目指してみませんか。さまざまな小道具を駆使して、戦略を立て、友達を倒してみましょう。スコアボードを制覇するには、戦略とチームワークが必要です。",
-        "price": "無料",
-        "originalPrice": "¥970",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
       }
     ],
     "bundle": [
@@ -210,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【Vindictus: Defying Fate：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では、アクションゲーム『Vindictus: Defying Fate』のプレイ感や魅力を、実際のプレイレポートを通じて紹介します。プレイヤーが操作するキャラクターの動きや、戦闘シーンの様子など、ゲームの奥深さを垣間見ることができるでしょう。また、本作の独自のアクションシステムや、グラフィックのクオリティについても触れています。ゲームファンはもちろん、新しいゲームを探しているユーザーにもおすす",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/vindictus-defying-fate-20260416-437946/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
         "title": "【蟲神器：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ニンテンドーeショップでは4月16日、Nintendo Switch 2とNintendo Switch向けのタイトル約600本を対象とした新しいセールが始まりました。",
+        "description": "ニンテンドーeショップでは4月16日、Nintendo Switch 2とNintendo Switch向けのタイトル約600本を対象に、新しいセールが開始されました。このセールでは、様々なジャンルのタイトルが割引価格で提供され、ゲーマーにとってはお得な機会です。セール対象のタイトルは多数あり、人気作品から隠れた名作まで様々なゲームを楽しむことができます。セールは期間限定なので、気になるタイトルを",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +227,7 @@
         "title": "【パラノマサイト FILE38 伊勢人魚物語：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スクウェア・エニックスは4月16日、ゲーム『パラノマサイト FILE38 伊勢人魚物語』のアップデートVer.1.1を配信し始めました。このアップデートにより、プレイヤーは新しい機能や改良されたゲーム内容を楽しむことができます。アップデートVer.1.1は、ゲームのバランスや操作性を向上させる変更が含まれており、よりスムーズなゲーム体験が期待できます。スクウェア・エニックスは、将来的にも継続的なア",
+        "description": "スクウェア・エニックスは4月16日、『パラノマサイト FILE38 伊勢人魚物語』のアップデートVer.1.1を配信開始しました。このアップデートにより、プレイヤーは新しい機能やコンテンツを楽しむことができます。スクウェア・エニックスは、このアップデートでゲームの不具合を修正し、プレイヤーのゲーム体験を向上させることを目指しています。アップデートVer.1.1では、ゲームの安定性とパフォーマンスが",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,120 +237,81 @@
         "is_translated": false
       },
       {
-        "title": "【Windrose：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、早期アクセスローンチを果たし、高い評価を獲得した海賊テーマの新作サバイバルアドベンチャーゲーム「Windrose」ですが、新たに開発チームのWindrose CrewがSteamページを更新し、最新の販売規模を報告しました。発売からわずか数週間で、すでに多くのプレイヤーから支持を得ていることがわかります。発売から経過した時間は短いですが、ゲームの評価は非常に高い状態です。Windrose C",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166060.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Nextフェス：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲーム市場コンサルタントのChris Zukowski氏の分析によれば、Steam Nextフェスの体験版をリリースする際には、数か月前から公開しておく方がエンゲージメント率が高いことがわかっています。体験版を事前に公開することで、ユーザーとの関わりを深め、ゲームへの関心を高めることができるのです。Steam Nextフェスは、インディーゲームを中心に新作ゲームのデモバージョンがプレイできるイベン",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-20260415-437627/",
-        "date": "2026-04-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Star Trek: Resurgence：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Bruner Houseは4月15日、アドベンチャーゲーム『Star Trek: Resurgence』の販売を終了すると発表しました。このゲームは、スタートレックシリーズのファンが待ちに待ったタイトルで、プレイヤーは宇宙を舞台に様々な冒険に挑戦します。販売終了の発表により、ゲーマーたちはこのゲームを手に入れる最後のチャンスを逃さないようにする必要があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260415-437566/",
-        "date": "2026-04-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
+        "title": "【スターシップ・トゥルーパーズ：アルティメット・バグ・ウォー：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "法廷での衝突を受けて、開発元のUnknown Worldsは現在、親会社のKraftonではなくSubnautica 2のパブリッシャーとしてリストされています。このゲームは、開発元と親会社との間で意見の相違が原因で、このような状況に陥っています。Unknown Worldsは、Subnautica 2のパブリッシャーとして独立してリストされることで、ゲームの開発とリリースについてより自由に決定で",
+        "description": "『スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー』は、戦闘に特化したゲームではありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/krafton-still-supporting-the-early-access-launch-of-subnautica-2-despite-its-name-being-removed-from-the-steam-page/",
-        "date": "2026-04-15",
+        "url": "https://www.pcgamer.com/games/fps/starship-troopers-ultimate-bug-war-review/",
+        "date": "2026-04-16",
         "is_translated": true
       },
       {
-        "title": "【アトムフォール：リベンジャーズ】",
+        "title": "【Moves of the Diamond Hand：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "未完成のゲームについての素晴らしい議論。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/moves-of-the-diamond-hand-will-be-one-of-2027s-best-rpgs-and-it-just-launched-in-early-access/",
+        "date": "2026-04-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Windrose：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ああ、それは良いスタートですね。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/pirate-survival-windrose-sees-500-000-mateys-buy-the-game-as-steam-reviews-are-mostly-positive/",
+        "date": "2026-04-16",
+        "is_translated": true
+      },
+      {
+        "title": "【ファースト・ライト：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "私たちはラナ・デル・レイの007シリーズのテーマソング「ファースト・ライト」をレビューしましたが、このレビューは2012年のピッチフォークのトラックレビューのスタイルで行われました。ラナ・デル・レイの歌声はジェームズ・ボンドの世界にぴったりで、彼女のユニークな歌声がこのテーマソングに新しい息吹を吹き込んでいます。歌詞もジェームズ・ボンドの世界観に合った暗い雰囲気を醸し出しており、映画の雰囲気を完璧",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lana-del-rey-007-first-light-track-review/",
+        "date": "2026-04-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Expedition 33：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "デアデビルで俳優を務め、ギュスターヴ・チャーリー・コックスの声を担当した彼は、この尊敬されるRPGの初期部分の一部を体験したと語っている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/expedition-33-charlie-cox-played-the-game-gustave-voice-actor-praise/",
+        "date": "2026-04-16",
+        "is_translated": true
+      },
+      {
+        "title": "【アトムフォール：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "去年、レビューのために Atomfall を初めてプレイしたとき、Rebellion のペースト状の散らばったサバイバル ゲームが自分の心にしっかりと根付き始めているように感じました。ゲームの世界に魅了され、掘り下げてみることにしました。",
+        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりとハマり始めているように感じました。ゲームの世界に引き込まれ、掘り下げてみたくなる魅力がありました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/revisiting-atomfalls-pasty-pocalyse-survival-jaunt-a-year-on-ive-finally-been-seduced-by-its-hallucinated-monks-and-jarred-brains",
         "date": "2026-04-15",
-        "is_translated": true
-      },
-      {
-        "title": "【Idols Of Ash：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Idols of Ash について考えるとき、私は 7 つの音を思い浮かべます。ここでは、その恐ろしさが深まる順に列挙しています。最初の最も印象的な音は、私の銀色のグラップルがフックを沈め、それを中断するカチャカチャという音です。この音は、ゲームの緊張感を高めるのに役立つでしょう。次に、私の足音や剣のヒースを切る音も重要です。これらの音は、プレイヤーがゲーム世界に没入できるように設計されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【A Storied Life: Tabitha：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今日は、私と二人の新たに孤児となった兄弟が、幼少期から住んでいた家の監査、荷造り、片付けのプロセスを終えてから1年が経過した日です。私たちが直面する最後の課題は、耐え忍ぶことです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-storied-life-tabitha-review",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "クラフトンは、スイッチ版の早期アクセスについてヨーロッパのビデオゲーマーに返答を発行しました。パブリッシャーは、「現在、早期アクセスの開始を適切にサポートすることに重点を置いている」と述べました。クラフトンが早期アクセスの開始を適切にサポートすることに重点を置いていることは、スイッチ版の発売が間近に迫っていることを示唆しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/krafton-no-longer-listed-as-subnautica-2-publishers-steam-epic-store-quiet-switch",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Road to Vostok：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "フィンランドのサバイバルシューター『Road to Vostok』は、先週初期アクセスでリリースされて以来、かなり順調に進展してきています。その開発者であるAntti Leinonenは、現在、プレーヤーがゲームをどのように遊ぶか、そしてクリアする方法を検討中です。ゲームは、プレーヤーが戦争の混乱の中で生き残るために、さまざまな戦略とテクニックを駆使して、リソースを管理し、敵を倒し、難しい環境を乗",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/this-is-the-most-reasonable-and-wise-thing-to-do-survival-shooter-road-to-vostoks-dev-plans-to-recharge-a-bit-before-tackling-fixes-and-larger-updates",
-        "date": "2026-04-13",
         "is_translated": true
       },
       {
@@ -676,5 +638,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-16T13:08:42.077156"
+  "last_updated": "2026-04-17T02:52:45.319468"
 }

@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【オークションキング：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作はリリース直後から1万5000人を超える同時接続プレイヤー数を集め、注目を集めた。しかし、多数の不評レビューが投稿され、「圧倒的に不評」ステータスを得るなど、波乱の滑り出しとなりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260418-438304/",
+        "date": "2026-04-18",
+        "is_translated": false
+      },
+      {
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんあります。しかし、メガクリット氏は、「期限を厳守すると、いい加減でインスピレーションのない仕事が生まれる」と述べています。開発チームは、自由な発想を大事にし、創造的なアイデアを生み出す時間を持つことが重要だと考えています。そうすることで、より魅力的なゲーム体験をプレイヤーに提供できるからです。",
+        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんありますが、Mega Crit 氏は「期限を厳守すると、雑でインスピレーションのない仕事が生まれます」と言います。つまり、制作チームは、ゲーム開発のスケジュールをしっかり守ることで、創造性や新しいアイデアが失われることを避けようとしています。そうすることで、より自由な発想を持ち、ユーザーの期待に応えた魅力的なゲームを作り出すことができるのです",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +224,23 @@
         "is_translated": true
       },
       {
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "この一週間は少しぼんやりと過ぎていきました。私は今日のWAWAPを受けたのですが、その動機は自発的なものだったのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。とにかく、今日のWAWAPを受けたことは事実です。実は、このWAWAPを受けたことで、私の生活にちょっとした変化が訪れることになりました。=WAWAPを受けたことで、私は新しいゲームの世界に足を踏み",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-378",
+        "date": "2026-04-18",
+        "is_translated": true
+      },
+      {
         "title": "【OPUS: Prism Peak：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始しました。この作品は、すぐに高い評価を獲得しています。『OPUS: Prism Peak』は、プレイヤーが美しい景色を眺めながら、音楽と共に進むアドベンチャーゲームです。開発者は、プレイヤーが音楽と景色を通じて、物語を体験できるような作品を作ることを目指しています。本作のストーリーは、プレイヤーが主人",
+        "description": "集英社ゲームズは4月16日、開発チームSIGONOによる新作『OPUS: Prism Peak』の配信を開始しました。このゲームは発売直後から高い評価を獲得しており、すでに多くのプレイヤーから注目を集めています。開発チームの手腕が存分に発揮されたこの作品は、プレイヤーの期待を上回る内容で話題になっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,7 +250,7 @@
         "is_translated": false
       },
       {
-        "title": "【なし：レビュー】",
+        "title": "欧州委員会は、データを共有するための新しい提案を発表し、インターネットの検索エンジンの分野でGoogleの優位性に挑戦することを考えています。この提案は、ウェブサイトがより簡単に検索結果を共有できるようにすることを目的としています。欧州委員会は、データを共有することで、検索エンジンの市場でより多様な競争が生まれることを期待しています。Googleは現在、検索エンジンの分野で大きなシェアを占めていますが、この提案が実現すると、Googleの地位が脅かされる可能性があります。",
         "platform": "PC Gamer",
         "type": "review",
         "description": "競技場を平準化する。",
@@ -237,23 +263,10 @@
         "is_translated": true
       },
       {
-        "title": "【Vindictus: Defying Fate：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿では、アクションパックされたゲーム『Vindictus: Defying Fate』の魅力を、プレイレポートを通じて紹介します。ゲームのアクションがどのようなものなのか、具体的に体験してみた感想を伝えるため、ゲーマーにとって興味深い内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/vindictus-defying-fate-20260416-437946/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【ポカリスウェットサンド：アトムフォール：】",
+        "title": "【アトムフォール：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。ゲームの世界観やシステムは、プレイヤーに深い印象を残すものでした。ゲームの雰囲気やグラフィックも、プレイヤーを引き込む力がありました。ゲームのストーリーやキャラクターも、興味をそそるものでした。ゲームの難易度や",
+        "description": "昨年、レビューのために Atomfall を初めてプレイしたとき、Rebellion のサバイバルゲームが自分の中にしっかりと根付いているように感じました。ゲームの世界観やシステムが、プレイヤーを引き付け、奥深さを感じさせるものでした。ゲームを進めていくにつれ、様々な要素が組み合わさって、プレイヤーを没頭させる魅力的な体験が得られることがわかりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -586,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18T02:43:29.604661"
+  "last_updated": "2026-04-18T12:39:57.439778"
 }

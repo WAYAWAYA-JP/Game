@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
       }
     ],
     "bundle": [
@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんあります。しかし、メガクリット氏は、「期限を厳守すると、いい加減でインスピレーションのない仕事が生まれる」と述べています。開発チームは、自由な発想を大事にし、創造的なアイデアを生み出す時間を持つことが重要だと考えています。そうすることで、より魅力的なゲーム体験をプレイヤーに提供できるからです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/card-games/i-dont-want-sloppy-spire-2-slay-the-spire-2-dev-teases-exciting-updates-rejects-the-concept-of-deadlines/",
+        "date": "2026-04-18",
+        "is_translated": true
+      },
+      {
         "title": "【OPUS: Prism Peak：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始した。このゲームは、リリース直後から高い評価を獲得しており、プレイヤーから大いに注目されている。ゲーム独自の魅力に加え、開発チームの手腕が存分に発揮された作品となっています。",
+        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始しました。この作品は、すぐに高い評価を獲得しています。『OPUS: Prism Peak』は、プレイヤーが美しい景色を眺めながら、音楽と共に進むアドベンチャーゲームです。開発者は、プレイヤーが音楽と景色を通じて、物語を体験できるような作品を作ることを目指しています。本作のストーリーは、プレイヤーが主人",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,28 +224,15 @@
         "is_translated": false
       },
       {
-        "title": "【Clair Obscur: Expedition 33：レビュー】",
+        "title": "【なし：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "『スターダスト』と『デアデビル』のスターは、自身が出演するゲームを試したことがないことを認めた。ゲームに出演することは新しい挑戦であったそうです。",
+        "description": "競技場を平準化する。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/charlie-cox-has-finally-played-clair-obscur-expedition-33-a-bit/",
-        "date": "2026-04-17",
-        "is_translated": true
-      },
-      {
-        "title": "【バルダーズ・ゲート3：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "彼はアスタリオンとはプレーしませんが、彼らはレイブンロフトに行きます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coasts-official-d-and-d-actual-play-series-will-feature-neil-newbon-and-devora-wilde-from-baldurs-gate-3-among-its-players/",
+        "url": "https://www.pcgamer.com/hardware/the-european-commission-wants-to-push-google-off-its-web-search-throne-with-a-data-sharing-proposal/",
         "date": "2026-04-17",
         "is_translated": true
       },
@@ -240,7 +240,7 @@
         "title": "【Vindictus: Defying Fate：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では、『Vindictus: Defying Fate』のアクションがどのようなものなのか、プレイレポートをお届けします。本作は、ダイナミックなアクションと壮大なグラフィックで知られており、プレイヤーは戦闘の激しさとスピードを体験できます。ゲームの世界は、ファンタジー要素と暗い雰囲気を融合させた独特の設定であり、プレイヤーは様々なキャラクターを操作して、さまざまなミッションを遂行します。また、",
+        "description": "本稿では、アクションパックされたゲーム『Vindictus: Defying Fate』の魅力を、プレイレポートを通じて紹介します。ゲームのアクションがどのようなものなのか、具体的に体験してみた感想を伝えるため、ゲーマーにとって興味深い内容となっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,36 +250,10 @@
         "is_translated": false
       },
       {
-        "title": "【スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー』は戦闘を重視したゲームではありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/starship-troopers-ultimate-bug-war-review/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Moves of the Diamond Hand：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "未完成のゲームについての素晴らしい議論。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/moves-of-the-diamond-hand-will-be-one-of-2027s-best-rpgs-and-it-just-launched-in-early-access/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【アトムフォール：】",
+        "title": "【ポカリスウェットサンド：アトムフォール：】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。ゲームの世界観やシステムが興味を引いたので、もう一度掘り下げてみることにしました。",
+        "description": "去年、レビューのためにAtomfallの最初のプレイスルーを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。ゲームの世界観やシステムは、プレイヤーに深い印象を残すものでした。ゲームの雰囲気やグラフィックも、プレイヤーを引き込む力がありました。ゲームのストーリーやキャラクターも、興味をそそるものでした。ゲームの難易度や",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -612,5 +586,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-17T12:57:55.084323"
+  "last_updated": "2026-04-18T02:43:29.604661"
 }

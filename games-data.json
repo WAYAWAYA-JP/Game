@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-18"
+        "date": "2026-04-19"
       }
     ],
     "bundle": [
@@ -201,7 +201,7 @@
         "title": "【オークションキング：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本作はリリース直後から1万5000人を超える同時接続プレイヤー数を集め、注目を集めた。しかし、多数の不評レビューが投稿され、「圧倒的に不評」ステータスを得るなど、波乱の滑り出しとなりました。",
+        "description": "本作はリリース直後に1万5000人を超える同時接続プレイヤー数を集めることに成功しました。しかし、多数の不評レビューが投稿され、「圧倒的に不評」ステータスを得ることになり、波乱の滑り出しが続いています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +211,23 @@
         "is_translated": false
       },
       {
+        "title": "AOCは、ユーザーのレビューを読んでおり、ソフトウェアは「最も注目されている」問題の1つであることを認めています。また、「ついに、ついに」OSDの更新を行う予定であることを発表しています。これは、ユーザーが直面している問題に対してAOCが真剣に取り組んでいることを示唆しています。OSDの更新により、ユーザーはより快適なゲーム体験ができると期待されています。AOCのこの対応は、ユーザーの声に応え、継続的に改善を行う姿勢を示しています。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "そろそろデュアルモードが普及する時期が来たとしよう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-read-your-reviews-aoc-says-its-software-is-one-of-the-most-highlighted-problems-and-its-finally-finally-updating-its-osd/",
+        "date": "2026-04-18",
+        "is_translated": true
+      },
+      {
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんありますが、Mega Crit 氏は「期限を厳守すると、雑でインスピレーションのない仕事が生まれます」と言います。つまり、制作チームは、ゲーム開発のスケジュールをしっかり守ることで、創造性や新しいアイデアが失われることを避けようとしています。そうすることで、より自由な発想を持ち、ユーザーの期待に応えた魅力的なゲームを作り出すことができるのです",
+        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんあります。しかし、「期限を厳守すると、雑でインスピレーションのない仕事が生まれます」というのがMega Crit氏の考えです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +240,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この一週間は少しぼんやりと過ぎていきました。私は今日のWAWAPを受けたのですが、その動機は自発的なものだったのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。とにかく、今日のWAWAPを受けたことは事実です。実は、このWAWAPを受けたことで、私の生活にちょっとした変化が訪れることになりました。=WAWAPを受けたことで、私は新しいゲームの世界に足を踏み",
+        "description": "この一週間は、ちょっとしたんぼと過ぎていきました。私が今日のWAWAPを自発的に受けたのか、それともZiff Davisの食堂のスポークポイントで強制されたのか、よく覚えていません。何か特別なことが起こったわけではありませんが、ある程度の出来事がありました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -240,7 +253,7 @@
         "title": "【OPUS: Prism Peak：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "集英社ゲームズは4月16日、開発チームSIGONOによる新作『OPUS: Prism Peak』の配信を開始しました。このゲームは発売直後から高い評価を獲得しており、すでに多くのプレイヤーから注目を集めています。開発チームの手腕が存分に発揮されたこの作品は、プレイヤーの期待を上回る内容で話題になっています。",
+        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始しました。このゲームはすぐに高い評価を獲得しており、プレイヤーの間で大きな注目を集めています。高い評価を得た要因としては、ユニークなゲームデザインや美しいグラフィック、そして魅力的なストーリーが挙げられます。『OPUS: Prism Peak』は、プレイヤーが新しい世界を探索し、様々なキャラクターと出",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,23 +263,10 @@
         "is_translated": false
       },
       {
-        "title": "欧州委員会は、データを共有するための新しい提案を発表し、インターネットの検索エンジンの分野でGoogleの優位性に挑戦することを考えています。この提案は、ウェブサイトがより簡単に検索結果を共有できるようにすることを目的としています。欧州委員会は、データを共有することで、検索エンジンの市場でより多様な競争が生まれることを期待しています。Googleは現在、検索エンジンの分野で大きなシェアを占めていますが、この提案が実現すると、Googleの地位が脅かされる可能性があります。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "競技場を平準化する。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/the-european-commission-wants-to-push-google-off-its-web-search-throne-with-a-data-sharing-proposal/",
-        "date": "2026-04-17",
-        "is_translated": true
-      },
-      {
-        "title": "【アトムフォール：レビュー】",
+        "title": "【ポカリスのサバイバルの旅：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨年、レビューのために Atomfall を初めてプレイしたとき、Rebellion のサバイバルゲームが自分の中にしっかりと根付いているように感じました。ゲームの世界観やシステムが、プレイヤーを引き付け、奥深さを感じさせるものでした。ゲームを進めていくにつれ、様々な要素が組み合わさって、プレイヤーを没頭させる魅力的な体験が得られることがわかりました。",
+        "description": "昨年、レビューのためにアトムフォールの最初のプレイを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。ゲームの世界観やシステムに興味が湧き、さらに掘り下げてみたくなりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -599,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18T12:39:57.439778"
+  "last_updated": "2026-04-19T03:18:01.760565"
 }

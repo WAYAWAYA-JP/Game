@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "bundle": [
@@ -198,10 +198,101 @@
     ],
     "review": [
       {
+        "title": "【カミとミコ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "今回、先行プレイの機会をいただき、エンディングまで先に遊んできたので、重要なネタバレを避けつつ、ゲームの内容を紹介します。ゲームの世界観やシステム、ストーリーについて、具体的に説明していきます。先行プレイを通じて得られた感想や、ゲームの魅力についても触れていきます。ゲームの発売に先駆けて、先行プレイの体験を基に、ゲームの全体像を紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/kamimiko-20260420-438463/",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "初の大型アップデート配信後、本作のユーザーレビューは賛否両論の様相を呈している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260420-438454/",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【White Knuckle：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ニューメキシコ州のサンタフェで活動する新スタジオ「Dark Machine Games」のデビュー作として、昨年4月に早期アクセス入りを果たし、高い評価を得ているSci-Fiローグライトホラー「White Knuckle」は、プレイヤーから大きな注目を集めています。このゲームは、独自の世界観と恐怖感でプレイヤーを魅了し、Sci-Fiファンやホラーゲームの愛好家からの支持を集めています。早期アクセス",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166126.html",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Pragmata：レビュー】\n【Windrose：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "4 月 19 日までの週の Steam で起きた興味深い出来事をまとめてみました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/",
+        "date": "2026-04-20",
+        "is_translated": true
+      },
+      {
+        "title": "【PC Gamer：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "過去の思い出やプレビューの宝庫に飛び込んでみましょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-internet-archive-has-preserved-758-old-pc-gamer-demo-discs-you-can-download-and-play/",
+        "date": "2026-04-19",
+        "is_translated": true
+      },
+      {
+        "title": "【Airborne Kingdom：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Airborne Empire が Steam の早期アクセスから急速に人気を集めてきました。このゲームは、プレイヤーが浮遊する島を舞台に、独自の王国を築き上げることができます。各島は、それぞれ異なる特徴と資源を持ち、プレイヤーはこれらの島々を結びつけて、繁栄する帝国を築くことを目指します。ゲームの世界は、美しいグラフィックと緻密なストーリーで彩られ、プレイヤーはさまざまなキャラクターと出会い、戦",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/city-builder/the-sequel-to-flying-city-builder-airborne-kingdom-just-hit-1-0-with-a-huge-update-and-a-50-percent-discount/",
+        "date": "2026-04-19",
+        "is_translated": true
+      },
+      {
+        "title": "【ミラーズエッジ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "偉大さから遠ざかるには、ホップ、スキップ、そしてジャンプが必要ですか？この質問に答えるためには、まず何が偉大さを決定するのかを考える必要があります。偉大さとは、多くの分野で最高の成績を収めることです。したがって、ホップ、スキップ、ジャンプなどの身体的な動きは、偉大さを達成する上で重要な役割を果たす可能性があります。実際、ホップやジャンプなどの運動能力は、多くのスポーツで優れた成績を収めるために不可",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/mirrors-edge-review-2009/",
+        "date": "2026-04-19",
+        "is_translated": true
+      },
+      {
         "title": "【オークションキング：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本作はリリース直後から1万5000人を超える同時接続プレイヤー数を集めましたが、多数の不評レビューが投稿され、波乱の滑り出しとなりました。不評レビューの数は圧倒的で、「圧倒的に不評」ステータスを得ることになりました。",
+        "description": "本作はリリース直後から1万5000人を超える同時接続プレイヤー数を集める人気を博したものの、多数の不評レビューが投稿される波乱のスタートとなった。プレイヤーからの評価は厳しく、「圧倒的に不評」なレーティングがつくほどで、ゲームの評判は思わしくなかった。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,7 +302,7 @@
         "is_translated": false
       },
       {
-        "title": "【AOC：レビュー】",
+        "title": "【なし：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "そろそろデュアルモードが普及する時期が来たとしよう。",
@@ -224,23 +315,10 @@
         "is_translated": true
       },
       {
-        "title": "【Slay the Spire 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "早期アクセスのデッキビルダーには、やるべきことがたくさんありますが、Mega Crit 氏は「期限を厳守すると、雑でインスピレーションのない仕事になってしまう」と語っています。ゲーム開発者は、創造性を損なうことなく、自由にアイデアを出せる時間が必要です。こうした考えから、Mega Crit 氏は開発スケジュールにゆとりを持たせ、チームメンバーが新しいアイデアを試せる環境を作り出しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/card-games/i-dont-want-sloppy-spire-2-slay-the-spire-2-dev-teases-exciting-updates-rejects-the-concept-of-deadlines/",
-        "date": "2026-04-18",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この一週間は、なんだかぼんやりと過ぎていきました。私は今日のWAWAPを受けることを自発的に選んだのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。そんなことを考えながら、時間は流れていくのでした。",
+        "description": "この一週間は少しゆったりと過ぎていきました。私が今日のWAWAPを受けたのは、自発的に決めたのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。どちらにせよ、今日も新しいゲーム情報を紹介するWAWAPの時間です。ゲーマーにとっては、毎週楽しみに待ち越されるイベントです。新しいゲームの発表やアップデート、さまざまなゲーム関連のニュースが紹介されます。ゲーマーに",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -253,7 +331,7 @@
         "title": "【OPUS: Prism Peak：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始しました。このゲームはすぐに高い評価を獲得し、プレイヤーから大きな注目を集めています。美しいグラフィックと魅力的なゲームプレイが特徴で、プレイヤーはさまざまなステージを攻略しながら、ゲームの世界を探索することができます。高い評価を受けている本作は、ゲームファンにとって必遊のタイトルとなっています。",
+        "description": "集英社ゲームズは4月16日、SIGONOが開発した『OPUS: Prism Peak』の配信を開始しました。このゲームはすぐに高い評価を獲得しており、プレイヤーの間で大きな話題になっています。開発者が手掛けた本作は、ユーザーから高い評価を受けており、ゲームファンにも注目されています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -263,10 +341,10 @@
         "is_translated": false
       },
       {
-        "title": "【アトムフォール：ポカリスのサバイバルの旅：レビュー】",
+        "title": "【ポカリス：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "去年、Atomfallのレビューのために最初のプレイを終えたとき、Rebellionのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付いてきているように感じました。ゲームの世界観やシステムが、じっくり掘り下げてみたくなるものでした。",
+        "description": "去年のレビューのためにアトムフォールの最初のプレイを終えたとき、レベリオンのペースト状の散りばめられたサバイバルゲームが自分の中にしっかりと根付き始めているように感じました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -599,5 +677,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-19T12:39:28.858240"
+  "last_updated": "2026-04-20T03:20:27.593426"
 }

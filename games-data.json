@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-20"
+        "date": "2026-04-21"
       }
     ],
     "bundle": [
@@ -198,10 +198,49 @@
     ],
     "review": [
       {
+        "title": "【ゲーム名：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム業界の専門人材紹介会社Skillsearchが最近行った調査によると、人員削減を機にゲーム業界から離れることを検討しているゲーム業界従業員は、回答者の44％に相当するという。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260420-438623/",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
+        "title": "【プチプラネット：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『プチプラネット』のβテスト「星旅テスト」のプレイレポートをお届けします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/petitplanet-20260421-438611/",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Foundry：Rails & Reactors：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新スタジオChannel 3 Entertainmentのデビュー作として、2024年5月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fi工場建築シム「Foundry」です。このゲームは、新たにParadox Interactiveと提携し、さらに注目されています。プレイヤーは、未来的な工場を設計し、建設して運用することで、独自の宇宙帝国を築き上げていきます。工場の効率化や資源",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166201.html",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
         "title": "【オクトピンブス：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『OCTOPinbs（オクトピンブス）』は、人狼系のゲームですが、少人数陣営の「開き直り」が特徴的な、ユニークなタイトルです。本稿では、このゲームの試遊インプレッションを紹介します。人狼系のゲームというと、多くのプレイヤーが参加することが多いですが、『OCTOPinbs』は少人数でプレイするのが楽しいゲームです。少人数陣営の「開き直り」が醍醐味となり、他の人狼系のゲームとは一味違う魅力を持っていま",
+        "description": "『OCTOPinbs（オクトピンブス）』は、人狼系のゲームですが、少人数の陣営が「開き直り」するのが面白い、一風変わったタイトルです。本稿では、このゲームの試遊インプレッションを紹介します。人狼系のゲームは一般的には多人数でプレイされることが多いですが、『OCTOPinbs』はそのような常識を覆す少人数でのプレイが特徴です。プレイヤーは、自分が所属する陣営を最後まで守り抜くために、戦略的に行動する",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +253,7 @@
         "title": "【ShantyTown：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Kinephantom Gamesは4月17日、ユニークなジオラマ構築シミュレーションゲーム『ShantyTown』を配信しました。ゲームの内容は、プレイヤーが小さな町を築き上げていくというもので、都市計画や資源管理など、様々な要素を考慮して町を発展させていく必要があります。『ShantyTown』は、配信直後から非常に高い評価を獲得しており、プレイヤーから町の作り方を工夫することの面白さや、町の",
+        "description": "Kinephantom Gamesは4月17日、ユニークなゲーム『ShantyTown』をリリースしました。このゲームは、ジオラマを自由に構築することができるシミュレーションゲームで、プレイヤーはさまざまなアイテムやキャラクターを組み合わせて、独自の世界を作り上げることができます。リリース直後から、非常に高い評価を獲得し、プレイヤーからの支持を集めています。ゲームのグラフィックやサウンドトラックも",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +266,7 @@
         "title": "【カミとミコ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "今回、先行プレイの機会をいただき、エンディングまで先に遊んできたので、クリティカルなネタバレは避けつつ、内容を紹介しよう。",
+        "description": "今回は先行プレイの機会をいただき、エンディングまで先に遊んできたので、重要なネタバレは避けつつ、ゲームの内容を紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,36 +276,49 @@
         "is_translated": false
       },
       {
-        "title": "【Slay the Spire 2：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【ENDLESS Legend 2：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "初の大型アップデートが配信された後、本作のユーザーレビューは賛否両論の状態にある。",
+        "description": "昨年9月に早期アクセス版がリリースされ、高い評価を獲得したAmplitude Studiosの人気ストラテジーシリーズ最新作「ENDLESS Legend 2」が、新たな展開を見せます。Hooded HorseとAmplitude Studiosは、最新情報を発表し、ファンを喜ばせています。ENDLESS Legend 2は、ストラテジーゲームのファンに熱狂的な支持を集め、高い評価を獲得してきたシ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260420-438454/",
+        "url": "https://doope.jp/2026/04166170.html",
         "date": "2026-04-20",
         "is_translated": false
       },
       {
-        "title": "【White Knuckle：レビュー】",
-        "platform": "doope!",
+        "title": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホワイトハウスの当局者と「生産的で建設的な」会議を行ったようです。サイバーセキュリティの分野でAnthropicのAIモデルがどのような役割を果たすか、興味を持つ人も多いでしょう。会議の詳細はまだ明らかになっていませんが、AnthropicのAIモデルの潜在性について、ホワイトハウスの当局者と生産的な議論が交わされたことは確かです。サイバーセキュリティの分野におけるAIの活用は今後ますます重要性を増すと考えられます。AnthropicのAIモデルが、この分野にどのような貢献をしていくのか、注目されています。",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "ニューメキシコ州のサンタフェで活動する新スタジオ「Dark Machine Games」のデビュー作として、昨年4月に早期アクセスに参入し、高い評価を得ているSFローグライクホラーの「White Knuckle」です。このゲームは、プレイヤーを未知の恐怖に導き込み、スリルと緊張を味わえるよう設計されています。ゲームの世界は、サイエンスフィクションとホラーの要素を融合させ、独自の雰囲気を醸し出してい",
+        "description": "PC Gamerによるレビュー記事。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166126.html",
+        "url": "https://www.pcgamer.com/software/ai/anthropic-had-a-productive-and-constructive-meeting-with-white-house-officials-after-the-preview-release-of-its-new-cybersecurity-challenging-ai-model/",
         "date": "2026-04-20",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "【HyperX Cloud Flight 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Cloud Flight 2 は、ギミックを省き、ゲームの本質に焦点を当てた、価値のある続編です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/hyperx-cloud-flight-2-review/",
+        "date": "2026-04-20",
+        "is_translated": true
       },
       {
         "title": "【ヴァンパイア クローラーズ：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このローグライクデッキビルダーは、クリックするまでに時間がかかりすぎるという問題を抱えています。ゲームのバランスも些か偏っており、より魅力的なゲーム体験を求めるゲーマーには、少し物足りないと感じるかもしれません。",
+        "description": "クリックするまでに時間がかかりすぎて、少し偏ったローグライクデッキビルダーのようなゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,75 +328,23 @@
         "is_translated": true
       },
       {
-        "title": "【Pragmata：レビュー】\n【Windrose：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【エルデン リング：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "4月19日までの一週間のSteamの面白いニュースをまとめてみました。Steamでは様々なゲームがリリースされており、ユーザーは新しいゲームを楽しんだり、既存のゲームのアップデートに期待を寄せています。この週のSteamのニュースでは、新しいゲームのリリースや大規模なアップデート、そしてユーザーの反響などが注目されています。Steamコミュニティでの議論や、ゲーム開発者の最新情報なども紹介していま",
+        "description": "A24とアレックス・ガーランドが手がける『エルデン・リング』の映画化作品に、ついに正式なキャストが発表されました。しかし、どの俳優がどのキャラクターを演じるのかについてはまだ詳細が明らかになっていません。映画化されることで、ゲームファンが愛する世界が新たな形で表現されることを楽しみに待つことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/",
+        "url": "https://www.polygon.com/elden-ring-movie-cast-characters-alex-garland-a24/",
         "date": "2026-04-20",
         "is_translated": true
       },
       {
-        "title": "【PC Gamer：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "過去の思い出やプレビューの宝庫に飛び込んでみましょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-internet-archive-has-preserved-758-old-pc-gamer-demo-discs-you-can-download-and-play/",
-        "date": "2026-04-19",
-        "is_translated": true
-      },
-      {
-        "title": "【Airborne Kingdom：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Airborne Empire は Steam の早期アクセスから急速に人気が上昇しています。このゲームでは、プレイヤーは空中都市を建造して運営するというユニークな体験ができます。さまざまな建物や施設を建設し、資源を管理して都市を繁栄させます。さらに、都市を浮遊させて異なる環境に適応させる必要があり、戦略的な思考とリソース管理が求められます。Steam の早期アクセスから大きな注目を集め、ゲーマー",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/city-builder/the-sequel-to-flying-city-builder-airborne-kingdom-just-hit-1-0-with-a-huge-update-and-a-50-percent-discount/",
-        "date": "2026-04-19",
-        "is_translated": true
-      },
-      {
-        "title": "【ミラーズエッジ：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "偉大さから遠ざかるには、ホップ、スキップ、そしてジャンプが必要ですか？",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/mirrors-edge-review-2009/",
-        "date": "2026-04-19",
-        "is_translated": true
-      },
-      {
-        "title": "【オークションキング：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本作はリリース直後から1万5000人を超える同時接続プレイヤー数を集めましたが、多数の不評レビューが投稿され、「圧倒的に不評」ステータスを獲得する波乱の滑り出しとなりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260418-438304/",
-        "date": "2026-04-18",
-        "is_translated": false
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この一週間は少し停滞して感じるかもしれませんが、実は私にとっては大きな出来事がありました。今日のWAWAPを受けることにしたのは、本当に自発的に決めたのでしょうか、それともZiff Davisの食堂で強制されたのでしょうか。そんな疑問が浮かんでいます。",
+        "description": "この一週間は、なんとなくぼんやりとしていました。私は今日のWAWAPに自発的に参加したのでしょうか、それともZiff Davisの食堂のスポークポイントで参加を強いられたのでしょうか。私はその理由をはっきり覚えていません。ただ、この一週間が終わろうとしていることは確かです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -677,5 +677,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-20T13:07:47.469455"
+  "last_updated": "2026-04-21T02:53:41.062768"
 }

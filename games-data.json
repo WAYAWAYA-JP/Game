@@ -198,10 +198,10 @@
     ],
     "review": [
       {
-        "title": "【ゲーム名：レビュー】",
+        "title": "ゲーム業界では、レイオフ経験者の44％が「業界外への転職検討中」との調査レポート。加速する“ゲーム業界離れ”",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゲーム業界の専門人材紹介会社Skillsearchが最近行った調査によると、人員削減を機にゲーム業界から離れることを検討しているゲーム業界従業員は、回答者の44％に相当するという。",
+        "description": "ゲーム業界の人材紹介会社であるSkillsearchの最新調査によると、人員削減をきっかけにゲーム業界を離れることを検討している回答者は44％に達するという。ゲーム業界では、人員削減が頻繁に発生しており、多くの従業員が業界を離れることを考えるようになっている。Skillsearchの調査結果は、ゲーム業界が直面している人材流動の問題を浮き彫りにしている。調査では、業界の変化や課題に適応するための対",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +214,7 @@
         "title": "【プチプラネット：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『プチプラネット』のβテスト「星旅テスト」のプレイレポートをお届けします。",
+        "description": "魅力的で新しいゲーム「プチプラネット」のβテスト「星旅テスト」のプレイレポートをお届けします。ゲーマーの皆さんにとって、新しい体験と感動を提供する、このゲームの特徴や魅力を詳しく紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +227,7 @@
         "title": "【Foundry：Rails & Reactors：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "新スタジオChannel 3 Entertainmentのデビュー作として、2024年5月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fi工場建築シム「Foundry」です。このゲームは、新たにParadox Interactiveと提携し、さらに注目されています。プレイヤーは、未来的な工場を設計し、建設して運用することで、独自の宇宙帝国を築き上げていきます。工場の効率化や資源",
+        "description": "新スタジオChannel 3 Entertainmentのデビュー作として、2024年5月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fi工場建築シム「Foundry」ですが、新たにParadox Interactiveと提携し、さらに進化を遂げます。PLAYERは未来の惑星で工場を建設し、資源を管理して生産を効率化することを目指します。ゲームの世界は、プレイヤーの行動によって",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,49 +237,23 @@
         "is_translated": false
       },
       {
-        "title": "【オクトピンブス：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【Kick：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "『OCTOPinbs（オクトピンブス）』は、人狼系のゲームですが、少人数の陣営が「開き直り」するのが面白い、一風変わったタイトルです。本稿では、このゲームの試遊インプレッションを紹介します。人狼系のゲームは一般的には多人数でプレイされることが多いですが、『OCTOPinbs』はそのような常識を覆す少人数でのプレイが特徴です。プレイヤーは、自分が所属する陣営を最後まで守り抜くために、戦略的に行動する",
+        "description": "Kick は、2D 横スクロールのサッカー ゲームで、活気に満ちた通りをボールをドリブルしながら通過して、学校まで辿り着かなければなりません。トリックを上手に使い、障害を乗り越えながら、ボールをゴールに導かなければなりません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/20260420-434781/",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ShantyTown：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Kinephantom Gamesは4月17日、ユニークなゲーム『ShantyTown』をリリースしました。このゲームは、ジオラマを自由に構築することができるシミュレーションゲームで、プレイヤーはさまざまなアイテムやキャラクターを組み合わせて、独自の世界を作り上げることができます。リリース直後から、非常に高い評価を獲得し、プレイヤーからの支持を集めています。ゲームのグラフィックやサウンドトラックも",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260420-438479/",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【カミとミコ：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "今回は先行プレイの機会をいただき、エンディングまで先に遊んできたので、重要なネタバレは避けつつ、ゲームの内容を紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/kamimiko-20260420-438463/",
-        "date": "2026-04-20",
-        "is_translated": false
+        "url": "https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/",
+        "date": "2026-04-21",
+        "is_translated": true
       },
       {
         "title": "【ENDLESS Legend 2：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "昨年9月に早期アクセス版がリリースされ、高い評価を獲得したAmplitude Studiosの人気ストラテジーシリーズ最新作「ENDLESS Legend 2」が、新たな展開を見せます。Hooded HorseとAmplitude Studiosは、最新情報を発表し、ファンを喜ばせています。ENDLESS Legend 2は、ストラテジーゲームのファンに熱狂的な支持を集め、高い評価を獲得してきたシ",
+        "description": "昨年9月に早期アクセス版がローンチされ、高い評価を獲得したAmplitude Studiosの人気ストラテジーシリーズ最新作「ENDLESS Legend 2」は、新たな展開を見せています。Hooded HorseとAmplitude Studiosの新しいパートナーシップにより、シリーズのファンは新たなストーリーやゲームプレイ要素など、更なる楽しみが待っています。ENDLESS Legend 2",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -289,7 +263,7 @@
         "is_translated": false
       },
       {
-        "title": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホワイトハウスの当局者と「生産的で建設的な」会議を行ったようです。サイバーセキュリティの分野でAnthropicのAIモデルがどのような役割を果たすか、興味を持つ人も多いでしょう。会議の詳細はまだ明らかになっていませんが、AnthropicのAIモデルの潜在性について、ホワイトハウスの当局者と生産的な議論が交わされたことは確かです。サイバーセキュリティの分野におけるAIの活用は今後ますます重要性を増すと考えられます。AnthropicのAIモデルが、この分野にどのような貢献をしていくのか、注目されています。",
+        "title": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホワイトハウスの当局者と会議を行いました。この会議は「生産的かつ建設的」だったと言われています。Anthropicの新しいAIモデルは、サイバーセキュリティの分野で注目を集めています。このモデルは、サイバー攻撃を検出して防ぐ能力を持ち、サイバーセキュリティの新しい時代を切り開く可能性があります。ホワイトハウスとの会議は、AnthropicのAIモデルが持つ可能性を理解するために重要なステップです。会議の詳細は明らかになっていませんが、AnthropicのAIモデルがサイバーセキュリティの分野で大きな変化をもたらす可能性は高く、注目され続けるでしょう。",
         "platform": "PC Gamer",
         "type": "review",
         "description": "PC Gamerによるレビュー記事。",
@@ -305,7 +279,7 @@
         "title": "【HyperX Cloud Flight 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Cloud Flight 2 は、ギミックを省き、ゲームの本質に焦点を当てた、価値のある続編です。",
+        "description": "Cloud Flight 2 は、ギミックを排除し、核心に焦点を当てた、魅力的な続編です。シリーズの本質をうまく捉え、ゲームの価値を高めている点が特に評価される作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -315,36 +289,10 @@
         "is_translated": true
       },
       {
-        "title": "【ヴァンパイア クローラーズ：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "クリックするまでに時間がかかりすぎて、少し偏ったローグライクデッキビルダーのようなゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/vampire-crawlers-review/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
-        "title": "【エルデン リング：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "A24とアレックス・ガーランドが手がける『エルデン・リング』の映画化作品に、ついに正式なキャストが発表されました。しかし、どの俳優がどのキャラクターを演じるのかについてはまだ詳細が明らかになっていません。映画化されることで、ゲームファンが愛する世界が新たな形で表現されることを楽しみに待つことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/elden-ring-movie-cast-characters-alex-garland-a24/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この一週間は、なんとなくぼんやりとしていました。私は今日のWAWAPに自発的に参加したのでしょうか、それともZiff Davisの食堂のスポークポイントで参加を強いられたのでしょうか。私はその理由をはっきり覚えていません。ただ、この一週間が終わろうとしていることは確かです。",
+        "description": "この一週間はどうだったでしょうか。私にとっては、少し退屈な日々が過ぎていきました。今日のWAWAPを受けたのは、自発的に決めたのでしょうか、それともZiff Davisの食堂のスポークポイントで強いられたのでしょうか。そんなことを考えてみると、気になることがいくつかあります。WAWAPとは何なのでしょうか。Ziff Davisの食堂とはどんな場所なのでしょうか。強制されたとしても、自発的に参加した",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -677,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-21T02:53:41.062768"
+  "last_updated": "2026-04-21T13:02:16.180429"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-21"
+        "date": "2026-04-22"
       }
     ],
     "bundle": [
@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "【RUINER 2：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気サイバーパンクアクション「RUINER」の続編として今年3月にアナウンスされたReikon Gamesの「RUINER 2」は、高い評価を獲得した前作のナンバリング続編です。3人Co-opを導入するこの続編の動向に、多くのゲームファンが注目しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166216.html",
+        "date": "2026-04-22",
+        "is_translated": false
+      },
+      {
         "title": "ゲーム業界では、レイオフ経験者の44％が「業界外への転職検討中」との調査レポート。加速する“ゲーム業界離れ”",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゲーム業界の人材紹介会社であるSkillsearchの最新調査によると、人員削減をきっかけにゲーム業界を離れることを検討している回答者は44％に達するという。ゲーム業界では、人員削減が頻繁に発生しており、多くの従業員が業界を離れることを考えるようになっている。Skillsearchの調査結果は、ゲーム業界が直面している人材流動の問題を浮き彫りにしている。調査では、業界の変化や課題に適応するための対",
+        "description": "ゲーム業界系の人材紹介会社Skillsearchの最新調査によると、人員削減をきっかけにゲーム業界を離れることを検討しているという回答者は44％にのぼることがわかりました。これは、業界の人材が大幅に減少する可能性があることを示唆しており、大きな課題となっています。調査結果は、ゲーム業界における人材の流動性が高まっていることを示しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +227,7 @@
         "title": "【プチプラネット：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "魅力的で新しいゲーム「プチプラネット」のβテスト「星旅テスト」のプレイレポートをお届けします。ゲーマーの皆さんにとって、新しい体験と感動を提供する、このゲームの特徴や魅力を詳しく紹介します。",
+        "description": "『プチプラネット』のβテスト「星旅テスト」のプレイレポートをお届けします。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,75 +237,75 @@
         "is_translated": false
       },
       {
-        "title": "【Foundry：Rails & Reactors：レビュー】",
+        "title": "【ディアブロ IV: 憎悪の帝王：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "新スタジオChannel 3 Entertainmentのデビュー作として、2024年5月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fi工場建築シム「Foundry」ですが、新たにParadox Interactiveと提携し、さらに進化を遂げます。PLAYERは未来の惑星で工場を建設し、資源を管理して生産を効率化することを目指します。ゲームの世界は、プレイヤーの行動によって",
+        "description": "昨晩、国内外のメディアが「ディアブロ IV」の大型拡張パック「憎悪の帝王」のレビューを公開した。解禁されたレビューでは、ファンが待ちに待ったコンテンツが詰まった拡張パックの内容が明らかになっている。4月28日の正式解禁が目前に迫るなか、Blizzard Entertainmentは新たな情報を公開した。新たな情報では、拡張パックのストーリーやシステム、キャラクターの新要素などが紹介されている。ファ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166201.html",
+        "url": "https://doope.jp/2026/04166218.html",
         "date": "2026-04-21",
         "is_translated": false
       },
       {
-        "title": "【Kick：レビュー】",
-        "platform": "Polygon",
+        "title": "【ディアブロ 4: ロード オブ ヘイトレッド：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Kick は、2D 横スクロールのサッカー ゲームで、活気に満ちた通りをボールをドリブルしながら通過して、学校まで辿り着かなければなりません。トリックを上手に使い、障害を乗り越えながら、ボールをゴールに導かなければなりません。",
+        "description": "アクションRPGに、これまで以上の深みを与える新しい拡張機能が登場します。この拡張は、プレイヤーに新たな挑戦と機会を提供し、ゲームの世界をより豊かにします。新しいストーリー、キャラクター、ゲームプレイメカニクスが追加され、アクションRPGのファンには必見のコンテンツです。勝利の拡張は、既存のゲームに新たな楽しみを加え、プレイヤーを引き付ける強力な魅力を持っています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/",
+        "url": "https://www.pcgamer.com/games/rpg/diablo-4-lord-of-hatred-review/",
         "date": "2026-04-21",
         "is_translated": true
       },
       {
-        "title": "【ENDLESS Legend 2：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年9月に早期アクセス版がローンチされ、高い評価を獲得したAmplitude Studiosの人気ストラテジーシリーズ最新作「ENDLESS Legend 2」は、新たな展開を見せています。Hooded HorseとAmplitude Studiosの新しいパートナーシップにより、シリーズのファンは新たなストーリーやゲームプレイ要素など、更なる楽しみが待っています。ENDLESS Legend 2",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166170.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホワイトハウスの当局者と会議を行いました。この会議は「生産的かつ建設的」だったと言われています。Anthropicの新しいAIモデルは、サイバーセキュリティの分野で注目を集めています。このモデルは、サイバー攻撃を検出して防ぐ能力を持ち、サイバーセキュリティの新しい時代を切り開く可能性があります。ホワイトハウスとの会議は、AnthropicのAIモデルが持つ可能性を理解するために重要なステップです。会議の詳細は明らかになっていませんが、AnthropicのAIモデルがサイバーセキュリティの分野で大きな変化をもたらす可能性は高く、注目され続けるでしょう。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/anthropic-had-a-productive-and-constructive-meeting-with-white-house-officials-after-the-preview-release-of-its-new-cybersecurity-challenging-ai-model/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
-        "title": "【HyperX Cloud Flight 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Cloud Flight 2 は、ギミックを排除し、核心に焦点を当てた、魅力的な続編です。シリーズの本質をうまく捉え、ゲームの価値を高めている点が特に評価される作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/hyperx-cloud-flight-2-review/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "【Hades 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この一週間はどうだったでしょうか。私にとっては、少し退屈な日々が過ぎていきました。今日のWAWAPを受けたのは、自発的に決めたのでしょうか、それともZiff Davisの食堂のスポークポイントで強いられたのでしょうか。そんなことを考えてみると、気になることがいくつかあります。WAWAPとは何なのでしょうか。Ziff Davisの食堂とはどんな場所なのでしょうか。強制されたとしても、自発的に参加した",
+        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそれを気に入ってくれました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘しました。『運命』の正確さによって、これが実現したことは彼にとって興味深いものでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
+        "date": "2026-04-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Tides of Tomorrow：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Tides of Tomorrow では、これまでに見たことのない独自のソーシャル システムが導入されています。このシステムにより、プレイヤー同士の交流やコミュニケーションがさらに深まり、ゲーム内での関係性がよりリアルなものになります。例えば、プレイヤーは他のプレイヤーとグループを形成して共同でミッションに挑戦したり、ゲーム内でのイベントやアクティビティに参加したりすることができます。さらに、プレ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/tides-of-tomorrow-review/",
+        "date": "2026-04-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Diablo 4：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Blizzard は Vessel of Hatred を大幅に改善しましたが、キャンペーンとエンドゲームを統合する方法はまだ見つかっていません。Vessel of Hatred は、キャンペーンとエンドゲームを一つにまとめることができる重要な要素ですが、Blizzard はこの問題に対して、解決策を見つけられていないようです。キャンペーンとエンドゲームの統合は、プレイヤーにとって非常に重要な要素",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/diablo-4-lord-of-hatred-review/",
+        "date": "2026-04-21",
+        "is_translated": true
+      },
+      {
+        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "この1週間は、少しつまらなく過ぎていきました。私は今日のWAWAPを受けることを自発的に決めたのでしょうか、それともZiff Davisの食堂で強制されたのでしょうか。理由はわかりませんが、今日はWAWAPに挑戦することになりました。このゲームの魅力に取り憑かれたのでしょうか、それとも単に気晴らしにやるのでしょうか。とにかく、今日はWAWAPの世界に足を踏み入れることになりました。WAWAPの世界",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -625,5 +638,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-21T13:02:16.180429"
+  "last_updated": "2026-04-22T02:52:31.518714"
 }

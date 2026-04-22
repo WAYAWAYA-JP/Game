@@ -201,7 +201,7 @@
         "title": "【RUINER 2：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "人気サイバーパンクアクション「RUINER」の続編として今年3月にアナウンスされたReikon Gamesの「RUINER 2」は、高い評価を獲得した前作のナンバリング続編です。3人Co-opを導入するこの続編の動向に、多くのゲームファンが注目しています。",
+        "description": "人気サイバーパンクアクション「RUINER」のナンバリング続編として今年3月にアナウンスされたReikon Gamesの次回作「RUINER 2」は、高い評価を獲得した前作の続編として、3人Co-opを導入することで、大きな注目を集めています。ゲームファンは、続編の新しい機能やストーリーの展開に大きな期待を寄せています。前作と同様に、サイバーパンクの世界観やアクション要素が存分に楽しめる「RUIN",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,49 +211,62 @@
         "is_translated": false
       },
       {
-        "title": "ゲーム業界では、レイオフ経験者の44％が「業界外への転職検討中」との調査レポート。加速する“ゲーム業界離れ”",
-        "platform": "AUTOMATON",
+        "title": "【チタンコート：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "ゲーム業界系の人材紹介会社Skillsearchの最新調査によると、人員削減をきっかけにゲーム業界を離れることを検討しているという回答者は44％にのぼることがわかりました。これは、業界の人材が大幅に減少する可能性があることを示唆しており、大きな課題となっています。調査結果は、ゲーム業界における人材の流動性が高まっていることを示しています。",
+        "description": "マッチ3とオートバトルを独創的に組み合わせた、このゲームは面白さと賢さを同時に味わえる、楽しいゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260420-438623/",
-        "date": "2026-04-21",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/roguelike/titanium-court-review/",
+        "date": "2026-04-22",
+        "is_translated": true
       },
       {
-        "title": "【プチプラネット：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【スパイダーマン/スーパーマン #1：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "『プチプラネット』のβテスト「星旅テスト」のプレイレポートをお届けします。",
+        "description": "マーベルとDCの最新のクロスオーバー作品は、面白い瞬間や驚き、そして想像力が溢れる様々なシーンで溢れています。この作品では、スパイダーマンとスーパーマンが何故こんなにも相性がいいのかを詳しく紹介しています。二人のヒーローが一緒に活躍する様子は、実に夢ののような組み合わせであり、ファンには大いに楽しめるものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/petitplanet-20260421-438611/",
-        "date": "2026-04-21",
-        "is_translated": false
+        "url": "https://www.polygon.com/spider-man-superman-crossover-review-marvel-dc/",
+        "date": "2026-04-22",
+        "is_translated": true
       },
       {
-        "title": "【ディアブロ IV: 憎悪の帝王：レビュー】",
-        "platform": "doope!",
+        "title": "【ヨッシーと不思議な本：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "昨晩、国内外のメディアが「ディアブロ IV」の大型拡張パック「憎悪の帝王」のレビューを公開した。解禁されたレビューでは、ファンが待ちに待ったコンテンツが詰まった拡張パックの内容が明らかになっている。4月28日の正式解禁が目前に迫るなか、Blizzard Entertainmentは新たな情報を公開した。新たな情報では、拡張パックのストーリーやシステム、キャラクターの新要素などが紹介されている。ファ",
+        "description": "5月21日に発売される任天堂の新しいSwitch 2ヨッシー ゲームは、ユニークで楽しい環境とそこに住む個性豊かな生き物を探索するゲームです。このゲームでは、プレイヤーは美しい景色の中を自由に移動し、様々なキャラクターと出会い、楽しいアドベンチャーを体験することができます。ゲームの世界は、色鮮やかなグラフィックとキャラクターの愛らしいデザインで構成されており、プレイヤーを魅了すること間違いなしです",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166218.html",
-        "date": "2026-04-21",
-        "is_translated": false
+        "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-preview/",
+        "date": "2026-04-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Titanium Court：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Titanium Courtは、複数のジャンルを融合させ、プレイヤーをいじるのが楽しい、不条理で独創的な戦略ゲームを作り出すゲームです。このゲームでは、プレイヤーは予測不可能な展開の中で戦略を立て、勝利を目指します。ゲームの独創的なシステムと不条理な要素は、プレイヤーを新しい体験に導き、戦略ゲームの楽しさを再定義します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/titanium-court-review/",
+        "date": "2026-04-22",
+        "is_translated": true
       },
       {
         "title": "【ディアブロ 4: ロード オブ ヘイトレッド：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "アクションRPGに、これまで以上の深みを与える新しい拡張機能が登場します。この拡張は、プレイヤーに新たな挑戦と機会を提供し、ゲームの世界をより豊かにします。新しいストーリー、キャラクター、ゲームプレイメカニクスが追加され、アクションRPGのファンには必見のコンテンツです。勝利の拡張は、既存のゲームに新たな楽しみを加え、プレイヤーを引き付ける強力な魅力を持っています。",
+        "description": "アクションRPGに新たな深みを与える、勝利の拡張が登場します。この拡張は、プレイヤーに新たな戦略や探索の機会を提供し、ゲームの世界をさらに豊かにします。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -266,7 +279,7 @@
         "title": "【Hades 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそれを気に入ってくれました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘しました。『運命』の正確さによって、これが実現したことは彼にとって興味深いものでした。",
+        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそれを高く評価していました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘し、『運命』の正確さによって、これが実現したと感じていました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,36 +289,10 @@
         "is_translated": true
       },
       {
-        "title": "【Tides of Tomorrow：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Tides of Tomorrow では、これまでに見たことのない独自のソーシャル システムが導入されています。このシステムにより、プレイヤー同士の交流やコミュニケーションがさらに深まり、ゲーム内での関係性がよりリアルなものになります。例えば、プレイヤーは他のプレイヤーとグループを形成して共同でミッションに挑戦したり、ゲーム内でのイベントやアクティビティに参加したりすることができます。さらに、プレ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/tides-of-tomorrow-review/",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Diablo 4：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Blizzard は Vessel of Hatred を大幅に改善しましたが、キャンペーンとエンドゲームを統合する方法はまだ見つかっていません。Vessel of Hatred は、キャンペーンとエンドゲームを一つにまとめることができる重要な要素ですが、Blizzard はこの問題に対して、解決策を見つけられていないようです。キャンペーンとエンドゲームの統合は、プレイヤーにとって非常に重要な要素",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/diablo-4-lord-of-hatred-review/",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この1週間は、少しつまらなく過ぎていきました。私は今日のWAWAPを受けることを自発的に決めたのでしょうか、それともZiff Davisの食堂で強制されたのでしょうか。理由はわかりませんが、今日はWAWAPに挑戦することになりました。このゲームの魅力に取り憑かれたのでしょうか、それとも単に気晴らしにやるのでしょうか。とにかく、今日はWAWAPの世界に足を踏み入れることになりました。WAWAPの世界",
+        "description": "読者の皆さんはどうか知りませんが、この一週間はあっという間に過ぎていきました。私は今日のWAWAPを自発的に受けたのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。実は、私がWAWAPを受けた理由は、Ziff Davisの食堂のスポークポイントで強制されたからです。食堂のスポークポイントでWAWAPを受けない場合、食事を食べることができないというルールがあ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -638,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-22T02:52:31.518714"
+  "last_updated": "2026-04-22T13:03:20.745740"
 }

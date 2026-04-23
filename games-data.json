@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
       }
     ],
     "bundle": [
@@ -198,23 +198,62 @@
     ],
     "review": [
       {
-        "title": "【RUINER 2：レビュー】",
-        "platform": "doope!",
+        "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "人気サイバーパンクアクション「RUINER」のナンバリング続編として今年3月にアナウンスされたReikon Gamesの次回作「RUINER 2」は、高い評価を獲得した前作の続編として、3人Co-opを導入することで、大きな注目を集めています。ゲームファンは、続編の新しい機能やストーリーの展開に大きな期待を寄せています。前作と同様に、サイバーパンクの世界観やアクション要素が存分に楽しめる「RUIN",
+        "description": "GAMEPIAは4月23日、Team Tetrapodが開発した新作『Staffer Retro: 超能力推理クエスト』の発売日を7月23日と発表しました。このゲームは、超能力を持つキャラクターを操作して、様々な謎を解き明かしていく、超能力推理クエストです。Team Tetrapodの独自のゲームデザインと、懐かしいレトロなグラフィックが合わさった、このゲームは、レトロゲームファンや推理ゲーム好き",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166216.html",
+        "url": "https://automaton-media.com/articles/newsjp/20260423-439234/",
+        "date": "2026-04-23",
+        "is_translated": false
+      },
+      {
+        "title": "【D-topia：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作を先行プレイした際に、まず目についたのは、その整えられた生活環境でした。気がつくと、プレイヤーは「うらやましい」と感じている自分自身に気づくことになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260423-439087/",
         "date": "2026-04-22",
         "is_translated": false
+      },
+      {
+        "title": "【D-topia：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "メディア向けプレビューイベントで明らかになった『D-topia』の内容や、本作の開発を手がけるMarumittu Gamesへのメールインタビューの内容を紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260423-439076/",
+        "date": "2026-04-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Fallout: New Vegas：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「ベセスダは私たちに対してレビュースコアを利用しました。」",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-dev-says-bethesda-made-the-studio-sit-through-a-whole-powerpoint-about-all-the-things-obsidian-did-wrong/",
+        "date": "2026-04-22",
+        "is_translated": true
       },
       {
         "title": "【チタンコート：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "マッチ3とオートバトルを独創的に組み合わせた、このゲームは面白さと賢さを同時に味わえる、楽しいゲームです。",
+        "description": "マッチ3とオートバトルをスムーズに組み合わせた、このゲームは単に楽しいというだけでなく、賢くも面白い作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,81 +263,16 @@
         "is_translated": true
       },
       {
-        "title": "【スパイダーマン/スーパーマン #1：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マーベルとDCの最新のクロスオーバー作品は、面白い瞬間や驚き、そして想像力が溢れる様々なシーンで溢れています。この作品では、スパイダーマンとスーパーマンが何故こんなにも相性がいいのかを詳しく紹介しています。二人のヒーローが一緒に活躍する様子は、実に夢ののような組み合わせであり、ファンには大いに楽しめるものです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/spider-man-superman-crossover-review-marvel-dc/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【ヨッシーと不思議な本：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "5月21日に発売される任天堂の新しいSwitch 2ヨッシー ゲームは、ユニークで楽しい環境とそこに住む個性豊かな生き物を探索するゲームです。このゲームでは、プレイヤーは美しい景色の中を自由に移動し、様々なキャラクターと出会い、楽しいアドベンチャーを体験することができます。ゲームの世界は、色鮮やかなグラフィックとキャラクターの愛らしいデザインで構成されており、プレイヤーを魅了すること間違いなしです",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-preview/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Titanium Court：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Titanium Courtは、複数のジャンルを融合させ、プレイヤーをいじるのが楽しい、不条理で独創的な戦略ゲームを作り出すゲームです。このゲームでは、プレイヤーは予測不可能な展開の中で戦略を立て、勝利を目指します。ゲームの独創的なシステムと不条理な要素は、プレイヤーを新しい体験に導き、戦略ゲームの楽しさを再定義します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/titanium-court-review/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【ディアブロ 4: ロード オブ ヘイトレッド：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "アクションRPGに新たな深みを与える、勝利の拡張が登場します。この拡張は、プレイヤーに新たな戦略や探索の機会を提供し、ゲームの世界をさらに豊かにします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/diablo-4-lord-of-hatred-review/",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
         "title": "【Hades 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそれを高く評価していました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘し、『運命』の正確さによって、これが実現したと感じていました。",
+        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はその内容に大いに満足しました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘し、『運命』の正確さによって、これが実現したと感じていました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
         "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "読者の皆さんはどうか知りませんが、この一週間はあっという間に過ぎていきました。私は今日のWAWAPを自発的に受けたのでしょうか、それともZiff Davisの食堂のスポークポイントで強制されたのでしょうか。実は、私がWAWAPを受けた理由は、Ziff Davisの食堂のスポークポイントで強制されたからです。食堂のスポークポイントでWAWAPを受けない場合、食事を食べることができないというルールがあ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-378",
-        "date": "2026-04-18",
         "is_translated": true
       },
       {
@@ -625,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-22T13:03:20.745740"
+  "last_updated": "2026-04-23T02:55:08.603919"
 }

@@ -2,16 +2,16 @@
   "pc": {
     "free": [
       {
-        "title": "The Stone of Madness - Epic Games 無料配布中",
+        "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ザ・ストーン・オブ・マッドネス』は18世紀スペインの修道院が舞台のリアルタイム戦略ステルスゲームだ。5人の囚人がそれぞれのスキルと知恵を結集して恐怖に立ち向かう。正気を失うことなく修道院の謎を解き明かし、脱出への道を切り開け。",
+        "description": "地下深くで、グルーム・ガールは長い間鎖につながれていたが、逃走を試みる知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとグルーム・ガールは力を合わせ、強力な能力を解放し、2D アクション メトロイドヴァニアの世界でドレッド ロードを完全に破壊する復讐の旅に出ます。この旅で、2人は強大な敵と対決し、さまざまな能力を駆使して勝利を目指します。ドゥームブレードの力とグルーム・ガールの勇気により、復讐の旅は成功するでしょうか。",
         "price": "無料",
-        "originalPrice": "¥2,880",
+        "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
       }
     ],
     "bundle": [
@@ -201,7 +201,7 @@
         "title": "【オービタルズ Orbitals：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では、『オービタルズ Orbitals』を実際に遊んでみた感想や、本作の特徴、魅力を紹介していきます。",
+        "description": "本稿では、『オービタルズ Orbitals』を実際に遊んでみて感じた、このゲームの特徴や魅力を詳しく紹介していきます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +214,7 @@
         "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "GAMEPIAは4月23日、Team Tetrapodが開発した『Staffer Retro: 超能力推理クエスト』の発売日を7月23日に決定したことを発表しました。このゲームは、超能力を使って事件を解決するというユニークな設定が特徴で、プレイヤーは超能力を駆使して謎を解きながらクエストを進めていきます。開発チームのTeam Tetrapodは、このゲームで新しいゲーム体験を提供することを目指して",
+        "description": "GAMEPIAは4月23日、Team Tetrapodが開発した『Staffer Retro: 超能力推理クエスト』の発売日を7月23日と発表しました。このゲームは、プレイヤーに超能力を使った推理クエストを体験させることが特徴です。Team Tetrapodのクリエイティブなアイデアと、GAMEPIAの出版力が組み合わさったこの作品は、ゲーマーたちの期待を高めています。7月23日の発売を待ちに待っ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,75 +224,75 @@
         "is_translated": false
       },
       {
-        "title": "【Seagate FireCuda X Vault：レビュー】",
+        "title": "Peter Molyneux は収益を上げるための実験ではなく、真正に面白いゲームを作ることに焦点を当てています。彼がこの野心的なプロジェクトを成功させると確信しています。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "サイズ、容量は大きくても、価格はそれほど大きくありません。",
+        "description": "『マスターズ オブ アルビオン』は、将来を嘱望される神ゲーですが、現在は早期アクセス段階にあります。ゲームの開発は進んでいますが、まだ完成していない部分があります。ゲームに興味がある場合は、開発状況を注視し、将来的に発売されることを期待することができます。早期アクセス段階では、ゲームのプレイヤーからフィードバックを集めながら、ゲームのバランスや機能を調整しています。将来的には、より洗練された体験が",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/hdds/seagate-firecuda-x-vault-review/",
+        "url": "https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/",
         "date": "2026-04-23",
         "is_translated": true
       },
       {
-        "title": "【Vampire Crawlers：レビュー】",
+        "title": "【Timber & Stone：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "リトルツリーキングダムは見た目ほど甘くありません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/i-thought-i-was-playing-a-cute-little-city-builder-about-managing-a-fairytale-town-in-a-tree-but-it-turns-out-its-a-brutal-roguelike-and-now-all-my-gnomes-are-getting-eaten-by-ghosts/",
+        "date": "2026-04-23",
+        "is_translated": true
+      },
+      {
+        "title": "【500 FINGER FILLET：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "私はナイフゲームをプレイしたことがありません。テーブルの上に手を置き、指を広げ、ナイフで指の間の隙間を刺していくゲームです。スピードを上げながら進むので、かなりスリルがあるような気がします。私はこのゲームをプレイしたことがないので、実際の感覚は知りませんが、指を刺さないようにするために集中力とタイミングが必要なようです。ゲームの進み方は、スピードを上げていくので、初めての方もすぐに慣れてしまうかも",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/500-finger-fillet-is-a-knife-game-take-on-buckshot-roulette-where-you-must-stab-your-hand-500-times",
+        "date": "2026-04-23",
+        "is_translated": true
+      },
+      {
+        "title": "【Apex Legends：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "Vampire Crawlers は、Vampire Survivors の基本要素を、同じくらい夢中になれるデッキ構築ゲームに応用しています。デッキを構築してキャラクターを強化し、さまざまなステージで戦いを繰り広げます。プレイヤーは、キャラクターの能力をUpgradeしたり、新しいカードを入手したりして、デッキを強化していきます。さまざまなカードを組み合わせて、自分だけの戦略を立てることができま",
+        "description": "タロン・エガートンとセロンは、効率的だがシンプルすぎるNetflixのホラー・スリラー作品で、古くからある危険なゲーム「最も危険なゲーム」をプレイします。このゲームは、2人が恐怖とスリルの世界に足を踏み入れるきっかけとなります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/vampire-crawlers-review/",
+        "url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
         "date": "2026-04-23",
         "is_translated": true
       },
       {
-        "title": "【ストレンジャー・シングス: テイルズ フロム '85：レビュー】",
+        "title": "【Nocturnal：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "『ストレンジャー・シングス: テイルズ フロム '85』は、巧妙な脚本と素晴らしい声優によって、オリジナルの番組の初期の魅力を再現しています。独自のストーリーやキャラクターは、ファンが愛するこの世界を更に深く体験することができます。ゲームの雰囲気やサウンドトラックも、80年代の懐かしい感覚を再現し、プレイヤーは時代を超越したアドベンチャーに没頭することができます。このゲームは、オリジナルシリーズの",
+        "description": "Steam の無料キープ プロモーションでは、PC ゲーマーが完全に無料でダウンロードできる、Nocturnal の優れた横スクロール ゲームを提供しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/stranger-things-tales-from-85-review/",
+        "url": "https://www.polygon.com/free-steam-game-april-2026-nocturnal-pc-giveaway/",
         "date": "2026-04-23",
         "is_translated": true
-      },
-      {
-        "title": "【D-topia：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本作を先行プレイしたところ、まず気づいたのは、その整えられた生活環境です。気づけば「うらやましい」と感じている自分がいたことがわかります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260423-439087/",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【D-topia：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "メディア向けプレビューイベントで明らかになった『D-topia』の内容や、開発を担当するMarumittu Gamesへのメールインタビューの内容を紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260423-439076/",
-        "date": "2026-04-22",
-        "is_translated": false
       },
       {
         "title": "【Hades 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそれを高く評価しました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘し、『運命』の正確さによって、これが実現したと感じています。Hades 2 の結末は、プレイヤーの選択によって大きく変わるため、プレイヤーによっては満足する結末になるかもしれませんが、他のプレイヤーにとっては物語が予想通りに進まないと感じる可能性もあ",
+        "description": "昨年、Hades 2 は早期アクセスを終了しましたが、Mark はそのゲーム性を高く評価しました。しかし、彼は、その結末は最終的に二極化する可能性があると指摘し、ゲーム内の『運命』の正確さによって、それが実現したことが確認できました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -625,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-23T13:03:24.063420"
+  "last_updated": "2026-04-24T02:56:27.100376"
 }

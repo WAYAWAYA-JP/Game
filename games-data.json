@@ -5,13 +5,13 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下の深い場所で、グルーム・ガールは長い間鎖につながれていたが、逃げるために知性を持つ兵器、ドゥームブレードを見つけます。グルーム・ガールとドゥームブレードは力を合わせて、強力な能力を解放します。2Dアクションメトロイドヴァニアの世界で、2人は強大な力を使って、ドレッドロードを完全に破壊するという復讐の旅に出ます。",
+        "description": "地下の深い場所で、グルーム・ガールは鎖に繋がれていた長い間、逃げようとしている知性を持つ兵器、ドゥームブレードを発見します。グルーム・ガールとドゥームブレードは力を合わせて、この2Dアクションメトロイドヴァニアで強力な能力を解放し、ドレッドロードを完全に破壊する復讐の旅に出ます。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
       }
     ],
     "bundle": [
@@ -201,7 +201,7 @@
         "title": "【ホテル・バルセロナ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "White Owlsは4月24日、ゲーム『HOTEL BARCELONA』の新しいDLC「Late Check-Out DLC: From Dusk Valley to Grandall Estate.」をPC（Steam）版で配信しました。このDLCは、プレイヤーの新たな冒険を提供するもので、Steamで簡単にダウンロードして遊ぶことができます。",
+        "description": "White Owlsは4月24日、PC（Steam）版の『HOTEL BARCELONA』向けに、DLC「Late Check-Out DLC: From Dusk Valley to Grandall Estate.」を配信しました。このDLCは、ユーザーに新たな体験を提供するものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +211,10 @@
         "is_translated": false
       },
       {
-        "title": "【ザ・サード・シフト：レビュー】",
+        "title": "【ザ サード シフト：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ゲームボーイをプレイしているときに私に起こった最も恐ろしい出来事は、学校の「友達」が電車を降りるときにゲームボーイの電源スイッチを切り掛けたことです。ちょうど私が長らく苦戦していたあの難敵をようやく倒した瞬間と同じでした。",
+        "description": "ゲームボーイをプレイしているときに私に起こった最も恐ろしい瞬間は、学校の「友達」が電車を降りるときに、ゲームボーイの電源スイッチを切ったことでした。ちょうど私がその友人を倒したときと同じで、勝利の瞬間を台無しにしてしまったのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,49 +224,10 @@
         "is_translated": true
       },
       {
-        "title": "【Hell Let Loose: ベトナム：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Hell Let Loose: Vietnam は、ヘリコプター、トンネル、まったく新しい環境をリアルな FPS シリーズに導入します。リアルな戦場を体験できるこのシリーズは、プレイヤーに新たな刺激と挑戦を提供します。ヘリコプターで空から戦うこともでき、トンネルで敵を迎え討つことも可能です。新しい環境もまた、戦略と戦術を新たなレベルに引き上げます。Hell Let Loose: Vietnam は",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/hell-let-loose-vietnam-preview/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Returnal：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Housemarque と Sony の PS5 専用ゲーム「サロス」のレビューが公開されたばかりで、ほとんどの人がこのゲームを気に入っているようですが、前作のファンの中には、まだこの新作が前に出た作品と同じ水準にあるかどうかがわからない人もいます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/saros-review-roundup/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Saros：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "サロスは『Returnal』の混沌とした光景を再現していますが、それに匹敵する強力なストーリーや意味のある課題を提供するのに苦労しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/saros-review/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
         "title": "【オービタルズ Orbitals：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では、『オービタルズ Orbitals』を実際に遊んでみた感想や、本作の特徴、魅力を紹介していきます。",
+        "description": "本稿では、実際に『オービタルズ Orbitals』を遊んで感じた、ゲームの特徴や魅力を紹介していく。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,54 +237,15 @@
         "is_translated": false
       },
       {
-        "title": "【Fable：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『マスターズ オブ アルビオン』は、将来有望なゲームです。現在、早期アクセス段階にあり、まだ開発中ですが、ゲームファンには期待が高まっています。早期アクセスの段階ではありますが、すでに面白い要素がたくさんあり、魅力的なゲームになっているようです。開発が進むにつれて、さらに発展していくことが期待できそうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【ノーム：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "リトルツリーキングダムは見た目ほど甘くありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/i-thought-i-was-playing-a-cute-little-city-builder-about-managing-a-fairytale-town-in-a-tree-but-it-turns-out-its-a-brutal-roguelike-and-now-all-my-gnomes-are-getting-eaten-by-ghosts/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
         "title": "【500 FINGER FILLET：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はナイフゲームをプレイしたことがありませんが、テーブルの上で行われるこのゲームはとても簡単に説明できます。まず、テーブルの上に手を置き、指を広げてから始めます。次に、ナイフを指の間の隙間を刺して行き、ゲームが進むにつれてスピードを上げていきます。私はこのゲームに興味を持つ理由は、単純で簡単なルールながらも、集中力とスピードを要求されるためです。",
+        "description": "私はナイフゲームをプレイしたことがありません。このゲームでは、テーブルの上に手を置き、指を広げて、ナイフで指の間の隙間を刺していきます。ゲームが進むにつれて、スピードを上げていく必要があります。このゲームは、テーブル上で行われるシンプルながらもスリルと緊張を伴うゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/500-finger-fillet-is-a-knife-game-take-on-buckshot-roulette-where-you-must-stab-your-hand-500-times",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Apex：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "タロン・エガートンとセロンは、効率的だがシンプルすぎるNetflixのホラー・スリラー作品で、古くからある「最も危険なゲーム」をプレイします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
         "date": "2026-04-23",
         "is_translated": true
       },
@@ -651,5 +573,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-24T13:01:16.367206"
+  "last_updated": "2026-04-25T02:45:28.872878"
 }

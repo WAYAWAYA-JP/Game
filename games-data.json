@@ -5,7 +5,7 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下の深い場所で、グルーム・ガールは鎖に繋がれていた長い間、逃げようとしている知性を持つ兵器、ドゥームブレードを発見します。グルーム・ガールとドゥームブレードは力を合わせて、この2Dアクションメトロイドヴァニアで強力な能力を解放し、ドレッドロードを完全に破壊する復讐の旅に出ます。",
+        "description": "地下深くで、グルーム・ガールは長い年月間鎖につながれていた知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとの出会いにより、新たな力を得たグルーム・ガールは、2D アクション メトロイドヴァニアの世界で強大な能力を解放し、ドレッド ロードへの復讐の旅に出ます。二人は力を合わせ、強力な連携攻撃を繰り出し、様々な障害を克服することで、復讐の旅を進めていきます。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
@@ -198,10 +198,23 @@
     ],
     "review": [
       {
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今週末から、長期のプロジェクトが始まります。私はとても楽しみです。まず、キャビネットを取り外し、表面を滑らかにするためのサンディングを行います。さらに、車のボディを塗装する前に、プライミングを行って、塗料が均一に付着するようにします。これらの準備が整うと、本当に新しいもののように見えるはずです。少しずつ進めて行きますが、最終的な結果は、全ての努力が報われるものになるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-379",
+        "date": "2026-04-25",
+        "is_translated": true
+      },
+      {
         "title": "【ホテル・バルセロナ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "White Owlsは4月24日、PC（Steam）版の『HOTEL BARCELONA』向けに、DLC「Late Check-Out DLC: From Dusk Valley to Grandall Estate.」を配信しました。このDLCは、ユーザーに新たな体験を提供するものです。",
+        "description": "White Owlsは4月24日、ゲーム『HOTEL BARCELONA』の新しいDLC「Late Check-Out DLC: From Dusk Valley to Grandall Estate.」をPC（Steam）版で配信しました。このDLCは、ゲームの世界をさらに深く体験できる、新しい要素を追加するものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +227,7 @@
         "title": "【ザ サード シフト：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ゲームボーイをプレイしているときに私に起こった最も恐ろしい瞬間は、学校の「友達」が電車を降りるときに、ゲームボーイの電源スイッチを切ったことでした。ちょうど私がその友人を倒したときと同じで、勝利の瞬間を台無しにしてしまったのです。",
+        "description": "ゲームボーイで遊んでいたときに私に起こった最も恐ろしい出来事は、学校の「友達」が電車から降りるときにゲームボーイの電源スイッチを切り払ったことでした。ちょうど私がついにその友人を倒した瞬間と同じでした。私はゲームに完全に没頭していたので、友達が電車から降りるタイミングを見逃してしまったのです。友達は電源スイッチを切り、ゲームを終了させてしまったのです。私は友達の突然の行動に驚き、気持ちが沈む思いで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,23 +237,10 @@
         "is_translated": true
       },
       {
-        "title": "【オービタルズ Orbitals：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿では、実際に『オービタルズ Orbitals』を遊んで感じた、ゲームの特徴や魅力を紹介していく。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/orbitals-handson-20260423-439381/",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
         "title": "【500 FINGER FILLET：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はナイフゲームをプレイしたことがありません。このゲームでは、テーブルの上に手を置き、指を広げて、ナイフで指の間の隙間を刺していきます。ゲームが進むにつれて、スピードを上げていく必要があります。このゲームは、テーブル上で行われるシンプルながらもスリルと緊張を伴うゲームです。",
+        "description": "私がナイフゲームをプレイしたことがないのは、実際にテーブル上で行うこのゲームがとても緊張感があるからです。プレイヤーはテーブルの上に手を置き、指を広げておきます。次に、ナイフで指の間の隙間を刺していきますが、ゲームが進むにつれてスピードを上げていく必要があり、非常に集中力と正確性が求められます。このゲームのスリルと難しさが、私が挑戦したくなる理由です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -573,5 +573,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25T02:45:28.872878"
+  "last_updated": "2026-04-25T12:41:15.088778"
 }

@@ -5,13 +5,13 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下深くで、グルーム・ガールは長い年月間鎖につながれていた知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとの出会いにより、新たな力を得たグルーム・ガールは、2D アクション メトロイドヴァニアの世界で強大な能力を解放し、ドレッド ロードへの復讐の旅に出ます。二人は力を合わせ、強力な連携攻撃を繰り出し、様々な障害を克服することで、復讐の旅を進めていきます。",
+        "description": "地下深くで、グルーム・ガールは、長い間鎖につながれていた知的兵器、ドゥームブレードを発見します。二人は力を合わせて、2D アクション メトロイドヴァニアの強力な能力を解放し、ドレッド ロードを完全に破壊するための復讐の旅に乗り出します。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-25"
+        "date": "2026-04-26"
       }
     ],
     "bundle": [
@@ -198,10 +198,49 @@
     ],
     "review": [
       {
+        "title": "【サカつく2026：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』のガチプレイ日記は第8回を迎え、イングランドリーグ編では最大の絶望を味わった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260426-439868/",
+        "date": "2026-04-26",
+        "is_translated": false
+      },
+      {
+        "title": "ロード・オブ・ザ・リングのRPGをプレイしてみたところ、フロドはすぐに死んでしまいますが、意外にもゲームはそのまま進み続けます。通常、主人公が死んだらゲームオーバーになるのが普通ですが、このゲームはそうではありません。フロドが死んでも、ゲームは進むのです。もちろん、フロドを失うことは大きな損失ですが、ゲームの世界は彼の死によって変化し、新たな展開を見せるのです。フロドの死は、ゲームのストーリーに大きな影響を与え、プレイヤーに新たな挑戦を与えます。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "そうすれば別の本になっていただろうと思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/i-played-the-lord-of-the-rings-rpg-where-frodo-can-straight-up-die-and-the-game-just-keeps-on-going/",
+        "date": "2026-04-25",
+        "is_translated": true
+      },
+      {
+        "title": "【Menace：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "リベートが嫌いな人はいないでしょうか？",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/menaces-first-major-early-access-update-overhauls-its-least-interesting-faction-and-jettisons-its-reviled-promotion-tax-system-we-have-done-away-with-it/",
+        "date": "2026-04-25",
+        "is_translated": true
+      },
+      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末から、長期のプロジェクトが始まります。私はとても楽しみです。まず、キャビネットを取り外し、表面を滑らかにするためのサンディングを行います。さらに、車のボディを塗装する前に、プライミングを行って、塗料が均一に付着するようにします。これらの準備が整うと、本当に新しいもののように見えるはずです。少しずつ進めて行きますが、最終的な結果は、全ての努力が報われるものになるでしょう。",
+        "description": "今週末から、長々と待ちに待った飾り付けの準備が始まります。私はとても期待しているのですが、ちょっとした失敗でも大きな問題につながる可能性があるので、慎重に進めていきます。まずは、キャビネットを取り外し、表面をスムーズにするためのサンディングを行います。さらに、塗装の準備として車のプライミングを行う予定です。人生は、チャレンジすることによって意味を持ちます。少し冒険することも必要です。慎重に進めつつ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,23 +250,36 @@
         "is_translated": true
       },
       {
-        "title": "【ホテル・バルセロナ：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【プラグマタの結末：ヒューとダイアナはどうなった？：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "White Owlsは4月24日、ゲーム『HOTEL BARCELONA』の新しいDLC「Late Check-Out DLC: From Dusk Valley to Grandall Estate.」をPC（Steam）版で配信しました。このDLCは、ゲームの世界をさらに深く体験できる、新しい要素を追加するものです。",
+        "description": "カプコンの『プラグマタ』は大成功を収めています。ゲームプレイと物語に大胆な変化をもたらし、その結末の大胆さが評価されています。ゲームの世界観やキャラクター設定も、プレイヤーの想像力を刺激するものとなっています。ストーリーやゲームシステムの複雑さも、プレイヤーを引き付け、深い魅力を持った作品となっています。『プラグマタ』は、ゲームファンにとって新しい体験を提供する作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260424-439528/",
-        "date": "2026-04-24",
-        "is_translated": false
+        "url": "https://www.polygon.com/pragmata-ending-explainer-analysis/",
+        "date": "2026-04-25",
+        "is_translated": true
+      },
+      {
+        "title": "【Mewgenics：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Cats が絶えず死んでいくのは、単なるローグライク ゲームプレイの仕組みではありません。McMillen のゲームは、現実世界の野良犬の苦しみも反映しています。ゲームを進めるにつれて、プレイヤーは野良犬が直面する厳しい現実に直撃されます。餓死、病気、事故、人間の残酷さなど、様々な危険が野良犬を脅かしています。McMillen のゲームは、シンプルながらも力強いメッセージを伝えることに成功していま",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mewgenics-real-violence-feral-stray-cats-edmund-mcmillen/",
+        "date": "2026-04-25",
+        "is_translated": true
       },
       {
         "title": "【ザ サード シフト：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ゲームボーイで遊んでいたときに私に起こった最も恐ろしい出来事は、学校の「友達」が電車から降りるときにゲームボーイの電源スイッチを切り払ったことでした。ちょうど私がついにその友人を倒した瞬間と同じでした。私はゲームに完全に没頭していたので、友達が電車から降りるタイミングを見逃してしまったのです。友達は電源スイッチを切り、ゲームを終了させてしまったのです。私は友達の突然の行動に驚き、気持ちが沈む思いで",
+        "description": "ゲームボーイをプレイしているときに私に起こった最も心を凍りつかせる出来事は、学校での「友達」が列車を降りるときにゲームボーイの電源スイッチを切りになったことでした。ちょうど私がずっと苦戦していたあの敵を倒した瞬間と同じで、心が高揚するような感覚でした。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -240,7 +292,7 @@
         "title": "【500 FINGER FILLET：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私がナイフゲームをプレイしたことがないのは、実際にテーブル上で行うこのゲームがとても緊張感があるからです。プレイヤーはテーブルの上に手を置き、指を広げておきます。次に、ナイフで指の間の隙間を刺していきますが、ゲームが進むにつれてスピードを上げていく必要があり、非常に集中力と正確性が求められます。このゲームのスリルと難しさが、私が挑戦したくなる理由です。",
+        "description": "私はナイフ ゲームをプレイしたことがありません。ナイフ ゲームは、テーブルの上に手を置き、指を広げた状態で、ナイフを指の間の隙間を刺していくゲームです。スピードは進むにつれて上がっていき、スリルと緊張を味わうことができます。私はこのゲームをプレイする理由を考えてみましたが、まだ具体的な理由は見つかっていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -573,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25T12:41:15.088778"
+  "last_updated": "2026-04-26T03:22:55.566660"
 }

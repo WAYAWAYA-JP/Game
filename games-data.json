@@ -5,13 +5,13 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下深くで、長い間鎖につながれていた知性を持つ兵器、ドゥームブレードを発見したグルーム・ガールは、逃走を試みる。ドゥームブレードとグルーム・ガールは力を合わせて、強力な能力を解放し、2D アクション メトロイドヴァニアの世界で復讐の旅に出ます。ドレッド ロードを完全に破壊するために、2人は協力して進みます。強大な敵との戦いを繰り広げながら、2人は復讐の道を進んでいきます。",
+        "description": "地下深くで、グルーム・ガールは長い間鎖につながれていた知覚兵器、ドゥームブレードを発見します。彼女はこの2Dアクションメトロイドヴァニアで、ドゥームブレードとの協力により強力な能力を解放し、復讐の旅に出ます。ドゥームブレードの力を借りて、彼女はドレッドロードを打倒するために必死に戦います。この2人の強力なタッグでは、どのような障害も克服可能です。地下世界での危険な冒険が幕を開け、グルーム・ガールとドゥームブレードは、復讐を成し遂げるために何でもします。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "bundle": [
@@ -198,10 +198,10 @@
     ],
     "review": [
       {
-        "title": "【Mandate of Order：レビュー】",
+        "title": "【Mandate of the Ancients：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "春秋戦国シム『Mandate Order』の体験版が現在配信中です。このゲームについて、開発陣から興味深い話を聞くことができたので、紹介します。プレイヤーはこのゲームで、中国の古代王朝を舞台に、自らの国家を運営して繁栄させていくことを目指します。さまざまな国家が登場し、戦略的な外交や戦闘を通じて覇権を争います。開発陣は、このゲームのシステムやゲームプレイについて、詳しく話をしてくれました。体験版で",
+        "description": "春秋戦国を舞台にしたシミュレーションゲーム『Mandate of Heaven』の体験版が配信中です。開発チームから面白い話がありましたので、紹介します。ゲームの世界観や開発の背景など、開発陣の話からゲームの魅力を垣間見ることができます。体験版をプレイすることで、ゲームの雰囲気やシステムを直接感じることができます。春秋戦国時代の中国を舞台に、プレイヤーは自分の領地を運営し、近隣の国々と戦争をしかけ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +214,7 @@
         "title": "【NTE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『NTE: Neverness to Everness』の先行プレイを基にして、愛すべきムダであふれた都市ヘテロシティでどのように歩いていくのかを紹介します。ヘテロシティは、予想外の出来事が起こりそうな、不思議な魅力を持った都市です。この都市を歩き回り、さまざまな場所を訪れ、都市の住民たちとの出会いを体験してみてください。ヘテロシティの歩き方を知ることで、都市の奥深い魅力に迫ることができ、より豊か",
+        "description": "『NTE: Neverness to Everness』の先行プレイを基に、愛すべきムダであふれた都市ヘテロシティの魅力を紹介します。この都市を歩き回り、様々な場所を発見する楽しみを体験することができます。ヘテロシティのユニークな雰囲気や、そこで起こる様々な出来事を知ることで、プレイヤーはこの都市に込められた愛すべきムダに惹かれることでしょう。先行プレイの体験から得られた感想や、ヘテロシティの歩き",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +227,7 @@
         "title": "【サカつく2026：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『サカつく2026』ガチプレイ日記の第8回となります。この回は、イングランドリーグ編で最大の絶望を味わった内容です。",
+        "description": "『サカつく2026』ガチプレイ日記の第8回は、イングランドリーグ編となります。この回では、最大の絶望を味わうことになります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,10 +237,49 @@
         "is_translated": false
       },
       {
+        "title": "【ゲーム名：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ボーダムは2018年末にリリースされました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/trump-shooting-suspects-steam-game-sees-review-bomb-spike-in-activity/",
+        "date": "2026-04-26",
+        "is_translated": true
+      },
+      {
+        "title": "【クロニクルズ・オブ・リディック: アサルト・オン・ダーク・アテナ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "親愛なる日記よ、今日私は200人の男性を骨抜きにした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/the-chronicles-of-riddick-assault-on-dark-athena-review-2009/",
+        "date": "2026-04-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Shapez 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "製造モードは、早期アクセス中に得られた最大のフィードバックの1点に対処します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/shapez-2-leaves-early-access-with-a-new-game-mode-all-about-building-massive-factories-this-isnt-just-a-game-is-finished-release/",
+        "date": "2026-04-26",
+        "is_translated": true
+      },
+      {
         "title": "【Enter the Gungeon：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ローグをプレイするこの体験を本当に再現させるものを作ろうとしている人は非常に少ないです。",
+        "description": "ローグをプレイするこの体験を真に呼び起こさせるものを作ろうとしている人は非常に少ないです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,7 +289,20 @@
         "is_translated": true
       },
       {
-        "title": "【ロード・オブ・ザ・リングRPG：レビュー】",
+        "title": "【マン・オブ・トゥモロー：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スーパーマンには、DC コミックスでチェスをプレイしてきた長い歴史があります。さて、それが『マン・オブ・トゥモロー』にやってきました。スーパーマンはチェスを通して、さまざまなヴィランたちと戦い、知恵を奮って勝利を収めてきました。『マン・オブ・トゥモロー』では、スーパーマンのチェスをプレイする姿がより具体的に描かれます。チェスをプレイするスーパーマンの魅力的なストーリーやキャラクターを楽しむことがで",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/superman-ii-set-to-continue-a-bizarre-dc-comics-tradition/",
+        "date": "2026-04-26",
+        "is_translated": true
+      },
+      {
+        "title": "【ロード・オブ・ザ・リング：旅の仲間：The Lord of the Rings: The Fellowship of the Ring：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "そうすれば別の本になっていただろうと思います。",
@@ -263,23 +315,10 @@
         "is_translated": true
       },
       {
-        "title": "【Menace：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "リベートが嫌いな人はいないでしょうか？",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/menaces-first-major-early-access-update-overhauls-its-least-interesting-faction-and-jettisons-its-reviled-promotion-tax-system-we-have-done-away-with-it/",
-        "date": "2026-04-25",
-        "is_translated": true
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末から飾り付けが始まります。私はとても多くのことをやりましたが、人生は少し窒息の危険を冒さなければ意味がありません。まず、キャビネットを取り外し、サンディングと車のプライミングを行います。",
+        "description": "今週末から、長々と待ちに待った飾り付けが始まります。私はとにかくたくさん食べ過ぎて、噛み切れないほどの量だったため、窒息の危険を冒さなければ人生とはいえないでしょう。まずはキャビネットを取り外し、サンディングと車のプライミングを行います。飾り付けの準備はこれからが本番です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -289,23 +328,10 @@
         "is_translated": true
       },
       {
-        "title": "【プラグマタ：結末の解説】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "カプコンの『プラグマタ』は大成功を収めています。ゲームプレイと物語に大胆な変化をもたらしたことで、プレイヤーから高い評価を得ています。特に物語の結末は、大胆で予想外の展開が話題になっています。 この作品は、伝統的なゲームの形式から脱却し、新しい試みをしてみせています。ゲームの世界をより深く、よりリアルに体験できるようになりました。プレイヤーは、物語の中で重要な役割を果たすキャラクターと出会い、共に",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/pragmata-ending-explainer-analysis/",
-        "date": "2026-04-25",
-        "is_translated": true
-      },
-      {
-        "title": "【ザ サード シフト：レビュー】",
+        "title": "【ザ・サード・シフト：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ゲームボーイをプレイしているときに私に起こった最も恐ろしいことは、学校での「友達」が電車から降りるときにゲームボーイの電源スイッチを切りになったことでした。ちょうど私がついにその友人を倒したときと同じ瞬間でした。",
+        "description": "ゲームボーイで遊んでいるときに私に起こった最も恐ろしい出来事は、学校の「友達」が電車を降りる際に、ゲームの電源スイッチを切りったときでした。ちょうど私が長い時間の試行錯誤の末にあの友人を倒した瞬間と同じでした。その友人を倒したときの感覚は、ゲームボーイの小さな画面の中でしか経験できないユニークな体験でした。電車が揺れる中、ゲームボーイの画面に集中し、友人を倒すことに全てを賭けていた私。電源スイッチ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -318,7 +344,7 @@
         "title": "【500 FINGER FILLET：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ナイフゲームは、テーブルの上で行われる、シンプルながらもスリリングなゲームです。まず、テーブルの上に手を置き、指を広げます。次に、ナイフで指の間の隙間を刺していきます。ゲームが進むにつれて、ナイフを刺すスピードを上げていく必要があります。このゲームは、集中力と手の速さが試される、ちょっとしたアクションゲームです。",
+        "description": "私はナイフゲームをプレイしたことがありませんが、テーブルの上で行われるこのゲームはとても面白そうです。まず、テーブルに手を置き、指を広げてから始めます。次に、ナイフで指の間の狭い隙間を刺していき、ゲームが進むにつれてスピードを上げていくというものです。私はこのゲームをプレイする理由が何なのか、まだ自分でもよくわかっていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -651,5 +677,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-26T12:43:33.880535"
+  "last_updated": "2026-04-27T03:27:55.010973"
 }

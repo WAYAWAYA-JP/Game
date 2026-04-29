@@ -5,16 +5,28 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下の深くで、グルーム・ガールは長い間鎖につながれていた知的で強力な兵器、ドゥームブレードを発見します。二人は力を合わせて、強大な能力を解き放ち、この2Dアクションメトロイドヴァニアで復讐の旅に出ます。ドゥームとグルームは、ドレッドロードを完全に破壊するための旅を開始し、強力な連携で敵を倒していきます。二人の強力な能力が融合することで、未知の世界を探索し、様々な敵を撃破することができます。このアクションゲームでは、プレイヤーは二人のキャラクターを操作して、さまざまなステージをクリアし、ドレッドロードへの復讐を果たすことができます。",
+        "description": "地下の深い場所で、グルーム・ガールは長い間鎖につながれていた知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとグルーム・ガールは力を合わせ、2Dアクションメトロイドヴァニアの世界で強力な能力を解放し、ドレッドロードを完全に破壊するための復讐の旅に出ます。彼女たちの強力な能力と協力により、さまざまなステージを攻略し、強大な敵を倒すことができます。ゲームの中では、さまざまなアイテムやアップグレードを集めて、彼女たちの能力をさらに強化することができます。ドゥームブレードの剣とグルーム・ガールの能力を組み合わせることで、多様な戦闘スタイルを生み出し、プレイヤーは自分好みの戦闘方法を選ぶことができます。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       }
     ],
     "bundle": [
+      {
+        "title": "Discount Humble choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-04-29"
+      },
       {
         "title": "Build Your Own Adrenaline Bundle (3/5 for $3.00/$4.75",
         "platform": "Fanatical",
@@ -26,26 +38,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-04-28"
-      },
-      {
-        "title": "Discount Humble choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-28"
       }
     ],
     "review": [
       {
+        "title": "【Mycopunk：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ニューヨークで活動する新スタジオ「Pigeons at Play」のデビュー作として、昨年7月に早期アクセス向けにローンチされ、高い評価を獲得したSci-Fiアクションシューター「Mycopunk」は、新たなプラットフォームでプレイできるようになりました。このゲームは、ユニークな世界観とスリリングなアクションが特徴で、早期アクセスでのローンチ以降、多くのゲーマーから高い評価を獲得しています。ゲーム",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166433.html",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
         "title": "【Karma Exorcist：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Cyclosが開発中の『Karma Exorcist』の試遊プレイでは、王道的なメトロイドヴァニアと死にゲー的な要素が存分に味わえる。プレイヤーは、挑戦的なステージをクリアしながら、キャラクターの成長とアイテムの入手を楽しむことができる。試遊プレイを通して、ゲームの難易度や操作感、そして探索の楽しみを体験することができる。『Karma Exorcist』は、メトロイドヴァニアと死にゲーファンにとっ",
+        "description": "Cyclosが開発中の『Karma Exorcist』の試遊プレイを通して、王道的なメトロイドヴァニアと死にゲー的な要素を体験することができる。メトロイドヴァニアの醍醐味である広大な世界を探索したり、難関のボスを倒したりすることで、プレイヤーは深い満足感を得ることができる。また、死にゲー的な要素もあり、プレイヤーは繰り返し挑戦して、スキルを磨く必要がある。試遊プレイを通して、ゲームの魅力を感じるこ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -58,7 +71,7 @@
         "title": "【ファイナルファンタジーVII リバース：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スクウェア・エニックスは4月28日、『ファイナルファンタジーVII リバース』の無料体験版をNintendo Switch 2やXbox Series X/S、Windows向けに配信を開始しました。この無料体験版により、プレイヤーはゲームの世界観やストーリーを先行して体験することができます。『ファイナルファンタジーVII リバース』は、人気シリーズ『ファイナルファンタジーVII』を新たな視点から",
+        "description": "スクウェア・エニックスは4月28日、人気ゲーム『ファイナルファンタジーVII リバース』の無料体験版を、Nintendo Switch 2やXbox Series X/S、Windows向けに配信を開始しました。この無料体験版では、多くのファンが愛する『ファイナルファンタジーVII』の世界が、新たな視点から蘇ります。最新のグラフィック技術によって、キャラクターと環境が綺麗に描かれています。プレイヤ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -71,7 +84,7 @@
         "title": "【SAROS：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『SAROS』は、前作『Returnal』の魅力をより多くの人に届けることを目指し、より遊びやすく作られたゲームです。開発者は、より幅広いプレイヤーが楽しめるように、ゲームのシステムや操作性を改良しています。結果として、よりアクセシブルで、誰でも楽しめるゲームに仕上がっています。",
+        "description": "『SAROS』は、前作『Returnal』の魅力をより多くの人に届けるために、より遊びやすく作られたゲームです。開発チームは、より幅広いプレイヤーが楽しめるよう、ゲームの難易度や操作性を調整しています。結果として、よりアクセシブルで、より楽しいゲーム体験が実現しています。『SAROS』では、プレイヤーは、新しいステージやキャラクターを楽しみながら、前作の面白さを再現することができます。開発チームの",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -81,23 +94,88 @@
         "is_translated": false
       },
       {
-        "title": "【ディアブロ IV: 憎悪の帝王：レビュー】",
-        "platform": "doope!",
+        "title": "【Neverness to Everness：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Blizzard Entertainmentから最新のプレスリリースが届きました。国内向けの情報を更新した内容が含まれています。昨晩、当サイトで紹介した「ディアブロ」に関するレビューをご覧になった方も多かったと思います。最新の情報を追加して、より詳しい内容をご紹介していきます。",
+        "description": "NTE カウントダウン タイマーを利用すると、いつプレイを始められるかがわかります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166388.html",
+        "url": "https://www.pcgamer.com/games/action/nte-release-date-launch-times/",
         "date": "2026-04-28",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "【Steam Machine、Steamコントローラー：レビュー】",
+        "title": "【Pragmata：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "そうです、誰もが Vanquish をプレイしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/there-are-dozens-of-us-the-best-third-person-shooter-of-all-time-sees-huge-player-spike-on-steam-after-capcoms-pragmata/",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Windrose：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Kraken Express は、プレイヤーが 1.0 リリースまでずっと、ゲーム内での進捗を維持できるように、最善の対応を心がけています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/windrose-devs-dont-have-any-progress-wipes-planned-for-early-access-but-of-course-s-t-happens/",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Garry's Mod：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "AI によって作成された低品質なコンテンツは、画像や動画、音楽などのあらゆるクリエイティブ媒体において、ますます大きな問題になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/eventually-the-slop-will-just-fall-to-the-bottom-garrys-mod-sequel-launches-to-mixed-reviews-but-garry-himself-isnt-worried-about-ai-games-on-the-main-page/",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Blood of Dawnwalker：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "5 月 4 日に新しい Steam コントローラーが発売されることを目前に、レビューを終えたばかりです。レビューの結果はとてもよかったです。私はその後、Valve のエンジニアである Steve Cardinali とデザイナーの Lawrence Yang と話し合う機会を得ました。",
+        "description": "「ウィッチャー3」のディレクターを務めたコンラッド・トマシュキェヴィチがレベル・ウルブズの設立に協力してから4年が経過し、このスタジオのデビュー作「ドーンウォーカーの血」のリリースが間近に迫っています。レベル・ウルブズは、AAAタイトルの開発に特化したスタジオとして注目を集めています。コンラッド・トマシュキェヴィチの経験と才能が、スタジオの成功に大きな役割を果たすこと間違いありません。レベル・ウル",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-gets-a-late-summer-release-date-system-requirements-and-another-very-witchery-gameplay-look-in",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【マラソン：レビュー】\n【ロード・オブ・ザ・リング：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "「マラソン」と「ロード・オブ・ザ・リング」は、物語的、美的、機能的に正反対のゲームですが、対照的な関係性を強調するためにペアにされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-do-marathon-and-the-lord-of-the-rings-have-to-do-with-each-other-pvpve-gameplay-apparently",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Machine：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "5 月 4 日の新しい Steam コントローラーのリリースに先立ち、私はレビューを終えた直後に、Valve のエンジニアである Steve Cardinali とデザイナーの Lawrence Yang と話し合う機会を得ました。新しい Steam コントローラーはとても良いものであると感じたので、開発者の2 人に直接話を聞いてみることにしました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -107,36 +185,10 @@
         "is_translated": true
       },
       {
-        "title": "【ナイト・ティース：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ホラースリラー『ナイト・ティース』に出演したシドニー・スウィーニーは、好きか嫌いかは別としても、長く残る印象を残す演技を見せました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/sydney-sweeney-night-teeth-netflix/",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
-        "title": "【Aphelion：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Don't Nod の最新作は、個人的なSF冒険の旅を提供します。ゲームプレイの魅力は他の作品に比べるとやや欠けていますが、Aphelion の感情的なストーリーはぜひ一度体験してみる価値があります。この作品は、プレイヤーをSFの世界に引き込み、感動的な体験を約束します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/aphelion-review/",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
         "title": "新型Steamコントローラーをいち早く触ったら「尖りすぎコントローラー」から「優秀コントローラー」に進化していた。先行ハンズオンで見えた機能性と汎用性",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "弊誌は、今回、新型Steamコントローラーの発売前に先駆けて、この新しいコントローラーに触れる機会をいただくことができました。本稿では、新型Steamコントローラーが旧型からどのように進化したかという側面から、その感触や実力を紹介していきます。新型コントローラーは、旧型からの改良点や新しい機能を搭載していますので、ゲームプレイの体験がより一層楽しくなることを期待できます。弊誌では、新型Steamコ",
+        "description": "今回、弊誌は、発売に先駆けて新型Steamコントローラーに触れる機会を得た。本稿では、新型Steamコントローラーの進化の過程や、旧型からの違いを含め、感触や実力を詳しく紹介していく。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -144,71 +196,6 @@
         "url": "https://automaton-media.com/articles/reportjp/steacon-20260428-440144/",
         "date": "2026-04-27",
         "is_translated": false
-      },
-      {
-        "title": "【ショートショートフィクションズ：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "room6は4月27日、オムニバス・アドベンチャーゲーム『ショートショートフィクションズ』の体験版を配信しました。このゲームは、様々なストーリーやキャラクターが登場することで、プレイヤーに新しい体験を提供します。体験版を遊ぶことで、ゲームの世界観やゲーム性を先行して感じることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260427-440040/",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【ディアブロ IV: 憎悪の帝王：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2023年6月の発売以来、「ディアブロ IV」はシーズンや大型拡張を通じて、メフィストやリリス、ホラドリムを巡る壮大な“憎悪の時代”サーガを描いてきました。いよいよ明日、最新の大型拡張パック「憎悪の帝」がリリースされ、このサーガに終止符を打つことになります。新しいストーリーやキャラクター、ゲームシステムなどが追加され、ゲームの世界がさらに広がります。ファンは、この大型拡張パックによって、新たな冒険",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166310.html",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【コール オブ デューティ：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "2013 年のインタビューで、ビデオゲームに対するバーグの感情は明確で、曖昧さが感じられませんでした。彼はゲームの魅力に引き寄せられ、様々な作品を楽しみながら、ゲーム文化の深淵に足を踏み入れています。バーグの情熱は、単なるゲームプレイに留まらず、ゲームの世界観やストーリー、キャラクターの魅力にも惹かれていました。彼のゲームに対する熱い思いは、ゲームを通じて新たな体験や感動を得られることを信じている",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-movie-director-once-claimed-he-told-navy-seals-they-were-pathetic-for-playing-call-of-duty/",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
-      {
-        "title": "【トランプ銃撃犯：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ボーダム氏は事件後、新たな注目を集めた。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/suspected-trump-shooters-game-pulled-from-sale-on-steam-after-flood-of-meme-reviews/",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週末から、私の家の飾り付けが始まります。多くの食事を楽しむことや、家具を取り外してサンディングや車のプライミングを行うなど、様々な作業に取り組む予定です。人生は、少しリスクを冒さなければ面白くないでしょうか？窒息の危険を意識しながらも、楽しみにしている作業が多くあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-379",
-        "date": "2026-04-25",
-        "is_translated": true
       },
       {
         "title": "【Xenonauts 2：レビュー】",
@@ -242,61 +229,61 @@
         "title": "[Steam] ゲーマーズ クラブ リピート ($5.99/50% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamで提供されている「ゲーマーズ クラブ リピート」は、ゲーム好きのために創られた特別なコンテンツです。このゲームは、プレイヤーがさまざまなゲームを体験できるという特徴を持っています。50% オフの特別価格で提供されているこのゲームは、通常価格 $11.98 から $5.99 まで価格が下がり、ゲーム好きにはお得な機会です。 「ゲーマーズ クラブ リピート」では、さまざまなジャンルのゲームをプレイできます。アクション、パズル、ストラテジーなど、さまざまなジャンルのゲームを体験することができます。プレイヤーは、自分が好きなゲームを選んでプレイし、さまざまなゲームの面白さを体験することができます。 このゲームは、ゲーム好きのコミュニティーを形成することを目的としています。プレイヤーは、他のゲーム好きと交流し、ゲームに関する情報を共有することができます。さらに、ゲームの中には、プレイヤーが自分のゲームを作成できる機能もあります。プレイヤーは、自分のゲームを作成して、他のプレイヤーと共有することができます。 「ゲーマーズ クラブ リピート」は、ゲーム好きのために特別に創られたコンテンツです。このゲームでは、さまざまなゲームを体験することができ、ゲーム好きのコミュニティーを形成することができます。50% オフの特別価格で提供されているこのゲームは、ゲーム好きにはお得な機会です。",
+        "description": "Steamプラットフォームで配信中の「ゲーマーズ クラブ リピート」は、50% オフの特別セール中です。この魅力的なゲームを手に入れる機会は今です。通常価格より大幅に割引された5.99ドルでの購入が可能です。 「ゲーマーズ クラブ リピート」は、プレイヤーが様々なゲームを体験できる、ユニークで多様なゲームワールドを提供します。ステージやキャラクターが繰り返し使われていることを受け、ユーモアとパロディーが満ちたゲーム性を楽しむことができます。 このゲームでは、プレイヤーは繰り返し登場するステージやキャラクターを通じて、ゲームデザインの奥深さや、繰り返しの概念がもたらすユーモアを体験できます。ゲーム内の多様な要素は、プレイヤーの創造性や挑戦精神を引き出します。 50% オフのこのセールは、限られた時間しか利用できないため、早速「ゲーマーズ クラブ リピート」をSteamで購入して、繰り返し登場するステージやキャラクターがもたらす、新しいゲーム体験を楽しむことができます。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       },
       {
         "title": "[Steam] カロンブル！ (発売割引として20%オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで新たに登場した「カロンブル！」は、発売を記念して20%オフの特別割引を適用しています。この魅力的なゲームは、ユーザーに新しい体験を提供するために設計されています。カロンブル！の世界では、プレイヤーは様々なアクションや探索を楽しむことができ、ゲーム独自のシステムやグラフィックは、ユーザーを新しい冒険の世界に引き込んでくれます。 プレイヤーは、さまざまなステージやモードを攻略し、キャラクターを成長させながら、ゲームの奥深いストーリーや隠し要素を発見することができます。さらに、オンライン機能を通じて、友達や他のプレイヤーとの対戦や協力プレイも可能です。 この割引期間は限定的ですので、すぐにカロンブル！を体験してみることがおすすめです。Steamユーザーなら誰でも、20%オフの発売割引を受けてこの新しいゲームを入手することができます。みなさんも、カロンブル！の世界に足を踏み入れて、楽しい時間を過ごしてください。",
+        "description": "Steamでは、人気ゲーム「カロンブル！」が発売記念として20%オフの割引キャンペーンを実施中です。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、プレイヤーを魅了することができます。カロンブル！では、様々なステージをクリアしていくことで、自分のスキルを試すことができます。さらに、ゲーム内のアイテムやキャラクターのカスタマイズも可能で、より楽しくプレイできます。割引キャンペーンは期間限定なので、早速「カロンブル！」をチェックしてみてください。Steamで今すぐ購入して、20%オフの特典を手に入れてみませんか。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       },
       {
         "title": "[Steam] Unbroken: the Awakening ( 6.59$ / 40% オフ )",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamで現在開催されているセールでは、注目すべきタイトル「Unbroken: the Awakening」が40%オフで6.59$で提供されています。このゲームは、プレイヤーを新たな世界に誘い込み、独自のストーリーと刺激的なゲームプレイを体験させるでしょう。タイトルから推測できるように、「Awakening」という言葉が使用されていることから、プレイヤーが目覚めることになる世界や、新たな力や能力を発見することになる可能性が高いです。 このゲームは、魅力的なグラフィックと、スリリングなサウンドトラックによって、プレイヤーを 驚かせ、楽しませることができます。さらに、ゲームの内容は、プレイヤーが選択する行動や選択によって、ストーリーが変化することが予想されます。つまり、プレイヤーは、自分の選択によって、ゲームの世界を形作り、物語を進めることができるのです。 「Unbroken: the Awakening」は、Steamで現在40%オフで提供されているため、ゲームファンにとっては絶好の機会です。セール期間中は、6.59$でこのゲームを購入することができます。もし、あなたが新たなゲーム体験を求めているのであれば、このタイトルは間違いなくチェックすべきです。",
+        "description": "Steamプラットフォームで現在40%オフのセール中の『Unbroken: the Awakening』です。価格は6.59ドルと、手頃な価格帯で提供されています。このタイトルは、「覚醒」という意味の「Awakening」をサブタイトルに持つことから、プレイヤーが新たな力や能力を得て、世界を見直すような体験ができるゲームであることが推測されます。 「Unbroken」というタイトルは、「絶対に」という意味合いがあり、不屈の精神を表現しています。つまり、プレイヤーは様々な挑戦や困難に直面しながらも、決して諦めることなく前向きに進むことになるでしょう。このゲームは、ストーリーやキャラクターの成長に重点を置いた、ドラマティックな体験を提供するでしょう。 ゲームのジャンルは明確にはわかりませんが、タイトルから推測すると、アクション要素やRPGの要素が含まれている可能性があります。プレイヤーは、戦闘やパズルを解くことで、自分のキャラクターを成長させ、ストーリーを進めていくことでしょう。Steamのセール期間中は、通常価格より安く購入することができますので、興味がある方はぜひこの機会にチェックしてみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       },
       {
         "title": "[GOG] グリッチフェアリー ($8.79 / 20% オフ)",
         "platform": "GOG",
         "type": "sale",
-        "description": "GOGで現在開催中のセールでは、ファンタジーとアドベンチャーが融合した『グリッチフェアリー』が20%オフで提供されています。このゲームは、不思議な世界を探索し、魔法とテクノロジーが混在するユニークな環境でプレイヤーを楽しませます。美しいグラフィックと魅力的なサウンドトラックが、プレイヤーをゲームの世界に引き込むことでしょう。 『グリッチフェアリー』では、プレイヤーはグリッチという特殊な能力を持つファンタジーの生物となり、不思議な世界を冒険しながら、秘密と謎を解き明かしていきます。ゲーム内では、多様なキャラクターと出会い、友情や冒険の絆を築くことができます。さらに、ゲームの世界はグリッチによって変化し、プレイヤーの選択によって物語が変化するダイナミックなストーリーが展開されます。 このセール期間中、通常価格よりも20%割引された$8.79で『グリッチフェアリー』を購入できます。GOGのユーザーであれば、絶対に外すことができないチャンスです。『グリッチフェアリー』の世界に飛び込んで、不思議な冒険を体験してみてください。",
+        "description": "GOGで現在、グリッチフェアリーというタイトルのゲームが20%オフで販売中です。通常価格よりも8ドル安く、8.79ドルで購入できます。このタイトルから、ゲームが不思議な世界や、不具合をテーマにしたストーリーを持っていることが予想されます。グリッチフェアリーは、プレイヤーをマジカルな世界に導き、不思議なキャラクターたちと出会うことで、ユニークな体験を提供するでしょう。ゲームのグラフィックやサウンドトラックも、不思議な雰囲気を醸し出しているはずです。さらに、不具合をテーマにしたゲームということは、バグやエラーを利用したパズル要素が含まれている可能性もあります。グリッチフェアリーは、プレイヤーに新しい視点や考え方を提供し、楽しい時間を過ごせるゲームであると考えられます。興味を持ったゲーマーには、是非一度お試しいただきたいタイトルです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       },
       {
         "title": "Steam の Battlefield 3™ が 95% オフ (前回のセールは 2025 年 7 月)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で提供されている Battlefield 3 は、ファーストパーソン・シューティングゲームの代表作として知られています。このゲームは、ダイナミックなマルチプレイヤー機能とリアルなグラフィックスを特徴としており、プレイヤーは現代の戦場を舞台に白熱した戦闘を体験できます。現在、Steam で 95% オフのセール中で、前回のセールは 2025 年 7 月でした。このセールでは、通常価格よりも大幅に安い価格で Battlefield 3 を購入できます。ゲームの内容は、現代の戦争を描いたストーリーモードと、最大 64 人のプレイヤーが参加できるマルチプレイヤーモードがあります。グラフィックスやサウンドデザインも高品質で、ゲームの臨場感を高めています。ファーストパーソン・シューティングゲームのファンにはほぼ必須のタイトルであり、セール中のこの機会に是非購入してみてください。",
+        "description": "Steam で提供されている Battlefield 3 は、95% の大幅な割引を受けることができます。この割引は、前回のセールが 2025 年 7 月であったことを考えると、非常に魅力的です。Battlefield 3 は、壮大なマルチプレイヤー モードや、ストーリー豊かなキャンペーン モードを備えた、ファーストパーソン シューティング ゲームです。プレイヤーは、さまざまなクラスや兵器を使用して戦い、戦略的なチーム プレイを楽しむことができます。グラフィックやサウンド デザインも、現実的な戦場を再現しており、没入感の高いゲーム体験を提供します。Steam で提供されているこの割引により、Battlefield 3 をプレイするのは今が絶好の機会です。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       }
     ]
   },
@@ -354,5 +341,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-28T13:30:33.436586"
+  "last_updated": "2026-04-29T03:31:47.101305"
 }

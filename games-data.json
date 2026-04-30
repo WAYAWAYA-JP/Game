@@ -5,16 +5,76 @@
         "title": "DOOMBLADE - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下深くで、グルーム・ガールは長い年月鎖につながれていたが、知性を持つ兵器ドゥームブレードと出会う。ドゥームブレードとグルーム・ガールは力を合わせ、強力な能力を解放し、2Dアクションメトロイドヴァニアの世界で復讐の旅を始める。この旅で、彼女たちは強大な敵ドレッドロードを完全に破壊し、復讐を成し遂げる。",
+        "description": "地下深くで、グルーム・ガールは、長い間鎖につながれていたが、逃走を試みる知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとグルーム・ガールは力を合わせ、強力な能力を解放し、この2Dアクションメトロイドヴァニアでドレッドロードを完全に破壊するための復讐の旅に出ます。",
         "price": "無料",
         "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-29"
+        "date": "2026-04-30"
       }
     ],
     "bundle": [
+      {
+        "title": "Dead Rising シリーズ バンドル",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "PLAYISM Publisher Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Build Your Own Capcom Masters Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Humble Choice April for only $7!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Humble Choice and IGN+ Key for following month",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-04-30"
+      },
       {
         "title": "Discount Humble choice",
         "platform": "Humble Bundle",
@@ -42,10 +102,23 @@
     ],
     "review": [
       {
+        "title": "【American Truck Simulator：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、約38分に渡る本格的なゲームプレイを収録したプレビュー映像を紹介した「American Truck Simulator」のイリノイ州DLCですが、新たに開発元のSCS Softwareが公式サイトを更新し、イリノイ州DLCの詳細を公開しました。このDLCでは、実際のイリノイ州を再現したマップが追加され、豊かな自然や都市部を駆け抜けることができます。さらに、様々な新しいトラックや車両も追加され",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166455.html",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
         "title": "【NTE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『NTE: Neverness to Everness』の先行プレイに基づいて、戦闘の奥深さをより深く掘り下げていくことができます。戦闘システムの複雑さや戦略的要素など、ゲームの魅力がより一層引き出されます。先行プレイ体験を通じて、プレイヤーはゲームの全貌を垣間見ることができ、より多くの期待を抱くことができます。戦闘の奥深さを探求することで、ゲームの世界観やストーリーにもより深く没頭することができ",
+        "description": "『NTE: Neverness to Everness』の先行プレイに基づいて、戦闘の奥深さについて詳しく紹介します。ゲームの世界観やシステム、キャラクターの能力など、戦闘に影響を与える要素を徹底的に分析し、プレイヤーが戦闘の楽しさを最大限に享受できるようにします。戦闘の戦略やタクティクス、そしてキャラクターの成長など、ゲームの魅力を存分に伝えることを目指しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -58,7 +131,7 @@
         "title": "【Above Land: Rhapsody：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Flying Amateursは、3Dアクションゲーム『Above Land: Rhapsody』を発表しました。このゲームは、3D空間を舞台にしたアクションゲームで、プレイヤーはさまざまなステージを攻略しながら、敵と戦います。ゲームのグラフィックは美しく、キャラクターの動きも滑らかで、快適なゲームプレイを提供します。Flying Amateursは、このゲームで新しいゲーム体験を提供しようとして",
+        "description": "Flying Amateursは、3Dアクションゲーム『Above Land: Rhapsody』を発表しました。このゲームは、プレイヤーが新しい世界を探索し、様々な能力を活用して挑戦を克服することができます。 Flying Amateursの開発チームは、ユーザーに刺激的な体験を提供するために、グラフィックやサウンドデザインにもこだわりました。『Above Land: Rhapsody』は、3D",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -68,23 +141,10 @@
         "is_translated": false
       },
       {
-        "title": "【Mycopunk：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ニューヨークで活動する新スタジオ「Pigeons at Play」のデビュー作であるSci-Fiアクションシューター「Mycopunk」は、昨年7月に早期アクセス向けにローンチされ、高い評価を獲得しました。現在、新たなプラットフォームに向けて進化を遂げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166433.html",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
         "title": "【Build a Rocket Boy：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "MindsEye の新しいミッションは Blacklisted という名前です。このミッションはビルド・ア・ロケットボーイのマーク・ゲルハルト CEO が「妨害行為の証拠の一部を共有する」と述べた事件に基づいています。ゲルハルト CEO は、事件が扇動されたものだと主張しています。ミッションでは、プレイヤーはこの事件の真実を探ることになります。Blacklisted ミッションは、MindsEye",
+        "description": "MindsEye の新しいミッション「Blacklisted」は、近況を語っています。ビルド・ア・ロケットボーイの最高経営責任者マーク・ゲルハルトCEOが「妨害行為の証拠の一部を共有する」と述べたこのミッションは、扇動されたものだと主張しています。プレイヤーは、ミッションの詳細を知ることができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -94,10 +154,23 @@
         "is_translated": true
       },
       {
+        "title": "【ディープ・ウォーター：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『ディープ・ブルー・シー』の監督を務めたレニー・ハーリンが、アーロン・エッカートを主演に迎えた『ディープ・ウォーター』でクリーチャーをフィーチャーした名作の魅力を取り戻そうとしています。しかし、完璧なものにはなりませんでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/deep-water-review-renny-harlin-deep-blue-sea/",
+        "date": "2026-04-29",
+        "is_translated": true
+      },
+      {
         "title": "【Karma Exorcist：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Cyclosが開発中の『Karma Exorcist』では、メトロイドヴァニアの王道的な要素と死にゲー的な難しさが融合しています。試遊プレイを通して、このタイトルの魅力を味わうことができます。メトロイドヴァニアの醍醐味である探索とアクションが存分に楽しめる一方で、死にゲーの要素も満喫できるゲームです。開発中である『Karma Exorcist』は、メトロイドヴァニアファンや死にゲー好きには必見のタ",
+        "description": "Cyclosが開発中の『Karma Exorcist』の試遊プレイでは、王道的なメトロイドヴァニアと死にゲー的な要素が際立っている。メトロイドヴァニアは、探索とアクションを組み合わせたジャンルで、プレイヤーはキャラクターを操作して広大なマップを探索し、様々なアイテムやスキルを取得して強化していく。死にゲー的な要素は、難易度が高く、プレイヤーは繰り返し挑戦して、少しずつ進んでいく必要がある。また、試",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -110,7 +183,7 @@
         "title": "【ファイナルファンタジーVII リバース：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スクウェア・エニックスは4月28日、人気ゲーム『ファイナルファンタジーVII リバース』の無料体験版をNintendo Switch 2やXbox Series X/S、Windows向けに配信を開始しました。この体験版では、プレイヤーはゲームの世界やキャラクターを先行体験することができます。",
+        "description": "スクウェア・エニックスは4月28日、人気シリーズ『ファイナルファンタジーVII』の新作『ファイナルファンタジーVII リバース』の無料体験版を、Nintendo Switch 2、Xbox Series X/S、Windows向けに配信を開始しました。この体験版は、シリーズのファンや新規プレイヤーにとって、最新作の世界やゲーム性を先行体験する機会となります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -120,49 +193,10 @@
         "is_translated": false
       },
       {
-        "title": "【Neverness to Everness：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "NTE カウントダウン タイマーを使用すれば、いつプレイを開始できるかを簡単に追跡できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/nte-release-date-launch-times/",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
-        "title": "【Pragmata：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "そうです、誰もが Vanquish をプレイしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/there-are-dozens-of-us-the-best-third-person-shooter-of-all-time-sees-huge-player-spike-on-steam-after-capcoms-pragmata/",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
-        "title": "【Windrose：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Kraken Expressでは、プレイヤーが1.0リリースまでずっと進行状況を維持できるように、最善を尽くしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/windrose-devs-dont-have-any-progress-wipes-planned-for-early-access-but-of-course-s-t-happens/",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
         "title": "【Blood of Dawnwalker：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『ウィッチャー3』のディレクターであるコンラッド・トマシュキェヴィチがレベル・ウルブズの結成に協力してから4年が経過しました。今、スタジオのデビュー作『ドーンウォーカーの血』のリリースが目前に迫っています。レベル・ウルブズは、コンラッド・トマシュキェヴィチの経験とスキルを基に、新しいゲームの開発に取り組んでいます。『ドーンウォーカーの血』は、ファンタジー世界を舞台に、ユニークなストーリーやキャラク",
+        "description": "『ウィッチャー3』のディレクターであるコンラッド・トマシュキェヴィチがレベル・ウルブズの結成に協力してから4年が経過しました。このスタジオのデビュー作『ドーンウォーカーの血』のリリースが近づいてきています。このスタジオの初の作品が待ちに待った登場となります。レベル・ウルブズは、コンラッド・トマシュキェヴィチを中心に、多くのタレントを擁し、ゲーム開発に情熱を注いでいます。『ドーンウォーカーの血』は、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -172,10 +206,10 @@
         "is_translated": true
       },
       {
-        "title": "【ロード・オブ・ザ・リング：レビュー】",
+        "title": "【マラソン：レビュー】\n【ロード・オブ・ザ・リング：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『マラソン』と『ロード・オブ・ザ・リング』は、物語的、美的、機能的に正反対であるにもかかわらず、対照的な関係性を際立たせるために対にされている。二つのゲームは、まるで対極の二つの世界を表現しているかのように、様々な面で対照的な特徴を持っている。美しい風景と壮大なストーリーが広がる『ロード・オブ・ザ・リング』と、暗く残酷な世界観とシンプルなゲーム性が特徴の『マラソン』は、互いに反対の存在として見られ",
+        "description": "『マラソン』と『ロード・オブ・ザ・リング』は、物語的、美的、機能的に正反対であるにもかかわらず、対照的な関係性を強調するために対にされています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -185,10 +219,10 @@
         "is_translated": true
       },
       {
-        "title": "【Steam Machine：レビュー】",
+        "title": "【Steam Machine：レビュー】\n【Steamコントローラー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "5 月 4 日に新しい Steam コントローラーがリリースされることを受けて、レビューを終えたばかりで感想が新しいところだったので、Valve のエンジニアである Steve Cardinali とデザイナーの Lawrence Yang とお話する機会を得ました。そのレビューでは、とても良い印象を受けたことが分かりました。",
+        "description": "5 月 4 日に新しい Steam コントローラーがリリースされる前に、レビューを終えたばかりで、とても良い評価だったので、Valve のエンジニアである Steve Cardinali とデザイナーの Lawrence Yang と話を聞く機会を得ました。私たちは、コントローラーの開発について話し合い、 интересがある点を知ることができました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -225,6 +259,42 @@
       }
     ],
     "sale": [
+      {
+        "title": "Steam の Battlefield 3™ が 95% オフ (前回のセールは 2025 年 7 月)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で提供されている Battlefield 3 は、95% オフの特売中です。この人気 FPS ゲームは、前回 2025 年 7 月にセールを行った後、またしても破格の値段で登場しています。 Battlefield 3 は、ダイナミックなマルチプレイヤー モードや、ストーリーに重点を置いたシングルプレイヤー キャンペーンを提供します。壮大な戦場を舞台に、プレイヤーは戦車、ヘリコプター、ジェット機などの各種兵器を操り、戦略的なチームプレイを楽しむことができます。グラフィックやサウンドデザインも高い完成度を誇り、現代の戦争をリアルに体験できます。さらに、オンラインでの対戦を通じて友人や他のプレイヤーと協力して戦うこともできるため、長期的な楽しみ方も可能です。この機会に Battlefield 3 をプレイして、戦場の熱い戦いの臨場感を感じてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Steam の Battlefield™ Hardline が 95% オフ (最後のセールは 2025 年 7 月)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で提供されている Battlefield™ Hardline は、現在 95% オフの特別セール中です。最後にこのようなセールが行われたのは 2025 年 7 月でしたが、今回も同様の特典を楽しみることができます。 Battlefield™ Hardline は、 Battlefield シリーズのファン必見のタイトルで、警察と犯罪者の対立をテーマにしています。都市を舞台に、警察側と犯罪者側のどちらかを選んで、戦略的な戦闘を楽しむことができます。ゲームの特徴であるマルチプレイヤーモードでは、最大 64 人のプレイヤーが参加可能で、チームワークと戦略が重要になります。 グラフィックも美しく、都市の環境がリアルに表現されています。様々な車両や武器が用意されており、プレイヤーは自由に選択して戦闘に挑むことができます。ストーリーモードでは、警察官の視点から事件を捜査し、犯罪組織を壊滅させるというミッションを遂行します。 Battlefield™ Hardline は、ステルス性と戦略性を兼ね備えたゲームプレイが特徴です。プレイヤーは、状況に応じて戦闘スタイルを変化させる必要があり、戦術的な思考が求められます。さらに、オンラインマルチプレイヤー機能により、友達と一緒に戦うこともできます。 このセールは、Battlefield シリーズのファンや、アクションゲームを好きな方必見のタイトルです。95% オフという破格の価格で提供されているので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "InterfaceX26: 偽の OS Steam セール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "InterfaceX26: 偽の OS Steam セールです。このゲームでは、プレイヤーは仮想のオペレーティングシステムの中で冒険することになります。Steamでのセール期間中は、通常よりも大幅に安くなり、手軽に体験することができます。 このゲームの世界は、未来的なデジタル空間が広がり、さまざまなデータやシステムが存在します。プレイヤーはこの世界の中で、さまざまなミッションやパズルに挑戦しながら、仮想のオペレーティングシステムの秘密を解き明かしていきます。 InterfaceX26: 偽の OS は、独自のゲームプレイやグラフィックで、プレイヤーを新しい体験へと導きます。Steam セール期間中は、通常よりも安い価格で購入できるので、興味があるプレイヤーはこの機会に購入してみることをお勧めします。仮想の世界で新しい冒険を始めてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-04-30"
+      },
       {
         "title": "[Steam] ゲーマーズ クラブ リピート ($5.99/50% オフ)",
         "platform": "Steam",
@@ -271,18 +341,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-04-29"
-      },
-      {
-        "title": "Steam の Battlefield 3™ が 95% オフ (前回のセールは 2025 年 7 月)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam の Battlefield 3 が現在、95% オフで提供されています。このセールは、2025 年 7 月に前回実施された以来、再び登場し、ゲーマーたちがこの人気 FPS ゲームを格安で入手できる機会となりました。 Battlefield 3 は、現代戦を舞台にした壮大なマルチプレイヤー モードや、ストーリーに深みのあるシングルプレイヤー キャンペーンで知られています。グラフィックスやサウンドデザインも高い評価を受けており、ゲームの世界に完全に没入することができます。 このセールでは、通常価格よりも大幅に安く Battlefield 3 を購入でき、ゲームのすべての機能を体験することができます。マルチプレイヤーで友達と一緒に戦ったり、シングルプレイヤー キャンペーンでストーリーを追ったり、グラフィックスの高さに惊嘆したりすることができます。Battlefield 3 は、Steam コミュニティからも高い評価を受けており、多くのプレイヤーが常にオンラインでプレイしています。したがって、新しいゲームを探しているゲーマーには、絶好の機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
         "date": "2026-04-29"
       }
     ]
@@ -341,5 +399,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-29T13:25:05.987082"
+  "last_updated": "2026-04-30T03:32:40.531622"
 }

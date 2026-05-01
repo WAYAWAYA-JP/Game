@@ -2,19 +2,67 @@
   "pc": {
     "free": [
       {
-        "title": "DOOMBLADE - Epic Games 無料配布中",
+        "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "地下深くで、グルーム・ガールは長い間鎖につながれていたが、逃走を試みる知性を持つ兵器、ドゥームブレードを発見します。ドゥームブレードとグルーム・ガールは力を合わせ、強力な能力を解放し、2D アクション メトロイドヴァニアの世界でドレッド ロードを完全に破壊する復讐の旅に出発します。この旅では、2人は協力して強大な敵と戦い、様々な能力を駆使して復讐を成し遂げます。",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、強力な装備やスキルを駆使して、放置バトルに挑みましょう。連続クリッカーを使用して、強大なボスを倒すこともできます。さらに、ギルド仲間とチャットしたり、PvP対戦を楽しむことも可能です。遊び方はあなたの好きなように自由自在です。",
         "price": "無料",
-        "originalPrice": "¥1,700",
+        "originalPrice": "¥0",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
+      },
+      {
+        "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンが楽しむこともできる一方で、自動化に興味がある人にもアピールする、自動化と戦略の融合に特化したゲームです。自動化の世界に没頭し、戦略的な思考を駆使して、ゲームの世界を楽しみます。",
+        "price": "無料",
+        "originalPrice": "¥3,400",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-01"
       }
     ],
     "bundle": [
+      {
+        "title": "Humble Choice April for only $7!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "Humble Choice and IGN+ Key for following month",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "Discount Humble choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-01"
+      },
       {
         "title": "Dead Rising シリーズ Bundle",
         "platform": "Humble Bundle",
@@ -52,30 +100,6 @@
         "date": "2026-04-30"
       },
       {
-        "title": "Humble Choice April for only $7!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Humble Choice and IGN+ Key for following month",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-30"
-      },
-      {
         "title": "Dead Rising シリーズ バンドル",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -100,18 +124,6 @@
         "date": "2026-04-30"
       },
       {
-        "title": "Discount Humble choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-29"
-      },
-      {
         "title": "Build Your Own Adrenaline Bundle (3/5 for $3.00/$4.75",
         "platform": "Fanatical",
         "type": "bundle",
@@ -129,7 +141,7 @@
         "title": "【SAROS：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ぽこ あ ポケモン』、『バイオハザード レクイエム』、『Mewgenics』に続いて、第4位のメタスコアを獲得しています。",
+        "description": "このゲームは、メタスコアランキングで『ぽこ あ ポケモン』、『バイオハザード レクイエム』、『Mewgenics』に続く4位を占めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -139,23 +151,75 @@
         "is_translated": false
       },
       {
-        "title": "【American Truck Simulator：レビュー】",
+        "title": "【Diplomacy is Not an Option：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "先日、約38分に渡る本格的なゲームプレイを収録したプレビュー映像を紹介した「American Truck Simulator」のイリノイ州DLCですが、新たにSCS Softwareが公式サイトを更新しました。イリノイ州DLCの最新情報が公開されており、ファンたちの期待を高めています。このDLCでは、イリノイ州の美しい景色や都市を駆け抜けることができ、ゲームの世界がさらに広がります。ゲームプレイの",
+        "description": "2024年10月にPC版の1.0がローンチされ、高い評価を獲得した人気RTSゲーム「Diplomacy is Not an Option」ですが、先日研究ツリーの刷新を含む最新アップデートが配信されました。このゲームはDoor 407によって開発されており、プレイヤーから高い評価を得ています。これからもこのゲームの進化に注目です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/04166455.html",
+        "url": "https://doope.jp/2026/05166498.html",
         "date": "2026-04-30",
         "is_translated": false
+      },
+      {
+        "title": "【MindsEye：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ミッションは面白みに欠け、退屈なものでした。また、開発者「Build a Rocket Boy」に対する妨害行為の約束された「証拠」は、残念ながら期待通りに実現しなかったです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/i-played-the-mindseye-mission-about-the-alleged-game-saboteurs-and-it-sucks-so-bad/",
+        "date": "2026-04-30",
+        "is_translated": true
+      },
+      {
+        "title": "最後に、私が実際に見たいと考えているビデオゲームを基にしたテレビ番組がついに制作され始めています。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Fallout は確かにクールですが、Atomfall をプレイしたことがありますか? Atomfall は、Fallout のファンであることを証明するチャンスです。Atomfall では、放射能に満ちた世界で生き残るために、プレイヤーはさまざまな戦略を駆使して、強力な敵と戦い、貴重なリソースを集めなければなりません。ゲームの世界は、グラフィックとサウンドでリアルに表現されており、プレイヤーは本",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/finally-someone-is-making-a-tv-show-based-on-a-videogame-that-i-actually-want-to-watch/",
+        "date": "2026-04-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "数ヶ月間の混乱を経て、水中サバイバルシミュレーションの完成が近づいています。開発者の努力により、ゲームはますます完成度を高めてきており、プレイヤーは水中でのサバイバルを体験できるようになります。水中での探索や資源の収集、危険な海洋生物との遭遇など、様々な要素がゲームをよりリアルにします。開発者は、ゲームのバランスや難易度を調整し、プレイヤーにとってより楽しい体験を提供するために努力しています。水中",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/subnautica-2-now-has-a-firm-early-access-launch-date-and-its-really-soon/",
+        "date": "2026-04-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『Subnautica 2』の開発は長期間にわたるものでした。ゲームのリリースが5月に決定したことを受けて、開発者のUnknown World Entertainmentは今回のプロジェクトについて詳細に語り始めました。開発チームは新しいアイデアや技術を取り入れるため、多くの挑戦に直面しました。例えば、海洋生物の動きや環境の模倣など、ゲームの世界観をよりリアルに表現するために、さまざまな試みを行っ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-a-year-of-messy-legal-shenanigans-subnautica-2-has-an-early-access-release-date",
+        "date": "2026-04-30",
+        "is_translated": true
       },
       {
         "title": "【Heroes of Might and Magic: Olden Era：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Heroes of Might and Magic: Olden Era は本日 4 月 30 日に早期アクセスが開始されます。『マイト＆マジック ヒーローズ VII』の英雄的で強力な展開に続くメール フォローアップが行われるまで、約 10 年を要しました。この新作は、シリーズのファンが長らく待ち望んでいたものです。早期アクセス期間中、開発チームはプレイヤーのフィードバックを集めながら、ゲームのバ",
+        "description": "Heroes of Might and Magic: Olden Era は本日 4 月 30 日に早期アクセスが開始されます。『マイト＆マジック ヒーローズ VII』の英雄的で強力な世界を継承するための新しい試みが行われるまで、10 年以上もの歳月が経過しました。この新作は、シリーズの根幹にあるファンタジーとアドベンチャーの要素をさらに高め、プレイヤーに新たな体験を提供します。 Heroes o",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -165,10 +229,10 @@
         "is_translated": true
       },
       {
-        "title": "【アトムフォール：レビュー】",
+        "title": "【フォールアウト：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これは嬉しいサプライズです。レビュー実行後に入手したDLCをチェックするために再訪してからわずか2週間後、Rebellionはカンブリアの黙示録的なサバイバルを発表しました。これは、シリーズの新たな展開を示唆しています。ゲームの内容は、厳しい環境の中で生き残ることを目的とした、サバイバル要素を盛り込んだものです。プレイヤーは、リソースを管理し、敵から身を守りながら、生き残るための戦略を考えなければ",
+        "description": "嬉しいサプライズでした。レビューを行った後に入手したDLCをチェックするために再訪問してからわずか2週間後、Rebellionはカンブリアの黙示録的なサバイバルを発表しました。この新しいゲームは、カンブリアの世界に生き残るための戦いを描いており、プレイヤーはさまざまな生物や環境に挑戦することになります。ゲームの世界は美しく詳細に描かれており、サウンドトラックも印象的です。Rebellionのこの新",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -178,23 +242,10 @@
         "is_translated": true
       },
       {
-        "title": "【バイオハザード：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ザック・クレガー監督が手がける、新たな『バイオハザード』映画のリブート版が2026年に待ち望まれており、初の予告編が公開されました。この予告編は、カプコンの人気ホラーシリーズ『バイオハザード』を、まったく新しい視点から描いていることがわかります。ゲームファンが長年にわたって愛してきた恐怖の世界が、映画の新たな解釈で蘇ります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/resident-evil-movie-2026-first-trailer-zach-cregger/",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
         "title": "【NTE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『NTE: Neverness to Everness』の先行プレイを基に、ゲームの戦闘システムの奥深さを詳しく紹介します。戦闘の魅力や戦略的な要素について掘り下げていくことで、プレイヤーがゲームをより深く楽しむことができるようになります。ゲームの世界観やシステムについても詳しく説明します。",
+        "description": "『NTE: Neverness to Everness』の先行プレイに基づいて、戦闘システムの奥深さを紹介します。このゲームは、プレイヤーが戦略的にアプローチする必要がある複雑な戦闘を提供し、奥深さと挑戦性が魅力的な要素となっています。戦闘では、様々なスキルやアクションを駆使して敵を倒していく必要があり、戦略的な思考と迅速な反応が求められます。さらに、キャラクターの成長や装備のカスタマイズも可能で",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -204,23 +255,10 @@
         "is_translated": false
       },
       {
-        "title": "【Above Land: Rhapsody：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Flying Amateursは、新しい3Dアクションゲーム『Above Land: Rhapsody』を発表しました。このゲームは、ユーザーに新しい体験を提供することを目的として開発されています。Flying Amateursの開発チームは、ユーザーのニーズに応えるために、ゲームのグラフィックやサウンドを大幅に改善しています。ゲームのストーリーは、ユーザーが新しい世界を探索することを中心に展開さ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260429-440442/",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
         "title": "【Hitman：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "MindsEye の新しいミッションは Blacklisted と呼ばれます。このミッションは、ビルド・ア・ロケットボーイの CEO マーク・ゲルハルトが「妨害行為の証拠の一部を共有する」と述べた事件が、扇動されたものであると主張していることで注目を集めています。",
+        "description": "MindsEye の新しいミッション「Blacklisted」が登場しました。ビルド・ア・ロケットボーイの CEO マーク・ゲルハルトは、妨害行為の証拠の一部を公開しました。この事件は、扇動されたものだと主張しています。この新しいミッションは、ゲーマーの注目を集めているようです。Blacklisted の詳細については、まだ明らかになっていませんが、MindsEye のファンには、期待が高まってい",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -233,25 +271,12 @@
         "title": "【Blood of Dawnwalker：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『ウィッチャー3』のディレクターであるコンラッド・トマシュキェヴィチがレベル・ウルブズの結成に協力してから4年が経過しました。この新しいスタジオのデビュー作『ドーンウォーカーの血』のリリースが間もなく迫っています。レベル・ウルブズは、コンラッド・トマシュキェヴィチをはじめ、『ウィッチャー』シリーズで経験を積んだメンバーで構成されています。スタジオのデビュー作『ドーンウォーカーの血』は、ファンタジー",
+        "description": "『ウィッチャー3』のディレクターであるコンラッド・トマシュキェヴィチが、レベル・ウルブズの結成に協力してから4年が経過しました。現在、スタジオのデビュー作である『ドーンウォーカーの血』のリリースが近づいています。この新しいゲームは、ファン们の間で大きな期待を集めています。レベル・ウルブズは、コンラッド・トマシュキェヴィチを含む経験豊富な開発チームによって構成されており、彼らは『ウィッチャー3』など",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-gets-a-late-summer-release-date-system-requirements-and-another-very-witchery-gameplay-look-in",
-        "date": "2026-04-28",
-        "is_translated": true
-      },
-      {
-        "title": "【マラソン：レビュー】\n【ロード・オブ・ザ・リング：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『マラソン』と『ロード・オブ・ザ・リング』は、物語的、美的、機能的に正反対のゲームです。しかし、この2つのゲームは、前者の関係性についての点を強調するために対になっているのです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-do-marathon-and-the-lord-of-the-rings-have-to-do-with-each-other-pvpve-gameplay-apparently",
         "date": "2026-04-28",
         "is_translated": true
       },
@@ -284,40 +309,52 @@
     ],
     "sale": [
       {
-        "title": "ゴールデンウィークセール：Planet of Lana II、Brick Rigs、WRC 10 スチーム版",
+        "title": "[Steam] コインスイーパー (25% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "本日のゴールデンウィークセールでは、さまざまなジャンルの魅力的なゲームが特価で提供されます。Planet of Lana IIは、美しいグラフィックと独自のゲーム世界を提供する、アクションアドベンチャーゲームです。 Brick Rigsは、ブロックを組み立てて車両を作り、レースやバトルを楽しむことができる、ユニークなゲームです。WRC 10 スチーム版は、ワールドラリー選手権の公式ゲームで、リアルなラリー体験を提供します。 これらのゲームは、それぞれ独自の魅力を持ち、様々なプレイスタイルに対応しています。Planet of Lana IIは、探索とアクションを楽しむファンに、 Brick Rigsは、創造性と楽しさを求めるユーザーに、WRC 10 スチーム版は、レースゲームのファンにお勧めです。 今回のゴールデンウィークセールでは、これらのゲームを特価で購入することができます。 Steamプレーヤーには、是非この機会にチェックしてみてください。さまざまなゲームを試して、新しい楽しみを見つけてください。",
+        "description": "コインスイーパーは、プレイヤーがコインを集めるというシンプルで面白いゲームです。このゲームでは、プレイヤーはフィールド上を移動し、散らばったコインをスイープして集めます。コインを集めるとスコアが加算され、プレイヤーは自分の記録を超えることを目指します。コインスイーパーには、さまざまなステージやモードがあるため、プレイヤーはさまざまな環境でコインを集めることができます。さらに、ゲームのグラフィックやサウンドは、プレイヤーに楽しい気分をもたらします。コインスイーパーは、リラックスしたいときや、簡単に遊びたいときにぴったりのゲームです。現在、コインスイーパーは25%オフなので、安価に購入することができます。コインスイーパーの魅力を体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
+      },
+      {
+        "title": "ゴールデンウィークセール Planet of Lana II、Brick Rigs、WRC 10 スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ゴールデンウィークセールでは、Planet of Lana II、Brick Rigs、WRC 10 スチームなどの人気ゲームが大幅な割引価格で提供されます。これらのゲームは、さまざまなジャンルやプレイスタイルをカバーしており、すべてのゲーマーが楽しめる内容になっています。 Planet of Lana IIは、美しいグラフィックと深いストーリーが特徴的なアドベンチャーゲームです。ユニークなゲーム世界を探索し、謎を解き明かすことで、プレイヤーはゲームの世界に完全に没頭することができます。 Brick Rigsは、ブロックを組み上げて車両を作ることができる創造性豊かなゲームです。プレイヤーは自分の想像力を利用して、さまざまな車両を設計し、運転することができます。 WRC 10 スチームは、ラリー競技の公式ゲームで、リアルな運転体験を提供します。プレイヤーは、さまざまなコースと車両を利用して、自分の運転スキルを磨くことができます。 これらのゲームは、Steamで現在セール中であり、通常価格よりも大幅に安くなっています。ゲーマーにとって、夢のチャンスです。ぜひ、この機会にチェックしてみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-01"
       },
       {
         "title": "Steam の Battlefield 3™ が 95% オフ (前回のセールは 2025 年 7 月)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で提供されている Battlefield 3 は、95% オフという破格の価値で提供されています。前回のセールは 2025 年 7 月でしたが、現在再びこの魅力的なオファーが利用できます。Battlefield 3 は、壮大な戦場を舞台に、プレイヤーが軍事アクションの臨場感を体験できるファーストパーソン・シューティングゲームです。グラフィックやサウンドの質が高く、戦略的なチームプレイを重視しているため、ゲーマーたちから高い評価を得ています。マルチプレイヤーモードでは、たくさんのプレイヤーが集まって戦うため、戦況が激しくなり、戦略とチームワークが重要になります。さらに、キャンペーンモードでは、一人でストーリーを進めながら、さまざまなミッションをこなすことができます。Steam で Battlefield 3 を 95% オフで購入することで、豊富なゲーム内容と臨場感のある戦闘体験を手に入れることができます。",
+        "description": "Steam の Battlefield 3™ が 95% オフで提供されています。前回のセールは 2025 年 7 月でしたが、再びこの魅力的なタイトルを安価に購入する機会が訪れました。 Battlefield 3™ は、ファーストパーソン・シューティングゲームとして知られ、壮大なマルチプレイヤー戦闘や映画のようなシングルプレイヤーキャンペーンを特徴としています。グラフィックやサウンドデザインも高く評価されており、現代の戦争をリアルな表現で体験できます。Steam で 95% オフという破格の価格で提供されているこのゲームは、FPS ファンの必見タイトルです。ゲームの世界に飛び込んで、戦争の激しさや戦友との絆を感じてみてください。 Battlefield 3™ を今すぐ購入して、戦争の熱い戦場を体験してください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
       },
       {
         "title": "Steam の Battlefield™ Hardline が 95% オフ (最後のセールは 2025 年 7 月)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で配信中の Battlefield™ Hardline が、驚きの 95% オフで提供されています。このセールは、2025 年 7 月のセール以来となり、再び注目を集めています。 Battlefield シリーズのファンなら必ずおすすめしたいタイトルであり、シリーズの素晴らしいゲーム性と、警察と犯罪者の対決を描くユニークな設定が特徴です。プレイヤーは、警察官や犯罪者としてさまざまなミッションに挑戦でき、チームワークと戦略が勝利の鍵となります。バトルフィールドシリーズの特徴である、広大なマップ上での高速なアクションと、多彩な武器や車両が利用できるため、臨場感あふれるプレイ体験が楽しめます。さらに、これまでの Battlefield シリーズの魅力的なマルチプレイモードも用意されており、世界中のプレイヤーと共に戦うことができます。Battlefield™ Hardline を今すぐ Steam で購入して、心躍るアクションとスリルの世界へ飛び込んでください。",
+        "description": "Steam で提供されている Battlefield™ Hardline は、現在 95% オフのセール中です。このタイトルは、警察と犯罪者をテーマにしており、プレイヤーはどちらかの役割を演じることができます。バトルフィールドシリーズのファンなら必ず興味を持つはずです。マルチプレイヤー要素も充実しており、多人数での戦闘を楽しむことができます。最後のセールは 2025 年 7 月だったため、今回のセールは貴重な機会と言えるでしょう。もしもこのシリーズのファンであれば、或いはアクションゲームが好きな方であれば、このセールを絶対に逃さないでください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
       },
       {
         "title": "InterfaceX26: 偽の OS Steam セール",
@@ -435,5 +472,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-30T13:22:23.868537"
+  "last_updated": "2026-05-01T03:42:56.527708"
 }

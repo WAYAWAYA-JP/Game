@@ -5,28 +5,52 @@
         "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、強力な装備やスキルを身につけ、放置バトルで勝利を目指しましょう。連続クリッカーを使用して強いボスを倒すこともできます。また、ギルドのフレンドとチャットしたり、PvP対戦で腕を試すことも可能です。遊び方はあなたの好みに合わせて自由自在です。",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、装備やスキルを強化して、放置バトルに挑みましょう。連続クリッカー機能を使って強力なボスを倒すこともできます。さらに、ギルドの友達とチャットしたり、PvP対戦を行うことも可能です。ゲームの進め方は、あなたの好みに応じて自由に楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合した面白いゲームです。自動化の世界に足を踏み入れたい人や、自動化を愛する人にとって、最適なゲームです。このゲームでは、自動化のシステムを駆使して、戦略的な思考力を試します。自動化と戦略が一つになり、プレイヤーは新しいレベルのゲーム体験を楽しむことができます。",
+        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合したタイトルです。プレイヤーは、自動化システムの能力を最大限に活用して、戦略的な思考力を発揮し、ゲーム世界を切り開いていくことを目指します。このゲームでは、自動化の技術を駆使して、効率的なシステムを構築し、複雑な問題を解決する楽しみが味わえます。自動化ジャンルのファンにとっては、さらに深みのあるゲーム体験が提供され、初心者にとっては、自動化の基礎を学びながら、戦略的な思考力を養うことができます。",
         "price": "無料",
         "originalPrice": "¥3,400",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "bundle": [
+      {
+        "title": "Mexican Entertainment System Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-05-02"
+      },
       {
         "title": "Humble Choice April for only $7!",
         "platform": "Humble Bundle",
@@ -37,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "title": "Humble Choice and IGN+ Key for following month",
@@ -49,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "title": "Discount Humble choice",
@@ -61,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "title": "Dead Rising シリーズ Bundle",
@@ -138,10 +162,36 @@
     ],
     "review": [
       {
+        "title": "【ヘルダイバー2：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ヘルダイバー2』の調整方針について、ユーザーから賛否両論が出ていたところ、開発元が一部の変更を元に戻すことを発表しました。これにより、ユーザーからの意見を重視し、ゲームのバランスを調整する姿勢が見られます。開発元は、ユーザーの声に応え、ゲームの魅力をさらに高めるために、不断の改善に取り組んでいます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260501-440937/",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
+        "title": "【CONSTANCE：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "精巧なミニチュアとフォトグラメトリーを用いたアドベンチャーゲーム「Trüberbrook」で知られるドイツの独立系プロダクション「btf」が、新作をリリースしました。この新作は昨年11月にPC向けにローンチされ、高い評価を獲得しました。タイトルは「Constan」で、独自の世界観とストーリーを楽しむことができます。「Trüberbrook」でも見られた独特の雰囲気とグラフィックが特徴で、ファンたち",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166545.html",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
         "title": "【007 First Light：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『007 First Light』は、ヒットマンシリーズの高品質なステルスアクションと、映画でおなじみの派手なアクションを融合させた贅沢な作品です。プレイヤーは、映画で見たようなスリリングなシーンを体験しながら、様々なステルスアクションを楽しむことができます。このゲームでは、プレイヤーは、ボンドのスピードとスタイルを感じながら、敵を倒し、missionをクリアする必要があります。映画のワールドとヒ",
+        "description": "『007 First Light』は、人気シリーズ『Hitman』を基に作られた高品質のステルスアクションと、映画でおなじみの派手なアクションを融合させた、贅沢なゲーム作品です。プレイヤーは、スピードとスタイルを兼ね備えた秘密任務を遂行するジェームズ・ボンドとして、様々なミッションに挑戦します。このゲームでは、静かに敵を蹴散らすステルスアクションと、ダイナミックなガンアクションが融合しています。映",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -149,6 +199,45 @@
         "url": "https://automaton-media.com/articles/reportjp/20260501-440869/",
         "date": "2026-05-01",
         "is_translated": false
+      },
+      {
+        "title": "【Far Far West：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "クラシックな3Dプラットフォーマーの「パンプキン・ジャック」や「Akimbot」を制作した英国のEvil Raptorの新作が、4月28日に早期アクセスローンチを果たしました。この新作は、Co-opカウボーイFPと呼ばれ、早速高い評価を獲得しています。プレイヤーたちから熱い支持を受けており、ゲームファンに大きな期待を抱かせています。Co-opカウボーイFPは、協力プレイを重視したゲームで、プレイヤ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166533.html",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Heroes of Might & Magic: Olden Era：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨日、早期アクセス向けのローンチを果たし、高い評価を獲得した「Heroes of Might & Magic: Olden Era」は、HoMMシリーズの最新作です。この新作は、新たにHooded HorseとUnfrozenが協力して開発されました。HoMMシリーズは、ストラテジーゲームのファンから長年にわたり支持を集めてきましたが、この最新作は、シリーズの根底にある魅力をさらに高めています。ゲ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166529.html",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Forza：レビュー】\n【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Valve の Steam コントローラーが発売される月の初めに、アラームを設定しておくと良いでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/pc-game-release-dates-may-2026/",
+        "date": "2026-05-01",
+        "is_translated": true
       },
       {
         "title": "【GameSir G7 Pro 8K Aimlabs Edition：レビュー】",
@@ -164,10 +253,36 @@
         "is_translated": true
       },
       {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Unknown Worldsは、クラフト社と一部の出版社の間で法的な衝突によって定義されていた海洋探索およびサバイバルゲーム、Subnautica 2のPCシステム要件を公開しました。このゲームは、プレイヤーが未知の海底世界を探索し、資源を集め、さまざまな生物と遭遇するという、ユニークな体験を提供します。Subnautica 2のPCシステム要件は、ゲームのグラフィックとサウンドの質を高めるために",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/subnautica-2s-early-access-system-requirements-are-on-the-punishing-side",
+        "date": "2026-05-01",
+        "is_translated": true
+      },
+      {
+        "title": "【The Outer Worlds：Spacers Choice Edition：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "アウターワールドは、昨年『アウター・ワールド 2』をレビューして以来、あまり考えていなかったゲームでした。しかし、約3年ぶりに新しいパッチが適用されました。これは、開発元のオブシディアンが新しい計画を進めていることの表れです。このパッチは、ゲームのバランスや不具合を修正するもので、ファンには朗報です。新しいパッチの適用により、ゲームの質が向上し、より楽しくなりました。アウターワールドの新しい時代が",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/obsidian-are-delisting-the-original-version-of-the-outer-worlds-in-favour-of-the-swankier-but-pricier-spacers-choice-edition-and-lobbing-some-grenades-at-you-too",
+        "date": "2026-05-01",
+        "is_translated": true
+      },
+      {
         "title": "【Total War: Warhammer 40,000：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Total War ゲームをプレイしているとき、カバーについてはあまり深く考えないことがあります。騎兵の細かい管理や、遠距離ユニットのフォーメーションを適切かつ拡張したものにすることに忙しいからです。戦略的な思考が求められるこのゲームでは、戦場の様々な要素を同時に考慮する必要があり、プレイヤーは常に頭を切り替える必要があります。戦場の状況を読み、適切な戦術を選択することで、勝利を掴むことができます",
+        "description": "Total War ゲームをプレイしているとき、カバーについて深く考えている時間はあまりありません。騎兵の細かい管理や、すべての遠距離ユニットのフォーメーションを適切かつ拡張した形に整えることに忙しく、他のことはあまり考えることができません。戦略的な思考が求められるこのゲームでは、プレイヤーは常にさまざまな要素を調整して戦況を把握しなければなりません。戦場の様子は一瞬で変化する可能性があり、瞬時の",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -180,7 +295,7 @@
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Subnautica 2 は、5 月 14 日に早期アクセスでリリースされる予定です。開発元の Unknown Worlds によると、このゲームにはリヴァイアサンをはじめ、様々な要素が盛り込まれているそうです。早期アクセスということで、まだすべての機能が実装されているわけではありませんが、開発チームは今後もアップデートを繰り返し、ゲームを充実させていく予定です。ゲームの内容やアップデートの詳細に",
+        "description": "Subnautica 2 は、5 月 14 日に早期アクセスでリリースされる予定です。開発元の Unknown Worlds は、リヴァイアサンをはじめ、様々な要素をすべて詰め込みました。いいねを集めるためではなく、ゲームを完成させるために、早期アクセスを開始する予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -193,7 +308,7 @@
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Subnautica 2』は、発売時期をめぐってパブリッシャーのクラフトン社とアンノウン・ワールドの創設者らとの間で長期にわたる法廷闘争を経て、ついに5月14日に早期アクセスが開始されることになりました。フォルには期待が高まります。",
+        "description": "『Subnautica 2』は、発売時期をめぐる長期にわたる法廷闘争を経て、ついに5月14日に早期アクセスが開始されることになりました。パブリッシャーのクラフトン社とアンノウン・ワールドの創設者らが対立を繰り広げていたこのプロジェクトですが、ファンが待ちに待ったこの日がようやくやってきました。早期アクセスでは、プレイヤーは未完成ながらもこの新しい世界を体験することができます。開発が進むにつれて、ゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -203,68 +318,16 @@
         "is_translated": true
       },
       {
-        "title": "【Diplomacy is Not an Option：レビュー】",
-        "platform": "doope!",
+        "title": "【マジック：ザ・ギャザリング：ホビット：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "2024年10月にPC版の1.0がリリースされた「Diplomacy is Not an Option」は、高い評価を獲得しています。このゲームは先日、研究ツリーの刷新を含む最新のアップデートが配信されました。Door 407が手がける人気のRTSゲームで、プレイヤーは戦略的な思考を用いて勝利を目指す必要があります。最新のアップデートにより、ゲームの世界はさらに豊かになり、プレイヤーは新しい戦略を",
+        "description": "MTG の『ホビットの冒険』セットにはプレコンはありませんが、このプレビューで明らかになったように、来年には新しいゲームモードとして協力モードが登場する予定です。この新しいモードは、プレーヤーが協力して共通の目標を目指すことを可能にし、MTG を新たな楽しみ方で楽しむことができるようになります。来年が待ち遠しいですね。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/05166498.html",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【MindsEye：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ミッションは面白みに欠けていて、開発者の「Build a Rocket Boy」に対する妨害行為の約束された「証拠」は完全に実現しなかったです。ゲームの内容は退屈で、プレイヤーを楽しませる要素が不足しています。また、開発者に対する妨害行為の約束された内容も、実際のゲームに反映されていないことが明らかです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/i-played-the-mindseye-mission-about-the-alleged-game-saboteurs-and-it-sucks-so-bad/",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
-        "title": "最後に、誰かが私が実際に見たいビデオゲームに基づいたテレビ番組を制作していることが発表されました。長年の間、ゲームファンはこのような番組を待ち望んでいたのです。実際に見たいと考えていた番組がついに制作されることになり、ゲームファンは大いに喜んだのです。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Fallout は確かに面白いゲームですが、もう一つの魅力的なゲーム、Atomfall をプレイしたことがありますか。Atomfall は、Fallout のファンにとって新たな体験を提供するゲームで、独自の世界観とゲームシステムを備えています。プレイヤーは、ポストアポカリプス的な世界でサバイバルするために、さまざまなアイテムやスキルを駆使して、危険な環境に立ち向かいます。Atomfall の世界",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/finally-someone-is-making-a-tv-show-based-on-a-videogame-that-i-actually-want-to-watch/",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『Subnautica 2』の開発はかなり長い道のりであった。開発者のUnknown World Entertainmentは、5月にゲームがリリースされることが先月確認された後、ゲームの詳細について改めて説明する予定です。開発者は、ゲームのリリースに先立ち、プレイヤーがゲームの世界をより深く理解できるように、ゲームのストーリーやシステムについて情報を公開している。『Subnautica 2』は、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-a-year-of-messy-legal-shenanigans-subnautica-2-has-an-early-access-release-date",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Heroes of Might and Magic: Olden Era：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Heroes of Might and Magic: Olden Era は、本日4月30日に早期アクセスが開始されます。『マイト＆マジック ヒーローズ VII』の英雄的で強力な展開を維持するためのメール フォローアップが行われるまで、わずか10年以上かかったのです。 Heroes of Might and Magic シリーズのファンは、新しいゲームの早期アクセスに大いに期待しています。早期アク",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/heroes-of-might-and-magic-olden-era-hits-early-access-today-with-the-start-of-a-narrative-campaign-six-factions-a-map-editor-and-multiplayer",
-        "date": "2026-04-30",
+        "url": "https://www.polygon.com/magic-the-gathering-mtg-hobbit-tales-of-middle-earth-reprints/",
+        "date": "2026-05-01",
         "is_translated": true
       },
       {
@@ -295,6 +358,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[GOG] ヴェポラム $1.99 (90% オフ)",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "GOGでの大幅割引セールが開始されました。人気ゲームの「ヴェポラム」が通常価格より90%オフとなり、なんと$1.99で購入できます。この大幅割引は、ゲーマーにとって絶好のチャンスです。 「ヴェポラム」は、ユニークなグラフィックと独自のゲームシステムで話題を集めています。ゲームの世界は、美しくも不気味な雰囲気を漂わせ、プレイヤーを新しい冒険へと誘います。さまざまなステージをクリアし、難易度の高いボス戦を制覇することで、ゲームの深いストーリーやキャラクターの秘密を解き明かしていきます。 このセールは、限られた期間しか利用できないため、早速「ヴェポラム」を購入して、心を奪われるゲーム体験を楽しんでください。GOGでの大幅割引セールは、ゲーム愛好家の皆さんにとって大いに喜ばれる機会です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "[Steam] バンカーノート (40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バンカーノートは、プレイヤーがバンクを経営し、さまざまな顧客との取引を通じて富と地位を築き上げていく、独自のバンク経営シミュレーションゲームです。このゲームでは、プレイヤーはバンクの運営に必要な資金の管理や、顧客との関係を構築するための戦略的な決定を下す必要があります。 バンカーノートの特徴的な要素は、バンクを経営する上で生じるさまざまなリスクとチャレンジを克服しながら、プレイヤーが自らのバンクを成長させていくことができます。バンクの評判を高めて顧客を集め、バンクの資産を増やして金融界での地位を高めていくことが目標です。 このゲームは、シミュレーションゲームや経営シミュレーションゲームのファンにとって、刺激的かつ魅力的な体験を提供します。バンカーノートでは、プレイヤーは自分の経営スタイルを自由に表現でき、バンクを成長させていくためのさまざまな戦略を試すことができます。現在、Steamで40%オフの特価で提供されているバンカーノートは、ゲームファンにとって見逃せないチャンスです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "[STEAM] レオ: ザ・スクエア ($2.49/50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レオ: ザ・スクエアは、ユニークなグラフィックと面白いゲームプレイが特徴のインディーゲームです。このゲームでは、プレイヤーはレオというキャラクターを操作し、様々なステージをクリアしながら、さまざまな敵と戦います。シンプルながらも挑戦的なゲームプレイと、かわいらしいグラフィックが合わさった、オフビートな魅力が備わっています。現在、STEAMで50%オフのキャンペーン中で、通常価格の半額である$2.49で購入できます。レオ: ザ・スクエアは、気軽に遊べるインディーゲームファン向けの魅力的な選択肢です。ゲーム内のアイテムやステージの多様性も、プレイヤーを飽きさせない長く楽しめる要素になっています。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "[ファナティカル] Don't Stop, Girlypop! ($4.79/76% オフ)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "Don't Stop, Girlypop! は、ファナティカルで現在76%オフのキャンペーン中です。このゲームは、ユニークなタイトルとともに、プレイヤーを楽しませます。カラフルでポップなグラフィック、そしてリズミックなサウンドトラックが特徴的です。ゲーマーは、音楽に合わせてアクションを取り、ギャップを埋めながら進みます。楽しくて挑戦的なレベルが多数用意されており、スキルと反射神経をテストします。さらに、さまざまなキャラクターとステージがあり、プレイヤーはそれぞれの特徴を利用してクリアを目指します。Don't Stop, Girlypop! は、リズムゲームファンやアクションゲームファンにとって、最高のエンターテインメントを提供すること間違いなしです。わずか$4.79でこの魅力的なゲームを体験することができます。ファナティカルの限定セールを逃すなかれ！今すぐ購入して、音楽とアクションの融合を楽しんでください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "[Steam] Dujanah ($1.74/75% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Dujanah は、Steam で現在 75% オフのキャンペーン中です。このゲームは、プレイヤーに独特の体験を提供することで知られています。美しいグラフィックと魅力的なサウンドトラックが、プレイヤーを新しい世界へ導きます。ゲームの世界は、豊かなストーリーと複雑なキャラクターによって支えられており、プレイヤーはさまざまな謎を解きながら物語を進めていきます。 Dujanah のゲームプレイは、探索とパズル解決を中心に展開されます。プレイヤーは、広大な環境を探索し、隠されたアイテムや秘密のエリアを発見する必要があります。また、難易度の高いパズルを解決することで、ゲームの核心に迫ることができます。 このゲームは、独自のアートスタイルと独創的なゲームメカニクスによって、プレイヤーを引き付けます。 Steam で現在 75% オフのキャンペーン中なので、興味があるゲーマーはこの機会を逃さないでください。 Dujanah を試遊して、独特のゲーム体験を楽しんでみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-02"
+      },
       {
         "title": "[Steam] ローグ ボルテージ ($9.91 / 38% オフ)",
         "platform": "Steam",
@@ -471,5 +594,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-01T12:58:01.026587"
+  "last_updated": "2026-05-02T03:19:13.811638"
 }

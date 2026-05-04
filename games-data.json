@@ -5,25 +5,25 @@
         "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、強力な装備やスキルを身につけ、放置バトルに挑みます。連続クリッカーで強大なボスを倒したり、ギルドの友達とチャットしたり、PvP対戦で他のプレイヤーと戦うこともできます。ゲームの進め方は、完全にあなたの自由です。",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、装備やスキルを強化し、放置バトルに挑みましょう。強いボスを倒すためには、連続クリッカーも活用できます。また、ギルドフレンドとチャットしたり、PvP対戦も楽しむことができます。遊び方は完全にあなた次第なので、自由に冒険を楽しんでください。",
         "price": "無料",
-        "originalPrice": "¥0",
+        "originalPrice": "不明",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの大ファンから自動化に興味がある方まで、幅広い層に楽しんでいただける、自動化と戦略が融合した魅力的なゲームです。自動化の世界をより深く体験したい人や、戦略的な思考を駆使して勝利を目指したい人にとって、こちらのゲームは最適な選択です。自動化と戦略が一体となったこのゲームでは、プレイヤーは自動化の可能性を限界まで引き出して、さまざまな課題に挑戦します。",
+        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合した新しいゲームです。このタイトルでは、自動化の面白さと戦略的な思考を同時に楽しむことができます。自動化ジャンルのファンなら、より深い楽しみ方ができる一方で、自動化に興味がある方でも、入り込みやすくて面白いゲームです。",
         "price": "無料",
         "originalPrice": "¥3,400",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       }
     ],
     "bundle": [
@@ -186,10 +186,62 @@
     ],
     "review": [
       {
+        "title": "【ロボットのカウボーイ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "5月3日までの週のSteamで注目したいトピックをまとめてみました。Steamでは様々なゲームが毎週発売されており、その中から特に注目されるタイトルや、ユーザーから高い評価を受けているゲームなどが紹介されています。さらに、Steamのトレンドや、ユーザーの間で話題になっているゲームに関する情報も掲載されており、ゲーマーにとっては欠かせない情報源となっています。このまとめでは、Steamで話題となっ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-another-online-shooter-winds-down-weeks-after-launch-as-robot-cowboys-take-over/",
+        "date": "2026-05-04",
+        "is_translated": true
+      },
+      {
+        "title": "【The Elder Scrolls V: Skyrim：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ここで何かが腑に落ちません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-has-been-the-most-played-unsupported-game-on-steam-deck-for-5-months/",
+        "date": "2026-05-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Baldur's Gate 3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "飛行機に乗っているとき、ロマンスシーンはどうやって対処していますか？飛行機の中では、周囲の乗客の目線や、狭いスペースの中でのプライバシーの確保など、ロマンスシーンを上手く演出することが難しいです。そんな飛行機内でのロマンスシーンを、ゲームの中でどうやって表現しているのか、気になるです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/in-the-33-months-since-baldurs-gate-3-launched-its-hardly-ever-fallen-out-of-the-top-5-most-played-games-on-steam-deck/",
+        "date": "2026-05-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Plants vs. Zombies：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "地獄に空きがなくなると、死者が芝生を散歩するようになる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/plants-vs-zombies-review-2009/",
+        "date": "2026-05-03",
+        "is_translated": true
+      },
+      {
         "title": "【ヘルダイバー2：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ヘルダイバー2』の調整方針については、ユーザーからさまざまな意見が寄せられました。開発チームは、一部の変更を元に戻すことを発表しました。ユーザーの意見を取り入れて、ゲームの調整方針を見直すことが今回の発表で明らかになりました。ゲームのバランスについて、ユーザーから賛否両論の声が上がっており、開発チームはユーザーの意見を重視して調整を行っています。",
+        "description": "『ヘルダイバー2』の調整方針について、ユーザーから賛否両論が寄せられたことを受けて、開発元は一部の変更を元に戻すことを発表しました。このような事態となったのは、ユーザーの声に応えるために開発元が柔軟に対応しているからです。ユーザーの意見を取り入れて、ゲームの調整方針を再検討することで、よりユーザーに満足されるゲーム体験を提供することを目指しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -202,7 +254,7 @@
         "title": "【CONSTANCE：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "精巧なミニチュアとフォトグラメトリー技術を用いたアドベンチャーゲーム「Trüberbrook」で知られるドイツの独立系ゲームスタジオ「btf」が、新作を発表しました。昨年11月にPC向けにリリースされたこのゲームは、高い評価を獲得し、注目を集めています。ゲームの世界は、フォトグラメトリー技術を用いて、リアルなグラフィックで表現されており、プレイヤーは、ゲームの世界を探索し、謎を解くことができます。",
+        "description": "精巧なミニチュアとフォトグラメトリーを用いたアドベンチャーゲーム「Trüberbrook」で知られるドイツの独立系プロダクション「btf」は、新作を昨年11月にPC向けにリリースしました。この新作は高い評価を獲得し、ゲーマーから注目を集めています。「btf」のゲームは、独自のグラフィックと魅力的なストーリーで知られており、ファンから期待され続けています。新作も同様に、高いクオリティのグラフィックと",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -228,7 +280,7 @@
         "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "キッチンの模様替えは仕事や報道関係の出張のため、まだ半分しか完了していません。壁は美しいテラコッタ色に染まっていますが、床は防塵シートで覆われ、運転台にはドアが付いておらず、未完成な部分が目立ちます。",
+        "description": "仕事や取材出張のため、キッチンのリフォームはまだ半分の完了に止まっています。壁は美しいテラコッタ色に仕上げられていますが、床はまだ防塵シートで覆われており、キッチンの機能的な一部である運転台のスペースは、ドアが設置されていません。現在は、まだ作業中のようすが伺えます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -238,23 +290,10 @@
         "is_translated": true
       },
       {
-        "title": "【Far Far West：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "新しいSFフレンドロップインディーゲーム「Far Far West」は、ゲームを続ける最善の方法は時間を独占しようとしないことであることを知っています。プレイヤーが自由にゲームを楽しむことができるよう、開発者はこのゲームをデザインしました。Far Far Westは、プレイヤーが探索したり戦闘したりするための自由度の高いシステムを提供しています。さらに、ゲームの世界は、SFと西部開拓時代の要素を融",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/far-far-west-impressions/",
-        "date": "2026-05-02",
-        "is_translated": true
-      },
-      {
         "title": "【007 First Light：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『007 First Light』は、人気シリーズ『Hitman』が基になっている高品質のステルスアクションと、映画でおなじみの派手なアクションが融合した贅沢な作品です。",
+        "description": "『007 First Light』は、ヒットマンシリーズのような高品質のステルスアクションと、映画でおなじみの派手なアクションが融合した贅沢な作品です。プレイヤーは、スリル満点のステルスミッションから、映画のような壮大なアクションシーンまで、多彩なゲームプレイを体験できます。この作品は、ジェームズ・ボンドの世界を彩る、スパイアクションの醍醐味を存分に味わえる作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -264,36 +303,10 @@
         "is_translated": false
       },
       {
-        "title": "【Far Far West：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "クラシックな3Dプラットフォーマー「パンプキン・ジャック」や「Akimbot」を開発した英国のEvil Raptorの新作が、4月28日に早期アクセスローンチを果たし、高い評価を獲得しました。这回の新作はCo-opカウボーイFPSゲームで、ファンから大きな期待を集めていました。早期アクセスローンチ後すぐに、高い評価を獲得し、プレイヤーから絶賛されることになりました。 Evil Raptorの新作は",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166533.html",
-        "date": "2026-05-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Forza：レビュー】\n【Subnautica 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Valve の Steam コントローラーが発売される月の初めにアラームを設定しておくことをお勧めします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/pc-game-release-dates-may-2026/",
-        "date": "2026-05-01",
-        "is_translated": true
-      },
-      {
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Unknown Worlds は、サバイバル要素を取り入れた海洋探索ゲーム「Subnautica 2」のPCシステム要件を公開しました。このゲームは、これまでクラフト社と一部の出版社の間で起きた法的な問題によって話題になっていたのですが、今回のシステム要件の公開により、ファンが待ちに待った情報が明らかになりました。ゲームの世界では、プレイヤーは美しくも危険な海底世界を探索し、さまざまな生物と遭遇し",
+        "description": "Unknown Worldsは、海洋探索とサバイバルが特徴のゲーム、Subnautica 2のPCシステム要件を公開しました。このゲームは、これまでクラフト社と一部の出版社の間で起きた法的な問題によって話題になっていましたが、ようやくPCでプレイするために必要なシステム要件が明らかになりました。Subnautica 2は、未知の海底世界を探索し、サバイバルするためのさまざまなアイテムや建造物を作成",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,10 +316,10 @@
         "is_translated": true
       },
       {
-        "title": "【The Outer Worlds：スペーサーズ・チョイス・エディション：レビュー】",
+        "title": "【The Outer Worlds：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アウターワールドは、昨年『アウター・ワールド 2』のレビューをして以来、あまり考えていなかったゲームでしたが、約3年ぶりに新しいパッチが適用されました。これは、オブシディアンが新しい計画を立てているためです。新しいパッチにより、ゲームの不具合が修正され、プレイヤーの体験が向上することが期待されています。アウターワールドは、独自の世界観とゲームプレイで知られており、ファンからは人気の高いゲームです。",
+        "description": "アウターワールドは、昨年『アウター・ワールド 2』をレビューして以来、あまり考えていなかったゲームでした。しかし、約3年ぶりに新しいパッチが適用されました。これは、開発元のオブシディアンが新しい計画を進めているためです。このパッチにより、ゲームのバランスやグラフィックが大幅に改善されています。例えば、キャラクターの動きや戦闘システムがスムーズになり、ゲームワールドの詳細が増して、より臨場感のある体",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -319,7 +332,7 @@
         "title": "【Total War: Warhammer 40,000：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Total War ゲームをプレイしているとき、カバーについてあまり深く考えていないことを認めます。騎兵の細かい管理や遠距離ユニットのフォーメーションを適切に拡張することに集中しているので、カバーのことはあまり考えることがありません。",
+        "description": "Total War ゲームをプレイしているとき、カバーについてはあまり深く考えないことが多いです。騎兵を細かく管理したり、すべての遠距離ユニットの編成を適切に展開したりすることに忙しすぎて、カバーのことを考える余裕がないのです。戦略的な戦いを楽しむために、細かい戦術も重要ですが、ユニットの配置や戦略的な意思決定に集中することが大切です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -332,7 +345,7 @@
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Subnautica 2 は 5 月 14 日に早期アクセスでリリースされることが予定されています。このゲームは、Unknown Worlds によって開発されており、リヴァイアサンをはじめ、様々な要素が盛り込まれています。開発チームは、ゲームのリリースを盛り上げるために、事前の宣伝キャンペーンを立ち上げる予定はないようです。しかし、多くのファンがこのゲームに期待を寄せており、早期アクセスのリリー",
+        "description": "Subnautica 2は5月14日に早期アクセスでリリースされます。開発元のUnknown Worldsは、リヴァイアサンをはじめ、あらゆる要素を詰め込んだ内容になっています。いいねを付ける予定がない限り、早期アクセスの段階で満足できるほどのボリュームと魅力があると言えるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -653,5 +666,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-03T12:48:01.163269"
+  "last_updated": "2026-05-04T03:34:02.341320"
 }

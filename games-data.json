@@ -5,7 +5,7 @@
         "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、装備やスキルを強化して、放置バトルに挑戦したり、連続クリッカーで強いボスを倒すことができます。さらに、ギルドのフレンドとチャットしたり、PvP対戦で他のプレイヤーと競争することも可能です。ゲームの進め方は、完全にあなたの好みに合わせてカスタマイズすることができ、自由度の高いゲーム体験が楽しめます。",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集めて、装備やスキルを強化し、放置バトルで勝利を目指すことができます。連続クリッカーを活用して強いボスを倒すこともできます。さらに、ギルドの友達とチャットしたり、PvP対戦で競争することも可能です。遊び方はあなたの好みに合わせて自由に楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの大ファンから自動化に興味を持つ人まで、幅広い層に楽しんで貰える、自動化と戦略を融合させたユニークなゲームです。自動化の世界に没頭できるこのゲームでは、プレイヤーは自動化のシステムを構築して操作し、さまざまな課題を解決するための戦略を考え出します。ゲームの世界では、自動化のシステムをどのように設計し、運用するかによって、ゲームの進行が変化します。自動化のシステムを最適化し、効率的に運用することで、プレイヤーはゲーム内の目標を達成し、新しい技術やアイテムを入手することができます。『Oddsparks: An Automation Adventure』は、自動化と戦略の融合によって、プレイヤーに新しいゲーム体験を提供します。",
+        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合したタイトルです。このゲームは、自動化の魅力を存分に楽しむことができるタイトルであり、戦略的な思考を必要とするパズル要素も含まれています。自動化のプロセスを通じて、効率的なシステムを構築し、複雑な問題を解決することができます。戦略的な思考と自動化のスキルを組み合わせて、ゲーム内の目標を達成することができます。このゲームは、自動化ジャンルのファンにとって、新しい体験を提供するでしょう。",
         "price": "無料",
         "originalPrice": "¥3,400",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "Creature Feature Bundle",
+        "title": "Creature Feature Bundle VR",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -64,7 +64,7 @@
         "date": "2026-05-07"
       },
       {
-        "title": "Curve Games セール - For The King II 他",
+        "title": "Curve Games セール - For The King II、Human Fall Flatほか",
         "platform": "Steam",
         "type": "bundle",
         "description": "Steamのバンドル。",
@@ -73,6 +73,30 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Stealthyshiroean's Humble Choice May 2026 Review",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-05-07"
       },
       {
@@ -182,38 +206,40 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-05-03"
-      },
-      {
-        "title": "First time trying to sub to humble choice, what am i doing wrong?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-03"
-      },
-      {
-        "title": "Dead Rising シリーズ Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-30"
       }
     ],
     "review": [
       {
+        "title": "【なし：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム市場調査会社Newzooのレポートによると、PCゲーム市場では定価30ドル以下の安い作品がよく売れており、市場全体の成長をけん引しているという。ゲーム市場の調査会社であるNewzooのレポートによると、PCゲーム市場では、価格が30ドル以下の作品が人気を博しており、市場全体の成長を牽引していることがわかった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260507-441616/",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "「新作ゲームは定価で購入しない層が62％」との調査レポート。年齢層が上がるほど定価購入から遠ざかる傾向も",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "コンテンツ消費が活発なユーザーの約62％が、定価でゲームを購入することはないと考えられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260507-441520/",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
         "title": "【ザ・シムズ：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "不正行為を行わないでください。そうでない場合、プールからしごを外されます。",
+        "description": "不正行為を行わないでください。不正行為が発覚すると、あなたのプールからの昇進の機会は失われます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +249,49 @@
         "is_translated": true
       },
       {
-        "title": "【モータルコンバット 2：レビュー】",
+        "title": "【Will: Follow the Light：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Will: Follow the Light は、本当に素晴らしいビデオゲームの名前です。特に、凍った荒野を歩き、波に打ち寄せたヨットを切り裂く、一人称視点のトレーラーショットが何度も繰り返された後に、画面がフェードインするときはなおさら印象に残ります。このゲームの名前は、プレイヤーを不気味で美しい世界に誘うように設計されています。凍った風景や海洋の波に打ち寄せられた船が、プレイヤーに不思議で怖い",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/will-follow-the-light-review",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Wizardry シリーズ：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ウィザードリィシリーズは、ロールプレイングビデオゲームの体系化に大きな貢献をしてきた基礎的なRPGシリーズです。現在、ウィザードリィシリーズは40年以上にわたって愛されてきましたが、現在の管理者の間で意見が分かれています。アタリは昨日、このシリーズの新しい展開について発表しました。ウィザードリィシリーズは、多くのゲーマーに愛されてきたシリーズで、ファンタジー世界を舞台に様々な冒険を体験することがで",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/who-owns-the-wizardry-rpgs-we-do-say-both-drecom-and-atari-as-an-unusual-ip-acquisition-splits-custody-of-the-genre-forming-series",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【ミックステープ：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ミックステープは、キラー ミュージックとミニゲームを通じて、真剣な青春ストーリーを伝えるものです。このストーリーを見直すために、私たちは独自のミックステープを作成しました。このゲームは、音楽と遊びを通じて、青春の切なさや激しさ、そして心の揺れ動きを伝えることができます。プレイヤーは、ミックステープの世界に浸り込み、青春のストーリーに共感することができます。ミックステープは、キラー ミュージックとミ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mixtape-review/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【モータルコンバット2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "2021 年に公開された『モータル コンバット』映画の続編では、新たな挑戦が待っています。映画批評家からさまざまな視点で評価されることになるため、続編が持つ力が試されることになります。",
+        "description": "2021 年に公開された『モータル コンバット』映画の続編では、新たな挑戦が待っています。映画批評家から高い評価を受けることができるでしょうか。映画ファンが注目する、新しいストーリーやキャラクターが登場するのでしょうか。続編の内容は現在のところ明らかではありませんが、ファンの期待を裏切らない作品になることを願っています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +304,7 @@
         "title": "【Steam コントローラー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Steam コントローラーは現在世に出ていますが、非常に優れているため、その感想を 2 回書きました。ただ、単にコントローラーを手に持つだけで、その魅力を十分に理解することはできません。実際に使用してみなければ、その真の価値を体験することはできないでしょう。時間をかけて手に入れたとしても、単に所有するだけで満足することはできません。実際にプレイしてみて、その卓越性を感じてみる必要があります。Ste",
+        "description": "Steam コントローラーは現在世に出ていますが、非常に優れているため、その感想を 2 回書きました。ただ、単にそのコントローラーを手に入れるだけでは、十分な体験にはなりません。時間をかけてその特徴を理解し、実際に使用してみることで、その真の価値を体験できるでしょう。Steam コントローラーは、ゲームをより一層楽しく、没入感のある体験へと導くための優れたツールです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,23 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "【King’s Well：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "デベロッパーのFire Brick Gamesは、5月4日にローグライト・ポーカーゲーム『King’s Well』の体験版を配信しました。このゲームでは、プレイヤーは様々な挑戦に直面しながら、ポーカーのスキルを試します。体験版をプレイすることで、ゲームの魅力を直接感じることができ、将来の発売に向けて期待を高めることができます。Fire Brick Gamesは、この体験版を通じて、ユーザーのフィー",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260505-441362/",
-        "date": "2026-05-05",
-        "is_translated": false
-      },
-      {
         "title": "【Horizo​​n Hunters Gathering：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Horizo​​n Hunters Gathering は、非常にユニークな名前を持つゲームです。この名前は、Horizo​​n: Hunters Gathering のようなゲームタイトルを想像させますが、実際には Horizo​​n Hunters: Gathering という名前です。このゲームは、プレイヤーを新しい世界に引き込む、不思議で魅力的な世界を提供します。Horizo​​n Hun",
+        "description": "Horizo​​n Hunters Gathering は、非常に奇妙な名前を持つゲームです。この名前は、Horizo​​n: Hunters Gathering のように付けられるべきところを、Horizo​​n Hunters: Gathering と表記されています。Horizo​​n Hunters Gathering は、プレイヤーがさまざまなキャラクターを操作し、狩猟や採集を行うアクシ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -278,39 +330,13 @@
         "title": "【Dead as Disco：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Tango Gameworks が最終的に救われたとしても、新しい Hi-Fi Rush ゲームのリリース時期は現在わかりません。早くリリースされれば嬉しいです。完璧なゲーム体験を提供するためには、リリースのタイミングが重要です。",
+        "description": "Tango Gameworks が最終的に救われたとしても、新しい Hi-Fi Rush ゲームがいつリリースされるかは、現時点ではわかりません。早くリリースされることを願っています。これが完璧なゲーム体験の定義です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart",
         "date": "2026-05-05",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "仕事や取材出張のため、キッチンのリフォームはまだ半分程度の進捗です。壁の色は美しいテラコッタ調に変わっていますが、床にはまだ防塵シートが敷かれており、運転台のドアはまだありません。リフォームが完了すると、きっと素敵な空間になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-380",
-        "date": "2026-05-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Unknown Worldsは、クラフト社と一部の出版社の間の法外な衝突によって定義されていた海洋探索およびサバイバルゲーム、Subnautica 2のPCシステム要件を発表しました。このゲームは、プレイヤーが未知の海底世界を探索し、サバイバルするためのさまざまなアイテムをクラフトする必要があります。Subnautica 2は、高度なグラフィックと魅力的なゲームプレイで知られており、ファンから高い",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/subnautica-2s-early-access-system-requirements-are-on-the-punishing-side",
-        "date": "2026-05-01",
         "is_translated": true
       },
       {
@@ -345,7 +371,7 @@
         "title": "[Steam] ハングリー ホラーズ ($9.09/30% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "ハングリー ホラーズは、恐ろしさと面白さが溢れるユニークなゲームです。このゲームでは、プレイヤーはホラーズと呼ばれるおどろおどろしい生物達を満足させるために、様々なアクションを起こす必要があります。ホラーズは、満足度が低いと暴れてしまい、プレイヤーは彼らの要求を満たして平和を維持するために奮闘することになります。 このゲームの特徴は、ホラーズの個性とニーズがランダムに変化するため、毎回新しい体験が期待できることです。また、ホラーズを満足させると、様々な報酬やアイテムが得られるため、プレイヤーは常に新しい挑戦に取り組むことができます。さらに、ゲームのグラフィックやサウンドトラックは、ホラーズの恐ろしさと面白さを際立たせます。 現在、ハングリー ホラーズは30%オフの特別セール中です。通常価格よりも大幅に安くなっているこの機会を逃さないでください。Steamでハングリー ホラーズを購入して、恐ろしさと面白さの世界に飛び込んでみてください。このゲームは、ホラーゲームファンやアクションゲームファンにとって、最高の体験になること間違いなしです。",
+        "description": "ハングリー ホラーズは、Steamで現在30%オフの9.09ドルで販売中です。このゲームは、ユニークなホラーゲームの要素と、アクションパズル要素を組み合わせた、独特のゲームプレイを提供します。恐ろしいキャラクターたちが登場するこのゲームでは、プレイヤーは緊張感と恐怖を感じながら、謎を解き、難しいステージをクリアしていきます。 ハングリー ホラーズの世界は、不気味で幻想的な環境が特徴です。プレイヤーは、恐ろしい敵と戦いながら、秘密の部屋を発見し、隠されたアイテムを集めていきます。ゲームのグラフィックは、細部までこだわったデザインが特徴で、ホラーな雰囲気をより一層高めています。 このゲームは、ホラーゲームファンや、アクションパズルゲームを好むユーザーにとって、絶対に試してみるべきタイトルです。現在、Steamでのセールで30%オフの9.09ドルで販売中なので、興味を持ったユーザーはこの機会に購入してみることをお勧めします。ハングリー ホラーズでは、ユニークなゲームプレイと不気味な雰囲気が待っています。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -357,7 +383,7 @@
         "title": "[ALLYOUPLAY] Dead as Disco (€16.10 -32% オフ / £13.10 -34% オフ /$17.30 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで提供されている[ALLYOUPLAY] Dead as Discoは、現在32%オフの16.10ユーロで提供されています。ユーザーはこの魅力的でアクション満載のゲームを体験できます。このゲームでは、プレイヤーは様々なステージを進みながら、さまざまな敵と戦い、スキルをアップグレードして、更に挑戦的なステージに進みます。グラフィックとサウンドデザインも高品質で、臨場感のあるゲーム体験を提供します。EU、英国、米国で利用可能です。Steamアクティベーションに対応しており、簡単にアクセスしてプレイできます。Dead as Discoを今すぐ購入して、限界を超えたアクションゲームの世界にダイブしてみましょう。",
+        "description": "Steamで新たなゲーム体験を楽しもう。Dead as Discoは、ユニークなアートスタイルとサウンドトラックでプレイヤーを引き付ける、魅力的なアクションゲームです。このゲームでは、プレイヤーはさまざまなステージを進みながら、さまざまな敵を倒していきます。ゲームの特徴的なグラフィックと、ディスコミュージックに合わせて動くキャラクターは、プレイヤーに新しいゲーム体験を提供します。また、さまざまなアイテムやパワーアップを集めながら、ゲームの難易度を上げていくこともできます。現在、Steamで32%オフの特別価格で提供中です。欧州、英国、米国で利用可能なこのゲームは、スチームアクティベーションに対応しています。Dead as Discoをプレイして、ユニークなゲーム体験を楽しんでみましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -369,7 +395,7 @@
         "title": "[Fanatical] DOOM Eternal (90% オフ - $3.99 / £3.49 / €3.99 / CA$5.34 / A$5.49 / ¥602)",
         "platform": "Fanatical",
         "type": "sale",
-        "description": "今回のセールでは、人気ゲーム「DOOM Eternal」が90%オフで提供されます。通常価格より大幅に安くなったこのゲームは、ファンキーなアクションとハードなサウンドトラックが特徴です。プレイヤーは、デーモンの群れを蹴散らし、地球を救うために戦います。強力な武器とスピード感のあるアクションが特徴のこのゲームは、ハードコアゲーマー必見です。さらに、グラフィックも美しく、快適なプレイが楽しめます。セール期間中は、通常価格より大幅に安い価格で購入できます。ゲーマーにはお馴染みのFanaticalプラットフォームでの販売です。",
+        "description": "お待たせしました、ファナティカルでドゥーム エターナルのセールが開始です。通常価格より90%オフで提供されるこのアイテムは、現在$3.99、£3.49、€3.99、CA$5.34、A$5.49、または¥602で購入可能です。ファーストパーソン・シューティングゲームの最高峰と呼ばれるドゥーム エターナルでは、プレイヤーは地獄の軍団との戦いを体験します。高速でアクション満載のゲームプレイと、壮大な環境が特徴です。強力なデーモンを倒し、地球を救うために戦い抜きます。激しいバトルと、グラフィックスの美しさを存分に楽しむことができます。ドゥーム エターナルは、ファンから高評価を得ている作品であり、その刺激的なゲーム体験は、シューティングゲームファンにとって最高の娯楽を提供します。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -637,5 +663,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-07T03:31:23.219555"
+  "last_updated": "2026-05-07T13:29:46.537045"
 }

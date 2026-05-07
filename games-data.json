@@ -5,28 +5,40 @@
         "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、装備やスキルを強化し、放置バトルに挑んだり、連続クリッカーで強いボスを倒すことができます。さらに、ギルドの友達とチャットしたり、対戦モードで他のプレイヤーと戦うこともできます。プレイスタイルはあなたが自由に決めることができ、自分好みの遊び方で楽しむことができます。",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集め、装備やスキルを強化して、放置バトルに挑戦したり、連続クリッカーで強いボスを倒すことができます。さらに、ギルドのフレンドとチャットしたり、PvP対戦で他のプレイヤーと競争することも可能です。ゲームの進め方は、完全にあなたの好みに合わせてカスタマイズすることができ、自由度の高いゲーム体験が楽しめます。",
         "price": "無料",
         "originalPrice": "¥0",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
       },
       {
         "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合したゲームタイトルです。このゲームでは、プレイヤーは自動化のシステムを構築して最適化し、複雑な課題に挑み、戦略的な思考を駆使して成功を目指すことができます。自動化のメカニズムを理解し、戦略的にアプローチすることで、プレイヤーはゲーム世界を征服し、独自の自動化システムを完成させていくことができます。",
+        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの大ファンから自動化に興味を持つ人まで、幅広い層に楽しんで貰える、自動化と戦略を融合させたユニークなゲームです。自動化の世界に没頭できるこのゲームでは、プレイヤーは自動化のシステムを構築して操作し、さまざまな課題を解決するための戦略を考え出します。ゲームの世界では、自動化のシステムをどのように設計し、運用するかによって、ゲームの進行が変化します。自動化のシステムを最適化し、効率的に運用することで、プレイヤーはゲーム内の目標を達成し、新しい技術やアイテムを入手することができます。『Oddsparks: An Automation Adventure』は、自動化と戦略の融合によって、プレイヤーに新しいゲーム体験を提供します。",
         "price": "無料",
         "originalPrice": "¥3,400",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
       }
     ],
     "bundle": [
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-07"
+      },
       {
         "title": "Bundlefest - Build Your Own Killer Bundle",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
       },
       {
         "title": "Diablo IV、Shin Megami Tensei Vなどが登場",
@@ -49,7 +61,31 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Curve Games セール - For The King II 他",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "May 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-07"
       },
       {
         "title": "Curve Games Sale - For The King II、Human Fall Flatほか",
@@ -64,18 +100,6 @@
         "date": "2026-05-06"
       },
       {
-        "title": "May 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-06"
-      },
-      {
         "title": "5月の新作ゲーム：Diablo IV、Shin Megami Tensei V、Crysis 3 Remasteredなど",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -85,18 +109,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "Curve Games セール - For The King II、Human Fall Flat 他",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
         "date": "2026-05-06"
       },
       {
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-04-30"
-      },
-      {
-        "title": "PLAYISM Publisher Bundle for PC",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-04-30"
       }
     ],
     "review": [
       {
+        "title": "【ザ・シムズ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "不正行為を行わないでください。そうでない場合、プールからしごを外されます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-sims/are-you-a-real-sims-series-scholar-put-those-decades-of-playing-the-sims-to-the-test-with-a-quick-round-of-trivia-made-for-lifelong-simmers/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【モータルコンバット 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "2021 年に公開された『モータル コンバット』映画の続編では、新たな挑戦が待っています。映画批評家からさまざまな視点で評価されることになるため、続編が持つ力が試されることになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/mortal-kombat-2-movie-reviews-are-in-and-its-being-called-everything-from-enjoyably-violent-to-depressingly-rizzless/",
+        "date": "2026-05-06",
+        "is_translated": true
+      },
+      {
         "title": "【Steam コントローラー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Steam コントローラーは現在発売されていますが、その優れた性能に魅了されたため、この感想を2回も書くことになりました。ただ、単にコントローラーを手に持つだけでは、その価値を十分に理解することは難しいです。実際に使用してみて初めて、その真の価値を感じることができます。Steam コントローラーは、ゲームプレイの体験をより豊かにしてくれる優れたツールです。その使い心地と機能を実際に体験してみること",
+        "description": "Steam コントローラーは現在世に出ていますが、非常に優れているため、その感想を 2 回書きました。ただ、単にコントローラーを手に持つだけで、その魅力を十分に理解することはできません。実際に使用してみなければ、その真の価値を体験することはできないでしょう。時間をかけて手に入れたとしても、単に所有するだけで満足することはできません。実際にプレイしてみて、その卓越性を感じてみる必要があります。Ste",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +249,10 @@
         "is_translated": true
       },
       {
-        "title": "【Nintendo Switch 2：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Super Animal Royale をダウンロードし、その中のビデオの 1 つを外部ブラウザで再生することで、Switch 2 で YouTube のコンテンツを視聴できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/youtube-nintendo-switch-2-super-animal-royale/",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
-      {
-        "title": "【ディスコ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "リズムアクションゲーム『Dead as Disco』が早期アクセスを始めており、音楽とカンフーが融合した乱闘アクションを提供しています。このゲームでは、プレイヤーはリズムに合わせて攻撃を放ち、音楽と動作が一体になった感覚を体験できます。ゲームの早期アクセスは、開発者がプレイヤーのフィードバックを集めながらゲームを改良していくための重要なステップです。『Dead as Disco』は、音楽とアクショ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/dead-as-disco-early-access-impressions/",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
-      {
         "title": "【King’s Well：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "デベロッパーのFire Brick Gamesは5月4日、ローグライト・ポーカーゲーム『King’s Well』の体験版を配信しました。このゲームは、プレイヤーがローグライトの要素とポーカーの戦略を組み合わせてプレイすることが特徴です。体験版でゲームの世界を探索し、様々なキャラクターと出会い、ポーカーの腕を試すことができます。ゲームのグラフィックやサウンドトラックも、ユニークで魅力的です。『Kin",
+        "description": "デベロッパーのFire Brick Gamesは、5月4日にローグライト・ポーカーゲーム『King’s Well』の体験版を配信しました。このゲームでは、プレイヤーは様々な挑戦に直面しながら、ポーカーのスキルを試します。体験版をプレイすることで、ゲームの魅力を直接感じることができ、将来の発売に向けて期待を高めることができます。Fire Brick Gamesは、この体験版を通じて、ユーザーのフィー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,23 +262,10 @@
         "is_translated": false
       },
       {
-        "title": "【サイバーパンク 2077：レビュー】 \n【ウィッチャー 3：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ディスコ エリジウムやウィッチャーなどのゲームでは、音楽がプレイ体験に与える影響は非常に大きいです。サウンドトラックは、ゲームの世界をよりリアルに感じさせたり、プレイヤーの感情を揺さぶったりする重要な要素です。たとえば、ディスコ エリジウムの音楽は、ゲームの雰囲気を一層深めており、ウィッチャーでは、戦闘シーンやドラマティックな展開で音楽が活躍しています。音楽がプレイ体験にどのように貢献しているのか",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/from-cyberpunk-2077-to-the-witcher-3-why-videogame-music-matters-told-by-some-of-the-best-composers-in-the-indsutry/",
-        "date": "2026-05-05",
-        "is_translated": true
-      },
-      {
         "title": "【Horizo​​n Hunters Gathering：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Horizo​​n Hunters Gathering は、非常にユニークな名前を持つゲームです。この名前は、Horizo​​n: Hunters Gathering というように思われますが、実際には Horizo​​n Hunters: Gathering という表記が正しいようです。このゲームは、特徴的な名前からも感じられるように、独自の世界観と魅力的なゲームプレイを提供することが期待できる",
+        "description": "Horizo​​n Hunters Gathering は、非常にユニークな名前を持つゲームです。この名前は、Horizo​​n: Hunters Gathering のようなゲームタイトルを想像させますが、実際には Horizo​​n Hunters: Gathering という名前です。このゲームは、プレイヤーを新しい世界に引き込む、不思議で魅力的な世界を提供します。Horizo​​n Hun",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +278,7 @@
         "title": "【Dead as Disco：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Tango Gameworks が最終的に救われたとしても、新しい Hi-Fi Rush ゲームのリリース時期はまだ不明です。早くリリースされることを願っています。それが完璧なゲーム体験の7つの条件を満たすことです。",
+        "description": "Tango Gameworks が最終的に救われたとしても、新しい Hi-Fi Rush ゲームのリリース時期は現在わかりません。早くリリースされれば嬉しいです。完璧なゲーム体験を提供するためには、リリースのタイミングが重要です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +291,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "キッチンの模様替えはまだ半分しか終了していません。仕事や報道関係の出張のため、工事が中断されています。壁の色は美しいテラコッタ調になっていますが、床はまだ防塵シートで覆われており、運転台のドアはまだありません。模様替えが完了することを楽しみにしています。",
+        "description": "仕事や取材出張のため、キッチンのリフォームはまだ半分程度の進捗です。壁の色は美しいテラコッタ調に変わっていますが、床にはまだ防塵シートが敷かれており、運転台のドアはまだありません。リフォームが完了すると、きっと素敵な空間になるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +304,7 @@
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Unknown Worlds は、海洋探索およびサバイバルゲームである Subnautica 2 の PC システム要件を公開しました。Subnautica 2 は、これまでクラフト社と一部の出版社の間で法外な衝突が起こっていたゲームでしたが、今回のシستم要件の公開により、プレイヤーがより安心してゲームをプレイできる環境が整備されました。ゲームの開発元である Unknown Worlds は、S",
+        "description": "Unknown Worldsは、クラフト社と一部の出版社の間の法外な衝突によって定義されていた海洋探索およびサバイバルゲーム、Subnautica 2のPCシステム要件を発表しました。このゲームは、プレイヤーが未知の海底世界を探索し、サバイバルするためのさまざまなアイテムをクラフトする必要があります。Subnautica 2は、高度なグラフィックと魅力的なゲームプレイで知られており、ファンから高い",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -355,28 +342,40 @@
     ],
     "sale": [
       {
-        "title": "[Fanatical] DOOM Eternal (90% オフ - $3.99 / £3.49 / €3.99 / CA$5.34 / A$5.49 / ¥602)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanatical では、DOOM Eternal が 90% オフ の特別セール中です。この激アクションゲームでは、プレイヤーはデーモンの軍団との戦いに挑み、恐ろしい敵を倒して地球を救うために戦います。凄まじいスピードと凶暴性が特徴の DOOM Eternal は、ゲームファンに大きな期待を集めています。強力な武器とスキルの使いこなしが求められるこのゲームでは、プレイヤーは戦略的に戦闘に臨み、デーモンの群れを蹴散らします。グラフィックスとサウンドデザインも高く評価されており、臨場感あふれる戦闘体験が楽しめます。セール価格でこの人気ゲームを手に入れることができます。通常価格より大幅に安くなっているので、DOOM Eternal を遊びたいゲーマーにとっては、絶好の機会です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "[ALLYOUPLAY] Dead as Disco (€16.10 -32% オフ / £13.10 -34% オフ /$17.30 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "title": "[Steam] ハングリー ホラーズ ($9.09/30% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで提供されているDead as Discoは、魅力的なゲーム体験を提供します。現在、欧州、英国、米国地域で特別価格で提供されており、通常価格より32％、34％、30％オフで購入できます。ユーロ地域では16.10ユーロ、英国では13.10ポンド、米国では17.30ドルで手に入れることができます。 Dead as Discoは、ユニークなグラフィックとサウンドデザインで構成された、独特な雰囲気を醸し出すゲームです。プレイヤーは、音楽とダンスをテーマにした世界で冒険し、様々な挑戦に立ち向かいます。ゲームの世界は、ディスコミュージックのリズムに合わせて動き、プレイヤーはその中で自分自身のスタイルを発揮することができます。 このゲームは、音楽とゲーム性の融合を体験したいゲーマーにぴったりの選択です。Dead as Discoの世界では、プレイヤーは様々なレベルとステージをクリアし、ゲーム内のアイテムやコレクションを収集することができます。 Steamアクティベーションに対応しているため、簡単にゲームを開始することができます。 Dead as Discoを今すぐ購入して、音楽とダンスの世界で新しい冒険を始めてみましょう。",
+        "description": "ハングリー ホラーズは、恐ろしさと面白さが溢れるユニークなゲームです。このゲームでは、プレイヤーはホラーズと呼ばれるおどろおどろしい生物達を満足させるために、様々なアクションを起こす必要があります。ホラーズは、満足度が低いと暴れてしまい、プレイヤーは彼らの要求を満たして平和を維持するために奮闘することになります。 このゲームの特徴は、ホラーズの個性とニーズがランダムに変化するため、毎回新しい体験が期待できることです。また、ホラーズを満足させると、様々な報酬やアイテムが得られるため、プレイヤーは常に新しい挑戦に取り組むことができます。さらに、ゲームのグラフィックやサウンドトラックは、ホラーズの恐ろしさと面白さを際立たせます。 現在、ハングリー ホラーズは30%オフの特別セール中です。通常価格よりも大幅に安くなっているこの機会を逃さないでください。Steamでハングリー ホラーズを購入して、恐ろしさと面白さの世界に飛び込んでみてください。このゲームは、ホラーゲームファンやアクションゲームファンにとって、最高の体験になること間違いなしです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[ALLYOUPLAY] Dead as Disco (€16.10 -32% オフ / £13.10 -34% オフ /$17.30 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている[ALLYOUPLAY] Dead as Discoは、現在32%オフの16.10ユーロで提供されています。ユーザーはこの魅力的でアクション満載のゲームを体験できます。このゲームでは、プレイヤーは様々なステージを進みながら、さまざまな敵と戦い、スキルをアップグレードして、更に挑戦的なステージに進みます。グラフィックとサウンドデザインも高品質で、臨場感のあるゲーム体験を提供します。EU、英国、米国で利用可能です。Steamアクティベーションに対応しており、簡単にアクセスしてプレイできます。Dead as Discoを今すぐ購入して、限界を超えたアクションゲームの世界にダイブしてみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[Fanatical] DOOM Eternal (90% オフ - $3.99 / £3.49 / €3.99 / CA$5.34 / A$5.49 / ¥602)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "今回のセールでは、人気ゲーム「DOOM Eternal」が90%オフで提供されます。通常価格より大幅に安くなったこのゲームは、ファンキーなアクションとハードなサウンドトラックが特徴です。プレイヤーは、デーモンの群れを蹴散らし、地球を救うために戦います。強力な武器とスピード感のあるアクションが特徴のこのゲームは、ハードコアゲーマー必見です。さらに、グラフィックも美しく、快適なプレイが楽しめます。セール期間中は、通常価格より大幅に安い価格で購入できます。ゲーマーにはお馴染みのFanaticalプラットフォームでの販売です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-05-07"
       },
       {
         "title": "[Newegg] マラソン - PC [Steam デジタル コード] - コード SAVE3DL 付き (32% オフ / $26.99)",
@@ -581,18 +580,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-01"
-      },
-      {
-        "title": "Steam の Battlefield™ Hardline が 95% オフ (最後のセールは 2025 年 7 月)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で提供されている Battlefield™ Hardline は、現在 95% オフの特売中です。最後のセールは 2025 年 7 月でしたが、今回のセールではさらに大幅な値下げとなり、ゲームファンにとってはお見逃しできない機会です。この作品は、 Battlefield シリーズの特徴である大規模なマルチプレイヤー戦闘をベースに、警察と犯罪者の対立をテーマにしたストーリーを展開します。多様なミッションや、車両や銃器のカスタマイズなど、豊富なゲーム要素を楽しむことができます。さらに、Steam コミュニティの積極的な参加や、定期的なイベントも、プレイヤーにとって新しい体験を提供します。 Battlefield™ Hardline を購入することで、熱い戦闘シーンやスリリングなストーリーに没頭することができます。ゲームに興味を持つ方は、Steam で今すぐこの魅力的な作品をチェックし、ゲームの世界に飛び込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-01"
       }
     ]
   },
@@ -650,5 +637,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-06T13:31:14.136342"
+  "last_updated": "2026-05-07T03:31:23.219555"
 }

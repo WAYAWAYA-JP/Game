@@ -2,31 +2,79 @@
   "pc": {
     "free": [
       {
-        "title": "Firestone Online Idle RPG - Epic Games 無料配布中",
+        "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。様々なヒーローを集めて、装備やスキルを強化し、放置バトルで勝利を目指すことができます。連続クリッカーを活用して強いボスを倒すこともできます。さらに、ギルドの友達とチャットしたり、PvP対戦で競争することも可能です。遊び方はあなたの好みに合わせて自由に楽しむことができます。",
+        "description": "Epic Gamesでは、アレンジャー・ロールパズリングの旅という新しいゲームを無料で配布しています。このゲームでは、プレイヤーは工夫に富んだ軽快なスライドパズルの世界を楽しみながら、新たな道を切り拓きます。チャーミングな自分探しの旅を通して、プレイヤーは自分の能力を試し、成長を見つけることができます。 このゲームの特徴は、スライドパズルを解くことで新たな道を作り出すことができます。プレイヤーは、パズルを解くことで、自分が旅をしている世界を変え、進んでいくことができます。ゲームの世界は、チャーミングなグラフィックと優しい音楽で構成されていますが、パズル自体は非常に難しいものになっています。 プレイヤーは、さまざまな種類のパズルに挑戦し、自分の問題解決能力を試すことができます。ゲームを進めることで、プレイヤーは新たな能力やアイテムを取得し、ゲームの世界をより深く探索することができます。アレンジャー・ロールパズリングの旅は、パズルゲームを好きであれば必ず試すべきゲームです。無料で配布されているので、ぜひ一度プレイしてみてください。",
         "price": "無料",
-        "originalPrice": "¥0",
+        "originalPrice": "¥2,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-07"
+        "date": "2026-05-08"
       },
       {
-        "title": "Oddsparks: An Automation Adventure - Epic Games 無料配布中",
+        "title": "Trash Goblin - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Oddsparks: An Automation Adventure』は、自動化ジャンルの熱狂的なファンと、自動化に興味がある方の両方に向けた、自動化と戦略が融合したタイトルです。このゲームは、自動化の魅力を存分に楽しむことができるタイトルであり、戦略的な思考を必要とするパズル要素も含まれています。自動化のプロセスを通じて、効率的なシステムを構築し、複雑な問題を解決することができます。戦略的な思考と自動化のスキルを組み合わせて、ゲーム内の目標を達成することができます。このゲームは、自動化ジャンルのファンにとって、新しい体験を提供するでしょう。",
+        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも良好な雰囲気を維持できる、健康的で居心地の良い店番ゲームです。様々な装身具を見つけてきれいにし、さらにアレンジして、多種多様でユニークな顧客に販売することができます。節約したお金を使って店をアップグレードし、より優れたツールを購入し、さらにスペースを拡張して店をカスタマイズすることも可能です。このゲームでは、自由に創造性を発揮して、自分の理想的な店を作り上げることができます。",
         "price": "無料",
-        "originalPrice": "¥3,400",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-07"
+        "date": "2026-05-08"
       }
     ],
     "bundle": [
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "Humble Bundleとセガ、期限切れのゲームキーを新しく発行する計画を進める",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "Stealthyshiroean's Humble Choice May 2026 Review",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "May 2026 Humble Choice | Overview / Discussion Megathread",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-08"
+      },
       {
         "title": "Creature Feature Bundle VR",
         "platform": "Humble Bundle",
@@ -73,42 +121,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "Stealthyshiroean's Humble Choice May 2026 Review",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "Creature Feature Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "May 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
         "date": "2026-05-07"
       },
       {
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-05-03"
-      },
-      {
-        "title": "Build Your Own Platinum Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-05-03"
       }
     ],
     "review": [
       {
+        "title": "【ミカクテイ事件の観測者-Demons’Timeline-：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "DigitalCatsは4月30日、『ミカクテイ事件の観測者-Demons'Timeline-』の配信を開始しました。本作は、SNSをテーマにした推理ゲームであり、リアルなSNS描写などが高く評価されています。物語は、ある事件の真相を解明するために、プレイヤーがSNSを操作して情報を集め、謎を解く必要があります。リアルなSNSの描写や、事件の核心に迫るストーリーは、プレイヤーを引き込む魅力的なもの",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/demonstimeline-20260508-441698/",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Dead as Disco：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "5月5日に早期アクセス版がリリースされたベルトスクロールアクションゲーム「Dead as Disco」は、高い評価を獲得しています。このゲームの開発元であるBrain Jar Gamesは、Steamページを更新し、新しい販売実績を発表しました。早期アクセス版のリリースから、プレイヤーたちはこのゲームに高い評価を与えており、開発チームも継続的に更新と改善を進めています。Steamページの更新により",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166690.html",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
         "title": "【なし：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゲーム市場調査会社Newzooのレポートによると、PCゲーム市場では定価30ドル以下の安い作品がよく売れており、市場全体の成長をけん引しているという。ゲーム市場の調査会社であるNewzooのレポートによると、PCゲーム市場では、価格が30ドル以下の作品が人気を博しており、市場全体の成長を牽引していることがわかった。",
+        "description": "ゲーム市場調査会社Newzooのレポートによると、PCゲーム市場では定価30ドル以下の低価格作品が人気を博しており、市場全体の成長を牽引していることがわかりました。低価格帯のゲームが好調なのは、ユーザーが新しいジャンルやシリーズに挑戦しやすい価格帯であることや、インディーゲームなど新規参入メーカーの作品が多くリリースされていることなどが要因のようです。安価で高品質なゲームが増えることで、PCゲーム",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "「新作ゲームは定価で購入しない層が62％」との調査レポート。年齢層が上がるほど定価購入から遠ざかる傾向も",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "コンテンツ消費が活発なユーザーの約62％が、定価でゲームを購入することはないと考えられます。",
+        "description": "コンテンツ消費が活発なユーザーの中には、62％が定価でゲームを購入するのをためらう可能性があると言われています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,15 +262,119 @@
         "is_translated": false
       },
       {
-        "title": "【ザ・シムズ：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【Aliens: Fireteam Elite 2：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "不正行為を行わないでください。不正行為が発覚すると、あなたのプールからの昇進の機会は失われます。",
+        "description": "2021年8月にリリースされた「Aliens: Fireteam Elite」は、一定の評価を得て人気を博しました。昨年10月には、未発表のナンバリング続編がESRBレーティングを通過し、話題となりました。このゲームは「エイリアン」というテーマを取り入れたサバイバルCo-opシューターであり、プレイヤーたちは宇宙空間での恐ろしいエイリアンの襲撃から脱出するために協力して戦います。ゲームの世界は、映",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-sims/are-you-a-real-sims-series-scholar-put-those-decades-of-playing-the-sims-to-the-test-with-a-quick-round-of-trivia-made-for-lifelong-simmers/",
+        "url": "https://doope.jp/2026/05166667.html",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "【モータルコンバット：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/the-producer-of-the-new-mortal-kombat-film-is-annoyed-that-film-reviewers-are-appraising-it-as-a-film/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Path of Exile 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ゲームディレクターのジョナサン・ロジャースは、ゲームをリリースするために必要な水準に達するには、エンドゲームの内容を見直すことが必要だったと語っています。彼は、ゲームを完成させるために、エンドゲームのリワークが不可欠であったと感じていたようです。ロジャースのこの考えは、ゲーム開発者が、プレイヤーに最高の体験を提供するためには、ゲームの全体的なバランスとクオリティに十分な注意を払う必要があることを示",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-massive-return-of-the-ancients-expansion-will-be-its-last-major-update-before-it-leaves-early-access-later-this-year-i-want-to-get-this-game-finished-i-really-really-do/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "インディーゲーム開発者が驚くべき事態を引き起こしました。彼らは、自分たちのゲームをプレイしてくれる人が一人もいない状況に直面しました。そこで、開発者たちは大胆な決断を下しました。ゲームを無料でプレイできるようにし、サーバーを無期限でオンラインのままにすると発表しました。この決断により、開発者たちはゲームをプレイしてくれる人が増えることを期待しているようです。無料化によって、プレイヤーが増加し、コミュニティが形成される可能性が高まると考えているからです。開発者たちのこの逆転の戦略が成功するかどうかは、まだわかりませんが、ゲームのファンたちには新たな希望が生まれたようです。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/indie-shooter-devs-pull-a-reverse-concord-no-one-played-their-game-but-they-make-it-free-to-play-and-keep-the-servers-online-indefinitely-anyway/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【SteelSeries Arctis Nova Pro Omni：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-pro-omni-review/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Zowie XL2586X+：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "信じられないほど速く、法外に高価です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/zowie-xl2586x-600-hz-review/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Hunter: The Reckoning - Deathwish：レビュー】\n【Werewolf: The Apocalypse - Rageborn：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "あなたはラッキーです！今日は、2 つの World of Darkness ゲームを 1 つにまとめたヴァンパイア: ザ マスカレード ユニバースを紹介します。1 つ目は、私たちがすでに知っているハンター: ザ・レコニングです。このユニバースは、不気味な夜の世界を舞台に、ヴァンパイアやハンターらの恐ろしい戦いを描きます。ハンター: ザ・レコニングでは、超自然的な存在を狩るハンターとなり、恐怖と戦い",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-world-of-darkness-grows-bigger-with-a-first-look-at-hunter-the-reckoning-deathwish-and-a-werewolf-the-apocalypse-rageborn-reveal",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Amberspire：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Amberspire は、シムシティのように都市を建設するゲームではありません。都市を「構築」することよりも、古墳を管理することに重点を置いたターンベースのボードゲームで、パズル要素も含まれています。都市を建設するゲームと比較すると、かなり独自のゲーム性を備えています。プレイヤーは、ターン制で古墳を操作し、様々なパズルを解決しながらゲームを進めていきます。都市建設ゲームのファンでも、新しいタイプの",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Brigador Killers：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "オリジナルのBrigadorでは、プレイヤーはノボ・ソロの独裁的な企業植民地の世界に降り立った傭兵のメカパイロットを操作します。多機能なデスマシンのコックピットに乗り込み、簡単にパトロールルートを切り開くことができます。この世界では、プレイヤーは様々なミッションを遂行し、ノボ・ソロの支配から人々を解放するために戦います。メカの操作は非常に自由で、プレイヤーは自在に戦闘や探索を行うことができます。さ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/brigador-killers-mixes-gta-and-syndicate-to-make-a-cyberpunk-sandbox-where-you-build-your-own-insurgency",
         "date": "2026-05-07",
         "is_translated": true
       },
@@ -252,7 +382,7 @@
         "title": "【Will: Follow the Light：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Will: Follow the Light は、本当に素晴らしいビデオゲームの名前です。特に、凍った荒野を歩き、波に打ち寄せたヨットを切り裂く、一人称視点のトレーラーショットが何度も繰り返された後に、画面がフェードインするときはなおさら印象に残ります。このゲームの名前は、プレイヤーを不気味で美しい世界に誘うように設計されています。凍った風景や海洋の波に打ち寄せられた船が、プレイヤーに不思議で怖い",
+        "description": "Will: Follow the Light は、実に印象的なビデオゲームの名前です。特に、凍った荒野を歩き、波に打ち寄せたヨットを切り裂く一人称視点のトレーラーショットが何度も繰り返された後、画面がフェードインするときには、その印象が際立つでしょう。トレーラーの映像は、ゲームの雰囲気を高め、プレイヤーを引きつける力があります。凍った風景や荒野での冒険が描かれたこのゲームは、プレイヤーに新たな体験",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,10 +392,10 @@
         "is_translated": true
       },
       {
-        "title": "【Wizardry シリーズ：レビュー】",
+        "title": "【Wizardry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ウィザードリィシリーズは、ロールプレイングビデオゲームの体系化に大きな貢献をしてきた基礎的なRPGシリーズです。現在、ウィザードリィシリーズは40年以上にわたって愛されてきましたが、現在の管理者の間で意見が分かれています。アタリは昨日、このシリーズの新しい展開について発表しました。ウィザードリィシリーズは、多くのゲーマーに愛されてきたシリーズで、ファンタジー世界を舞台に様々な冒険を体験することがで",
+        "description": "ウィザードリィシリーズは、ロールプレイングゲームの基礎を築いた人気RPGの1つです。このシリーズは40年以上にわたり、ゲームファンに愛され続けてきました。しかし、現在このシリーズの管理権は複数の会社によって争われています。アタリは昨日、ウィザードリィシリーズの管理権を主張し、シリーズの将来について明確な方向性を示しました。ウィザードリィシリーズは、過去40年間にわたり数多くのヒット作を生み出し、ゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -273,100 +403,33 @@
         "url": "https://www.rockpapershotgun.com/who-owns-the-wizardry-rpgs-we-do-say-both-drecom-and-atari-as-an-unusual-ip-acquisition-splits-custody-of-the-genre-forming-series",
         "date": "2026-05-07",
         "is_translated": true
-      },
-      {
-        "title": "【ミックステープ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ミックステープは、キラー ミュージックとミニゲームを通じて、真剣な青春ストーリーを伝えるものです。このストーリーを見直すために、私たちは独自のミックステープを作成しました。このゲームは、音楽と遊びを通じて、青春の切なさや激しさ、そして心の揺れ動きを伝えることができます。プレイヤーは、ミックステープの世界に浸り込み、青春のストーリーに共感することができます。ミックステープは、キラー ミュージックとミ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/mixtape-review/",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
-      {
-        "title": "【モータルコンバット2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "2021 年に公開された『モータル コンバット』映画の続編では、新たな挑戦が待っています。映画批評家から高い評価を受けることができるでしょうか。映画ファンが注目する、新しいストーリーやキャラクターが登場するのでしょうか。続編の内容は現在のところ明らかではありませんが、ファンの期待を裏切らない作品になることを願っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/mortal-kombat-2-movie-reviews-are-in-and-its-being-called-everything-from-enjoyably-violent-to-depressingly-rizzless/",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam コントローラー：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam コントローラーは現在世に出ていますが、非常に優れているため、その感想を 2 回書きました。ただ、単にそのコントローラーを手に入れるだけでは、十分な体験にはなりません。時間をかけてその特徴を理解し、実際に使用してみることで、その真の価値を体験できるでしょう。Steam コントローラーは、ゲームをより一層楽しく、没入感のある体験へと導くための優れたツールです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-release-the-steam-controllers-cad-files-so-you-can-channel-your-inner-archie-from-balamory-and-design-mods-or-accessories-for-it",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Horizo​​n Hunters Gathering：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Horizo​​n Hunters Gathering は、非常に奇妙な名前を持つゲームです。この名前は、Horizo​​n: Hunters Gathering のように付けられるべきところを、Horizo​​n Hunters: Gathering と表記されています。Horizo​​n Hunters Gathering は、プレイヤーがさまざまなキャラクターを操作し、狩猟や採集を行うアクシ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/horizon-hunters-gathering-lines-up-a-second-playtest-for-this-month-with-better-onboarding-and-tougher-challenges",
-        "date": "2026-05-05",
-        "is_translated": true
-      },
-      {
-        "title": "【Dead as Disco：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Tango Gameworks が最終的に救われたとしても、新しい Hi-Fi Rush ゲームがいつリリースされるかは、現時点ではわかりません。早くリリースされることを願っています。これが完璧なゲーム体験の定義です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dead-as-disco-is-out-in-early-access-to-fill-the-hi-fi-rush-and-weirdly-batman-arkham-series-shaped-hole-in-your-heart",
-        "date": "2026-05-05",
-        "is_translated": true
-      },
-      {
-        "title": "【Xenonauts 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Xenonauts 2 の 1.0 ローンチ トレーラーは、「年は 2009 年です」というフレーズから始まります。この一文は、ゲームの独特な未来の雰囲気と並び、プレイヤーの興味を刺激します。トレーラーは、これまでとは異なる世界のビジョンを提示し、プレイヤーを新しい時代に導きます。ゲームの世界は、近未来的なテーマとレトロな要素が融合した、独特な未来像を描き出しています。トレーラーで提示される世界観",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/xenonauts-2-hits-10-after-almost-three-years-of-early-access-and-paves-the-way-for-mods-galore",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Slay the Spire 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私は『Slay the Spire 2』に挑戦したことがなく、前作をプレイしなかった言い訳を考えるのに忙しかったのですが、一般的には「これはむしろ新しい『Slay the Spire』だ！」と言える作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mega-crit-are-working-on-three-new-slay-the-spire-2-modes-just-dont-place-any-bets-on-them-all-making-it-in",
-        "date": "2026-04-02",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "[Humble Store] コードヴェイン 2 デラックスの価格設定エラー (90% オフ)",
+        "platform": "Humble Bundle",
+        "type": "sale",
+        "description": "Humble Storeでは、現在コードヴェイン 2 デラックスが価格設定エラーにより、驚きの90%オフで提供されています。通常価格の1/10という破格の価格設定で提供されているこのゲームは、ファン待望の続編として注目を集めています。コードヴェインシリーズの第二弾となるこの作品は、ダークファンタジーの世界観と、深いストーリー、そしてキャラクターの複雑さで知られています。プレイヤーは、自身のアクションと選択によって物語が変化するという、ダイナミックなゲームプレイを体験できます。デラックスエディションでは、追加のキャラクター、ストーリー、ゲームモードなどが含まれており、より充実したゲーム体験を提供します。価格設定エラーによるこの特別なオファーは、長くは続きませんので、気になるゲームファンはお見逃しなく、お得にこの作品を手に入れる機会を掴んでください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "[Steam] WARDRUM ($15.99/ローンチ割引 20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、ウォー・ドラム（WARDRUM）という新しいゲームがローンチ割引で登場しています。通常価格は15.99ドルですが、現在は20%オフの割引キャンペーン中です。このゲームは、戦略とリズムを融合させたユニークなゲームプレイを提供します。プレイヤーは、さまざまなキャラクターを操作して、敵を倒し、リズムに沿った攻撃をしかける必要があります。ゲームの背景には、鼓動を刻むような音楽が流れ、プレイヤーを戦闘に引き込んでくれます。WARDRUMのグラフィックは、色鮮やかなキャラクターと背景で、視覚的な印象も抜けません。Steamでのローンチ割引は 期間限定ですので、ウォー・ドラムの魅力を体験したいゲーマーには、早期にチェックすることをお勧めします。WARDRUMをプレイして、戦略とリズムの新しい組み合わせに挑戦してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-08"
+      },
       {
         "title": "[Steam] ハングリー ホラーズ ($9.09/30% オフ)",
         "platform": "Steam",
@@ -582,30 +645,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-01"
-      },
-      {
-        "title": "ゴールデンウィークセール：Planet of Lana II、Brick Rigs、WRC 10 スチームで販売中",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ゴールデンウィークセールがスタートしました。Planet of Lana II、Brick Rigs、WRC 10などの魅力的なゲームが、Steamで販売中です。Planet of Lana IIは、美しいグラフィックと深いストーリーで知られるアクションアドベンチャーゲームです。 Brick Rigsは、ブロックを使った創造性豊かなレースゲームで、自由に車をカスタマイズして競争することができます。WRC 10は、リアルなラリー競技を体験できるレースゲームです。さまざまな車種やステージを選択して、ワールドラリー選手権を目指すことができます。Steamでのセール期間中は、これらのゲームを特別な価格で購入することができます。ゲームファンには絶好の機会です。是非、ご利用ください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-01"
-      },
-      {
-        "title": "Steam の Battlefield 3™ が 95% オフ (前回のセールは 2025 年 7 月)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で提供されている Battlefield 3 は、ファーストパーソン・シューティングゲームの金字塔であり、現在 95% オフで提供されています。このタイトルは、壮大な戦場を舞台に、戦車、航空機、歩兵を駆使して戦うことで知られています。グラフィックやサウンドデザインも高く評価されており、現代戦を体験することができます。 ゲーム内では、プレイヤーは様々なマルチプレイヤーモードを楽しむことができ、友人と協力して戦うこともできます。さらに、キャンペーンモードでは、プレイヤーは複雑なストーリーラインを通じて、戦争の様々な側面を体験することができます。 このセールは、非常に魅力的です。前回のセールは 2025 年 7 月に行われましたが、今回はさらに割引率が高くなっています。Steam で Battlefield 3 を 95% オフで購入することは、ゲームファンにとって大きな機会です。ゲームの世界をより深く楽しむために、このオファーを利用してみてはいかがでしょうか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-01"
       }
     ]
   },
@@ -663,5 +702,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-07T13:29:46.537045"
+  "last_updated": "2026-05-08T03:27:47.645140"
 }

@@ -5,7 +5,7 @@
         "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームでは、現在「アレンジャー・ロールパズリングの旅」という魅力的なゲームを無料で配布しています。 このゲームでは、工夫に富んだ軽快なスライドパズルの世界を探索し、新たな道を切り拓きながら、自分自身の探求を目指すというユニークな体験が待っています。 チャーミングなグラフィックとシンプルながらも奥深いゲームプレイが特徴で、プレイヤーはパズルを解決することで、新しい場所に進み、自分自身の可能性を発見することができます。 ゲームの世界は軽快で楽しい雰囲気を持ち、プレイヤーはストレスを感じることなく、パズルを解決する喜びを味わうことができます。 また、ゲームの進行に合わせて、プレイヤーは自分自身の成長と変化を実感することができ、ゲームを通じて新たな自分を発見することができます。 「アレンジャー・ロールパズリングの旅」は、パズルゲームファンや自己発見をテーマにしたゲームを楽しむことに興味がある方にぴったりのタイトルです。 Epic Gamesプラットフォームで今すぐこの無料ゲームをダウンロードし、自分自身の旅を始めてみてください。",
+        "description": "Epic Gamesでは、魅力的なパズルゲーム「アレンジャー・ロールパズリングの旅」が無料で配布されています。このゲームは、スライドパズルの要素を巧みに織り交ぜながら、プレイヤーを新しい道に誘います。軽快でおもしろいパズルを解きながら、プレイヤーは自分自身を探求し、成長していく様子を体験できます。 ゲームの世界は、チャーミングで繊細なグラフィックで彩られており、プレイヤーを引き込む力があります。各ステージでは、慎重に考え、戦略的に動き、障害を克服する必要があります。パズルの解決に伴い、プレイヤーは自分の能力を高め、自信を深めていきます。 「アレンジャー・ロールパズリングの旅」は、パズルファンだけでなく、誰でも楽しめるゲームです。無料で配布されており、Epic Gamesのユーザーなら誰でも簡単にダウンロードできます。この機会に、是非一度遊んでみてください。新しいパズルの世界が、あなたを待っています。",
         "price": "無料",
         "originalPrice": "¥2,980",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Trash Goblin - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも良い雰囲気でプレイできる、健全で居心地の良い店番ゲームです。装身具を発見してきれいにし、アップサイクルして、個性豊かなカラフルな顧客に販売します。節約したお金を使ってショップをアップグレードし、より良いツールを購入して、さらにスペースを拡張してショップをカスタマイズすることもできます。このゲームでは、自由に創造性を発揮して、自分だけのユニークなショップを構築することができます。",
+        "description": "このゲームは、プレッシャーやストレスを感じることなく、楽しい雰囲気を長く楽しむことができる、健康的で居心地の良い店番ゲームです。装身具を見つけてきれいにし、アップサイクルして、多様な顧客に販売することができます。節約したお金を使ってショップをアップグレードし、より良いツールを購入し、さらにスペースを拡張してショップをカスタマイズすることもできます。無限のカラフルで風変わりな顧客が訪れる中で、自分の店を運営して楽しむことができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -40,7 +40,7 @@
         "date": "2026-05-09"
       },
       {
-        "title": "Humble Bundleとセガ、期限切れ問題解決に動く",
+        "title": "Humble Bundle、セガと協力して期限切れゲームのキーを更新",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
@@ -56,6 +56,18 @@
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "Humble Bundleとセガ、期限切れ問題解決に動く",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-05-06"
-      },
-      {
-        "title": "Humble Choice April for only $7!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-06"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【Everything is Crab：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Secret Modeは5月8日、Odd Dreams Digitalが開発した『Everything is Crab: 生物進化ローグライト』をリリースしました。このタイトルはローグライトアクションゲームとしてリリース間もなく、好評価のレビューが続々と届いています。ゲームの内容は、生物の進化をテーマにしたローグライトアクションであり、プレイヤーはキャラクターを進化させながら、さまざまなステージを",
+        "description": "Secret Modeは5月8日、Odd Dreams Digitalの手がける『Everything is Crab: 生物進化ローグライト』をリリースしました。本作はローグライトアクションゲームとしてリリースから間もなく、好評レビューが相次いでいます。プレイヤーは様々な能力を持つカニを操作し、生物の進化をテーマにしたローグライトの世界を体験できます。本作のリリースは、ローグライトアクションゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +223,23 @@
         "is_translated": false
       },
       {
+        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今週中に飾り付けが終わることを期待していたのですが、まだまだ作業は続いています。まずは、すべてのキャビネットを壁に戻し、貯蔵ユニットを塗装して組み立て、すぐに使える状態に戻すことができました。これで、少しずつですが、終了に向けて進展しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-381",
+        "date": "2026-05-09",
+        "is_translated": true
+      },
+      {
         "title": "【ミカクテイ事件の観測者-Demons’Timeline-：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "DigitalCatsは4月30日、『ミカクテイ事件の観測者-Demons'Timeline-』の配信を開始しました。本作はSNSをテーマにした推理ゲームとして話題になっており、リアルなSNSの描写が高く評価されています。プレイヤーは、ゲーム中で様々なSNSの投稿やコメントを見て、事件の真相を解明することができます。リアルなSNSの描写や、複雑なストーリーが特徴的な本作は、推理ゲームファンに人気が",
+        "description": "DigitalCatsは4月30日、SNSをテーマにした新しい推理ゲーム『ミカクテイ事件の観測者-Demons'Timeline-』の配信をスタートさせました。本作は、リアルなSNSの描写やユニークなストーリーが特徴で、すでに多くのプレイヤーから高く評価されています。ゲームのストーリーは、プレイヤーが事件の観測者となり、SNSを通じて情報を収集し、謎を解くというものです。リアルなSNSの表現や、複",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Helldivers 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "複数週間にわたるキャンペーンや、新しい車両の導入、その他の新たな戦略がすべて進行中です。",
+        "description": "複数週間にわたるキャンペーンや新しい車両の導入、それに新たな戦略の実施など、様々なプロジェクトが現在進行中です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,7 +262,7 @@
         "is_translated": true
       },
       {
-        "title": "【すべてはカニ：レビュー】",
+        "title": "【すべてはカニの：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "適者生存、または少なくとも最もレベルを超えた者の生存。",
@@ -265,7 +278,7 @@
         "title": "【Family Reunion：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週のGamescom Latamで『Family Reunion』を初めてプレイしたのですが、今思ってみると、ItchやSteamにデモが公開されていることを考えると、それなりのトレッキングでした。とはいえ、とても楽しいゲームで、ユニークで混沌とした雰囲気を持っています。",
+        "description": "先週のGamescom Latamで、初めてFamily Reunionをプレイする機会がありました。事前にItchやSteamでデモを体験できたとはいえ、実際にプレイしてみてとても楽しいゲームであることがわかりました。ユニークで混沌とした雰囲気を持つこのゲームは、プレイヤーを楽しませることができると思います。ゲームの世界観は独特で、プレイヤーを引き込む力があります。デモではあるものの、ゲームの魅",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -278,7 +291,7 @@
         "title": "【Path of Exile 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アクションRPG『Path of Exile 2』は、2026年末までに正式リリースされる可能性が非常に高いと開発元のGrinding Gear Gamesが宣言しました。这は、「50時間を超える」エンドゲームに焦点を当てた最後の早期アクセスアップデートに続くものです。開発チームは、ゲームの完成度を高めるために最後のスプリンタを始めており、早期アクセスの最後のアップデートでは、多数の新しいコンテン",
+        "description": "アクションRPG『Path of Exile 2』は、2026年末までに正式リリースされる可能性が非常に高いと開発元のGrinding Gear Gamesは発表しました。この発表は、「50時間を超える」エンドゲームに焦点を当てた最後の早期アクセスアップデートに続いて行われました。開発者は、ゲームの完成度を高め、より充実したゲーム体験を提供するために、最後のアップデートをリリースしました。『Pat",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,23 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【SEKIRO: Shadows Die Twice：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "フロム・ソフトウェアのヒット作『SEKIRO: Shadows Die Twice』のアニメ版が、待望の公開を迎えます。Crunchyrollでのストリーミングに先んじて、映画館で上映されることが決定しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/sekiro-no-defeat-anime-theatrical-release-2026-new-look/",
-        "date": "2026-05-08",
-        "is_translated": true
-      },
-      {
         "title": "【Hunter: The Reckoning - Deathwish：レビュー】\n【Werewolf: The Apocalypse - Rageborn：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "あなたは幸運です！今日は、2 つのWorld of Darknessゲームを1つにまとめたヴァンパイア: ザ マスカレード ユニバースについて紹介します。最初のゲームは、すでに知っているハンター: ザ・レコニングです。このユニバースでは、人間が超自然の存在に立ち向かうために戦うハンターとして、恐怖と戦いながら生き残るための戦略を学びます。次のゲームについても、詳細を紹介します。World of D",
+        "description": "あなたはラッキーです！今日は、2 つの World of Darkness ゲームを 1 つにまとめたヴァンパイア: ザ マスカレード ユニバースを紹介します。1 つ目は、すでに知っているハンター: ザ・レコニングです。World of Darkness シリーズは、ダークファンタジーとホラーの世界を舞台に、人間と超自然的な存在が共存する様子を描いています。ハンター: ザ・レコニングでは、超自然的",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +317,7 @@
         "title": "【Amberspire：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Amberspire は、シムシティのような都市建設ゲームではなく、ターンベースのボードゲームであり、都市を「構築」することよりもむしろ古墳を管理するパズルゲームです。都市を建設するのではなく、古墳の管理に焦点を当てている点が特徴的です。このゲームでは、プレイヤーはターンごとに慎重に考えて、古墳を効率的に管理する必要があります。都市建設ゲームファンはもちろん、パズルゲームやボードゲームの愛好家にも",
+        "description": "Amberspire について知っておくべき重要なことは、これはシムシティのような都市を建設するゲームではなく、都市を「構築」することよりもむしろ古墳を管理するというターンベースのボードゲームであり、パズルゲームの要素も含まれているということです。都市を建設するのではなく、古墳を管理するというユニークな概念が特徴です。プレイヤーはターンを進めながら、古墳の管理をしていきます。これは、ボードゲームと",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -325,27 +325,26 @@
         "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
         "date": "2026-05-07",
         "is_translated": true
-      },
-      {
-        "title": "【Brigador Killers：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "オリジナルのBrigadorでは、あなたはノボソロの独裁的な企業植民地の世界に墜落した傭兵のメカパイロットを演じます。この世界では、多階建てのデスマシンのコックピットに乗り込み、自由にパトロールをして敵対勢力を排除することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/brigador-killers-mixes-gta-and-syndicate-to-make-a-cyberpunk-sandbox-where-you-build-your-own-insurgency",
-        "date": "2026-05-07",
-        "is_translated": true
       }
     ],
     "sale": [
       {
+        "title": "[Steam] ハート オブ エタニティ ($1.59/80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で現在、ハート オブ エタニティが 80% オフの特別セール中です。この魅力的なゲームは、通常価格よりも大きく割引された $1.59 で入手できます。ハート オブ エタニティは、ファンタジー世界を舞台にした、アクションと冒険が混合されたゲームです。プレイヤーは、美しいグラフィックと壮大なサウンドトラックに包まれて、様々なキャラクターを操作し、壮大なストーリーに没頭できます。 このゲームの特徴的な要素は、独自の戦闘システムとキャラクターの成長システムです。プレイヤーは、様々なスキルと魔法を駆使して、強力な敵と戦うことができます。また、キャラクターの外見と能力をカスタマイズすることも可能で、プレイヤーの好みに合わせたユニークなキャラクターを作成できます。 ハート オブ エタニティは、シングルプレイヤー用に設計されており、プレイヤーは自分のペースでゲームを進め、ストーリーに集中できます。さらに、ゲームの世界は広大で、様々な環境と地域を探索することができます。美しい環境と壮大な建築物を見て、ゲームの世界に浸り込みます。 このセールは、ゲームを試してみたくなるような魅力的な価格です。ハート オブ エタニティを今すぐ Steam で購入し、ファンタジー世界での冒険を開始しましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-09"
+      },
+      {
         "title": "[Humble Store] コードヴェイン 2 デラックスの価格設定エラー (90% オフ)",
         "platform": "Humble Bundle",
         "type": "sale",
-        "description": "Humble Storeで現在行われているセールは、コードヴェイン 2 デラックスの価格設定エラーにより、通常価格より90%オフでの販売となります。コードヴェイン 2 デラックスは、ダイナミックなアクションと深いストーリーが特徴的なゲームで、プレイヤーは複雑なキャラクターと戦闘システムを楽しむことができます。デラックス版には、追加のキャラクターやステージ、ゲーム内アイテムが含まれており、より充実したゲーム体験を提供します。この価格設定エラーにより、通常価格より大幅に安い価格でコードヴェイン 2 デラックスを購入することができ、ギャンブル好きの方にはお勧めのセールです。",
+        "description": "Humble Storeでは、現在「コードヴェイン 2 デラックス」の価格設定エラーにより、90% オフの特価で提供されています。通常価格よりも大幅に安くなっており、ゲーマーには夢のようなチャンスです。このアクションアドベンチャーゲームは、美麗なグラフィックとスピーディなアクションを兼ね備えています。プレイヤーは、さまざまな能力を駆使して、壮大な世界を冒険することができます。さらに、「デラックス」エディションには、追加のコンテンツやアイテムが含まれており、ゲームの楽しみを倍増させます。価格設定エラー期間中は、通常よりも大幅に安い価格でこの優れたゲームを手に入れることができるので、気になるゲーマーは早速チェックしてみてください。この機会を逃さないで、激アツなアクションと壮大な冒険の世界を体験してみましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -568,18 +567,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-01"
-      },
-      {
-        "title": "[Steam] コインスイーパー (25% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "このコインスイーパーは、プレイヤーがさまざまなコインを集めることを目指す、面白くも刺激的なゲームです。25% オフの特別価格で提供されるこのタイトルは、Steam で利用可能です。プレイヤーは、各ステージで散らばるコインをすばやく集めながら、障害物を避けたり、罠を解いたりする必要があります。ゲームは、シンプルながらも挑戦的なゲームメカニクスを提供し、プレイヤーは自分自身を超えて、次のレベルに進もうと奮起することになります。グラフィックやサウンドは、コインを集める爽快感を倍増させます。また、オンラインランキング機能により、他のプレイヤーとの競争が楽しめます。コインスイーパーの世界に飛び込んで、コイン集めの熱いバトルに参加してみてはいかがでしょうか。steam で今すぐ購入して、コインを集める楽しみを体験してください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-01"
       }
     ]
   },
@@ -637,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-09T03:26:12.663871"
+  "last_updated": "2026-05-09T12:55:55.040110"
 }

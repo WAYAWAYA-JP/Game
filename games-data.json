@@ -5,7 +5,7 @@
         "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の「アレンジャー・ロールパズリングの旅」は、ユーザーに工夫に富んだ軽快なスライドパズルの世界を提供します。このゲームでは、プレイヤーは新たな道を切り拓きながら、チャーミングな自分探しの旅を満喫できます。スライドパズルは、ユーザーが頭をひねって挑戦することを求めますが、軽快なゲームデザインにより、プレイヤーはストレスを感じることなく、楽しく遊ぶことができます。 このゲームの特徴は、その独自のパズルシステムです。プレイヤーは、さまざまな種類のブロックやアイテムをスライドさせて、目的地に到達する必要があります。ブロックの種類や配置によって、プレイヤーはさまざまな戦略を考え出さなければなりません。さらに、ゲームのグラフィックやサウンドトラックは、プレイヤーを不思議な世界に引き込むことに役立ちます。 「アレンジャー・ロールパズリングの旅」は、パズルゲームを愛するユーザーに最適なゲームです。無料配布なので、誰でも簡単にダウンロードしてプレイすることができます。軽快なゲームデザインと独自のパズルシステムにより、プレイヤーは長時間楽しく遊ぶことができます。チャーミングな自分探しの旅を満喫してみてください。",
+        "description": "Epic Gamesで配布されている「アレンジャー・ロールパズリングの旅」は、工夫に富んだ軽快なスライドパズルの世界を舞台に、プレイヤーが新たな道を切り拓きながら、自分探しの旅を楽しむことができる魅力的なゲームです。スライドパズルは、ブロックをスライドさせて道を作り、ゴールを目指すというシンプルながらも難易度の高いゲーム性が特徴です。美しいグラフィックとチャーミングなキャラクターで構成されたこのゲームは、プレイヤーを 매료させることに成功しています。プレイヤーは、パズルを解決することで、新たなステージやアイテムを解放することができます。ゲームの進行に合わせて、ストーリーも深化し、プレイヤーは自分自身の成長を実感できます。軽快なBGMとともに、スライドパズルの世界で新たな発見をしてみてはいかがでしょうか。",
         "price": "無料",
         "originalPrice": "¥2,980",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Trash Goblin - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも良い雰囲気を楽しめる、健全で居心地の良い店番ゲームです。様々な装身具を見つけてきれいにし、アップサイクルして、個性豊かな顧客に販売します。節約したお金を使ってショップをアップグレードし、より良いツールを購入することで、ショップをさらに拡張してカスタマイズすることができます。このゲームでは、無限のカラフルで風変わりな顧客が訪れてくれるので、毎回新しい体験ができる魅力的なゲームです。",
+        "description": "プレッシャーやストレスを感じることなく、いつまでも良い雰囲気を楽しめる、健全で居心地の良い店番ゲームです。装身具を発見して磨きをかけ、アップサイクルして、様々な個性豊かな顧客に販売します。節約したお金を使ってショップをアップグレードし、より優れたツールを購入し、さらにスペースを拡張してショップをカスタマイズすることができます。このゲームでは、無限のカラフルなアイテムや顧客との出会いを楽しみながら、自慢のショップを運営することができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -28,7 +28,19 @@
     ],
     "bundle": [
       {
-        "title": "セガと協力して期限切れ問題を解決",
+        "title": "UNCHARTED: Legacy of Thieves Collection スチーム版",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "セガと協力し期限切れ問題を解決中",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
@@ -44,6 +56,18 @@
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "セガと協力して期限切れ問題を解決",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -182,38 +206,53 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-05-07"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Killer Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "Diablo IV、Shin Megami Tensei Vなどが登場",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-07"
       }
     ],
     "review": [
       {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』のSteamユーザーレビューには、トピックから外れたレビューが含まれており、これらのレビューはレビュースコアの計算から除外されています。この現象は、ゲームの評価が的確に反映されない可能性があるため、注目を集めています。Steamユーザーレビューは、ゲームの質や人気を判断する上で重要な指標となるため、レビューの信頼性を確保することが大切です。 REVIEWスコアか",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260511-442308/",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【ミックステープ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "完璧なプレイリストですが、ただまともなビデオゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/mixtape-review/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
+        "title": "【Drawquarium：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Any Fin Goes に立ち寄ってみてください。ここは魚がとてもリアルに描かれている、素晴らしい水族館だと評判です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/drawquarium-is-one-of-the-most-relaxing-sandbox-games-ive-played-in-a-hot-minute-even-if-it-did-remind-me-i-have-zero-artistic-skill/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
         "title": "【Forza Horizo​​n シリーズ：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "5月10日までの週のSteamの興味深いニュースをまとめてみました。ゲーマーにとっては、毎週のように新しいゲームやアップデートがリリースされるSteamですが、今週も様々なニュースが話題になっています。新作ゲームのリリースから、人気ゲームのアップデートまで、ゲーマーにとっては注目すべき情報が満載です。さらに、Steamのセール情報や、ゲーム開発者のインタビューも紹介しています。Steamで起こって",
+        "description": "5月10日までの週のSteamに関する興味深いニュースをまとめてみました。新しいゲームのリリース情報や、注目されるゲームのアップデート、Steamコミュニティでの出来事など、ゲーマーにとって興味があるトピックをピックアップしています。Steamで現在話題になっていることや、将来のアップデートの予告など、様々な情報を詳しく紹介します。Steamを利用するゲーマーにとって、最新の情報を知ることができ、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +262,23 @@
         "is_translated": true
       },
       {
+        "title": "【Subnautica 2：レビュー】\n【バトルスター ギャラクティカ ローグライト：レビュー】\n【指令 8020：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "悪名高い仕事熱心なニュース編集者エドウィンは、私の記事のわずか2倍の記事しか投稿しませんでした。先週は多忙を極めていた彼ですが、今朝はマウ以外のことをして休みです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-subnautica-2-early-access-a-battlestar-galactica-roguelite-and-directive-8020-disproving-the-old-saying-about-space-and-screaming",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
         "title": "【ザ・シムズ 3：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "エレクトロニック アーツによる史上最も売れた PC ゲームの、人生を左右する巨大な続編であるザ シムズ 3 では、愛、仕事、そして窃盗癖が戻ってきます。ザ シムズ シリーズの新しい作品は、プレイヤーの人生を変える新しい体験を提供します。愛を育み、仕事に打ち込んだり、窃盗を繰り返すなど、様々な選択を通じて、プレイヤーは自分のシムの運命を形作ります。ザ シムズ 3 では、以前のシリーズの魅力をさらに高",
+        "description": "エレクトロニック アーツによる史上最も売れたPCゲームの、人生を左右する巨大な続編であるザ シムズ 3では、愛、仕事、窃盗癖が戻ってきます。プレイヤーは、自由に創造し、生活を楽しむことができます。ザ シムズ 3は、前作の面白さをそのままに、新しい要素を加えて、より楽しくなりました。愛や仕事以外にも、プレイヤーのシムには様々な性格や特徴があり、プレイヤーはそれらを自由にカスタマイズして、自分だけのシ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +291,7 @@
         "title": "【World of Darkness：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "彼らは、ゲームプレイを見せることで常にリードしてきましたが、その影響は彼らにどのようなものだったのでしょうか。",
+        "description": "彼らはゲームプレイを見せることでリードしてきたが、その影響を詳しく見てみましょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,10 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【ニンフ・キルケの魔術：レビュー】",
+        "title": "【機動戦士ガンダム 閃光のハサウェイ：ニンフ・キルケの魔術：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "『機動戦士ガンダム 閃光のハサウェイ』の続編である『ニンフ・キルケの魔術』では、英雄の姿は見られません。この新作についての詳細なレビューをポリゴンで読むことができます。",
+        "description": "『機動戦士ガンダム 閃光のハサウェイ』の続編である『ニンフ・キルケの魔術』では、伝説の英雄が姿を消し、新たな物語が始まっています。この作品についての詳細なレビューをポリゴンで読むことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,23 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "【Everything is Crab：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Secret Modeは5月8日、Odd Dreams Digitalの手がける『Everything is Crab: 生物進化ローグライト』をリリースしました。本作はローグライトアクションゲームであり、リリース間もなく好評レビューが相次いでいます。ゲームの世界では、プレイヤーはカニを進化させながら、さまざまなステージを攻略していきます。ローグライトの要素を取り入れたアクションゲームの面白さが存",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/everything-is-crab-20260509-441971/",
-        "date": "2026-05-09",
-        "is_translated": false
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週で飾り付けが終わると思っていたのですが、まだまだ作業は続いています。少なくともすべてのキャビネットを壁に戻し、貯蔵ユニットを塗装して組み立て、すぐに使える状態に戻すことができました。",
+        "description": "今週中に飾り付けが終わると思っていたのですが、まだまだ作業は続きます。少なくともすべてのキャビネットを壁に戻し、貯蔵ユニットを塗装して組み立て、すぐに使える状態に戻しました。これらの作業で部屋が少しずつ元の姿に戻ってきているのがわかります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +330,7 @@
         "title": "【Family Reunion：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週のGamescom Latamで、私はFamily Reunionを初めてプレイしました。デモがItchとSteamに公開されていることを考えると、今にして思えばちょっとしたトレッキングでしたが、とても楽しいです。ユニークで混沌としたゲーム性が特徴的で、プレイヤーを引き付ける魅力があります。ゲームの世界は、プレイヤーが自由に探索でき、さまざまなキャラクターとの交流が楽しめるように設計されていま",
+        "description": "先週のGamescom Latamで、私は『Family Reunion』を初めてプレイしました。デモがItchとSteamに公開されていることを考えると、今思えばちょっとしたトレッキングでしたが、とても楽しい時間になりました。このゲームはユニークで混沌とした世界観が特徴で、プレイヤーを引き付けて離さない魅力があります。ゲームの独自性と面白さが際立つように設計されており、ユーザーがさまざまな体験を",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +343,7 @@
         "title": "【Path of Exile 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アクションRPG「Path of Exile 2」は、2026年末までに正式リリースされる可能性が非常に高まっています。開発元のGrinding Gear Gamesは、この発表に先立ち、「50時間を超える」エンドゲームに焦点を当てた最後の早期アクセスアップデートを実施しました。このアップデートは、ゲームの完成度を高めるための重要なステップです。Grinding Gear Gamesは、ゲームのエ",
+        "description": "アクションRPG『Path of Exile 2』は、2026年末までに正式リリースされる可能性が非常に高くなったと開発元のGrinding Gear Gamesは発表しました。この発表は、50時間を超えるエンドゲームに焦点を当てた最後の早期アクセスアップデートに続くものです。開発チームは、ゲームの完成度を高めるために最後の段階に入ったということです。早期アクセスアップデートでは、プレイヤーはエン",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +356,7 @@
         "title": "【Hunter: The Reckoning - Deathwish：レビュー】\n【Werewolf: The Apocalypse - Rageborn：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この日はあなたにとってラッキーな日です。2つのWorld of Darknessシリーズを1つにまとめたヴァンパイア：ザ・マスカレード・ユニバースを紹介します。まず最初に紹介するのは、すでに多くの人が知っているハンター：ザ・レコニングです。このゲームでは、超自然的な存在を追うハンターとなって、闇に潜む敵と戦います。さらに、ヴァンパイア：ザ・マスカレード・ユニバースの中で、他のタイトルも楽しむことが",
+        "description": "あなたはラッキーです！今日、2 つのWorld of Darknessゲームを1つにまとめたヴァンパイア：ザ・マスカレード・ユニバースの新作が登場します。まず紹介するのは、すでに馴染みのあるハンター：ザ・レコニングです。このゲームは、人類を脅かす超自然的な存在を狩るハンターとなり、暗い世界観を体験することができます。さらに、別の新作も含まれており、World of Darknessシリーズのファン",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -325,27 +364,26 @@
         "url": "https://www.rockpapershotgun.com/the-world-of-darkness-grows-bigger-with-a-first-look-at-hunter-the-reckoning-deathwish-and-a-werewolf-the-apocalypse-rageborn-reveal",
         "date": "2026-05-07",
         "is_translated": true
-      },
-      {
-        "title": "【Amberspire：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Amberspire について知っておくべき重要なことは、これは都市を自由に作り上げるシムシティのようなゲームではなく、ターンが進むごとに古墳を管理していくターンベースのボードゲームであり、パズルゲームの要素も含まれているということです。都市を構築するというよりも、古墳をしっかりと管理して進めていくゲームなので、都市 xây dựngゲームと違った新しいタイプのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
-        "date": "2026-05-07",
-        "is_translated": true
       }
     ],
     "sale": [
       {
+        "title": "アンチャーテッド：レガシー オブ シーブス コレクション スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アンチャーテッド：レガシー オブ シーブス コレクション スチームは、世界的に有名なアンチャーテッドシリーズを Steam でプレイできる究極のコレクションです。このコレクションには、アンチャーテッド 4：海賊王と失われた財宝と、アンチャーテッド：海賊王の黄金が収録されています。ナサン・ドレイクの最後の冒険と、海賊の黄金をめぐる物語を体験することができます。 グラフィックとゲームプレイが強化されたこのコレクションでは、ナサン・ドレイクの最後の旅を通して、美しい風景とハリウッドのようなストーリーを楽しむことができます。また、海賊の黄金では、よりアクション重視のゲームプレイを体験することができます。アンチャーテッドシリーズのファンにはもちろん、シリーズに新規参入するゲーマーにもおすすめできるコレクションです。Steam でアンチャーテッド：レガシー オブ シーブス コレクション スチームをプレイして、ナサン・ドレイクの冒険に同行してみてください。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-11"
+      },
+      {
         "title": "[Steam] SECTOR ZERO ($3.19 / 20% オフ) 5 月 23 日まで",
         "platform": "Steam",
         "type": "sale",
-        "description": "SECTOR ZERO は、Steam で 20% オフの特価 $3.19 で提供中です。このチャンスは 5 月 23 日までです。SECTOR ZERO は、サイバーパンク風のグラフィックと、未来的な世界観を体験できるゲームです。プレイヤーは、未知の領域を探索し、様々な敵と戦闘を繰り広げることができます。ゲームの中では、さまざまな武器やスキルを活用して、プレイヤーのスキルと戦略を発揮できます。SECTOR ZERO の世界では、プレイヤーは、ハックやアップグレードを利用して、自分たちの能力を強化することができます。ゲームの難易度は、プレイヤーの行動に応じて変化するため、常に新しい戦略を模索する必要があります。SECTOR ZERO をプレイすることで、サイバーパンクの世界に没入し、未来的な戦闘の刺激を体験できます。特価期間中は、SECTOR ZERO を安価で購入することができますので、ゲームファンにはお勧めのチャンスです。",
+        "description": "Steam で現在セール中の SECTOR ZERO は、20% オフの割引で 3.19 ドルで購入できます。このセールは 5 月 23 日まで開催されます。SECTOR ZERO は、プレイヤーを未知の世界に誘うアクションパック溢れるゲームです。強い敵と戦いながら、プレイヤーはさまざまなステージをクリアし、キャラクターの力を高めていきます。グラフィックはリッチで、 detal が細かく、臨場感のあるゲームワールドを体験できます。SECTOR ZERO の世界では、プレイヤーはさまざまな武装とスキルを使用して、多彩な敵を倒します。また、ゲームの難易度は上がりながらも、プレイヤーが成長するにつれて、より楽しいゲーム体験を提供します。SECTOR ZERO を Steam で今すぐ購入して、未知の世界で戦い、勝利を得るために必要なスキルを身に付けましょう。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -357,7 +395,7 @@
         "title": "[Steam] Lumberjacked (20% オフ/$3.99)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Lumberjacked は、木材を切り倒して集めることを中心に展開する、ユニークなゲームです。プレイヤーは、森の中で木を切り倒し、集めた木材を集荷地点まで運ぶことを目指します。簡単に聞こえるかもしれませんが、実際には様々な障害物や敵が登場し、プレイヤーを脅かしてきます。 このゲームでは、木を切り倒すのに適切な場所と時機を見極め、効率よく木材を集めることが重要です。木材を集めるだけでなく、森の中の環境や他の生物との関係性も考慮する必要があり、プレイヤーは森を守りながらも、木材を集めるという目標を達成する必要があります。 Lumberjacked は、シンプルながらも奥深いゲームです。プレイヤーは、森の中で木を切り倒しながら、ゲームの世界を体験することができます。現在、20% オフの特別価格で提供されており、興味のあるプレイヤーはぜひ試してみてください。Steam で購入可能なこのゲームは、木材を集めるゲームに興味がある方には必見のタイトルです。",
+        "description": "Lumberjacked は、木材を切り倒すというテーマを基にした、アクションパズルゲームです。プレイヤーは、森の中で木を切り倒し、障害物を避けながら、目標を達成する必要があります。ゲームには、さまざまな種類の木や障害物が登場し、プレイヤーはそれらを駆使して、挑戦を克服する必要があります。また、ゲームには、タイムアタックモードやスコアアタックモードもあり、プレイヤーは自らのスキルを試すことができます。現在、20% オフの特価で提供されており、Steam でお楽しみいただけます。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -369,7 +407,7 @@
         "title": "[Newegg] Dead as Disco - PC Steam デジタル コード (プロモーション コード SAVEDDVS 付きで 15% オフ - $16.24)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で新たなゲーム体験を楽しみましょう。Dead as Disco は、ユニークな雰囲気とデザインが特徴的なゲームです。プロモーション コード SAVEDDVS を使用することで、15% オフで購入できます。通常価格より大幅に安く、魅力的なゲームを手に入れるチャンスです。 Dead as Disco は、音楽とダンスをテーマにしたゲームで、プレイヤーはキャラクターを操作して、音楽に合わせて動きます。このゲームは、リズムに合わせたアクションと、カラフルなグラフィックスが特徴です。ユーザーは、様々なレベルとモードを楽しむことができ、友達と競争することもできます。 Steam で Dead as Disco を購入することで、様々な成果と実績を解放することができます。プロモーション コードを使用することで、安価にゲームを購入することができます。また、Steam コミュニティでは、他のユーザーと交流したり、ゲームに関する情報を共有したりすることができます。 Dead as Disco は、音楽とゲームを愛する人向けの魅力的なゲームです。プロモーション コードを使用して、15% オフで購入し、新たなゲーム体験を楽しみましょう。Steam で Dead as Disco を今すぐ購入して、音楽とダンスの世界に入り込んでください。",
+        "description": "Steam で配信中の「Dead as Disco」は、ユニークなゲームワールドを体験できる新しいタイトルです。このゲームは、ディスコミュージックをテーマにしており、プレイヤーはリズムに合わせてさまざまなアクションを実行する必要があります。ゲームのグラフィックはカラフルで、ディスコの雰囲気を忠実に再現しています。プレイヤーは、さまざまなステージをクリアすることで新しいキャラクターやアイテムを解放できます。また、オンラインランキング機能も搭載されており、友達や他のプレイヤーとスコアを競争することもできます。現在、プロモーションコードを使用すると 15% オフの特典があり、安価でこの面白いゲームを体験することができます。Steam で「Dead as Disco」を購入して、ディスコの世界に飛び込んでみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -381,7 +419,7 @@
         "title": "[Newegg] Invincible VS - PC Steam デジタル コード (コード SAVEDDVS 付きで 15% オフ - $42.49)",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steamプラットフォームで配信されている「Invincible VS」は、プレイヤーを新たなスリルと冒険の世界に導くゲームです。このゲームは、様々な戦闘シーンやアクションに富んだストーリーを提供し、プレイヤーが新しいキャラクターと戦略を発見することになるでしょう。ゲームのグラフィックやサウンドデザインは、高品質で臨場感を感じることができ、プレイヤーをゲームの世界に没入させることができます。 「Invincible VS」では、プレイヤーはさまざまなキャラクターを操作し、異なる能力とスキルを活用して戦闘に臨むことができます。ゲームの難易度は、初心者から上級者まで対応しており、誰でも楽しむことができます。さらに、ゲームのステージや敵キャラクターは多種多様であり、プレイヤーは毎回新しい挑戦に直面することになります。 現在、Neweggでは「Invincible VS」のデジタルコードを15%オフで販売中です。コード「SAVEDDVS」を使用すると、42.49ドルで購入することができます。 Steamユーザーの方は、この機会に「Invincible VS」をプレイしてみてはいかがでしょうか。",
+        "description": "Steam用のアクションゲーム「Invincible VS」は、プレイヤーを熱いバトルに巻き込む魅力的で高刺激的な体験を提供します。このゲームは、快適な操作性と繊細なグラフィックで、プレイヤーがさまざまなキャラクターを操り、対戦モードで他のプレイヤーと対決することができます。また、キャラクターのカスタマイズやストーリーモードも用意されており、プレイヤーは自分なりのプレイスタイルを確立することができます。Steamでのデジタルコーデの購入により、即座にゲームをダウンロードしてプレイを開始できます。さらに、コード「SAVEDDVS」を使用することで、15%の割引を受けることができ、42.49ドルでの購入が可能です。Invincible VSは、対戦ゲームファンやアクションゲーム好きには必見のタイトルです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
@@ -568,18 +606,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-04"
-      },
-      {
-        "title": "[Steam] バンカーノート (40% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バンカーノートは、ステーショナリーな生活を楽しむことを目指した、ユニークなゲームです。このゲームでは、プレイヤーはバンカーという、毎日様々な顧客から預かった金銭を元に、預かったお金を元に戻すために奮闘します。魅力的なグラフィックとシンプルながらも深いゲーム性が特徴です。バンカーとしての生活に挑戦してみてください。現在、Steamで40%オフのキャンペーン中ですので、ぜひこの機会にチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-03"
       }
     ]
   },
@@ -637,5 +663,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-11T03:52:19.263053"
+  "last_updated": "2026-05-11T14:29:03.025756"
 }

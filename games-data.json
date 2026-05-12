@@ -5,30 +5,30 @@
         "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで配布されている「アレンジャー・ロールパズリングの旅」は、工夫に富んだ軽快なスライドパズルの世界を舞台に、プレイヤーが新たな道を切り拓きながら、自分探しの旅を楽しむことができる魅力的なゲームです。スライドパズルは、ブロックをスライドさせて道を作り、ゴールを目指すというシンプルながらも難易度の高いゲーム性が特徴です。美しいグラフィックとチャーミングなキャラクターで構成されたこのゲームは、プレイヤーを 매료させることに成功しています。プレイヤーは、パズルを解決することで、新たなステージやアイテムを解放することができます。ゲームの進行に合わせて、ストーリーも深化し、プレイヤーは自分自身の成長を実感できます。軽快なBGMとともに、スライドパズルの世界で新たな発見をしてみてはいかがでしょうか。",
+        "description": "Epic Gamesでは、魅力的なパズルゲーム「アレンジャー・ロールパズリングの旅」が無料配布されています。このゲームでは、工夫に富んだ軽快なスライドパズルの世界を舞台に、新たな道を切り拓きながら、自分探しの旅を楽しむことができます。チャーミングな雰囲気と一緒に、プレイヤーは様々なパズルを解決し、自己発見の旅を進めていくことができます。スライドパズルの要素は、プレイヤーに新しい視点と考え方を促すものです。また、ゲームのグラフィックとサウンドトラックは、プレイヤーを引き込むようにデザインされており、心地よい体験を提供します。パズルゲームのファンや、軽快で楽しいゲームを探している方には、ぜひ一度お試しください。無料配布のチャンスを逃さないで、Epic Gamesで「アレンジャー・ロールパズリングの旅」をダウンロードして、自分だけの旅を始めてみましょう。",
         "price": "無料",
         "originalPrice": "¥2,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
       },
       {
         "title": "Trash Goblin - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "プレッシャーやストレスを感じることなく、いつまでも良い雰囲気を楽しめる、健全で居心地の良い店番ゲームです。装身具を発見して磨きをかけ、アップサイクルして、様々な個性豊かな顧客に販売します。節約したお金を使ってショップをアップグレードし、より優れたツールを購入し、さらにスペースを拡張してショップをカスタマイズすることができます。このゲームでは、無限のカラフルなアイテムや顧客との出会いを楽しみながら、自慢のショップを運営することができます。",
+        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも良い雰囲気でプレイできる、健全で居心地の良い店番ゲームです。装身具を見つけてきれいにし、アップサイクルして、個性豊かな顧客に販売します。節約したお金を使ってショップをアップグレードし、より良いツールを購入し、ショップのスペースを拡張して、自由にカスタマイズすることができます。このゲームでは、無限のカラフルなアイテムや、風変わりな顧客たちとの出会いが待っています。ﾘラックスしてプレイできるこのゲームで、ショップを運営してみてください。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
       }
     ],
     "bundle": [
       {
-        "title": "UNCHARTED: Legacy of Thieves Collection スチーム版",
+        "title": "[Steam] One More Brick bundle ($25.19/45% off)",
         "platform": "Steam",
         "type": "bundle",
         "description": "Steamのバンドル。",
@@ -37,10 +37,22 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
       },
       {
-        "title": "セガと協力し期限切れ問題を解決中",
+        "title": "UNCHARTED: Legacy of Thieves Collection スチーム",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Humble Bundle、Segaと提携してゲームキーの更新を行う",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
@@ -49,13 +61,25 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
       },
       {
         "title": "Stealthyshiroean's Humble Choice May 2026 Review",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "セガと協力し期限切れ問題を解決中",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
@@ -182,38 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-05-08"
-      },
-      {
-        "title": "Humble Bundleとセガ、期限切れのゲームキーを新しく発行する計画を進める",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Sega to get new keys for the games that had their expiration dates moved up.",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-08"
-      },
-      {
-        "title": "Creature Feature Bundle VR",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-07"
       }
     ],
     "review": [
       {
+        "title": "【Lies of P：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2023年9月にリリースされたRound8 StudioのソウルライクアクションRPG「Lies of P」は、高い評価を獲得し、先日世界的な累計販売が400万本を突破しました。現在、2024年9月に続編の計画が存在することが報じられており、ファンの間で大きな期待を集めています。このソウルライクアクションRPGは、独自の世界観と激しいアクションが特徴で、プレイヤーはさまざまな敵と戦いながら、ゲーム",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166751.html",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Slay the Spire 2』のSteamユーザーレビューには、トピックから外れたレビューが含まれており、これらのレビューはレビュースコアの計算から除外されています。この現象は、ゲームの評価が的確に反映されない可能性があるため、注目を集めています。Steamユーザーレビューは、ゲームの質や人気を判断する上で重要な指標となるため、レビューの信頼性を確保することが大切です。 REVIEWスコアか",
+        "description": "『Slay the Spire 2』のSteamユーザーレビューでは、トピックから外れたレビューが多数検出されており、これらはレビュースコアの計算から除外される事態に陥っている。Steamユーザーのレビューは、ゲームの評価に大きな影響を与えるため、このようなトピックから外れたレビューが多数存在することは、ゲームの評価の正確性に影響を及ぼす可能性がある。開発チームは、この問題に対処するための対策を講",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -221,6 +234,45 @@
         "url": "https://automaton-media.com/articles/newsjp/20260511-442308/",
         "date": "2026-05-11",
         "is_translated": false
+      },
+      {
+        "title": "【Fallout: New Vegas：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "彼は長い試合を戦った。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/16-years-after-attending-a-fallout-new-vegas-launch-event-aaron-paul-gets-cast-in-fallout-season-3/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
+        "title": "【Forza Horizo​​n 6：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "12月31日、9,999でお会いできるのをとても楽しみにしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-leaks-early-developer-responds-by-banning-the-ips-of-anyone-playing-it-for-just-under-8-thousand-years/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
+        "title": "【バトルフィールド 6：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "バトルフィールド 6で燃え尽きてしまった私ですが、ゴルムドのおかげで元気を取り戻してくれています。ゴルムドは、戦場での戦闘をよりスムーズに進めることができる独自のゲームシステムを備えています。たとえば、プレイヤーは戦車を呼び出すことができ、戦闘に大きな影響を与えることができます。また、ゴルムドでは、プレイヤーはチームを組んで戦うことができ、戦略的な戦闘を楽しむことができます。さらに、ゴルムドのグラ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/battlefield-6s-first-truly-big-map-feels-like-playing-a-different-much-better-battlefield/",
+        "date": "2026-05-11",
+        "is_translated": true
       },
       {
         "title": "【ミックステープ：レビュー】",
@@ -239,7 +291,7 @@
         "title": "【Drawquarium：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Any Fin Goes に立ち寄ってみてください。ここは魚がとてもリアルに描かれている、素晴らしい水族館だと評判です。",
+        "description": "Any Fin Goes に立ち寄ってみましょう。ここは魚の種類が豊富で、水族館としても素晴らしいと評判の場所です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,15 +301,15 @@
         "is_translated": true
       },
       {
-        "title": "【Forza Horizo​​n シリーズ：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【バトルスター ギャラクティカ: 散り散りになった希望：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "5月10日までの週のSteamに関する興味深いニュースをまとめてみました。新しいゲームのリリース情報や、注目されるゲームのアップデート、Steamコミュニティでの出来事など、ゲーマーにとって興味があるトピックをピックアップしています。Steamで現在話題になっていることや、将来のアップデートの予告など、様々な情報を詳しく紹介します。Steamを利用するゲーマーにとって、最新の情報を知ることができ、",
+        "description": "カプリカに対するサイロンの攻撃を逃れた数少ない戦艦の1つであるガンスター シミターには大きな問題がありました。殲滅を目論む追撃ロボット軍団の間に立つ唯一の軍艦だったのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-forza-horizon-is-the-last-truly-mainstream-multiplatform-racing-series/",
+        "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
         "date": "2026-05-11",
         "is_translated": true
       },
@@ -265,7 +317,7 @@
         "title": "【Subnautica 2：レビュー】\n【バトルスター ギャラクティカ ローグライト：レビュー】\n【指令 8020：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "悪名高い仕事熱心なニュース編集者エドウィンは、私の記事のわずか2倍の記事しか投稿しませんでした。先週は多忙を極めていた彼ですが、今朝はマウ以外のことをして休みです。",
+        "description": "悪名高い仕事熱心なニュース編集者エドウィンは、私の記事のわずか2倍の記事しか投稿しなかった先週の彼ですが、今朝はマウ以外のことをして休みです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,49 +327,23 @@
         "is_translated": true
       },
       {
-        "title": "【ザ・シムズ 3：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "エレクトロニック アーツによる史上最も売れたPCゲームの、人生を左右する巨大な続編であるザ シムズ 3では、愛、仕事、窃盗癖が戻ってきます。プレイヤーは、自由に創造し、生活を楽しむことができます。ザ シムズ 3は、前作の面白さをそのままに、新しい要素を加えて、より楽しくなりました。愛や仕事以外にも、プレイヤーのシムには様々な性格や特徴があり、プレイヤーはそれらを自由にカスタマイズして、自分だけのシ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-sims/the-sims-3-review-2009/",
-        "date": "2026-05-10",
-        "is_translated": true
-      },
-      {
-        "title": "【World of Darkness：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "彼らはゲームプレイを見せることでリードしてきたが、その影響を詳しく見てみましょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/the-next-world-of-darkness-game-to-be-revealed-is-a-werewolf-metroidvania-and-i-respect-the-hustle/",
-        "date": "2026-05-10",
-        "is_translated": true
-      },
-      {
-        "title": "【機動戦士ガンダム 閃光のハサウェイ：ニンフ・キルケの魔術：レビュー】",
+        "title": "【ロード・オブ・ザ・リング: リング・オブ・パワー：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "『機動戦士ガンダム 閃光のハサウェイ』の続編である『ニンフ・キルケの魔術』では、伝説の英雄が姿を消し、新たな物語が始まっています。この作品についての詳細なレビューをポリゴンで読むことができます。",
+        "description": "Amazonは、後にリリースされる「リング・オブ・パワー」シーズン3で登場する暗黒卿サウロンの最新作のファーストルックも公開しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
-        "date": "2026-05-10",
+        "url": "https://www.polygon.com/lord-of-the-rings-the-rings-of-power-season-3-release-date-officially/",
+        "date": "2026-05-11",
         "is_translated": true
       },
       {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週中に飾り付けが終わると思っていたのですが、まだまだ作業は続きます。少なくともすべてのキャビネットを壁に戻し、貯蔵ユニットを塗装して組み立て、すぐに使える状態に戻しました。これらの作業で部屋が少しずつ元の姿に戻ってきているのがわかります。",
+        "description": "今週中に飾り付けが終わると思っていたのですが、まだ途中です。少なくとも、すべてのキャビネットを壁に戻し、貯蔵ユニットを塗装して組み立て、すぐに使える状態に戻すことができました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +356,7 @@
         "title": "【Family Reunion：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週のGamescom Latamで、私は『Family Reunion』を初めてプレイしました。デモがItchとSteamに公開されていることを考えると、今思えばちょっとしたトレッキングでしたが、とても楽しい時間になりました。このゲームはユニークで混沌とした世界観が特徴で、プレイヤーを引き付けて離さない魅力があります。ゲームの独自性と面白さが際立つように設計されており、ユーザーがさまざまな体験を",
+        "description": "先週のGamescom Latamでは、Family Reunionを初めてプレイする機会がありました。ゲームのデモがItchやSteamで公開されていることを考えると、ゲームの雰囲気を掴むのは簡単なことではありませんでした。しかし、プレイした結果、とても楽しいゲームであることがわかりました。ユニークで混沌とした世界観が特徴的で、プレイヤーを引き込む力があります。家族の再会をテーマにしたこのゲーム",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -343,7 +369,7 @@
         "title": "【Path of Exile 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アクションRPG『Path of Exile 2』は、2026年末までに正式リリースされる可能性が非常に高くなったと開発元のGrinding Gear Gamesは発表しました。この発表は、50時間を超えるエンドゲームに焦点を当てた最後の早期アクセスアップデートに続くものです。開発チームは、ゲームの完成度を高めるために最後の段階に入ったということです。早期アクセスアップデートでは、プレイヤーはエン",
+        "description": "アクションRPG『Path of Exile 2』は、2026年末までに正式リリースされる可能性が非常に高いと、開発元のGrinding Gear Gamesは発表しました。この発表は、「50時間を超える」エンドゲームに焦点を当てた最後の早期アクセスアップデートに続いて行われました。開発チームは、ゲームの完成度を高め、プレイヤーに最高のゲーム体験を提供するための努力を続けています。早期アクセスアッ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -351,45 +377,68 @@
         "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-release-might-slip-beyond-2026-but-at-least-were-getting-a-crafting-system-that-summons-skeletons-to-beat-you-up-when-you-use-it",
         "date": "2026-05-08",
         "is_translated": true
-      },
-      {
-        "title": "【Hunter: The Reckoning - Deathwish：レビュー】\n【Werewolf: The Apocalypse - Rageborn：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "あなたはラッキーです！今日、2 つのWorld of Darknessゲームを1つにまとめたヴァンパイア：ザ・マスカレード・ユニバースの新作が登場します。まず紹介するのは、すでに馴染みのあるハンター：ザ・レコニングです。このゲームは、人類を脅かす超自然的な存在を狩るハンターとなり、暗い世界観を体験することができます。さらに、別の新作も含まれており、World of Darknessシリーズのファン",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-world-of-darkness-grows-bigger-with-a-first-look-at-hunter-the-reckoning-deathwish-and-a-werewolf-the-apocalypse-rageborn-reveal",
-        "date": "2026-05-07",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "アンチャーテッド：レガシー オブ シーブス コレクション スチーム",
+        "title": "[Steam] ナイン ソル ($11.99/60% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "アンチャーテッド：レガシー オブ シーブス コレクション スチームは、世界的に有名なアンチャーテッドシリーズを Steam でプレイできる究極のコレクションです。このコレクションには、アンチャーテッド 4：海賊王と失われた財宝と、アンチャーテッド：海賊王の黄金が収録されています。ナサン・ドレイクの最後の冒険と、海賊の黄金をめぐる物語を体験することができます。 グラフィックとゲームプレイが強化されたこのコレクションでは、ナサン・ドレイクの最後の旅を通して、美しい風景とハリウッドのようなストーリーを楽しむことができます。また、海賊の黄金では、よりアクション重視のゲームプレイを体験することができます。アンチャーテッドシリーズのファンにはもちろん、シリーズに新規参入するゲーマーにもおすすめできるコレクションです。Steam でアンチャーテッド：レガシー オブ シーブス コレクション スチームをプレイして、ナサン・ドレイクの冒険に同行してみてください。",
+        "description": "ナイン ソルは、ストーリーに深みのあるアクションアドベンチャーゲームです。このゲームでは、プレイヤーは複雑なキャラクターを操作し、さまざまな戦闘スタイルをマスターして、ゲーム世界の謎を解き明かします。ナイン ソルの世界は、独自の文化と歴史を備えた豊かなファンタジー世界です。プレイヤーは、キャラクターのスキルと戦略的な思考を結合して、強大な敵を倒し、ゲームの世界を探索することができます。 ナイン ソルのグラフィックとサウンドトラックは、ゲームの世界に没入するための最高の環境を提供します。美しいグラフィックと感動的な音楽が、プレイヤーをゲームの世界に引き込むでしょう。さらに、ゲームの難易度は、初心者から上級者まで、幅広いプレイヤーに適しています。ナイン ソルは、ストーリー、戦闘、探索の要素を完璧に組み合わせた、魅力的で挑戦的なゲームです。Steamでの60%オフのキャンペーン中、ナイン ソルを導入するのは今がチャンスです。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[Steam] 露出までの九夜 (50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamで現在開催中のセールで注目されるタイトルは「露出までの九夜」です。このゲームは、50% オフの特価で提供されており、ゲーマーにとっては絶好のチャンスです。タイトルから推測できる通り、このゲームは恐怖要素を含んだアドベンチャーゲームのようです。プレイヤーは、緊迫した雰囲気を体験しながら、謎を解き明かしていくことになります。 ゲームの世界は、暗闇と恐怖が漂う不気味な環境で、プレイヤーはその中でサバイバルするための戦略を立てていく必要があります。ゲームの進行に合わせて、恐怖のレベルも上昇していき、プレイヤーは常に緊張を維持する必要があります。さらに、ゲームのグラフィックやサウンドデザインも、恐怖を引き立てる役割を果たしているようです。 「露出までの九夜」は、恐怖を愛するゲーマーにとっては、必ずプレイすべきタイトルのひとつです。50% オフのセール期間中、ぜひこのゲームを体験してみてください。恐怖とサスペンスが満ちた世界で、プレイヤーは何を見つけるのでしょうか。ゲームの世界に足を踏み入れて、謎を解き明かしてみませんか。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "アンチャーテッド レガシー オブ シーブス コレクション スチーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アンチャーテッド レガシー オブ シーブス コレクション スチームは、Steamプラットフォーム上で提供される、人気アクションアドベンチャーシリーズのコレクションです。このコレクションでは、アンチャーテッド シリーズのファンや新規プレイヤーが、シリーズの根底にある魅力的なストーリーや快適なゲームプレイを体験できます。 シリーズの中心となるのは、歴史の闇に隠された秘密を解き明かしていく、ネイサン・ドレイクの冒険です。彼は、危険な罠や強敵を排して、未知の領域に踏み込みます。このコレクションには、シリーズの主要タイトルが収録されており、ネイサン・ドレイクの旅を一つのパッケージで楽しむことができます。 アンチャーテッド レガシー オブ シーブス コレクション スチームでは、Steamのユーザーが、アンチャーテッド シリーズの魅力をそのままに体験できるよう設計されています。グラフィックやサウンドは、現代のゲーム機で見られる高品質なものになっています。さらに、Steamのプラットフォームを利用することで、フレンドと一緒にゲームをプレイしたり、成果を共有したりすることもできます。 アンチャーテッド レガシー オブ シーブス コレクション スチームは、アクションアドベンチャーのファンにとって、見逃せない魅力的な体験です。ネイサン・ドレイクの冒険に参加し、未知の世界を探索してみましょう。このコレクションは、Steam上で入手可能です。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[ファナティカル] ミックステープ (22% オフ - $15.59 / £12.47 / €14.81 / CA$20.27 / A$23.01 / ¥1,794)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "ファナティカルで現在、ミックステープが22%オフで提供されています。通常価格よりも大きな割引でこのゲームを手に入れることができます。このゲームは、ユニークなサウンドトラックとともに、プレイヤーを新しい音楽体験へと導きます。ミックステープの世界では、音楽がゲームプレイの中心となり、プレイヤーはリズムに合わせてアクションを取る必要があります。さまざまなジャンルの音楽を楽しめるこのゲームは、音楽愛好家のゲーマーにぴったりです。ミックステープの魅力的なサウンドトラックとともに、プレイヤーは新しい音楽体験を楽しむことができます。現在の価格は15.59ドル、12.47ポンド、14.81ユーロ、20.27カナダドル、23.01オーストラリアドル、1,794円です。音楽とゲームを融合させたこの魅力的なゲームを今すぐ手に入れて、音楽の世界で新しい冒険を始めてみましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-05-12"
       },
       {
         "title": "[Steam] SECTOR ZERO ($3.19 / 20% オフ) 5 月 23 日まで",
         "platform": "Steam",
         "type": "sale",
-        "description": "Steam で現在セール中の SECTOR ZERO は、20% オフの割引で 3.19 ドルで購入できます。このセールは 5 月 23 日まで開催されます。SECTOR ZERO は、プレイヤーを未知の世界に誘うアクションパック溢れるゲームです。強い敵と戦いながら、プレイヤーはさまざまなステージをクリアし、キャラクターの力を高めていきます。グラフィックはリッチで、 detal が細かく、臨場感のあるゲームワールドを体験できます。SECTOR ZERO の世界では、プレイヤーはさまざまな武装とスキルを使用して、多彩な敵を倒します。また、ゲームの難易度は上がりながらも、プレイヤーが成長するにつれて、より楽しいゲーム体験を提供します。SECTOR ZERO を Steam で今すぐ購入して、未知の世界で戦い、勝利を得るために必要なスキルを身に付けましょう。",
+        "description": "SECTOR ZERO は、Steam プラットフォームで現在 20% オフの特価 $3.19 で提供されています。このゲームは、5 月 23 日までの期間限定でこの特別価格で購入できます。SECTOR ZERO は、暗く奥深い世界を舞台にしたサバイバルゲームです。プレイヤーは、不気味な環境で生存を闘いながら、隠された真実を解き明かしていく必要があります。ゲームは、緊張感の高いサウンドトラックとリアルなグラフィックスで、心を引き付けます。SECTOR ZERO の世界は、プレイヤーを不気味な場所へと誘い込み、未知の恐怖に直面せざるを得ない状況に追い込んでいきます。このゲームは、サバイバルゲームシリーズのファンであれば、絶対に試してみるべきです。SECTOR ZERO の魅力を体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
       },
       {
         "title": "[Steam] Lumberjacked (20% オフ/$3.99)",
@@ -570,42 +619,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-04"
-      },
-      {
-        "title": "[Steam] 空の軌跡 第一章 (38.99€/35% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "空の軌跡シリーズの第一章が、Steamで35%オフの特価で登場です。ロールプレイングゲームのファンには絶対に外せない作品です。このゲームは、美しいグラフィックと魅力的なストーリーで知られており、プレイヤーを幻想的な世界に引き込みます。さまざまなキャラクターと共に冒険し、戦闘システムをマスターして敵を倒していきます。第一章では、物語の序章が描かれ、ゲームの世界観とシステムを体験することができます。Steamで販売されているこの作品は、35%オフの価格で購入することができますので、空の軌跡シリーズの世界を体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-04"
-      },
-      {
-        "title": "[Steam] AMEN 11 11 ($2.06/ 31 % OFF)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでの大幅割引で話題のゲーム「AMEN 11 11」が、現在31%オフで販売中です。このタイミングを逃すことはありません。価格が2.06ドルまで下がったこのゲームは、Steamユーザーにとって絶好の買い時です。 「AMEN 11 11」は、ユニークなゲームプレイやグラフィックスが特徴的なタイトルです。サスペンスとアクションが絶妙に融合したこのゲームは、プレイヤーを新たな世界へ誘います。ストーリーは、深い意味を秘めながらも、シンプルな操作で誰でも楽しめるよう設計されています。 このゲームの世界では、不思議な出来事や未知の存在が待ち受けています。プレイヤーは、謎を解きながらストーリーを進め、ゲームの核心へと進みます。インパクトのあるサウンドや美しいグラフィックスも、臨場感を高めてくれます。 Steamで「AMEN 11 11」を購入することで、貴方もこの不可思議な世界を体験することができます。現在の割引価格では、ほとんどのプレーヤーが手に入れることができる価格帯です。Steamユーザーには、ぜひ一度お試しいただきたいゲームのひとつです。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-04"
-      },
-      {
-        "title": "[STEAM] レオ: ザ・スクエア ($2.49/50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "STEAMで提供されているレオ: ザ・スクエアは、現在50%オフのセール中です。この魅力的なゲームは、プレイヤーをユニークな世界に導きます。レオ: ザ・スクエアでは、主役のレオが様々な状況に直面し、プレイヤーは彼の冒険を通じて多くの課題に挑戦します。ゲームの特徴的なグラフィックと面白いキャラクター設定が、プレイヤーに新しい体験を提供します。簡単な操作で多様なステージをクリアすることができ、レオの物語を楽しみながら、プレイヤーの思考力と問題解決能力を試します。STEAMのセール期間中は、通常価格の半額の$2.49で購入することができ、手軽に体験することができます。レオ: ザ・スクエアは、新しいゲーム体験を求めるゲーマーにぴったりの選択です。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-04"
       }
     ]
   },
@@ -663,5 +676,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-11T14:29:03.025756"
+  "last_updated": "2026-05-12T03:36:06.489283"
 }

@@ -5,25 +5,25 @@
         "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "アレンジャー・ロールパズリングの旅は、Epic Gamesで配布されている魅力的なパズルゲームです。軽快なスライドパズルの世界で、プレイヤーは新たな道を切り拓きながら、チャーミングな自分探しの旅を体験できます。このゲームは、工夫に富んだパズル要素と、優しい雰囲気のグラフィックで構成されています。 プレイヤーは、様々なステージを進めながら、パズルの解決に 必要なスキルを身に付けていきます。ゲームの中には、様々な種類のパズルが用意されており、プレイヤーは各パズルを解決するために、独自の戦略を考え出さなければなりません。 アレンジャー・ロールパズリングの旅は、パズルゲームファン向けにデザインされており、軽快なゲームプレイとチャーミングなグラフィックで、プレイヤーを楽しませます。また、ゲームの雰囲気は、リラックスした気分で遊べるようにデザインされており、ストレスを軽減するのに適しています。 このゲームは、Epic Gamesで無料配布されており、誰でも簡単にダウンロードして遊ぶことができます。パズルゲームファンや、新しいゲームを探している方には、ぜひおすすめしたいゲームです。",
+        "description": "Epic Gamesでの新しいゲーム「アレンジャー・ロールパズリングの旅」は、工夫に富んだ軽快なスライドパズルの世界で、プレイヤーが新たな道を切り拓きながら、チャーミングな自分探しの旅を満喫することを可能にします。このゲームでは、スライドパズルの要素が巧みに組み込まれており、プレイヤーは各ステージをクリアするために、パズルの解決に挑戦しながら進んでいきます。ゲームの世界は、色鮮やかで優しいグラフィックで構成されており、プレイヤーを引きつけて、気軽に遊んでいただけるような雰囲気を醸し出しています。また、ゲームのストーリーは、自分探しの旅をテーマにしており、プレイヤーはキャラクターの成長と変化を経験することができます。全体的に、「アレンジャー・ロールパズリングの旅」は、頭脳と感覚を同時に刺激する、ユニークなゲーム体験を提供するため、パズルゲームのファンには特におすすめです。",
         "price": "無料",
         "originalPrice": "¥2,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
       },
       {
         "title": "Trash Goblin - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも良い雰囲気でプレイできる、健全で居心地の良い店番ゲームです。装身具を探してきれいにし、アップサイクルして、色々な個性的な顧客たちに売ります。節約したお金を使って店をアップグレードしたり、より良いツールを購入したりして、さらに店のスペースを拡張してカスタマイズすることができます。このゲームは、ゆったりしたペースでプレイでき、ストレスを感じることなく楽しむことができます。装身具をアップサイクルして売ることで、店を成長させ、さらに面白いゲーム体験を楽しむことができます。",
+        "description": "この店番ゲームは、プレッシャーやストレスを感じることなく、いつまでも楽しむことができます。装身具を発見してきれいにし、創造的にアップサイクルして、個性豊かなカラフルな顧客に販売します。節約したお金を使ってショップをアップグレードし、より良いツールを購入して、さらにスペースを拡張して自由にカスタマイズすることができます。このゲームは、健全で居心地の良い雰囲気で、いつまでもプレイヤーを楽しませてくれる魅力的なゲームです。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
       }
     ],
     "bundle": [
@@ -37,7 +37,31 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Dungeon Baller Playtest available for May Humble Choice subscribers",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "In how much time could Persona 3 Reload realistically be on Humble Bundle Choice?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-05-14"
       },
       {
         "title": "[Fanatical] UNCHARTED™: Legacy of Thieves Collection (14,49$ -71 %)",
@@ -53,30 +77,6 @@
       },
       {
         "title": "Humble ChoiceでGOGやEpicゲームキーを入手する",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-13"
-      },
-      {
-        "title": "Dungeon Baller Playtest available for May Humble Choice subscribers",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-13"
-      },
-      {
-        "title": "In how much time could Persona 3 Reload realistically be on Humble Bundle Choice?",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -210,36 +210,88 @@
     ],
     "review": [
       {
-        "title": "【INDIKA：レビュー】",
-        "platform": "doope!",
+        "title": "【The Greenening：レビュー】",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "プーチン政権によるウクライナ侵攻を強く批判し、ロシアを離れてカザフスタンで開発を続けたインディーゲームスタジオ「Odd Meter」は、アドベンチャーゲーム「INDIKA」で高い評価を獲得しました。ロシア正教会を中心に神学的なテーマを扱ったこのゲームは、ユニークな世界観とストーリーでプレイヤーの心を掴みます。開発スタジオは、故郷を離れても創作の道を貫く決意を示し、インディーゲームシーンに新たな風を",
+        "description": "Erkberg氏は5月8日に新作『The Greenening』を配信開始し、たちまちSteamユーザーレビューで「非常に好評」というステータスを獲得するなど、注目を集めている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/05166803.html",
-        "date": "2026-05-13",
+        "url": "https://automaton-media.com/articles/newsjp/20260514-442919/",
+        "date": "2026-05-14",
         "is_translated": false
       },
       {
-        "title": "【Dead as Disco：レビュー】",
+        "title": "【Warhammer 40,000: Mechanicus II：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "5月5日の早期アクセス向けのローンチを経て高い評価を獲得し、発売からわずか48時間で10万本販売突破が報じられた新作ベルトスクロールアクション「Dead As Disco」ですが、新たにBrain Jar Gamesがプレミアムエディションの発売を発表しました。このゲームは、ユニークなグラフィックとスムーズなアクションが特徴で、プレイヤーは様々なステージを駆け抜け、敵を倒しながら進んでいきます。早",
+        "description": "高評価を得たW40kビデオゲームの傑作「Warhammer 40,000: Mechanicus」の続編として、2024年5月に発表された「Warhammer 40,000: Mechanicus 2」は、熱烈な支持を受けた前作の魅力をさらに引き出し、より深いストーリーや新しいゲームプレイ要素を追加して、ファンたちを楽しませます。このゲームでは、ウォーハンマー40,000のユニークな世界観を体験で",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/05166798.html",
+        "url": "https://doope.jp/2026/05166833.html",
         "date": "2026-05-13",
         "is_translated": false
       },
       {
         "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Unknown Worlds は、コミュニティと再び協力したいと考えています。開発チームは、ユーザーのフィードバックを大いに重視しており、ゲームの進化にコミュニティの意見を取り入れることを目指しています。 Unknown Worlds のコミュニティとの協力は、ゲーム開発における重要な要素です。開発チームは、ユーザーと密接に協力して、より良いゲーム体験を創造することを目指しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-devs-say-its-bigger-and-more-polished-than-any-of-the-studios-previous-early-access-launches/",
+        "date": "2026-05-13",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Subnautica 2 をプレイして自分自身のプレイ動画を記録し、それを私たちに送信してください。すると、豪華な賞品を獲得するチャンスが待っています。自分のプレイスタイルを披露して、他のプレイヤーと競い合い、賞品を手に入れることができるかもしれません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/you-could-win-a-usd500-amazon-gift-card-by-playing-subnautica-2-this-month-so-remember-to-send-us-your-best-video-clips/",
+        "date": "2026-05-13",
+        "is_translated": true
+      },
+      {
+        "title": "【Bioshock シリーズ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "第一印象がすべてです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/the-bioshock-series-has-some-of-gamings-best-intros-because-lead-dev-ken-levine-knows-if-you-have-a-mediocre-beginning-youre-done/",
+        "date": "2026-05-13",
+        "is_translated": true
+      },
+      {
+        "title": "【この街を破壊するモンスター：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "You Are the Monster は、シンプルながらもスクラップな要素が込められた、怪獣のカオスを体験できるゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/this-city-smashing-monster-sim-is-the-first-game-ive-ever-played-where-my-reward-for-beating-a-level-is-getting-a-nuke-dropped-on-my-head/",
+        "date": "2026-05-13",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Subnautica 2』の早期アクセス開始は間近ですが、意外な事態が発生しました。この海洋サバイバルゲームの「非公式ビルド」がインターネット上に流出してしまいました。サイクロプス潜水艦の穴が開いた部分がゆっくりと修復される様子を想像すると、ゲームの雰囲気を感じることができます。この流出により、ファンたちは早期アクセス開始前にゲームの一部をプレイできる可能性があります。ただし、公式のリリースはま",
+        "description": "『Subnautica 2』の早期アクセス開始まであとわずか1～2日というところで、この海洋サバイバルゲームの「非公式ビルド」がインターネット上に流出しています。サイクロプス潜水艦の穴がゆっくりと閉じる様子を想像してみてください。潜水艦の修復プロセスは、まるで生きているような動きを見せてくれます。このような非公式ビルドの流出は、ファンにとっては待ちに待ったニュースです。『Subnautica 2』",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,49 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【パニッシャー ワン ラスト キル：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マーベル映画を忘れて、Disney Plus のスタンドアロン・アクション『パニッシャー』スペシャルを楽しみましょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/punisher-one-last-kill-review-marvel/",
-        "date": "2026-05-13",
-        "is_translated": true
-      },
-      {
-        "title": "【Hotel Architect：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Wired Productionsは5月12日、ホテル建設・経営シミュレーションゲーム『Hotel Architect（ホテル・アーキテクト）』について、5月14日の正式リリース時に日本語対応することを発表しました。このゲームでは、プレイヤーがホテルの設計から建設、そして経営までを体験できます。さまざまな施設やサービスを組み込んで、夢のホテルを作ることができます。日本語対応により、より多くのプレイ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260512-442501/",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Absolum：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年10月にリリースされ、高い評価を獲得したベルトスクロールアクションゲーム「Absolum」が、先日Xbox Series X・S版でも発売されました。このゲームは、Dotemu、Guard Crush Games、Supamonksの3社が共同で開発した完全新作です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166794.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
         "title": "【バトルスター ギャラクティカ: 散り散りになった希望：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "カプリカに対するサイロンの攻撃を逃れた数少ない戦艦の1つであるガンスター シミターは、重大な問題を抱えていました。その問題とは、殲滅を目論む追撃ロボット軍団の前に立ち塞がる、唯一の軍艦であるということです。",
+        "description": "カプリカへのサイロン攻撃を逃れた数少ない戦艦の1つであるガンスター シミター号には問題がありました。これは、殲滅を目論む追撃ロボット軍団の前に立つ唯一の軍艦であると同時に、攻撃を生き延びた希少な戦艦でもありました。シミター号は、サイロン軍の猛攻の中で、勇敢に戦い続ける唯一の希望であり、絶望的な状況に立ち向かうために、勇気と戦略が必要でした。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +317,7 @@
         "title": "【Subnautica 2：レビュー】\n【バトルスター ギャラクティカ ローグライト：レビュー】\n【指令8020：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "悪名高い仕事熱心なニュース編集者エドウィンは、先週、私の記事のわずか2倍の記事しか投稿しませんでした。今朝はマウ以外のことをして休みます。彼はいつも働いているので、珍しく休んでいます。彼が休むということは、他の人が仕事を手伝う必要があるでしょう。彼の代わりに誰かが記事を投稿しなければなりません。",
+        "description": "悪名高い仕事熱心なニュース編集者エドウィンは先週、私の記事のわずか2倍の記事しか投稿しなかったようです。今朝はマウ以外のことをして休みです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -316,28 +329,64 @@
     ],
     "sale": [
       {
-        "title": "[Steam] スカル アンド ボーンズ (90% オフ)",
+        "title": "[Steam] Doom シリーズ セール (90% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "スカル アンド ボーンズは、海賊船を操り、戦略的な海戦を楽しむことができる、高度な海戦シミュレーションゲームです。プレイヤーは、海賊船の船長となり、多くの船を乗り移り、戦略的な海戦を繰り広げます。また、海賊船をカスタマイズし、乗組員を募集して、船を強化することができます。 このゲームは、高度なグラフィックとリアルな海戦シミュレーションを提供します。プレイヤーは、海賊船を操り、砲撃や剣闘など、様々な戦闘アクションを体験することができます。また、オンラインマルチプレイヤー機能により、友達と協力して海戦を戦うことができます。 スカル アンド ボーンズは、海賊船を操り、戦略的な海戦を楽しむことができる、ユニークなゲームです。このゲームは、海賊船の船長となり、海戦を戦うという梦を体験することができます。Steam で 90% オフのセール中ですので、是非お試しください。",
+        "description": "Doom シリーズは、世界中のゲーマーから愛されるアクションゲームのシリーズです。このセールでは、Doom シリーズの全作品が90%オフになるので、シリーズを初めてプレイする人も、コンプリート版を狙っている人も、ぜひこのチャンスを逃さないでください。Doom シリーズのゲームは、激しいアクションと、恐怖を体験することができるため、心を躍らせる爽快なプレイが楽しめます。プレイヤーは、地獄の悪魔を倒すため、様々な武器を使用し、戦略的にステージを攻略していく必要があります。グラフィックも高質なもので、リアルな世界を体験することができます。さらに、Doom シリーズには、シングルプレイだけでなく、マルチプレイも用意されており、友達と一緒にプレイすることもできます。セール期間中は、Doom シリーズの全作品が大幅に割引されるため、購入するのに最適なタイミングです。ぜひ、この機会にDoom シリーズを体験してみてください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[Steam] レッド デッド リデンプション 2 ($14.99/75% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam で提供中のレッド デッド リデンプション 2 は、現在 75% オフの特別セール中です。このゲームは、オープンワールド アクション アドベンチャー ジャンルの代表作として知られており、プレイヤーはアメリカ西部の未開拓地域を自由に探索できます。壮大な景観の中で、馬に乗り、ガンマンとの銃撃戦に挑み、さまざまなキャラクターと交流することができます。ゲームのグラフィックとサウンドデザインは、西部開拓時代の雰囲気をリアルに再現しており、プレイヤーはその世界の中に没入しやすいです。さらに、物語は深く複雑で、主人公のアーサー・モーガンの運命を追うことができます。通常価格より 75% オフの 14.99 ドルという破格の価格で提供中なので、西部開拓時代を舞台にしたこのアクション アドベンチャー ゲームを体験するのは今がチャンスです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[Steam] Quantum Odyssey ( 9,09€ / 30% オフ )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで提供されている「Quantum Odyssey」は、30%オフの特別セール中です。このゲームでは、プレイヤーは量子物理学の世界を舞台に、謎を解きながら進む、アクションアドベンチャーゲームの楽しみが味わえます。9.09ユーロという魅力的な価格で、未知の世界を冒険するチャンスが提供されています。 このゲームでは、プレイヤーは量子世界の秘密を解き明かし、様々なパズルを解決しながら、物語を進めていきます。グラフィックは美しく、量子物理学の概念を基にしたゲームメカニクスが提供され、プレイヤーに新しい体験を提供します。さらに、量子世界の独自の雰囲気を体験できることで、プレイヤーは新しい冒険の世界に没頭できます。 セール期間中は、このゲームを割引価格で購入することができます。量子物理学の世界を探索し、パズルを解決し、物語を進めるという、ユニークな体験が待っています。Steamユーザーであるなら、この魅力的なゲームを試してみる価値があります。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-14"
       },
       {
         "title": "[Steam] キングス ブレイド ($5.39 / 40% オフ)",
         "platform": "Steam",
         "type": "sale",
-        "description": "キングス ブレイドは、戦略とアクションが融合した独自のゲームシステムを特徴とする、ファンタジー世界を舞台にしたアクションゲームです。プレイヤーは、さまざまなキャラクターを選択し、戦場で戦略的な戦いを繰り広げます。キャラクターごとに独自の能力と武器があり、戦闘を有利に進めるために、これらの特徴を上手く活用する必要があります。 このゲームでは、グラフィックも高クオリティで、キャラクターのデザインや環境の詳細が美しく表現されています。戦闘シーンでは、ダイナミックなカメラワークと効果音が、アクションをよりリアルに感じさせます。キングス ブレイドは、単純なアクションゲームではなく、戦略と戦術を必要とする、奥深いゲームです。 現在、キングス ブレイドは40%オフでのセール中で、通常価格より大幅に安い5.39ドルで購入できます。これは、キングス ブレイドの魅力に手を出す絶好の機会です。Steamでこのゲームを購入し、戦略とアクションの世界に飛び込んでみましょう。",
+        "description": "キングス ブレイドは、Steamで現在40% オフの特別セール中です。この魅力的なゲームは、ファンタジー世界を舞台に、プレイヤーがさまざまなキャラクターを操作して戦いを繰り広げることができます。キャラクターにはそれぞれ独自の能力とスキルがあり、戦略的な戦闘を楽しむことができます。 ゲームのグラフィックは美しく、ダイナミックな戦闘シーンが楽しめます。また、ストーリーモードでは、キングス ブレイドの世界を深く探索することができ、キャラクターの背景や関係性を知ることができます。さらに、オンラインモードでは、世界中のプレイヤーと対戦することができ、実力を試すことができます。 キングス ブレイドは、ファンタジーとアクションが好きなゲーマーにぴったりのゲームです。現在、通常価格より40% オフの特別セール中なので、興味がある方は今すぐチェックしてみてください。Steamでキングス ブレイドを購入することで、冒険の世界に飛び込んで、楽しい時間を過ごすことができます。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[Steam] スカル アンド ボーンズ (90% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スカル アンド ボーンズは、海賊の生活を体験できるオープンワールドのアドベンチャーゲームです。プレイヤーは、キャラクターをカスタマイズして海洋を自由に航海し、戦闘や探索を楽しむことができます。また、オンライン機能を活かして他のプレイヤーと協力したり、海賊同士のバトルを繰り広げることもできます。 このゲームでは、美しい海洋風景や詳細な船のモデルが特徴です。ゲーム内の音楽やサウンドエフェクトも、海賊の世界をよりリアルに体験できるよう設計されています。さらに、ゲームの難易度は、初心者から上級者まで幅広いプレイヤーに適応できるように調整されています。 スカル アンド ボーンズは、海賊ファンやアドベンチャーゲーム愛好家にとって、最高のエンターテイメント体験を提供するでしょう。Steamでの90%オフの特売期間中、是非このゲームを体験してみてください。海賊の世界に引き込まれること間違いなしです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-14"
       },
       {
         "title": "[Steam] デビル メイ クライ (85% オフ)",
@@ -518,42 +567,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-07"
-      },
-      {
-        "title": "[ALLYOUPLAY] Dead as Disco (€16.10 -32% オフ / £13.10 -34% オフ /$17.30 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで新たなゲーム体験を楽しもう。Dead as Discoは、ユニークなアートスタイルとサウンドトラックでプレイヤーを引き付ける、魅力的なアクションゲームです。このゲームでは、プレイヤーはさまざまなステージを進みながら、さまざまな敵を倒していきます。ゲームの特徴的なグラフィックと、ディスコミュージックに合わせて動くキャラクターは、プレイヤーに新しいゲーム体験を提供します。また、さまざまなアイテムやパワーアップを集めながら、ゲームの難易度を上げていくこともできます。現在、Steamで32%オフの特別価格で提供中です。欧州、英国、米国で利用可能なこのゲームは、スチームアクティベーションに対応しています。Dead as Discoをプレイして、ユニークなゲーム体験を楽しんでみましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "[Fanatical] DOOM Eternal (90% オフ - $3.99 / £3.49 / €3.99 / CA$5.34 / A$5.49 / ¥602)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "お待たせしました、ファナティカルでドゥーム エターナルのセールが開始です。通常価格より90%オフで提供されるこのアイテムは、現在$3.99、£3.49、€3.99、CA$5.34、A$5.49、または¥602で購入可能です。ファーストパーソン・シューティングゲームの最高峰と呼ばれるドゥーム エターナルでは、プレイヤーは地獄の軍団との戦いを体験します。高速でアクション満載のゲームプレイと、壮大な環境が特徴です。強力なデーモンを倒し、地球を救うために戦い抜きます。激しいバトルと、グラフィックスの美しさを存分に楽しむことができます。ドゥーム エターナルは、ファンから高評価を得ている作品であり、その刺激的なゲーム体験は、シューティングゲームファンにとって最高の娯楽を提供します。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-05-07"
-      },
-      {
-        "title": "[Newegg] マラソン - PC [Steam デジタル コード] - コード SAVE3DL 付き (32% オフ / $26.99)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam で提供されている「マラソン - PC」は、興奮と挑戦を求めるゲーマーを対象とした、スピードと戦略を組み合わせたアクションゲームです。このゲームでは、プレイヤーはさまざまなコースを駆け抜けながら、障害物を避け、他のプレイヤーを出し抜いてゴールを目指します。スピードとタクティクスを駆使して、トッププレイヤーとなります。 このゲームの特徴的なグラフィックとサウンドデザインは、プレイヤーをゲーム世界に完全に没入させます。さらに、さまざまな難易度とコースが用意されているため、初心者から上級者まで幅広いプレイヤーが楽しむことができます。 現在、32% オフの特別価格で提供されており、通常価格より大幅に安くなっています。Steam デジタル コード付きで、コード「SAVE3DL」を使用するとさらに割引されるため、ゲーマーにとって絶好のチャンスです。ぜひこの機会に「マラソン - PC」を購入し、スピードと挑戦の世界に飛び込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-06"
       }
     ]
   },
@@ -611,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-13T14:08:22.690287"
+  "last_updated": "2026-05-14T03:42:40.303774"
 }

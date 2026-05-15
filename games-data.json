@@ -2,33 +2,81 @@
   "pc": {
     "free": [
       {
-        "title": "アレンジャー・ロールパズリングの旅 - Epic Games 無料配布中",
+        "title": "Eternal Threads - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の「アレンジャー・ロールパズリングの旅」は、工夫に富んだ軽快なスライドパズルの世界を舞台に、プレイヤーが新たな道を切り拓きつつ、チャーミングな自分探しの旅を楽しむことができます。このゲームでは、スライドパズルの要素とロールプレイングの要素が組み合わさって、ユニークなゲーム体験が提供されます。プレイヤーは、さまざまなパズルを解きながら、キャラクターを成長させ、ストーリーを進めていくことができます。ゲームの世界は、彩り豊かな美しいグラフィックで描かれており、シンプルながらも深みのあるゲームプレイが楽しめます。さらに、ゲームの雰囲気は、心地よいBGMと効果音で支えられており、プレイヤーを引き込むことができます。無料配布中のこのゲームは、パズルファンやロールプレイングゲームファンにとって、間違いなく 楽しめる体験となります。",
-        "price": "無料",
-        "originalPrice": "¥2,980",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Trash Goblin - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このゲームは、プレッシャーやストレスを感じることなく、いつまでも心地よい雰囲気を楽しむことができる、健全で居心地の良い店番ゲームです。装身具を発見してきれいにし、創造的にアップサイクルして、多様な個性豊かな顧客に販売します。節約したお金を使ってショップをアップグレードし、より良いツールを購入し、さらにスペースを拡張してショップをカスタマイズすることもできます。このゲームでは、リラックスした気分でお店を経営し、自分好みのショップを作り上げることができます。",
+        "description": "『Eternal Threads』は、時間を操作し、選択することで、物語の結末を変えていく、シングルプレイでストーリー主体のパズルゲームです。このゲームでは、プレイヤーは時間を操り、さまざまな選択肢を選んで、物語の展開を変化させていきます。パズル要素とストーリーの融合が魅力的なこのゲームでは、プレイヤーの選択が物語の行方を決定します。時間を操り、物語を変えるというユニークなコンセプトが、プレイヤーを新しいゲーム体験へと導きます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
+      },
+      {
+        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のあるファーストパーソン・シューティングゲームです。这作品は、前作『ゴーストランナー』で好評だった要素に加え、激しいボス戦や没入感のある新しいストーリー、迫力のあるバイクステージ、改良されたスキル、サイバー忍者アクションなどが集結しています。プレイヤーは、サイバーパンクの世界を体験し、さまざまなステージで戦闘やアクションを楽しむことができます。さらに、改良されたスキルや新しい要素により、プレイヤーはより深いゲーム体験を楽しむことができます。『ゴーストランナー 2』は、サイバーパンクの世界を舞台にしたアクションゲームファン必見の作品です。",
+        "price": "無料",
+        "originalPrice": "¥4,880",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "LISA: Definitive Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "オレイサを探索し、オリジナルのストーリー重視のRPG『LISA: The Painful』とその続編『LISA: The Joyful』を収録した『LISA: Definitive Edition』で、倒錯した謎を明かそう。『LISA』シリーズの世界では、不条理な出来事が次々と起こり、プレイヤーはそれらの謎を解き明かしていくことになる。このシリーズは、独自のゲームシステムと、深いストーリーで知られており、ファンに愛されている。『LISA: Definitive Edition』では、これまでの2作品をまとめて収録しているため、シリーズの全容を体験できる。倒錯した謎を解き明かすために、オレイサの世界を探索し、様々なキャラクターと出会い、戦闘やイベントを経験する。『LISA』シリーズの魅力に溺れ、不条理な世界を体験してみよう。",
+        "price": "無料",
+        "originalPrice": "¥3,380",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Monument Valley - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
+        "price": "無料",
+        "originalPrice": "¥920",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "The Telltale Batman Shadows Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Telltale のバットマン シャドウズ エディションは、バットマン シリーズの最新作です。このゲームでは、バットマンの新しい冒険が描かれています。プレイヤーはバットマンとなり、さまざまなミッションをこなしながら、ゴッサム シティを守ります。バットマン シャドウズ エディションでは、新しいキャラクターとストーリーが追加されています。バットマンの盟友であるロビンやバットガールも登場します。プレイヤーは、バットマンの能力を活かし、悪者たちと戦いながら、ゴッサム シティの平和を守るために奮闘します。バットマン シャドウズ エディションは、バットマン ファンのための最高のゲームです。",
+        "price": "無料",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Sunderfolk - Standard Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "サンダーフォーク - スタンダード・エディション",
+        "price": "無料",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-05-15"
       }
     ],
     "bundle": [
       {
-        "title": "Build Your Own Indie Showcase Bundle",
+        "title": "Capcom クラシック バンドル GOG Edition",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -37,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
       },
       {
         "title": "Humblebundle for diablo 4",
@@ -49,7 +97,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
       },
       {
         "title": "Dungeon Baller Playtest available for May Humble Choice subscribers",
@@ -61,7 +109,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
       },
       {
         "title": "In how much time could Persona 3 Reload realistically be on Humble Bundle Choice?",
@@ -73,6 +121,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Build Your Own Indie Showcase Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
         "date": "2026-05-14"
       },
       {
@@ -194,18 +254,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-05-10"
-      },
-      {
-        "title": "Bundlefest - Build Your Own Arcane Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "収録: Death / Spellcaster University / Ambidextro / Rungore / Witchy Business / Somber Echoes / Stirring Abyss / Luck & Loot / Hand of Doom / More)",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-05-10"
       }
     ],
     "review": [
@@ -213,7 +261,7 @@
         "title": "【ghostpia シーズンツー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "room6のインディーゲームレーベル「ヨカゼ」は5月14日に、『ghostpia シーズンツー』の新しい映像を公開しました。この新作は、ファンからの期待を高める内容になっています。『ghostpia シーズンツー』は、ユーザーに新しい体験を提供するために、様々な要素が盛り込まれています。公開された映像では、新しいキャラクターと舞台が紹介されており、ゲームの世界観をより深く理解することができます。さ",
+        "description": "room6のインディーゲームレーベル「ヨカゼ」は5月14日、『ghostpia シーズンツー』の新しい映像を公開しました。このゲームはプレイヤーの想像力と探索心を刺激する内容で、ファンから大きな期待を集めています。公開された映像では、ゲームの世界やキャラクターが紹介されており、インディーゲームファンを楽しませること間違いなしです。『ghostpia シーズンツー』の発売日や詳細な情報については、近",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +271,10 @@
         "is_translated": false
       },
       {
-        "title": "「ゲーム開発者はSteamユーザーからの不評レビューに、あえて返信すべき」との知見が注目集める。“返信しない方がいい”レビューもあるけど",
+        "title": "【なし：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゲームデザイナーでマーケティングコンサルタントでもあるJoe Henson氏は、Steamレビューについて、いくつかの理由に基づいて、「否定的なレビューにもあえて返信すべき」という考えを示しています。ゲームの開発とマーケティングに携わる彼の視点から見ると、否定的なレビューに対しても返信することで、ゲームの改善やユーザーの満足度向上に寄与できるということです。また、否定的なレビューにも丁寧に返信する",
+        "description": "ゲームデザイナーであり、マーケティングコンサルタントでもあるJoe Henson氏は、Steamレビューについて、いくつかの理由に基づいて、「否定的なレビューにもあえて返信すべき」という考え方を示しています。Steamでは、ユーザーによるレビューがゲームの評価に大きな影響を与えます。Henson氏は、ゲーム開発者やパブリッシャーがユーザーの意見に耳を傾け、建設的なフィードバックを活用することで、ゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +287,7 @@
         "title": "【Party Animals：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Recreate Gamesは、人気ゲーム『Party Animals』をテーマにした「Golden Paw Awards」を開催すると発表しました。このコンテストでは、生成AIを使用した作品も募集しており、賛否両論が寄せられています。Game Awardsの様な雰囲気を醸し出すこのコンテストは、ゲーマーの間で大きな話題になっています。コンテストでは、作品の創造性やオリジナリティが評価されるため、",
+        "description": "Recreate Gamesは、人気ゲーム『Party Animals』をテーマにした「Golden Paw Awards」というコンテストを開催することを発表しました。このコンテストでは、AIを使用した創作作品を募集しているため、賛否両論が寄せられています。参加者は、自分だけのユニークな作品を作成し、賞に挑戦することができます。このコンテストは、クリエイティブな作品を生み出すための新しい機会とな",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +300,7 @@
         "title": "【The Greenening：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Erkberg氏は5月8日に『The Greenening』の配信を開始し、たちまちSteamユーザーレビューで「非常に好評」というステータスを獲得するなど、多くの人の注目を集めています。",
+        "description": "Erkberg氏は5月8日に『The Greenening』の配信を開始し、すぐにSteamユーザーレビューで「非常に好評」のステータスを獲得するなど、注目を集めています。 Erkberg氏のこの作品は、ゲームファンから高い評価を得ているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,15 +310,80 @@
         "is_translated": false
       },
       {
-        "title": "【Forza Horizon 6：レビュー】",
+        "title": "【不明：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "使い古されたトラックを走ります。",
+        "description": "このゲームは、プレイしていない人も名前だけは聞いたことがあるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-review/",
+        "url": "https://www.pcgamer.com/games/2011-was-packed-with-iconic-games-can-you-guess-which-ones-we-reviewed-from-a-quote-and-the-score/",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "もっと大きな海が必要かもしれない。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-pulls-over-370-000-concurrent-players-in-its-first-30-minutes-on-steam-as-it-cannonballs-into-early-access/",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "現在のところ、協力プレイ機能は少し不十分ですが、早期アクセス期間中にこれが改善されることを願っています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-multiplayer/",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Moss: The Forgotten Relic：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "VR 用に設計されたゲームが後から通常の画面でプレイできるように移植されるときは、常に一抹の悲しみが伴います。主な理由は、そのゲームが作られた技術的な領域が異なるからです。VR 用に作られたゲームは、プレイヤーを完全に没入させるために、スペースの概念や体の動きを活用しています。しかし、通常の画面でプレイするときは、その魅力を完全に再現することができません。ゲームの雰囲気や臨場感が失われ、プレイヤー",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/moss-the-forgotten-relic-is-a-shinier-vr-less-fusion-of-the-two-beloved-puzzle-platformers-thats-out-this-summer",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "オリジナルの Subnautica が早期アクセスになってから 10 年以上が経過しました。Unknown Worlds Entertainment という開発チームは、4 年間かけて新しい機能やバイオムを追加し、深海サバイバル ゲームを大幅に進化させました。この間、チームはさまざまなアップデートを繰り返し、プレイヤーのフィードバックを取り入れてゲームを改良していきました。開発チームの努力により、",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-will-probably-get-some-flack-subnautica-2-may-feel-polished-for-an-early-access-game-but-it-was-important-for-the-team-it-launched-unfinished",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Subnautica 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Subnautica 2は、2014年に早期アクセスがリリースされたオリジナルのSubnauticaと同様に、空気を奪うことで、しばしば辛辣なサバイバルジャンルに新鮮な命を吹き込みます。プレイヤーは、未知の海底世界でサバイバルするために、資源を集め、道具を製作し、海洋生物との遭遇を乗り越える必要があります。ゲームの世界は、美しくて危険な海底景観で満ちており、プレイヤーはそれに魅了されながらも、生存",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-seven-hours-in-early-access-subnautica-2-feels-more-like-a-remake-than-a-sea-quel-but-it-has-plenty-of-room-to-grow",
         "date": "2026-05-14",
         "is_translated": true
       },
@@ -278,7 +391,7 @@
         "title": "【Forza Horizo​​n 6：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "東京を飛び出して田舎へ飛び出すと、最初は水に浸かった水田に沿った平らで開けた田園地帯を走る道路が広がります。しかしすぐに、海岸沿いの高速道路に出ることになり、そこでは道が曲がりくねっています。",
+        "description": "東京から飛び出して 田舎へ向かいます。最初は、道路は水に浸かった水田に沿って、平らで開けた田園地帯を通っていきます。しかし、すぐに、曲がりくねった海岸沿いの高速道路に突き当たります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,62 +401,23 @@
         "is_translated": true
       },
       {
-        "title": "【Forza Horizon 6：レビュー】",
+        "title": "【Party Animals：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "Playground Games のレーシング ゲームは、Xbox と PC でプレイすることができますが、PS5 ではまだプレイできません。今までと同様に、ゲームの質は非常に高く、面白いです。近いうちに新しい変化が起こる可能性がありますが、現在のところはまだ以前と同じままです。",
+        "description": "Party Animals の開発者が生成 AI 必須のビデオ コンテストを発表した後、Party Animals のプレイヤーがゲームのレビューを大量に投稿し始めました。このコンテストでは、AI を使用して面白い動画を作成し、ゲームの魅力を披露することが求められています。開発者のこの企画は、プレイヤーから大きな反応を引き出し、ゲームの評価が一気に増えました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/forza-horizon-6-review/",
+        "url": "https://www.polygon.com/party-animals-ai-video-contest-review-bombing/",
         "date": "2026-05-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Warhammer 40,000: Mechanicus II：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "非常に高い評価を獲得したW40kビデオゲームの隠れた傑作「Warhammer 40,000: Mechanicus」のナンバリング続編として、2024年5月にアナウンスされた「Warhammer 40,000: Mechanicus 2」は、待望の続編です。ファンが期待するこのゲームは、前作の成功を基にしてさらに進化を遂げ、プレイヤーに新たな体験を提供することを目指しています。ゲームの詳細はまだ明",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166833.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Unknown Worlds は、コミュニティとの協力関係を再び築きたいと考えており、今後もコミュニティとの共同作業を通じてゲームを進化させていく予定です。コミュニティの意見やアイデアを取り入れることで、より多様で魅力的なゲームエクスペリエンスを作り上げることを目指しています。コミュニティとの協力は、Unknown Worlds のゲーム開発において非常に重要な要素であり、コミュニティのサポートと",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-devs-say-its-bigger-and-more-polished-than-any-of-the-studios-previous-early-access-launches/",
-        "date": "2026-05-13",
-        "is_translated": true
-      },
-      {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Subnautica 2 をプレイしてみましょう。自分のプレイシーンをビデオに収めて、それを私たちに送信してください。すると、素晴らしい賞品を獲得するチャンスが待っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/you-could-win-a-usd500-amazon-gift-card-by-playing-subnautica-2-this-month-so-remember-to-send-us-your-best-video-clips/",
-        "date": "2026-05-13",
         "is_translated": true
       },
       {
         "title": "【Subnautica 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Subnautica 2』の早期アクセス開始が間もなく訪れる中、この海洋サバイバルゲームの「非公式ビルド」がインターネット上に流出しています。興味深いのは、サイクロプス潜水艦のダメージが修復される様子が見られることです。穴が開いた艦がゆっくりと修復される様子を想像すると、ゲームのグラフィックやリアルさが伺えるでしょう。早期アクセスが開始されると、プレイヤーはこのようなグラフィックを直接体験できる",
+        "description": "『Subnautica 2』の早期アクセス開始まであと1～2日というところで、この海洋サバイバルゲームの「非公式ビルド」がインターネット上に流出しました。サイクロプス潜水艦の穴がゆっくりと埋まっていく様子を想像してみてください。このゲームでは、プレイヤーは海底世界を探索し、資源を集め、建造物を建設しながら、海洋の危険を乗り越える必要があります。早期アクセス版のリリースに伴い、多くのゲーマーがこのゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -351,33 +425,68 @@
         "url": "https://www.rockpapershotgun.com/unofficial-builds-of-subnautica-2-are-currently-circulating-online-unknown-worlds-confirm-just-days-before-the-ocean-survival-games-early-access-release",
         "date": "2026-05-13",
         "is_translated": true
-      },
-      {
-        "title": "【バトルスター ギャラクティカ: 散り散りになった希望：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "カプリカへのサイロン攻撃を生き延びた数少ない戦艦の一つであるガンスター シミター号には大きな問題がありました。ガンスター シミター号は、殲滅を目論む追撃ロボット軍団の前に立ち塞がる唯一の軍艦でした。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
-        "date": "2026-05-11",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Steam] レッド デッド リデンプション 2 ($14.99/75% オフ)",
+        "title": "メガセール：Dying Light、Alan Wake Remasteredほか",
+        "platform": "Epic Games",
+        "type": "sale",
+        "description": "Epic Gamesが開催するメガセールでは、人気ゲーム「Dying Light」や「Alan Wake Remastered」などの魅力的なタイトルが登場します。ゾンビが跋扈する都市でサバイバルする「Dying Light」は、高速のパルクールアクションと心霊的な恐怖が融合した独特のゲームプレイが楽しめます。一方、心理ホラーの傑作「Alan Wake Remastered」は、綿密なストーリーと緊張感溢れるゲームプレイが特徴です。 メガセールでは、これらのゲームに加えて、さまざまなジャンルのタイトルが大幅に値下げされます。アクションゲーム、ロールプレイングゲーム、シューティングゲームなど、各ジャンルのベストセラーが揃い、ゲーマーには夢のチャンスです。セール期間中は、様々なゲームを格安で手に入れることができ、プレイヤーのゲームライブラリを充実させることができます。 また、Epic Gamesのセールでは、通常価格よりも大幅に安くなったゲームを購入することができます。セール期間中は、プレイヤーが新しいゲームやシリーズに挑戦する機会となり、ゲームの世界をより深く楽しむことができます。メガセールは、ゲーム愛好家にとって大きな楽しみとなります。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[Steam] Case Files: Internal Affairs ($9.89 / 10% OFF)",
         "platform": "Steam",
         "type": "sale",
-        "description": "レッド デッド リデンプション 2 は、壮大なアメリカ西部を舞台にしたオープンワールドのアクションアドベンチャーゲームです。アーサー・モーガンという主人公が、1899年のアメリカ西部で最も危険な犯罪者の一員として生き残るために奮闘する様子を描きます。このゲームは、詳細に作られたゲーム世界や、キャラクターの豊かなストーリー、そして多様なミッションやアクティビティを提供しています。プレイヤーは、アメリカ西部の開拓時代の末期を体験し、馬を乗り回し、銃撃戦を繰り広げ、様々なキャラクターと出会い、壮大な冒険を楽しむことができます。グラフィックも非常に美しく、リアルな環境やキャラクターの表現が特徴です。現在、Steam で 75% オフの特価で提供中なので、ゲームファンにはおすすめのタイトルです。",
+        "description": "Steamでの限時セール期間中、人気ゲーム「Case Files: Internal Affairs」が10%オフになるという素晴らしい機会がやってきました。このゲームは、プレイヤーが警察内部の謎を解くために、捜査官となり、さまざまなミッションを遂行する必要があります。ゲームの世界は、現実の警察活動をベースにしており、プレイヤーは様々な事件や証拠を調査しながら、事件の真相を明らかにするためのヒントを探し出す必要があります。 このゲームの特徴は、実写映像を使用したグラフィックと、複雑で引き込むストーリーです。プレイヤーは、さまざまな人物と対話し、重要な証拠を集めながら、事件を解決するための重要な手がかりを発見します。さらに、ゲームの難易度は、初心者から上級者まで、幅広いレベルに対応しています。 このセール期間中、通常価格より10%割引になる「Case Files: Internal Affairs」は、ミステリーとアドベンチャーが好きなゲーマーにとって、絶好の購入機会です。Steamでこのゲームを購入し、警察活動の世界に飛び込んで、謎を解く楽しみを味わってください。",
         "price": "セール価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[Steam] レッド デッド リデンプション 2 ($14.99/75% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レッド デッド リデンプション 2は、Steamプラットフォームで現在75%オフの特価で提供されています。このゲームは、オープンワールドアクションアドベンチャーとして知られており、プレイヤーはアメリカ西部の広大な土地を探索できます。馬に乗って移動したり、ガンファイトに参加したり、様々なミッションをこなすことで、独自のストーリーを体験できます。 このゲームのグラフィックは、現代のゲーム機では最高峰のものと言えるほど美しく、臨場感が溢れています。キャラクターの動きや自然の風景、夜の星空までもが、リアルに表現されています。サウンドトラックも、西部劇の雰囲気を演出するのに役立ち、プレイヤーを時代にタイムスリップさせます。 レッド デッド リデンプション 2は、単にゲームをプレイするだけでなく、アメリカ西部の末期を体験することができます。ゲーム内のキャラクターとの交流や、地域の文化を感じることができるため、プレイヤーはより深いストーリーに没頭できます。現在、Steamで75%オフの特価で提供されているので、ゲームファンには絶好のチャンスです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[Steam] ボックスゾンビ (90% オフ) - 開発",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamプラットフォームで現在開催中のセールでは、感染者が溢れる世界で戦う「ボックスゾンビ」が90%オフで提供されています。通常価格より大幅に安くなっているこのタイトルは、ゾンビサバイバルゲームファンにとって見逃せない機会です。 ボックスゾンビでは、プレイヤーはゾンビの襲撃から逃れ、資源を集め、自分の拠点を守りながら生き残るために戦い続ける必要があります。様々なアイテムや武器を使用して、無数のゾンビを倒し、生き残るためのスキルを磨きます。 このゲームは、簡単なグラフィックながらも、ゾンビの動きや攻撃がリアルに表現されており、緊張感のあるゲームプレイを体験できます。さらに、ゲームのシステムは、プレイヤーに戦略性と即応性を要求し、常に集中してプレイする必要があります。 セール期間中は、通常価格より大幅に安くなっていますので、ぜひこの機会に「ボックスゾンビ」を購入し、ゾンビとの戦いを体験してください。Steamユーザーの皆さんに、激烈なゾンビバトルを楽しんでいただけることを願っています。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[Steam] バスドライバー ($0.59/80% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バスドライバーは、ユニークなゲーム体験を提供するタイトルです。このゲームでは、プレイヤーはバス運転手となり、さまざまなルートを運転して乗客を乗せ、降ろしていきます。リアルなグラフィックスと detalied なゲームシステムが実現し、プレイヤーはまるで実際のバスを運転しているような感覚を体験できます。 このゲームの特徴は、さまざまな天候や時間帯での運転が可能であり、プレイヤーはさまざまな環境でバスを運転するスキルを身につけることができます。また、ゲーム内にはさまざまなバスモデルが用意されており、プレイヤーは好みのバスを選んで運転することができます。 現在、Steam で 80% オフの特価で提供されています。通常価格より大幅に安く購入できるこの機会を逃さないでください。バスドライバーは、ユニークなゲーム体験を求めるゲーマーにとって、絶対に楽しめるタイトルです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-05-15"
       },
       {
         "title": "[Steam] Doom シリーズ セール (90% オフ)",
@@ -558,54 +667,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-05-11"
-      },
-      {
-        "title": "[Steam] ハート オブ エタニティ ($1.59/80% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームで現在、魅力的なゲームセールが行われています。『ハート オブ エタニティ』というタイトルのこのゲームは、通常価格からの80%オフという驚くべき割引で提供されています。現在、価格はわずか$1.59と非常に安価です。 このゲームのタイトルから、エタニティという時間や宇宙の永遠性をテーマにした内容が想像されます。ハートという言葉が含まれていることから、ドラマティックなストーリーや深い感情を掘り下げた物語が含まれている可能性が高いでしょう。 このような魅力的なゲームを手にいれる機会は滅多にありません。ファンタジー、ロマンス、冒険など、様々なジャンルの要素が盛り込まれた『ハート オブ エタニティ』は、プレイヤーの心を掴むことでしょう。 Steamでこのゲームを購入し、永遠の物語に没頭することができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "[Humble Store] コードヴェイン 2 デラックスの価格設定エラー (90% オフ)",
-        "platform": "Humble Bundle",
-        "type": "sale",
-        "description": "Humble Storeでは、現在「コードヴェイン 2 デラックス」の価格設定エラーにより、90% オフの特価で提供されています。通常価格よりも大幅に安くなっており、ゲーマーには夢のようなチャンスです。このアクションアドベンチャーゲームは、美麗なグラフィックとスピーディなアクションを兼ね備えています。プレイヤーは、さまざまな能力を駆使して、壮大な世界を冒険することができます。さらに、「デラックス」エディションには、追加のコンテンツやアイテムが含まれており、ゲームの楽しみを倍増させます。価格設定エラー期間中は、通常よりも大幅に安い価格でこの優れたゲームを手に入れることができるので、気になるゲーマーは早速チェックしてみてください。この機会を逃さないで、激アツなアクションと壮大な冒険の世界を体験してみましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-05-09"
-      },
-      {
-        "title": "[Steam] WARDRUM ($15.99/ローンチ割引 20% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "WARDRUMは、Steamでローンチされた新しいゲームです。このゲームは、通常価格$15.99ですが、現在ローンチ記念で20%オフのキャンペーン中です。プレイヤーは、戦争の最中のドラムの音に導かれ、戦場を駆け抜ける必要があります。WARDRUMは、独特のサウンドシステムを搭載しており、ドラムのリズムに合わせてプレイヤーの行動が変化します。ドラムの音に合わせてジャンプしたり、攻撃したりすることで、敵を倒し、ステージをクリアすることができます。WARDRUMのグラフィックは、美しい水彩画のようなデザインで、戦争の荒涼とした雰囲気を漂わせています。プレイヤーは、ドラムの音に合わせて戦場を駆け抜け、敵を倒し、ステージをクリアすることで、WARDRUMの世界を体験することができます。WARDRUMは、新しいゲームプレイシステムと美しいグラフィックで、プレイヤーを魅了するゲームです。ローンチ割引の20%オフのキャンペーン中なので、気になるプレイヤーはすぐにチェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-08"
-      },
-      {
-        "title": "[Steam] ハングリー ホラーズ ($9.09/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ハングリー ホラーズは、Steamで現在30%オフの9.09ドルで販売中です。このゲームは、ユニークなホラーゲームの要素と、アクションパズル要素を組み合わせた、独特のゲームプレイを提供します。恐ろしいキャラクターたちが登場するこのゲームでは、プレイヤーは緊張感と恐怖を感じながら、謎を解き、難しいステージをクリアしていきます。 ハングリー ホラーズの世界は、不気味で幻想的な環境が特徴です。プレイヤーは、恐ろしい敵と戦いながら、秘密の部屋を発見し、隠されたアイテムを集めていきます。ゲームのグラフィックは、細部までこだわったデザインが特徴で、ホラーな雰囲気をより一層高めています。 このゲームは、ホラーゲームファンや、アクションパズルゲームを好むユーザーにとって、絶対に試してみるべきタイトルです。現在、Steamでのセールで30%オフの9.09ドルで販売中なので、興味を持ったユーザーはこの機会に購入してみることをお勧めします。ハングリー ホラーズでは、ユニークなゲームプレイと不気味な雰囲気が待っています。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-05-07"
       }
     ]
   },
@@ -663,5 +724,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-14T13:46:57.792545"
+  "last_updated": "2026-05-15T03:48:17.091724"
 }

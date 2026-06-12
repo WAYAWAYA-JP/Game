@@ -5,7 +5,7 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros Kingは、チェスの戦略的な奥深さと、ローグライクのビルドの多様性、そして高いリプレイ性を兼ね備えたゲームです。強大な軍隊を編成し、強力な遺物を発見し、驚くべきアイテムを購入して、カヴンを倒しましょう。戦略的な思考と、ビルドの自由度が高く、プレイヤーは様々な戦略を試すことができます。",
+        "description": "Ouroboros King は、チェスの戦略的な奥深さと、ローグライクのビルドの多様性とリプレイ性を兼ね備えたゲームです。このゲームでは、プレイヤーは恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、強大な敵であるカヴンを倒すことを目指します。戦略的思考とビルドの多様性を組み合わせたこのゲームは、プレイヤーにリプレイ性の高いゲーム体験を提供します。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー40,000のユニバースを舞台に、高オクタン価の戦車レースが繰り広げられる。壮大な宇宙の戦場で、恐ろしい戦車が激突する。ウォーハンマー40,000のファンは、戦車レースの世界に没頭し、戦車のカスタマイズや強化を楽しむことで、自分だけの戦車を創造できる。レース中、戦車は激しく戦い、破壊と混乱を巻き起こす。ウォーハンマー40,000ユニバースの特徴的な世界観と、戦車レースのスリルを融合させた、このゲームは、ウォーハンマー40,000のファンやレースゲームの愛好家にとって、必見の作品である。",
+        "description": "ウォーハンマー40,000のユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられます。激しいバトルやスピードに溢れるレースで、アドレナリンが爆発するような体験が待っています。ウォーハンマー40,000の世界では、強大な兵器や装甲車が登場し、プレイヤーはこれらの戦闘マシンを駆り、レースの勝利を目指します。レースの中では、戦略的な攻撃や防御が重要になるため、プレイヤーは戦闘レースの醍醐味を味わうことができます。ウォーハンマー40,000のユニバースは、ファンタジーとSFの要素を融合させたユニークな世界です。ここでは、プレイヤーは戦闘レースを通じて、この世界の魅力を体験することができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Best of Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "収録: in 2 / More)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-06-12"
+      },
       {
         "title": "Build Your Own Onyx Bundle",
         "platform": "Fanatical",
@@ -194,26 +206,66 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-03"
-      },
-      {
-        "title": "OCTOPATH TRAVELER IIやThe Riftbreakerが登場",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-03"
       }
     ],
     "review": [
       {
+        "title": "【SpaceCraft：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "多くのプレイヤーを集めることで大きな盛況を見せているものの、ゲームのジャンルである「MMO」が主な要因となってユーザー評価は割れているようだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/spacecraft-20260612-449486/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Pigeon: A Love Story：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Wristworkは6月11日、ユニークな鳩シミュレーションゲーム『Pigeon: A Love Story』の新しい体験版をリリースしました。このゲームでは、鳩を操作して自由に飛行したり、鳩の日常生活を体験したりすることができます。プレイヤーは、鳩が住む街の中を飛び回り、鳩の視点から世界を見て、新しい魅力的な体験をすることができます。新しい体験版では、ゲームの世界やシステムがより詳細に表現されて",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260612-449452/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
+        "title": "【プラトニカ・スペース：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "KAMITSUBAKI STUDIOは6月12日、「プラトニカ・スペース」の体験版を期間限定で配信を開始しました。この体験版では、プレイヤーがゲームの世界観や操作感を事前に 체험できるようになっています。期間限定の配信ということで、興味がある方はお早めにチェックしてみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260612-449441/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
+        "title": "【The Red Lantern：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Kepler Interactiveは6月12日から、『The Red Lantern』を無料で配布している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260612-449429/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
         "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Staffer Retro: 超能力推理クエスト』の体験版に、新しい2章が追加されます。これは、「Steam Nextフェス」期間中のみ利用可能です。この新しい体験版を先行して遊んでみました。",
+        "description": "『Staffer Retro: 超能力推理クエスト』の体験版に、新たな2章が追加されます。これは、「Steam Nextフェス」期間中のみに限られる特別なアップデートです。通常の体験版よりもさらに多くのコンテンツを楽しむことができ、ゲームの魅力をより深く感じることができます。この期間限定の体験版で、超能力を駆使して謎を解き明かす、ゲームのワールドを先行体験してみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,56 +275,17 @@
         "is_translated": false
       },
       {
-        "title": "【Kebab Chefs!：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【神楽鉢：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Biotech Gameworksは6月12日、面白いレストラン経営シミュレーションゲーム『Kebab Chefs! - レストラン経営シミュレーター』を正式にリリースしました。このゲームでは、プレイヤーがシェフになり、レストランを経営するという設定で、さまざまな料理を作り、客を楽しませながら、レストランの繁栄を目指します。簡単な操作で様々なケバブを作り、レストランを成功させるために様々な施設を整",
+        "description": "今後の神楽鉢アニメで六平千尋を初めて見ます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260612-449384/",
+        "url": "https://www.polygon.com/kagurabachi-anime-trailer-chihiro/",
         "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ギャリー邸事件：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Evil Troutは、William Rous氏と共作となるパズルミステリー『ギャリー邸事件』のリリースを7月14日に発表しました。本作は、2025年にリリースされ、高い評価を獲得した『Type Help』のリメイク作品です。『Type Help』は、プレイヤーから高い評価を受け、注目を集めた作品で、本作『ギャリー邸事件』も同様の魅力を持ちます。リリースの発表に伴い、ファンやプレイヤーの期待が高",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-incident-at-galley-house-20260611-449228/",
-        "date": "2026-06-11",
-        "is_translated": false
-      },
-      {
-        "title": "【サイバーパンク配達ゲーム：レビュー】 \n【ゾンビ世界子育てサバイバル：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ニンテンドーeショップでは6月11日、Nintendo Switch 2とNintendo Switch向けの約550本のタイトルを対象とした新しいセールが開始されました。このセールでは、さまざまなジャンルのゲームが割引価格で提供されます。人気タイトルから隠れた名作まで、様々なゲームを安価でプレイできるチャンスです。セールの対象となるタイトルは約550本と豊富で、ゲーマーにとってはお得な機会となっ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260611-449190/",
-        "date": "2026-06-11",
-        "is_translated": false
-      },
-      {
-        "title": "【レイジーウィッチーズファクトリー：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Phoenixxは6月11日、ローグライト工場ビルダーゲーム『Lazy Witch's Factory レイジーウィッチーズファクトリー』の体験版を配信しました。このゲームでは、プレイヤーは魔女の工場を運営し、さまざまなアイテムを生産して成長を目指します。体験版をプレイすることで、ゲームの世界観やシステムを先行で体験できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260611-449168/",
-        "date": "2026-06-11",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "【Halo：レビュー】",
@@ -288,10 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【トゥームレイダー：リメイク】",
+        "title": "【トゥームレイダー：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "1996 年のゲームの遺産は、30 年前にこのゲームを実際に際立たせていたものの輝きを遮っています。",
+        "description": "1996 年のゲームの遺産は、30 年前にこのゲームを実際に際立たせていたものの輝きを奪っているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,39 +317,13 @@
         "title": "【Starseeker: Astroneer Expeditions：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？前回、私が Starseeker: Astroneer Expeditions に興味を持ったとき、これは通常の Astroneer のスピンオフのようなもので、まだ最初のゲームプレイの一部を紹介したばかりでした。宇宙を冒険するというコンセプトはとても魅力的で、様々な星を探索し、資源を集め、宇宙ステーションを建設するという内容は、宇宙旅行の夢を叶えるよ",
+        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？前回、私が Starseeker: Astroneer Expeditions に注目したとき、このゲームは通常の Astroneer のスピンオフのようなもので、まだ最初のゲームプレイをいくつか紹介したばかりでした。宇宙を冒険することに憧れる人たちにとって、こちらのゲームはとても魅力的です。 Astroneer Expeditions は、プレイヤー",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/starseeker-astroneer-expeditions-blasts-off-into-early-access-today-with-a-full-planet-ready-for-you-to-explore",
         "date": "2026-06-11",
-        "is_translated": true
-      },
-      {
-        "title": "【ギルド ウォーズ 3：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ギルド ウォーズまたはその続編をプレイしたことがある方なら、ティリアという土地が神のいない場所であることをご存知でしょう。以前はそうではありませんでしたが、2005 年のオリジナル MMO の出来事より 1200 年以上前に、神はこの土地から姿を消しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-guild-wars-games-have-always-been-set-in-a-world-abandoned-by-the-gods-in-new-mmo-guild-wars-3-youll-see-why-they-left",
-        "date": "2026-06-09",
-        "is_translated": true
-      },
-      {
-        "title": "謎に満ちたデモをプレイすると、釣り以外のすべてが魅力的であることがわかります。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今朝は、釣り人探偵ミステリー「About Fishing」の新しいデモをプレイしました。昨年Oisinが試したサンプラーを更新し拡張したものです。このデモはプレイアブルマークの一部として提供されています。新しいデモでは、ゲームの世界やキャラクターをより詳細に体験できるようになっています。釣り人探偵としての活躍や、ミステリーを解決するための謎解きも楽しめます。ゲームのストーリーやシステムもより深く理",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/playing-its-mystery-drenched-demo-suggests-ill-like-everything-about-about-fishing-except-the-fishing",
-        "date": "2026-06-09",
         "is_translated": true
       }
     ],
@@ -637,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-12T04:18:12.258921"
+  "last_updated": "2026-06-12T14:35:43.001723"
 }

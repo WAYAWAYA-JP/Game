@@ -5,25 +5,25 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros Kingは、チェスの戦略的な奥深さと、ローグライクのビルドの多様性およびリプレイ性を兼ね備えたユニークなゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、カヴンを倒すことを目指します。チェスの戦略的な思考とローグライクの要素が融合したこのゲームでは、毎回新しいビルドを体験することができ、リプレイ性も非常に高くなっています。強力なアイテムを集め、戦略的な戦闘を楽しんで、カヴンを倒してみましょう。",
+        "description": "Ouroboros Kingは、チェスの戦略的な奥深さと、ローグライクのビルドの多様性、そして高いリプレイ性を兼ね備えたゲームです。強大な軍隊を編成し、強力な遺物を発見し、驚くべきアイテムを購入して、カヴンを倒しましょう。戦略的な思考と、ビルドの自由度が高く、プレイヤーは様々な戦略を試すことができます。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       },
       {
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー40,000ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられるゲームです。戦争と政治、テクノロジーと魔法が混在する暗い未来世界で、プレイヤーはさまざまな種族や勢力のキャラクターとなり、戦闘を通じて勝利を目指します。ゲームでは、戦車や航空機、兵士などのユニットを駆使して戦略的に戦闘を進めます。ウォーハンマー40,000ユニバースの独特の世界観と、戦闘レースの要素が融合したこのゲームは、ファンタジーとSFが好きなゲーマーにとって魅力的です。",
+        "description": "ウォーハンマー40,000のユニバースを舞台に、高オクタン価の戦車レースが繰り広げられる。壮大な宇宙の戦場で、恐ろしい戦車が激突する。ウォーハンマー40,000のファンは、戦車レースの世界に没頭し、戦車のカスタマイズや強化を楽しむことで、自分だけの戦車を創造できる。レース中、戦車は激しく戦い、破壊と混乱を巻き起こす。ウォーハンマー40,000ユニバースの特徴的な世界観と、戦車レースのスリルを融合させた、このゲームは、ウォーハンマー40,000のファンやレースゲームの愛好家にとって、必見の作品である。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       },
       {
         "title": "Stealthyshiroean's Humble Choice June 2026 Review",
@@ -210,10 +210,36 @@
     ],
     "review": [
       {
+        "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Staffer Retro: 超能力推理クエスト』の体験版に、新しい2章が追加されます。これは、「Steam Nextフェス」期間中のみ利用可能です。この新しい体験版を先行して遊んでみました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/staffer-retro-20260612-449319/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Kebab Chefs!：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Biotech Gameworksは6月12日、面白いレストラン経営シミュレーションゲーム『Kebab Chefs! - レストラン経営シミュレーター』を正式にリリースしました。このゲームでは、プレイヤーがシェフになり、レストランを経営するという設定で、さまざまな料理を作り、客を楽しませながら、レストランの繁栄を目指します。簡単な操作で様々なケバブを作り、レストランを成功させるために様々な施設を整",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260612-449384/",
+        "date": "2026-06-12",
+        "is_translated": false
+      },
+      {
         "title": "【ギャリー邸事件：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Evil Troutは、William Rous氏と共作した『ギャリー邸事件』を7月14日にリリースすると発表しました。本作は、2025年にリリースされ、高く評価されたパズルミステリー『Type Help』のリメイク作品です。開発チームはオリジナル作品の魅力を維持しながら、新しい要素を加えて、より豊かで楽しい体験を提供することを目指しています。『ギャリー邸事件』は、ユーザーに新たな挑戦と楽しみを提",
+        "description": "Evil Troutは、William Rous氏と共作となるパズルミステリー『ギャリー邸事件』のリリースを7月14日に発表しました。本作は、2025年にリリースされ、高い評価を獲得した『Type Help』のリメイク作品です。『Type Help』は、プレイヤーから高い評価を受け、注目を集めた作品で、本作『ギャリー邸事件』も同様の魅力を持ちます。リリースの発表に伴い、ファンやプレイヤーの期待が高",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "【サイバーパンク配達ゲーム：レビュー】 \n【ゾンビ世界子育てサバイバル：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ニンテンドーeショップでは6月11日より、Nintendo Switch 2とNintendo Switch向けの約550本のタイトルを対象とした新しいセールが開始されました。このセールでは、様々なジャンルのゲームが割引されるので、ゲーマーにとってはお得な機会になります。セール対象のタイトルは多数あり、ファンが待ちに待った人気作品から、注目される新作まで幅広いラインナップが用意されています。セール",
+        "description": "ニンテンドーeショップでは6月11日、Nintendo Switch 2とNintendo Switch向けの約550本のタイトルを対象とした新しいセールが開始されました。このセールでは、さまざまなジャンルのゲームが割引価格で提供されます。人気タイトルから隠れた名作まで、様々なゲームを安価でプレイできるチャンスです。セールの対象となるタイトルは約550本と豊富で、ゲーマーにとってはお得な機会となっ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +265,7 @@
         "title": "【レイジーウィッチーズファクトリー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Phoenixxは6月11日、ローグライト工場ビルダーゲーム『Lazy Witch's Factory レイジーウィッチーズファクトリー』の体験版を配信しました。このゲームでは、プレイヤーはウィッチの工場を運営し、様々なアイテムを製作して売却します。工場を効率よく運営するために、機械や設備を適切に配置して管理する必要があります。また、ゲームにはローグライト要素もあり、各プレイ通過に異なる体験ができ",
+        "description": "Phoenixxは6月11日、ローグライト工場ビルダーゲーム『Lazy Witch's Factory レイジーウィッチーズファクトリー』の体験版を配信しました。このゲームでは、プレイヤーは魔女の工場を運営し、さまざまなアイテムを生産して成長を目指します。体験版をプレイすることで、ゲームの世界観やシステムを先行で体験できます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,28 +275,41 @@
         "is_translated": false
       },
       {
-        "title": "【Forza Horizon：レビュー】",
-        "platform": "Polygon",
+        "title": "【Halo：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Polygon の最近のプレビューによると、元 Forza Horizo​​n 開発者による 2027 年に予定されているオープンワールド レーシング ゲーム「Clutch」は、レーシング ゲーム ジャンルに新たな風をもたらす可能性があります。このゲームは、レーシング ゲーム ファンにとって、革新的な体験を提供することが期待されています。",
+        "description": "異なりますが、必ずしも優れているわけではありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/clutch-preview-summer-game-fest-2026/",
+        "url": "https://www.pcgamer.com/games/fps/i-watched-the-new-halo-remake-gameplay-then-replayed-the-original-to-nitpick-the-differences/",
         "date": "2026-06-11",
         "is_translated": true
       },
       {
-        "title": "【Stranger Than Heaven：レビュー】",
-        "platform": "Polygon",
+        "title": "【トゥームレイダー：リメイク】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "私たちは『Stranger Than Heaven』を最初のプレイに試し、その革新的な戦闘へのアプローチに驚いてしまいました。独創的なシステムと新しい試みに注目が集まるこのゲームは、プレイヤーを新しい世界に引き込む魅力を持っています。ゲームの世界観とキャラクターの深みも、プレイヤーを引き付ける要因のひとつです。ストーリーやキャラクターの開発にも力を入れていることがわかります。ゲームのグラフィックや",
+        "description": "1996 年のゲームの遺産は、30 年前にこのゲームを実際に際立たせていたものの輝きを遮っています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/stranger-than-heaven-summer-game-fest-preview/",
+        "url": "https://www.pcgamer.com/games/action/after-playing-the-new-remake-of-tomb-raider-im-convinced-you-cant-actually-remake-tomb-raider/",
+        "date": "2026-06-11",
+        "is_translated": true
+      },
+      {
+        "title": "【Starseeker: Astroneer Expeditions：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？前回、私が Starseeker: Astroneer Expeditions に興味を持ったとき、これは通常の Astroneer のスピンオフのようなもので、まだ最初のゲームプレイの一部を紹介したばかりでした。宇宙を冒険するというコンセプトはとても魅力的で、様々な星を探索し、資源を集め、宇宙ステーションを建設するという内容は、宇宙旅行の夢を叶えるよ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/starseeker-astroneer-expeditions-blasts-off-into-early-access-today-with-a-full-planet-ready-for-you-to-explore",
         "date": "2026-06-11",
         "is_translated": true
       },
@@ -278,7 +317,7 @@
         "title": "【ギルド ウォーズ 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ギルド ウォーズまたはその続編をプレイしたことがある方なら、ティリアという土地が神のいない場所であることをご存知でしょう。以前はそうではありませんでしたが、2005 年のオリジナル MMO の出来事より 1200 年以上前に、神はこの世界から姿を消しました。この出来事は、ティリアの歴史を大きく変えるものでした。神の消失により、世界は大きな変化を遂げ、現在の姿になったのです。ギルド ウォーズの世界は",
+        "description": "ギルド ウォーズまたはその続編をプレイしたことがある方なら、ティリアという土地が神のいない場所であることをご存知でしょう。以前はそうではありませんでしたが、2005 年のオリジナル MMO の出来事より 1200 年以上前に、神はこの土地から姿を消しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,10 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "謎に満ちたデモをプレイすると、魚を釣る以外のほぼすべてのことが好きになることがわかります。",
+        "title": "謎に満ちたデモをプレイすると、釣り以外のすべてが魅力的であることがわかります。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今朝は、釣り人探偵ミステリー「About Fishing」の新しいデモをプレイしました。Oisin が昨年試したサンプラーを更新し拡張したものです。これは、プレイアブルマークの一部として提供されています。このデモでは、プレイヤーは釣り人探偵となり、ミステリーを解決するために様々なヒントを探し出す必要があります。新しいデモでは、グラフィックやサウンドが大幅に改善されており、より臨場感のあるゲーム体験",
+        "description": "今朝は、釣り人探偵ミステリー「About Fishing」の新しいデモをプレイしました。昨年Oisinが試したサンプラーを更新し拡張したものです。このデモはプレイアブルマークの一部として提供されています。新しいデモでは、ゲームの世界やキャラクターをより詳細に体験できるようになっています。釣り人探偵としての活躍や、ミステリーを解決するための謎解きも楽しめます。ゲームのストーリーやシステムもより深く理",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -598,5 +637,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-11T15:36:22.008282"
+  "last_updated": "2026-06-12T04:18:12.258921"
 }

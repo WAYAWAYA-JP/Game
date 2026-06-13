@@ -5,25 +5,25 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros King は、チェスの戦略的な奥深さと、ローグライクのビルドの多様性とリプレイ性を兼ね備えたゲームです。このゲームでは、プレイヤーは恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、強大な敵であるカヴンを倒すことを目指します。戦略的思考とビルドの多様性を組み合わせたこのゲームは、プレイヤーにリプレイ性の高いゲーム体験を提供します。",
+        "description": "Ouroboros King は、チェスの戦略的な奥深さと、ローグライクのビルドの多様性とリプレイ性を兼ね備えたユニークなゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入することで、カヴンを倒すことを目指します。チェスの戦略とローグライクの要素が融合したこのゲームでは、プレイヤーはさまざまなビルドを試して、自分の戦略を磨くことができます。強力な遺物や道具を手に入れることで、プレイヤーは戦闘に勝利し、カヴンを打ち倒すことができます。Ouroboros King は、戦略と冒険が好きなゲーマーにとって、最高の体験を提供するゲームです。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-12"
+        "date": "2026-06-13"
       },
       {
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー40,000のユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられます。激しいバトルやスピードに溢れるレースで、アドレナリンが爆発するような体験が待っています。ウォーハンマー40,000の世界では、強大な兵器や装甲車が登場し、プレイヤーはこれらの戦闘マシンを駆り、レースの勝利を目指します。レースの中では、戦略的な攻撃や防御が重要になるため、プレイヤーは戦闘レースの醍醐味を味わうことができます。ウォーハンマー40,000のユニバースは、ファンタジーとSFの要素を融合させたユニークな世界です。ここでは、プレイヤーは戦闘レースを通じて、この世界の魅力を体験することができます。",
+        "description": "ウォーハンマー40,000ユニバースを舞台に繰り広げられる、ハイオクタン価を持った戦闘レースが登場します。ウォーハンマー40,000の世界では、宇宙を舞台に様々な種族が争い合っています。そのような世界観を背景に、ハイオクタン価の戦闘レースが繰り広げられます。レースには様々な種族が参加し、それぞれが独自の戦闘スタイルや戦闘車両を使用して戦います。エリートな戦士達が集うこのレースでは、スピードと戦闘能力を兼ね備えた車両が重要な役割を果たします。ウォーハンマー40,000ユニバースのファンなら必見の戦闘レースを体験してみてください。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-12"
+        "date": "2026-06-13"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-06-12"
+        "date": "2026-06-13"
       },
       {
         "title": "Build Your Own Onyx Bundle",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【Puni the Florist：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "デベロッパーのEarthquack Gamesは6月8日、花屋シム『Puni the Florist』を配信しました。本作は高い評価率を維持しながら、じわじわと好評を集めています。花屋を舞台に繰り広げられるユニークなシミュレーションは、多くのゲーマーの心を掴んでいます。高い評価率は、ゲームの魅力と遊びやすさを証明しています。本作をプレイすることで、ゲーマーは花屋を経営する楽しさを体験できるほか、さ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260613-449553/",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
         "title": "【SpaceCraft：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "多くのプレイヤーを集めることで大きな盛況を見せているものの、ゲームのジャンルである「MMO」が主な要因となってユーザー評価は割れているようだ。",
+        "description": "このゲームは、多くのプレイヤーを集めることには成功しているようですが、MMOとしての要素が評価を二分しているようです。多くのユーザーが参加しているにもかかわらず、評価の割合はバラバラで、ゲームのMMOという側面が主な要因となっているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【Pigeon: A Love Story：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Wristworkは6月11日、ユニークな鳩シミュレーションゲーム『Pigeon: A Love Story』の新しい体験版をリリースしました。このゲームでは、鳩を操作して自由に飛行したり、鳩の日常生活を体験したりすることができます。プレイヤーは、鳩が住む街の中を飛び回り、鳩の視点から世界を見て、新しい魅力的な体験をすることができます。新しい体験版では、ゲームの世界やシステムがより詳細に表現されて",
+        "description": "Wristworkは6月11日、ユニークな鳩シミュレーションゲーム『Pigeon: A Love Story』の新しい体験版を配信しました。このゲームでは、鳩の世界を体験し、愛を探すという不思議なストーリーを楽しむことができます。新しい体験版では、ゲームの世界にさらに深く潜り込み、鳩の生活をより detal的に体験できるようになりました。ゲーマーは、鳩の視点から世界を見て、新しい友達を作り、愛を探",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【プラトニカ・スペース：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "KAMITSUBAKI STUDIOは6月12日、「プラトニカ・スペース」の体験版を期間限定で配信を開始しました。この体験版では、プレイヤーがゲームの世界観や操作感を事前に 체험できるようになっています。期間限定の配信ということで、興味がある方はお早めにチェックしてみてください。",
+        "description": "KAMITSUBAKI STUDIOは6月12日、『プラトニカ・スペース』の期間限定体験版を配信開始しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +265,7 @@
         "title": "【The Red Lantern：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Kepler Interactiveは6月12日から、『The Red Lantern』を無料で配布している。",
+        "description": "Kepler Interactiveは6月12日から、アドベンチャーゲーム『The Red Lantern』を無料で配布し始めました。このゲームでは、北極圏で犬ぞりのクルーとして活躍する女性の物語が描かれています。プレイヤーは、厳しい自然環境の中でサバイバルをしながら、犬たちとの絆を深め、北極圏の美しい景色を堪能することができます。『The Red Lantern』の無料配布は、期間限定であるため",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,28 +275,54 @@
         "is_translated": false
       },
       {
-        "title": "【Staffer Retro: 超能力推理クエスト：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Staffer Retro: 超能力推理クエスト』の体験版に、新たな2章が追加されます。これは、「Steam Nextフェス」期間中のみに限られる特別なアップデートです。通常の体験版よりもさらに多くのコンテンツを楽しむことができ、ゲームの魅力をより深く感じることができます。この期間限定の体験版で、超能力を駆使して謎を解き明かす、ゲームのワールドを先行体験してみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/staffer-retro-20260612-449319/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【神楽鉢：レビュー】",
+        "title": "【Blood Message：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "今後の神楽鉢アニメで六平千尋を初めて見ます。",
+        "description": "NetEase の Blood Message は、残忍な戦闘に傾いたデモと印象的なワンショット プレゼンテーションで、Summer Game Fest で大きな感銘を与えました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/kagurabachi-anime-trailer-chihiro/",
+        "url": "https://www.polygon.com/blood-message-preview-summer-game-fest/",
+        "date": "2026-06-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Sea of​​ Remnants：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "NetEase の最新作「Sea of​​ Remnants」は、海賊をテーマにしたアクションアドベンチャーゲームです。このゲームは、プレイヤーが海賊となり、広大な海を航海し、島や海賊船を探索する内容です。プレイヤーは、さまざまな武器やスキルを駆使して、海賊同盟や海軍と戦い、海賊の頂点を目指します。また、ゲームは、美麗な海洋の風景や detalされたキャラクターデザインを特徴とし、プレイヤーに海賊",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sea-of-remnants-summer-game-fest-preview/",
+        "date": "2026-06-12",
+        "is_translated": true
+      },
+      {
+        "title": "【バットマン2：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マット・リーヴスの『ザ・バットマン パート2』では、セバスチャン・スタンが演じる連続殺人犯のヴィクター・ザーズと、新たなトゥーフェイスが主要な悪役として登場する可能性があります。トゥーフェイスは、コインを投げて意思決定を行う二面性のあるキャラクターとして知られており、バットマンの世界では重要なヴィランの1人です。ヴィクター・ザーズは、残忍な手口で知られる連続殺人犯であり、バットマンを苦しめる強大な",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-batman-part-2-villain-sebastian-stan-brian-tyree-henry/",
+        "date": "2026-06-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Summer Game Fest 2026：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "今年のSummer Game Festでは、今後発売されるゲームをたくさんプレイすることができました。その中から私たちが特に印象に残った10のゲームをご紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-games-summer-game-fest-2026/",
         "date": "2026-06-12",
         "is_translated": true
       },
@@ -304,7 +343,7 @@
         "title": "【トゥームレイダー：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "1996 年のゲームの遺産は、30 年前にこのゲームを実際に際立たせていたものの輝きを奪っているようです。",
+        "description": "1996 年のゲームの遺産は、30 年前にこのゲームを実際に際立たせていたものに比べると、少し影が薄れています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +356,7 @@
         "title": "【Starseeker: Astroneer Expeditions：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？前回、私が Starseeker: Astroneer Expeditions に注目したとき、このゲームは通常の Astroneer のスピンオフのようなもので、まだ最初のゲームプレイをいくつか紹介したばかりでした。宇宙を冒険することに憧れる人たちにとって、こちらのゲームはとても魅力的です。 Astroneer Expeditions は、プレイヤー",
+        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？私は前回、Starseeker: Astroneer Expeditionsにチェックインしました。当時の私は、通常のAstroneerのスピンオフのようなものだと思っていたのですが、まだ最初のゲームプレイをいくつか披露したばかりでした。そのときの感想を思い出しながら、もう一度このゲームに触れてみました。宇宙の未知なる世界を探索するというテーマは、多く",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -624,5 +663,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-12T14:35:43.001723"
+  "last_updated": "2026-06-13T04:06:30.507886"
 }

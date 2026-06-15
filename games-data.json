@@ -5,25 +5,25 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros Kingは、チェスの戦略的な奥深さとローグライクのビルドの多様性、そしてリプレイ性を兼ね備えたゲームです。恐ろしい軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、強大な敵カヴンを倒しましょう。戦略的な思考とローグライクの自由度が合わさったこのゲームで、プレイヤーのスキルと戦略が試されます。さまざまなビルドや戦術を試して、勝利を目指してみましょう。",
+        "description": "Ouroboros Kingは、チェスの戦略的な奥深さとローグライクのビルドの多様性、そしてリプレイ性を兼ね備えた魅力的なゲームです。このゲームでは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して強敵カヴンを倒すことができます。チェスとローグライクの要素が融合したこのゲームは、プレイヤーに幅広い戦略とビルドの選択肢を提供し、リプレイ性も非常に高くなっています。プレイヤーは、自分の戦略とビルドを駆使して、カヴンを倒し、ゲームをクリアすることができます。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
       },
       {
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー40,000ユニバースを舞台に繰り広げられる、ハイオクタン価の戦闘レースゲームです。ユニバースの中で最も激しい戦闘を体験することができ、様々な戦闘シーンを楽しむことができます。ゲームでは、プレイヤーはさまざまなユニットや戦術を駆使して戦闘に挑み、戦略的な思考と迅速な判断が求められます。ウォーハンマー40,000ユニバースのファンにはもちろん、戦闘レースゲームを楽しむファンにもお勧めできるゲームです。",
+        "description": "ウォーハンマー 40,000 ユニバースを舞台に、高速で激しい戦闘レースが繰り広げられるゲームです。ハイオクタン価な戦闘レースは、プレイヤーを熱い戦いの世界に引き込みます。ウォーハンマー 40,000 ユニバースの豊富な設定と詳細な背景が、プレイヤーに没入感を与えます。レースでは、さまざまな乗り物やキャラクターを操作して、対戦相手に勝利を収めることを目指します。ウォーハンマー 40,000 ユニバースのファンにはもちろん、戦闘レースゲームを楽しむ全てのプレイヤーに向けて、激しい戦いの熱い感覚を体験できるゲームです。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
       },
       {
         "title": "Build Your Own Onyx Bundle",
@@ -210,10 +210,75 @@
     ],
     "review": [
       {
+        "title": "【三国志BOND：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "株式会社ゲラッパは6月15日、デッキ構築型ローグライト軍勢バトル『三国志BOND』の体験版『三国志BOND盤上演武体験版』を配信開始しました。この体験版では、プレイヤーが『三国志BOND』の世界を先行して体験できます。ゲームの特徴であるデッキ構築やローグライト要素を堪能することができ、ファンや新規プレイヤーにとっては必見のコンテンツです。『三国志BOND』は、三国志の世界を舞台に、プレイヤーが自ら",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260615-449708/",
+        "date": "2026-06-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Hawthorn：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "NEARstudiosは6月12日、Steam Nextフェスにてオープンワールド・サバイバルRPG『Hawthorn』の体験版を配信すると発表しました。この体験版により、プレイヤーは『Hawthorn』の世界を初めて体験することができ、ゲームの様々な要素に触れながら、自分らしいサバイバルスタイルを発見することができます。『Hawthorn』は、広大なオープンワールドを舞台に、サバイバルとRPGの",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260615-449678/",
+        "date": "2026-06-15",
+        "is_translated": false
+      },
+      {
+        "title": "【なし：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "6 月 14 日までの週の Steam に関する興味深い事実をまとめました。Steam は世界中のゲーマーに愛されているプラットフォームであり、毎週新しいゲームやアップデートが追加されています。この週も、新しいリリースやアップデート、そしてユーザー投稿のトレンドについて紹介しています。Steam のユーザー数は増え続けており、様々なジャンルのゲームが提供されています。新しいゲームを探したり、友達と",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/",
+        "date": "2026-06-15",
+        "is_translated": true
+      },
+      {
+        "title": "【洞窟物語+：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "人気のアンダーグラウンドゲームが、HD アップグレードにより新たなスタイルで登場します。グラフィックの向上により、よりリアルで臨場感のあるゲームワールドを体験できるようになりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/cave-story-review-2012/",
+        "date": "2026-06-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Enginefall：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Enginefall は、従来のサバイバルゲームに新しい風を吹き込む、列車をベースにしたサバイバル ゲームです。私たちがこれまでプレイしてきたゲームとは一線を画す、多くの新しいアイデアが盛り込まれています。このゲームでは、列車を活用してサバイバルを図り、様々な挑戦に立ち向かっていきます。新鮮なアイデアと、列車を舞台にしたユニークな世界観が、プレイヤーを新たなサバイバル体験へと導きます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/enginefall-impressions/",
+        "date": "2026-06-14",
+        "is_translated": true
+      },
+      {
         "title": "【over the hill：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "FunselektorとStrelka Gamesは6月12日、『over the hill』の体験版を配信し、話題を集めています。本作は、オフロード車に乗って、広大なオープンワールドの荒野を自由に探索することができる、ユニークな作品です。すでに体験版が配信されて人気を博しており、多くのゲーマーの注目を集めています。荒野でオフロード車を運転し、未知の地を探索するという、刺激的な体験が待っています。",
+        "description": "FunselektorとStrelka Gamesは6月12日、オープンワールドのオフロードレースゲーム『over the hill』の体験版を配信しました。本作は、プレイヤーがオフロード車に乗り、広大な荒野を自由に探索することができる作品です。現在配信されている体験版は、すでに多くのゲーマーの人気を博しています。荒野の不気味な雰囲気や、オフロード車のリアルな操縦感が特徴です。体験版をプレイするこ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +291,7 @@
         "title": "【ブリガンダイン アビス：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "このゲームは、遊びやすさと手応えが両立しており、ウォーシミュレーションが好きな人はもちろん、未経験の人にもオススメしたい作品です。シミュレーションゲームのファンには欠かせない要素が盛り込まれていますが、初心者でも気軽にプレイすることができるよう、ゲームのシステムやルールが簡潔に説明されています。ウォーシミュレーションゲームの魅力を初めて体験する人にも、楽しいゲーム時間を提供してくれる作品です。",
+        "description": "このゲームは、遊びやすさと手応えが両立されており、ウォーシミュレーションが好きな人にはもちろん、未経験の人にもオススメしたい作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +304,7 @@
         "title": "【Puni the Florist：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "デベロッパーのEarthquack Gamesは6月8日、花屋シム『Puni the Florist』を配信しました。本作は高い評価率を維持しながら、じわじわと人気を集めています。",
+        "description": "デベロッパーのEarthquack Gamesは6月8日、花屋シム『Puni the Florist』を配信しました。本作は高い評価率を維持しながら、じわじわとプレイヤーから好評を集めています。花屋を経営するというユニークな設定が魅力で、ゲームの世界観は柔らかく優しいグラフィックで表現されています。プレイヤーは花を育て、販売することで店を成長させ、様々なイベントやキャラクターと交流することができま",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +317,7 @@
         "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週は土砂降りと照りつける太陽の予測不能な天候が続いていたが、土曜日は好転の予感がする。太陽が夏を迎えるスタートの合図を出してくれるようで、ゲーマーにとっては最高の週末になるだろう。土曜日の天気は、週末にゲームを楽しむために外に出ることを考える人にとっては、特に重要だ。太陽の温かい光と、気持ちの良い風がゲームをより楽しくすること間違いなしです。",
+        "description": "今週は土砂降りと照りつける太陽の予測不能な天候が続いたが、土曜日は好転の予感がする。太陽が夏のスタートを告げるかのように輝き、ゲーマーたちの気持ちも高揚する。そんな中、待ちに待った週末がやっと到来しました。土曜日は外出するのもよいですが、家にこもってゲームを楽しむのもいい選択肢です。この日は、予測不能な天候が一時的に穏やかになるでしょう。太陽の暖かい光が気持ちを高めるはずです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,49 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "【X-MEN 97：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "X-Men '97 が帰ってきて、人生が再び生きる価値のあるものになりました。待ちに待ったシーズン2がようやく始まりました。新しいシーズンは、ファンが期待していた内容を提供しています。物語はさらに深化し、キャラクターは新たな成長を見せています。シーズン2のレビューでは、新しいエピソードの詳細や、シリーズの将来について掘り下げます。ファンにとっては、今年最も期待されるイベントの一つです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/x-men-97-season-2-review/",
-        "date": "2026-06-13",
-        "is_translated": true
-      },
-      {
-        "title": "【SpaceCraft：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このゲームは、すでに多くのプレイヤーを集め、盛況となっていますが、一方で、「MMOであること」が主な要因となり、ユーザー評価が割れているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/spacecraft-20260612-449486/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Pigeon: A Love Story：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Wristworkは6月11日、ユニークな鳩シミュレーションゲーム『Pigeon: A Love Story』の新しい体験版を配信しました。このゲームでは、鳩の生活を体験することができ、プレイヤーは鳩の視点から世界を見て、新しい友達を探したり、恋をしてみたりすることができます。新しい体験版では、ゲームの世界やシステムがさらに充実し、より多くのプレイヤーが楽しめるようになりました。もし、ユニークなゲ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260612-449452/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
         "title": "【Starseeker: Astroneer Expeditions：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ちょっとした宇宙旅行をしてみたい人はいますか？前回、私が Starseeker: Astroneer Expeditions にチェックインしたとき、これは通常の Astroneer のスピンオフのようなもので、まだ最初のゲームプレイをいくつか披露したばかりでした。宇宙を探索する魅力的なゲームである Astroneer の世界を、より深く体験できるようになるのは、きっとゲーマーにとって大きな喜びに",
+        "description": "宇宙旅行の魅力を体験したい方はいますか？前回、私が『Starseeker: Astroneer Expeditions』をチェックしたとき、このゲームはオリジナルの『Astroneer』のスピンオフのようなもので、初期のゲームプレイが紹介されていました。宇宙を探索する楽しさや、新しい惑星を発見するワクワク感が味わえるこのゲームは、宇宙旅行の夢を叶えるための最高のアドベンチャーです。『Astrone",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -611,5 +637,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-14T13:29:27.903597"
+  "last_updated": "2026-06-15T04:47:16.998978"
 }

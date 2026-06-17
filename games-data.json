@@ -5,7 +5,7 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros Kingは、チェスの戦略的な奥深さとローグライクのビルドの多様性、そしてリプレイ性を兼ね備えた魅力的なゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入することで、カヴンを倒すことを目指します。戦略的な思考と、ローグライクゲーム特有のビルドの自由度が融合するこのゲームでは、プレイヤーは様々な戦略を試み、リプレイ性の高さを体験できます。強大な軍隊を率いてカヴンに挑み、勝利を目指してみましょう。",
+        "description": "Ouroboros King は、チェスの戦略的な奥深さと、ローグライクのビルドの多様性とリプレイ性を兼ね備えたゲームです。プレイヤーは恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、カヴンを倒すことを目指します。戦略的な思考と戦術的なアクションが求められるこのゲームでは、プレイヤーはさまざまなビルドや戦略を試して、勝利を掴みましょう。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー40,000ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられるゲームです。激しいバトルやスリリングなレースが楽しめるこのゲームは、ウォーハンマー40,000のファンやレースゲーム好きにはたまらない魅力的な題材です。",
+        "description": "ウォーハンマー 40,000 ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられます。このゲームでは、プレイヤーはさまざまな車両を操り、戦闘の激しさとスピードの刺激を体験できます。ウォーハンマー 40,000 の世界観をベースに、レースの要素が融合したこのゲームは、戦闘レースファンの夢のようなくらい魅力的です。様々な車両や武装を装着して、戦闘レースの勝利を目指すことができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "シグネチャーコレクションを作ろう",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-06-17"
+      },
       {
         "title": "Best of Platinum Collection",
         "platform": "Fanatical",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-04"
-      },
-      {
-        "title": "OCTOPATH TRAVELER IIなどが登場。",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-03"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【Luna Abyss：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Kwalee Labsが6月17日、閉鎖されたことが明らかとなった。同スタジオは、ゲーム『Luna Abyss』の制作を手がけていたが、リリースからわずか1か月足らずで閉鎖になるという意外な展開となった。",
+        "description": "Kwalee Labsは、6月17日に閉鎖されたことが明らかとなった。同スタジオは、最近リリースされた『Luna Abyss』でデビューし、わずか1か月足らずで閉鎖となる。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +223,62 @@
         "is_translated": false
       },
       {
+        "title": "【黒神話：悟空：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2024年8月にリリースされた「黒神話：悟空」は、非常に高い評価を獲得し、世界的な成功を収めたGame Scienceの傑作です。この作品は西遊記をアクションゲームとして描いており、多くのプレイヤーから高い評価を得ています。次に、道教の神「鍾馗」を描く「黒神話：鍾馗」がリリースされる予定ですが、その動向と進捗について、多くの人が注目しています。ゲームの開発状況や新しい情報が期待され、ファンやプレイ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167923.html",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【エリオットの冒険: ミレニアム物語：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "スピードランニングの歴史に、エリオットは新たな喜びを発見します。彼の冒険は、スピードランニングの世界に新しい快楽をもたらします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-adventures-of-elliot-the-millennium-tales-review/",
+        "date": "2026-06-17",
+        "is_translated": true
+      },
+      {
+        "title": "【エリオットの冒険：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『エリオットの冒険: ミレニアム物語』は、多くの人が期待していたような、ゼルダシリーズを超える作品ではありません。しかし、レビューでは、それほど悪い作品ではないという意見が多く、一定の評価を得ています。ゲームの世界では、様々な作品がリリースされていますが、この作品もそれなりに魅力的な要素を持ち合わせています。ゼルダシリーズのファンである人だけではなく、オープンワールドのアクションアドベンチャーゲー",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/adventures-elliot-millenium-tales-review-roundup/",
+        "date": "2026-06-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Adventures of Elliot：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スクウェア・エニックスの最新作は、タイムトラベルの要素が十分ではありませんが、今まで手に入れることのできなかった SNES 時代の古典ゲームのような感覚を味わえる作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/adventures-of-elliot-review/",
+        "date": "2026-06-17",
+        "is_translated": true
+      },
+      {
         "title": "【Mina The Hollower：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Mina The Hollower』は、間違いなく今年を代表する1本になるだろう。このゲームは、独自の世界観と奥深いストーリーを持ち、プレイヤーを引き込む力があります。ゲームのグラフィックやサウンドトラックも高く評価されており、総合的に見ても今年のベストゲームの一つになる可能性が高いです。",
+        "description": "『Mina The Hollower』は、間違いなく今年を代表する1本になるだろう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,36 +288,10 @@
         "is_translated": false
       },
       {
-        "title": "【The Guild 3：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "THQ Nordicは6月16日、中世都市経営シミュレーション『The Guild – Europa 1410』の体験版を配信開始したことを発表しました。このゲームでは、プレイヤーは中世ヨーロッパの都市を経営し、政治、経済、社会などの面で都市を発展させていきます。体験版をプレイすることで、ゲームの世界観やゲームプレイの感覚を事前に体験することができます。都市を繁栄させるために、さまざまな施設を建設",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260616-449958/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【ナイトブラッドW：断罪の狼：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ハリソンワールドでは、『ナイトブラッドW：断罪の狼』の体験版が現在配信中です。このゲームはスタイリッシュなゲームプレイが特徴で、プレイヤーはスピードとスタイルを兼ね備えたアクションに注目することになります。ゲームの世界観は暗く耽美的な雰囲気を持ち、キャラクターのデザインも独特です。ハリソンワールドの体験版では、プレイヤーはこのスタイリッシュなゲームプレイを最初に体験できる機会となるので、興味がある",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260609-448587/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Callisto Protocol：レビュー】",
+        "title": "【Call of Duty: Black Ops Cold War：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Idols of Ash は非常に魅力的なゲームで、価格はわずか 3 ドルです。Steam では、2,000 を超えるレビューが寄せられており、圧倒的に肯定的な評価を獲得しています。2026 年の今のところ、私のお気に入りのゲームの一つです。",
+        "description": "Idols of Ash は現在 3 ドルで販売されており、Steam では 2,000 を超えるレビューが寄せられ、圧倒的に高い評価を獲得しています。2026 年の発売タイトルの中で、私が特に注目している作品の 1 つです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,23 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【SteelSeries Arctis Nova 7X Wireless Gen 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "役立つ改良です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-7x-wireless-gen-2-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
         "title": "【Meccha Chameleon：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週、新しい日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームでは、プレーヤーはショットガンで武装して他のプレーヤーから隠れます。私がプレイしたプロップハントゲームをアレンジしたような、ユニークなゲームです。プレイヤーは、ショットガンを使いながら、他のプレーヤーから逃げたり、攻撃したりする必要があります。ゲームの世界観やグラフィックは、インディーゲームながら",
+        "description": "先週、プレイヤー同士が対戦する日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームでは、ショットガンを装備したプレイヤーが他のプレイヤーから隠れながら戦っていきます。プロップハントゲームをベースにして新たな要素を加えたもので、従来のプロップハントゲームとは一味違う魅力があります。自分でもプレイしてみたところ、他のプレイヤーから隠れながら戦うスリルのあるゲームで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,52 +317,13 @@
         "title": "【Steam Next Fest：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、待って、間違ったゲームのまとめ投稿の日です。これは、「今週末はみんなで何をするの？」ではなく、ここで発見した素晴らしいゲームや、面白いゲームプレイについて叫ぶ場所です。みんなでお気に入りのゲームを共有し、他人のプレイを楽しむことができる、週末のハイライトのひとつです。",
+        "description": "土曜日は待って、間違ったゲームのまとめ投稿の日です。これは「今週末はみんなで何をするの?」という質問ではなく、発見した宝石や石炭の塊について叫ぶ場所です。この日は、プレイヤーが新しく見つけたものや、気になるゲームの出来事について話し合うことができます。みんなで共有することによって、ゲームの楽しさが倍増するでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-steam-next-fest",
         "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Hellraiser: Revival：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Saber Interactive の新しい Hellraiser ゲームは、BioShock のアクションと Clive Barker のサドマゾヒスティックなホラー映画シリーズの恐怖を組み合わせたような雰囲気を持っています。このゲームは、2 つの異なる世界を融合させたような独特な体験を提供するでしょう。BioShock のようなアクション要素と、Clive Barker のホラー映画シリーズの",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/hellraiser-revival-preview-release-date-summer-game-fest/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【HORSES：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Santa Ragioneが開発した『HORSES』の日本語版が6月16日にリリースされることが発表されました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260615-449876/",
-        "date": "2026-06-15",
-        "is_translated": false
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週は土砂降りと照りつける太陽の予測不能な天候が続いたが、土曜日は好転の予感がする。太陽が夏のスタートを告げるコードを引っ張り、ゲーマーにとって大切な週末が待っている。天候が安定してくれば、屋外でゲームを楽しんだり、友達と出かけたりするのもいいかもしれない。土曜日は、新しいゲームの発売やイベントが予定されているため、ゲーマーにはとても期待が持てそうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-386",
-        "date": "2026-06-13",
         "is_translated": true
       }
     ],
@@ -650,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-17T04:24:51.548381"
+  "last_updated": "2026-06-17T14:52:17.070228"
 }

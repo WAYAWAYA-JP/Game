@@ -5,25 +5,25 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros Kingは、チェスの戦略的な奥深さと、ローグライクのビルドの多様性やリプレイ性を兼ね備えたゲームです。プレイヤーは恐るべき軍隊を編成し、強力な遺物を発見して、驚くべき道具を購入できます。カヴンを倒すために、戦略的な思考と戦術的なスキルが求められます。さまざまなビルドや戦略を試して、自分だけのプレイスタイルを見つけましょう。強力な遺物や道具を活用して、カヴンを倒し、勝利を掴み取ることができます。",
+        "description": "Ouroboros Kingは、チェスの戦略的な奥深さとローグライクのビルドの多様性、そしてリプレイ性を兼ね備えた魅力的なゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入することで、カヴンを倒すことを目指します。戦略的な思考と、ローグライクゲーム特有のビルドの自由度が融合するこのゲームでは、プレイヤーは様々な戦略を試み、リプレイ性の高さを体験できます。強大な軍隊を率いてカヴンに挑み、勝利を目指してみましょう。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-16"
+        "date": "2026-06-17"
       },
       {
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー 40,000 ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられます。このダイナミックなゲームでは、プレイヤーは戦闘を指揮し、車両をカスタマイズして、最強のチームを築きます。ウォーハンマー 40,000 ユニバースの独自の世界観とキャラクターが登場し、ファンには必見のコンテンツです。戦闘レースのスリルと、ウォーハンマー 40,000 ユニバースの深いストーリーが融合した、このゲームは、ウォーハンマー 40,000 ユニバースのファンやレースゲームの愛好家にとって、最高の体験を提供します。",
+        "description": "ウォーハンマー40,000ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられるゲームです。激しいバトルやスリリングなレースが楽しめるこのゲームは、ウォーハンマー40,000のファンやレースゲーム好きにはたまらない魅力的な題材です。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-16"
+        "date": "2026-06-17"
       }
     ],
     "bundle": [
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【Luna Abyss：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Kwalee Labsが6月17日、閉鎖されたことが明らかとなった。同スタジオは、ゲーム『Luna Abyss』の制作を手がけていたが、リリースからわずか1か月足らずで閉鎖になるという意外な展開となった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/luna-abyss-20260617-450069/",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
         "title": "【Mina The Hollower：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Mina The Hollower』は、今年を代表するゲームの1本になるだろう。独自の世界観と魅力的なキャラクター設定が特徴的なこのゲームは、プレイヤーを新しい冒険の世界に引き込む。ストーリーやゲームプレイの詳細はまだ明らかではないが、発表された映像や情報から、ゲームファンが高く期待していることがわかる。今年のゲームシーンを牽引する作品になりそうです。",
+        "description": "『Mina The Hollower』は、間違いなく今年を代表する1本になるだろう。このゲームは、独自の世界観と奥深いストーリーを持ち、プレイヤーを引き込む力があります。ゲームのグラフィックやサウンドトラックも高く評価されており、総合的に見ても今年のベストゲームの一つになる可能性が高いです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,10 @@
         "is_translated": false
       },
       {
-        "title": "【The Guild – Europa 1410：レビュー】",
+        "title": "【The Guild 3：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "THQ Nordicは6月16日、中世を舞台に都市を経営するシミュレーションゲーム『The Guild – Europa 1410』の体験版を配信開始したことを発表しました。このゲームでは、プレイヤーは中世のヨーロッパを舞台に都市を築き上げ、経営や政治に携わることができます。体験版の配信開始により、ユーザーはゲームの世界観やゲームプレイに先んじて触れることができます。中世の雰囲気をたたえたグラフィ",
+        "description": "THQ Nordicは6月16日、中世都市経営シミュレーション『The Guild – Europa 1410』の体験版を配信開始したことを発表しました。このゲームでは、プレイヤーは中世ヨーロッパの都市を経営し、政治、経済、社会などの面で都市を発展させていきます。体験版をプレイすることで、ゲームの世界観やゲームプレイの感覚を事前に体験することができます。都市を繁栄させるために、さまざまな施設を建設",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【ナイトブラッドW：断罪の狼：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハリソンワールドでは、『ナイトブラッドW：断罪の狼』の体験版を配信中です。このゲームはスタイリッシュなゲームプレイが特徴で、プレイヤーを魅了する内容です。スムーズなアクションや美しいグラフィックが相まって、プレイヤーを新しい世界へと導きます。本稿では、この魅力的なゲームプレイを紹介し、その詳細な内容を掘り下げていきます。ハリソンワールドの『ナイトブラッドW：断罪の狼』体験版は、ゲームファンの間で大",
+        "description": "ハリソンワールドでは、『ナイトブラッドW：断罪の狼』の体験版が現在配信中です。このゲームはスタイリッシュなゲームプレイが特徴で、プレイヤーはスピードとスタイルを兼ね備えたアクションに注目することになります。ゲームの世界観は暗く耽美的な雰囲気を持ち、キャラクターのデザインも独特です。ハリソンワールドの体験版では、プレイヤーはこのスタイリッシュなゲームプレイを最初に体験できる機会となるので、興味がある",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -247,6 +260,19 @@
         "url": "https://automaton-media.com/articles/reportjp/20260609-448587/",
         "date": "2026-06-16",
         "is_translated": false
+      },
+      {
+        "title": "【Callisto Protocol：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Idols of Ash は非常に魅力的なゲームで、価格はわずか 3 ドルです。Steam では、2,000 を超えるレビューが寄せられており、圧倒的に肯定的な評価を獲得しています。2026 年の今のところ、私のお気に入りのゲームの一つです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/i-need-you-to-play-this-unbelievably-tense-2-hour-horror-about-descending-into-hell-with-a-grappling-hook/",
+        "date": "2026-06-16",
+        "is_translated": true
       },
       {
         "title": "【SteelSeries Arctis Nova 7X Wireless Gen 2：レビュー】",
@@ -262,23 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【自律型エルゴチェア ウルトラ 2：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "メーカーはAIに熱心に取り組んでいるかもしれませんが、その椅子のデザインはすべて人間についてのものです。人間の体型に合った形状や、人間の感覚に優しい材質の使用など、人間の要素を踏まえたデザインが特徴です。デザインの根底にあるのは、人間の快適さと健康を優先した考え方です。この椅子は、人間の体や心のニーズに応えたデザインによって、使用者の快適さを高め、ストレスを軽減することを目的としています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-chairs/autonomous-ergochair-ultra-2-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
         "title": "【Meccha Chameleon：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週、日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームは、プレーヤーがショットガンで武装して他のプレーヤーから隠れるというユニークな要素を持っています。同様のプロップハントゲームをベースにしており、独自のひねりを加えたゲームです。プレイヤーは、ショットガンを駆使して他のプレーヤーを探し出そうとしますが、同時に自分も見つからないように隠れながら戦う必要があり",
+        "description": "先週、新しい日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームでは、プレーヤーはショットガンで武装して他のプレーヤーから隠れます。私がプレイしたプロップハントゲームをアレンジしたような、ユニークなゲームです。プレイヤーは、ショットガンを使いながら、他のプレーヤーから逃げたり、攻撃したりする必要があります。ゲームの世界観やグラフィックは、インディーゲームながら",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +304,7 @@
         "title": "【Steam Next Fest：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は特別な日です。待って、間違ったゲームのまとめ投稿です。この場では、「今週末はみんなで何をするの?」ではなく、発見した素晴らしいゲームや隠れた名作について話す場です。みんなで一緒に、楽しいゲーム体験を共有することができます。",
+        "description": "土曜日は、待って、間違ったゲームのまとめ投稿の日です。これは、「今週末はみんなで何をするの？」ではなく、ここで発見した素晴らしいゲームや、面白いゲームプレイについて叫ぶ場所です。みんなでお気に入りのゲームを共有し、他人のプレイを楽しむことができる、週末のハイライトのひとつです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,28 +314,15 @@
         "is_translated": true
       },
       {
-        "title": "【トイ・ストーリー5：レビュー】",
+        "title": "【Hellraiser: Revival：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "トイ・ストーリー5は、ジェシーが主演する面白くて感動的な物語です。これは、前作を大幅に上回るフランチャイズへの価値のある追加です。トイ・ストーリーシリーズの新しい章を彩るジェシーの活躍は、ファンを大いに楽しませます。新しい登場人物や新しい冒険が織り成すストーリーは、シリーズの魅力をさらに高めています。トイ・ストーリー5は、シリーズのファンにはもちろん、新しい世代のファンも楽しみできる作品となってい",
+        "description": "Saber Interactive の新しい Hellraiser ゲームは、BioShock のアクションと Clive Barker のサドマゾヒスティックなホラー映画シリーズの恐怖を組み合わせたような雰囲気を持っています。このゲームは、2 つの異なる世界を融合させたような独特な体験を提供するでしょう。BioShock のようなアクション要素と、Clive Barker のホラー映画シリーズの",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/toy-story-5-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Next Fest：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Steam Next Fest のデモを多数プレイし、その中で最高のものを集めました。これらのデモは絶対にプレイしてみる価値があります。様々なジャンルのゲームが集まった Steam Next Fest では、注目すべきタイトルが多くあります。これらのデモをプレイすることで、新しいゲームを見つけることができ、将来のリリースに期待を高めることができます。最高のデモを集めたこのリストは、Steam Ne",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/steam-next-fest-demos-best-june-2026/",
+        "url": "https://www.polygon.com/hellraiser-revival-preview-release-date-summer-game-fest/",
         "date": "2026-06-16",
         "is_translated": true
       },
@@ -330,7 +330,7 @@
         "title": "【HORSES：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Santa Ragioneが開発したゲーム『HORSES』の日本語版が6月16日にリリースされることが発表されました。このゲームは、ユニークな世界観と魅力的なゲームプレイを提供することを約束しており、多くのゲーマーの期待を集めています。リリースに伴って、ゲームの詳細や新しい情報が公開されることが予想され、ゲームファンにはお楽しみいただけるでしょう。",
+        "description": "Santa Ragioneが開発した『HORSES』の日本語版が6月16日にリリースされることが発表されました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -340,23 +340,10 @@
         "is_translated": false
       },
       {
-        "title": "【Discordハングアウト：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Turok: Origins は、先週の Summer Game Fest でプレイした中で最も楽しかったゲームの一つでした。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/finding-a-great-new-discord-hangout-game-thats-not-a-roguelike-still-feels-like-striking-gold/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週は土砂降りと照りつける太陽の予測不能な天候が続いたが、土曜日は好転の予感がする。太陽が夏のスタートを告げるような強い熱を帯びて、ゲームの世界では新しいスタートを切ることができる。新しいキャラクターの紹介や、未知の世界への冒険、そして新しい戦略の開発が待っている。土曜日は、ゲームの世界で新たな挑戦に取り組む好機です。太陽の熱と共に、ゲームの世界で新しいスタートを切ることができるのは、確かに楽しみ",
+        "description": "今週は土砂降りと照りつける太陽の予測不能な天候が続いたが、土曜日は好転の予感がする。太陽が夏のスタートを告げるコードを引っ張り、ゲーマーにとって大切な週末が待っている。天候が安定してくれば、屋外でゲームを楽しんだり、友達と出かけたりするのもいいかもしれない。土曜日は、新しいゲームの発売やイベントが予定されているため、ゲーマーにはとても期待が持てそうです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -663,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-16T16:25:17.145178"
+  "last_updated": "2026-06-17T04:24:51.548381"
 }

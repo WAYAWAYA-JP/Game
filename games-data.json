@@ -5,7 +5,7 @@
         "title": "The Ouroboros King - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Ouroboros King は、チェスの戦略的な奥深さとローグライクのビルドの多様性、そしてリプレイ性を兼ね備えたゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入して、恐ろしいカヴンを倒すことができます。戦略とアクションを組み合わせたこのゲームでは、プレイヤーは自分のビルドを自由にカスタマイズし、様々な戦略を試すことができます。さまざまなキャラクターとアイテムが登場するこのゲームは、プレイヤーに多くの選択肢と自由度を提供し、リプレイ性も非常に高くなっています。",
+        "description": "Ouroboros King は、チェスの戦略的な奥深さと、ローグライクのビルドの多様性、そしてリプレイ性を兼ね備えたゲームです。プレイヤーは、恐るべき軍隊を編成し、強力な遺物を発見し、驚くべき道具を購入することで、カヴンを倒すことを目指します。チェスの戦略とローグライクの要素が融合したこのゲームでは、プレイヤーはさまざまなビルドや戦略を試すことができ、リプレイ性も高まっています。強大な敵と戦い、勝利を目指すための戦略的な思考と、アクションが求められる魅力的なゲームです。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Warhammer 40K Speed Freeks - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ウォーハンマー 40,000 ユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられるゲームです。プレイヤーは、さまざまな車両を運転してレースに参加し、戦闘で敵を倒すことでポイントを獲得します。レースでは、車両のスピードと戦闘能力を上手く使い分けて、勝利を目指す必要があります。ウォーハンマー 40,000 ユニバースの独特な世界観と、アクション満点の戦闘レースが楽しめるゲームです。",
+        "description": "ウォーハンマー40,000のユニバースを舞台に、ハイオクタン価の戦闘レースが繰り広げられる。激しいバトルを通じて勝利を目指す、スピードと戦略の融合が魅力のゲームです。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Movember Father's Day チャリティバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "シグネチャーコレクションを作る",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-06-18"
+      },
       {
         "title": "シグネチャーコレクションを作ろう",
         "platform": "Fanatical",
@@ -174,10 +198,49 @@
     ],
     "review": [
       {
+        "title": "【デイヴ・ザ・ダイバー イン・ザ・ジャングル：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作では、約10時間以上の新規ストーリーと新規ゲームプレイが体験できる。新たなジャングルの地と湖を、ボリュームたっぷり楽しめる内容となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/dave-the-diver-20260618-450414/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
         "title": "【グランブルーファンタジー リリンク：エンドレスラグナロク：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Cygamesは6月18日、『グランブルーファンタジー リリンク：エンドレスラグナロク』の体験版を配信開始しました。体験版では、クエストをはじめとするゲーム内容をプレイできます。また、新キャラの「シエテ」もプレイアブルキャラとして体験できます。体験版では、ゲームの世界やキャラ、戦闘システムなどを無料で試すことができるため、ゲームに興味がある方はぜひ一度体験してみてください。",
+        "description": "『グランブルーファンタジー リリンク：エンドレスラグナロク』では、遊び方がさらに進化しています。ソロモードが充実し、キャラクターの育成要素も強化されています。本稿では、本作の先行試遊レポートを紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/relink-ragnarok-20260617-450263/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Veterans: Napoleonic Wars：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Tactical Boarは6月16日、開発中のリアルタイムストラテジーゲーム『Veterans: Napoleonic Wars』のSteamストアページが削除されたと発表しました。このゲームはナポレオン戦争を舞台にしているので、歴史ファンやストラテジーゲーム愛好家にとっては大変魅力的なタイトルです。Steamストアページの削除は、ゲームの開発やリリース計画に影響を与える可能性があります。Tac",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260618-450402/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【グランブルーファンタジー リリンク：エンドレスラグナロク：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Cygamesは6月18日、スマートフォン向けの新作RPG『グランブルーファンタジー リリンク：エンドレスラグナロク』の体験版を配信開始しました。体験版では、クエストやその他のゲーム内容をまずプレイすることができ、さらに新たなプレイアブルキャラクター「シエテ」も操作してみることができます。『グランブルーファンタジー リリンク：エンドレスラグナロク』は、人気RPG『グランブルーファンタジー』のストー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -187,10 +250,36 @@
         "is_translated": false
       },
       {
+        "title": "【デイブ・ザ・ダイバー：イン・ザ・ジャングル：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "番長の料理と同じように、デイブの新しい冒険もおいしいです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/dave-the-diver-in-the-jungle-review/",
+        "date": "2026-06-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Dark Souls 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "FromSoft ゲームのマルチプレイヤー モッダーとして知られる Yui は、最新のシームレスな協力プレイ MOD のアルファ テストを開始する準備が整いました。具体的には、Dark Souls 2 用の MOD となります。この MOD は、プレイヤー同士が共同でゲームを進めることができるように設計されており、よりスムーズな協力プレイが可能になることを期待しています。Yui の MOD は、F",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-close-to-being-playtest-ready-having-morphed-into-one-of-its-creators-most-complicated-and-ambitious-projects-to-date",
+        "date": "2026-06-18",
+        "is_translated": true
+      },
+      {
         "title": "【エリオットの冒険: ミレニアム物語：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "エリオットの冒険は、スピードランニングの歴史に新たな喜びを見出します。スピードランニングは、プレイヤーが制限時間内にコースをクリアすることを目指す、高速でアクション溢れたゲームジャンルです。エリオットの冒険では、スピードランニングの歴史を彩る様々なコースや、魅力的なキャラクターたちが出会います。高速でスムーズなゲームプレイや、美しいグラフィックが特徴で、スピードランニングファンはもちろん、新しいプ",
+        "description": "エリオットの冒険は、スピードランニングの歴史に喜びを見出します。スピードランナーとして、エリオットは様々な挑戦に立ち向かいます。彼の冒険は、スピードランニングの世界における新たな発見や経験を通じて、読者を魅了します。スピードランニングの歴史を彩る様々な瞬間や、エリオットの成長を通じて、読者はスピードランニングの世界に浸り込むことができます。エリオットの冒険は、スピードランニングの歴史に新たな章を加",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -200,23 +289,10 @@
         "is_translated": true
       },
       {
-        "title": "【Call of Duty: Black Ops Cold War：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Idols of Ash は、非常に魅力的で価格も手頃なゲームです。Steam で購入できるこのゲームは、3 ドルという低価格ながら、2,000 を超える圧倒的に肯定的なレビューを獲得しています。2026 年の今のところ、私のお気に入りのゲームの 1 つです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/i-need-you-to-play-this-unbelievably-tense-2-hour-horror-about-descending-into-hell-with-a-grappling-hook/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
         "title": "【Meccha Chameleon：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週、プレイヤーがショットガンで武装して他のプレイヤーから隠れる日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームは、同様のプロップハントゲームを独自のアプローチでひねったものです。プレイヤーはショットガンを駆使して相手に近づき、サプライズアタックを仕掛けることができます。ゲームの世界観はユニークで、プレイヤーが戦略的に隠れながら戦う必要があります。インディ",
+        "description": "先週、日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームは、プレーヤーがショットガンで武装して他のプレーヤーから隠れながら戦うというユニークな内容です。プロップハントゲームをベースにしており、同ジャンルのゲームをプレイしたことがある人なら、楽しみながらプレイすることができます。独自の要素を取り入れたこのゲームは、従来のプロップハントゲームとは一味違う魅力を感",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -229,7 +305,7 @@
         "title": "【Steam Next Fest：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週のSteam Next Festが満を持して始まりました。巨大でジューシーな虫が登場するデモを体験することは、70年代の夏、田舎道を運転しているような感覚です。風が強く吹き付け、ほとんど前方が見えなくなります。",
+        "description": "私たちは今、Steam Next Fest の真っ最中です。このフェストでのデモは、70 年代の盛夏の田舎道を運転することに似ています。風が強く吹くと、ほとんど前が見えなくなりますが、運転を続けることで、景色が変わって新しいものが見えてきます。同様に、Steam Next Fest では、新しいゲームのデモをプレイすることで、未来的で、ユニークな体験ができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -536,5 +612,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-18T04:17:58.933488"
+  "last_updated": "2026-06-18T14:47:50.643665"
 }

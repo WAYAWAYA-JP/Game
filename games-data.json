@@ -5,7 +5,7 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の『RollerCoaster Tycoon 3』Complete Editionは、究極のテーマパークを建設するためのジェットコースターシミュレーションゲームです。このベストセラー作品は、2つの大規模な拡張パックを搭載しており、ジャンルを定義する傑作ゲームのスリルを体験できます。プレイヤーは、自らの夢のテーマパークを自由に設計し、運営してみることができます。ジェットコースターの建設から、園内施設の管理まで、細かい部分までこだわることができるので、創造性を発揮することができます。さらに、ゲーム内では、訪れる客のニーズに応えながら、テーマパークを成長させていくこともできます。『RollerCoaster Tycoon 3』Complete Editionは、テーマパークを愛する人や、シミュレーションゲームのファンにとって、最高の体験を提供してくれるはずです。",
+        "description": "Epic Gamesでは、人気のゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーが自分の理想のテーマパークを作り上げることができ、ジェットコースターの設計から運営までを管理します。2つの大規模な拡張パックが含まれており、より多彩なコンテンツを楽しむことができます。『RollerCoaster Tycoon 3』は、ベストセラーとなり、ジェットコースターシミュレーションのジャンルを定義する傑作ゲームです。テーマパークの管理からジェットコースターの設計まで、様々な要素を自由にカスタマイズすることができ、プレイヤーの創造性を発揮することができます。無料配布期間中は、Epic Gamesのユーザーであれば誰でもダウンロードして遊ぶことができ、テーマパークの魅力を体験することができます。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Citizen Sleeper - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "惑星間資本主義の荒野で生き延びろ。企業の束縛から逃れたあなたは、宇宙の辺境にある荒廃したステーションにたどり着いた労働者です。宇宙の果てにあるこの廃れた施設で、生存と自由を手に入れるために奮闘します。さまざまな仕事に就き、必要なスキルを身につけ、ステーションの生活に適応する必要があります。資源を集め、機械を修理し、危険な宇宙海賊から自分を守るために戦い、宇宙社会の新しい地位を築き上げます。宇宙の辺境で生きるための方法を学び、ステーションを復興させ、宇宙社会で成功するために必要なスキルと知識を身につけます。",
+        "description": "惑星間資本主義の荒野で生き延びろ。企業の束縛から逃れたあなたは、宇宙の辺境にある荒廃したステーションに流れ着いた労働者です。この世界では、人々は資本のために戦い、生き残るために必死に奮闘しています。さまざまな企業が宇宙の覇権を争い、貧困や戦争が蔓延しています。そんな中で、あなたは新たな生活を始めます。資源を集め、武器を強化し、ステーションを改造して、宇宙の荒野で生き残るための拠点を築きます。仲間を集め、同盟を結び、強大な企業に立ち向かいます。宇宙の辺境で、自由と富を得るために、あなたの物語が始まります。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -29,7 +29,7 @@
         "title": "ROBOBEAT - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リズムにノって撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公エースは、賞金を稼ぐために危険な任務に挑む賞金稼ぎです。絶え間なく変化するステージを突き進み、狂気のロボット「フラッザー」を倒さなければなりません。エースは、強力な敵と対決しながら、リズムに合わせて攻撃を繰り返し、ステージをクリアすることを目指します。ゲーム中、プレイヤーはリズムに合わせてボタンを押すことで、エースの攻撃をコントロールできます。リズムに合わせたタイミングで攻撃すると、より大きなダメージを与えることができるため、プレイヤーはリズムに集中してゲームを進めていく必要があります。",
+        "description": "リズムにのって撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公は、エースという名の賞金稼ぎです。絶え間なく変化するステージを突き進み、狂気のロボット・フラッザーと戦わなければなりません。リズムに合わせたタイミングで攻撃することで、フラッザーを倒すことができます。さまざまなステージをクリアし、エースの賞金稼ぎとしての腕前を発揮してみませんか。リズムとシューティングが融合したこのゲームは、プレイヤーを新たな世界に引き込みます。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -39,6 +39,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Movember Father's Dayチャリティーバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-06-19"
+      },
       {
         "title": "Movember Father's Day Charity Bundle",
         "platform": "Fanatical",
@@ -198,10 +210,36 @@
     ],
     "review": [
       {
+        "title": "【パルワールド：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『パルワールド オフィシャルカードゲーム』の試遊レポートでは、このカードゲームが『パルワールド』の世界観を忠実に再現していることがわかります。ゲームの内容は、ファンが求める『パルワールド』らしい特徴を備えており、ユニークなカードやシステムが多数盛り込まれています。トレーディングカードゲームのファンにはもちろん、『パルワールド』シリーズの愛好家にとっても、興味を持つ価値があります。多くのカードゲーム",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/palworldtcg-20260619-450623/",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
+        "title": "【Pickupbal：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム開発者のnikulas氏は6月15日、『Pickupbal』を配信した。このゲームはリリース以来好評レビューを集め続けており、本稿執筆時点で99％の好評率を獲得している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260619-450736/",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
         "title": "【SHINOBI 復讐の斬撃：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "セガは6月19日、人気ゲーム『SHINOBI 復讐の斬撃』のNintendo Switch版を発表しました。9月24日に発売予定です。この新しいバージョンは、Switchユーザーがシリーズの魅力を体験できる大きな機会となります。ゲームの発売日が近づくにつれ、ファンたちの期待が高まっています。セガは、Switchユーザー向けにさまざまな要素を追加したこの新バージョンで、ゲームの楽しさをさらに高めてい",
+        "description": "セガは6月19日、『SHINOBI 復讐の斬撃』のNintendo Switch版の2つ目のバージョンを発表しました。 この新しいバージョンは9月24日にリリースされる予定です。 このゲームは、ファンに新たな体験を提供することが期待されています。 セガのこの発表は、Nintendo Switchユーザーにとって嬉しいニュースです。 待望のリリース日が近づいてきました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +252,7 @@
         "title": "【Until Then：Afterimages DLC：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "フィリピンで活動するインディスタジオPolychroma Gamesの新作アドベンチャーゲームは、2024年6月にローンチされました。このゲームは、フィリピン文化をモチーフにして、ほろ苦い青春と壮大かつ予想外の展開を描いています。この独特なストーリーは、高い評価を獲得し、プレイヤーの心を掴んでいます。",
+        "description": "フィリピンで活動するインディスタジオPolychroma Gamesの新作アドベンチャーゲームが2024年6月にリリースされ、フィリピン文化をモチーフに描かれたほろ苦い青春と、壮大で予想外の展開が評価されて高い評価を獲得しました。このゲームは、ユニークな物語と感動的なゲームプレイで注目を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,10 +262,23 @@
         "is_translated": false
       },
       {
-        "title": "Steam Next Fest で最もプレイされたゲームのうち、500 を超えるデモの中に、AI を公開するものはわずか 1 つだけです。",
+        "title": "【PowerWash Simulator：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このゲームは、アニメーションやリラックスしたオフロードなどがハイライトとなっています。さらに、Valve によるAI フィルターが提供されるため、真剣にプレイすることもできます。ゲーム内のグラフィックは、高品質なアニメーションで表現されており、プレイヤーを魅了します。オフロードには、さまざまな車種やコースが用意されており、プレイヤーは自由に走行することができます。加えて、AI フィルターにより、よ",
+        "description": "屋根裏部屋に閉じ込めて、ちょっとした装身具をくれ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/the-best-cosy-cleaning-sim-ive-played-has-just-gone-into-playtest-if-you-like-powerwash-simulator-then-this-is-the-next-game-for-you/",
+        "date": "2026-06-19",
+        "is_translated": true
+      },
+      {
+        "title": "【 Steam Next Fest：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このゲームでは、アニメーションやフレンズロップ、リラックスしたオフロードがハイライトとなっています。また、真剣にプレイする場合には、Valve による AI フィルターが提供されています。このゲームは、リラックスした雰囲気と真剣にプレイするための機能を兼ね備えており、幅広いプレイスタイルに対応しています。アニメーションとフレンズロップは、ゲームの雰囲気を明るくし、リラックスしたオフロードは、プレイ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,10 +288,23 @@
         "is_translated": true
       },
       {
+        "title": "【Pragmata：レビュー】\n【Pokopia：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "私たちは、ケアンからバイオハザード レクイエムまで、2026 年にこれまでにプレイした最高のビデオ ゲームを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-2026-games-xbox-ps5-switch-pc/",
+        "date": "2026-06-19",
+        "is_translated": true
+      },
+      {
         "title": "【シチズン・スリーパー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Epic Gamesストアでは6月19日より、新しい2つのゲームが無料で配布されます。サイバーパンクが舞台の物語を描く『Citizen Sleeper』と、リズムアクションゲームの『ROBOBEAT』です。両方のゲームをダウンロードすることで、ユーザーは新しいゲーム体験を楽しむことができます。特に『Citizen Sleeper』は、独自の物語とシステムで話題となっており、サイバーパンクファンには",
+        "description": "Epic Gamesストアでは6月19日より、新しい無料ゲーム『Citizen Sleeper』と『ROBOBEAT』の配布が開始されました。これらのゲームは期間限定で無料になるため、ゲームファンにはお見逃しできないチャンスです。『Citizen Sleeper』は、サイバーパンク風の世界を舞台にしたロールプレイゲームで、プレイヤーはさまざまな選択をして物語を進めていきます。一方の『ROBOBEA",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,62 +314,10 @@
         "is_translated": false
       },
       {
-        "title": "【デイヴ・ザ・ダイバー イン・ザ・ジャングル：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本作では、約10時間以上の新規ストーリーと新規ゲームプレイが体験できます。新たなジャングルの地と湖が登場し、ボリュームたっぷり楽しめる内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/dave-the-diver-20260618-450414/",
-        "date": "2026-06-18",
-        "is_translated": false
-      },
-      {
-        "title": "【グランブルーファンタジー リリンク：エンドレスラグナロク：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『グランブルーファンタジー リリンク：エンドレスラグナロク』では、遊び方がさらに進化しています。ソロモードも充実し、キャラクターの育成要素も強化されています。本稿では、本作の先行試遊レポートをお届けします。新しい要素やシステムなど、詳細な情報を紹介しながら、ゲームの魅力を探っていきます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/relink-ragnarok-20260617-450263/",
-        "date": "2026-06-18",
-        "is_translated": false
-      },
-      {
-        "title": "【Veterans: Napoleonic Wars：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Tactical Boarは6月16日、開発中のリアルタイムストラテジーゲーム『Veterans: Napoleonic Wars』のSteamストアページが突然削除されたことを受け、声明を発表しました。このゲームはナポレオン戦争を舞台に、歴史に基づいた戦略と戦術を体験できるRTSゲームです。開発チームは声明の中で、Steamストアページの削除について説明し、ゲームの将来についてコメントしています",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260618-450402/",
-        "date": "2026-06-18",
-        "is_translated": false
-      },
-      {
-        "title": "【デイブ・ザ・ダイバー：イン・ザ・ジャングル：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "番長の料理と同じように、デイブの新しい冒険もおいしいです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/dave-the-diver-in-the-jungle-review/",
-        "date": "2026-06-18",
-        "is_translated": true
-      },
-      {
         "title": "【Vampire Survivors：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昨日、世界中で話題になった「おならのような音」について聞いたことがあるだろうか。もし聞いたとしたら、それはおそらく最新の「State of Unreal」のおかげだ。Epic Gamesは、このイベントで、以下のゲームや機能についての具体的な詳細を提供した。最新のゲームエンジンや、開発者が新しいプロジェクトを作成するためのツール、そして、実写のように見えるグラフィックを実現するテクノロジーについて",
+        "description": "昨日、世界中で話題になったおならのような音を聞いたことがある人は多いでしょう。その音は、おそらく最新の「State of Unreal」の発表によるものです。Epic Gamesは、このイベントで、いくつかの新機能やアップデートについて、詳細な情報を公開しました。 Unreal Engineの最新バージョンには、よりリアルなグラフィックや、ゲーム開発を容易にする新しいツールなどが含まれています。さ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -318,7 +330,7 @@
         "title": "【Dark Souls 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "FromSoft ゲームを多数扱っているマルチプレイヤーモッダーである Yui は、最新のシームレスな協力プレイ MOD のアルファテストを開始する準備が整ってきているようです。この度の MOD は、ダークソウルズ2 に対応しており、ファンにはとても楽しみなニュースです。Yui さんの MOD は、従来の協力プレイと比べて非常にスムーズなプレイ体験を提供することで知られており、ダークソウルズ2 の",
+        "description": "FromSoft ゲームのマルチプレイヤー MOD を手がけることで知られるモッダー、Yui は、最新のシームレスな協力プレイ MOD のアルファテストを開始する準備が整ってきているようです。特に今回は、Dark Souls 2 用の MOD になります。この MOD は、従来の協力プレイ方式とは一線を画し、よりスムーズでエンジョイできるプレイ体験を提供することを目的としています。Yui の MO",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -331,25 +343,12 @@
         "title": "【Meccha Chameleon：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先週、面白いインディーゲーム「Meccha Chameleon」がリリースされました。このゲームは、ショットガンで武装して他のプレーヤーから隠れるというユニークな要素を持ちます。プロップハントゲームをベースに新しいアプローチを加えた作品で、プレイヤーは戦略的に隠れて敵を倒す必要があります。ゲームの世界観と独自の要素は、プレイヤーを新しいゲーム体験に導きます。",
+        "description": "先週、他のプレーヤーから隠れることを目的とした日本のインディーゲーム「Meccha Chameleon」がリリースされました。このゲームは、ショットガンを駆使して戦うプレーヤーが登場し、同様のプロップハントゲームを独自のひねりを加えたものです。プレイヤーは、戦略的に隠れながら相手チームを倒すことを目指します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/please-help-us-find-the-players-hiding-in-these-screenshots-of-million-selling-painterly-stealth-game-meccha-chameleon",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Next Fest：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週の Steam Next Fest が真っ最中です。大きくてジューシーな虫がたくさん出現するデモをプレイすることは、70 年代の盛夏の田舎道を運転することに似ています。風が強く吹くと、ほとんど前方が見えなくなります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-steam-next-fest",
         "date": "2026-06-16",
         "is_translated": true
       }
@@ -651,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-19T04:46:18.432362"
+  "last_updated": "2026-06-19T14:43:54.925721"
 }

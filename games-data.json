@@ -5,37 +5,37 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、人気のジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。究極のテーマパークを建設し、遊園地のオーナーとなり、さまざまなアトラクションを設計して運営することができます。このゲームは、2つの大規模な拡張パックを搭載しており、ジェットコースターシミュレーションファンの間で絶賛されてきたベストセラーです。ジャンルを定義する傑作ゲームである『RollerCoaster Tycoon 3』では、テーマパークの設計と管理のスリルを体験することができます。遊園地の経営をシミュレートしながら、さまざまなアトラクションや施設を建設して運営することができ、ゲーマーが自由に創造性を発揮できるようになっています。無料で配布されている『RollerCoaster Tycoon 3』Complete Editionをプレイすることで、ジェットコースターシミュレーションゲームの魅力を再発見することができます。",
+        "description": "Epic Gamesでは、人気のジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。ベストセラーになったこのゲームは、2つの大規模な拡張パックを搭載しており、ジャンルを定義する傑作ゲームのスリルを楽しむことができます。テーマパークの設計からジェットコースターの建設、訪問客の満足度を高めるために様々な施設やアトラクションを整えるなど、幅広い要素を制御できます。ゲームのグラフィックやサウンドは、テーマパークでのリアルな体験を提供します。無料で配布されているので、ジェットコースターシミュレーションの世界に飛び込み、夢のテーマパークを創造してみてください。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-23"
+        "date": "2026-06-24"
       },
       {
         "title": "Citizen Sleeper - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "惑星間資本主義の荒野で生き延びろ。 あなたは企業の束縛を逃れ、宇宙の辺境の荒廃したステーションに流れ着いた労働者です。 この辺境の地で、生き残るためにあなたはさまざまな仕事に就き、資源を集め、必要な物資を購入しながら、危険な宇宙海賊や崩壊したステーションからの脅威から身を守る必要があります。 さまざまなキャラクターと出会い、物語を進めながら、宇宙の奥深くに隠された秘密を解き明かすための旅に出ます。 ステーションの再建や新たな技術の開発も可能です。 自分の手で宇宙の新たな歴史を築くため、あなたの冒険は今始まります。",
+        "description": "惑星間資本主義の荒野で生き残るために、あなたは企業の束縛から逃れ、宇宙の辺境にある荒廃したステーションにたどり着きます。このステーションは、企業の支配から逃れた人々が集う場所です。あなたは、ここで新たな生活を始め、宇宙の果てまで冒険します。資源を集め、貿易をし、他の宇宙船と出会いながら、生き残るために必要なスキルを身に付けていきます。宇宙の危険や企業の追手から逃れながら、宇宙で新たな地位を築いていくことが目標です。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-23"
+        "date": "2026-06-24"
       },
       {
         "title": "ROBOBEAT - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リズムにのって撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公は、エースという名の賞金稼ぎです。絶え間なく変化するステージを突き進み、狂気のロボット、フラッザーと対決しなければなりません。",
+        "description": "リズムにノって撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公は、エースという名の賞金稼ぎです。絶え間なく変化するステージを突き進み、狂気のロボット、フラッザーと戦わなければなりません。エースは、フラッザーを倒すためなら、どんな危険も前に進んでいきます。リズムに合わせて銃を撃ち、ステージをクリアするのがこのゲームの醍醐味です。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-23"
+        "date": "2026-06-24"
       }
     ],
     "bundle": [
@@ -150,10 +150,23 @@
     ],
     "review": [
       {
+        "title": "【リズム天国 ミラクルスターズ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『リズム天国 ミラクルスターズ』の体験版が配信されました。この体験版では、実際の操作とは関係なく、一定のリズムでボタンを押し続ける戦法が対策されていることが話題になっています。ユーザーは、音楽に合わせてタイミングを計る楽しさを享受できるため、ゲームの楽しみ方がより一層豊かになりました。リズムゲームが好きなゲーマーには、是非一度体験してみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260624-451398/",
+        "date": "2026-06-24",
+        "is_translated": false
+      },
+      {
         "title": "【Order of the Sinking Star：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Arc GamesとTheklaは6月23日、待望のゲーム『Order of the Sinking Star』の体験版配信を開始しました。この体験版は当初、期間限定で配信される予定でしたが、サプライズ発表があり、日本時間の6月27日の午前2時まで配信期間が延長されます。この延長により、より多くのプレイヤーがゲームの世界を楽しみ、体験版の魅力を味わうことができます。",
+        "description": "Arc GamesとTheklaは6月23日、『Order of the Sinking Star』の体験版配信を、日本時間の6月27日の午前2時までサプライズで延長すると発表しました。このサプライズ延長により、ファンたちにはさらに多くの時間が与えられ、ゲームの世界を満喫できるチャンスが増えることになります。体験版では、ゲームの魅力的なストーリーや、美しいグラフィック、そして面白いプレイスタイルを",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -166,7 +179,7 @@
         "title": "【STRANGER THAN HEAVEN：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "今もなお謎に包まれたゲーム『STRANGER THAN HEAVEN』の戦闘システムに関する試遊体験会が実施されることになりました。本稿では、その試遊体験会の様子を紹介します。『STRANGER THAN HEAVEN』は、発売以来、ゲームファンを魅了してきたタイトルです。戦闘システムは、特に注目を集めています。試遊体験会では、プレイヤーは、この戦闘システムを直接体験することができます。戦闘システ",
+        "description": "今もなお謎に包まれている『STRANGER THAN HEAVEN』の戦闘システムに関する試遊体験会が行われた。ここではその試遊体験会の模様を紹介する。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -179,7 +192,7 @@
         "title": "【リズム天国 ミラクルスターズ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "任天堂は6月23日、『リズム天国 ミラクルスターズ』の体験版を配信開始しました。",
+        "description": "任天堂は6月23日、『リズム天国 ミラクルスターズ』の体験版を配信を開始しました。この体験版では、プレイヤーは様々なリズムミニゲームを楽しむことができ、ゲームの魅力を先行体験することができます。リズムゲームファンやシリーズの愛好家にとっては、待ちに待った体験版の配信です。『リズム天国 ミラクルスターズ』は、リズムに合わせて様々なアクションをとることでクリアを目指す、リズムアクションゲームです。ユニ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -189,49 +202,23 @@
         "is_translated": false
       },
       {
-        "title": "【RuneScape: Dragonwilds：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "25年に及ぶ歴史を持つ長寿MMORPG「RuneScape」のスピンオフとして、昨年4月に早期アクセス版のローンチを果たし、高い評価を獲得したJagexのクラフト系オープンワールドサバイバルゲーム「RuneScape」は、プレイヤーを広大なオープンワールドに放り込み、サバイバルとクラフトを楽しむことができるゲームです。このゲームでは、ユーザーは自分のキャラクターを創造し、野生動物と戦い、資源を集め",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168117.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Gothic 1 Remake：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、待望のローンチを果たし、幾つかの改善を導入するパッチの配信も続いている「Gothic 1 Remake」ですが、初週50万本販売を突破した見事なリメイクの動向に注目が集まっています。このゲームは、「Gothic」の現世代フルリメイクとして話題になっており、発売直後から大きな人気を博しています。発売から間もない初週に50万本以上を販売するというすごい記録を達成し、ゲームファンから大きな注目を集",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168120.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Machine：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年11月の発表に続き、世界的なメモリやストレージの価格高騰を経て、Valveの新型「Steam Machine」が遂に販売開始となりました。価格とパフォーマンスのバランスやハードウェアの仕上りが注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168118.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【なし：レビュー】",
+        "title": "【グランド・セフト・オート6：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "お金を払った人たちがどれほど苦労しているか想像してみてください。お金を払った人たちがどれほど辛い思いをしているか考えてみると、ゲームの世界ではお金を払うことによって得られるメリットは少ないです。お金を払うことで得られるものはほとんどなく、お金を払った人たちがどれほど苦労しているかを知ると、ゲームの世界ではお金を払うことの意味について考えさせられます。",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-vip-early-access-scam-sites-are-already-popping-up-malwarebytes-warns/",
+        "date": "2026-06-23",
+        "is_translated": true
+      },
+      {
+        "title": "1,000ドル相当のSteamゲームをプレイしてみましたが、残念な結果に終わってしまいました。たくさんの時間を費やし、多くのゲームをプレイしています。この体験を通じて、ゲームの世界の広さと多様性を実感しました。さまざまなジャンルのゲームを楽しんだものの、期待通りにはいかなかったことが多かったです。ゲームの中には、グラフィックやサウンドデザインが素晴らしかったものもありましたが、ストーリーやゲームプレイの面で期待を裏切られることが多かったです。このような経験を通じて、自分が何を求めているのかを考える機会にもなりました。将来的には、自分の好みをより理解し、より満足のいくゲーム体験をすることができればと思います。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "お金を払った人たちがどれほど辛い思いをしているか、想像してみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -241,15 +228,15 @@
         "is_translated": true
       },
       {
-        "title": "【Magic：Marvel プレリリース：レビュー】",
+        "title": "【バットマン：ナイトフォール パート 1：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "MTG のマーベル スーパー ヒーローズのリミテッド フォーマットは、驚くほど挑戦的で、プレイするのが楽しいことがわかります。マーベル スーパー ヒーローズの世界観が MTG に融合したこのフォーマットは、プレイヤーに新たな戦略と遊び心を要求するものです。各カードには、マーベル ヒーローとヴィランのユニークな能力が込められており、プレイヤーはこれらのカードを組み合わせて、強力なデッキを作り上げてい",
+        "description": "DCは、象徴的なコミックストーリーの3部構成のアニメ化作品の最初の章であるバットマン：ナイトフォールパート1の最初の予告編を公開しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/mtg-marvel-super-heroes-prerelease-limited-tournament-report-magic/",
+        "url": "https://www.polygon.com/batman-knightfall-trailer-part-1/",
         "date": "2026-06-23",
         "is_translated": true
       },
@@ -257,7 +244,7 @@
         "title": "【Fellowship：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "シーズン3では、これまでで最大かつ最も重要なアップデートが行われます。シーズン3は、プレイヤーに新しいゲーム体験を提供するために、様々な新機能やコンテンツが追加される予定です。新しいステージやキャラクター、ゲームモードなど、多くの新しい要素が導入され、ゲームの楽しさや挑戦性が大幅に向上します。さらに、グラフィックやサウンドの質も向上し、よりリアルなゲーム体験が楽しめます。シーズン3は、既存のプレイ",
+        "description": "シーズン3では、これまでで最大かつ最も重要なアップデートが行われます。新しいステージやキャラクター、ゲームモードなど、幅広い新要素が追加され、プレイヤーの体験を大幅に向上させることになります。このアップデートにより、ゲームの世界がさらに豊かになり、プレイヤーは新しいストーリーやミッションに挑戦できるようになります。また、新しいアイテムやスキンも追加され、プレイヤーは自分だけのユニークなスタイルを表",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -267,10 +254,10 @@
         "is_translated": true
       },
       {
-        "title": "私はたいてい、フロムソフトウェアが手がけたソウルライクゲーム以外はスキップすることが多いですが、あるSteamデモに完全に惹かれてしまいました。通常、私がソウルライクゲームに興味を持ちませんが、このデモは私の心を奪いました。",
+        "title": "私はフロムソフトウェア製以外のソウルライクゲームはスキップすることが多いのですが、あるSteamデモにすっかり魅了されてしまいました。フロムソフトウェア以外のソウルライクゲームにはあまり興味がなかったのですが、Steamで出ていたデモの一つが私の心を捉えてしまいました。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "プレイヤーは『プリズン・オブ・ハスク』をプレイし、ハスクのプリズンに到着したとき、婚約者が「あれがハスクのプリズンだ」というセリフを聞くことになります。",
+        "description": "プリズン・オブ・ハスクをプレイしていると、ハスクのプリズンに到着したとき、婚約者が「あれがハスクのプリズンだ」と言うシーンがあります。このゲームは、不気味な雰囲気とスリルのある体験を提供します。プレイヤーは、未知の世界を探索し、さまざまな謎を解き明かす必要があります。ゲームのグラフィックやサウンドトラックも、恐怖を感じるための重要な要素です。恐怖を愛するゲーマーには、プレイする価値があるゲームの1",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -280,23 +267,10 @@
         "is_translated": true
       },
       {
-        "title": "【スチームマシン：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "素晴らしいデザインでも、価格、パフォーマンス、消費者価値という現実の壁に勝つことはできません。どれほど美しくデザインされた製品であっても、価格が高すぎたり、パフォーマンスが低かったり、消費者にとっての価値が低いと、結局は受け入れられません。現実的な観点から見てみると、製品はデザインだけでなく、価格や性能など様々な要素が合致しないと、消費者のニーズに応えることができません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/steam-machine-review-2026/",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
         "title": "【Steam Machine：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Steam Deckの発売時はとても楽しかったものです。Steam Deckはクールなもので、ユーザーにその魅力を存分に感じる機会を与えてくれました。しかし、新しいSteam Machineはそれとは 異なる時代に登場します。",
+        "description": "Steam Deckの発売当時はとても楽しかったです。その理由は、単にクールだったからです。クールな雰囲気を醸し出すために必要な空間と優雅さが与えられていたからです。一方、新しいSteam Machineは時代が異なり、雰囲気も異なっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -309,7 +283,7 @@
         "title": "【Gothic 1 Remake：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "昔のドイツのRPG、Gothicには、精神的な後継者がいくつかありましたが、そのほとんどは同じスタジオから生まれたものでした。2001年のデジタル配信制限の影響で、北米ではその存在があまり知られていないことになりました。Gothicの名声を引き継いだ作品は、ファンから高い評価を受けています。",
+        "description": "昔のドイツのRPG「Gothic」には、精神的な後継者がいくつかいましたが、そのほとんどは同じスタジオから派生したものでした。ただし、2001年のデジタル配信開始前に制限が存在したため、北米ではその存在があまり知られませんでした。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -322,7 +296,7 @@
         "title": "【The Elder Scrolls III: Morrowind：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "みんなが何度も経験したことです。あなたはエルダースクロールズ 3 をプレイしていると、突然のドーンとともにすべてが爆発してしまいます。そんなとき、ありがたいことにOpenMWの最新アップデートが登場します。OpenMWはオープンソースエンジンの再実装で、エルダースクロールズ 3 をよりスムーズにプレイできるようにします。最新アップデートでは、様々なバグが修正され、ゲームの安定性が向上しました。さら",
+        "description": "みんなやりましたよ。ある瞬間、あなたはエルダースクロールズ 3 をプレイしています。その後、ドーンと突き抜けて、すべてが爆発します。ありがたいことに、OpenMW の最新アップデート - オープンソース エンジンの再実装 - があります。そのアップデートにより、爆発的な瞬間をよりスムーズに体験できます。OpenMW は、ベセスダ ソフトワークスのオリジナル エンジンを忠実に再現しているため、エルダ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -332,16 +306,16 @@
         "is_translated": true
       },
       {
-        "title": "【The Last of Us 2：レビュー】",
-        "platform": "Polygon",
+        "title": "【ウルティマ：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Modder Specilizer は、人気ゲーム『The Last of Us Part 2』のマルチプレイヤー MOD をリリースするために準備を進めています。日曜日に、25 分間のゲームプレイを収めたビデオを公開しました。このビデオでは、MOD の魅力的なゲームプレイが紹介されており、ファンたちは大いに期待しています。Modder Specilizer の頑張りが実を結び、MOD がリリース",
+        "description": "アルティマシリーズの新作が久しぶりに登場しました。実際、約8年ぶりの新作となりますが、その間にはUnderworld Ascendantというタイトルでリリースされた作品もありました。こちらについては当時レビューを行っていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/the-last-of-us-2-pc-multiplayer-mod-coming-soon/",
-        "date": "2026-06-22",
+        "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
+        "date": "2026-06-20",
         "is_translated": true
       }
     ],
@@ -642,5 +616,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-23T14:29:20.715875"
+  "last_updated": "2026-06-24T03:54:15.511475"
 }

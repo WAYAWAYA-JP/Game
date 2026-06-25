@@ -5,7 +5,7 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、テーマパークのファンに朗報です。『RollerCoaster Tycoon 3』Complete Editionが配布されています。このゲームでは、プレイヤーは自分の究極のテーマパークを建設し、運営することができます。ベストセラーになったこのジェットコースターシミュレーションゲームは、2つの大規模な拡張パックを含んでおり、ジャンルを定義する傑作ゲームのスリルを体験することができます。プレイヤーは、テーマパークのデザインから、ジェットコースターの設計、運営まで、すべてをコントロールすることができます。訪問客の満足度や経済的な側面も管理する必要があり、バランスを取るのが難しいですが、成功すると非常に満足感があるゲームです。テーマパークのファンやシミュレーションゲームの愛好家には、必ず試してみるべきゲームです。",
+        "description": "Epic Gamesでは、テーマパークシミュレーションゲームの傑作である『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。ベストセラーとなり、多くのファンに支持されたこのゲームは、2つの大規模な拡張パックを搭載しており、ジェットコースターシミュレーションの楽しみを存分に味わうことができます。ジャンルを定義するこのゲームでは、テーマパークの設計から、経営と管理まで、多くの要素を自由にカスタマイズすることができます。 『RollerCoaster Tycoon 3』Complete Editionは、テーマパークファンやシミュレーションゲーム愛好者にとって、夢のゲームとなり得ます。詳細に作られたグラフィックや、豊富なゲームプレイの選択肢など、多くの特徴がこのゲームの魅力を高めています。遊園地の景観やアトラクション、そして訪れる客の満足度まで、細かく管理することができるため、ゲーム内の世界に没頭しやすいです。無料で入手できるこのゲームは、テーマパークの運営と管理の楽しみを体験したいすべてのゲーマーに、おすすめです。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Citizen Sleeper - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "惑星間資本主義の荒野で生き残るために、あなたは企業の束縛から逃れ、宇宙の辺境にある荒廃したステーションにたどり着きます。このステーションでは、さまざまな労働者たちが集まっており、あなたもその一人です。宇宙の厳しい環境の中で、資源を探し出し、物資を調達し、自分を守るための戦いを繰り広げます。惑星間資本主義の激しい争いに巻き込まれながらも、あなたは生き残り、そして独立して立ち回るための方法を模索することになります。さまざまな選択肢や戦略を用いて、宇宙での新たな地位を築いていくことができます。",
+        "description": "惑星間資本主義の荒野で生き延びろ。企業の束縛から逃れたあなたは、宇宙の辺境にある荒廃したステーションにたどり着く。ここでは、生き残るためにあらゆる手段を使い、資源を集め、戦闘を繰り広げる必要がある。宇宙の辺境で新たな生活を始め、企業の支配から自由になるために、さまざまな挑戦に立ち向かう。宇宙の未知の領域で、自分の道を切り開き、未来を形作る。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -29,7 +29,7 @@
         "title": "ROBOBEAT - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リズムにのって撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公は、エースという名の賞金稼ぎです。絶え間なく変化するステージを突き進み、狂気のロボット、フラッザーと戦わなければなりません。リズムに合わせて攻撃することで、フラッザーを倒すことができます。ステージが変化するたびに、新しいリズムや攻撃パターンが登場するので、常にリズムに合わせて動く必要があります。エースの腕前を試して、フラッザーを倒し、賞金を手に入れましょう。",
+        "description": "リズムにノッて撃ち続けろ！ リズムシューティングゲーム「ROBOBEAT」の主人公エースは、賞金稼ぎとして活躍しています。絶え間なく変化するステージを突き進み、狂気のロボットであるフラッザーと対決しなければなりません。エースは、リズムに合わせて射撃することで、フラッザーの攻撃を避けながら進んでいきます。音楽のリズムと連動したアクションが特徴的なこのゲームでは、プレイヤーはリズムに合わせて撃ち続けることで、ステージをクリアしていくことができます。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -40,7 +40,7 @@
     ],
     "bundle": [
       {
-        "title": "Going Rogue パッケージに収録のゲーム",
+        "title": "Going Rogue リットル ヘビーバンドル",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -61,6 +61,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Going Rogue パッケージに収録のゲーム",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-06-25"
       },
       {
@@ -162,10 +174,36 @@
     ],
     "review": [
       {
+        "title": "【Plant Nursery Simulator：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Robot Assemblyは6月23日、『Plant Nursery Simulator』を正式にリリースしました。このゲームは高い評価を獲得しており、植物菜園ショップの経営をシミュレートする魅力的なゲームです。プレイヤーは自分の菜園ショップを運営し、様々な植物を育て、管理することで収入を増やしていくことができます。リアルな植物の生育シミュレーションと経営管理が融合したこのゲームは、ユーザーから",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451829/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【ウィッチャー3：レビュー】\n【リアニマル：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ニンテンドーeショップでは6月25日、Nintendo Switch 2とNintendo Switch向けの新しいセールが始まりました。このセールでは、約570本のタイトルが対象になります。さまざまなジャンルの人気タイトルや、奥深いストーリーや魅力的なゲームプレイが楽しめるタイトルなどが勢揃いしています。セール対象のタイトルは、ニンテンドーeショップで簡単に検索できます。ゲーマーであれば、気にな",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451801/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
         "title": "【ラタタン（RATATAN）：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Game Source Entertainmentは6月25日、リズムアクションゲーム『ラタタン（RATATAN）』の正式リリース日を10月15日に延期することを発表しました。この延期により、開発チームはゲームの品質をさらに高め、プレイヤーの満足度を向上させることができます。リズムアクションゲームとして、音楽とアクションが融合した新しいゲーム体験が期待できそうです。10月15日に正式リリースされる",
+        "description": "Game Source Entertainmentは6月25日、注目を集めるリズムアクションゲーム『ラタタン（RATATAN）』の正式リリース日を、10月15日へ延期すると発表しました。この延期により、開発チームはゲームの品質をさらに高めることができ、ユーザーにはより完成度の高い作品が届けられることになります。『ラタタン』は、音楽とアクションを融合させた独特のゲーム性が特徴で、プレイヤーはリズムに",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -175,10 +213,10 @@
         "is_translated": false
       },
       {
-        "title": "【なし：レビュー】",
+        "title": "Steamで「AI生成コンテンツの使用開示」に記載がある場合、レビューが少なくなるというデータ分析報告",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamでは、「AI生成コンテンツの開示」がある作品でレビューが少なくなる可能性を示す分析が改めて話題になっている。Steamプラットフォームでは、AIによって生成されたコンテンツが含まれているゲームについて、そのことをユーザーに明示するよう開発者に求めている。最近の分析結果によると、このような開示があるゲームは、レビュー数が少なくなっていることが分かっている。これは、ユーザーがAI生成コンテン",
+        "description": "Steamでは、AIで生成されたコンテンツを明示している作品のレビュー数が少なくなる可能性があるという分析結果が再び注目を集めている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -204,7 +242,7 @@
         "title": "【Citizen Sleeper：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Signet City の公開トレーラーを見れば、これが普通ではないゲームになることは明らかです。都市全体の複数の宿主に影響を与える真菌の脳寄生虫を操作するという、画期的なゲームです。この真菌は藻類が動力源となっており、都市の中で様々な宿主に影響を与えます。プレイヤーはこの真菌を操作し、都市の中で生きていくことを目指します。Signet City は、通常のゲームとは一線を画した、ユニークな体験を",
+        "description": "Signet City の公開トレーラーを見れば、これが普通ではないゲームになることは明らかです。都市全体が藻類によって動き、アクションが展開されるこのゲームでは、あなたは真菌の脳寄生虫を操作します。この真菌は、都市を構成する複数の宿主に影響を与えることができます。都市全体を支配することで、真菌の力がどのように広がるのかを見てみようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,19 +262,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-vip-early-access-scam-sites-are-already-popping-up-malwarebytes-warns/",
         "date": "2026-06-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Machine：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam Deckが発売されたときは、ゲームを遊ぶための新しいスタイルを体験できたので、非常に楽しかったです。 Steam Deckは、ユーザーに新しい自由度を与え、ゲームをより快適に楽しむことができるように設計されていました。対照的に、新しいSteam Machineは、より進化した技術と新しい機能を搭載して登場します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-machine-review",
-        "date": "2026-06-22",
         "is_translated": true
       }
     ],
@@ -537,5 +562,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-25T03:54:29.180261"
+  "last_updated": "2026-06-25T14:04:37.120436"
 }

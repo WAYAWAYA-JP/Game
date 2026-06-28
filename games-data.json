@@ -5,7 +5,7 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Games で配布中の 『RollerCoaster Tycoon 3』 Complete Edition です。このゲームでは、究極のテーマパークを建設することができます。絶賛されたベストセラーのジェットコースターシミュレーションを再発見することができます。2 つの大規模な拡張パックを搭載しているため、ジャンルを定義する傑作ゲームのスリルを十分に楽しむことができます。 このゲームの特徴は、テーマパークの設計と管理が自由にできることです。アトラクションや施設を配置して、来場者の満足度を上げることが目標です。また、ジェットコースターの設計にもこだわっており、コースのレイアウトや車両のカスタマイズが可能です。 『RollerCoaster Tycoon 3』 Complete Edition では、2 つの大規模な拡張パックが含まれています。これにより、さらに多くのコンテンツや機能が追加され、ゲームの深みや楽しさが増しています。テーマパークの運営に必要な要素を網羅しているため、シミュレーションゲームのファンには必見のタイトルです。 Epic Games での無料配布により、誰でもこのゲームを体験することができます。『RollerCoaster Tycoon 3』 Complete Edition をプレイして、テーマパークの運営とジェットコースターの設計の魅力を感じてみてください。",
+        "description": "Epic Gamesで無料配布中の『RollerCoaster Tycoon 3』Complete Editionは、究極のテーマパークを建設する夢を叶えるゲームです。このベストセラー作品は、ジェットコースターのシミュレーションを再定義し、2つの大規模な拡張パックを搭載しています。プレイヤーは、パークのデザインからジェットコースターの設計まで、すべてを自由にカスタマイズできます。多様なアトラクションや施設を組み合わせて、訪問者が満足するような魅力的なテーマパークを創造することができます。ゲームのグラフィックやサウンドトラックも、テーマパークでの体験をよりリアルに感じることができます。また、経営の要素もあり、財政を管理しながらパークを成功させることが目標です。『RollerCoaster Tycoon 3』Complete Editionは、創造性と経営のスキルを同時に発揮できる、ユニークで面白いゲームです。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Voidwrought - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐しよう。パワーアップアイテムを集めながら、古代の芸術的なファクトを発見し、神殿を拡大させよう。このゲームでは、プレイヤーは恐怖の宇宙を冒険し、神々と戦いながら、古代の秘密を解き明かすことができます。手描きのグラフィックと緊張感のあるサウンドトラックが、プレイヤーを恐怖の宇宙へと引き込むでしょう。",
+        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームでは、目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐することができます。プレイヤーはパワーアップしながら、古代の芸術ファクトを発見し、残骸の中に神殿を拡大させていきます。手描きの恐怖の宇宙を舞台に、プレイヤーは古代の神々との戦いを繰り広げ、未知の世界を探索します。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -37,6 +37,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "アークシステムワークス Evo コレクション（PS4、PC）",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-06-28"
       },
       {
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-06-19"
-      },
-      {
-        "title": "Movember Father's Day Charity Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-06-19"
       }
     ],
     "review": [
       {
+        "title": "【Nursery Rhyme -ナーサリィ☆ライム-：レビュー】\n【UNBEATABLE：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "今週のAUTOMATONでは、ゲーム紹介系記事が大きな反響を呼びました。この中から、特に注目を集めた7本の記事を紹介します。今週は『Nursery Rhyme -ナーサリィ☆ライム-』や『私たちフェイクマリッジ？』、『KAIJECT』などが話題となっていました。これらの記事では、各ゲームの魅力や特徴が紹介されており、ゲーマーにとってはおもしろい情報が満載です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260628-452400/",
+        "date": "2026-06-28",
+        "is_translated": false
+      },
+      {
         "title": "【ウマ娘：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ウマ娘 プリティーダービー』の新しい育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイレポートをお届けします。このシナリオでは、プレイヤーはトレーニングセンターでウマ娘たちを育成し、さまざまなレースに挑戦します。新しいキャラクターやイベントも追加されており、シリーズファン必見の内容です。シナリオの詳細や、ゲームプレイの感想などを含んだレポートを通じて、最新の情報を楽しん",
+        "description": "『ウマ娘 プリティーダービー』の新育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイレポートをお届けします。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,10 @@
         "is_translated": false
       },
       {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この手紙は、私が氷嚢のベッドに横たわり、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。ただし、私の自虐的な計画が順調に進めば、もうすぐ終わりだということになります。",
+        "description": "この手紙は、私が氷嚢のベッドに横たわり、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。ただ、自虐的な計画通りに進めば、もうすぐ終わりだろうと考えているようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Easy Delivery Co.：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "昨年9月にリリースされて高い評価を獲得したSam C氏の新作「Easy Delivery Co.」は、先日コンソールとモバイルにも対応しました。その後、Sam C氏はSteamページを更新し、追加のゲームモードを導入する無料のアップデートを発表しました。この無料アップデートにより、プレイヤーは新しい挑戦に立ち向かうことができ、ゲームの재미がさらに増すことになります。ゲームの評価は高いものの、Sam",
+        "description": "昨年9月にリリースされ、高い評価を獲得したSam C氏の新作「Easy Delivery Co.」は、先日コンソールとモバイルにも対応しました。さらに、Sam C氏はSteamページを更新し、追加のゲームモードを導入する無料アップデートを発表しました。プレイヤーは、新しいゲームモードを楽しむことができ、より多様なゲーム体験が可能になります。アップデートには、新しいチャレンジやミッションが追加され、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +265,7 @@
         "title": "【めちゃカメレオン：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "不便なソフトウェアに包まれているものの、マルチプレイヤーのコンセプトは必ず見ておくべきものです。",
+        "description": "ぎこちないソフトウェアで包まれているかもしれませんが、マルチプレイヤーのコンセプトは必ず見てみるべきです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +278,7 @@
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "英国で猛暑が続いている今日、メールの受信箱を開いてみると、美しい滝や厚いヤシの葉の天蓋、氷が腹部に沈む音を奏でる不思議なビデオゲームを求めていることが分かりました。",
+        "description": "英国の猛烈な暑さに我を忘れて、私はメールの受信箱を開いて、滝の音や厚いヤシの葉の天蓋、氷が腹に降り積もるような歯がゆい音を特集したビデオゲームを必死に探しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -416,5 +429,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-28T04:08:35.739103"
+  "last_updated": "2026-06-28T13:17:41.989426"
 }

@@ -5,25 +5,25 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中の『RollerCoaster Tycoon 3』Complete Editionは、究極のテーマパークを建設する夢を叶えるゲームです。このベストセラー作品は、ジェットコースターのシミュレーションを再定義し、2つの大規模な拡張パックを搭載しています。プレイヤーは、パークのデザインからジェットコースターの設計まで、すべてを自由にカスタマイズできます。多様なアトラクションや施設を組み合わせて、訪問者が満足するような魅力的なテーマパークを創造することができます。ゲームのグラフィックやサウンドトラックも、テーマパークでの体験をよりリアルに感じることができます。また、経営の要素もあり、財政を管理しながらパークを成功させることが目標です。『RollerCoaster Tycoon 3』Complete Editionは、創造性と経営のスキルを同時に発揮できる、ユニークで面白いゲームです。",
+        "description": "Epic Gamesでは、『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、究極のテーマパークを建設し、ベストセラーのジェットコースターシミュレーションを再発見することができます。2つの大規模な拡張パックを搭載したこのゲームは、ジャンルを定義する傑作です。プレイヤーは、自らのアイデアと創造性を発揮して、ユニークなテーマパークを設計し、運営することができます。様々なジェットコースターとアトラクションを建設し、訪れる客の満足度を高めるために、施設やサービスを整えることができます。また、ゲームのグラフィックやサウンドトラックも、テーマパーク体験をよりリアルに感じることができます。『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームファンには必ずおすすめです。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-28"
+        "date": "2026-06-29"
       },
       {
         "title": "Voidwrought - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームでは、目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐することができます。プレイヤーはパワーアップしながら、古代の芸術ファクトを発見し、残骸の中に神殿を拡大させていきます。手描きの恐怖の宇宙を舞台に、プレイヤーは古代の神々との戦いを繰り広げ、未知の世界を探索します。",
+        "description": "「Voidwrought」は、手描きで描かれた恐ろしい宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームでは、目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐することが目的です。ゲームを進めることで、さまざまなパワーを身につけ、古代の芸術的なファクトを発見することができます。さらに、古代の神殿を拡大させ、さまざまな場所を探索することができます。恐怖と不気味な雰囲気を持つこのゲームでは、プレイヤーは恐怖と戦いながら、宇宙の秘密を解き明かそうとします。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-28"
+        "date": "2026-06-29"
       }
     ],
     "bundle": [
@@ -37,7 +37,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
+        "date": "2026-06-29"
+      },
+      {
+        "title": "アークシステムワークス：Evoコレクション（PS4、PC）",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-06-29"
       },
       {
         "title": "アークシステムワークス Evo コレクション（PS4、PC）",
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-06-23"
-      },
-      {
-        "title": "Movember Father's Dayチャリティーバンドル",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-06-19"
       }
     ],
     "review": [
       {
+        "title": "メモリ価格は第3四半期に最大50%上昇すると予測されており、そこからさらに悪影響が広がる可能性があります。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私は今後何年も低解像度のインディーズ ゲームを楽しみたいと思っています。低解像度のインディーズ ゲームは、独自の世界観やユニークなゲーム性が魅力です。近年では、低解像度のグラフィックを意図的に採用したゲームも登場しています。低解像度のゲームならではのアトモスフィアや、レトロな雰囲気を楽しむことができます。また、インディーズ ゲームは、大手ゲームメーカーが手がけれないような独自のアイデアや実験的なゲ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/memory-prices-are-predicted-to-rise-as-much-as-50-percent-in-q3-and-it-only-gets-worse-from-there/",
+        "date": "2026-06-29",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "6 月 28 日までの週の Steam に関する興味深い事実をまとめました。Steam のユーザー数や新作ゲームの発売、人気ゲームのアップデートなど、様々なトピックが含まれています。この記事では、Steam に関する最新の情報を詳しく紹介します。Steam で起きた注目すべき出来事や、新しい機能の追加など、ゲームファン必見の情報が盛りだくさんです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-sales-are-the-best-time-to-hoard-dozens-of-forgotten-90s-pc-gaming-oddities/",
+        "date": "2026-06-29",
+        "is_translated": true
+      },
+      {
         "title": "【Nursery Rhyme -ナーサリィ☆ライム-：レビュー】\n【UNBEATABLE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "今週のAUTOMATONでは、ゲーム紹介系記事が大きな反響を呼びました。この中から、特に注目を集めた7本の記事を紹介します。今週は『Nursery Rhyme -ナーサリィ☆ライム-』や『私たちフェイクマリッジ？』、『KAIJECT』などが話題となっていました。これらの記事では、各ゲームの魅力や特徴が紹介されており、ゲーマーにとってはおもしろい情報が満載です。",
+        "description": "今週のAUTOMATONでは、注目度の高いゲーム紹介記事を中心に、7本の記事をピックアップしました。今週は『Nursery Rhyme -ナーサリィ☆ライム-』のほか、『私たちフェイクマリッジ？』や『KAIJECT』などが大きな話題となりました。これらの記事では、各ゲームの魅力的な世界観や、プレイヤーにとって新鮮な体験を提供するゲームプレイが紹介されています。ゲームファンには、必見の記事です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +249,23 @@
         "is_translated": false
       },
       {
+        "title": "【The Elder Scrolls V: Skyrim：レビュー】\n【The Witcher 3: Wild Hunt：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "これらのゲームには、記憶に残る物語や見逃せない秘密、ユニークなゲームプレイが備わった、時間をかけてプレイする価値のある優れたサイドクエストが多数含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-rpg-side-quests/",
+        "date": "2026-06-28",
+        "is_translated": true
+      },
+      {
         "title": "【ウマ娘：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ウマ娘 プリティーダービー』の新育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイレポートをお届けします。",
+        "description": "『ウマ娘 プリティーダービー』の新しい育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイレポートをお届けします。このシナリオでは、プレイヤーはトレセン軒を運営し、ウマ娘たちの育成に挑戦します。さまざまなウマ娘たちと出会い、彼女たちの能力を引き出して、頂点を目指すというストーリーです。先行プレイレポートでは、この新しいシナリオの魅力的な要素や、プレイヤーが直面する挑戦につい",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +275,10 @@
         "is_translated": false
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この手紙は、私が氷嚢のベッドに横たわり、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。ただ、自虐的な計画通りに進めば、もうすぐ終わりだろうと考えているようです。",
+        "description": "この手紙は、私が氷嚢のベッドに横たわり、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。しかし、自虐的な計画を進めていけば、もう限界だったでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,36 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【Easy Delivery Co.：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年9月にリリースされ、高い評価を獲得したSam C氏の新作「Easy Delivery Co.」は、先日コンソールとモバイルにも対応しました。さらに、Sam C氏はSteamページを更新し、追加のゲームモードを導入する無料アップデートを発表しました。プレイヤーは、新しいゲームモードを楽しむことができ、より多様なゲーム体験が可能になります。アップデートには、新しいチャレンジやミッションが追加され、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168250.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【めちゃカメレオン：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ぎこちないソフトウェアで包まれているかもしれませんが、マルチプレイヤーのコンセプトは必ず見てみるべきです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-review/",
-        "date": "2026-06-26",
-        "is_translated": true
-      },
-      {
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "英国の猛烈な暑さに我を忘れて、私はメールの受信箱を開いて、滝の音や厚いヤシの葉の天蓋、氷が腹に降り積もるような歯がゆい音を特集したビデオゲームを必死に探しています。",
+        "description": "英国での猛烈な熱波に襲われた私は、メールの受信箱を開いて、滝の音や厚いヤシの葉の天蓋、氷が腹部に沈殿する歯軋りの音を伴うビデオゲームを必死に探している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -429,5 +442,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-28T13:17:41.989426"
+  "last_updated": "2026-06-29T04:14:58.785499"
 }

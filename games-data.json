@@ -5,7 +5,7 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、人気のジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。元のゲームに加えて、2つの大規模な拡張パックが含まれており、より多様なアトラクションや機能が利用できます。 『RollerCoaster Tycoon 3』は、テーマパークの設計や管理を楽しむことができる、ベストセラーのゲームです。プレイヤーは、ジェットコースターの設計からパークの運営管理まで、すべての面でテーマパークを管理することができます。さまざまなアトラクションや施設を建設し、来場者の満足度を高め、パークを成功させることが目的です。 このゲームの特徴の1つは、詳細なグラフィックとリ얼タイムのシミュレーションです。プレイヤーは、来場者の行動やアトラクションの動作を観察し、必要に応じて調整することができます。また、ゲーム内では、さまざまなイベントやシナリオが用意されており、プレイヤーはそれに対応する必要があります。 『RollerCoaster Tycoon 3』Complete Editionは、ジェットコースターシミュレーションのファンやテーマパークが好きな人にとって、非常に魅力的です。無料で配布されているので、興味のあるプレイヤーは、Epic Gamesをチェックしてみることをお勧めします。",
+        "description": "Epic Gamesでは、人気のジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。ベストセラーとして絶賛されたこのゲームは、2つの大規模な拡張パックを搭載しており、ジャンルを定義する傑作ゲームのスリルを体験することができます。プレイヤーは、ジェットコースターの設計からパークの管理まで、テーマパークのすべての側面を制御することができます。さらに、グラフィックやサウンドトラックがリアルで、臨場感のある体験を提供します。『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームファンにはお勧めのゲームです。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Voidwrought - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームでは、目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐することができます。プレイヤーは、パワーアップアイテムを集めながら、古代の芸術的なファクトを発見し、残骸の中に神殿を拡大させていきます。恐怖の宇宙で戦いながら、古代の秘密を解き明かすことができるでしょう。",
+        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。最古の文明の遺跡が目覚め始めた世界で、古代の神々と戦いながらその秘密を解き明かしていきます。様々なパワーアップを手に入れ、古代の芸術ファクトリーや神殿を発見し、残骸の中から新たな拠点を築いていくことができます。恐怖の宇宙を舞台にしたこのゲームでは、プレイヤーは強大な神々を倒し、古代の技術を利用して新たな力を手に入れ、宇宙の秘密を解き明かすことができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -210,10 +210,36 @@
     ],
     "review": [
       {
+        "title": "【ストップ・キリング・ゲームズ：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "カリフォルニア州の法案は、オンラインゲームのサーバーを閉じるパブリッシャーに、プレイヤーがサーバーに依存せずにゲームを続行できるバージョンのゲームを提供するか、全額を返金することを義務付けることを目的としています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-were-only-three-votes-away-stop-killing-games-backed-california-bill-to-keep-online-games-playable-fails-to-win-over-senate-committee",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Human Vapor：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Netflix の『ヒューマン ヴェイパー』は、東宝の最も愛されている昭和時代の特撮映画の 1 つを基にして構築された、興味深い展開に満ちた広大な陰謀の物語です。東宝のこの名作は、愛と哀しみ、そして人間の心の深さを描いた、永遠のテーマを扱った作品です。この作品は、特撮映画のファンだけではなく、ドラマや映画を好む人にとっても、必見の作品です。陰謀に巻き込まれた登場人物たちの複雑な関係や、人間の心の奥",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/human-vapor-netflix-review/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
         "title": "“暴力ゲーム有害説”を示す研究を「ゲーマーは疑って遠ざけがちな可能性」。“レッテル貼り”と受け止め、読む気も削がれる心理",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "「暴力ゲームによってプレイヤーの攻撃性が高まる」とする研究に対して、ゲーマーは防衛的な反応から研究者の能力などを低く評価する傾向があるです。暴力ゲームの影響に関する研究結果が発表されると、ゲーマーの間では研究に対する批判の声が上がることがあります。研究者がゲームを十分に理解していないという意見や、ゲームをプレイしたことがない研究者がゲームの影響を語ることは不当だという意見が出ることもあります。こう",
+        "description": "「暴力ゲームによってプレイヤーの攻撃性が高まる」という研究に対して、ゲーマーはその研究に対して否定的になりがちです。つまり、ゲーマーは研究者の能力などを低く評価する傾向にあるのです。これは、自分の好きなゲームが批判されていることに対する防衛反応によるものと言えるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "【nophenia：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "個人開発者のlane氏は6月26日、ゲーム『nophenia』をPC（Steam）にて発売しました。発売直後から高い評価を得て、瞬く間に人気を集めています。",
+        "description": "個人開発者のlane氏は6月26日、タイトル『nophenia』をPC（Steam）でリリースしました。発売直後から高い評価を獲得し、人気を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +262,10 @@
         "is_translated": false
       },
       {
-        "title": "今までで最も興奮した格闘ゲームは、発売前にPCでプレイテストを受けることです。",
+        "title": "【ストリートファイター6：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ソニーが撤退したにもかかわらず、Marvel のトコンは依然として PC でプレイすることができます。",
+        "description": "Marvel Tokon はソニーが撤退したにもかかわらず、PC で楽しむことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,36 +275,10 @@
         "is_translated": true
       },
       {
-        "title": "【Dead or Alive 6：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Dead or Alive 6 Last Round にはロールバック ネットコードが存在しませんが、高価な DLC やフォト モードなど、追加要素が豊富です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fighting/the-original-version-of-dead-or-alive-6-was-delisted-in-favor-of-a-rerelease-thats-currently-at-70-percent-negative-reviews-on-steam-tecmo-just-sees-this-as-the-coomer-franchise/",
-        "date": "2026-06-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Nursery Rhyme -ナーサリィ☆ライム-：レビュー】\n【UNBEATABLE：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "今週のAUTOMATONでは、ゲーム紹介記事が多く話題を集めました。その中から、7本の記事をピックアップしました。今週は『Nursery Rhyme -ナーサリィ☆ライム-』や『私たちフェイクマリッジ？』、『KAIJECT』などが特に注目を集めました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260628-452400/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この手紙は、私が氷嚢のベッドに横たわり、換気の良い暗い部屋からあなたに届けられたことをお伝えしたいと思います。ただし、自虐的な計画通りに進めば、もう時間が経過しているだろうと思われます。",
+        "description": "この手紙は、私が氷嚢のベッドに横たわって、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。しかしその計画が自虐的なものであることを考えると、もう成功していると思います。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +291,7 @@
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "英国での猛烈な暑波が続くなか、私はメールの受信箱を開いて、滝や分厚いヤシの葉の天蓋、そして腹部に氷が沈むような歯ぎしり音が特徴的なビデオゲームを必死に探していた。",
+        "description": "英国で熱波が続いているある日、私はメールの受信箱を開き、ユニークなビデオゲームを探すことにしました。滝の音、厚いヤシの葉の天蓋、腹部に氷が触れる音など、不思議な世界観に魅了されるゲームを求めて、ひとつひとつのメールをチェックしていきました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -442,5 +442,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-30T03:56:43.164398"
+  "last_updated": "2026-06-30T13:56:49.621863"
 }

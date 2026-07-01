@@ -5,25 +5,25 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、人気のジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。ベストセラーとして絶賛されたこのゲームは、2つの大規模な拡張パックを搭載しており、ジャンルを定義する傑作ゲームのスリルを体験することができます。プレイヤーは、ジェットコースターの設計からパークの管理まで、テーマパークのすべての側面を制御することができます。さらに、グラフィックやサウンドトラックがリアルで、臨場感のある体験を提供します。『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームファンにはお勧めのゲームです。",
+        "description": "Epic Gamesでは、『RollerCoaster Tycoon 3』Complete Editionが無料配布されています。このゲームでは、究極のテーマパークを建設し、ベストセラーのジェットコースターシミュレーションを再発見することができます。Complete Editionには、2つの大規模な拡張パックが搭載されており、ジャンルを定義する傑作ゲームのスリルを楽しむことができます。プレイヤーは、パークのデザインからジェットコースターの設計まで、すべてをコントロールすることができ、Visitiorの満足度や公園の収益を上げるために、様々な施設やアトラクションを追加することができます。また、グラフィックやサウンドも高品質で、臨場感あふれるゲーム体験を提供します。無料配布のチャンスを逃さずに、テーマパークマネージャーとしての夢を叶えてみましょう。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-30"
+        "date": "2026-07-01"
       },
       {
         "title": "Voidwrought - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。最古の文明の遺跡が目覚め始めた世界で、古代の神々と戦いながらその秘密を解き明かしていきます。様々なパワーアップを手に入れ、古代の芸術ファクトリーや神殿を発見し、残骸の中から新たな拠点を築いていくことができます。恐怖の宇宙を舞台にしたこのゲームでは、プレイヤーは強大な神々を倒し、古代の技術を利用して新たな力を手に入れ、宇宙の秘密を解き明かすことができます。",
+        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。古代の遺跡を探索し、そこに住む神々を討伐することを目標にします。プレイヤーは、ゲームを進めながら新しい能力を獲得し、古代の芸術的なファクトを発見することができます。さらに、古代の神殿を拡大させ、未知の領域を解放することができます。このゲームでは、プレイヤーは恐怖の宇宙で生き残り、古代の秘密を解き明かすために、様々な挑戦に立ち向かう必要があります。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-06-30"
+        "date": "2026-07-01"
       }
     ],
     "bundle": [
@@ -210,10 +210,62 @@
     ],
     "review": [
       {
+        "title": "【Dark Rock 6：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "より良いですが、それにはどのような費用がかかりますか?",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/cooling/be-quiet-dark-rock-6-and-dark-rock-pro-6-review/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【タートルビーチコマンドシリーズ KB7 TKL：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Turtle Beach は、別のスクリーンレス PC の主力製品にスクリーンを搭載しました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/turtle-beach-command-series-kb7-tkl-review/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【トゥームレイダー：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "トゥーム レイダー：アトランティスの遺産の主任ゲームデザイナーであり、アウトライダーズやホライゾンの開発にも携わった、マルシン・マトゥシュチック氏がボスバトルのデザインについて語ります。ボスバトルは、ゲームをより魅力的にする上で重要な役割を果たす要素のひとつです。マトゥシュチック氏は、ボスバトルのデザインにおいて、プレイヤーが戦うボスキャラクターの設計や戦略、ストーリーの展開などを考慮する必要があ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-attended-a-tomb-raider-and-horizon-developers-boss-design-masterclass-and-came-away-both-weary-and-enchanted",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Ground Branch：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "アダム・スミスを怠け者とは言いたくないが、彼は2012年にGround BranchのKickstarterキャンペーンについて初めて記事を書きました。その後、彼はこのタクティカルシューターの開発に関する最新情報を一度も提供されていません。アダム・スミスが言及したように、Ground Branchは実際には開発が進行中のタクティカルファーストパーソンシューターです。このゲームは、プレイヤーがテロ対",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/ground-branch-a-first-person-tactical-shooter-from-an-original-rainbow-six-dev-is-finally-hitting-v10-after-eight-years-in-early-access",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
         "title": "【ストップ・キリング・ゲームズ：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "カリフォルニア州の法案は、オンラインゲームのサーバーを閉じるパブリッシャーに、プレイヤーがサーバーに依存せずにゲームを続行できるバージョンのゲームを提供するか、全額を返金することを義務付けることを目的としています。",
+        "description": "カリフォルニア州の新しい法案により、オンラインゲームのサーバーを停止するゲームパブリッシャーには、プレイヤーがサーバーを終了してもゲームを続けることができるバージョンを提供するか、プレイヤーに全額を返金することが求められます。この法案は、サーバーを停止してもゲームを存続させる方法を提供することの重要性を強調しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,23 +275,10 @@
         "is_translated": true
       },
       {
-        "title": "【Human Vapor：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Netflix の『ヒューマン ヴェイパー』は、東宝の最も愛されている昭和時代の特撮映画の 1 つを基にして構築された、興味深い展開に満ちた広大な陰謀の物語です。東宝のこの名作は、愛と哀しみ、そして人間の心の深さを描いた、永遠のテーマを扱った作品です。この作品は、特撮映画のファンだけではなく、ドラマや映画を好む人にとっても、必見の作品です。陰謀に巻き込まれた登場人物たちの複雑な関係や、人間の心の奥",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/human-vapor-netflix-review/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
         "title": "“暴力ゲーム有害説”を示す研究を「ゲーマーは疑って遠ざけがちな可能性」。“レッテル貼り”と受け止め、読む気も削がれる心理",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "「暴力ゲームによってプレイヤーの攻撃性が高まる」という研究に対して、ゲーマーはその研究に対して否定的になりがちです。つまり、ゲーマーは研究者の能力などを低く評価する傾向にあるのです。これは、自分の好きなゲームが批判されていることに対する防衛反応によるものと言えるでしょう。",
+        "description": "「暴力ゲームによってプレイヤーの攻撃性が高まる」という研究に対して、ゲーマーは防衛的な反応を示し、研究者の能力などを低く評価する傾向にあるという。ゲーマーの中には、ゲームが暴力的な行動につながるという考えを拒否し、ゲームは単に娯楽の一つに過ぎないと主張する人もいる。さらに、ゲームはストレス解消や社会的なつながりを提供するなど、プレイヤーにさまざまなメリットをもたらすことがあるという指摘もある。ゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +291,7 @@
         "title": "【nophenia：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "個人開発者のlane氏は6月26日、タイトル『nophenia』をPC（Steam）でリリースしました。発売直後から高い評価を獲得し、人気を集めています。",
+        "description": "個人開発者のlane氏は6月26日、『nophenia』をPC（Steam）にて発売しました。発売直後から高い評価を得て、人気を博しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,42 +301,16 @@
         "is_translated": false
       },
       {
-        "title": "【ストリートファイター6：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Marvel Tokon はソニーが撤退したにもかかわらず、PC で楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fighting/the-only-fighting-game-ive-ever-been-excited-for-is-now-getting-a-pc-playtest-before-launch/",
-        "date": "2026-06-29",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "この手紙は、私が氷嚢のベッドに横たわって、換気の良い暗い部屋からあなたに届けられたことを伝えたいと思います。しかしその計画が自虐的なものであることを考えると、もう成功していると思います。",
+        "description": "私が氷嚢のベッドに横たわり、換気の良い暗い部屋で過ごしていることをあなたに伝えたいと思います。ただ、自虐的な計画を実行すれば、もう終わっているはずです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-388",
         "date": "2026-06-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Sandustry：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "英国で熱波が続いているある日、私はメールの受信箱を開き、ユニークなビデオゲームを探すことにしました。滝の音、厚いヤシの葉の天蓋、腹部に氷が触れる音など、不思議な世界観に魅了されるゲームを求めて、ひとつひとつのメールをチェックしていきました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/deep-and-volatile-terraria-style-factory-sim-sandustry-hits-early-access-in-august-hooded-horse-announce",
-        "date": "2026-06-26",
         "is_translated": true
       }
     ],
@@ -442,5 +455,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-30T13:56:49.621863"
+  "last_updated": "2026-07-01T04:11:44.779870"
 }

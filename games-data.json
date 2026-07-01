@@ -5,7 +5,7 @@
         "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、『RollerCoaster Tycoon 3』Complete Editionが無料配布されています。このゲームでは、究極のテーマパークを建設し、ベストセラーのジェットコースターシミュレーションを再発見することができます。Complete Editionには、2つの大規模な拡張パックが搭載されており、ジャンルを定義する傑作ゲームのスリルを楽しむことができます。プレイヤーは、パークのデザインからジェットコースターの設計まで、すべてをコントロールすることができ、Visitiorの満足度や公園の収益を上げるために、様々な施設やアトラクションを追加することができます。また、グラフィックやサウンドも高品質で、臨場感あふれるゲーム体験を提供します。無料配布のチャンスを逃さずに、テーマパークマネージャーとしての夢を叶えてみましょう。",
+        "description": "Epic Gamesでは、『RollerCoaster Tycoon 3』Complete Editionが無料配布中です。このゲームでは、究極のテーマパークを建設し、ベストセラーのジェットコースターシミュレーションを再発見することができます。ジャンルを定義する傑作ゲームであり、2つの大規模な拡張パックが含まれています。このゲームで、プレイヤーはテーマパークのオーナーとなり、ジェットコースターの設計からパークの運営管理まで、様々な要素を扱うことができます。ジェットコースターの設計では、隧道、Looper、スピードなどの要素を調整して、訪問客を興奮させます。また、パークの運営管理では、来場客の満足度、従業員の管理、予算の調整など、パークを成功させるための様々な戦略を講じる必要があります。2つの大規模な拡張パックにより、さらなる要素や機能が追加され、ゲームの幅が広がります。この無料配布は、テーマパークの夢を見ているゲーマーにとって、絶好の機会です。ぜひ、この無料ゲームをダウンロードして、テーマパークの世界で夢中になる準備をしてみてください。",
         "price": "無料",
         "originalPrice": "¥2,050",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Voidwrought - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。古代の遺跡を探索し、そこに住む神々を討伐することを目標にします。プレイヤーは、ゲームを進めながら新しい能力を獲得し、古代の芸術的なファクトを発見することができます。さらに、古代の神殿を拡大させ、未知の領域を解放することができます。このゲームでは、プレイヤーは恐怖の宇宙で生き残り、古代の秘密を解き明かすために、様々な挑戦に立ち向かう必要があります。",
+        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐しよう。パワーアップしながら、古代の芸術ファクトを発見し、残骸の中に神殿を拡大させよう。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Indiependence Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-01"
+      },
       {
         "title": "[Steam] Super Night Riders Series Collector Bundle ($12.91/32% off)",
         "platform": "Steam",
@@ -194,23 +206,50 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-25"
-      },
-      {
-        "title": "[Steam] UBERMOSH Collection + Soundtrack Bundle ($0.49 / 90% Off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-23"
       }
     ],
     "review": [
       {
-        "title": "【Dark Rock 6：レビュー】",
+        "title": "【アークナイツ：エンドフィールド：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "HypergryphとGRYPHLINEは、6月19日に、人気ゲーム『アークナイツ：エンドフィールド』で新しいイベント「危機契約 再燃試験作戦」を開始しました。このイベントでは、プレイヤーが新たな挑戦に立ち向かうことができ、ゲームの世界に新たな楽しみが加わります。ゲームのストーリーやキャラクターもさらに深化し、プレイヤーは新しい能力やアイテムを入手することができます。HypergryphとGRYP",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452842/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【LOVE ETERNAL：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PLAYISMは、7月1日に『LOVE ETERNAL（ラブエターナル）』の日本語版を7月16日にリリースすることを告知しました。PLAYISMはアクティブゲーミングメディアのパブリッシングブランドです。このゲームは、7月16日から日本語で楽しむことができるようになります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452786/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【リズム天国グルーヴ：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Rhythm Heaven Groove は、古い方式を新鮮に保つために、いくつかの新しい要素を追加しながら、カルト音楽のクラシックを安全に復活させます。従来の音楽ゲームのスタイルをベースにしながらも、1つや2つのサプライズを加えることで、フレッシュな感覚をプレイヤーに提供します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/rhythm-heaven-groove-review/",
+        "date": "2026-07-01",
+        "is_translated": true
+      },
+      {
+        "title": "【Dark Rock 6：レビュー】\n【Dark Rock Pro 6：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "より良いですが、それにはどのような費用がかかりますか?",
@@ -226,7 +265,7 @@
         "title": "【タートルビーチコマンドシリーズ KB7 TKL：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Turtle Beach は、別のスクリーンレス PC の主力製品にスクリーンを搭載しました。",
+        "description": "Turtle Beach は、別のスクリーンレス PC の主力製品にスクリーンを搭載しました。これにより、プレイヤーはより一層没入感のあるゲーム体験が楽しめるようになります。スクリーンを内蔵したこの製品は、ゲームを更に楽しく快適にプレイできる環境を提供します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +278,7 @@
         "title": "【トゥームレイダー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "トゥーム レイダー：アトランティスの遺産の主任ゲームデザイナーであり、アウトライダーズやホライゾンの開発にも携わった、マルシン・マトゥシュチック氏がボスバトルのデザインについて語ります。ボスバトルは、ゲームをより魅力的にする上で重要な役割を果たす要素のひとつです。マトゥシュチック氏は、ボスバトルのデザインにおいて、プレイヤーが戦うボスキャラクターの設計や戦略、ストーリーの展開などを考慮する必要があ",
+        "description": "トゥーム レイダー: アトランティスの遺産の主任ゲームプレイ デザイナーであるマルシン マトゥシュチック氏は、ボス バトルのデザインについて興味深い考え方を語っています。マトゥシュチック氏は、アウトライダーズやホライゾンの開発にも携わった経験を持ち、ゲーム開発における豊富な知識と経験を活かし、ボス バトルのデザインについての独自の視点を披露しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +291,7 @@
         "title": "【Ground Branch：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アダム・スミスを怠け者とは言いたくないが、彼は2012年にGround BranchのKickstarterキャンペーンについて初めて記事を書きました。その後、彼はこのタクティカルシューターの開発に関する最新情報を一度も提供されていません。アダム・スミスが言及したように、Ground Branchは実際には開発が進行中のタクティカルファーストパーソンシューターです。このゲームは、プレイヤーがテロ対",
+        "description": "アダム・スミスを怠け者と say したくはないが、2012年にGround BranchのKickstarterキャンペーンについて初めて書いて以来、彼はこのタクティカルシューターの開発に関する最新情報を一度も提供していない。彼は開発の進捗について話すことが少ないため、ファンは新しい情報を待ち続けている。Ground Branchは、実際的な戦術と戦略を重視したシューティングゲームで、プレイヤーは",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,52 +304,13 @@
         "title": "【ストップ・キリング・ゲームズ：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "カリフォルニア州の新しい法案により、オンラインゲームのサーバーを停止するゲームパブリッシャーには、プレイヤーがサーバーを終了してもゲームを続けることができるバージョンを提供するか、プレイヤーに全額を返金することが求められます。この法案は、サーバーを停止してもゲームを存続させる方法を提供することの重要性を強調しています。",
+        "description": "カリフォルニア州の法案は、ゲームの配信元がオンラインのゲームサーバーを停止した場合に、プレイヤーがサーバーに接続せずにゲームを続行できるバージョンを提供することを義務付けるものです。ゲームサーバーから独立してプレイするバージョンが提供できない場合は、プレイヤーにゲーム代金を全額返金しなければなりません。この措置により、ゲームサーバーの停止によってプレイヤーが不利益を被らないように保護することができ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/we-were-only-three-votes-away-stop-killing-games-backed-california-bill-to-keep-online-games-playable-fails-to-win-over-senate-committee",
         "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "“暴力ゲーム有害説”を示す研究を「ゲーマーは疑って遠ざけがちな可能性」。“レッテル貼り”と受け止め、読む気も削がれる心理",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「暴力ゲームによってプレイヤーの攻撃性が高まる」という研究に対して、ゲーマーは防衛的な反応を示し、研究者の能力などを低く評価する傾向にあるという。ゲーマーの中には、ゲームが暴力的な行動につながるという考えを拒否し、ゲームは単に娯楽の一つに過ぎないと主張する人もいる。さらに、ゲームはストレス解消や社会的なつながりを提供するなど、プレイヤーにさまざまなメリットをもたらすことがあるという指摘もある。ゲー",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260629-452526/",
-        "date": "2026-06-29",
-        "is_translated": false
-      },
-      {
-        "title": "【nophenia：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "個人開発者のlane氏は6月26日、『nophenia』をPC（Steam）にて発売しました。発売直後から高い評価を得て、人気を博しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260629-452488/",
-        "date": "2026-06-29",
-        "is_translated": false
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私が氷嚢のベッドに横たわり、換気の良い暗い部屋で過ごしていることをあなたに伝えたいと思います。ただ、自虐的な計画を実行すれば、もう終わっているはずです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-388",
-        "date": "2026-06-27",
         "is_translated": true
       }
     ],
@@ -455,5 +455,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-01T04:11:44.779870"
+  "last_updated": "2026-07-01T14:09:03.831530"
 }

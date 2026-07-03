@@ -2,28 +2,28 @@
   "pc": {
     "free": [
       {
-        "title": "『RollerCoaster Tycoon 3』Complete Edition - Epic Games 無料配布中",
+        "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、ベストセラーのジェットコースターシミュレーションゲーム『RollerCoaster Tycoon 3』Complete Editionを無料で配布しています。このゲームでは、プレイヤーは究極のテーマパークを建設し、運営することができます。2つの大規模な拡張パックが含まれているため、ジャンルを定義する傑作ゲームのスリルを存分に楽しむことができます。『RollerCoaster Tycoon 3』は、テーマパークの管理やジェットコースターの設計を扱ったシミュレーションゲームです。プレイヤーは、テーマパークの経営者となり、ジェットコースターの設計からパークの運営まで、すべてをコントロールすることができます。さまざまなジェットコースターの設計や、テーマパークのレイアウトを自由に変更することができるため、創造性を発揮することができます。また、拡張パックを含むため、さらに多くのコンテンツを楽しむことができます。ゲームのグラフィックやサウンドは、当時の水準を超えており、リアルなテーマパーク体験を提供しています。『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームファンやテーマパーク愛好家にとって必遊のゲームです。Epic Gamesでの無料配布を利用して、 この傑作ゲームを体験してみてください。",
+        "description": "新たな挑戦が、待っています。リバーシティガールズが、再び活動を始めました！彼女たちが、挑戦するのは、高い賭け金と、困難な状況です。",
         "price": "無料",
-        "originalPrice": "¥2,050",
+        "originalPrice": "¥3,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
       },
       {
-        "title": "Voidwrought - Epic Games 無料配布中",
+        "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。古代の遺跡を探索し、そこに住む強大な神々を討伐するために、プレイヤーはさまざまなパワーアップを集めながら進みます。古代の芸術的なファクトを発見し、残骸の中に神殿を拡大させながら、最古の文明の秘密を解き明かそう。様々なパワーアップやアイテムを手に入れ、ゲームを進めることで、さらに深い恐怖の世界に踏み込みます。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいて仮想冒険を設計することで、過去19年間にわたって人類を生かし、苦しめ続けてきた。ただし、5人の人物はこの運命から脱しており、人類を滅ぼしたマスターコンピューターに立ち向かう唯一の希望となっている。",
         "price": "無料",
-        "originalPrice": "¥1,980",
+        "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
       },
       {
         "title": "Build Your Own Indiependence Bundle",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【スカイ・ザ・スクレーパー：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "HYPER REALは7月3日、人気ゲーム『SKY THE SCRAPER（スカイ・ザ・スクレーパー）』のNintendo Switch、Switch 2、PS5版を発売することを発表しました。このタイトルは今冬にリリース予定です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sky-the-scraper-20260703-453123/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
         "title": "【Pat the Cat：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "okfinegamesは6月25日、猫の可愛さをフルに活かしたアプリケーション『Pat the Cat』をリリースしました。本作はデスクトップにボクセルの猫を表示させるもので、その猫の愛らしい挙動が特徴です。リリース直後から高い評価を獲得し、多くのユーザーの支持を集めています。ユーザーはこのアプリケーションを利用して、可愛い猫とデスクトップでお楽しみいただけます。",
+        "description": "okfinegamesは6月25日、ユニークなアプリケーション『Pat the Cat』をリリースした。このアプリは、デスクトップ上にボクセルの猫を表示させるもので、猫の可愛らしい挙動が特徴です。リリース直後から、高い評価を獲得しており、ユーザーから大きな注目を集めている。猫の愛らしさに癒されつつ、デスクトップ上で遊べるこのアプリは、ストレス解消やリラックスにぴったりのツールです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【AION2：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『AION2』をメディア向け体験会で試遊する機会を得た。本作の最大の魅力は、プレイヤーが自分が作成したキャラクターに強い愛着を抱くことができる点です。ゲームを進めながら、キャラクターの成長やストーリーの展開を通じて、プレイヤーはキャラクターとの絆を深めていくことができます。このような体験は、プレイヤーにとって大きな楽しみとなり、ゲームへの熱中度を高める要因となるでしょう。",
+        "description": "『AION2』をメディア向け体験会で試遊する機会を得た。このゲームの特徴は、プレイヤーが自分のキャラクターに強い愛着を感じることであり、キャラクターの成長や関係を深めることができる。ゲームの世界観やグラフィックも素晴らしいもので、プレイヤーを魅了する。試遊した感想を基に、ゲームの魅力を紹介したい。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,41 +249,15 @@
         "is_translated": false
       },
       {
-        "title": "【Subnautica 2：レビュー】",
-        "platform": "doope!",
+        "title": "【Mouthwashing：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "今年5月に早期アクセスローンチを果たし、高い評価を獲得したSFオープンワールド海洋探索サバイバルゲーム「Subnautica 2」ですが、昨年7月から早期アクセス版の提供とともに、買収時に2億5,000万ドルの取引が行われています。ゲームはプレイヤーに広大な海洋惑星を探索し、海底の秘密を解き明かすチャレンジを提供します。美しいグラフィックと魅力的なゲームプレイで、プレイヤーから高い評価を獲得してい",
+        "description": "「うがいは8時間なら良くないですよ。たぶん」",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/07168372.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Tiny Bookshop：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年8月にリリースされた「Tiny Bookshop」は、高い評価を獲得し、累計50万本販売突破という快挙を成し遂げました。このゲームでは、プレイヤーが古書店を運営する様子を体験できます。開発チームのSkystone Gamesとneolucidは、新たなプレスリリースを発表し、本作のモバイル版について最新情報を公開しました。古書店を経営するというユニークな設定が魅力的な「Tiny Booksho",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168387.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【GTA 6：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『グランド・セフト・オート6』の詳細を得るまでの待ち時間は辛いものですが、ロックスターの過去のパターンを見れば、マーケティングのキャンペーンが間もなく本格的に始まることが予想されます。ロックスターのゲームはいつも大きな期待を集め、発売前から熱い議論を呼びます。『グランド・セフト・オート6』も例外ではありません。ファンたちは、ゲームのストーリー、ゲームプレイ、グラフィックの詳細について盛んに議論して",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/grand-theft-auto-6-rockstar-gameplay-reveal-trailer-3-timeline/",
+        "url": "https://www.pcgamer.com/games/horror/following-the-success-of-mouthwashing-developer-wrong-organ-wasnt-ready-to-make-a-better-story-game-so-its-making-a-gameplay-game-instead/",
         "date": "2026-07-02",
         "is_translated": true
       },
@@ -278,7 +265,7 @@
         "title": "【アークナイツ：エンドフィールド：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HypergryphとGRYPHLINEは、6月19日に、現在運営中のゲーム『アークナイツ：エンドフィールド』で、「危機契約 再燃試験作戦」と題したイベントを開始しました。このイベントでは、プレイヤーが新たな挑戦に立ち向かうことができ、ゲーム内での様々な報酬や体験を得ることができます。HypergryphとGRYPHLINEは、このイベントを通じて、プレイヤーとの新たな出会いを実現し、ゲームの世界",
+        "description": "HypergryphとGRYPHLINEは、6月19日に、現在運営中のゲーム『アークナイツ：エンドフィールド』で新しいイベント「危機契約 再燃試験作戦」を開始しました。このイベントは、プレイヤーに新たな挑戦と楽しみを提供することを目指しており、ゲームの世界観をさらに深める内容となっています。イベントでは、さまざまなミッションや試験が用意され、プレイヤーが協力して挑戦することが求められます。さらに、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,23 +275,10 @@
         "is_translated": false
       },
       {
-        "title": "【ENDLESS Legend 2：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年9月に早期アクセス版がリリースされ、高い評価を獲得したAmplitude Studiosの人気ストラテジーシリーズ「ENDLESS Legend 2」が、ニュースを発表しました。Hooded HorseとAmplitude Studiosは、この最新作を共同で開発し、ユーザーの期待を高める内容を盛り込んでいます。ENDLESS Legend 2は、高度なストラテジーと豊富なゲーム性を兼ね備えて",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168362.html",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【トゥームレイダー：レビュー】",
+        "title": "トゥームレイダーとホライズンの開発者によるボスデザインのマスタークラスに参加し、疲れながらも魅了された経験があります。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "トゥーム レイダー: アトランティスの遺産の主任ゲームデザイナーで、アウトライダーズとホライゾンの開発にも携わったマルシン・マトゥシュチック氏が、ボスバトルのデザインについての興味深い意見を述べています。ボスバトルはゲームの重要な要素の1つであり、プレイヤーに強い印象を残すことができます。マトゥシュチック氏は、ボスバトルのデザインには、戦略性とアクション性のバランスを取ることが重要だと考えています",
+        "description": "トゥーム レイダー: アトランティスの遺産の主任ゲームプレイ デザイナーであり、アウトライダーズとホライゾンの開発チームの元メンバーでもあるマルシン マトゥシュチクが、ボス バトルのデザインに関する貴重な洞察を明かしています。彼の経験豊富な視点から、ボス バトルを魅力的に設計するためのヒントが得られるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,28 +288,15 @@
         "is_translated": true
       },
       {
-        "title": "【グラウンド ブランチ：レビュー】",
+        "title": "【Ground Branch：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アダム・スミスを怠け者と呼びたいわけではありませんが、2012年にGround BranchのKickstarterキャンペーンについて初めて紹介して以来、彼はこのタクティカルシューティングゲームの開発に関する最新情報を一度も提供していないようです。彼はこう言っているのです。",
+        "description": "アダム・スミスを怠け者だと言いたくはないが、彼は2012年に『Ground Branch』のKickstarterキャンペーンについて初めて紹介して以来、このタクティカルシューターの開発に関する最新情報を一度も提供してくれていない。彼はこのプロジェクトについて熱意を持っているようだが、開発の進捗状況については何も語っていない。『Ground Branch』は、リアルな戦術を重視したFPSゲームで、",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/ground-branch-a-first-person-tactical-shooter-from-an-original-rainbow-six-dev-is-finally-hitting-v10-after-eight-years-in-early-access",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【ストップ・キリング・ゲームズ：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "カリフォルニア州で提出された法案は、オンラインゲームのサーバーを閉じるゲーム会社に対して、プレイヤーがサーバーに依存しないバージョンのゲームを提供することを義務付けます。具体的には、ゲーム会社はサーバーを閉じた場合、プレイヤーがゲームを続けてプレイできるバージョンを提供するか、もしくは購入金額を全額返金する必要があります。この規制は、ゲーム会社がサーバーを閉じた場合に、プレイヤーがゲームを続けてプ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/we-were-only-three-votes-away-stop-killing-games-backed-california-bill-to-keep-online-games-playable-fails-to-win-over-senate-committee",
         "date": "2026-06-30",
         "is_translated": true
       }
@@ -481,5 +442,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-02T13:30:33.615791"
+  "last_updated": "2026-07-03T03:34:21.022107"
 }

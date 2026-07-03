@@ -5,7 +5,7 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "新たな挑戦が、待っています。リバーシティガールズが、再び活動を始めました！彼女たちが、挑戦するのは、高い賭け金と、困難な状況です。",
+        "description": "リバーシティガールズが活動に戻ってきました！彼女たちは、より高い賭け金を目指して、さらには意地悪な通りでも挑戦するようになりました。彼女たちの新たな冒険は、ゲームの世界に新たな波を起こすこと間違いなしです。彼女たちの活躍に注目してみてはいかがでしょうか。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいて仮想冒険を設計することで、過去19年間にわたって人類を生かし、苦しめ続けてきた。ただし、5人の人物はこの運命から脱しており、人類を滅ぼしたマスターコンピューターに立ち向かう唯一の希望となっている。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計し、それによって人類を苦しめてきました。過去19年間で、5人を除くほぼすべての人類を滅ぼしてきました。このマスターコンピューターによって、人類は生かされたり苦しめられたりしてきたのです。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "SpecialEffectチャリティーバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-03"
+      },
       {
         "title": "Build Your Own Platinum Collection",
         "platform": "Fanatical",
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-25"
-      },
-      {
-        "title": "Build Your Own Very Positive Deluxe Collection (3/5 for $13.49/$19.99",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-06-25"
       }
     ],
     "review": [
       {
+        "title": "「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせない重み",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamユーザーのレビューの中には、ゲームに対する不満を述べつつも、「否定的なレビューをしたいと思っているわけではない」という前置きが見受けられる。これに対して、ゲームの開発元が厳しい意見を述べていることが話題となっている。ゲームの開発元とユーザーとの間で意見が分かれることが多いが、このようなやり取りは、ゲームの将来的な方向性に大きな影響を与える可能性がある。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260703-453249/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ONTOS：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期すると発表しました。このゲームの発売が待ちに待ったファンには残念なニュースかもしれませんが、開発チームはより完成度の高い作品を作るために時間を費やす必要があると判断したようです。発売延期によって、開発者はゲームの品質を向上させることができ、プレイヤーにはより満足できる体験が提供さ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ontos-20260703-453147/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
         "title": "【スカイ・ザ・スクレーパー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HYPER REALは7月3日、人気ゲーム『SKY THE SCRAPER（スカイ・ザ・スクレーパー）』のNintendo Switch、Switch 2、PS5版を発売することを発表しました。このタイトルは今冬にリリース予定です。",
+        "description": "HYPER REALは7月3日、『SKY THE SCRAPER』のNintendo Switch、Switch 2、PS5版を今冬発売すると発表しました。この作品は、ユーザーを新しい世界に引き込む魅力的なグラフィックや、スリリングなゲームプレイを提供します。さまざまなプラットフォームで楽しめるように、開発者はハードウェアの特性を活かした最適化を行っています。リリースが待ち受ける今冬、ゲーマーたち",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "【Pat the Cat：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "okfinegamesは6月25日、ユニークなアプリケーション『Pat the Cat』をリリースした。このアプリは、デスクトップ上にボクセルの猫を表示させるもので、猫の可愛らしい挙動が特徴です。リリース直後から、高い評価を獲得しており、ユーザーから大きな注目を集めている。猫の愛らしさに癒されつつ、デスクトップ上で遊べるこのアプリは、ストレス解消やリラックスにぴったりのツールです。",
+        "description": "okfinegamesは6月25日、猫をテーマにしたユニークなアプリケーション『Pat the Cat』をリリースした。このアプリは、デスクトップにボクセルの可愛い猫を表示させるもので、猫の愛らしい動きや表情がユーザーの心を掴むため、リリース直後から高い評価を獲得している。猫の可愛さを堪能できるだけでなく、ユーザーは猫と触れ合うことができるため、ストレス解消やリラックスにぴったりのアプリとなってい",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,68 +262,16 @@
         "is_translated": false
       },
       {
-        "title": "【AION2：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『AION2』をメディア向け体験会で試遊する機会を得た。このゲームの特徴は、プレイヤーが自分のキャラクターに強い愛着を感じることであり、キャラクターの成長や関係を深めることができる。ゲームの世界観やグラフィックも素晴らしいもので、プレイヤーを魅了する。試遊した感想を基に、ゲームの魅力を紹介したい。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/aion2-20260701-452885/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
         "title": "【Mouthwashing：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "「うがいは8時間なら良くないですよ。たぶん」",
+        "description": "「うがいは8時間ならまだしも、おそらく」",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/horror/following-the-success-of-mouthwashing-developer-wrong-organ-wasnt-ready-to-make-a-better-story-game-so-its-making-a-gameplay-game-instead/",
         "date": "2026-07-02",
-        "is_translated": true
-      },
-      {
-        "title": "【アークナイツ：エンドフィールド：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "HypergryphとGRYPHLINEは、6月19日に、現在運営中のゲーム『アークナイツ：エンドフィールド』で新しいイベント「危機契約 再燃試験作戦」を開始しました。このイベントは、プレイヤーに新たな挑戦と楽しみを提供することを目指しており、ゲームの世界観をさらに深める内容となっています。イベントでは、さまざまなミッションや試験が用意され、プレイヤーが協力して挑戦することが求められます。さらに、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452842/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "トゥームレイダーとホライズンの開発者によるボスデザインのマスタークラスに参加し、疲れながらも魅了された経験があります。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "トゥーム レイダー: アトランティスの遺産の主任ゲームプレイ デザイナーであり、アウトライダーズとホライゾンの開発チームの元メンバーでもあるマルシン マトゥシュチクが、ボス バトルのデザインに関する貴重な洞察を明かしています。彼の経験豊富な視点から、ボス バトルを魅力的に設計するためのヒントが得られるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/i-attended-a-tomb-raider-and-horizon-developers-boss-design-masterclass-and-came-away-both-weary-and-enchanted",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Ground Branch：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "アダム・スミスを怠け者だと言いたくはないが、彼は2012年に『Ground Branch』のKickstarterキャンペーンについて初めて紹介して以来、このタクティカルシューターの開発に関する最新情報を一度も提供してくれていない。彼はこのプロジェクトについて熱意を持っているようだが、開発の進捗状況については何も語っていない。『Ground Branch』は、リアルな戦術を重視したFPSゲームで、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/ground-branch-a-first-person-tactical-shooter-from-an-original-rainbow-six-dev-is-finally-hitting-v10-after-eight-years-in-early-access",
-        "date": "2026-06-30",
         "is_translated": true
       }
     ],
@@ -442,5 +416,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-03T03:34:21.022107"
+  "last_updated": "2026-07-03T13:43:24.956694"
 }

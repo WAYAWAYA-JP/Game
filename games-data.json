@@ -5,7 +5,7 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが活動に戻ってきました！賭け金が高くなるほど、ゲームがさらに刺激的になります。さらに、意地悪な通りが追加され、プレイヤーの戦略を試みるチャンスが増えます。新しい挑戦に備え、最高の戦略で勝利を目指しましょう。リバーシティガールズの復活は、ゲームに新たな息吹を吹き込みます。",
+        "description": "新しい挑戦が到来しました。リバーシティガールズが帰ってきたのです！彼女たちは、より高い賭け金と意地悪な通りで活動に戻ってきました。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さを基に仮想冒険を設計して、過去19年間で5人を除いて人類をほとんど滅亡させてきた。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計することで、人類を生かし続けてきました。しかし、その間にも5人を除いて人類を滅ぼし、過去19年間にわたって人類に苦しみを与えてきました。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "SpecialEffectチャリティーバンドル(PC)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-04"
+      },
       {
         "title": "SpecialEffect チャリティーバンドル",
         "platform": "Fanatical",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-06-26"
-      },
-      {
-        "title": "レッツ・ラーン・シリーズ 日本語＆韓国語＆ストラテジー",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-26"
       }
     ],
     "review": [
       {
-        "title": "【不評：レビュー】",
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今週末、今シーズン初の結婚式が開催されます。7月だけでも3回のうちの最初の結婚式です。今回は、スーツを着用したり、ブーツを履いたり、DJが「Toxic」を演奏することを要求することができるかもしれません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-389",
+        "date": "2026-07-04",
+        "is_translated": true
+      },
+      {
+        "title": "「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせない重み",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamユーザーレビューにて、「否定的なレビューをするつもりはない」という前置きをしたうえで、不満を述べたレビューが投稿された。同レビューに対し、ゲームの開発元が強い不満を表し、話題となっている。",
+        "description": "Steamユーザーレビューで、「悪い評価を書きたいわけではないですが」という前置きがついた不満のレビューが投稿された。開発元はこのレビューに対して強い不満を表し、話題になっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【ONTOS：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期すると発表しました。",
+        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期することを発表しました。発売の延期に伴って、開発チームはゲームの品質をさらに高め、ユーザーに最高の体験を提供するための時間を確保することができます。ゲームファンは、新しい発売日を待ちながら、開発の進捗に注目しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【スカイ・ザ・スクレーパー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HYPER REALは7月3日、待ちに待ったゲーム『SKY THE SCRAPER（スカイ・ザ・スクレーパー）』のNintendo Switch、Switch 2、そしてPS5版を発売することを発表しました。今冬、この作品がリリースされる予定です。ゲームファンにはとても嬉しいニュースです。",
+        "description": "HYPER REALは7月3日、人気ゲーム『SKY THE SCRAPER（スカイ・ザ・スクレーパー）』のNintendo Switch、Switch 2、PS5版の発売を発表しました。これらの新しいプラットフォーム向けのバージョンは今冬にリリース予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,29 +262,16 @@
         "is_translated": false
       },
       {
-        "title": "中国のPCゲーム界では、新たなヒット作が登場しました。これは、過去8年にわたる開発期間を経て、インディーズゲームから今までにないユニークなゲーム体験へと成長を遂げた作品です。",
+        "title": "中国のPCゲーム市場で現在注目を集めているのは、過去8年にわたる開発期間を経て、今までにないゲーム体験を提供するインディーズゲームです。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "The Scroll of Taiwu は、Steam を席巻する中国開発ゲームの波に乗って登場しました。このゲームは、中国の開発スタジオによって制作され、Steam プラットフォームでリリースされています。The Scroll of Taiwu は、独自のゲームプレイと中国の文化や歴史を取り入れた魅力的な世界観を提供しており、ゲーマーたちに大きな注目を集めています。",
+        "description": "The Scroll of Taiwuは、Steamで人気を博している中国開発のゲームの波に乗って登場しました。このゲームは、プレイヤーが中国の古代武術を体験し、さまざまなキャラクターと戦略を学ぶことができる、ユニークなアクションRPGです。複雑なストーリーと美しいグラフィックが特徴で、中国の文化と歴史を深く感じることができます。プレイヤーは、タイウ村の末裔として、村の運命を決定づけるための戦いを",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/rpg/the-latest-chinese-pc-gaming-hit-is-an-indie-game-that-spent-the-last-8-years-growing-into-something-youve-never-played-before/",
         "date": "2026-07-03",
-        "is_translated": true
-      },
-      {
-        "title": "【Mouthwashing：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "「うがいは8時間なら良くないですよ。たぶん」",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/following-the-success-of-mouthwashing-developer-wrong-organ-wasnt-ready-to-make-a-better-story-game-so-its-making-a-gameplay-game-instead/",
-        "date": "2026-07-02",
         "is_translated": true
       }
     ],
@@ -416,5 +416,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-04T03:27:01.179917"
+  "last_updated": "2026-07-04T13:00:54.943693"
 }

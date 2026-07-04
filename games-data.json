@@ -5,28 +5,40 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが活動に戻ってきました！彼女たちは、より高い賭け金を目指して、さらには意地悪な通りでも挑戦するようになりました。彼女たちの新たな冒険は、ゲームの世界に新たな波を起こすこと間違いなしです。彼女たちの活躍に注目してみてはいかがでしょうか。",
+        "description": "リバーシティガールズが活動に戻ってきました！賭け金が高くなるほど、ゲームがさらに刺激的になります。さらに、意地悪な通りが追加され、プレイヤーの戦略を試みるチャンスが増えます。新しい挑戦に備え、最高の戦略で勝利を目指しましょう。リバーシティガールズの復活は、ゲームに新たな息吹を吹き込みます。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       },
       {
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計し、それによって人類を苦しめてきました。過去19年間で、5人を除くほぼすべての人類を滅ぼしてきました。このマスターコンピューターによって、人類は生かされたり苦しめられたりしてきたのです。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さを基に仮想冒険を設計して、過去19年間で5人を除いて人類をほとんど滅亡させてきた。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "bundle": [
+      {
+        "title": "SpecialEffect チャリティーバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-04"
+      },
       {
         "title": "SpecialEffectチャリティーバンドル",
         "platform": "Fanatical",
@@ -194,26 +206,14 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-06-26"
-      },
-      {
-        "title": "Going Rogue リットル ヘビーバンドル",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-25"
       }
     ],
     "review": [
       {
-        "title": "「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせない重み",
+        "title": "【不評：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamユーザーのレビューの中には、ゲームに対する不満を述べつつも、「否定的なレビューをしたいと思っているわけではない」という前置きが見受けられる。これに対して、ゲームの開発元が厳しい意見を述べていることが話題となっている。ゲームの開発元とユーザーとの間で意見が分かれることが多いが、このようなやり取りは、ゲームの将来的な方向性に大きな影響を与える可能性がある。",
+        "description": "Steamユーザーレビューにて、「否定的なレビューをするつもりはない」という前置きをしたうえで、不満を述べたレビューが投稿された。同レビューに対し、ゲームの開発元が強い不満を表し、話題となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +226,7 @@
         "title": "【ONTOS：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期すると発表しました。このゲームの発売が待ちに待ったファンには残念なニュースかもしれませんが、開発チームはより完成度の高い作品を作るために時間を費やす必要があると判断したようです。発売延期によって、開発者はゲームの品質を向上させることができ、プレイヤーにはより満足できる体験が提供さ",
+        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期すると発表しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +239,7 @@
         "title": "【スカイ・ザ・スクレーパー：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "HYPER REALは7月3日、『SKY THE SCRAPER』のNintendo Switch、Switch 2、PS5版を今冬発売すると発表しました。この作品は、ユーザーを新しい世界に引き込む魅力的なグラフィックや、スリリングなゲームプレイを提供します。さまざまなプラットフォームで楽しめるように、開発者はハードウェアの特性を活かした最適化を行っています。リリースが待ち受ける今冬、ゲーマーたち",
+        "description": "HYPER REALは7月3日、待ちに待ったゲーム『SKY THE SCRAPER（スカイ・ザ・スクレーパー）』のNintendo Switch、Switch 2、そしてPS5版を発売することを発表しました。今冬、この作品がリリースされる予定です。ゲームファンにはとても嬉しいニュースです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,23 +249,23 @@
         "is_translated": false
       },
       {
-        "title": "【Pat the Cat：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "中国のPCゲーム界では、新たなヒット作が登場しました。これは、過去8年にわたる開発期間を経て、インディーズゲームから今までにないユニークなゲーム体験へと成長を遂げた作品です。",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "okfinegamesは6月25日、猫をテーマにしたユニークなアプリケーション『Pat the Cat』をリリースした。このアプリは、デスクトップにボクセルの可愛い猫を表示させるもので、猫の愛らしい動きや表情がユーザーの心を掴むため、リリース直後から高い評価を獲得している。猫の可愛さを堪能できるだけでなく、ユーザーは猫と触れ合うことができるため、ストレス解消やリラックスにぴったりのアプリとなってい",
+        "description": "The Scroll of Taiwu は、Steam を席巻する中国開発ゲームの波に乗って登場しました。このゲームは、中国の開発スタジオによって制作され、Steam プラットフォームでリリースされています。The Scroll of Taiwu は、独自のゲームプレイと中国の文化や歴史を取り入れた魅力的な世界観を提供しており、ゲーマーたちに大きな注目を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pat-the-cat-20260702-452990/",
-        "date": "2026-07-02",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/rpg/the-latest-chinese-pc-gaming-hit-is-an-indie-game-that-spent-the-last-8-years-growing-into-something-youve-never-played-before/",
+        "date": "2026-07-03",
+        "is_translated": true
       },
       {
         "title": "【Mouthwashing：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "「うがいは8時間ならまだしも、おそらく」",
+        "description": "「うがいは8時間なら良くないですよ。たぶん」",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -416,5 +416,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-03T13:43:24.956694"
+  "last_updated": "2026-07-04T03:27:01.179917"
 }

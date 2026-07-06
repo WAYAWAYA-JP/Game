@@ -5,7 +5,7 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが活動に戻ってきました！彼女たちはより高い賭け金を目指し、意地悪な通りで新たな挑戦に立ち向かいます。彼女たちの新しい冒険が、どのように展開するのでしょうか。",
+        "description": "リバーシティガールズが新たな活動に戻ってきました。より高い賭け金がかかる、意地悪な通りで彼女たちが活躍する様子が待ち受けています。彼女たちの新たな冒険は、賭け金を上げた意地悪な通りで繰り広げられます。リバーシティガールズの活動は、より高い賭け金とともに、より激しくなります。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいて仮想冒険を設計することで、過去19年間でほとんどの人間を滅ぼし、5人を除いて生かし続け、拷問し続けてきました。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さを基に仮想冒険を設計し、過去19年間にわたって人類を苦しめてきました。このコンピューターによって、5人を除いて人類は滅亡してしまいました。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Field of Glory Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "SpecialEffectチャリティーバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-06"
+      },
       {
         "title": "SpecialEffect Charity Bundle",
         "platform": "Fanatical",
@@ -41,18 +65,6 @@
       },
       {
         "title": "SpecialEffect チャリティーバンドル",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-05"
-      },
-      {
-        "title": "SpecialEffectチャリティーバンドル",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -194,26 +206,53 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-06-27"
-      },
-      {
-        "title": "[Steam] Trappist (€9,-/40% off) and Moons of Ardan (€14,99,-/25% off) + 10% bundle discount",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-26"
       }
     ],
     "review": [
       {
+        "title": "【ロミオ・イズ・ア・デッドマン：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "グラスホッパー・マニファクチュアは7月4日、注目度の高い『ロミオ・イズ・ア・デッドマン』の評価を紹介するアコレードトレイラーを公開しました。このトレイラーでは、ゲームの低評価についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260706-453452/",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "Steamの高評価ゲーム開発者、「購入者の21％も返金申請していた」と悲鳴。“クリア済みなのに返金”の濫用めぐり、議論白熱中",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "購入者の21％、5万5000件にものぼる返金リクエストを受けたとする開発者の投稿が波紋を呼んでいる。開発者がこのような投稿を行ったことは、多くのゲーマーの注目を集めている。返金リクエストは、ゲームの不具合や期待と違う内容だったことなどの理由によるものです。開発者は、返金リクエストの理由を分析し、ゲームの改善に役立てようとしています。返金リクエストの数は多く、開発者はこの問題に取り組む必要があります",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260706-453441/",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Easy Delivery Co.：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年9月にリリースされたSam C氏の新作「Easy Delivery Co.」は高い評価を獲得しています。このゲームは先日、無料アップデートによる新しいゲームモードを追加することが発表されました。今日、本来の予定通り、SteamやXbox、PlayStationなどのプラットフォームで配信が開始されます。このゲームは、ユニークなゲーム性と魅力的なグラフィックで、プレイヤーから高い人気を集めていま",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168488.html",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
         "title": "【Prodeus：The Elder Veil：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "QuakeやDOOMにインスパイアされたレトロシューターとして知られる「Prodeus」は、2020年11月に早期アクセスでリリースされ、2022年9月には製品版1.0がローンチされました。これらのリリースを通じて、非常に高い評価を獲得しました。さらに、2023年10月には新しいアナウンスが行われました。レトロなグラフィックと、現代的なアクションを融合させたこのゲームは、古き良きシューティングゲー",
+        "description": "QuakeやDOOMにインスパイアされたレトロシューターとして人気を博した「Prodeus」は、2020年11月に早期アクセスでリリースされ、2022年9月には製品版1.0が発売され、高い評価を獲得しました。2023年10月には新しいアナウンスがあり、ファンを楽しませています。レトロなグラフィックと、現在のゲーム技術を融合させたこのタイトルは、レトロシューターのファンには必見の作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +265,7 @@
         "title": "【ドーパミン サイト：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "7月5日までの週のSteamに関する興味深い情報をまとめてみました。",
+        "description": "7 月 5 日までの週の Steam の注目すべきニュースやトレンドをまとめてみました。新作ゲームのリリースから、人気タイトルの大幅なアップデート、ユーザーによる面白い Mod の作成など、様々な面で話題となった要素を紹介します。さらに、Steam プラットフォームの新機能や、ゲーム開発者からの発表も含まれています。Steam を利用するゲーマーにとって、見逃せない一週間のまとめです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,7 +275,20 @@
         "is_translated": true
       },
       {
-        "title": "【Chorus：レビュー】",
+        "title": "【Hot Dogs, Horseshoes & Hand Grenades：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "人気の VR シューティング ゲーム、Hot Dogs, Horseshoes & Hand Grenades が 10 年以上の歳月を経て、ついに Steam の早期アクセスを終了しました。長期間にわたる開発とユーザーのフィードバックを経て、完成度の高いゲーム体験が実現しました。このゲームは、ユニークな題材と自由度の高いゲームプレイが特徴で、プレイヤーはさまざまなシナリオで戦闘や探索を行います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/hot-dogs-horseshoes-and-hand-grenades-release-10-years-early-access/",
+        "date": "2026-07-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Champions of Titan：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "Summerfall Studiosは2017年の設立以来、2023年の『Stray Gods: The Roleplaying Musical』と、昨年の悪魔のエクササイズデッキビルダー『Malys』の2本しかリリースできていません。",
@@ -249,10 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊びますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末、今シーズン最初の結婚式が行われます。7 月だけで3回のうちの最初の結婚式です。スーツを着たり、ブーツを履いたり、DJ が「Toxic」を演奏することを要求したりして、特別な一日を彩ります。",
+        "description": "今週末は今シーズン最初の結婚式が行われます。7 月だけで3回の結婚式が予定されていますが、今週末のものが最初の結婚式になります。この結婚式では、スーツを着用したり、ブーツを履いたり、DJにToxicの演奏を要求したりして、特別な一日を過ごすことができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +317,7 @@
         "title": "「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせない重み",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamユーザーレビューでは、開発者への批判的な意見を表明しないという前提で投稿された不評レビューが話題となっている。同レビューに対し、ゲームの開発元が強い不満を表明し、物議を醸している。",
+        "description": "Steamユーザーレビューには、不評レビューが投じられました。そのレビューは、「否定的なレビューをするつもりはないけど」という前置きがありながらも、ゲームの内容に不満を感じていることが伝わってきます。このレビューに対し、ゲームの開発元は苦言を呈し、話題となっています。開発元の反応は、ゲームへの情熱と、ユーザーの声に対する姿勢を垣間見せるものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -273,32 +325,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20260703-453249/",
         "date": "2026-07-03",
         "is_translated": false
-      },
-      {
-        "title": "【ONTOS：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Kepler InteractiveとFrictional Gamesは7月3日、『ONTOS』の発売を2027年に延期することを発表しました。このゲームは、以前より早い時期にリリースされる予定でしたが、開発チームはより完成度の高い作品を提供するために、もう少し時間を必要としたようです。開発の進捗状況については、将来的にさらに情報が公開されることが予想されます。『ONTOS』は、Frictiona",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/ontos-20260703-453147/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "中国のPCゲーム界では、新たなヒット作が登場しました。このゲームは、過去8年間で開発されたインディーズゲームで、プレイヤーはこれまでにない新しいゲーム体験を楽しむことができます。開発者たちの長期にわたる努力が実を結び、独自の魅力を持つゲームに成長しました。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The Scroll of Taiwu は、Steam を席巻する中国開発ゲームの波に乗り、注目を集めています。このゲームは、中国の開発スタジオが手掛けた、獨特な世界観と深いストーリーが特徴です。プレイヤーは、古代中国を舞台に、さまざまなキャラクターを操作して、戦闘や探索に挑戦します。ゲームの世界は、中国の伝統的な文化や歴史が色濃く反映されており、プレイヤーはその豊かな世界に没頭することができます",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-latest-chinese-pc-gaming-hit-is-an-indie-game-that-spent-the-last-8-years-growing-into-something-youve-never-played-before/",
-        "date": "2026-07-03",
-        "is_translated": true
       }
     ],
     "sale": [
@@ -490,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-06T03:52:18.801797"
+  "last_updated": "2026-07-06T15:00:25.632634"
 }

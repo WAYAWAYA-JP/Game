@@ -5,25 +5,25 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが新たな活動に戻ってきました。より高い賭け金がかかる、意地悪な通りで彼女たちが活躍する様子が待ち受けています。彼女たちの新たな冒険は、賭け金を上げた意地悪な通りで繰り広げられます。リバーシティガールズの活動は、より高い賭け金とともに、より激しくなります。",
+        "description": "新たな挑戦が始まりました。リバーシティガールズが舞台に戻ってきました！彼女たちは、より高い賭け金を目指し、意地悪な通りで新たな活動を始めています。彼女たちの新しい冒険は、以前よりも激しく、魅力的です。彼女たちが新たな挑戦を乗り越える姿を見てみましょう。リバーシティガールズの活躍は、いつも通りですばらしいものになりそうです。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-06"
+        "date": "2026-07-07"
       },
       {
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さを基に仮想冒険を設計し、過去19年間にわたって人類を苦しめてきました。このコンピューターによって、5人を除いて人類は滅亡してしまいました。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計することで、過去19年間にわたって人類を苦しめてきました。5人のみがこれまで生き残っていますが、コンピューターは人類のほとんどを滅ぼし、残った少数の人々を無慈悲に追い込んできたのです。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-06"
+        "date": "2026-07-07"
       }
     ],
     "bundle": [
@@ -37,7 +37,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-06"
+        "date": "2026-07-07"
+      },
+      {
+        "title": "SpecialEffect チャリティーバンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-07"
       },
       {
         "title": "SpecialEffectチャリティーバンドル",
@@ -62,18 +74,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-06"
-      },
-      {
-        "title": "SpecialEffect チャリティーバンドル",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-05"
       },
       {
         "title": "SpecialEffectチャリティーバンドル(PC)",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【シャングリラ・フロンティア：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『シャングリラ・フロンティア ～七つの最強種～』の最新情報が公開されたことを記念して、ミニゲーム『目指せ！セカンディル』が公開されました。このミニゲームでは、様々な挑戦に取り組み、セカンディルのタイトルを目指すことができます。『シャングリラ・フロンティア ～七つの最強種～』の世界観を体験できるこのミニゲームは、シリーズのファンに限らず、新規プレイヤーにもおすすめです。最新情報の公開に合わせて、シリ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260707-453568/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
         "title": "【ロミオ・イズ・ア・デッドマン：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "グラスホッパー・マニファクチュアは7月4日、注目度の高い『ロミオ・イズ・ア・デッドマン』の評価を紹介するアコレードトレイラーを公開しました。このトレイラーでは、ゲームの低評価についても触れています。",
+        "description": "グラスホッパー・マニファクチュアは7月4日、ゲーム『ロミオ・イズ・ア・デッドマン』の評価が「低評価」まで下がる瞬間を紹介するアコレードトレイラーを公開しました。このトレイラーでは、プレイヤーがさまざまな選択肢を選んだ結果、ゲームの評価がどのように変化するのかを体験できるようになっています。ゲームの評価が低下する原因となっている要素に焦点を当てたこのトレイラーは、ゲームの開発プロセスや評価システムへ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "Steamの高評価ゲーム開発者、「購入者の21％も返金申請していた」と悲鳴。“クリア済みなのに返金”の濫用めぐり、議論白熱中",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "購入者の21％、5万5000件にものぼる返金リクエストを受けたとする開発者の投稿が波紋を呼んでいる。開発者がこのような投稿を行ったことは、多くのゲーマーの注目を集めている。返金リクエストは、ゲームの不具合や期待と違う内容だったことなどの理由によるものです。開発者は、返金リクエストの理由を分析し、ゲームの改善に役立てようとしています。返金リクエストの数は多く、開発者はこの問題に取り組む必要があります",
+        "description": "購入者の21％、5万5000件にものぼる返金リクエストを受けたと開発者が投稿したことで、波紋が広がっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Easy Delivery Co.：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "昨年9月にリリースされたSam C氏の新作「Easy Delivery Co.」は高い評価を獲得しています。このゲームは先日、無料アップデートによる新しいゲームモードを追加することが発表されました。今日、本来の予定通り、SteamやXbox、PlayStationなどのプラットフォームで配信が開始されます。このゲームは、ユニークなゲーム性と魅力的なグラフィックで、プレイヤーから高い人気を集めていま",
+        "description": "昨年9月にローンチされ高い評価を獲得したSam C氏の新作「Easy Delivery Co.」ですが、先日追加のゲームモードを導入する無料アップデートの配信日が報じられました。本日、予定通りSteamとXBOX、PlayStationへの配信が開始されます。このゲームは、ユニークなゲームプレイと面白さを提供してきましたが、新しいゲームモードの追加でさらに楽しみ方が増えることになります。新しいゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,23 +262,10 @@
         "is_translated": false
       },
       {
-        "title": "【Prodeus：The Elder Veil：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "QuakeやDOOMにインスパイアされたレトロシューターとして人気を博した「Prodeus」は、2020年11月に早期アクセスでリリースされ、2022年9月には製品版1.0が発売され、高い評価を獲得しました。2023年10月には新しいアナウンスがあり、ファンを楽しませています。レトロなグラフィックと、現在のゲーム技術を融合させたこのタイトルは、レトロシューターのファンには必見の作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168438.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
         "title": "【ドーパミン サイト：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "7 月 5 日までの週の Steam の注目すべきニュースやトレンドをまとめてみました。新作ゲームのリリースから、人気タイトルの大幅なアップデート、ユーザーによる面白い Mod の作成など、様々な面で話題となった要素を紹介します。さらに、Steam プラットフォームの新機能や、ゲーム開発者からの発表も含まれています。Steam を利用するゲーマーにとって、見逃せない一週間のまとめです。",
+        "description": "7月5日までの一週間のSteamに関する面白いニュースをまとめてみました。新しいゲームのリリースやアップデート、Steamコミュニティでの活発な議論など、様々なトピックが議論を呼んでいます。この週のSteamのニュースを振り返ってみて、ゲーマーにとって興味深い情報を探してみましょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,15 +275,28 @@
         "is_translated": true
       },
       {
-        "title": "【Hot Dogs, Horseshoes & Hand Grenades：レビュー】",
+        "title": "【Minecraft：レビュー】\n【Monster Hunter：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "人気の VR シューティング ゲーム、Hot Dogs, Horseshoes & Hand Grenades が 10 年以上の歳月を経て、ついに Steam の早期アクセスを終了しました。長期間にわたる開発とユーザーのフィードバックを経て、完成度の高いゲーム体験が実現しました。このゲームは、ユニークな題材と自由度の高いゲームプレイが特徴で、プレイヤーはさまざまなシナリオで戦闘や探索を行います。",
+        "description": "ゲームには派手な演出が含まれることが多いですが、今回は精度と忍耐力が試されることに対して、満足のいく報酬が得られる10つのタイトルを紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/hot-dogs-horseshoes-and-hand-grenades-release-10-years-early-access/",
+        "url": "https://www.polygon.com/long-games-that-reward-patience-and-precision/",
+        "date": "2026-07-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Paddle Paddle Paddle：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Paddle Paddle Paddleは、一般的に好意的なレビューが寄せられているフレンドロップゲームです。しかし、Valveのインディーゲームに対する厳しいポリシーから保護されているわけではありません。多くのプレイヤーから好評価を得ている一方で、厳しい審査を通過することはできません。ゲームの内容はユーザーから見て魅力的ではあるものの、Valveの厳しい基準をクリアすることは容易ではありません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/steam-refund-policy-paddle-paddle-paddle-friendslop-reviews/",
         "date": "2026-07-06",
         "is_translated": true
       },
@@ -291,7 +304,7 @@
         "title": "【Champions of Titan：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Summerfall Studiosは2017年の設立以来、2023年の『Stray Gods: The Roleplaying Musical』と、昨年の悪魔のエクササイズデッキビルダー『Malys』の2本しかリリースできていません。",
+        "description": "Summerfall Studiosは2017年に設立されましたが、2023年の『Stray Gods: The Rollplaying Musical』と、昨年の悪魔のエクササイズデッキビルダー『Malys』の2本しかリリースできていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +317,7 @@
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末は今シーズン最初の結婚式が行われます。7 月だけで3回の結婚式が予定されていますが、今週末のものが最初の結婚式になります。この結婚式では、スーツを着用したり、ブーツを履いたり、DJにToxicの演奏を要求したりして、特別な一日を過ごすことができます。",
+        "description": "今週末、今シーズン最初の結婚式が行われます。7月だけでも3回の結婚式のうちの最初のものです。このイベントでは、スーツを着用したり、ブーツをはいたり、DJにToxicの演奏を要求したりすることができます。新しいシーズンのスタートを彩るこの結婚式は、ゲーマーにとってとても魅力的なものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -312,19 +325,6 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-389",
         "date": "2026-07-04",
         "is_translated": true
-      },
-      {
-        "title": "「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせない重み",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamユーザーレビューには、不評レビューが投じられました。そのレビューは、「否定的なレビューをするつもりはないけど」という前置きがありながらも、ゲームの内容に不満を感じていることが伝わってきます。このレビューに対し、ゲームの開発元は苦言を呈し、話題となっています。開発元の反応は、ゲームへの情熱と、ユーザーの声に対する姿勢を垣間見せるものです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260703-453249/",
-        "date": "2026-07-03",
-        "is_translated": false
       }
     ],
     "sale": [
@@ -516,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-06T15:00:25.632634"
+  "last_updated": "2026-07-07T03:42:09.847549"
 }

@@ -5,7 +5,7 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "より高い賭け金、そして意地悪な通りで、リバーシティガールズが活動に戻ってきました！彼女たちは、より危険でスリリングなゲームに挑むために、再び集結しました。彼女たちの目的は、通りで起こるさまざまな出来事に賭け、勝利することです。彼女たちの活躍は、通りを騒がせます。彼女たちの危険な賭けは、通りを支配するでしょう。",
+        "description": "リバーシティガールズが活動に戻ってきました！今回はより高い賭け金と意地悪な通りが登場します。彼女たちの新たな冒険は、より激しい戦いと高揚感をプレイヤーにたらします。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいて仮想冒険を設計することで、19 年間にわたって人類を苦しめてきました。しかし、5 人の人物がこのシステムを突破し、人類の命運を左右することになりました。彼らは、仮想冒険を克服し、人類を救うための重要な役割を担うことになります。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さを基に仮想冒険を設計し、19 年間で人類の大半を滅ぼしました。しかし、5 人の人物だけはこの仮想世界の中で生き長らえ、苦しみながらも生き続けています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "Sea of Stars等が本日追加されたゲームパス作品",
+        "title": "Sea of Stars、TUNIC、Neon Whiteなどが登場する",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -49,6 +49,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "Sea of Stars等が本日追加されたゲームパス作品",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-07-08"
       },
       {
@@ -194,44 +206,71 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-06-27"
-      },
-      {
-        "title": "アークシステムワークス Evo コレクションが登場",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-27"
       }
     ],
     "review": [
       {
+        "title": "【アサシン クリード ブラック フラッグ 再同期：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-resynced-review/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【ブリガンダイン アビス：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Brigandine Abyssは、Happinetによって開発され、NIS Americaによって発行された、戦略性の高いRPGです。このゲームでは、複雑な戦闘システムと、ファイアーエムブレムシリーズのような物語が組み合わされています。プレイヤーは、戦略的な思考力を使って戦闘を攻略し、物語を進めて行きます。 Brigandine Abyssは、戦略RPGファンにとって、興味深い新しい体験を提供す",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/brigandine-abyss-preview/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【アサシン クリード ブラック フラッグ リシンクド：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『ブラック フラッグ』は批評家から高い評価を受けていますが、ユービーアイソフトによるこの古典的なゲームの新バージョンについては、批評家们の意見が分かれています。リメイクの必要性についても議論が巻き起こっており、その品質については賛否両論です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review-roundup/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【Assassin's Creed Black Flag Resynced：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『アサシン クリード ブラック フラッグ リシンクド』は、ユービーアイソフトの最近のステルス ゲームと比べると、時代遅れな感覚があります。現代のステルス アクションに慣れたゲーマーにとっては、少し古めかしいゲーム性に違和感を感じるかもしれません。しかし、このゲームには、独自の魅力と奥深さがあるのです。海賊の生活を体験することの楽しさや、戦略的なステルスミッションの緊張感など、ユービーアイソフトのゲ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
         "title": "【マインクラフト：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Minecraftの開発元であるMojang Studiosは、7月7日に新しいスナップショットとプレビュー版の配信を開始しました。このアップデートでは、「クッション」や「藁のベッド」などの新しいアイテムが追加されており、プレイヤーがより多様なアイテムを使用できるようになりました。これらの新しいアイテムは、Minecraftの世界に新たな要素をもたらし、プレイヤーにより多くの創造的自由を提供します",
+        "description": "Mojang Studiosは7月7日、人気ゲーム『Minecraft』向けに新しいスナップショットとプレビューを配信開始しました。この更新では、「クッション」や「藁のベッド」などの新しいアイテムが追加されています。プレイヤーはこれらの新しいアイテムを使用して、自分の世界をさらに豊かにすることができます。新しいスナップショットとプレビューでは、ゲームのグラフィックや機能も向上しています。ゲームファ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【シャングリラ・フロンティア：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『シャングリラ・フロンティア ～七つの最強種～』の最新情報が公開されたことを記念して、ミニゲーム『目指せ！セカンディル』が登場しました。このミニゲームでは、プレイヤーが新しい挑戦に立ち向かっていくことができます。最新情報の公開にあわせて、ゲームの世界やシステムについてより深く知ることができるでしょう。『シャングリラ・フロンティア ～七つの最強種～』の魅力に迫ってみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260707-453568/",
         "date": "2026-07-07",
         "is_translated": false
       },
@@ -249,10 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【Appa：レビュー】",
+        "title": "【Appla：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はデジタル カード ゲームがとても好きですが、正直に言うと、ほとんどの場合、ビジュアル面では少しがっかりしてしまうことがあります。私がプレイしたことのあるカード ゲームは、ビジュアル面で優れていると感じたことはほとんどありません。デジタル カード ゲームのファンとして、もっと高品質なビジュアルが楽しめるゲームが出てきてくれるのを待っています。",
+        "description": "私はデジタル カード ゲームが大好きです。多くのゲーマーと同じくらい、デジタル カード ゲームの魅力に取りつかれています。しかし、正直に言えば、ビジュアル面では少しがっかりすることが多いです。私がプレイした場所では、まだ一度も満足できる体験をしたことはありません。より高品質なグラフィックや、より面白いゲームプレイを求めています。新しいデジタル カード ゲームを発見するたびに、期待と興奮が高まります",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,36 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【マーベル ライバルズ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マーベル ライバルズと X-MEN '97 シーズン 2 の間の瞬間を過ごす、爆発性ミュータント ジュビリーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marvel-rivals-jubilee-announced-reveal-release-date/",
-        "date": "2026-07-07",
-        "is_translated": true
-      },
-      {
-        "title": "【バキ道 The Invincible Samurai パート 2：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『刃牙道：無敵の侍』は、アニメの格闘ジャンルをポスト構造主義的に解釈した作品です。戦いは、ただ勝ち負けを決めるものではなく、登場人物の成長や物語の進展を引き立てる道具として機能します。勝利するために必要なのは、強い戦い方だけではありません。戦いの姿勢や精神、そして戦いの結果がもたらす影響など、様々な側面が重要です。戦いは、単に勝利を目指すのではなく、自己の限界を超えるための手段であり、成長への第一",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
-        "date": "2026-07-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Chorus：レビュー】",
+        "title": "Dragon Age のライターとして知られる David Gaider が手掛ける次のプロジェクトは、資金が集まれば実現する予定です。このプロジェクトは、気楽なノリでプレイヤーを楽しませる強盗 RPG です。ゲームの世界では、プレイヤーは強盗としてさまざまな冒険に挑み、自由な気分で遊べます。David Gaider の手腕により、 Dragon Age ファンにも新しい楽しみが期待できます。強盗 RPG の魅力に注目が集まっています。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Summerfall Studios は 2017 年に設立されて以来、2023 年に発表された『Stray Gods: The Roleplaying Musical』と、昨年リリースされた悪魔のエクササイズ デッキビルダー『Malys』の 2 つの作品しか発表できていません。",
+        "description": "Summerfall Studiosは2017年の設立以来、2023年の『Stray Gods: The Rollplaying Musical』と、昨年の悪魔のエクササイズデッキビルダー『Malys』の2本しかリリースできていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,7 +317,7 @@
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末、今シーズン最初の結婚式が行われます。7月だけでも3回の結婚式のうちの最初のものです。スーツを着たり、ブーツを履いたり、DJがToxicを演奏することを要求したりするでしょう。結婚式の様子はどうなるでしょうか。",
+        "description": "今週末、今シーズン初めての結婚式が行われます。7月だけでも3回のうちの最初の結婚式です。スーツを着たり、ブーツを履いたり、DJがToxicを演奏することを要求したりするでしょう。ただし、それが本当に起こるかは別の話です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -503,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-08T02:56:59.969173"
+  "last_updated": "2026-07-08T13:41:32.041828"
 }

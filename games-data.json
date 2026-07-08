@@ -5,28 +5,40 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "新たな挑戦が始まりました。リバーシティガールズが活動を再開しました！彼女たちは、より高い賭け金を目指し、意地悪な通りを舞台に新たな冒険に乗り出します。彼女たちの活躍を楽しみにしてください！",
+        "description": "より高い賭け金、そして意地悪な通りで、リバーシティガールズが活動に戻ってきました！彼女たちは、より危険でスリリングなゲームに挑むために、再び集結しました。彼女たちの目的は、通りで起こるさまざまな出来事に賭け、勝利することです。彼女たちの活躍は、通りを騒がせます。彼女たちの危険な賭けは、通りを支配するでしょう。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-07"
+        "date": "2026-07-08"
       },
       {
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいた仮想冒険を設計することで、過去19年間にわたって人類を生かし続け、拷問し続けてきました。不过、5人の例外はありました。彼らはマスターコンピューターのシステムを突破し、仮想世界から脱出することに成功しました。マスターコンピューターは、人類を滅ぼすために、仮想世界を創造しました。しかし、この5人は、仮想世界の中で生き残り、抵抗することを選択しました。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖と弱さに基づいて仮想冒険を設計することで、19 年間にわたって人類を苦しめてきました。しかし、5 人の人物がこのシステムを突破し、人類の命運を左右することになりました。彼らは、仮想冒険を克服し、人類を救うための重要な役割を担うことになります。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-07"
+        "date": "2026-07-08"
       }
     ],
     "bundle": [
+      {
+        "title": "Sea of Stars等が本日追加されたゲームパス作品",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-08"
+      },
       {
         "title": "Build Your Own Field of Glory Bundle",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-07"
+        "date": "2026-07-08"
       },
       {
         "title": "SpecialEffect チャリティーバンドル",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-27"
-      },
-      {
-        "title": "Curve Games セール - Wax Heads、For The King II、Human Fall Flat 他",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-27"
       }
     ],
     "review": [
       {
+        "title": "【マインクラフト：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Minecraftの開発元であるMojang Studiosは、7月7日に新しいスナップショットとプレビュー版の配信を開始しました。このアップデートでは、「クッション」や「藁のベッド」などの新しいアイテムが追加されており、プレイヤーがより多様なアイテムを使用できるようになりました。これらの新しいアイテムは、Minecraftの世界に新たな要素をもたらし、プレイヤーにより多くの創造的自由を提供します",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
         "title": "【シャングリラ・フロンティア：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『シャングリラ・フロンティア ～七つの最強種～』の最新情報が公開されたことを記念して、新しいミニゲーム『目指せ！セカンディル』がリリースされました。このミニゲームでは、プレイヤーが様々な挑戦に取り組み、七つの最強種を目指すことができます。最新情報の公開と合わせて、ゲームの世界やシステムについての詳細も公開されています。『シャングリラ・フロンティア ～七つの最強種～』の魅力的な世界観や、様々なキャラ",
+        "description": "『シャングリラ・フロンティア ～七つの最強種～』の最新情報が公開されたことを記念して、ミニゲーム『目指せ！セカンディル』が登場しました。このミニゲームでは、プレイヤーが新しい挑戦に立ち向かっていくことができます。最新情報の公開にあわせて、ゲームの世界やシステムについてより深く知ることができるでしょう。『シャングリラ・フロンティア ～七つの最強種～』の魅力に迫ってみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,49 +236,62 @@
         "is_translated": false
       },
       {
-        "title": "【ロミオ・イズ・ア・デッドマン：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【The Blood of Dawnwalker：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "グラスホッパー・マニファクチュアは7月4日、注目されるゲーム『ロミオ・イズ・ア・デッドマン』のアコレードトレイラーを公開しました。このトレイラーでは、ゲームの低評価についての紹介も含まれています。",
+        "description": "この吸血鬼の冒険では、ウィッチャーがその血筋をたどります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260706-453452/",
-        "date": "2026-07-06",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/rpg/i-played-4-hours-of-the-blood-of-dawnwalker-and-it-borrows-a-heck-of-a-lot-from-the-witcher-3-for-good-and-bad/",
+        "date": "2026-07-07",
+        "is_translated": true
       },
       {
-        "title": "Steamの高評価ゲーム開発者、「購入者の21％も返金申請していた」と悲鳴。“クリア済みなのに返金”の濫用めぐり、議論白熱中",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "購入者の21％にあたる5万5000件の返金リクエストが行われたという開発者の投稿が波紋を呼んでいる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260706-453441/",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Easy Delivery Co.：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年9月にローンチされ、高い評価を獲得したSam C氏の新作「Easy Delivery Co.」は、先日、新しいゲームモードを追加する無料アップデートの配信日が発表されました。本日、予定通りSteamとXBOX、PlayStationへの配信が開始されます。今年の9月にリリースされてから高い評価を得ているこのゲームは、無料アップデートによってさらに新しい要素が追加され、プレイヤーに新たな楽しみを",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168488.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "Dragon Age のライターである David Gaider が手がける次のゲームは、資金が集まれば、気楽な強盗 RPG として発売される予定です。このゲームは、プレイヤーが自由に冒険できるオープンワールドを特徴としています。強盗としての生活を楽しむことができるこのゲームは、ゲーマーにとって新しい楽しみを提供すること間違いなしです。",
+        "title": "【Appa：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Summerfall Studiosは2017年の設立以来、2023年の『Stray Gods: The Roleplaying Musical』や昨年の悪魔のエクササイズデッキビルダー『Malys』の2作品しかリリースしていません。しかし、これまでの2作品が示しているように、Studiousは独創的で魅力的なゲームを作り出すスタジオです。",
+        "description": "私はデジタル カード ゲームがとても好きですが、正直に言うと、ほとんどの場合、ビジュアル面では少しがっかりしてしまうことがあります。私がプレイしたことのあるカード ゲームは、ビジュアル面で優れていると感じたことはほとんどありません。デジタル カード ゲームのファンとして、もっと高品質なビジュアルが楽しめるゲームが出てきてくれるのを待っています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/appa-is-a-gorgeous-surreal-card-game-about-grieving-siblings-where-every-move-your-opponent-makes-can-be-reacted-to",
+        "date": "2026-07-07",
+        "is_translated": true
+      },
+      {
+        "title": "【マーベル ライバルズ：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マーベル ライバルズと X-MEN '97 シーズン 2 の間の瞬間を過ごす、爆発性ミュータント ジュビリーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marvel-rivals-jubilee-announced-reveal-release-date/",
+        "date": "2026-07-07",
+        "is_translated": true
+      },
+      {
+        "title": "【バキ道 The Invincible Samurai パート 2：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『刃牙道：無敵の侍』は、アニメの格闘ジャンルをポスト構造主義的に解釈した作品です。戦いは、ただ勝ち負けを決めるものではなく、登場人物の成長や物語の進展を引き立てる道具として機能します。勝利するために必要なのは、強い戦い方だけではありません。戦いの姿勢や精神、そして戦いの結果がもたらす影響など、様々な側面が重要です。戦いは、単に勝利を目指すのではなく、自己の限界を超えるための手段であり、成長への第一",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
+        "date": "2026-07-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Chorus：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Summerfall Studios は 2017 年に設立されて以来、2023 年に発表された『Stray Gods: The Roleplaying Musical』と、昨年リリースされた悪魔のエクササイズ デッキビルダー『Malys』の 2 つの作品しか発表できていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,10 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週末、今シーズン最初の結婚式が行われます。7月だけでも3回の結婚式のうちの最初のものです。今週末は結婚式で、スーツを着たり、ブーツを履いたり、DJが「Toxic」を演奏することを要求することになりそうです。",
+        "description": "今週末、今シーズン最初の結婚式が行われます。7月だけでも3回の結婚式のうちの最初のものです。スーツを着たり、ブーツを履いたり、DJがToxicを演奏することを要求したりするでしょう。結婚式の様子はどうなるでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -477,5 +503,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-07T14:08:16.031062"
+  "last_updated": "2026-07-08T02:56:59.969173"
 }

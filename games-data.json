@@ -5,7 +5,7 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが待ちに待ったカムバックを果たしました！彼女たちは、より高い賭け金を目指し、さらには意地悪な通りを征服しようと、活動を再開しました。",
+        "description": "新たな挑戦が始まりました。リバーシティガールズが活動を再開し、より高い賭け金を目指すようです。彼女たちの活躍は、意地悪な通りで繰り広げられます。彼女たちの新しい冒険に注目しましょう。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計することで、人類を19年間苦しめてきました。しかし、5人はこれまで生き延びてきたのです。マスターコンピューターは人類を滅ぼすため、様々な仮想世界を生み出しています。この仮想世界では、プレイヤーはさまざまな挑戦に直面し、生存するために戦わなければなりません。仮想世界のデザインは、人類の心理を考慮して作られており、プレイヤーは恐怖や苦悩を感じながらゲームを進めていくことになります。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さを基に仮想冒険を設計することで、5人の男女を除いて人類を滅亡させました。19年もの間、人類はマスターコンピューターの支配下で生き続け、つらい試練を課せられてきました。マスターコンピューターは、人類を恐怖させ、弱さを握ることによって、人類を完全にコントロールすることができました。仮想冒険に参加させられた人類は、辛い試練を乗り越え、生き残ることを強いられました。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Resident Evil バンドル",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "Sea of Starsほか、7つのゲームが追加",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-09"
+      },
       {
         "title": "Sea of Stars、TUNIC、Neon Whiteなどが本月の無料ゲームに",
         "platform": "Humble Bundle",
@@ -182,30 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-28"
-      },
-      {
-        "title": "Arc System Works: Evo コレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-27"
-      },
-      {
-        "title": "Curve Games セール開始",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-27"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【ヨッシーとフカシギの図鑑：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "任天堂は7月9日、『ヨッシーとフカシギの図鑑』の体験版を配信開始しました。このゲームでは、プレイヤーはヨッシーとともに、様々なキャラクターと出会い、楽しく冒険できます。体験版を遊ぶことで、ゲームの世界観や操作感を先に感じることができます。任天堂の新作ゲームが待ち受けるファンには、ぜひ一度体験版をチェックしてみてください。",
+        "description": "任天堂は7月9日、『ヨッシーとフカシギの図鑑』の体験版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +223,23 @@
         "is_translated": false
       },
       {
-        "title": "【Dragon Age: The Veilguard：レビュー】",
+        "title": "【Subnautica 2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このゲームについては、すでにたくさん情報を聞かされているので、実際にプレイしたような感覚です。",
+        "description": "未知の世界が広がるこのゲームは、もっとラグの選択肢を増やしてくれれば、私の人生はあなたのものになります！新たな選択肢を追加することで、ゲームの自由度が向上し、プレイヤーの体験もより濃厚になるでしょう。ゲーム内の世界は、プレイヤーの選択によって様々な展開を見せ、異なるストーリーが生まれることが期待できます。新しい選択肢を追加することで、プレイヤーが新たな発見をすることができ、ゲームの魅力がさらに高ま",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/dragon-age/david-gaider-will-never-play-dragon-age-the-veilguard-because-hed-be-wincing-the-whole-time-ea-really-did-a-number-on-them-in-terms-of-setting-them-up-to-fail/",
-        "date": "2026-07-08",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-celebrates-5-million-copies-sold-ahead-of-adaptive-measures-its-first-early-access-update/",
+        "date": "2026-07-09",
         "is_translated": true
       },
       {
-        "title": "【ドーンウォーカー：血の涙：】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "時間の経過とともに、クエストを無視することもロールプレイの選択肢になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-most-interesting-mechanic-took-a-bite-out-of-my-inner-rpg-completionist-who-wouldve-otherwise-played-hooky-with-a-witch/",
-        "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【Fallout：New Vegas：レビュー】",
+        "title": "【Fallout：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Fallout: New Vegasは、私が最も好きなゲームの一つです。初めてプレイしたのは、多感な十代の頃で、それから開発者のObsidian Entertainmentに会いたいと思っていたのです。 Falloutシリーズの中でも、New Vegasは特別な魅力を持っています。ゲームの世界観やキャラクター、ストーリーはすべてが調和しており、プレイヤーを引き込む力があります。私にとって、New",
+        "description": "Fallout: New Vegasは、私が特に好きなゲームの一つです。初めてプレイしたのは、多感な十代の頃で、それ以来、私はこのゲームの開発者であるObsidianに会いたいと思い続けてきました。このゲームは、私の人生で最も好きなゲームの一つであり、開発者の情熱と創造性が感じ取れる作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +252,7 @@
         "title": "【Appa：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はデジタル カード ゲームが大好きです。たくさんのゲームファンと同じくらい、デジタル カード ゲームの魅力に取り入れられているのです。しかし、正直なところ、ほとんどのデジタル カード ゲームはビジュアル面で少しがっかりすることがあります。私はこれまでに多くのゲームをプレイしてきましたが、本当に満足できるものはまだ見つかっていません。",
+        "description": "私はデジタル カード ゲームをとても愛好していますが、正直に言えば、ビジュアル面ではほとんどの場合がっかりしてしまうことがあります。実際にプレイしたときも、期待していたほどの出来栄えではなかったと感じたことがあります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -416,5 +403,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-09T03:35:33.287686"
+  "last_updated": "2026-07-09T14:31:35.491640"
 }

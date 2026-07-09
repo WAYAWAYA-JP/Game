@@ -5,30 +5,30 @@
         "title": "熱血硬派くにおくん外伝 リバーシティガールズ2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "リバーシティガールズが活動に戻ってきました！今回はより高い賭け金と意地悪な通りが登場します。彼女たちの新たな冒険は、より激しい戦いと高揚感をプレイヤーにたらします。",
+        "description": "リバーシティガールズが待ちに待ったカムバックを果たしました！彼女たちは、より高い賭け金を目指し、さらには意地悪な通りを征服しようと、活動を再開しました。",
         "price": "無料",
         "originalPrice": "¥3,880",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-08"
+        "date": "2026-07-09"
       },
       {
         "title": "I Have No Mouth, and I Must Scream - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さを基に仮想冒険を設計し、19 年間で人類の大半を滅ぼしました。しかし、5 人の人物だけはこの仮想世界の中で生き長らえ、苦しみながらも生き続けています。",
+        "description": "連合軍のマスターコンピューターは、人類の恐怖や弱さに基づいて仮想冒険を設計することで、人類を19年間苦しめてきました。しかし、5人はこれまで生き延びてきたのです。マスターコンピューターは人類を滅ぼすため、様々な仮想世界を生み出しています。この仮想世界では、プレイヤーはさまざまな挑戦に直面し、生存するために戦わなければなりません。仮想世界のデザインは、人類の心理を考慮して作られており、プレイヤーは恐怖や苦悩を感じながらゲームを進めていくことになります。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-08"
+        "date": "2026-07-09"
       }
     ],
     "bundle": [
       {
-        "title": "Sea of Stars、TUNIC、Neon Whiteなどが登場する",
+        "title": "Sea of Stars、TUNIC、Neon Whiteなどが本月の無料ゲームに",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-07-08"
+        "date": "2026-07-09"
       },
       {
         "title": "Build Your Own Field of Glory Bundle",
@@ -210,88 +210,62 @@
     ],
     "review": [
       {
-        "title": "【アサシン クリード ブラック フラッグ 再同期：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-resynced-review/",
-        "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【ブリガンダイン アビス：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Brigandine Abyssは、Happinetによって開発され、NIS Americaによって発行された、戦略性の高いRPGです。このゲームでは、複雑な戦闘システムと、ファイアーエムブレムシリーズのような物語が組み合わされています。プレイヤーは、戦略的な思考力を使って戦闘を攻略し、物語を進めて行きます。 Brigandine Abyssは、戦略RPGファンにとって、興味深い新しい体験を提供す",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/brigandine-abyss-preview/",
-        "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【アサシン クリード ブラック フラッグ リシンクド：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『ブラック フラッグ』は批評家から高い評価を受けていますが、ユービーアイソフトによるこの古典的なゲームの新バージョンについては、批評家们の意見が分かれています。リメイクの必要性についても議論が巻き起こっており、その品質については賛否両論です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review-roundup/",
-        "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【Assassin's Creed Black Flag Resynced：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ リシンクド』は、ユービーアイソフトの最近のステルス ゲームと比べると、時代遅れな感覚があります。現代のステルス アクションに慣れたゲーマーにとっては、少し古めかしいゲーム性に違和感を感じるかもしれません。しかし、このゲームには、独自の魅力と奥深さがあるのです。海賊の生活を体験することの楽しさや、戦略的なステルスミッションの緊張感など、ユービーアイソフトのゲ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review/",
-        "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【マインクラフト：レビュー】",
+        "title": "【ヨッシーとフカシギの図鑑：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Mojang Studiosは7月7日、人気ゲーム『Minecraft』向けに新しいスナップショットとプレビューを配信開始しました。この更新では、「クッション」や「藁のベッド」などの新しいアイテムが追加されています。プレイヤーはこれらの新しいアイテムを使用して、自分の世界をさらに豊かにすることができます。新しいスナップショットとプレビューでは、ゲームのグラフィックや機能も向上しています。ゲームファ",
+        "description": "任天堂は7月9日、『ヨッシーとフカシギの図鑑』の体験版を配信開始しました。このゲームでは、プレイヤーはヨッシーとともに、様々なキャラクターと出会い、楽しく冒険できます。体験版を遊ぶことで、ゲームの世界観や操作感を先に感じることができます。任天堂の新作ゲームが待ち受けるファンには、ぜひ一度体験版をチェックしてみてください。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
-        "date": "2026-07-07",
+        "url": "https://automaton-media.com/articles/newsjp/20260709-454040/",
+        "date": "2026-07-09",
         "is_translated": false
       },
       {
-        "title": "【The Blood of Dawnwalker：レビュー】",
+        "title": "【Dragon Age: The Veilguard：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "この吸血鬼の冒険では、ウィッチャーがその血筋をたどります。",
+        "description": "このゲームについては、すでにたくさん情報を聞かされているので、実際にプレイしたような感覚です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/i-played-4-hours-of-the-blood-of-dawnwalker-and-it-borrows-a-heck-of-a-lot-from-the-witcher-3-for-good-and-bad/",
-        "date": "2026-07-07",
+        "url": "https://www.pcgamer.com/games/dragon-age/david-gaider-will-never-play-dragon-age-the-veilguard-because-hed-be-wincing-the-whole-time-ea-really-did-a-number-on-them-in-terms-of-setting-them-up-to-fail/",
+        "date": "2026-07-08",
         "is_translated": true
       },
       {
-        "title": "【Appla：レビュー】",
+        "title": "【ドーンウォーカー：血の涙：】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "時間の経過とともに、クエストを無視することもロールプレイの選択肢になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-most-interesting-mechanic-took-a-bite-out-of-my-inner-rpg-completionist-who-wouldve-otherwise-played-hooky-with-a-witch/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【Fallout：New Vegas：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はデジタル カード ゲームが大好きです。多くのゲーマーと同じくらい、デジタル カード ゲームの魅力に取りつかれています。しかし、正直に言えば、ビジュアル面では少しがっかりすることが多いです。私がプレイした場所では、まだ一度も満足できる体験をしたことはありません。より高品質なグラフィックや、より面白いゲームプレイを求めています。新しいデジタル カード ゲームを発見するたびに、期待と興奮が高まります",
+        "description": "Fallout: New Vegasは、私が最も好きなゲームの一つです。初めてプレイしたのは、多感な十代の頃で、それから開発者のObsidian Entertainmentに会いたいと思っていたのです。 Falloutシリーズの中でも、New Vegasは特別な魅力を持っています。ゲームの世界観やキャラクター、ストーリーはすべてが調和しており、プレイヤーを引き込む力があります。私にとって、New",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【Appa：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "私はデジタル カード ゲームが大好きです。たくさんのゲームファンと同じくらい、デジタル カード ゲームの魅力に取り入れられているのです。しかし、正直なところ、ほとんどのデジタル カード ゲームはビジュアル面で少しがっかりすることがあります。私はこれまでに多くのゲームをプレイしてきましたが、本当に満足できるものはまだ見つかっていません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -299,35 +273,45 @@
         "url": "https://www.rockpapershotgun.com/appa-is-a-gorgeous-surreal-card-game-about-grieving-siblings-where-every-move-your-opponent-makes-can-be-reacted-to",
         "date": "2026-07-07",
         "is_translated": true
-      },
-      {
-        "title": "Dragon Age のライターとして知られる David Gaider が手掛ける次のプロジェクトは、資金が集まれば実現する予定です。このプロジェクトは、気楽なノリでプレイヤーを楽しませる強盗 RPG です。ゲームの世界では、プレイヤーは強盗としてさまざまな冒険に挑み、自由な気分で遊べます。David Gaider の手腕により、 Dragon Age ファンにも新しい楽しみが期待できます。強盗 RPG の魅力に注目が集まっています。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Summerfall Studiosは2017年の設立以来、2023年の『Stray Gods: The Rollplaying Musical』と、昨年の悪魔のエクササイズデッキビルダー『Malys』の2本しかリリースできていません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dragon-age-writer-david-gaiders-next-game-is-a-light-hearted-heist-rpg-if-he-can-get-the-funding-for-it",
-        "date": "2026-07-04",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週末、今シーズン初めての結婚式が行われます。7月だけでも3回のうちの最初の結婚式です。スーツを着たり、ブーツを履いたり、DJがToxicを演奏することを要求したりするでしょう。ただし、それが本当に起こるかは別の話です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-389",
-        "date": "2026-07-04",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "【Steam】サマーセール2026（最終日）",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "今回のサマーセール2026は、Steam上のさまざまなゲームタイトルを大幅に割引しています。最終日を迎えたこのセールでは、世界中のゲーマーが待ちに待ったチャンスを掴みましょう。人気タイトルから隠れ名作まで、様々なゲームが大きな割引で提供されています。アクションゲーム、ロールプレイングゲーム、ストラテジーゲームなど、ジャンルを問わずお得なタイトルが多数用意されています。 Steamのサマーセールは、ゲーム好きの人的に毎年楽しみにされるイベントです。この最終日に際して、まだ購入していないタイトルや、気になっているゲームをチェックする絶好の機会です。さらに、Steamのコミュニティ機能を活用して、友達と一緒にプレイすることもできます。サマーセール2026の最終日を逃すなかれ、ゲーマーのみなさんに大いに楽しみを提供するはずです。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "[Steam] A.A.U.ブラック サイト - Steam サマー セール (20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steam サマー セールが今始まっています。『A.A.U.ブラック サイト』は、20% オフの特別価格で提供されています。このゲームは、ユーザーに新しい体験を提供する、フリーミアムのオンラインゲームです。ブラック サイトは、ユーザーが自由に活動できるオープンワールドを特徴としています。様々なミッションやイベントが用意されており、プレイヤーは仲間と協力して挑戦することができます。グラフィックやサウンドも高品質で、臨場感あふれる体験を提供します。Steam サマー セール期間中は、通常価格よりもお得に購入できます。興味があるゲーマーは、Steam にアクセスして『A.A.U.ブラック サイト』の詳細を確認し、特別価格で購入することができます。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "[ファナティカル] ムーンライト ピークス (25% オフ - $26.24 / £22.49 / €26.24 / CA$37.49 / A$41.21)",
+        "platform": "Fanatical",
+        "type": "sale",
+        "description": "ムーンライト ピークスは、ファナティカルで現在25%オフの特別セール中です。この魅力的なゲームは、プレイヤーを美しい夜空に包まれた、夢のような世界に誘います。幻想的な景色と独自のゲームプレイスタイルが融合した、ユニークな体験が待っています。プレイヤーは、夜の静寂の中で、秘密を解き明かし、未知の世界を探索することができます。ムーンライト ピークスの世界は、美しくて不思議な場所で、プレイヤーは新しい冒険に胸をときめかせます。ファナティカルのセールでこのゲームを購入することで、夢の世界を自由に探索することができます。セール価格は26.24ドル、22.49ポンド、26.24ユーロ、37.49カナダドル、41.21オーストラリアドルです。この機会を逃さないで、ムーンライト ピークスの世界に足を踏み入れましょう。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-09"
+      },
       {
         "title": "[Steam] Falling Face Fragments (現在 £1.43/ 15% オフ)",
         "platform": "Steam",
@@ -375,90 +359,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-07-05"
-      },
-      {
-        "title": "[Steam] カイロソフト 30周年記念 Vol 7 (82% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "カイロソフトの30周年記念セールがSteamで開催中です。Vol 7としてリリースされたこのセールでは、様々な人気ゲームが82%オフで提供されています。カイロソフトは、長年に渡り多くのヒット作を世に送り出してきました。今回のセールでは、ファンタジー、ロマンス、アドベンチャーなど、様々なジャンルのゲームがまとめて購入できるパッケージが用意されています。このチャンスを逃すことはできません。興味のあるゲームがあれば、ぜひこの機会にチェックしてみてください。Steamでのセールは一定期間のみなので、気になるタイトルを早めに購入することをお勧めします。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "[Steam] RoGlass ($3.99/60% オフ)/[Steam] Number Stomper($1.99/60% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamプラットフォームでは、現在2つの魅力的なゲームが特別オファーで提供されています。まず、RoGlassです。このゲームは、通常価格より60%オフとなる$3.99で購入できます。RoGlassは、プレイヤーが新しい視点에서世界を体験できる、革新的なグラフィックとゲームプレイを特徴としています。美しいグラスアートを駆使したグラフィックでは、繊細な光の演出や、立体的な世界観が楽しめます。プレイヤーは、グラスを操作して、世界の中を進み、さまざまなパズルを解く必要があります。 また、Number Stomperも60%オフの$1.99で購入できます。このゲームでは、数字を踏んでポイントを獲得するという、シンプルながらもとても面白いゲームプレイが楽しめます。数字のパターンを解読して、効率よくポイントを稼ぐ必要があります。タイミングと戦略が重要な要素となり、プレイヤーは集中力を高めて、最高スコアを目指す必要があります。 これらのゲームは、Steamプラットフォーム上で特別価格で提供されており、ゲームファンにはおすすめの製品です。RoGlassの美しいグラフィックとNumber Stomperのアドレナリンを揺さぶるゲームプレイが、ゲーマーたちを楽しませるでしょう。価格もとても手頃なので、気軽に挑戦してみるのも良い選択肢です。どちらのゲームも、Steamストアから簡単に購入できるので、是非お楽しみください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "[熱狂的] フォックスホール | Steam PC ゲーム (33% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "フォックスホールは、熱狂的とも称されるほどの激しいアクションと、スリリングなゲームプレイを提供する、Steam上で配信されているPC用ゲームです。このゲームでは、プレイヤーはさまざまなステージを駆け抜け、敵を倒し、ボスと対決することで、スリリングな体験を味わうことができます。フォックスホールの世界では、高速な動作と、複雑な攻撃パターンが特徴的であり、プレイヤーは瞬時の判断と、正確な操作が求められます。 このゲームのグラフィックは、美麗な背景と、詳細なキャラクターモデルで構成されており、ゲームの世界観を引き立てています。さらに、サウンドトラックは、ゲームの緊張感と、興奮を高める効果があります。現在、フォックスホールは33%オフのキャンペーン中であり、ゲーマーにとっては絶好のチャンスです。このオファーを利用することで、プレイヤーは通常価格よりも安価に、この熱狂的でスリリングなゲームを体験することができます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "[Steam] ピクセルウィザード (50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、現在「ピクセルウィザード」が50%オフで販売中です。この作品は、レトロなグラフィックを活かしたアクションアドベンチャーゲームで、プレイヤーは魔法使いとして、さまざまなステージをクリアしながら敵と戦い、宝物を集めます。ピクセルアートで描かれたキャラクターと背景は、懐かしさと新しい感覚を同時に味わえるものです。 ゲームの特徴として、魔法使いの能力をアップグレードするシステムがあり、プレイヤーは戦い方を自由にカスタマイズできます。また、様々なボスキャラクターとの対決や、複数のエンディングがあるため、リプレイ価値も高く、1回クリアするだけでは満足できないでしょう。さらに、協力プレイも可能で、友達と一緒に遊ぶこともできます。 このセールは、ピクセルウィザードの魅力を体験する絶好の機会です。50%オフの価格で、レトロゲームファンやアクションゲーム好きに朗報です。ゲームの世界に潜り込んで、魔法使いの冒険を楽しみましょう。Steamをチェックして、ピクセルウィザードを今すぐダウンロードしましょう。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "[Steam] ハードコア サーカス (60% オフ / $1.79)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ハードコア サーカスは、高速でアクション満点のゲームです。プレイヤーは、さまざまなステージをクリアしながら、様々な敵と戦い、ボスを倒すことを目指します。このゲームは、難易度が高く、プレイヤーのスキルと反射神経を試します。60% オフの特別価格で提供されているこのゲームは、挑戦を求めるゲーマーにとって、格安で購入できるチャンスです。ハードコア サーカスの世界では、スピードと戦略が重要な要素となり、プレイヤーは自分の能力を限界まで引き出す必要があります。価格も破格の1.79ドルなので、是非この機会にハードコア サーカスを体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "[Steam] サマーセール 2026 (1日目)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、夏の特別セールを開始しました。様々な人気ゲームや新作ゲームが大幅な割引になるこの機会は、ゲーマーにとって大変魅力的です。様々なジャンルのゲームから、自分に合ったものを探すことができます。アクションゲーム、ロールプレイングゲーム、ストラテジーゲームなど、幅広いジャンルのゲームが用意されています。 セール中は、通常価格よりも大幅に安くなっているので、気になるゲームを購入するのにぴったりのチャンスです。さらに、Steamのコミュニティ機能を利用すると、他のユーザーのレビューを確認したり、ゲームに関するディスカッションに参加したりできるので、購入の参考になる情報を集めることができます。 このサマーセール期間中、Steamでは毎日新しいゲームが割引されるので、毎日チェックすることをお勧めします。自分が長く待ち望んでいたゲームが割引されるかもしれないので、見逃さないようにしましょう。Steamのサマーセールは、ゲームのファンにとって大変有益なイベントですので、ぜひ一度チェックしてみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-27"
-      },
-      {
-        "title": "[STEAM] サイブリッド ($7.49 / 50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイブリッドは、Steamで現在50%オフのキャンペーン中です。通常価格の半額の7.49ドルでプレイすることができます。このゲームは、サイバーと生物学が融合した独自の世界観を持ちます。未来的な都市や廃墟された景観の中で、プレイヤーは強力な武器やテクノロジーを使いながら、未知の脅威に立ち向かいます。 サイブリッドの世界は、暗い近未来の雰囲気に包まれています。プレイヤーは、さまざまなミッションをこなしてストーリーを進めながら、自分のキャラクターを強化し、新しい能力を身につけることができます。ゲーム中では、戦闘や探索が重要な要素となります。プレイヤーは、戦略的に敵を倒し、秘密のエリアを発見する必要があります。 サイブリッドのグラフィックは、詳細なテクスチャやリアルな照明効果によって、臨場感のある体験を提供します。サウンドトラックも、ゲームの雰囲気を高める上で重要な役割を果たします。現在のセール期間中は、通常価格の半額でこのゲームを手に入れることができます。サイブリッドの世界に踏み込み、 未来の戦いを体験してみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-27"
       }
     ]
   },
@@ -516,5 +416,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-08T13:41:32.041828"
+  "last_updated": "2026-07-09T03:35:33.287686"
 }

@@ -5,7 +5,7 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーは工場の建設や島の探検などを通じて惑星を探索します。便利なボットを活用して産業を自動管理し、交渉や戦闘を駆使して様々な困難やクエストに挑みます。星々の間に広がる新たな世界で、新しい生活を始めることができます。惑星の未知の地域を発見し、資源を集め、産業を育て、繁栄するための戦略を立てることができます。ゲームの世界では、プレイヤーの選択が物語やゲームの進展に大きな影響を与えます。Nova Landsでは、自由に冒険し、創造性を発揮して、自分の星を築くことができます。",
+        "description": "Nova Landsは、オープンワールドを舞台に工場を建設したり、島を探検したりするゲームです。惑星を自由に探索しながら、便利なボットを活用して産業を自動化することができます。ゲーム内では、武力による解決か交渉かを選択しながら、様々な困難やクエストに挑み、星々の間で新たな居住地を築いていくことになります。宇宙の新たなフロンティアで待っている冒険にようこそ！",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Simulator Bundle (2/3 for $13.49/$19.99",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-10"
+      },
       {
         "title": "Resident Evil バンドル",
         "platform": "Fanatical",
@@ -194,39 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-29"
-      },
-      {
-        "title": "アークシステムワークス：Evoコレクション（メルティブラッド、KILL la KILL、CHAOS CODEなど）",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-28"
       }
     ],
     "review": [
       {
-        "title": "【Subnautica 2：レビュー】",
+        "title": "【KTC 25M1：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "未知の世界の奥深さには、まだまだ秘密が眠っているようです。もっとラグの選択肢を増やしてくれれば、プレイヤーは新たなストーリーやキャラクターを発見できるでしょう。そうすれば、私の人生は、あなたのものになります！新しいアドベンチャーを始めるには、いつでも準備が整っているので、未知の世界へと足を踏み出してみてください。",
+        "description": "スムーズでキビキビとした操作性が備わっているだけでなく、高リフレッシュパネルでありながら驚くほど手頃な価格設定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-celebrates-5-million-copies-sold-ahead-of-adaptive-measures-its-first-early-access-update/",
-        "date": "2026-07-09",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-25m1-review/",
+        "date": "2026-07-10",
         "is_translated": true
       },
       {
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』が実際にどれくらい古いかを考えると、多くの人がそれをプレイしたことがあるのは驚くことではありません。実際、リニューアル版を含めれば、初めてこのゲームに触れる若い層もいるかもしれません。",
+        "description": "リニューアルされた再リリース版ゴールデンを含めると、《ペルソナ4》が実際にどれくらい昔のゲームか考えると、多くの人がこれまでに何度もプレイしたことがあるかもしれない。特に若い世代のゲーマーの中には、初めてこのゲームに触れる人もいるかもしれない。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +239,7 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "明日、Palworld 1.0 がリリースされます。Palworld の開発は、丸 2 年が経過しましたが、その間、いくつかのアップデートや注目すべき機能が追加されました。ゲームのリリースは、数年間の開発期間を経て、ようやく到達した大きなマイルストーンです。開発チームは、ゲームをより魅力的なものにしたいという想いから、様々なアップデートや機能を追加してきました。Palworld 1.0 は、これま",
+        "description": "明日、Palworld 1.0 がリリースされます。2 年の月日が経過し、数年間の開発を経て、いくつかのアップデートや注目すべきラウンドを経て、ついにこの瞬間がやってきました。Palworld 1.0 のリリースは、ゲームファンにとって大きなニュースです。開発者は、ゲームの完成度を高めるために、数多くのアップデートや改良を加えました。リリースに伴って、ゲームの新しい機能やコンテンツも公開される予定",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,26 +252,13 @@
         "title": "【Fallout：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Fallout: New Vegasは、私が非常に好きなゲームの一つです。初めてプレイしたのは多感な十代の頃で、その開発者のObsidian Entertainmentに会いたいと思ったことがあります。",
+        "description": "Fallout: New Vegasが私の一番のお気に入りゲームです。十代の頃に初めてプレイしたゲームで、開発者のObsidian Entertainmentの作品に惹かれました。以来、Obsidian Entertainmentのゲームをプレイすることが私の楽しみの一つです。このゲームは、私の好きなゲームの1つで、複雑なストーリーや深みのあるキャラクター設定が特徴です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter",
         "date": "2026-07-08",
-        "is_translated": true
-      },
-      {
-        "title": "【Appa：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私はデジタル カード ゲームが大好きです。ほとんどのデジタル カード ゲームのファンと同じくらい、このジャンルを楽しんでいるのです。しかし、正直に言えば、ビジュアル面では少しがっかりすることが多いです。私がプレイしたことがあるデジタル カード ゲームの中で、本当に満足したのはまだ一度もありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/appa-is-a-gorgeous-surreal-card-game-about-grieving-siblings-where-every-move-your-opponent-makes-can-be-reacted-to",
-        "date": "2026-07-07",
         "is_translated": true
       }
     ],
@@ -428,5 +415,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-10T03:37:42.096819"
+  "last_updated": "2026-07-10T14:00:18.156522"
 }

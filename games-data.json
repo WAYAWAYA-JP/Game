@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドを舞台に工場を建設したり、島を探検したりするゲームです。惑星を自由に探索しながら、便利なボットを活用して産業を自動化することができます。ゲーム内では、武力による解決か交渉かを選択しながら、様々な困難やクエストに挑み、星々の間で新たな居住地を築いていくことになります。宇宙の新たなフロンティアで待っている冒険にようこそ！",
+        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーは惑星を探索し、工場を建設し、島を探検しながら、様々なクエストに挑戦します。便利なボットを活用して産業を自動管理し、交渉や武力による解決など、さまざまな方法で困難に立ち向かいます。星々の間に佇む新たな居住地で、新しい生活を始めましょう。ゲームの中では、プレイヤーは自由に惑星を探索し、資源を集め、工場を建設して産業を発展させます。ボットを活用することで、効率的な産業管理が可能になり、プレイヤーはより多くの時間を探検やクエストに費やすことができます。交渉や武力による解決を通じて、プレイヤーは惑星の秘密を解き明かし、新しい技術を発見することができます。Nova Landsは、自由度の高いゲームプレイと豊富なコンテンツで、プレイヤーを魅了するオープンワールドゲームです。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-10"
+        "date": "2026-07-11"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-10"
+        "date": "2026-07-11"
       }
     ],
     "bundle": [
+      {
+        "title": "ナラティブ12本セット Roadwardenなど12作品",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: out a Dawn、Hiveswap Friendsim、Mythwrecked: Ambrosia Island",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-11"
+      },
       {
         "title": "Build Your Own Simulator Bundle (2/3 for $13.49/$19.99",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-10"
+        "date": "2026-07-11"
       },
       {
         "title": "Resident Evil バンドル",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-06-29"
-      },
-      {
-        "title": "アークシステムワークス：Evoコレクション（PS4、PC）",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-06-29"
       }
     ],
     "review": [
       {
+        "title": "インディーズゲーム開発者が、Steamでのゲームレビュー爆撃の中で返金悪用に対する批判を擁護しています。具体的には、ゲームを楽しんでクリアした後に返金する行為は間違っていると主張しています。この問題は、Steamの返金ポリシーが悪用されていることを指摘し、ゲーム開発者やユーザーの間で議論を呼んでいます。Steamでの返金ポリシーは、一定期間以内に返金が可能であることを前提としていますが、一部のユーザーがこのシステムを悪用し、ゲームをクリアした後に返金することが問題視されています。開発者は、こうした行為がゲーム開発に悪影響を与える可能性があると指摘し、ユーザーにゲームへの評価やフィードバックを正しく行うよう呼びかけています。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "メイト・コヴィッチ氏は、自分のゲーム「怒りのゲーム」がSteamで非常に好調で、返金率も正常であると述べています。しかし、彼の主な焦点はそこではありませんでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
+        "date": "2026-07-10",
+        "is_translated": true
+      },
+      {
         "title": "【KTC 25M1：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "スムーズでキビキビとした操作性が備わっているだけでなく、高リフレッシュパネルでありながら驚くほど手頃な価格設定です。",
+        "description": "スムーズでキビキビとした操作性が特徴で、高性能のリフレッシュパネルながら、驚くほど手頃な価格設定が魅力です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンを含めると、《ペルソナ4》が実際にどれくらい昔のゲームか考えると、多くの人がこれまでに何度もプレイしたことがあるかもしれない。特に若い世代のゲーマーの中には、初めてこのゲームに触れる人もいるかもしれない。",
+        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』は実際にかなり古いゲームです。したがって、誰かがそれをプレイしたことがあるのは、驚くことではありません。特に、ゲームを長い間プレイしてきた人にとっては、もう『ペルソナ 4』を遊んだことがあるということは、当たり前です。でも、ゲームのファン層は年々変化しているので、若い層にとっては、『ペルソナ 4』は新しいゲームだと思っている人もいるか",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "明日、Palworld 1.0 がリリースされます。2 年の月日が経過し、数年間の開発を経て、いくつかのアップデートや注目すべきラウンドを経て、ついにこの瞬間がやってきました。Palworld 1.0 のリリースは、ゲームファンにとって大きなニュースです。開発者は、ゲームの完成度を高めるために、数多くのアップデートや改良を加えました。リリースに伴って、ゲームの新しい機能やコンテンツも公開される予定",
+        "description": "Palworld 1.0 のリリースが明日予定されています。約2年前にプロジェクトが始まり、数年間の開発を経てようやくこの時期が来ました。リリースまでに、いくつかのアップデートや注目すべきポイントがありました。ゲームの世界では、大きな変化が起こりました。新しい機能やコンテンツが追加され、より楽しいゲーム体験が提供されます。Palworld 1.0 のリリースは、ゲームファンにとって大きなニュースで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +265,7 @@
         "title": "【Fallout：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Fallout: New Vegasが私の一番のお気に入りゲームです。十代の頃に初めてプレイしたゲームで、開発者のObsidian Entertainmentの作品に惹かれました。以来、Obsidian Entertainmentのゲームをプレイすることが私の楽しみの一つです。このゲームは、私の好きなゲームの1つで、複雑なストーリーや深みのあるキャラクター設定が特徴です。",
+        "description": "私はFallout: New Vegasの方が好きです。これは私の史上最も好きなゲームの1つです。私は十代の頃に初めてこのゲームをプレイしましたが、その時に私は開発者のObsidian Entertainmentに会いたいと思いました。十代の頃は感傷的で、ゲームの物語やキャラクターに深く心を動かされました。特に、ゲームの世界観やストーリーが私の心に強い印象を残し、以来、私はこのゲームを何度もプレイ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -415,5 +428,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-10T14:00:18.156522"
+  "last_updated": "2026-07-11T02:52:09.939773"
 }

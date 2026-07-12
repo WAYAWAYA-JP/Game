@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、工場の建設や島の探検が楽しめるゲームです。惑星を冒険し、便利なボットを活用して産業を自動で管理することができます。戦闘や交渉を通じて、様々な困難やクエストに挑戦することになります。新しい星に佇む新しい居住地で、新たな冒険を始めることができます。惑星の探索やボットの活用など、自由度の高いゲーム性が特徴です。星々の間に広がる新しい世界で、プレイヤーは自分だけの物語を紡いでいくことができます。",
+        "description": "Nova Landsは、オープンワールドで自由に冒険できるゲームです。惑星を探索し、さまざまな工場を建設することで、産業を自動化してボットに管理させることができます。惑星を巡りながら、さまざまな島を発見し、探検します。同時に、惑星の住民たちと交渉したり、武力を使って困難な状況を乗り越えたりする必要があります。星々の間に広がる新たな世界で、プレイヤーは新しい生活を始めることになります。惑星の資源を活用して、自分だけの新居を築くことができます。Nova Landsでは、プレイヤーは自由に冒険でき、自分のスタイルで惑星を開発することができます。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,12 +23,12 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       }
     ],
     "bundle": [
       {
-        "title": "Narrative 12 for Bundle Roadwardenなど12本セット",
+        "title": "Narrative 12 for Bundle Roadwardenほか(PC)",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "収録: out a Dawn、Hiveswap Friendsim、Mythwrecked: Ambrosia Island",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       },
       {
         "title": "Build Your Own Simulator Bundle (2/3 for $13.49/$19.99",
@@ -49,6 +49,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Narrative 12 for Bundle Roadwardenなど12本セット",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: out a Dawn、Hiveswap Friendsim、Mythwrecked: Ambrosia Island",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-07-11"
       },
       {
@@ -194,26 +206,14 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-02"
-      },
-      {
-        "title": "[Steam] Super Night Riders Series Collector Bundle ($12.91/32% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-06-30"
       }
     ],
     "review": [
       {
-        "title": "インディーズゲーム開発者は、Steamでのゲーム返金悪用への批判を擁護しています。ゲームのレビューでの爆撃の中で、開発者は「ゲームをクリアした後に返金することは間違っている」と述べています。返金制度は、ゲームが期待通りでなかった場合や、技術的な問題があった場合に利用されるべきものです。しかし、ゲームを楽しんでクリアした後に返金することは、開発者の努力を尊重していない行為であると考えられています。この問題は、Steamコミュニティの中で議論を呼んでいます。",
+        "title": "インディーズゲーム開発者は、ゲームのレビューの爆撃の中でSteamの返金システムの悪用を批判しています。特に、ゲームを楽しんでクリアした後に返金する行為は誤っていると主張しています。返金する前にゲームをプレイして満足したとしても、返金することは開発者の収入を減らすことになるため、開発者はこのような行為を非難しています。Steamの返金システムは、購入したゲームに満足しなかった場合に返金を受けることができるシステムです。しかし、返金する前にゲームをプレイして楽しむことは、開発者の収入を減らすことになるため、開発者から批判を受けています。開発者は、ゲームを購入してプレイする際には、返金システムを悪用せずに、開発者の収入を尊重する必要があると主張しています。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Mateo Covic 氏は、Steam で公開している「怒りのゲーム」が好調であり、返金率も正常であると述べています。しかし、彼の主な焦点はそこではありませんでした。Mateo Covic 氏のこのゲームは、実際にプレイヤーから高い評価を受けており、Steam のコミュニティでも好意的な反応を集めています。ゲームの世界では、ユーザーの反応が重要な要素となりますが、Mateo Covic 氏のこの",
+        "description": "Mateo Covic 氏は、Steam で公開中の自分のゲーム「怒りのゲーム」について、販売状況が好調で、ユーザーからの返金率も正常であると述べています。しかし、彼の主な焦点は、このゲームの売上や評価ではなく、他のところにあったようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,23 +223,10 @@
         "is_translated": true
       },
       {
-        "title": "【KTC 25M1：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "スムーズでキビキビとした操作性が特徴で、高リフレッシュパネルの中でも驚くほど手頃な価格設定です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-25m1-review/",
-        "date": "2026-07-10",
-        "is_translated": true
-      },
-      {
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』は実際にかなり古いゲームです。たくさんの人がそれをプレイしたことがあるのは、驚くことではありません。特に、若い層にとっては、初めてこのゲームを知る機会が訪れるかもしれません。",
+        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』が実際にどれくらい古いかを考えると、多くの人がそれをプレイしたことがあるのはかなり長い間である可能性があります。特に、年齢層が低い人にとっては、そのような経験がある人は少なくないでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +239,7 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Palworld 1.0のリリースが明日に迫っています。ようやく丸2年が経過し、数年間の開発を経てこの時点に到達することができました。過去にはいくつかのアップデートや注目すべき機能が発表されましたが、まだまだ期待が高まる要素がたくさんあります。この新しいバージョンには、ゲームの世界をより豊かにする新機能やアイテムが含まれているそうです。ゲームのリリースに合わせて、開発チームは最後の準備を整えていま",
+        "description": "明日、Palworld 1.0がリリースされます。2年が経過し、この目標に到達するまでに数年かかりましたが、いくつかのアップデートと注目すべきラインがもうすぐ完成します。ゲームのリリースは大きなマイルストーンであり、開発チームの長年の努力の結実です。ゲームの内容や新しい機能については、公式サイトやソーシャルメディアで最新情報が公開されています。Palworld 1.0のリリースは、ゲームファンにと",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +252,7 @@
         "title": "【Fallout：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私はFallout: New Vegasの方が好きです。一番ではないにしても、これは私の史上最も好きなゲームの 1 つです。特に、多感な十代の頃に初めてこのゲームをプレイして以来、開発者のObsidian Entertainmentに会いたくてたまらなかったのですが、このゲームは私の心に深い印象を残してくれました。",
+        "description": "Fallout: New Vegasは私が特に好きなゲームです。一番好きというわけではありませんが、史上最も好きなゲームの1つです。十代の頃にこのゲームに出会ってから、開発者のObsidian Entertainmentに会って話がしたいと思っているのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -428,5 +415,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11T12:56:13.945131"
+  "last_updated": "2026-07-12T03:16:51.763707"
 }

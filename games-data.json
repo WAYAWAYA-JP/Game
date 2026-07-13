@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドで広大な世界を探索するゲームです。惑星の未知の領域を冒険し、工場を建設して便利なボットの力を借りて産業を自動化します。さらに、交渉や戦闘を駆使して、様々な困難やクエストに挑み、惑星の秘密を解き明かしていきます。新しい星の住まいを探索し、未知の世界で自由に冒険することができます。星々の間に広がる新天地で、プレイヤーの新しい生活が始まります。",
+        "description": "Nova Landsは、オープンワールドを舞台にした探検ゲームです。惑星の未知の土地を探索し、便利なボットを活用して産業を効率的に自動管理します。惑星間の危険や困難に立ち向かう際には、交渉や戦闘などのさまざまな選択肢があり、プレイヤーの判断で物語が展開していきます。新たな星々の住処で、様々な島や領土を探索して、自らの新しい生活を築いていくことができます。惑星間の新居での新しい生活にようこそ！Nova Landsでは、工場の建設や資源の管理、ボットの活用など、様々な要素を組み合わせて、プレイヤーだけの独自の物語を創造することができます。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-12"
+        "date": "2026-07-13"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-12"
+        "date": "2026-07-13"
       }
     ],
     "bundle": [
+      {
+        "title": "ナラティブ12本セット Roadwarden、White Shadowsほか",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: out a Dawn、Hiveswap Friendsim、Mythwrecked: Ambrosia Island",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-13"
+      },
       {
         "title": "Narrative 12 for Bundle Roadwardenなど12本セット",
         "platform": "Humble Bundle",
@@ -194,39 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-03"
-      },
-      {
-        "title": "Build Your Own Indiependence Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-02"
       }
     ],
     "review": [
       {
-        "title": "【Steam：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【オデッセイ：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Mateo Covic 氏は、Steam で好調に売れている「怒りのゲーム」について、返金率も正常であると述べています。しかし、彼の主な焦点はそこではありませんでした。",
+        "description": "オスカー受賞俳優は「立ち往生したマット・デイモン」と呼ばれるミームと、自身が演じてきた非常に賢いキャラクターの歴史を振り返っています。彼の演技キャリアには、知的なキャラクターを多く演じているので、このミームが彼にぴったりはまっているのです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
-        "date": "2026-07-10",
+        "url": "https://www.polygon.com/matt-damon-stranded-meme-the-odyssey-interview/",
+        "date": "2026-07-12",
         "is_translated": true
       },
       {
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンも含めると、『ペルソナ 4』は実際にかなり古くなっているゲームです。そんな中、多くの人がこのゲームを長い間プレイしたことがあるかもしれません。特に、若い世代には新鮮なゲームとして知られているかもしれませんが、実は発売から相当時間が経過しているのです。",
+        "description": "リニューアルされた再リリース版ゴールデンも含めて、ペルソナ4は実際にどれほど長い時間が経過しているか考えてみると、かなり長い間プレイしたことがある人もいるかもしれません。特に、若い世代のゲーマーの中にも、ペルソナ4をプレイしたことがある人は少なくないでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +239,7 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "明日、Palworld 1.0 がリリースされます。ついにこの日がやってきました。丸 2 年が経過しましたが、このプロジェクトを始めてから数年が経過し、ようやく完成に近づいてきました。今後もいくつかのアップデートや注目すべきラインナップが予定されています。",
+        "description": "Palworld 1.0が明日リリースされます。2年が経過したのですが、この時点に到達するまでに数年かかってきました。開発者はこれまでにいくつかのアップデートを実施しており、注目すべき新しいラインナップももうすぐ完成します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,10 +249,10 @@
         "is_translated": true
       },
       {
-        "title": "【Fallout：レビュー】",
+        "title": "【Fallout：ニュース】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Fallout: New Vegasは、私が特に好きです。トップではないかもしれませんが、史上最も好きなゲームの一つです。このゲームを初めてプレイしたのは、感傷的な十代の頃でした。それ以来、私は開発者のObsidianに会いたいと思い続けてきました。",
+        "description": "Fallout: New Vegasは、私が特に好きなゲームの一つです。初めてプレイしたのは、多感な十代の頃でしたが、それ以来、開発者のObsidianと出会いたいと思っているほどこのゲームに魅了されました。ゲームをプレイすることで、開発者の情熱や創造性が伝わってきます。Obsidianの作品は、常にユニークな世界観や深みのあるストーリーを提供してくれるので、ファンとしてはとても楽しみなものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -415,5 +415,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-12T12:57:18.268230"
+  "last_updated": "2026-07-13T03:19:34.562781"
 }

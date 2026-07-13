@@ -5,7 +5,7 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドを舞台にした探検ゲームです。惑星の未知の土地を探索し、便利なボットを活用して産業を効率的に自動管理します。惑星間の危険や困難に立ち向かう際には、交渉や戦闘などのさまざまな選択肢があり、プレイヤーの判断で物語が展開していきます。新たな星々の住処で、様々な島や領土を探索して、自らの新しい生活を築いていくことができます。惑星間の新居での新しい生活にようこそ！Nova Landsでは、工場の建設や資源の管理、ボットの活用など、様々な要素を組み合わせて、プレイヤーだけの独自の物語を創造することができます。",
+        "description": "Nova Landsは、オープンワールドゲームで、工場の建設や島の探検が可能です。惑星を探索し、便利なボットを活用して産業を自動化することができます。惑星の探索を進めると、武力や交渉を必要とする難題やクエストに直面することになります。星々の間に位置する新しい住処で、プレイヤーは様々な挑戦に立ち向かっていきます。Nova Landsでは、自由に冒険が楽しめるので、星々の間に佇む新しい世界で新たな生活を始めてみてください。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "All Star Bundle Week - Build Your Own Best of Killer Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Narrative 12 for Bundle(PC)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: out a Dawn、Hiveswap Friendsim、Mythwrecked: Ambrosia Island",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-13"
+      },
       {
         "title": "ナラティブ12本セット Roadwarden、White Shadowsほか",
         "platform": "Humble Bundle",
@@ -182,51 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-06"
-      },
-      {
-        "title": "SpecialEffectチャリティーバンドル(PC)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Build Your Own Platinum Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-03"
       }
     ],
     "review": [
       {
-        "title": "【オデッセイ：レビュー】",
-        "platform": "Polygon",
+        "title": "【Summer Games Done Quick：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "オスカー受賞俳優は「立ち往生したマット・デイモン」と呼ばれるミームと、自身が演じてきた非常に賢いキャラクターの歴史を振り返っています。彼の演技キャリアには、知的なキャラクターを多く演じているので、このミームが彼にぴったりはまっているのです。",
+        "description": "将来のスポンサーやパートナーを評価するプロセスを見直し、強化していきます。将来的な協力関係を構築する上で、より適切な評価基準を整えることで、より強固なパートナーシップを築いていくことを目指します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/matt-damon-stranded-meme-the-odyssey-interview/",
-        "date": "2026-07-12",
+        "url": "https://www.pcgamer.com/gaming-industry/summer-games-done-quick-raises-usd2-4-million-for-charity-cancels-sponsored-stream-with-snk-over-saudi-arabia-ties/",
+        "date": "2026-07-13",
         "is_translated": true
       },
       {
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンも含めて、ペルソナ4は実際にどれほど長い時間が経過しているか考えてみると、かなり長い間プレイしたことがある人もいるかもしれません。特に、若い世代のゲーマーの中にも、ペルソナ4をプレイしたことがある人は少なくないでしょう。",
+        "description": "リニューアルされた再リリース版ゴールデンを含めると、『ペルソナ 4』は実際にかなり古いゲームです。皆さんの中には、このゲームを長い間プレイしたことがある人もいるかもしれませんし、若い世代のゲーマーにとっても、初めて触れるゲームになる可能性もあります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,26 +239,13 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Palworld 1.0が明日リリースされます。2年が経過したのですが、この時点に到達するまでに数年かかってきました。開発者はこれまでにいくつかのアップデートを実施しており、注目すべき新しいラインナップももうすぐ完成します。",
+        "description": "Palworld 1.0 のリリースが明日に迫っています。約2年間の歳月が経過し、開発に数年を費やしてきた結果、多くのアップデートと注目すべきラインナップがほぼ完成しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/palworld-psa-you-might-want-to-uninstall-your-mods-if-youve-not-played-in-a-while-ahead-of-its-10-launch",
         "date": "2026-07-09",
-        "is_translated": true
-      },
-      {
-        "title": "【Fallout：ニュース】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Fallout: New Vegasは、私が特に好きなゲームの一つです。初めてプレイしたのは、多感な十代の頃でしたが、それ以来、開発者のObsidianと出会いたいと思っているほどこのゲームに魅了されました。ゲームをプレイすることで、開発者の情熱や創造性が伝わってきます。Obsidianの作品は、常にユニークな世界観や深みのあるストーリーを提供してくれるので、ファンとしてはとても楽しみなものです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/new-vegas-devs-obsidian-are-reportedly-working-on-a-new-fallout-game-and-only-microsoft-could-make-news-ive-waited-half-my-life-for-taste-this-bitter",
-        "date": "2026-07-08",
         "is_translated": true
       }
     ],
@@ -415,5 +402,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-13T03:19:34.562781"
+  "last_updated": "2026-07-13T14:06:26.892771"
 }

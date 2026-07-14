@@ -5,7 +5,7 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーは工場を建設したり、探検したり、島を調査したりすることができます。惑星を広範囲に探索しながら、便利なボットを活用して産業を自動管理することができます。また、武力や交渉を駆使して、さまざまな困難やクエストに挑戦することになります。星々の間に佇む新しい居住地で、プレイヤーの冒険が始まります。",
+        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーはさまざまな惑星を探索し、工場を建設して自動化することができます。惑星を巡る途中で、プレイヤーはさまざまなボットを活用して産業を管理し、交渉や戦闘を通じて、クエストや困難な状況を解決する必要があります。様々な星々の間に位置する新しい住まいへようこそ。このゲームでは、プレイヤーは自由に惑星を探索し、リソースを集め、工場を建設して、独自の宇宙文明を築くことができます。さまざまな惑星では、独自の特徴やリソースがあり、プレイヤーはこれらのリソースを活用して、宇宙での生存と繁栄を目指すことになります。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "All Star Bundle Week - Build Your Own Best of Killer Bundle",
+        "title": "All Star Bundle Week - Build Your Own Best of Cozy Bundle",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【恋に落ちるしかなかった：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーからもレビューが寄せられている。ジャンルとしては珍しいほど長時間プレイされているこのゲームの秘訣は何なのか。ゲームの内容は、プレイヤーが様々な選択肢を選んで物語を進めていく形式です。複数のキャラクターとの恋愛を楽しんだり、友情を深めたりすることができます。ストーリーは、プレイヤーの選択によって様々な方向へ進むので、1",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260714-454923/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
         "title": "【アサシン クリード ブラック フラッグ RE:シンクロ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史的な魅力を受け継いでいないため、シリーズの連続性が途切れてしまい、結果として「前の作品が存在しない続編」という不自然な形に落ち着いてしまった。",
+        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史という魅力をそのまま引き継いでいません。その結果、このゲームは「前作が存在しない続編」という奇妙な立ち位置に落ち着いてしまっています。シリーズの歴史的な魅力が感じられないため、プレイヤーは新しいストーリーやキャラクターに惹かれるかもしれませんが、原作ファンには少し残念な出来事だと思われているかもしれません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,10 @@
         "is_translated": false
       },
       {
-        "title": "【EVE Online：レビュー】",
+        "title": "【Dust 514：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "EVE Onlineは、宇宙を舞台に広大な世界観と複雑なゲームシステムで知られるオンラインゲームです。一方、EVE Vanguardは、よりアクション指向で直感的な操作が可能なゲームです。EVE Onlineは、ストーリーやキャラクターの深い背景に興味があり、ゲーム内での政治や社会的な側面にも注目するようなプレイヤーに適しています。一方、EVE Vanguardは、ダイナミックな戦闘や競争的な対戦",
+        "description": "EVE Online と EVE Vanguard は、対象とするユーザーの層が異なります。EVE Online は、詳細なゲームシステムや深いストーリーに込められた魅力を楽しむ、ハードコアなゲーマーたちに向けたゲームです。一方で、EVE Vanguard は、アクション満点の宇宙空間バトルを中心に展開する、爽快なゲーム体験を求めるユーザーに向けて設計されています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +252,7 @@
         "title": "【Agent 64: Spies Never Die：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "個人スタジオ「Replicant D6」のデビュー作である「Agent 64: Spies Never Die」は、2021年に開発が始まり、今年2月からオンラインプレイテストが実施されています。このゲームは、Rareの傑作「ゴールデンアイ 007」を彷彿とさせる内容です。開発チームは、N64のゲームを愛し、懐かしさと新鮮さを兼ね備えたゲームを作ることを目標にしています。プレイヤーは、スパイとなっ",
+        "description": "個人スタジオ「Replicant D6」のデビュー作である「Agent 64: Spies Never Die」の開発は、2021年に始まりました。今年2月からオンラインプレイテストが実施されており、Rareの傑作「ゴールデンアイ 007」を彷彿とさせるこのゲームは、プレイヤーから大きな期待を集めています。開発チームは、クラシックなN64スタイルの3Dアクションゲームを作ることを目指しており、ファ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +278,7 @@
         "title": "【Summer Games Done Quick：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "将来のスポンサーやパートナーを評価するプロセスを見直し、強化していきます。将来にわたって強力なスポンサーやパートナーと提携することで、ゲームの質や魅力を向上させることができます。",
+        "description": "将来のスポンサーやパートナーを選定する際のプロセスを見直し、さらに強化していく予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,10 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【フォーチュンウィーブ：レビュー】",
+        "title": "【ファイアーエムブレム フォーチュンウィーブ：レビュー】",
         "platform": "Polygon",
         "type": "review",
-        "description": "マリオ + ラビッツ、トライアングル ストラテジー、バナー サーガなどの戦術RPGは、ファイアーエムブレム フォーチュン ウィーブにつながる戦術的なゲームプレイを提供します。ファイアーエムブレムシリーズの戦術的な深みを愛するファンには、必ず興味を持つこと間違いないでしょう。戦略的な思考を駆使してキャラクターを動かし、戦場の状況を読みながら勝利を目指す、戦術的な戦いの醍醐味を味わえるゲームです。",
+        "description": "マリオ + ラビッツやトライアングル ストラテジー、バナー サーガなどの戦術RPGは、ファイアーエムブレム フォーチュン ウィーブにつながる戦略的なゲームプレイを提供します。これらのゲームは、戦略的な思考とチームワークを必要とし、プレイヤーはキャラクターを効果的に配置して戦闘に勝利する必要があります。複雑なストーリーラインと魅力的なキャラクターもあり、戦術RPGのファンにとっては必玩のゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,25 +304,12 @@
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』は実際にかなり古くなっているゲームです。そのため、皆さんの中にはこのゲームを長い間プレイしたことがある人もいるかもしれませんし、若い世代にとっても、このゲームは古くから愛されているタイトルです。",
+        "description": "リニューアルされた再リリース版ゴールデンを含め、『ペルソナ 4』は実際にかなり古くなっているゲームです。そのため、長い間プレイしたことがある人も少なくありません。特に、比較的長い時間をゲームに費やした人や、若い世代にとっても、このゲームは古いものであるという認識が共通しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/persona-4-revivals-take-on-the-controversial-yosuke-will-apparently-be-more-fitting-for-the-world-we-live-in-now",
-        "date": "2026-07-09",
-        "is_translated": true
-      },
-      {
-        "title": "【Palworld：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Palworld 1.0のリリースが明日迫っています。約2年の月日が流れ、この瞬間がようやく訪れました。数年間の開発期間を経て、多くのアップデートや注目すべき機能が実装され、待望のリリース日が近づいています。開発チームは、ゲームをより魅力的にするために、多くの努力を払ってきました。明日のリリースに合わせて、ゲームの新しい世界や機能が公開され、プレイヤー们に新たな体験が提供されることになります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/palworld-psa-you-might-want-to-uninstall-your-mods-if-youve-not-played-in-a-while-ahead-of-its-10-launch",
         "date": "2026-07-09",
         "is_translated": true
       }
@@ -467,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-14T02:44:17.055413"
+  "last_updated": "2026-07-14T13:09:23.556805"
 }

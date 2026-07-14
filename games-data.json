@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、工場の建設や島の探検が可能です。惑星を探索し、便利なボットを活用して産業を自動化することができます。惑星の探索を進めると、武力や交渉を必要とする難題やクエストに直面することになります。星々の間に位置する新しい住処で、プレイヤーは様々な挑戦に立ち向かっていきます。Nova Landsでは、自由に冒険が楽しめるので、星々の間に佇む新しい世界で新たな生活を始めてみてください。",
+        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーは工場を建設したり、探検したり、島を調査したりすることができます。惑星を広範囲に探索しながら、便利なボットを活用して産業を自動管理することができます。また、武力や交渉を駆使して、さまざまな困難やクエストに挑戦することになります。星々の間に佇む新しい居住地で、プレイヤーの冒険が始まります。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-13"
+        "date": "2026-07-14"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-13"
+        "date": "2026-07-14"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-13"
+        "date": "2026-07-14"
       },
       {
         "title": "Narrative 12 for Bundle(PC)",
@@ -210,10 +210,62 @@
     ],
     "review": [
       {
+        "title": "【アサシン クリード ブラック フラッグ RE:シンクロ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史的な魅力を受け継いでいないため、シリーズの連続性が途切れてしまい、結果として「前の作品が存在しない続編」という不自然な形に落ち着いてしまった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/ac4-20260714-454785/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【EVE Online：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "EVE Onlineは、宇宙を舞台に広大な世界観と複雑なゲームシステムで知られるオンラインゲームです。一方、EVE Vanguardは、よりアクション指向で直感的な操作が可能なゲームです。EVE Onlineは、ストーリーやキャラクターの深い背景に興味があり、ゲーム内での政治や社会的な側面にも注目するようなプレイヤーに適しています。一方、EVE Vanguardは、ダイナミックな戦闘や競争的な対戦",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/this-is-my-3rd-time-playing-eve-onlines-upcoming-extraction-shooter-little-brother-and-it-finally-feels-like-its-coming-together-all-without-the-ambitious-crossover-features-it-was-made-for/",
+        "date": "2026-07-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Agent 64: Spies Never Die：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "個人スタジオ「Replicant D6」のデビュー作である「Agent 64: Spies Never Die」は、2021年に開発が始まり、今年2月からオンラインプレイテストが実施されています。このゲームは、Rareの傑作「ゴールデンアイ 007」を彷彿とさせる内容です。開発チームは、N64のゲームを愛し、懐かしさと新鮮さを兼ね備えたゲームを作ることを目標にしています。プレイヤーは、スパイとなっ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168646.html",
+        "date": "2026-07-13",
+        "is_translated": false
+      },
+      {
+        "title": "【バルダーズ・ゲート3：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "誰かこの男にスチームデッキを与えてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/baldurs-gate/my-chemical-romance-front-man-gerard-way-pauses-concert-to-talk-classic-rpgs-admits-he-hasnt-played-baldurs-gate-3-yet-the-first-one-was-a-lot-of-fun-the-closest-thing-at-the-time-to-playing-d-and-d/",
+        "date": "2026-07-13",
+        "is_translated": true
+      },
+      {
         "title": "【Summer Games Done Quick：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "将来のスポンサーやパートナーを評価するプロセスを見直し、強化していきます。将来的な協力関係を構築する上で、より適切な評価基準を整えることで、より強固なパートナーシップを築いていくことを目指します。",
+        "description": "将来のスポンサーやパートナーを評価するプロセスを見直し、強化していきます。将来にわたって強力なスポンサーやパートナーと提携することで、ゲームの質や魅力を向上させることができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +275,23 @@
         "is_translated": true
       },
       {
+        "title": "【フォーチュンウィーブ：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マリオ + ラビッツ、トライアングル ストラテジー、バナー サーガなどの戦術RPGは、ファイアーエムブレム フォーチュン ウィーブにつながる戦術的なゲームプレイを提供します。ファイアーエムブレムシリーズの戦術的な深みを愛するファンには、必ず興味を持つこと間違いないでしょう。戦略的な思考を駆使してキャラクターを動かし、戦場の状況を読みながら勝利を目指す、戦術的な戦いの醍醐味を味わえるゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-games-like-fire-emblem-fortunes-wave/",
+        "date": "2026-07-13",
+        "is_translated": true
+      },
+      {
         "title": "【ペルソナ 4 リバイバル：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンを含めると、『ペルソナ 4』は実際にかなり古いゲームです。皆さんの中には、このゲームを長い間プレイしたことがある人もいるかもしれませんし、若い世代のゲーマーにとっても、初めて触れるゲームになる可能性もあります。",
+        "description": "リニューアルされた再リリース版ゴールデンも含め、『ペルソナ 4』は実際にかなり古くなっているゲームです。そのため、皆さんの中にはこのゲームを長い間プレイしたことがある人もいるかもしれませんし、若い世代にとっても、このゲームは古くから愛されているタイトルです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +304,7 @@
         "title": "【Palworld：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Palworld 1.0 のリリースが明日に迫っています。約2年間の歳月が経過し、開発に数年を費やしてきた結果、多くのアップデートと注目すべきラインナップがほぼ完成しました。",
+        "description": "Palworld 1.0のリリースが明日迫っています。約2年の月日が流れ、この瞬間がようやく訪れました。数年間の開発期間を経て、多くのアップデートや注目すべき機能が実装され、待望のリリース日が近づいています。開発チームは、ゲームをより魅力的にするために、多くの努力を払ってきました。明日のリリースに合わせて、ゲームの新しい世界や機能が公開され、プレイヤー们に新たな体験が提供されることになります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -402,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-13T14:06:26.892771"
+  "last_updated": "2026-07-14T02:44:17.055413"
 }

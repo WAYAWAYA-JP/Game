@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーはさまざまな惑星を探索し、工場を建設して自動化することができます。惑星を巡る途中で、プレイヤーはさまざまなボットを活用して産業を管理し、交渉や戦闘を通じて、クエストや困難な状況を解決する必要があります。様々な星々の間に位置する新しい住まいへようこそ。このゲームでは、プレイヤーは自由に惑星を探索し、リソースを集め、工場を建設して、独自の宇宙文明を築くことができます。さまざまな惑星では、独自の特徴やリソースがあり、プレイヤーはこれらのリソースを活用して、宇宙での生存と繁栄を目指すことになります。",
+        "description": "Nova Landsは、工場を建設し、探検を行い、島を発見するオープンワールドゲームです。惑星を探索し、便利なボットを活用して産業を自動管理し、交渉や戦闘を通じて、様々な困難やクエストに挑みます。星々の間に佇む新たな居住地へようこそ。このゲームでは、プレイヤーは惑星を自由に探索し、資源を集め、工場を建設して産業を発展させます。また、ボットを活用して作業を自動化し、効率的な管理が可能です。さらに、惑星の危険な環境や他の存在との遭遇に備えて、戦闘や交渉のスキルも身につけなければなりません。Nova Landsは、自由度の高いゲームプレイと、広大な惑星を探索する楽しみを提供します。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-14"
+        "date": "2026-07-15"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-14"
+        "date": "2026-07-15"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-14"
+        "date": "2026-07-15"
       },
       {
         "title": "Narrative 12 for Bundle(PC)",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【Expeditions: Samurai：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "THQ Nordicは7月14日、歴史を背景に戦略性の高いバトルを楽しむことができる歴史RPG『Expeditions: Samurai』の早期アクセス配信を8月7日に開始すると発表しました。このゲームでは、プレイヤーは16世紀の日本を舞台に、侍として戦いながら国を統一するという目標を目指します。早期アクセス期間中は、開発チームはプレイヤーのフィードバックを集めながら、ゲームのバランスや新しいコン",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260715-454989/",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
         "title": "【恋に落ちるしかなかった：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーからもレビューが寄せられている。ジャンルとしては珍しいほど長時間プレイされているこのゲームの秘訣は何なのか。ゲームの内容は、プレイヤーが様々な選択肢を選んで物語を進めていく形式です。複数のキャラクターとの恋愛を楽しんだり、友情を深めたりすることができます。ストーリーは、プレイヤーの選択によって様々な方向へ進むので、1",
+        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーからもレビューが寄せられている。ジャンルとしては珍しいほどの長時間プレイが可能なこのゲームの秘訣は何なのか。ゲームの内容やシステムは、ユーザーが長時間にわたってプレイしたいと思わせるものになっているのでしょうか。ゲームの魅力が高く、ストーリーやキャラクターの設定もユーザーに興味を持たせているようです。長時間プレイする",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【アサシン クリード ブラック フラッグ RE:シンクロ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史という魅力をそのまま引き継いでいません。その結果、このゲームは「前作が存在しない続編」という奇妙な立ち位置に落ち着いてしまっています。シリーズの歴史的な魅力が感じられないため、プレイヤーは新しいストーリーやキャラクターに惹かれるかもしれませんが、原作ファンには少し残念な出来事だと思われているかもしれません。",
+        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史的な魅力を引き継いでいないため、「前作が存在しない続編」という不思議な姿になっている。シリーズの歴史は、原作の魅力の大きな部分を占めており、それを引き継いでいないことは大きな欠点となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,81 +249,81 @@
         "is_translated": false
       },
       {
-        "title": "【Dust 514：レビュー】",
-        "platform": "PC Gamer",
+        "title": "【王国防衛ローグライト「The King is Watching」：レビュー】",
+        "platform": "doope!",
         "type": "review",
-        "description": "EVE Online と EVE Vanguard は、対象とするユーザーの層が異なります。EVE Online は、詳細なゲームシステムや深いストーリーに込められた魅力を楽しむ、ハードコアなゲーマーたちに向けたゲームです。一方で、EVE Vanguard は、アクション満点の宇宙空間バトルを中心に展開する、爽快なゲーム体験を求めるユーザーに向けて設計されています。",
+        "description": "王が見張っている時だけ国民が働く、ユニークな王国防衛ローグライトゲーム「The King is Watching」は、昨年7月にPC版をリリースし、高い評価を獲得しました。開発元のHypnoheadとパブリッシャーのtinyBuildは、新たにPS5とXbox Series X/S向けにも本作をリリースします。王の監視下で国民が働き、王国を防衛するという新鮮な設定が特徴的なこのゲームは、ローグライ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/this-is-my-3rd-time-playing-eve-onlines-upcoming-extraction-shooter-little-brother-and-it-finally-feels-like-its-coming-together-all-without-the-ambitious-crossover-features-it-was-made-for/",
+        "url": "https://doope.jp/2026/07168645.html",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Cat Mail Co：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "友達がいてもいなくても最高です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/ive-helped-100-cats-mail-parcels-in-cat-mail-co-which-is-why-i-can-safely-say-its-one-of-the-best-management-sims-ive-played-in-a-very-long-time/",
         "date": "2026-07-14",
         "is_translated": true
       },
       {
-        "title": "【Agent 64: Spies Never Die：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "個人スタジオ「Replicant D6」のデビュー作である「Agent 64: Spies Never Die」の開発は、2021年に始まりました。今年2月からオンラインプレイテストが実施されており、Rareの傑作「ゴールデンアイ 007」を彷彿とさせるこのゲームは、プレイヤーから大きな期待を集めています。開発チームは、クラシックなN64スタイルの3Dアクションゲームを作ることを目指しており、ファ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168646.html",
-        "date": "2026-07-13",
-        "is_translated": false
-      },
-      {
-        "title": "【バルダーズ・ゲート3：レビュー】",
+        "title": "【Doom: The Dark Ages – Revelations：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "誰かこの男にスチームデッキを与えてください。",
+        "description": "The Dark Ages に関するすべての問題を修正し、エターナルの動きをたっぷりと注入して、これまでで最高の悪魔退治アクションを実現しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/baldurs-gate/my-chemical-romance-front-man-gerard-way-pauses-concert-to-talk-classic-rpgs-admits-he-hasnt-played-baldurs-gate-3-yet-the-first-one-was-a-lot-of-fun-the-closest-thing-at-the-time-to-playing-d-and-d/",
-        "date": "2026-07-13",
+        "url": "https://www.pcgamer.com/games/fps/doom-the-dark-ages-revelations-review/",
+        "date": "2026-07-14",
         "is_translated": true
       },
       {
-        "title": "【Summer Games Done Quick：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "将来のスポンサーやパートナーを選定する際のプロセスを見直し、さらに強化していく予定です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/summer-games-done-quick-raises-usd2-4-million-for-charity-cancels-sponsored-stream-with-snk-over-saudi-arabia-ties/",
-        "date": "2026-07-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ファイアーエムブレム フォーチュンウィーブ：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マリオ + ラビッツやトライアングル ストラテジー、バナー サーガなどの戦術RPGは、ファイアーエムブレム フォーチュン ウィーブにつながる戦略的なゲームプレイを提供します。これらのゲームは、戦略的な思考とチームワークを必要とし、プレイヤーはキャラクターを効果的に配置して戦闘に勝利する必要があります。複雑なストーリーラインと魅力的なキャラクターもあり、戦術RPGのファンにとっては必玩のゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/best-games-like-fire-emblem-fortunes-wave/",
-        "date": "2026-07-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ペルソナ 4 リバイバル：レビュー】",
+        "title": "【デッキビルダー：聖杯：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "リニューアルされた再リリース版ゴールデンを含め、『ペルソナ 4』は実際にかなり古くなっているゲームです。そのため、長い間プレイしたことがある人も少なくありません。特に、比較的長い時間をゲームに費やした人や、若い世代にとっても、このゲームは古いものであるという認識が共通しています。",
+        "description": "デッキビルダーには、他の多くのゲームでは見られない不安があります。どのカードをプレイすべきかについて、非常にストレスを感じることがあります。実際、私は現実世界のカードゲームについても同じように感じています。カードを選ぶ際のプレッシャーや、勝利への執着心が高まるため、プレイヤーは常に緊張感を抱えています。そんな中で、デッキビルダーはプレイヤーに、戦略的な思考を要求します。カードの組み合わせや、相手へ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.rockpapershotgun.com/persona-4-revivals-take-on-the-controversial-yosuke-will-apparently-be-more-fitting-for-the-world-we-live-in-now",
-        "date": "2026-07-09",
+        "url": "https://www.rockpapershotgun.com/deckbuilder-grail-quells-the-fear-in-my-heart-of-playing-the-wrong-card-by-pinning-all-of-the-strategy-on-the-deckbuilding",
+        "date": "2026-07-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Spire 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Slay the Spire 2 の早期アクセス版をプレイした人は、プレースホルダーとして使用されている一部のアートが今ひとつ見た目が良くないことに気が付いたことでしょう。ただし、それが必ずしも悪いものだというわけではありません。開発中のゲームでは、プレースホルダーグラフィックが使用されることはよくあることです。このようなアートは、最終的なバージョンでは大幅に改善される可能性があります。ゲーム開発",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/they-would-feel-a-kind-of-sadness-right-slay-the-spire-2-dev-on-using-slightly-rubbish-placeholder-art-over-ai",
+        "date": "2026-07-14",
+        "is_translated": true
+      },
+      {
+        "title": "【ロード・オブ・ザ・リング ゴラムを追え：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ワーナー・ブラザースは、俳優であり監督でもあるアンディ・サーキスが2027年に映画館で公開予定の『ロード・オブ・ザ・リング』のスピンオフ映画『ゴラムを追え』の初公開映像を公開しました。この映画は、人気シリーズの新たな章を開く作品として期待を集めています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lotr-hunt-for-gollum-first-footage-teaser-andy-serkis/",
+        "date": "2026-07-14",
         "is_translated": true
       }
     ],
@@ -467,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-14T13:09:23.556805"
+  "last_updated": "2026-07-15T02:42:30.935911"
 }

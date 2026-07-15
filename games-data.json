@@ -5,7 +5,7 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、工場を建設し、探検を行い、島を発見するオープンワールドゲームです。惑星を探索し、便利なボットを活用して産業を自動管理し、交渉や戦闘を通じて、様々な困難やクエストに挑みます。星々の間に佇む新たな居住地へようこそ。このゲームでは、プレイヤーは惑星を自由に探索し、資源を集め、工場を建設して産業を発展させます。また、ボットを活用して作業を自動化し、効率的な管理が可能です。さらに、惑星の危険な環境や他の存在との遭遇に備えて、戦闘や交渉のスキルも身につけなければなりません。Nova Landsは、自由度の高いゲームプレイと、広大な惑星を探索する楽しみを提供します。",
+        "description": "Nova Landsは、オープンワールドを自由に冒険できるゲームで、工場の建設や島の探検などが楽しめます。惑星の探索や産業の自動化を支援してくれる便利なボットとともに、さまざまな困難やクエストに挑みながら、惑星間を旅していきます。交渉や戦闘など、さまざまな選択肢を駆使して、目標を達成しましょう。新しい星への旅立ちを始めるには、こちらへようこそ！",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -28,7 +28,7 @@
     ],
     "bundle": [
       {
-        "title": "All Star Bundle Week - Build Your Own Best of Cozy Bundle",
+        "title": "All Star Bundle Week - Build Your Own Best of Bento Bundle",
         "platform": "Fanatical",
         "type": "bundle",
         "description": "Fanaticalのバンドル。",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【Hope of Elements：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ハリソンワールドは7月15日、ローグライクストラテジーRPG『Hope of Elements ー 魔女とドラゴンの旅』の体験版を配信開始しました。このゲームは、プレイヤーが魔女とドラゴンを操り、様々な挑戦に立ち向かっていく、ローグライク要素とストラテジー要素を融合させたRPGです。体験版を遊ぶことで、ゲームの世界やシステムを先行体験することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260715-455063/",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
         "title": "【Expeditions: Samurai：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "THQ Nordicは7月14日、歴史を背景に戦略性の高いバトルを楽しむことができる歴史RPG『Expeditions: Samurai』の早期アクセス配信を8月7日に開始すると発表しました。このゲームでは、プレイヤーは16世紀の日本を舞台に、侍として戦いながら国を統一するという目標を目指します。早期アクセス期間中は、開発チームはプレイヤーのフィードバックを集めながら、ゲームのバランスや新しいコン",
+        "description": "THQ Nordicは7月14日、歴史RPG『Expeditions: Samurai』の早期アクセス配信が8月7日に開始されることを発表しました。このゲームでは、プレイヤーは日本の戦国時代を舞台に、侍としてさまざまな戦闘や戦略を駆使して生き残ります。早期アクセス配信では、プレイヤーはゲームの最初のバージョンをプレイし、開発者と一緒にゲームの進化を見届けることができます。THQ Nordicは、早",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【恋に落ちるしかなかった：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーからもレビューが寄せられている。ジャンルとしては珍しいほどの長時間プレイが可能なこのゲームの秘訣は何なのか。ゲームの内容やシステムは、ユーザーが長時間にわたってプレイしたいと思わせるものになっているのでしょうか。ゲームの魅力が高く、ストーリーやキャラクターの設定もユーザーに興味を持たせているようです。長時間プレイする",
+        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』には、100時間以上プレイしたユーザーのレビューも多く見受けられます。ジャンル的にみても珍しいほど長時間プレイされているこのゲームの秘訣は何なのか。ゲームの中で何がユーザーにそんなに魅力的なのか、気になるポイントはあるのでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,33 +249,7 @@
         "is_translated": false
       },
       {
-        "title": "【アサシン クリード ブラック フラッグ RE:シンクロ：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、原作が持っていたシリーズの歴史的な魅力を引き継いでいないため、「前作が存在しない続編」という不思議な姿になっている。シリーズの歴史は、原作の魅力の大きな部分を占めており、それを引き継いでいないことは大きな欠点となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/ac4-20260714-454785/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【王国防衛ローグライト「The King is Watching」：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "王が見張っている時だけ国民が働く、ユニークな王国防衛ローグライトゲーム「The King is Watching」は、昨年7月にPC版をリリースし、高い評価を獲得しました。開発元のHypnoheadとパブリッシャーのtinyBuildは、新たにPS5とXbox Series X/S向けにも本作をリリースします。王の監視下で国民が働き、王国を防衛するという新鮮な設定が特徴的なこのゲームは、ローグライ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168645.html",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Cat Mail Co：レビュー】",
+        "title": "【Cat Mail：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "友達がいてもいなくても最高です。",
@@ -278,7 +265,7 @@
         "title": "【Doom: The Dark Ages – Revelations：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "The Dark Ages に関するすべての問題を修正し、エターナルの動きをたっぷりと注入して、これまでで最高の悪魔退治アクションを実現しました。",
+        "description": "ダークエイジズの全ての問題点を解決し、エターナルの動きを多く取り入れることで、これまでで最高の悪魔退治アクションゲームを実現しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,10 +275,10 @@
         "is_translated": true
       },
       {
-        "title": "【デッキビルダー：聖杯：レビュー】",
+        "title": "【デッキビルダーの聖杯：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "デッキビルダーには、他の多くのゲームでは見られない不安があります。どのカードをプレイすべきかについて、非常にストレスを感じることがあります。実際、私は現実世界のカードゲームについても同じように感じています。カードを選ぶ際のプレッシャーや、勝利への執着心が高まるため、プレイヤーは常に緊張感を抱えています。そんな中で、デッキビルダーはプレイヤーに、戦略的な思考を要求します。カードの組み合わせや、相手へ",
+        "description": "デッキビルダーには、他の多くのゲームでは見られない不安が存在します。どのカードをプレイするべきかについて、非常にストレスを感じるという点が特徴的です。実際、私は現実世界のカードゲームについても同じように感じています。カードを選ぶ際のプレッシャーや、間違える可能性がある不安感は、デッキビルダーをプレイする上で大きな要素です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,25 +291,12 @@
         "title": "【Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Slay the Spire 2 の早期アクセス版をプレイした人は、プレースホルダーとして使用されている一部のアートが今ひとつ見た目が良くないことに気が付いたことでしょう。ただし、それが必ずしも悪いものだというわけではありません。開発中のゲームでは、プレースホルダーグラフィックが使用されることはよくあることです。このようなアートは、最終的なバージョンでは大幅に改善される可能性があります。ゲーム開発",
+        "description": "現在、早期アクセス版のSlay the Spire 2をプレイしている人なら、プレースホルダーとして使用されている一部のアートが、見た目が悪いことに気づいたでしょう。プレースホルダーのアートは、最終的なリリース版では変更されることが多いですが、開発チームはゲームのグラフィックを向上させるために努力を払っています。プレースホルダーアートは、ゲームの早期段階での開発に役立つツールですが、ゲームの完成度",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/they-would-feel-a-kind-of-sadness-right-slay-the-spire-2-dev-on-using-slightly-rubbish-placeholder-art-over-ai",
-        "date": "2026-07-14",
-        "is_translated": true
-      },
-      {
-        "title": "【ロード・オブ・ザ・リング ゴラムを追え：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ワーナー・ブラザースは、俳優であり監督でもあるアンディ・サーキスが2027年に映画館で公開予定の『ロード・オブ・ザ・リング』のスピンオフ映画『ゴラムを追え』の初公開映像を公開しました。この映画は、人気シリーズの新たな章を開く作品として期待を集めています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lotr-hunt-for-gollum-first-footage-teaser-andy-serkis/",
         "date": "2026-07-14",
         "is_translated": true
       }
@@ -480,5 +454,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-15T02:42:30.935911"
+  "last_updated": "2026-07-15T13:13:34.697201"
 }

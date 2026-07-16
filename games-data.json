@@ -5,13 +5,13 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドを自由に冒険できるゲームで、工場の建設や島の探検などが楽しめます。惑星の探索や産業の自動化を支援してくれる便利なボットとともに、さまざまな困難やクエストに挑みながら、惑星間を旅していきます。交渉や戦闘など、さまざまな選択肢を駆使して、目標を達成しましょう。新しい星への旅立ちを始めるには、こちらへようこそ！",
+        "description": "Nova Landsは、オープンワールドゲームで、工場の建設や島の探検が楽しめます。惑星を探索し、便利なボットを活用して産業を自動化させながら、さまざまな挑戦やクエストに取り組みます。交渉や戦闘を通じて、惑星上での生活を切り開いていきます。星々の間に佇む新しい住まいでの生活が、ここに始まります。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       },
       {
         "title": "Tattoo Tycoon - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       }
     ],
     "bundle": [
+      {
+        "title": "Humble Handhelds Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-16"
+      },
       {
         "title": "All Star Bundle Week - Build Your Own Best of Bento Bundle",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       },
       {
         "title": "Narrative 12 for Bundle(PC)",
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-06"
-      },
-      {
-        "title": "SpecialEffect Charity Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-06"
       }
     ],
     "review": [
       {
+        "title": "【Dispatch：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "傑作「The Wolf Among Us」と「Tales from the Borderlands」のクリエイターたちが設立したAdHoc Studioの新作が、昨年10月にローンチされました。この新作は、累計400万本販売を達成するなど、高い評価を獲得しています。AdHoc Studioは、ストーリーテリングに定評のあるクリエイターたちによって設立され、ゲームファンから高い期待を集めています。こ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07167576.html",
+        "date": "2026-07-16",
+        "is_translated": false
+      },
+      {
         "title": "【Hope of Elements：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハリソンワールドは7月15日、ローグライクストラテジーRPG『Hope of Elements ー 魔女とドラゴンの旅』の体験版を配信開始しました。このゲームは、プレイヤーが魔女とドラゴンを操り、様々な挑戦に立ち向かっていく、ローグライク要素とストラテジー要素を融合させたRPGです。体験版を遊ぶことで、ゲームの世界やシステムを先行体験することができます。",
+        "description": "ハリソンワールドは7月15日、ローグライクストラテジーRPG『Hope of Elements ー 魔女とドラゴンの旅』の体験版を配信開始しました。この作品では、プレイヤーは魔女とドラゴンのパーティーを率いながら、さまざまなクエストをこなしていきます。ローグライク要素を取り入れたダンジョン探索や、戦略的なバトルが楽しめるのが特徴です。体験版では、ゲームの世界やシステムを先行体験することができます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【Expeditions: Samurai：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "THQ Nordicは7月14日、歴史RPG『Expeditions: Samurai』の早期アクセス配信が8月7日に開始されることを発表しました。このゲームでは、プレイヤーは日本の戦国時代を舞台に、侍としてさまざまな戦闘や戦略を駆使して生き残ります。早期アクセス配信では、プレイヤーはゲームの最初のバージョンをプレイし、開発者と一緒にゲームの進化を見届けることができます。THQ Nordicは、早",
+        "description": "THQ Nordicは7月14日、歴史を背景にしたロールプレイングゲーム『Expeditions: Samurai』の早期アクセス配信を8月7日に開始すると発表しました。このゲームでは、プレイヤーは日本の戦国時代を舞台に、侍として戦いながら、戦略と戦術を駆使して自分自身の道を切り開いていきます。早期アクセス配信では、プレイヤーはゲームの世界を体験し、開発チームのフィードバックを提供することができま",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +249,62 @@
         "is_translated": false
       },
       {
+        "title": "【オデッセイ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "クリストファー・ノーラン監督の新作と同じ2時間53分の長さで再生しました。その様子は次のとおりです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/if-the-the-odyssey-film-is-anything-like-the-odyssey-adventure-game-from-2012-matt-damon-will-spend-the-entire-first-hour-trying-to-solve-a-single-loom-puzzle/",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
+        "title": "【ムーンライト・ピークス：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "吸血鬼農場シムにはもっと噛み応えがあるべきだった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-review/",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
+        "title": "【デンシャアタック！：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このエネルギッシュなゲームには、欠陥が隠されていない部分があります。例えば、光景が過度に彩られていて、ときに飽和して見える場面があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/denshattack-review/",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
+        "title": "マイクロソフトが所有することには何のメリットもないと言われている。最近、解雇に関する報告書が公開され、Xboxのオーナーは「使い捨ての労働者精神」を育てたと非難された。従業員の扱いに対する批判が強く出ている状況で、マイクロソフトの所有はメリットをもたらさないと考えられている。",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "マイクロソフトが約1600人を解雇し、多くのスタジオとの関係を終了したことは、先週話題になった出来事です。最新のレポートでは、これらの決定の背景にある事情が明らかになっています。さまざまなニュースが社会に与える影響について考える中で、このような大きな変化の理由を理解することは重要です。マイクロソフトのこの動きは、ゲーム業界のみならず、多くの人々の生活に影響を与えるため、注目されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/there-are-no-benefits-to-being-owned-by-microsoft-xbox-owners-accused-of-cultivating-a-disposable-worker-mentality-in-damning-report-on-layoffs",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
         "title": "【恋に落ちるしかなかった：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』には、100時間以上プレイしたユーザーのレビューも多く見受けられます。ジャンル的にみても珍しいほど長時間プレイされているこのゲームの秘訣は何なのか。ゲームの中で何がユーザーにそんなに魅力的なのか、気になるポイントはあるのでしょうか。",
+        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーのレビューも多数存在します。ジャンルとしては珍しいほど長時間プレイされているこのゲームには、どのような秘訣があるのでしょうか。ユーザーたちが長時間プレイする魅力は、ストーリーの深みやキャラクターの魅力にあります。ゲームをプレイすると、多くの選択肢やイベントが用意されており、ユーザーはさまざまなストーリーを体験できます",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,36 +314,10 @@
         "is_translated": false
       },
       {
-        "title": "【Cat Mail：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "友達がいてもいなくても最高です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/ive-helped-100-cats-mail-parcels-in-cat-mail-co-which-is-why-i-can-safely-say-its-one-of-the-best-management-sims-ive-played-in-a-very-long-time/",
-        "date": "2026-07-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Doom: The Dark Ages – Revelations：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ダークエイジズの全ての問題点を解決し、エターナルの動きを多く取り入れることで、これまでで最高の悪魔退治アクションゲームを実現しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/doom-the-dark-ages-revelations-review/",
-        "date": "2026-07-14",
-        "is_translated": true
-      },
-      {
-        "title": "【デッキビルダーの聖杯：レビュー】",
+        "title": "【デッキビルダー：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "デッキビルダーには、他の多くのゲームでは見られない不安が存在します。どのカードをプレイするべきかについて、非常にストレスを感じるという点が特徴的です。実際、私は現実世界のカードゲームについても同じように感じています。カードを選ぶ際のプレッシャーや、間違える可能性がある不安感は、デッキビルダーをプレイする上で大きな要素です。",
+        "description": "デッキビルダーには、他の多くのゲームでは見られない不安があります。どのカードをプレイするべきかについて、非常にストレスを感じるという点です。実際、私は現実世界のカードゲームについても、同様のストレスを感じることがあります。カードの組み合わせや戦略を考えるのが面白い一方で、最適な選択をしなければならないというプレッシャーもあるようです。デッキビルダーは、カードを慎重に選び、戦略的に組み合わせることで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +330,7 @@
         "title": "【Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "現在、早期アクセス版のSlay the Spire 2をプレイしている人なら、プレースホルダーとして使用されている一部のアートが、見た目が悪いことに気づいたでしょう。プレースホルダーのアートは、最終的なリリース版では変更されることが多いですが、開発チームはゲームのグラフィックを向上させるために努力を払っています。プレースホルダーアートは、ゲームの早期段階での開発に役立つツールですが、ゲームの完成度",
+        "description": "現在、早期アクセス形式で「Slay the Spire 2」をプレイしている人なら、プレースホルダー・アートの一部が不完全なものに見えることに気づいたでしょう。プレースホルダー・アートは、ゲーム開発中の仮のグラフィックやデザインです。開発チームは、ゲームの完成度を高めるために、プレースホルダー・アートを段階的に改良し、より魅力的なものに変えていきます。早期アクセス形式でのプレイには、ゲームの開発プ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -454,5 +493,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-15T13:13:34.697201"
+  "last_updated": "2026-07-16T02:49:25.499015"
 }

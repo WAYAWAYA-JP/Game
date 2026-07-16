@@ -5,7 +5,7 @@
         "title": "Nova Lands - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームで、工場の建設や島の探検が楽しめます。惑星を探索し、便利なボットを活用して産業を自動化させながら、さまざまな挑戦やクエストに取り組みます。交渉や戦闘を通じて、惑星上での生活を切り開いていきます。星々の間に佇む新しい住まいでの生活が、ここに始まります。",
+        "description": "Nova Landsは、オープンワールドゲームで、プレイヤーは惑星を探索し、工場を建設し、島を発見することができます。惑星の資源を活用して産業を自動化するための便利なボットを活用し、交渉や戦闘を通じて、様々な困難やクエストに挑みます。新たな星々の間に広がる未知の世界で、プレイヤーの新しい冒険が始まります。惑星の秘密を解き明かし、 自動管理された産業を構築し、星々の間に佇む新居で新たな生活を始めてみませんか。",
         "price": "無料",
         "originalPrice": "¥2,300",
         "discount": "100% OFF",
@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "All Star Bundle Week - Build Your Own Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-16"
+      },
+      {
         "title": "Humble Handhelds Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -37,18 +49,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "All Star Bundle Week - Build Your Own Best of Bento Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
         "date": "2026-07-16"
       },
       {
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【火山の娘：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「完全版」と称してリリースされる『火山の娘』は、新規プレイヤーだけでなく、すでに遊んだことがあるプレイヤーにとっても、より楽しくなったタイトルへと進化を遂げている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/volcano-princess-20260716-455268/",
+        "date": "2026-07-16",
+        "is_translated": false
+      },
+      {
         "title": "【Dispatch：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "傑作「The Wolf Among Us」と「Tales from the Borderlands」のクリエイターたちが設立したAdHoc Studioの新作が、昨年10月にローンチされました。この新作は、累計400万本販売を達成するなど、高い評価を獲得しています。AdHoc Studioは、ストーリーテリングに定評のあるクリエイターたちによって設立され、ゲームファンから高い期待を集めています。こ",
+        "description": "傑作「The Wolf Among Us」と「Tales from the Borderlands」のクリエイターたちが設立した「AdHoc Studio」の新作が昨年10月にローンチされ、累計400万本以上を販売する大ヒットとなりました。このスタジオのゲームは、ストーリーテリングとキャラクター造形に定評があり、ファンから高い評価を得ています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +236,23 @@
         "is_translated": false
       },
       {
-        "title": "【Hope of Elements：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【Secretlab Atlas：レビュー】",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "ハリソンワールドは7月15日、ローグライクストラテジーRPG『Hope of Elements ー 魔女とドラゴンの旅』の体験版を配信開始しました。この作品では、プレイヤーは魔女とドラゴンのパーティーを率いながら、さまざまなクエストをこなしていきます。ローグライク要素を取り入れたダンジョン探索や、戦略的なバトルが楽しめるのが特徴です。体験版では、ゲームの世界やシステムを先行体験することができます。",
+        "description": "快適でスマート、そしてチャンピオンに少し近づきすぎます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260715-455063/",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Expeditions: Samurai：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "THQ Nordicは7月14日、歴史を背景にしたロールプレイングゲーム『Expeditions: Samurai』の早期アクセス配信を8月7日に開始すると発表しました。このゲームでは、プレイヤーは日本の戦国時代を舞台に、侍として戦いながら、戦略と戦術を駆使して自分自身の道を切り開いていきます。早期アクセス配信では、プレイヤーはゲームの世界を体験し、開発チームのフィードバックを提供することができま",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260715-454989/",
-        "date": "2026-07-15",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/secretlab-atlas-review/",
+        "date": "2026-07-16",
+        "is_translated": true
       },
       {
         "title": "【オデッセイ：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "クリストファー・ノーラン監督の新作と同じ2時間53分の長さで再生しました。その様子は次のとおりです。",
+        "description": "クリストファー・ノーラン監督の新作と同じく2時間53分の長さで再生しました。その様子は次のとおりです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -278,7 +278,7 @@
         "title": "【デンシャアタック！：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このエネルギッシュなゲームには、欠陥が隠されていない部分があります。例えば、光景が過度に彩られていて、ときに飽和して見える場面があります。",
+        "description": "このエネルギッシュなゲームには、欠陥が隠されている場所があります。色とりどりのグラフィックや、活気に満ちたサウンドが、ゲームの不完全な部分を目立たなくしています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,10 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "マイクロソフトが所有することには何のメリットもないと言われている。最近、解雇に関する報告書が公開され、Xboxのオーナーは「使い捨ての労働者精神」を育てたと非難された。従業員の扱いに対する批判が強く出ている状況で、マイクロソフトの所有はメリットをもたらさないと考えられている。",
+        "title": "【Xbox：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "マイクロソフトが約1600人を解雇し、多くのスタジオとの関係を終了したことは、先週話題になった出来事です。最新のレポートでは、これらの決定の背景にある事情が明らかになっています。さまざまなニュースが社会に与える影響について考える中で、このような大きな変化の理由を理解することは重要です。マイクロソフトのこの動きは、ゲーム業界のみならず、多くの人々の生活に影響を与えるため、注目されています。",
+        "description": "Microsoftは先週、約1600人を解雇し、多くのスタジオとの提携を解消しました。この中で、舞台裏で何が起こっていたのかが、最新のレポートで明らかになりました。近年のニュースは社会に大きな影響を与えていますが、Microsoftの決定がもたらす影響についてはまだ明らかになっていません。Microsoftの決定は、ゲーム業界に大きな波紋をもたらしています。解雇されたスタジオには、人気ゲームの開発",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,23 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【恋に落ちるしかなかった：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "恋愛ビジュアルノベル『恋に落ちるしかなかった』は、100時間以上プレイしたユーザーのレビューも多数存在します。ジャンルとしては珍しいほど長時間プレイされているこのゲームには、どのような秘訣があるのでしょうか。ユーザーたちが長時間プレイする魅力は、ストーリーの深みやキャラクターの魅力にあります。ゲームをプレイすると、多くの選択肢やイベントが用意されており、ユーザーはさまざまなストーリーを体験できます",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260714-454923/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【デッキビルダー：レビュー】",
+        "title": "【デッキビルダーの聖杯：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "デッキビルダーには、他の多くのゲームでは見られない不安があります。どのカードをプレイするべきかについて、非常にストレスを感じるという点です。実際、私は現実世界のカードゲームについても、同様のストレスを感じることがあります。カードの組み合わせや戦略を考えるのが面白い一方で、最適な選択をしなければならないというプレッシャーもあるようです。デッキビルダーは、カードを慎重に選び、戦略的に組み合わせることで",
+        "description": "デッキビルダーには、他の多くのゲームでは見られない不安があります。どのカードをプレイするべきかについて、非常にストレスを感じるという点です。実際、私は現実世界のカードゲームについても同じように感じます。カードを選ぶ際のプレッシャーは、デッキビルダーをより心拍数が上がるゲームにする要因の1つです。カードの組み合わせや戦略の深さが、プレーヤーを引きつけています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +317,7 @@
         "title": "【Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "現在、早期アクセス形式で「Slay the Spire 2」をプレイしている人なら、プレースホルダー・アートの一部が不完全なものに見えることに気づいたでしょう。プレースホルダー・アートは、ゲーム開発中の仮のグラフィックやデザインです。開発チームは、ゲームの完成度を高めるために、プレースホルダー・アートを段階的に改良し、より魅力的なものに変えていきます。早期アクセス形式でのプレイには、ゲームの開発プ",
+        "description": "現在、早期アクセス形式で『Slay the Spire 2』をプレイしている場合は、プレースホルダー アートの一部が、見た目があまり良くないことに気がついたかもしれません。ただし、私は必ずしもそのような主張をしているわけではありません。早期アクセス中のゲームは、継続的に更新や改良が行われることが多いため、プレースホルダー アートも将来的には変更される可能性があります。開発チームは、ゲームの完成度を",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -493,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-16T02:49:25.499015"
+  "last_updated": "2026-07-16T13:21:28.011822"
 }

@@ -2,76 +2,28 @@
   "pc": {
     "free": [
       {
-        "title": "Foretales - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このカードゲームはストーリーを重視した、覚悟的なものです。Foretalesでは、様々なプレイスタイルやストーリーラインを通じて、ユニークなアドベンチャー体験を提供しています。プレイヤーは、世界を救うこともできれば、事態を様子見することもできます。世界の運命を左右する選択が、プレイヤーに託されています。",
-        "price": "無料",
-        "originalPrice": "¥2,050",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Eternal Threads - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Eternal Threads』は、時間を操り、選択肢を選んで未来を変化させる、シングルプレイのストーリー性のあるパズルゲームです。このゲームでは、時間操作と選択が密接に結びつき、プレイヤーの決定が物語の進行に大きな影響を与えます。様々な選択肢を選んで、物語の未来を形作っていきます。時間操作の要素を活用して、パズルを解決し、物語がどのように展開するかを見ていきます。",
-        "price": "無料",
-        "originalPrice": "¥1,980",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のFPPアクションゲームです。前作『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦や没入感あふれる新たなストーリーが登場します。さらに、迫力のバイクステージや改良されたスキル、サイバー忍者アクションが集結し、より興奮的なゲーム体験が楽しめます。このゲームでは、プレイヤーはサイバーパンクの世界で自由に動き回り、さまざまなステージやボスと戦います。バイクで街中を駆け抜けるステージもあり、スピード感とアクションが融合した楽しみ方ができます。ストーリーもより深みと複雑さを持っており、プレイヤーはゲームの世界に没入しやすくなっています。全体的に、より多くの要素が追加され、より魅力的で楽しいゲーム体験が提供されているので、おすすめです。",
-        "price": "無料",
-        "originalPrice": "¥4,880",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Old Ones Awakenには、新たなレベルが含まれています！新しいステージでは、未知のモンスターと遭遇したり、未発見のアイテムを入手したり、新しい魔法をマスターしたりできます。また、新しいボスキャラクターも登場します。プレイヤーは、新しいレベルで新しい戦略を考え出して、ゲームを進めていく必要があります。新しいレベルは、ゲームの難易度を上げると同時に、プレイヤーに新しい体験を提供します。",
-        "price": "無料",
-        "originalPrice": "¥390",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Monument Valley - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
-        "price": "無料",
-        "originalPrice": "¥920",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
-      },
-      {
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで公開されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に足を踏み入れることで始まる、ハイスピードかつダークで残酷なローグライトゲームです。このゲームの最大の特徴は、Precisionなガンアクションと時間をねじ曲げるスローモーションが組み合わさることで、プレイヤーは凶悪な敵を倒すために、戦略的なアクションを講じる必要があります。冷酷な環境と不気味な雰囲気の中で、プレイヤーは洋館の深層に潜み、愛する人を救うために、様々な課題と戦闘を乗り越える必要があります。ローグライトの要素も取り入れられており、プレイヤーのスキルと戦略が、ゲームの進行に大きな影響を与えます。OTXOは、ハイスピードなアクションとダークな世界観が融合した、独自のゲーム体験を提供します。",
+        "description": "Epic Gamesで無料配布中のゲーム「OTXO」は、愛する人を救うために、不気味な洋館に足を踏み入れるという、ハイスピードかつダークで残酷なローグライトゲームです。このゲームの特徴は、精密かつ冷酷なガンアクションと、時間を操ることができるスローモーションの組み合わせです。スローモーションの機能により、プレイヤーは時間を遅くして敵の攻撃を回避したり、銃のリロード時間を短縮したりすることができます。これにより、ゲームはよりダイナミックで、戦略的な要素が増します。 「OTXO」は、ローグライトゲームの要素も備えており、各プレイヤーの体験は一意で、毎回のプレイで新しい挑戦が待ち受けています。洋館の構造や敵の配置、アイテムの出現位置などがランダムに変化するため、プレイヤーは毎回、新たな状況に対応する必要があります。 このゲームのグラフィックやサウンドトラックも、ダークで不気味な雰囲気を醸し出しており、プレイヤーをゲームの世界に引き込むことができます。ハイスピードなアクションと、時間操作能力を上手に使いこなすことが、ゲームをクリアするための重要な要素です。愛する人を救うために、プレイヤーはこの不気味で危険な世界に挑み、洋館の謎を解き明かす必要があります。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-30"
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Sol Cesto - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Sol Cesto』は、運をうまく使いこなして道を切り開いていく、儀式的な雰囲気を醸し出すローグライトゲームです。プレイヤーはヒーローを選び、ランダムに生成されるダンジョンの最深部を目指して進めます。このゲームでは、プレイヤーは運と戦略をうまく組み合わせて、ダンジョンの奥深くまで到達することを目指します。各ヒーローには独自の能力が備わっているため、プレイヤーは自分の戦闘スタイルに合ったヒーローを選ぶことができます。さらに、ダンジョンの構造がランダムに生成されるため、プレイヤーは毎回新しい挑戦に立ち向かうことになります。『Sol Cesto』は、ローグライトゲームファンにとって、熱中できる魅力的な体験を提供するゲームです。",
+        "price": "無料",
+        "originalPrice": "¥1,600",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-07-31"
       }
     ],
     "bundle": [
@@ -85,7 +37,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-30"
+        "date": "2026-07-31"
+      },
+      {
+        "title": "難関ゲームをプレイしよう ゲッティングオーバーアイト、スプロディ、ネバーギブアップ、GRIME、ジャンプキングなど",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "収録: Your Friends、Splodey、Never Give Up",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-07-31"
       },
       {
         "title": "難関ゲーム集 - Getting Over It、Pogostuck、Splodey 他",
@@ -242,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-22"
-      },
-      {
-        "title": "2Kメガヒットバンドル for PC",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-07-20"
       }
     ],
     "review": [
@@ -261,7 +213,7 @@
         "title": "【Mistfall Hunter：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Skystone Gamesは7月30日、Bellring Gamesが開発した脱出アクションRPG『Mistfall Hunter（ミストフォール・ハンター）』を配信した。早速大きな人気を集めているものの、パフォーマンス問題などが原因で評価の伸び悩みが見られるようだ。",
+        "description": "Skystone Gamesは7月30日、Bellring Gamesが開発した脱出アクションRPG『Mistfall Hunter（ミストフォール・ハンター）』をリリースしました。発売後すぐに人気を博しましたが、パフォーマンスの問題などにより評価が伸び悩んでいるようです。このゲームは、プレイヤーが危険な世界を探索し、さまざまな敵と戦いながら、道具やアイテムを利用して脱出を目指す、アクションとRP",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -274,7 +226,7 @@
         "title": "【ブリガンダイン アビス：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハピネットは7月30日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』のコンソール向け体験版を配信しました。Nintendo Switch、PlayStation 5、Xbox Series X/Sに対応しており、プレイヤーはこれらのプラットフォームでゲームの世界を先行体験できます。『ブリガンダイン アビス』は、プレイヤーがさまざまなキャラクターを集め、強力な戦闘部隊を編成しま",
+        "description": "ハピネットは7月30日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』のコンソール向け体験版を配信しました。Nintendo Switch、PlayStation 5、Xbox Series X/Sで遊ぶことができます。このゲームは、プレイヤーがさまざまなキャラクターを操作して戦闘を行い、ストーリーを進めていくことが特徴です。体験版をプレイすることで、ゲームの世界観やシステムに",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -284,30 +236,30 @@
         "is_translated": false
       },
       {
-        "title": "【Gears of War: E-Day：レビュー】",
-        "platform": "Polygon",
+        "title": "【Golf With Your Friends 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Gears of War: E-Day は、人気シリーズ「Gears of War」の公式の前日譚として登場します。Horde モードの 3 時間のプレビューから明らかになったこのゲームは、シリーズの伝統を維持しながら、シリーズの世界観をさらに深める作品となっています。",
+        "description": "フレンドロップの先駆けであるフレンドゴルフは、2016年にBlacklight Interactiveによって早期アクセスでリリースされました。このクレイジーなゴルフシミュレーターは、悪魔のような競争力を持っています。ゴルフが好きな友達と一緒にプレイすることをお勧めします。フレンドゴルフは、フレンドロップと同じAmong Usシリーズの一部です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gears-of-war-e-day-horde-preview/",
+        "url": "https://www.rockpapershotgun.com/to-escalate-its-relationship-straining-putting-contests-golf-with-your-friends-2-is-turning-to-chaos-and-custom-courses",
         "date": "2026-07-30",
         "is_translated": true
       },
       {
-        "title": "Steamで急増する生成AI使用ゲーム、今や「新作の3本に1本」。ただし売上は“作品数増えたわりに伸びてない”との調査レポート",
-        "platform": "AUTOMATON",
+        "title": "【D&D＆World of Warcraft：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Steamでの新作ゲームのトレンドを分析したレポートが話題を集めています。このレポートでは、ゲーム業界のベテランが「AI生成コンテンツの開示」のあるゲームの増加や売上シェアなどを調べています。",
+        "description": "同社は、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開する際に、Magic の Universes Beyond 戦略を採用しています。同様の取り組みにより、ファンは新しいワールドを体験できるようになります。Magic の Universes Beyond 戦略は、様々なゲームやシリーズの世界観と Magic の世界を融合させることで、プレイヤーに新しい体験を提供",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260729-457268/",
-        "date": "2026-07-29",
-        "is_translated": false
+        "url": "https://www.polygon.com/dnd-dungeons-dragons-world-of-warcraft-universes-beyond-crossover/",
+        "date": "2026-07-30",
+        "is_translated": true
       }
     ],
     "sale": [
@@ -463,5 +415,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30T13:27:49.828344"
+  "last_updated": "2026-07-31T03:17:35.543267"
 }

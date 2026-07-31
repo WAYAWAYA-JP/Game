@@ -5,7 +5,7 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで無料配布中のゲーム「OTXO」は、愛する人を救うために、不気味な洋館に足を踏み入れるという、ハイスピードかつダークで残酷なローグライトゲームです。このゲームの特徴は、精密かつ冷酷なガンアクションと、時間を操ることができるスローモーションの組み合わせです。スローモーションの機能により、プレイヤーは時間を遅くして敵の攻撃を回避したり、銃のリロード時間を短縮したりすることができます。これにより、ゲームはよりダイナミックで、戦略的な要素が増します。 「OTXO」は、ローグライトゲームの要素も備えており、各プレイヤーの体験は一意で、毎回のプレイで新しい挑戦が待ち受けています。洋館の構造や敵の配置、アイテムの出現位置などがランダムに変化するため、プレイヤーは毎回、新たな状況に対応する必要があります。 このゲームのグラフィックやサウンドトラックも、ダークで不気味な雰囲気を醸し出しており、プレイヤーをゲームの世界に引き込むことができます。ハイスピードなアクションと、時間操作能力を上手に使いこなすことが、ゲームをクリアするための重要な要素です。愛する人を救うために、プレイヤーはこの不気味で危険な世界に挑み、洋館の謎を解き明かす必要があります。",
+        "description": "Epic Gamesプラットフォームで配布されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に踏み込むという、ユニークなストーリーを元にしました。プレイヤーは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを駆使して、洋館内を進みます。このゲームは、ハイスピードでダークな雰囲気と、残酷なローグライト要素を組み合わせた、刺激的なゲーム体験を提供します。様々な状況に対応するために、プレイヤーは戦略的に行動し、各ステージをクリアするために必要なアイテムやスキルを集める必要があります。時間を操るスローモーション機能は、プレイヤーに新たな戦略的選択肢を提供し、ゲームの재미をさらに高めています。愛する人のために戦うという感動的な物語と、緊張感のあるゲームプレイが融合した「OTXO」は、ガンアクションゲームファンにとって必見のタイトルであります。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は、運をうまく使いこなして道を切り開いていく、儀式的な雰囲気を醸し出すローグライトゲームです。プレイヤーはヒーローを選び、ランダムに生成されるダンジョンの最深部を目指して進めます。このゲームでは、プレイヤーは運と戦略をうまく組み合わせて、ダンジョンの奥深くまで到達することを目指します。各ヒーローには独自の能力が備わっているため、プレイヤーは自分の戦闘スタイルに合ったヒーローを選ぶことができます。さらに、ダンジョンの構造がランダムに生成されるため、プレイヤーは毎回新しい挑戦に立ち向かうことになります。『Sol Cesto』は、ローグライトゲームファンにとって、熱中できる魅力的な体験を提供するゲームです。",
+        "description": "『Sol Cesto』は、運を駆使して道を切り開いていく、儀式的な雰囲気を醸し出すローグライトゲームです。プレイヤーはヒーローを選び、ランダムに生成されるダンジョンの最深部を目指して冒険を繰り広げます。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Power Picks Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-07-31"
+      },
       {
         "title": "SOEDESCO Publishing Bundle",
         "platform": "Fanatical",
@@ -194,52 +206,53 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-07-22"
-      },
-      {
-        "title": "Into Games Charity Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-22"
       }
     ],
     "review": [
       {
-        "title": "【Mistfall Hunter：レビュー】",
+        "title": "【Leafy Corner：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Skystone Gamesは7月30日、Bellring Gamesが開発した脱出アクションRPG『Mistfall Hunter（ミストフォール・ハンター）』をリリースしました。発売後すぐに人気を博しましたが、パフォーマンスの問題などにより評価が伸び悩んでいるようです。このゲームは、プレイヤーが危険な世界を探索し、さまざまな敵と戦いながら、道具やアイテムを利用して脱出を目指す、アクションとRP",
+        "description": "Fireline Gamesは7月31日、ユニークな観葉植物ショップ運営ゲーム『Leafy Corner』を配信し、瞬く間に高い評価を獲得し、ゲーマーの間で人気を博しています。このゲームでは、プレイヤーは自分だけの観葉植物ショップを運営し、様々な植物を育て、店を飾り、顧客を喜ばせるために日々のタスクをこなしていきます。『Leafy Corner』は、リラックスした雰囲気と楽しいゲームプレイで、ゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260730-457453/",
-        "date": "2026-07-30",
+        "url": "https://automaton-media.com/articles/newsjp/20260731-457638/",
+        "date": "2026-07-31",
         "is_translated": false
       },
       {
-        "title": "【ブリガンダイン アビス：レビュー】",
+        "title": "【Machine Party：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハピネットは7月30日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』のコンソール向け体験版を配信しました。Nintendo Switch、PlayStation 5、Xbox Series X/Sで遊ぶことができます。このゲームは、プレイヤーがさまざまなキャラクターを操作して戦闘を行い、ストーリーを進めていくことが特徴です。体験版をプレイすることで、ゲームの世界観やシステムに",
+        "description": "Oro Interactiveは7月30日、Mike Klubnika氏およびGDeavid氏が手がけた『Machine Party』を配信開始しました。本作は、過去に『Buckshot Roulette』を手がけたMike Klubnika氏の新作であり、早速高い評価を集めています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260730-457378/",
-        "date": "2026-07-30",
+        "url": "https://automaton-media.com/articles/newsjp/20260731-457592/",
+        "date": "2026-07-31",
         "is_translated": false
+      },
+      {
+        "title": "【Mchose K7 V2 Ultra+：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Viper V3/V4 Pro の形状を備えた優れたスペックを、低価格で提供します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-k7-v2-ultra-review/",
+        "date": "2026-07-31",
+        "is_translated": true
       },
       {
         "title": "【Golf With Your Friends 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "フレンドロップの先駆けであるフレンドゴルフは、2016年にBlacklight Interactiveによって早期アクセスでリリースされました。このクレイジーなゴルフシミュレーターは、悪魔のような競争力を持っています。ゴルフが好きな友達と一緒にプレイすることをお勧めします。フレンドゴルフは、フレンドロップと同じAmong Usシリーズの一部です。",
+        "description": "フレンドロップの前身であるフレンドゴルフが登場しました。友達と一緒にゴルフを楽しみましょう。2016年に早期アクセスでリリースされた、Blacklight Interactive の悪魔のような競争力を持つクレイジー ゴルフ シミュレーターが、Among U に参加することになりました。このゲームは、ゴルフをテーマにしたアクション満載のシミュレーションゲームで、プレイヤーはさまざまなコースで競争し",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,10 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "【D&D＆World of Warcraft：レビュー】",
+        "title": "【D&D：Universes Beyond】",
         "platform": "Polygon",
         "type": "review",
-        "description": "同社は、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開する際に、Magic の Universes Beyond 戦略を採用しています。同様の取り組みにより、ファンは新しいワールドを体験できるようになります。Magic の Universes Beyond 戦略は、様々なゲームやシリーズの世界観と Magic の世界を融合させることで、プレイヤーに新しい体験を提供",
+        "description": "同社は、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開する際に、Magic の Universes Beyond 戦略を採用しています。同社は、Magic の Universes Beyond 戦略を採用して、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -415,5 +428,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T03:17:35.543267"
+  "last_updated": "2026-07-31T13:41:30.879758"
 }

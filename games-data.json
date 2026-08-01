@@ -5,28 +5,40 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームで配布されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に踏み込むという、ユニークなストーリーを元にしました。プレイヤーは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを駆使して、洋館内を進みます。このゲームは、ハイスピードでダークな雰囲気と、残酷なローグライト要素を組み合わせた、刺激的なゲーム体験を提供します。様々な状況に対応するために、プレイヤーは戦略的に行動し、各ステージをクリアするために必要なアイテムやスキルを集める必要があります。時間を操るスローモーション機能は、プレイヤーに新たな戦略的選択肢を提供し、ゲームの재미をさらに高めています。愛する人のために戦うという感動的な物語と、緊張感のあるゲームプレイが融合した「OTXO」は、ガンアクションゲームファンにとって必見のタイトルであります。",
+        "description": "Epic Gamesプラットフォームで配布中のゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に足を踏み入れるというストーリーをベースにしています。このゲームは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを組み合わせた、ハイスピード且つダークで残酷なローグライトゲームです。プレイヤーは、洋館の中で様々な敵と闘いながら、愛する人を救うために必要な鍵を握ることになっています。ゲームの特徴であるスローモーション機能は、プレイヤーに時間を操る力を持たせ、危ない状況から脱出できるようにします。一方で、ガンアクションの精密さは、プレイヤーに戦略的に敵を倒すことを要求し、ゲームをよりリアルかつ挑戦的にしています。全体的に見ると、「OTXO」は、スピーディでアクション満点のゲーム体験を求めるゲーマーにぴったりの選択肢です。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-31"
+        "date": "2026-08-01"
       },
       {
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は、運を駆使して道を切り開いていく、儀式的な雰囲気を醸し出すローグライトゲームです。プレイヤーはヒーローを選び、ランダムに生成されるダンジョンの最深部を目指して冒険を繰り広げます。",
+        "description": "『Sol Cesto』は、運を上手に使って道を切り開いていく、戦略的で熱中できるローグライトゲームです。プレイヤーはヒーローを選び、ランダム生成されたダンジョンの最深部を目指します。この厳しい世界では、たった一つの行動が、その後の結果を決定づけることになります。ダンジョンの奥深くに進むにつれて、プレイヤーはさまざまな選択を迫られ、戦略的な思考が求められます。運と戦略を上手に使いこなせば、ダンジョンの最深部にたどり着くことができるでしょう。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-07-31"
+        "date": "2026-08-01"
       }
     ],
     "bundle": [
+      {
+        "title": "Dungeons & Dragons クラシックス コレクション",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-01"
+      },
       {
         "title": "Build Your Own Power Picks Bundle",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-07-31"
+        "date": "2026-08-01"
       },
       {
         "title": "SOEDESCO Publishing Bundle",
@@ -194,26 +206,40 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-07-22"
-      },
-      {
-        "title": "Into Games Charity Bundle for PC",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-22"
       }
     ],
     "review": [
       {
+        "title": "【アノマリス：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フリューは8月1日、異常探索アクションアドベンチャーゲーム『アノマリス』とローグライクアクション『クライムライト』の期間限定の体験版を配信しました。『アノマリス』では、映画「バックルームズ」とのゲーム内タイアップも実施中です。このタイアップでは、映画の世界をゲームで体験できるという魅力的なコラボレーションが楽しめます。体験版をプレイすることで、これらのゲームの面白さを直接感じることができます。『ア",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260801-457748/",
+        "date": "2026-08-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Palworld 1.0：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ライフルを持ったリスは最も面白くありません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
+        "date": "2026-08-01",
+        "is_translated": true
+      },
+      {
         "title": "【Leafy Corner：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Fireline Gamesは7月31日、ユニークな観葉植物ショップ運営ゲーム『Leafy Corner』を配信し、瞬く間に高い評価を獲得し、ゲーマーの間で人気を博しています。このゲームでは、プレイヤーは自分だけの観葉植物ショップを運営し、様々な植物を育て、店を飾り、顧客を喜ばせるために日々のタスクをこなしていきます。『Leafy Corner』は、リラックスした雰囲気と楽しいゲームプレイで、ゲー",
+        "description": "Fireline Gamesは7月31日、ユニークな観葉植物ショップ運営ゲーム『Leafy Corner』をリリースしました。このゲームは、プレイヤーが自分だけの観葉植物ショップを運営し、様々な植物を収集して育て、顧客を楽しませることができます。リリース直後から高い評価を獲得し、ゲーマーたちの間で人気を博しています。『Leafy Corner』では、観葉植物の収集、ショップのデザイン、顧客の満足度",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +252,7 @@
         "title": "【Machine Party：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Oro Interactiveは7月30日、Mike Klubnika氏およびGDeavid氏が手がけた『Machine Party』を配信開始しました。本作は、過去に『Buckshot Roulette』を手がけたMike Klubnika氏の新作であり、早速高い評価を集めています。",
+        "description": "Oro Interactiveは7月30日、Mike Klubnika氏およびGDeavid氏が手がける『Machine Party』の配信を開始した。この作品は、人気ゲーム『Buckshot Roulette』を制作したMike Klubnika氏の最新作であり、すでに多くのユーザーから高く評価されている。ゲームの内容は、ユーザーに新しい体験を提供するもので、期待を裏切らない作品となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +262,23 @@
         "is_translated": false
       },
       {
+        "title": "【Nexus Mods：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "MOD に正しくタグ付けされていないと、生成 AI を使用している場合でも、モデレーション措置の対象となる可能性があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+        "date": "2026-07-31",
+        "is_translated": true
+      },
+      {
         "title": "【Mchose K7 V2 Ultra+：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Viper V3/V4 Pro の形状を備えた優れたスペックを、低価格で提供します。",
+        "description": "Viper V3/V4 Pro を彷彿とさせるデザインを採用しながら、高性能なスペックを手頃な価格で提供しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,25 +291,12 @@
         "title": "【Golf With Your Friends 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "フレンドロップの前身であるフレンドゴルフが登場しました。友達と一緒にゴルフを楽しみましょう。2016年に早期アクセスでリリースされた、Blacklight Interactive の悪魔のような競争力を持つクレイジー ゴルフ シミュレーターが、Among U に参加することになりました。このゲームは、ゴルフをテーマにしたアクション満載のシミュレーションゲームで、プレイヤーはさまざまなコースで競争し",
+        "description": "フレンドロップの先駆けとなったゲームがフレンドゴルフです。このゲームは、友達と一緒にゴルフを楽しむことを目的としたものでした。2016年に早期アクセスでリリースされたBlacklight Interactiveのゴルフシミュレーションゲームは、Among Uとして知られ、プレイヤーに高い競争力と楽しさを提供しています。このゲームは、クレイジーなゴルフの世界で友達と一緒にプレイすることを可能にし、ユ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/to-escalate-its-relationship-straining-putting-contests-golf-with-your-friends-2-is-turning-to-chaos-and-custom-courses",
-        "date": "2026-07-30",
-        "is_translated": true
-      },
-      {
-        "title": "【D&D：Universes Beyond】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "同社は、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開する際に、Magic の Universes Beyond 戦略を採用しています。同社は、Magic の Universes Beyond 戦略を採用して、Azeroth でプレイするためのルールブック、ミニチュア、マップ パックを展開しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/dnd-dungeons-dragons-world-of-warcraft-universes-beyond-crossover/",
         "date": "2026-07-30",
         "is_translated": true
       }
@@ -428,5 +454,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-31T13:41:30.879758"
+  "last_updated": "2026-08-01T03:16:14.602751"
 }

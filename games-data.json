@@ -5,30 +5,30 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームで配布されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に踏み込むことになります。このゲームは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションが特徴です。ハイスピードでダークな世界観が展開され、残酷なローグライトの要素も含まれており、プレイヤーは様々な挑戦に直面することになります。 ゲーム内では、スローモーション機能を利用して、高速なアクションをより正確に行ったり、時間を遅くして敵の攻撃を回避したりすることができます。これにより、プレイヤーは戦略的に戦闘に臨むことができ、ゲームの難易度にも変化が生じます。 「OTXO」の世界は、ダークでミステリアスな雰囲気を醸し出しており、プレイヤーは洋館内を探索しながら、愛する人を救うために必要な情報やアイテムを集めていきます。ガンアクションとスローモーションの組み合わせにより、ゲームはハイテンションで快適なプレイ体験を提供します。ローグライトの要素もあり、プレイヤーは毎回異なる経験をすることができ、ゲームのリプレイ性も高くなっています。",
+        "description": "Epic Gamesプラットフォームで配布中のゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に踏み込むという設定です。このゲームは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを特徴としています。プレイヤーは、ハイスピードかつダークで残酷なローグライトの世界の中で、さまざまな選択と戦略を駆使して進めていく必要があります。スローモーションの機能を利用して、緊張感の中でタイミングを計り、敵を蹴散らすことができます。洋館の謎を解きながら、愛する人を救うために、プレイヤーは自身の能力と戦略を磨く必要があります。ローグライトの要素により、プレイヤーは毎回異なる体験をすることができ、ゲームの再生性が高まっています。OTXOは、ガンアクションとスローモーションの融合によって、独特のゲーム体験を提供します。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-01"
+        "date": "2026-08-02"
       },
       {
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は運をうまく使いこなして道を切り開いていく、儀式的な雰囲気を感じるローグライトゲームです。各ヒーローには独自の能力があり、ランダムに生成されるダンジョンの最深部を目指して進めます。プレイヤーはさまざまなヒーローを選び、運と戦略を駆使してダンジョンを攻略していきます。さまざまな要素を組み合わせて、最深部を目指すという挑戦に兴味を持つゲーマーにぴったりのゲームです。",
+        "description": "『Sol Cesto』は運をうまく使いこなして道を拓く、戦略的で熱中できるローグライトゲームです。様々なヒーローから選び、ランダム生成されたダンジョンの最深部を目指しましょう。この厳しい世界では、たった一つの行動がその後の進路を決めることになります。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-01"
+        "date": "2026-08-02"
       }
     ],
     "bundle": [
       {
-        "title": "Dungeons & Dragons: Classics Collection",
+        "title": "Dungeons & Dragons クラシックコレクション",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-01"
+        "date": "2026-08-02"
       },
       {
         "title": "Build Your Own Power Picks Bundle",
@@ -49,6 +49,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Dungeons & Dragons: Classics Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
         "date": "2026-08-01"
       },
       {
@@ -194,26 +206,27 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-07-23"
-      },
-      {
-        "title": "Horror Station Bundle 7 Steam Games",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-07-23"
       }
     ],
     "review": [
       {
+        "title": "【ラグナロクオンライン3：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ラグナロクオンライン3』は、完全な新作でありながらも、懐かしさが残っている作品です。現代的なデザインと、『ラグナロクオンライン』の遺伝子が両立しており、旧来のファンも新規プレイヤーも楽しめる内容になっています。ゲームの世界観やシステムは進化しながらも、オリジナルの魅力が色濃く残っています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260802-457866/",
+        "date": "2026-08-02",
+        "is_translated": false
+      },
+      {
         "title": "【TATSUJIN Extreme：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "THQ Nordic Japanと株式会社TATSUJINは7月30日、シューティングゲーム『TATSUJIN EXTREME』を発売しました。本作は縦スクロール・シューティングゲームとして、高い評価を着実に積み重ねている人気作品です。シューティングゲームファンに注目される作品として、発売が待ちに待ったました。",
+        "description": "THQ Nordic Japanと株式会社TATSUJINは7月30日、シューティングゲーム『TATSUJIN EXTREME』を発売しました。本作は縦スクロール・シューティングゲームとして、着実に評価を積み重ねていることで知られています。シューティングゲームファンにはたまらない、激しいアクションが楽しめる作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【アノマリス：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "フリューは8月1日、2つの新しいゲームの期間限定の体験版を配信しました。異常探索アクションアドベンチャーゲーム『アノマリス』とローグライクアクション『クライムライト』のプレイが可能です。さらに、『アノマリス』では映画「バックルームズ」とのゲーム内タイアップも実施中です。",
+        "description": "フリューは8月1日、2つの新しいゲームの期間限定の体験版を配信しました。『アノマリス』は、探索とアクションを融合させたアドベンチャーゲームで、プレイヤーは未知の世界を探索して謎を解き明かしていきます。また、ローグライクアクションゲーム『クライムライト』も同時に配信され、プレイヤーはランダムに生成されるステージで戦闘に挑みます。『アノマリス』には、映画「バックルームズ」とのタイアップイベントも実施中",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -234,6 +247,19 @@
         "url": "https://automaton-media.com/articles/newsjp/20260801-457748/",
         "date": "2026-08-01",
         "is_translated": false
+      },
+      {
+        "title": "【Dead Cells：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私たちは皆、そこに行ったことがある。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/dead-cells-studio-thanks-guillermo-del-toro-for-playing-its-game-gently-suggests-he-try-the-easy-mode/",
+        "date": "2026-08-01",
+        "is_translated": true
       },
       {
         "title": "【パルワールド：レビュー】",
@@ -249,10 +275,23 @@
         "is_translated": true
       },
       {
+        "title": "【Silent Hill: Townfall：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『サイレントヒル』シリーズは、現代の設定に置くのが難しい世界の1つです。もちろん、その理由は元の4つのゲームがいつリリースされたかによる部分もありますが、シリーズの世界観は現代と一線を画しています。特に、モバイルフォンやインターネットが普及する前の時代を舞台にしているため、現代のテクノロジーを取り入れるのが難しいのです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me",
+        "date": "2026-08-01",
+        "is_translated": true
+      },
+      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これらに入れるための古いパブリックドメインの図面が最終的になくなったら、どのような影響が生じるのだろうか。図面が「古い」とみなされる基準が変化すれば、その問題は解決するかもしれません。",
+        "description": "これらに入れるための古いパブリックドメインの図面が最終的になくなったら、どのような影響が起こるのだろうかと思います。その時点までに、「古い」とみなされるものの基準が変わっていればいいのですが、図面が足りなくなった場合、代替案を探したり、新しい図面を作成したりする必要がありそうです。新しい図面を作成するには、時間と労力がかかるでしょうし、代替案も限られている可能性があるので、ゲームの開発やプレイヤー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,28 +301,28 @@
         "is_translated": true
       },
       {
+        "title": "【レゴ ポケモン スマート プレイ セット：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "レゴの愛らしいポケモン スマート プレイ セットで遊ぶことで、私たちも8歳のときのように遊ぶ楽しさを思い出せました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lego-smart-pokemon-sets-hands-on/",
+        "date": "2026-08-01",
+        "is_translated": true
+      },
+      {
         "title": "【Leafy Corner：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Fireline Gamesは7月31日、ユニークな観葉植物ショップ運営ゲーム『Leafy Corner』をリリースしました。早速、プレイヤーたちから高い評価を獲得し、人気ゲームとして注目を集めています。このゲームでは、プレイヤーは自分だけの観葉植物ショップを運営し、様々な植物を育てながら、ショップを成長させていきます。『Leafy Corner』の魅力は、심플ながらも奥深いゲーム性と、愛らしいグ",
+        "description": "Fireline Gamesは7月31日、ユーザーが観葉植物ショップを運営する『Leafy Corner』を配信しました。ゲームの内容は、プレイヤーが店長となり、様々な観葉植物を購入して店に飾り、顧客のニーズに応えながら店を経営していくというものです。さっそく、高い評価を獲得し、人気のゲームとなっています。ゲーム内のグラフィックは、明るく優しい色合いで、穏やかな雰囲気を醸し出しています。プレイヤー",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260731-457638/",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【Machine Party：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Oro Interactiveは7月30日、Mike Klubnika氏およびGDeavid氏が手がける『Machine Party』を配信開始しました。本作は、ヒット作『Buckshot Roulette』を手がけたMike Klubnika氏の新作として、早くも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260731-457592/",
         "date": "2026-07-31",
         "is_translated": false
       },
@@ -301,23 +340,10 @@
         "is_translated": true
       },
       {
-        "title": "【Mchose K7 V2 Ultra+：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Viper V3/V4 Pro に匹敵する優れた性能を低価格で提供する製品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-k7-v2-ultra-review/",
-        "date": "2026-07-31",
-        "is_translated": true
-      },
-      {
         "title": "【Golf With Your Friends 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "フレンドロップに先立つ作品として、フレンドゴルフが存在しました。友達と一緒にゴルフを楽しむ、というコンセプトでした。2016年に早期アクセスでリリースされた、Blacklight Interactiveのゴルフシミュレーター「フレンドゴルフ」は、Among Uシリーズの一員となりました。このゲームは、プレイヤーに悪魔のような競争心を呼び起こすクレイジーなゴルフ体験を提供します。開発元のBlackl",
+        "description": "フレンドロップの登場前に、フレンドゴルフが人気を博していました。2016年に早期アクセスでリリースされた、Blacklight Interactiveのゴルフシミュレーションゲームは、Among Uと一緒にプレイできます。このゲームは、競争心を煽るクレイジーなゴルフの世界を提供し、プレイヤーが友達と一緒にゴルフを楽しむことができます。早期アクセスからリリースされたこのゲームは、悪魔のような競争力を",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -480,5 +506,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T12:57:18.527265"
+  "last_updated": "2026-08-02T03:16:21.769386"
 }

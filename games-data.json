@@ -5,25 +5,25 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームで提供されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に踏み込むという設定で、プレイヤーを引き込むダークで残酷なローグライトです。这は、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを特徴としています。ハイスピードのゲームプレイと、ローグライトの要素が組み合わさることで、プレイヤーは毎回異なる体験を楽しむことができます。洋館内の探索と戦闘を通じて、プレイヤーはさまざまな謎を解き明かしていく必要があります。スローモーションの使用によって、プレイヤーは時間の流れを操り、戦闘の最中に有利な状況を作り出すことができます。これは、ゲームをより戦略的にプレイすることができるようにします。OTXOは、ガンアクションとローグライトの要素を融合させた、独自のゲーム体験を提供するため、ガンアクションゲームのファンやローグライトゲームのファンにとって魅力的です。",
+        "description": "Epic Gamesで配布中のゲーム「OTXO」は、愛する人を救うために挑む、謎に満ちた洋館でのサバイバルアクションです。このゲームは、精密かつ冷酷なガンアクションと、時間を操るスローモーションシステムが特徴で、プレイヤーはこれらの要素を駆使して、洋館の奥深くに潜む危険を切り抜けなければなりません。 「OTXO」は、ハイスピードでダークな雰囲気を持つローグライトゲームで、毎回異なる体験が待っています。プレイヤーは、洋館の中で探索と戦闘を繰り返し、強力な武器やアイテムを集めながら進化していきます。スローモーションシステムを利用することで、攻撃のタイミングを正確に制御したり、危険を回避したりできます。 このゲームの世界は、暗くて不気味な雰囲気で満たされていますが、愛する人を救うという強い目的感が、プレイヤーを前に進ませる原動力となります。精密な操作と戦略的思考が求められる「OTXO」は、ガンアクションとローグライトの要素を融合させた、刺激的なゲーム体験を提供してくれます。愛する人の救済を目指し、洋館の謎に挑戦してみてください。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       },
       {
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は運を活かし、道を切り開くローグライクゲームです。様々なヒーローから選び、ランダムに生成されるダンジョンの最深部を目指します。この厳しい世界では、たった一つの行動がその後の結果を決めることになります。様々な選択肢の中から、自分だけの戦略を立て、ダンジョンを攻略してみましょう。",
+        "description": "『Sol Cesto』は運を使いこなして道を拓く、議事的で熱中できるローグライトゲームです。プレイヤーはヒーローを選び、ランダム生成されたダンジョンの最深部を目指します。この厳しい世界では、たった一つの行動がその後の結果を決めることになります。ローグライトゲームの醍醐味であるランダム性と、戦略的な操作が融合した『Sol Cesto』は、プレイヤーに熱中できるゲーム体験を提供します。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "bundle": [
@@ -210,10 +210,49 @@
     ],
     "review": [
       {
-        "title": "Steam 週間の振り返りでは、かつて主流に優しい PC ゲーム ソリューションとして話題になった Valve のハードウェアが、現在のメモリ危機を乗り越えることができるかが焦点になっています。Valve は、ハードウェアとソフトウェアの両面で革新的な解決策を提供することで、ゲーム業界に大きな影響を与えてきました。しかし、近年のメモリ不足問題は、ゲームのパフォーマンスとユーザー体験に大きな影響を与えています。Valve のハードウェアがこの課題にどう対処するかは、ゲームファンにとって大きな関心事です。",
+        "title": "【CRYENGINE：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "海外の掲示板Redditでは、「CRYENGINEはこのまま忘れ去られるべきではない」という投稿が注目を集めています。この投稿は、ゲーム開発エンジンであるCRYENGINEの可能性を再評価する内容で、多くのユーザーから賛同を集めています。CRYENGINEは、高品質のグラフィックや物理エンジンを備えており、ゲーム開発者にとって非常に魅力的なツールです。しかし、近年は他のエンジンに比べて更新が停滞し",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260804-458171/",
+        "date": "2026-08-04",
+        "is_translated": false
+      },
+      {
+        "title": "【転生の獣：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "8月2日までの週のSteamでは、いくつかの興味深い事実が発生しました。この週の間に、ユーザーは新しいゲームやアップデートに注目しました。特に、人気ゲームの新しいコンテンツや、注目度の高い新作ゲームの発売が話題になりました。また、Steamのコミュニティでは、ユーザー同士の交流が活発で、フォーラムでさまざまなゲームについて議論されました。この週のSteamのトレンドを知ることで、ゲーマーは新しいゲ",
+        "description": "このスクラッパーは、完璧ではありませんが、受け流し中心のスタイルが独特の雰囲気を醸し出しており、時には優れた戦闘を見せることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/",
+        "date": "2026-08-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Beast of Reインカーネーション：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Beast of Reインカーネーションのレビューでは、ソウルライクなアイデアと優れた戦闘を組み合わせたものの、まとまりのない部分や新しい要素が不足していることが指摘されています。ゲームは独自のスタイルを持ちながらも、ソウルライクゲームの特徴的な戦闘システムを取り入れており、ユーザーからは賛否両論の声が上がっています。ソウルライクゲームファンであれば、Beast of Reインカーネーションの戦闘",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/beast-reincarnation-review-roundup/",
+        "date": "2026-08-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "8月2日までの週のSteamの興味深い事実をまとめてみました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,36 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "【Big Walk：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ビッグ ウォークは、プレイヤー同士の絆を大切にした、マルチプレイヤー アドベンチャーです。このゲームでは、予想外の感動的な体験が待っています。プレイヤーは、コミュニケーション スキルを試されながら、他のプレイヤーと協力してゲームを進めていきます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/big-walk-review/",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
-        "title": "【Palworld：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "今年後半にモバイル デバイスでリリースされる Palworld Online は、2024 年の大ヒット作からのスピンオフ作品です。この MMO ゲームでは、基地の建設や、コンピューターが操作するキャラクターとの対戦、他のプレイヤーとの対戦など、様々なゲームプレイスタイルを楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/palworld-online-announcement/",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
         "title": "【ほの暮しの庭：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『ほの暮しの庭』では、現在報告されている不具合が、意外なことにプレイヤーから好意的に評価されているようだ。プレイヤーは、このゲームの不具合を受け入れており、むしろそれがゲームの魅力の一部となっている様子が見られる。開発チームは、この状況を注目し、不具合の解決とゲームのバランス調整に取り組んでいる。ゲームの不具合がプレイヤーに与える影響は様々であるが、このゲームの場合、不具合がプレイヤーとの新しい関",
+        "description": "『ほの暮しの庭』で現在報告されている不具合が、なぜかプレイヤーから高く評価されているようです。このゲームは、ユーザーが不具合を見つけても、むしろその不具合が面白いと評価することもしょっちゅうあります。開発チームは、ユーザーのフィードバックを重視して、不具合の修正を進めていますが、ユーザーにとっては不具合が新しいゲームの要素として受け止められているようです。不具合を修正することで、ゲームのバランスが",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,25 +278,12 @@
         "title": "【メタルサーガ 鋼の季節：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『メタルサーガ 鋼の季節』リマスターでは、オリジナルの操作感が改善されつつも、ゲームプレイの面白さはそのままに残されています。ファンの期待を裏切らないような出来になっており、改善された操作感とともに、より一層の楽しみ方が可能になっています。",
+        "description": "『メタルサーガ 鋼の季節』リマスターでは、オリジナル版の操作感などは改善されつつも、ゲームプレイそのものの面白さは損なわれず、ファンの期待を裏切らない出来になっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/20260802-457939/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ラグナロクオンライン3：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ラグナロクオンライン3』は、完全新作でありつつも、“あの頃”の懐かしさが残されている。現代的なデザインと、『RO』の遺伝子が両立しており、シリーズファンも新規プレイヤーも楽しめる内容になっている。ゲームの世界やキャラクターは一新されたものの、オリジナルの魅力が色濃く残っている。新しいシステムやグラフィックスも導入されながら、懐かしい感覚を味わうことができる。『ラグナロクオンライン3』は、過去と現",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260802-457866/",
         "date": "2026-08-02",
         "is_translated": false
       },
@@ -301,23 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【Dead Cells：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "私たちは皆、そこに行ったことがある。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/dead-cells-studio-thanks-guillermo-del-toro-for-playing-its-game-gently-suggests-he-try-the-easy-mode/",
-        "date": "2026-08-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Silent Hill: Townfall：レビュー】",
+        "title": "【サイレントヒル：タウンフォール：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "サイレントヒルシリーズには、現代の設定に置くのが難しい世界の1つがあります。それは、最初の4つのゲームがリリースされた時代背景にも関係しています。最初のゲームは1999年にリリースされ、その後も続編が発表されていきました。そのため、シリーズの世界観はそれらの時代に根ざしており、現代の設定ではその雰囲気を再現するのが難しいと言えるでしょう。特に、最初のゲームのストーリーやキャラクター設定は、当時の社",
+        "description": "『サイレントヒル』シリーズは、現代の設定に置くのが難しい世界の1つです。元の4つのゲームがリリースされた時代背景もありますが、それでもこのシリーズは独特な魅力を持ち続けています。リリース当初から、シリーズは恐怖と不安を演出することに重点を置いてきました。ゲームの世界は、現実と幻想の境界が曖昧で、プレイヤーは不安定な精神状態に陥ることになります。『サイレントヒル』シリーズの恐怖は、ただ単に血腥さやジ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,26 +317,13 @@
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これらに入れるための古いパブリックドメインの図面が最終的になくなったら、どうなるのか興味があります。古いとみなされるものの基準が変わっていれば、そこまでに問題は解決するかもしれません。",
+        "description": "これらに入れるための古いパブリックドメインの図面が最終的になくなってしまったら、どのような影響が起こるのだろうか。ただし、その時点で「古い」とみなされるものの基準が変わっているのであれば、問題は少なくなるのではないでしょうか。パブリックドメインの図面は、ゲーム開発における貴重なリソースです。この図面を入手することで、ゲームデベロッパーは新しいアイデアを生み出し、ユーザーにとって魅力的なゲームを作成",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-393",
         "date": "2026-08-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Golf With Your Friends 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "フレンドロップには、先駆けてフレンドゴルフがありました。今までのご紹介に続き、友達とゴルフを楽しんでください。2016年に早期アクセスでリリースされた、Blacklight Interactiveの悪魔のような競争力を持つクレイジーなゴルフシミュレーターが、アメリカンジョークと人気を博したAmong Uに参加することになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/to-escalate-its-relationship-straining-putting-contests-golf-with-your-friends-2-is-turning-to-chaos-and-custom-courses",
-        "date": "2026-07-30",
         "is_translated": true
       }
     ],
@@ -506,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-03T14:17:14.820937"
+  "last_updated": "2026-08-04T02:47:29.750169"
 }

@@ -5,7 +5,7 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesで配布中のゲーム「OTXO」は、愛する人を救うために挑む、謎に満ちた洋館でのサバイバルアクションです。このゲームは、精密かつ冷酷なガンアクションと、時間を操るスローモーションシステムが特徴で、プレイヤーはこれらの要素を駆使して、洋館の奥深くに潜む危険を切り抜けなければなりません。 「OTXO」は、ハイスピードでダークな雰囲気を持つローグライトゲームで、毎回異なる体験が待っています。プレイヤーは、洋館の中で探索と戦闘を繰り返し、強力な武器やアイテムを集めながら進化していきます。スローモーションシステムを利用することで、攻撃のタイミングを正確に制御したり、危険を回避したりできます。 このゲームの世界は、暗くて不気味な雰囲気で満たされていますが、愛する人を救うという強い目的感が、プレイヤーを前に進ませる原動力となります。精密な操作と戦略的思考が求められる「OTXO」は、ガンアクションとローグライトの要素を融合させた、刺激的なゲーム体験を提供してくれます。愛する人の救済を目指し、洋館の謎に挑戦してみてください。",
+        "description": "Epic Gamesプラットフォームで配布されているゲーム「OTXO」は、愛する人を救うために、謎に包まれた洋館に挑みに行くというストーリーに基づいた、ハイスピードでダークなローグライトゲームです。プレイヤーは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを駆使して、敵を倒していきます。ゲームの特徴は、その高速で激しいアクションと、ローグライト要素によって生み出される、毎回異なるゲームプレイです。プレイヤーは、洋館の奥深くに進みながら、様々な敵と戦い、愛する人を救うために必要な鍵を探す必要があります。スローモーション機能を活用して、戦闘の状況を分析し、的確な判断を下す必要があります。ゲームの雰囲気はダークで残酷なものですが、プレイヤーは、愛する人のために戦うという強い動機で、洋館の謎を解き明かしていきます。OTXOは、ハイスピードなアクションとローグライト要素を組み合わせた、ユニークなゲーム性を提供します。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は運を使いこなして道を拓く、議事的で熱中できるローグライトゲームです。プレイヤーはヒーローを選び、ランダム生成されたダンジョンの最深部を目指します。この厳しい世界では、たった一つの行動がその後の結果を決めることになります。ローグライトゲームの醍醐味であるランダム性と、戦略的な操作が融合した『Sol Cesto』は、プレイヤーに熱中できるゲーム体験を提供します。",
+        "description": "『Sol Cesto』は運を味方につけて道を切り開いていく、戦略的で熱中できるローグライトゲームです。様々なヒーローから選んで、ランダムに生成されるダンジョンの最深部を目指してみましょう。この厳しい世界では、たった一つの行動が、その後の結果を決めることになります。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【ライザのアトリエ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『RyzaChat：AI ライザと創るあなただけのひと夏の夢物語』は、人気シリーズ『ライザのアトリエ』の主人公「ライザ」と一緒に、彼女の故郷「クーケン島」で会話だけで自由に冒険できる、フリーシナリオ型のAIチャット形式RPGです。ライザと会話しながら、島の秘密を解き明かし、さまざまなキャラクターとの出会いを楽しむことができます。このゲームは、プレイヤーの選択によってストーリーが変化するため、プレイ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/ryazai-20260804-458375/",
+        "date": "2026-08-04",
+        "is_translated": false
+      },
+      {
         "title": "【CRYENGINE：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "海外の掲示板Redditでは、「CRYENGINEはこのまま忘れ去られるべきではない」という投稿が注目を集めています。この投稿は、ゲーム開発エンジンであるCRYENGINEの可能性を再評価する内容で、多くのユーザーから賛同を集めています。CRYENGINEは、高品質のグラフィックや物理エンジンを備えており、ゲーム開発者にとって非常に魅力的なツールです。しかし、近年は他のエンジンに比べて更新が停滞し",
+        "description": "Redditという海外掲示板では、「CRYENGINEはこのまま忘れ去られるべきではない」という投稿が注目を集めています。この投稿では、CRYENGINEの潜在的な可能性や、ゲーム開発におけるその価値が高く評価されています。多くのユーザーがこの投稿に賛同し、CRYENGINEの未来について熱く議論しています。CRYENGINEは、高品質のグラフィックスやリアルなゲーム世界を実現することができる、有",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +236,23 @@
         "is_translated": false
       },
       {
+        "title": "【Big Walk：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Untitled Goose Game」という面白いゲームを生み出したHouse Houseが、新作ゲームを2023年末に発表しました。本日、レビューが解禁され、Metascoreでは93点、OpenCriticのトップクリティックでも高評価を獲得しました。この新作ゲームは、House Houseのユニークなゲームデザインと面白さを存分に楽しむことができそうです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169264.html",
+        "date": "2026-08-04",
+        "is_translated": false
+      },
+      {
         "title": "【転生の獣：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このスクラッパーは、完璧ではありませんが、受け流し中心のスタイルが独特の雰囲気を醸し出しており、時には優れた戦闘を見せることができます。",
+        "description": "このスクラッパーは完全なものではありませんが、独特の雰囲気を持ち、時折優れた戦闘能力を発揮します。受け流しを中心とした戦闘スタイルが魅力的で、プレイヤーを引きつけます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,15 +262,15 @@
         "is_translated": true
       },
       {
-        "title": "【Beast of Reインカーネーション：レビュー】",
-        "platform": "Polygon",
+        "title": "【Endless Legend 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Beast of Reインカーネーションのレビューでは、ソウルライクなアイデアと優れた戦闘を組み合わせたものの、まとまりのない部分や新しい要素が不足していることが指摘されています。ゲームは独自のスタイルを持ちながらも、ソウルライクゲームの特徴的な戦闘システムを取り入れており、ユーザーからは賛否両論の声が上がっています。ソウルライクゲームファンであれば、Beast of Reインカーネーションの戦闘",
+        "description": "海洋の非対称派閥戦争戦略続編『Endless Legend 2』の早期アクセス段階が終了間近です。終わりますか？それが正しいのでしょうか。実は、開発元のAmplitude Studiosによると、そうではありません。早期アクセスが終了しても、新しいスタートが待っているのです。『Endless Legend 2』は、プレイヤーに自由度の高い戦略を提供し、さまざまな派閥を操作して勝利を目指すゲームです",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/beast-reincarnation-review-roundup/",
+        "url": "https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers",
         "date": "2026-08-04",
         "is_translated": true
       },
@@ -252,7 +278,7 @@
         "title": "【Steam：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "8月2日までの週のSteamの興味深い事実をまとめてみました。",
+        "description": "8月2日までの週のSteamの面白いニュースやトピックをまとめてみました。この期間には、注目されるゲームの新しい情報や、ユーザーからのフィードバックが話題になりました。さらに、Steamで人気のゲームランキングも紹介します。ゲーム愛好家にとって、知っておきたい情報が盛りだくさんです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,49 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "【ほの暮しの庭：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ほの暮しの庭』で現在報告されている不具合が、なぜかプレイヤーから高く評価されているようです。このゲームは、ユーザーが不具合を見つけても、むしろその不具合が面白いと評価することもしょっちゅうあります。開発チームは、ユーザーのフィードバックを重視して、不具合の修正を進めていますが、ユーザーにとっては不具合が新しいゲームの要素として受け止められているようです。不具合を修正することで、ゲームのバランスが",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260802-457959/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【メタルサーガ 鋼の季節：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『メタルサーガ 鋼の季節』リマスターでは、オリジナル版の操作感などは改善されつつも、ゲームプレイそのものの面白さは損なわれず、ファンの期待を裏切らない出来になっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260802-457939/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Project Zomboid：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ゾンビサバイバルシムの価格も上がった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/perennial-early-access-game-project-zomboid-hit-a-new-concurrent-player-record-after-a-huge-map-update-added-reworked-towns-a-spooky-orphanage-and-400-procedural-basements/",
-        "date": "2026-08-02",
-        "is_translated": true
-      },
-      {
-        "title": "【サイレントヒル：タウンフォール：レビュー】",
+        "title": "【Silent Hill: Townfall：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『サイレントヒル』シリーズは、現代の設定に置くのが難しい世界の1つです。元の4つのゲームがリリースされた時代背景もありますが、それでもこのシリーズは独特な魅力を持ち続けています。リリース当初から、シリーズは恐怖と不安を演出することに重点を置いてきました。ゲームの世界は、現実と幻想の境界が曖昧で、プレイヤーは不安定な精神状態に陥ることになります。『サイレントヒル』シリーズの恐怖は、ただ単に血腥さやジ",
+        "description": "サイレントヒルシリーズには、現代の設定に置くのが難しい世界観の1つがあります。元の4つのゲームがリリースされた時期も関係していますが、このシリーズは独特の雰囲気を持ちます。リリース当初から、サイレントヒルシリーズは恐怖を体験することで知られています。シリーズの世界は、現代の設定ではありますが、古い雰囲気を感じさせます。ゲームのストーリーやキャラクターも、現代の設定に置くのが難しいものになっています",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -317,7 +304,7 @@
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "これらに入れるための古いパブリックドメインの図面が最終的になくなってしまったら、どのような影響が起こるのだろうか。ただし、その時点で「古い」とみなされるものの基準が変わっているのであれば、問題は少なくなるのではないでしょうか。パブリックドメインの図面は、ゲーム開発における貴重なリソースです。この図面を入手することで、ゲームデベロッパーは新しいアイデアを生み出し、ユーザーにとって魅力的なゲームを作成",
+        "description": "これらの要素を入れるために使用するパブリックドメインの図面が、最終的に使えなくなる時が来るのだろうか。そう考えると、基準が変わり、新しいものが「古い」とみなされるまでにどれだけの時間がかかるのだろうか。基準が変わっていけば、問題は解決するのですが。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -480,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04T02:47:29.750169"
+  "last_updated": "2026-08-04T13:48:25.373001"
 }

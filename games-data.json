@@ -5,7 +5,7 @@
         "title": "OTXO - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesでは、興味深いゲーム「OTXO」が無料配布されている。愛する人を救うために、プレイヤーは謎に包まれた洋館に足を踏み入れる必要がある。このゲームは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを特徴としている。ハイスピードでダークな雰囲気、残酷な展開が待っているローグライトである。プレイヤーは、スローモーションを活用して、時間を操りながら、洋館内で敵を倒していく必要がある。ガンアクションは、精密さと冷酷さを兼ね備えており、プレイヤーは的確な判断と反射神経を必要とする。ローグライトの要素もあり、毎回のプレイが一意になるため、プレイヤーは新しい体験を得ることができる。OTXOは、ハイスピードなアクションと、ダークで残酷な世界観が特徴で、ゲームの雰囲気は緊張感と恐怖感を呼び起こす。無料配布されているため、興味があるプレイヤーは一度試してみる価値がある。",
+        "description": "Epic Gamesプラットフォームでは、OTXOというタイトルのゲームが無料で配布されています。このゲームでは、愛する人を救うために、謎に包まれた洋館に踏み込む必要があります。プレイヤーは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを駆使して、様々な挑戦を乗り越えていきます。ハイスピードかつダークで残酷なローグライト要素が特徴的なこのゲームは、プレイヤーを緊張感とスリルに満たす体験を提供します。_OTXO_では、毎回異なるローグライトの要素によって、ゲームの展開が変化します。プレイヤーは、その都度、新しい戦略を考案し、実践して、愛する人を救うために、洋館の謎を解き明かさなければなりません。ゲームの雰囲気はダークで緊張感があり、プレイヤーは常に注意を払いながらゲームを進めていく必要があります。_OTXO_は、ガンアクションとスローモーションの絶妙なバランスが特徴で、プレイヤーが新しい体験を得ることができる、ユニークなゲームです。",
         "price": "無料",
         "originalPrice": "¥1,460",
         "discount": "100% OFF",
@@ -17,7 +17,7 @@
         "title": "Sol Cesto - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は運を駆使して道を切り開いていく、戦略的で熱中できるローグライトゲームです。様々なヒーローから選び、ランダム生成されたダンジョンの最深部を目指しましょう。この厳しい世界では、たった一つの行動がその後の運命を決めることになります。PLAYERは、慎重に選択して進めていく必要があります。",
+        "description": "『Sol Cesto』は運を上手に使って道を切り開いていく、戦略的で熱中できるローグライトゲームです。様々なヒーローから好きなキャラクターを選び、ランダムに生成されるダンジョンの最深部を目指しましょう。この厳しい世界では、プレイヤーの行動がその後の展開を決定づけるため、戦略的に進めています。各ヒーローには独自の能力があり、ダンジョンの奥深くに進むことで新しい能力やアイテムを入手することができます。運と戦略を組み合わせて、ダンジョンの最深部に到達してみましょう。",
         "price": "無料",
         "originalPrice": "¥1,600",
         "discount": "100% OFF",
@@ -28,7 +28,31 @@
     ],
     "bundle": [
       {
-        "title": "In Your World VR Bundle for VR",
+        "title": "Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "In Your World VR Bundle VR",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Like a Dragonなど、8月の新作ゲーム",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -182,30 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-07-27"
-      },
-      {
-        "title": "[Steam] Metal Gear Solid Master Collection Vol. 1/ MGS1 Free Weekend (50% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Build Your Own Prestige Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-24"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【百白（ヒャクビャク）：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "BA-KUは8月6日、新作『百白（ヒャクビャク）』を発表した。詳細についてはまだ明らかになっていないものの、ディレクターおよびシナリオ担当として瀬戸口廉也氏が参加していることが確認されている。",
+        "description": "BA-KUは8月6日、『百白（ヒャクビャク）』を発表しました。詳細については不明な点が多いですが、ディレクターとシナリオ担当は瀬戸口廉也氏が務めることが明らかになっています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,10 +223,23 @@
         "is_translated": false
       },
       {
+        "title": "【GTA 6：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
+        "date": "2026-08-06",
+        "is_translated": true
+      },
+      {
         "title": "【Lies of P：コンプリート エディション：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "NEOWIZは8月6日、ROUND8 Studioが開発した『Lies of P: コンプリート エディション』をリリースしました。この作品は、プレイヤーに新たな体験を提供するコンテンツが盛り込まれており、ゲームファンにとって大きなニュースです。ROUND8 Studioの手腕によって、ゲームの世界はさらに深みと魅力を増しています。『Lies of P: コンプリート エディション』は、ゲームをよ",
+        "description": "NEOWIZは8月6日、ROUND8 Studioが開発した『Lies of P: コンプリート エディション』のリリースを発表しました。この作品は、ROUND8 Studioの独自のゲームデザインと、NEOWIZの技術力が融合した、魅力的なゲームです。『Lies of P: コンプリート エディション』は、プレイヤーに新しいゲーム体験を提供することで、ゲームファンからの高い評価を得ています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,49 +249,10 @@
         "is_translated": false
       },
       {
-        "title": "【500 FINGER FILLET：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "DEADBODY Gamesは8月5日、ローグライト・ホラーゲーム『500 FINGER FILLET』の体験版を配信しました。このゲームはローグライトとホラーを組み合わせた、ユニークなゲーム性を提供します。体験版で先行プレイすることで、ゲームの世界とシステムに先駆けて触れられるチャンスです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260805-458554/",
-        "date": "2026-08-05",
-        "is_translated": false
-      },
-      {
-        "title": "【エンドレス・レジェンド 2：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Hooded Horseは8月4日、『ENDLESS Legend 2（エンドレス・レジェンド 2）』の正式リリース日を9月17日と発表しました。このゲームは、世界中のゲーマーから大きな期待を集めており、正式リリースに先立って、多くのユーザーが早速プレイを開始しています。『ENDLESS Legend 2』は、ストラテジーゲームのファンにはたまらない作品です。様々な文明を築き上げ、戦略を駆使して勝",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260805-458546/",
-        "date": "2026-08-05",
-        "is_translated": false
-      },
-      {
-        "title": "【Big Walk：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Panicは8月4日、House Houseが開発した協力型アドベンチャーゲーム『Big Walk』をリリースしました。このゲームは早速多くのプレイヤーを集め、評価も高く好調なスタートを切りました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260805-458514/",
-        "date": "2026-08-05",
-        "is_translated": false
-      },
-      {
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アスペクト比について考えるのに私が費やす時間は、多くの人にとって退屈なことかもしれないと思います。しかし、私はこのテーマに興味があり、それを深く考察し続けることが大切だと思っているので、引き続き調べてみます。",
+        "description": "私は、アスペクト比について考えるのに多くの時間を費やしています。多くの人は、アスペクト比について考えることを退屈なことだと思わないかもしれませんが、私はそれを続ける価値があると考えています。なぜなら、アスペクト比は、ゲームの画面がどのように表示されるかを決定する重要な要素だからです。ゲームの魅力を最大限に引き出せるアスペクト比を見つけるために、私はさまざまな設定を試し、比較検討しています。私の努力",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -291,7 +265,7 @@
         "title": "【Endless Legend 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "海洋の非対称派閥戦争戦略続編「Endless Legend 2」の早期アクセス段階が終わりを迎えようとしています。終わりますか？それは正しいはずがありません。しかし、どうやらAmplitude Studiosが開発したように、「Endless Legend 2」は早期アクセスから正式リリースへの移行を控えています。早期アクセス期間中、ゲームは多くのアップデートや新しい機能を追加してきました。プレイ",
+        "description": "海洋の非対称派閥戦争戦略続編であるEndless Legend 2の早期アクセス段階が終了間近です。Amplitude Studiosが開発を進めてきたこの作品、早期アクセスの終了は本当に終わりを意味するのでしょうか。実はそうではありません。開発元は、早期アクセスの終了をもって、次のステージへの移行を計画しています。早期アクセスでは、ユーザーからのフィードバックを集めながら、ゲームのバランス調整や",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -454,5 +428,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T02:47:31.071131"
+  "last_updated": "2026-08-06T13:42:11.522163"
 }

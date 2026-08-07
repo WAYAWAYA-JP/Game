@@ -2,28 +2,28 @@
   "pc": {
     "free": [
       {
-        "title": "OTXO - Epic Games 無料配布中",
+        "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Epic Gamesプラットフォームでは、OTXOというタイトルのゲームが無料で配布されています。このゲームでは、愛する人を救うために、謎に包まれた洋館に踏み込む必要があります。プレイヤーは、精密かつ冷酷なガンアクションと、時間をねじ曲げるスローモーションを駆使して、様々な挑戦を乗り越えていきます。ハイスピードかつダークで残酷なローグライト要素が特徴的なこのゲームは、プレイヤーを緊張感とスリルに満たす体験を提供します。_OTXO_では、毎回異なるローグライトの要素によって、ゲームの展開が変化します。プレイヤーは、その都度、新しい戦略を考案し、実践して、愛する人を救うために、洋館の謎を解き明かさなければなりません。ゲームの雰囲気はダークで緊張感があり、プレイヤーは常に注意を払いながらゲームを進めていく必要があります。_OTXO_は、ガンアクションとスローモーションの絶妙なバランスが特徴で、プレイヤーが新しい体験を得ることができる、ユニークなゲームです。",
+        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。このゲームでは、夜の静寂を裂くようにこっそり外に出て、新しい友達を作ったり、隠された真実を明らかにしたり、運命の流れを変える言葉を集めることができます。ゲームの世界は、不気味な雰囲気とキュートなキャラクターが共存する、ユニークなものです。プレイヤーは、ゲームの世界を自由に探索し、物語を進めていくことができます。新しい友達を作ったり、隠された真実を発見したりすることで、ゲームの世界と深い関係を築くことができます。また、運命の流れを変える言葉を集めることで、物語の展開を変えることができます。Beacon Pinesは、不気味な雰囲気とキュートなキャラクターが共存する、魅力的で興味深いゲームです。",
         "price": "無料",
-        "originalPrice": "¥1,460",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-06"
+        "date": "2026-08-07"
       },
       {
-        "title": "Sol Cesto - Epic Games 無料配布中",
+        "title": "We Were Here Together - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sol Cesto』は運を上手に使って道を切り開いていく、戦略的で熱中できるローグライトゲームです。様々なヒーローから好きなキャラクターを選び、ランダムに生成されるダンジョンの最深部を目指しましょう。この厳しい世界では、プレイヤーの行動がその後の展開を決定づけるため、戦略的に進めています。各ヒーローには独自の能力があり、ダンジョンの奥深くに進むことで新しい能力やアイテムを入手することができます。運と戦略を組み合わせて、ダンジョンの最深部に到達してみましょう。",
+        "description": "凍った荒地を探索している中、再び不運が訪れた。猛烈な吹雪の中、緊急照明弾の光が空に照らされ、無線からは壊れて死にそうな泣き声が聞こえてくる…誰も彼らを助けに来ることはできない。だが、一緒に…戻ることはできるのだろうか？",
         "price": "無料",
-        "originalPrice": "¥1,600",
+        "originalPrice": "¥1,260",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-06"
+        "date": "2026-08-07"
       }
     ],
     "bundle": [
@@ -37,10 +37,10 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-08-06"
+        "date": "2026-08-07"
       },
       {
-        "title": "In Your World VR Bundle VR",
+        "title": "In Your World VR Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-06"
+        "date": "2026-08-07"
       },
       {
         "title": "Like a Dragonなど、8月の新作ゲーム",
@@ -210,17 +210,43 @@
     ],
     "review": [
       {
-        "title": "【百白（ヒャクビャク）：レビュー】",
+        "title": "【Dragon’s Chronicles〜双星のレギンレイヴ〜：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "BA-KUは8月6日、『百白（ヒャクビャク）』を発表しました。詳細については不明な点が多いですが、ディレクターとシナリオ担当は瀬戸口廉也氏が務めることが明らかになっています。",
+        "description": "『Dragon's Chronicles〜双星のレギンレイヴ〜』のPC向けストアページが、スタジオあっとほ〜むにより8月7日にSteamで公開されました。同時に、約10時間遊ぶことができる体験版もリリースされました。この体験版では、ゲームの世界観やストーリー、操作感などを先行して体験することができます。『Dragon's Chronicles〜双星のレギンレイヴ〜』は、双子の星の物語を描くファンタ",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260806-458699/",
-        "date": "2026-08-06",
+        "url": "https://automaton-media.com/articles/newsjp/20260807-458987/",
+        "date": "2026-08-07",
         "is_translated": false
+      },
+      {
+        "title": "【鬼武者 Way of the Sword：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "体験会でプレイできた京都の独特な雰囲気や、より深みのあるゲームプレイの感覚について紹介していきます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260807-458825/",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
+        "title": "【スレイ・ザ・スパイア2：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ベッドでゲームをプレイすることは、ひどい行為なのか、それとも許されるものなのか。Apple の「Get a Mac」という広告で PC を演じた男性が、画期的な PC ゲームに関する判決を下しました。この判決は、ゲームの世界に大きな影響を与えるものとなりました。ゲームをプレイする場所や方法について、従来の常識が覆される可能性があります。ベッドでのゲームプレイは、単にひどい行為なのか、それとも新たな",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/couples-dispute-over-playing-slay-the-spire-2-in-bed-gets-a-ruling-from-comedian-john-hodgman-pick-an-arbitrary-battle-and-stick-with-it/",
+        "date": "2026-08-06",
+        "is_translated": true
       },
       {
         "title": "【GTA 6：レビュー】",
@@ -236,23 +262,49 @@
         "is_translated": true
       },
       {
-        "title": "【Lies of P：コンプリート エディション：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "【鬼武者: Way of the Sword：レビュー】",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "NEOWIZは8月6日、ROUND8 Studioが開発した『Lies of P: コンプリート エディション』のリリースを発表しました。この作品は、ROUND8 Studioの独自のゲームデザインと、NEOWIZの技術力が融合した、魅力的なゲームです。『Lies of P: コンプリート エディション』は、プレイヤーに新しいゲーム体験を提供することで、ゲームファンからの高い評価を得ています。",
+        "description": "先月、私は新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイしました。少し指が痛くなったものの、感銘を受けて帰ってきました。サムライアクションジャンルは人気があり、様々な作品がひしめいている中で、こちらのゲームは一際目を引く存在感を持ちます。剣術アクションが際立っており、戦闘の臨場感やスピード感が素晴らしいことでしょう。サムライアクションファンには必見",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260806-458639/",
-        "date": "2026-08-05",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/fear-not-samurai-masochists-onimusha-way-of-the-swords-flashiness-hasnt-replaced-its-challenge",
+        "date": "2026-08-06",
+        "is_translated": true
+      },
+      {
+        "title": "【エルデンリング：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "2022 年の発売日に、Elden Ring を始めました。これは、私にとって初めてのフロムソフトのゲームでしたが、自分が何に夢中になっているのか、よくわかりませんでした。結果として、私が Elden Ring をプレイする方法は、多くの思い込みや不安を抱えたまま進めることになりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/video/i-played-elden-ring-wrong-for-two-years/",
+        "date": "2026-08-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Marvel Tokon Fighting Souls：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Marvel Tokon: Fighting Souls には、魅力的なゲームプレイと数多くの問題が混在しています。特に PC 版では、大規模な問題が多く発生しているため、改善が必要です。ゲームの中心となるプレイヤビリティやパフォーマンスの向上など、いくつかの作業が必要です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
+        "date": "2026-08-06",
+        "is_translated": true
       },
       {
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "私は、アスペクト比について考えるのに多くの時間を費やしています。多くの人は、アスペクト比について考えることを退屈なことだと思わないかもしれませんが、私はそれを続ける価値があると考えています。なぜなら、アスペクト比は、ゲームの画面がどのように表示されるかを決定する重要な要素だからです。ゲームの魅力を最大限に引き出せるアスペクト比を見つけるために、私はさまざまな設定を試し、比較検討しています。私の努力",
+        "description": "アスペクト比について考えるのに私が費やす時間は、確かに多くの人にとってそれが間違いなく面白いことではないとしても、潜在的に魅力的な要素となるでしょう。それでも私はこの研究を続けています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +317,7 @@
         "title": "【Endless Legend 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "海洋の非対称派閥戦争戦略続編であるEndless Legend 2の早期アクセス段階が終了間近です。Amplitude Studiosが開発を進めてきたこの作品、早期アクセスの終了は本当に終わりを意味するのでしょうか。実はそうではありません。開発元は、早期アクセスの終了をもって、次のステージへの移行を計画しています。早期アクセスでは、ユーザーからのフィードバックを集めながら、ゲームのバランス調整や",
+        "description": "海洋の非対称派閥戦争戦略続編「Endless Legend 2」の早期アクセス段階が終了間近です。終わりますか？それは正しいはずがありません。しかし、どうやらそれは、Amplitude Studiosが開発したように、実際にはそうではありません。早期アクセス段階が終了することで、ゲームは新しい展開を迎えることになります。開発チームは、早期アクセス段階中に収集したユーザーのフィードバックを元に、ゲー",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -428,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-06T13:42:11.522163"
+  "last_updated": "2026-08-07T02:48:03.161553"
 }

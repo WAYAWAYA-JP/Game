@@ -5,7 +5,7 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。このゲームでは、夜の静寂を裂くようにこっそり外に出て、新しい友達を作ったり、隠された真実を明らかにしたり、運命の流れを変える言葉を集めることができます。ゲームの世界は、不気味な雰囲気とキュートなキャラクターが共存する、ユニークなものです。プレイヤーは、ゲームの世界を自由に探索し、物語を進めていくことができます。新しい友達を作ったり、隠された真実を発見したりすることで、ゲームの世界と深い関係を築くことができます。また、運命の流れを変える言葉を集めることで、物語の展開を変えることができます。Beacon Pinesは、不気味な雰囲気とキュートなキャラクターが共存する、魅力的で興味深いゲームです。",
+        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。このゲームでは、夜の間をこっそり抜けて新しい友達を作ったり、隠された真実を明らかにしたり、運命の流れを変える言葉を集めることができます。秘密を明らかにすることで、物語の展開を変えることができるユニークなシステムが特徴です。ゲームの世界は、不気味な雰囲気と愛らしいキャラクターが共存する、独特の世界観を持ちます。プレイヤーは、この不思議な世界で自由に冒険し、様々な謎を解き明かしていきます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -40,7 +40,7 @@
         "date": "2026-08-07"
       },
       {
-        "title": "In Your World VR Bundle",
+        "title": "In Your World VR Bundle VR",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -210,10 +210,23 @@
     ],
     "review": [
       {
+        "title": "【無期迷途：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『無期迷途』の新章「蒼藍ドーム」を先行プレイしてみたので、新しい要素やその魅力について紹介します。この新章では、どのような新しいスタイルや要素が追加されているのか、そしてそれがプレイヤーにどのような体験を提供するのかを詳しく見ていきましょう。新章「蒼藍ドーム」は、シリーズのファンや新規プレイヤーにとって、どのような魅力があるのかを探ってみます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260807-459105/",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
         "title": "【Dragon’s Chronicles〜双星のレギンレイヴ〜：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『Dragon's Chronicles〜双星のレギンレイヴ〜』のPC向けストアページが、スタジオあっとほ〜むにより8月7日にSteamで公開されました。同時に、約10時間遊ぶことができる体験版もリリースされました。この体験版では、ゲームの世界観やストーリー、操作感などを先行して体験することができます。『Dragon's Chronicles〜双星のレギンレイヴ〜』は、双子の星の物語を描くファンタ",
+        "description": "スタジオあっとほ〜むは8月7日、PC向けのゲーム『Dragon's Chronicles〜双星のレギンレイヴ〜』のストアページをSteamで公開しました。同時に、約10時間遊ぶことができる体験版もリリースされました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +239,7 @@
         "title": "【鬼武者 Way of the Sword：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "体験会でプレイできた京都の独特な雰囲気や、より深みのあるゲームプレイの感覚について紹介していきます。",
+        "description": "体験会でプレイできた京都の雰囲気や、より深いゲームプレイの感覚について紹介していきます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +249,36 @@
         "is_translated": false
       },
       {
+        "title": "【Ghost Recon：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "CIA が過去に政権交代の前触れとして誤った情報を流したのと同様に、Ubisoft も新しい Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、Ubisoft は新しい Ghost Recon ゲームの開発に着手しています。ポパ氏は、開発チームが新しいゲームの制作に取り組んでおり、ファンに新しい体験を提供することを目指していることを",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/credible-military-storytelling-ubisoft-announce-playtests-for-new-ghost-recon-game-alongside-a-sizeable-wildlands-update-and-a-future-soldier-giveaway",
+        "date": "2026-08-07",
+        "is_translated": true
+      },
+      {
+        "title": "【栄光のアザーサイド：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG であり、プレイヤーは悲しみに満ちた刃物とピストルを装備したクローンの部隊を率いて戦います。その部隊は、戦闘の度に消えていきます。クローンの部隊を指揮して、戦いを勝ち抜いていくことがゲームの主な内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-makers-of-the-glorious-othercide-have-another-tactics-rpg-bloodbath-out-in-september-with-a-playtest-live-now",
+        "date": "2026-08-07",
+        "is_translated": true
+      },
+      {
         "title": "【スレイ・ザ・スパイア2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ベッドでゲームをプレイすることは、ひどい行為なのか、それとも許されるものなのか。Apple の「Get a Mac」という広告で PC を演じた男性が、画期的な PC ゲームに関する判決を下しました。この判決は、ゲームの世界に大きな影響を与えるものとなりました。ゲームをプレイする場所や方法について、従来の常識が覆される可能性があります。ベッドでのゲームプレイは、単にひどい行為なのか、それとも新たな",
+        "description": "ベッドでのゲーム：ひどいですか、それとも合法ですか？ Apple の「Get a Mac」広告で PC を演じた俳優が、画期的な PC ゲーム判決を下しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +304,7 @@
         "title": "【鬼武者: Way of the Sword：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先月、私は新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイしました。少し指が痛くなったものの、感銘を受けて帰ってきました。サムライアクションジャンルは人気があり、様々な作品がひしめいている中で、こちらのゲームは一際目を引く存在感を持ちます。剣術アクションが際立っており、戦闘の臨場感やスピード感が素晴らしいことでしょう。サムライアクションファンには必見",
+        "description": "先月、新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイする機会がありました。少し指が痛くなったものの、感銘を受けて帰ってきました。現在、サムライアクションジャンルは非常に人気で、様々な作品がひしめいている中で、『鬼武者: Way of the Sword』は一目置かれる存在です。このゲームは、スピーディでダイナミックなアクションを体験できるだけでなく",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,54 +314,15 @@
         "is_translated": true
       },
       {
-        "title": "【エルデンリング：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "2022 年の発売日に、Elden Ring を始めました。これは、私にとって初めてのフロムソフトのゲームでしたが、自分が何に夢中になっているのか、よくわかりませんでした。結果として、私が Elden Ring をプレイする方法は、多くの思い込みや不安を抱えたまま進めることになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/video/i-played-elden-ring-wrong-for-two-years/",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Marvel Tokon Fighting Souls：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Marvel Tokon: Fighting Souls には、魅力的なゲームプレイと数多くの問題が混在しています。特に PC 版では、大規模な問題が多く発生しているため、改善が必要です。ゲームの中心となるプレイヤビリティやパフォーマンスの向上など、いくつかの作業が必要です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
         "title": "【Baldur's Gate 3：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "アスペクト比について考えるのに私が費やす時間は、確かに多くの人にとってそれが間違いなく面白いことではないとしても、潜在的に魅力的な要素となるでしょう。それでも私はこの研究を続けています。",
+        "description": "私はアスペクト比について考えるのに多くの時間を費やします。多くの人にとってこれは間違いなく退屈なことだと思われるかもしれませんが、私はこのテーマに強い興味を持っており、引き続き研究を続けています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/almost-10000-people-have-played-baldurs-gate-3-in-a-portrait-aspect-ratio-so-join-me-in-figuring-out-why-theyd-commit-such-sacrilege",
-        "date": "2026-08-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Endless Legend 2：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "海洋の非対称派閥戦争戦略続編「Endless Legend 2」の早期アクセス段階が終了間近です。終わりますか？それは正しいはずがありません。しかし、どうやらそれは、Amplitude Studiosが開発したように、実際にはそうではありません。早期アクセス段階が終了することで、ゲームは新しい展開を迎えることになります。開発チームは、早期アクセス段階中に収集したユーザーのフィードバックを元に、ゲー",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers",
         "date": "2026-08-04",
         "is_translated": true
       }
@@ -480,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T02:48:03.161553"
+  "last_updated": "2026-08-07T12:40:43.816602"
 }

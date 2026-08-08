@@ -5,13 +5,13 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。このゲームでは、夜の間をこっそり抜けて新しい友達を作ったり、隠された真実を明らかにしたり、運命の流れを変える言葉を集めることができます。秘密を明らかにすることで、物語の展開を変えることができるユニークなシステムが特徴です。ゲームの世界は、不気味な雰囲気と愛らしいキャラクターが共存する、独特の世界観を持ちます。プレイヤーは、この不思議な世界で自由に冒険し、様々な謎を解き明かしていきます。",
+        "description": "Beacon Pinesは、キュートで不気味な雰囲気を持つアドベンチャーゲームです。このゲームでは、夜の静寂を利用してこっそり外出し、新しい友達を作り、秘密に隠された真実を明らかにすることができます。さらに、物語の運命を変える重要な言葉を集めることもできます。ゲームを進めるにつれて、集めた言葉を利用して物語の流れを変えることができ、プレイヤーの選択が物語に大きな影響を与えることを実感できます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       },
       {
         "title": "We Were Here Together - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       }
     ],
     "bundle": [
+      {
+        "title": "Short Games Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-08"
+      },
       {
         "title": "Build Your Own Platinum Collection",
         "platform": "Fanatical",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       },
       {
         "title": "In Your World VR Bundle VR",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-07-27"
-      },
-      {
-        "title": "Animal Style Bundle for PC",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-07-27"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【無期迷途：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "『無期迷途』の新章「蒼藍ドーム」を先行プレイしてみたので、新しい要素やその魅力について紹介します。この新章では、どのような新しいスタイルや要素が追加されているのか、そしてそれがプレイヤーにどのような体験を提供するのかを詳しく見ていきましょう。新章「蒼藍ドーム」は、シリーズのファンや新規プレイヤーにとって、どのような魅力があるのかを探ってみます。",
+        "description": "『無期迷途』の新章「蒼藍ドーム」が先行プレイ可能になりましたので、新しい要素やその魅力を紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +226,7 @@
         "title": "【Dragon’s Chronicles〜双星のレギンレイヴ〜：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スタジオあっとほ〜むは8月7日、PC向けのゲーム『Dragon's Chronicles〜双星のレギンレイヴ〜』のストアページをSteamで公開しました。同時に、約10時間遊ぶことができる体験版もリリースされました。",
+        "description": "スタジオあっとほ〜むは8月7日、PC用ゲーム『Dragon's Chronicles〜双星のレギンレイヴ〜』のSteamストアページを公開しました。同時に、約10時間遊ぶことができる体験版も公開されました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,23 +236,23 @@
         "is_translated": false
       },
       {
-        "title": "【鬼武者 Way of the Sword：レビュー】",
-        "platform": "AUTOMATON",
+        "title": "ゲーム業界では、新しい動きが見られます。以前はゲーム機ではなかったマシンが、ストリーミング技術によってゲーム機になる可能性が出てきました。Take-TwoのCEOは、ストリーミングによってハードウェアの価格問題が解決されることを予測しています。ストリーミング技術により、ゲーム機のハードウェアの価格が下がり、より多くの人にゲームを楽しんで貰えるようになるかもしれません。ゲーム機の価格が下がれば、より多くのユーザーがゲームを楽しむことができるようになり、ゲーム市場がさらに拡大する可能性があります。",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "体験会でプレイできた京都の雰囲気や、より深いゲームプレイの感覚について紹介していきます。",
+        "description": "ロックスターの親会社であるテイクツー・インタラクティブ社の最高経営責任者（CEO）ストラス・ゼルニック氏は、現在のゲームハードウェアの価格は非常に高額だが、心配する必要はないと語っています。彼によると、近い将来、すべてのゲームをストリーミングで遊ぶことができるようになる予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260807-458825/",
+        "url": "https://www.rockpapershotgun.com/machines-that-werent-game-machines-before-will-become-game-machines-take-two-ceo-predicts-that-streaming-will-help-fix-the-industrys-hardware-pricing-problem",
         "date": "2026-08-07",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "【Ghost Recon：レビュー】",
+        "title": "【ゴースト リコン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "CIA が過去に政権交代の前触れとして誤った情報を流したのと同様に、Ubisoft も新しい Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、Ubisoft は新しい Ghost Recon ゲームの開発に着手しています。ポパ氏は、開発チームが新しいゲームの制作に取り組んでおり、ファンに新しい体験を提供することを目指していることを",
+        "description": "CIA が大胆な政権交代を前提とした誤った情報を流しているのと同様に、Ubisoft も次回作の Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、次回作についての詳細が明らかになってきています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,10 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "【栄光のアザーサイド：レビュー】",
+        "title": "【Othercide：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG であり、プレイヤーは悲しみに満ちた刃物とピストルを装備したクローンの部隊を率いて戦います。その部隊は、戦闘の度に消えていきます。クローンの部隊を指揮して、戦いを勝ち抜いていくことがゲームの主な内容です。",
+        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親を主人公に据えた、XCOM スタイルの戦術 RPG です。このゲームでは、悲しみに満ちた刃物やピストルを装備したクローンの部隊を率いて戦います。独特のダークファンタジー世界観と、戦略的な戦闘が特徴的です。プレイヤーは、クローンの部隊を指揮して、強大な敵と戦っていきます。敵の動きを分析し、部隊の戦略を立て、勝利を目指します。O",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,10 +275,23 @@
         "is_translated": true
       },
       {
+        "title": "【レゴ ポケモン スマート プレイ セット：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Polygon では、8 月 1 日に発売予定の Lego の Pokémon Smart Play セットが紹介されました。このセットは、ポケモンの世界とレゴのブロックを融合させた、革新的なプレイ体験を提供します。スマートフォンと連携することで、よりインタラクティブで楽しいゲームプレイを楽しむことができます。このセットは、レゴとポケモンのファンにとって大変魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/video/hands-on-with-lego-s-pokmon-smart-play-sets/",
+        "date": "2026-08-07",
+        "is_translated": true
+      },
+      {
         "title": "【スレイ・ザ・スパイア2：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ベッドでのゲーム：ひどいですか、それとも合法ですか？ Apple の「Get a Mac」広告で PC を演じた俳優が、画期的な PC ゲーム判決を下しました。",
+        "description": "ベッドでのゲーム：ひどいですか、それとも合法ですか？ Apple の「Get a Mac」広告で PC を演じた男性が、画期的な PC ゲームに関する判決を下しました。この判決は、ゲーム業界には大きな影響を与えるものです。判決の内容は、ベッドでのゲームがひどいことなのか、それとも合法なのかについて決着をつけるものです。判決を下したのは、Apple の広告で PC を演じたことで知られる男性です。こ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,42 +301,16 @@
         "is_translated": true
       },
       {
-        "title": "【GTA 6：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
         "title": "【鬼武者: Way of the Sword：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先月、新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイする機会がありました。少し指が痛くなったものの、感銘を受けて帰ってきました。現在、サムライアクションジャンルは非常に人気で、様々な作品がひしめいている中で、『鬼武者: Way of the Sword』は一目置かれる存在です。このゲームは、スピーディでダイナミックなアクションを体験できるだけでなく",
+        "description": "先月、私は新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイし、少し指が痛かったものの、感銘を受けて帰ってきました。サムライアクションジャンルはひしめいていますが、独自の世界観や戦闘システムがこのゲームを際立たせています。このゲームでは、プレイヤーはさまざまな武器やスキルを駆使して、多数の敵を倒していきます。戦闘の高速性と、プレイヤーのスキルが試される",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/fear-not-samurai-masochists-onimusha-way-of-the-swords-flashiness-hasnt-replaced-its-challenge",
         "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Baldur's Gate 3：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私はアスペクト比について考えるのに多くの時間を費やします。多くの人にとってこれは間違いなく退屈なことだと思われるかもしれませんが、私はこのテーマに強い興味を持っており、引き続き研究を続けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/almost-10000-people-have-played-baldurs-gate-3-in-a-portrait-aspect-ratio-so-join-me-in-figuring-out-why-theyd-commit-such-sacrilege",
-        "date": "2026-08-04",
         "is_translated": true
       }
     ],
@@ -480,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T12:40:43.816602"
+  "last_updated": "2026-08-08T01:49:55.627889"
 }

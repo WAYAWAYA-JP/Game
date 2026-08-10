@@ -5,13 +5,13 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。この作品では、夜の静寂の中をこっそり抜け出し、新しい友達を作ったり、隠された真実を明らかにしたりすることができます。また、言葉を集めることで、運命の流れを変えることができます。ゲームを進めることで、物語の展開が変化します。ゲームの中では、プレイヤーは言葉を選択して物語を進め、様々な結末を体験できます。Beacon Pinesは、ユニークなゲームシステムと魅力的な世界観が特徴です。ゲームの世界は、不気味な雰囲気とキュートなキャラクターが共存する、独特の雰囲気を持っています。プレイヤーは、この世界の中で自由に冒険し、隠された秘密を解き明かすことができます。",
+        "description": "Beacon Pinesは、キュートで不気味な雰囲気を持つアドベンチャーゲームです。このゲームでは、夜の静寂を利用してこっそり外出し、新しい友人との出会いや、隠されていた真実を明らかにすることにより、運命の流れを変える言葉を集めていきます。プレイヤーは、物語を進めながら、多くの謎を解き明かしていき、最終的に、自身の選択が世界に与える影響を体験することができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-09"
+        "date": "2026-08-10"
       },
       {
         "title": "We Were Here Together - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-09"
+        "date": "2026-08-10"
       }
     ],
     "bundle": [
@@ -37,7 +37,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-09"
+        "date": "2026-08-10"
+      },
+      {
+        "title": "ショートゲームショーケースバンドル",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-10"
       },
       {
         "title": "Short Games Showcase Bundle",
@@ -194,26 +206,53 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-07-30"
-      },
-      {
-        "title": "Build Your Own Wholesome Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-29"
       }
     ],
     "review": [
       {
+        "title": "【House Flipper：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "8月9日までの週のSteamの興味深いニュースをまとめてみました。新作ゲームのリリースやアップデート、注目すべきセールなど、ゲーマーにとっておすすめの情報が盛りだくさんです。最新のゲームトレンドや話題をチェックし、次にプレイするゲームを探している人は必見です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
+        "date": "2026-08-10",
+        "is_translated": true
+      },
+      {
+        "title": "【ディビジョン：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "『ディビジョン リサージェンス』はモバイル向けに作られており、その特徴が随所に表れています。スマートフォンでのプレイに最適化されたゲームデザインや、モバイル向けに調整された操作方法が特徴です。モバイルゲームとしての利点を生かした、いつでもどこでも遊べるアクションゲームに仕上がっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/free-to-play-division-game-launches-on-steam-to-mixed-reviews-calling-it-slop-disrespects-actual-slop/",
+        "date": "2026-08-10",
+        "is_translated": true
+      },
+      {
+        "title": "【Look Outside：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Francis Coulombeが手がけるサバイバルホラーゲーム「Look Outside」は、昨年3月にPC向けにリリースされ、高い評価を獲得しました。このゲームは、開発者の独特の世界観と恐怖感をプレイヤーに体験させることが特徴です。新たに、パブリッシャーのDevolver Digitalが最も注目すべきタイトルの一つとして本作を 支援しています。サバイバルホラーRPGとしての「Look Out",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169465.html",
+        "date": "2026-08-09",
+        "is_translated": false
+      },
+      {
         "title": "【アノマリス／ANOMALITH：レビュー】\n【クライムライト／CRYMELIGHT：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "フリューは8月8日、ゲーム「アノマリス」および「クライムライト」の体験版について、当初の予定より配信期間を延長することを発表しました。この発表により、プレイヤーはこれらのゲームをより長い期間体験できるようになります。「アノマリス」と「クライムライト」は、ユーザーから高い関心を集めているタイトルです。「アノマリス」は、独特のゲームシステムとグラフィックでプレイヤーを魅了しています。一方、「クライムラ",
+        "description": "フリューは8月8日、《アノマリス》と《クライムライト》の体験版について、当初予定していた配信期間を延長することを発表しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +265,7 @@
         "title": "【サノバウィッチ：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゆずソフトは8月7日、『サノバウィッチ』の全世界セールスが50万本を突破したことを報告しました。発売から約11年で達成した記録です。",
+        "description": "ゆずソフトは8月7日、『サノバウィッチ』の全世界セールスが50万本を突破したことを報告しました。発売から約11年での達成となり、記録的な快挙です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -239,7 +278,7 @@
         "title": "Steamの低評価レビューは、「短時間プレイかつ長文になりがち」な傾向。高評価との“書かれ方”の違い大規模分析",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ゲームのレビューを投稿するタイミングや文章の長さ、表現される感情は、評価の高低やプレイの形態によっても異なる傾向がある可能性が研究によって明らかになっている。評価が高いゲームのレビューでは、プレイヤーが感動した瞬間や楽しい経験を詳しく書く傾向がある一方で、評価の低いゲームのレビューでは、批判的な意見や不満を短く簡潔に書くことが多い。さらに、オンラインマルチプレイヤーゲームのレビューでは、他のプレイ",
+        "description": "ゲームの評価やプレイスタイルは、レビューを投稿するタイミング、文章の長さ、表現される感情などに影響を与えることが研究によって明らかになっている。例えば、評価が高かったり低かったりする場合、レビューの内容や長さが変わってくる可能性がある。また、プレイするゲームの種類やスタイルも、レビューの内容に違いが出ることがある。こうした傾向を考慮することで、ゲームのレビューを投稿する際のユーザーの行動や感覚をよ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -252,7 +291,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Team RPS にとって、この 1 週間は比較的 управまりやすく、穏やかな時期だったかもしれません。そのため、生産的な 5 日間の PC ゲームを楽しんだ自分へのご褒美として、いくつかの新しい PC ゲームをご紹介します。",
+        "description": "Team RPS として過ごしたこの1週間は、比較的管理しやすく、穏やかな時期だった人もいるかもしれません。そんな週を経て、生産的な5日間を終えた自分へのご褒美として、いくつかの新しいPCゲームを用意しました。もしくは、バーベキューを楽しむ予定です。実際、そのようなリラックスした時間は、皆さんにとって貴重なものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -262,36 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "【Ambrosia Sky：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "アンブロシア スカイは、メトロイド プライムの世界観からインスピレーションを受けた独自の解釈を通じて、人類が危機に立ち向かう様子を描くタイムリーなストーリーを展開します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ambrosia-sky-review/",
-        "date": "2026-08-08",
-        "is_translated": true
-      },
-      {
-        "title": "【無期迷途：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『無期迷途』の新章「蒼藍ドーム」を先行プレイしたので、新しい要素やその魅力を紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260807-459105/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "Take-TwoのCEOは、ゲーム機ではなかったマシンがゲーム機になる未来が来ると予測しています。ストリーミング技術の進歩により、ハードウェアの価格が下がり、より多くの人がゲームを楽しめるようになるでしょう。CEOによると、ストリーミングはハードウェアの価格問題を解決するための重要な役割を果たすと考えています。これにより、ゲーム機に投資する必要がなくなり、より幅広いデバイスでゲームがプレイできるようになる可能性があります。さらに、ストリーミング技術の向上により、ゲームのグラフィックやサウンドの質が向上し、よりリアルなゲーム体験が実現する可能性もあります。Take-TwoのCEOは、ストリーミングがゲーム業界の将来を変える重要なテクノロジーであると考えています。",
+        "title": "Take-TwoのCEOは、ゲーム機ではなかったマシンがゲーム機になる時代がやってくるという見方を示しています。ストリーミング技術の進化により、ハードウェアの価格問題が解決され、より幅広いデバイスでゲームをプレイできるようになる可能性が高いと予測しています。ストリーミング技術の発展により、ゲーム機に限らず、さまざまなマシンでもゲームがプレイできるようになり、ゲームの世界がさらに拡大することが期待されます。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ロックスターの親会社テイクツー・インタラクティブのCEO、ストラス・ゼルニック氏は、現在のゲームハードウェアの価格が高額であることを認めつつも、心配する必要はないと語っています。ゼルニック氏によると、近い将来、すべてのゲームがクラウド技術を通じてプレイできるようになる予定です。",
+        "description": "ロックスターの親会社であるテイクツー・インタラクティブの最高経営責任者であるストラス・ゼルニック氏は、現在のゲームハードウェアの価格が高額であることを認めつつも、心配する必要はないと語っている。ゲームの提供方法が変化する近未来では、すべてのゲームをクラウドゲームとして遊ぶことができるようになるため、ハードウェアの価格についてはあまり気にする必要はないと考えられている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,10 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "【Ghost Recon：レビュー】",
+        "title": "【ゴースト リコン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "CIA が過去に、ある政権交代の前に誤った情報を広めたことがあります。同様に、Ubisoft も新しい Ghost Recon ゲームについて、早くから情報を発表し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、開発チームは新しいゲームの発売に向けて、段階的に情報を公開する予定です。",
+        "description": "CIA が大胆なクーデターの前に誤った情報を流したように、Ubisoft も新作の Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、次回作はシリーズのファンが待ちに待ったものとなるでしょう。ポパ氏は、ゲームの開発について詳細な情報を明らかにし、ファンの期待を高めています。新作 Ghost Recon ゲームは、シリーズの伝統的なゲ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,10 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "【栄光のアザーサイド：レビュー】",
+        "title": "【大虐殺：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG です。このゲームは、悲しみに満ちた刃物やピストルを振り回すクローンの部隊をあなたが指揮する、暗い雰囲気の戦闘を特徴としています。プレイヤーは、悲劇的な過去を持つクローンの戦士たちを率いて、恐ろしげな敵と戦います。戦略とタクティクスを駆使して、クローンの部隊を勝利に導きます",
+        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG です。このゲームでは、悲しみに満ちた刃物とピストルを持ったクローンの部隊を率いて、戦略的に戦います。プレイヤーは、戦況を分析して部隊を指揮し、強力な敵を倒して進んでいきます。ゲームの雰囲気はダークで、不気味なグラフィックとサウンドで構成されています。戦闘はターン制で行われ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +343,7 @@
         "title": "【鬼武者: Way of the Sword：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先月、注目されている新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイする機会がありました。プレイ時間が長かったため、指が少し痛みましたが、感銘を受けて帰宅しました。現在、サムライアクションジャンルは多くの作品で占有されていますが、『鬼武者: Way of the Sword』はその中でも特に注目に値する作品です。",
+        "description": "先月、私は新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイしたとき、少し指が痛くなったものの、強い感銘を受けて帰ってきました。サムライアクションジャンルは人気があり、様々な作品がひしめいているが、このゲームは一歩先を行く魅力を感じることができました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -493,5 +506,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09T12:29:30.815335"
+  "last_updated": "2026-08-10T02:01:12.592931"
 }

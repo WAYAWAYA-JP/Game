@@ -5,13 +5,13 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、不気味な雰囲気の中にあどけなさを秘めたアドベンチャーゲームです。夜の静寂を切り裂くように出かけて、新しい仲間との出会いを経験し、隠された真実を明らかにしてみましょう。さらに、運命を変える言葉を集め、物語の流れを自分で変えてみることができます。",
+        "description": "Beacon Pinesは、不気味な雰囲気を漂わせるキュートなアドベンチャーゲームです。夜の静寂の中でこっそり外に出て、新しい友達と出会い、隠された真実を明らかにしよう。運命を変える言葉を探し集め、物語の流れを変えてみましょう。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-10"
+        "date": "2026-08-11"
       },
       {
         "title": "We Were Here Together - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-10"
+        "date": "2026-08-11"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Family Board Games Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-11"
+      },
       {
         "title": "[Steam] Ghost Recon Franchise Bundle ($15 / 90% off)",
         "platform": "Steam",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-07-30"
-      },
-      {
-        "title": "難関ゲームを紹介",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Your Friends、Splodey、Never Give Up",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-07-30"
       }
     ],
     "review": [
@@ -213,7 +213,7 @@
         "title": "【ゴールデンレトリバーと過ごす日々：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Rablo Gamesは8月6日、ペットシミュレーションゲーム『ゴールデンレトリバーと過ごす日々』の体験版を8月12日に配信すると発表しました。このゲームでは、愛らしいゴールデンレトリバーと共に毎日を過ごすことができ、ペットの面倒を見る楽しさや愛犬との心温まる時間を体験できます。体験版の配信に合わせて、ゲームの世界やシステムについてより詳細な情報が公開されることが予想され、ペットシミュレーションゲ",
+        "description": "Rablo Gamesは8月6日、ペットシミュレーションゲーム『ゴールデンレトリバーと過ごす日々』の体験版を8月12日に配信することを発表しました。このゲームでは、愛らしいゴールデンレトリバーと一緒に生活する様子を体験できます。ペットと過ごす日々の楽しさや、愛犬との絆を感じることができるでしょう。ゲームの詳細や体験版の配信については、公式サイトで確認できます。ペットシミュレーションゲームファンには",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -226,7 +226,7 @@
         "title": "【BIG HOPS：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Luckshot Gamesは8月9日、アクションアドベンチャーゲーム『BIG HOPS』のPC（Steam）版向けに大型アップデートを配信しました。このアップデートにより、プレイヤーは新しい機能やコンテンツを楽しむことができます。アップデートの詳細については、公式サイトやSteamストアページで確認することができます。『BIG HOPS』は、アクションとアドベンチャーを融合させたユニークなゲーム",
+        "description": "Luckshot Gamesは8月9日、アクションアドベンチャーゲーム『BIG HOPS』のPC（Steam）版向けに大型アップデートを配信しました。このアップデートにより、『BIG HOPS』の世界はさらに幅広く深まり、プレイヤーは新しいステージやキャラクターと出会うことになります。新しい機能やバランス調整も行われており、ゲームの楽しさや挑戦性が向上しています。アップデートの詳細については、公式",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,10 +236,23 @@
         "is_translated": false
       },
       {
+        "title": "【Big Walk：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "面白いゲームを生み出してきたHouse Houseの新作「Big Walk」は、8月4日に世界中でローンチされ、高い評価を獲得しています。このCo-opアドベンチャーゲームは、プレイヤーが一緒に冒険することを重視しており、協力して課題をクリアする楽しさが味わえます。House Houseは、以前にも「Untitled Goose Game」をリリースし、プレイヤーから高い評価を受けていました。今回",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169510.html",
+        "date": "2026-08-10",
+        "is_translated": false
+      },
+      {
         "title": "【1998: The Toll Keeper Story：レビュー】",
         "platform": "doope!",
         "type": "review",
-        "description": "「My Lovely」トリロジーで知られるインドネシアのゲーム開発会社「GameChanger Studio」が手がける新作「1998: T」は、昨年10月にリリースされて、高い評価を獲得しているナラティブシミュレーションゲームです。このゲームは、プレイヤーが物語の中で重要な選択をして進めることが特徴で、ストーリーがプレイヤーの選択によって変化していきます。開発におけるユーザーの声やフィードバック",
+        "description": "インドネシアの「GameChanger Studio」は、「My Lovely」トリロジーで有名なゲームスタジオです。このスタジオが開発したナラティブシミュレーションゲーム「1998: T」は、昨年10月にリリースされ、高い評価を獲得しています。このゲームは、プレイヤーがストーリーを進めながら、さまざまな選択を行い、独自の結末を体験できる魅力的な作品です。ゲームの背景は1998年のインドネシアで、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -249,10 +262,36 @@
         "is_translated": false
       },
       {
+        "title": "【1666: Amsterdam：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "1666: Amsterdam の最終版をプレイすることが、私の最終的な目標です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
+        "date": "2026-08-10",
+        "is_translated": true
+      },
+      {
+        "title": "【ノーマンズ・スカイ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Hello Games の創設者は、このゲームに強い関心を持っていると語っています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/sean-murray-still-loves-playing-the-2016-version-of-no-mans-sky-its-a-little-bit-weirder-but-its-got-its-charm/",
+        "date": "2026-08-10",
+        "is_translated": true
+      },
+      {
         "title": "【Unpacking：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "8月9日までの1週間のSteamに関する面白いニュースやトピックをまとめてみました。最新のゲームリリースや注目されるタイトル、ユーザーからのフィードバックなど、Steamコミュニティで話題になっている情報をチェックできます。新しいゲームの登場やアップデート、イベントの開催など、Steamユーザーにとって興味深い情報が盛りだくさんです。",
+        "description": "8月9日までの一週間のSteamにおける興味深いニュースやトレンドをまとめてみました。この週は、新作ゲームのリリースや人気ゲームのアップデート、ユーザーの反響など、様々な面で注目すべき事実が見受けられます。Steamコミュニティでは、ユーザーたちが新しいゲームに熱をあげているほか、長年の人気ゲームでも新しいコンテンツが追加され、プレイヤーを楽しませています。また、Steamのトップセラーには、往年",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,7 +304,7 @@
         "title": "【ディビジョン：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "『ディビジョン リサージェンス』はモバイル向けに開発されており、その特徴が随所に表れています。ゲームのシステムや操作性は、スマートフォンの小さな画面やタッチ操作に最適化されています。たとえば、ゲームのインターフェイスはシンプルで直観的であり、プレイヤーが重要な情報にアクセスしやすいようになっています。また、ゲームのクエストやミッションも、モバイルプレイに適した短いプレイセッションに分割されています",
+        "description": "『ディビジョン リサージェンス』はモバイル向けに作られており、それがその内容からも窺えるものです。ゲームはスマートフォンの小さな画面に最適化されており、操作もタッチパネルに合わせて設計されています。モバイルゲームとしてのデザインは、いつでもどこでも簡単にプレイできるように工夫されており、ユーザーの利便性を重視しています。ゲームのグラフィックやサウンドも、モバイルデバイスの性能を考慮して調整されてお",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -275,49 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "週末、友達から勧められたゲームをプレイしてみたところ、面白さに惊いた。2026年のスリーパーヒットになるかもしれない、このゲームの魅力に迫ってみます。プレイしてみると、ゲームの世界観がとてもユニークで、ストーリーも面白い。操作性も良く、キャラクターのデザインも可愛らしい。ゲームを進めると、難易度が上がり、挑戦する楽しさも味わえる。音楽や効果音も素晴らしく、臨場感がある。ゲームのグラフィックもとても美しく、細かい部分まで作り込まれている。総合的に見ると、2026年のスリーパーヒットになる可能性があるゲームです。",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "About Fishing は、_PSX スタイルのホラー釣りゲームです。有名なアーティストである The Weeknd はこのゲームをとても気に入り、開発者と会うことまでしました。 About Fishing の世界では、プレイヤーは恐怖を感じながら釣りをします。魚を釣るたびに、恐ろしい出来事が起こります。このゲームは、ホラーと釣りの2つの要素を組み合わせて、ユニークな体験を提供します。The",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/about-fishing-game-the-weeknd-recommend/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "Xbox ゲームの中で、50% が 1 つ星のレビューを獲得した作品は、発売初週にもかかわらず、すでに 100 万人のプレイヤーを獲得し、トップのゲームとして人気を博しています。",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『Mistfall Hunter』は、ラグやリージョンロック、スパムボットなどの問題を抱えています。しかし、このゲームは圧倒的に否定的なレビューを耐えることができるでしょうか。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【Look Outside：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Francis Coulombeが手掛けるサバイバルホラーRPG「Look Outside」は、昨年3月にPC向けにローンチされ、高い評価を獲得しました。このゲームは、新たにパブリッシャーDevolver Digitalが最も注目されているタイトルの一つです。開発者のFrancis Coulombeは独学でゲーム開発を学び、このタイトルを手掛けています。Devolver Digitalは、インディ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169465.html",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
         "title": "【アノマリス／ANOMALITH：レビュー】\n【クライムライト／CRYMELIGHT：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "フリューは8月8日、ゲームタイトルの『アノマリス』と『クライムライト』の体験版について、当初の予定より配信期間を延長することを発表しました。この発表により、プレイヤーは予定よりも長い期間、試遊版を遊ぶことができるようになります。",
+        "description": "フリューは8月8日に、ゲーム『アノマリス』と『クライムライト』の体験版について、予定していた配信期間を延長することを発表しました。この発表により、プレイヤーは当初の予定よりも長期間、体験版を楽しむことができるようになります。体験版の拡長は、ゲームに興味を持つプレイヤーにとって朗報です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -330,7 +330,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Team RPS にとって、この1週間は比較的管理しやすく、穏やかなものだったかもしれません。そんなあなたに、生産的な5日間を過ごした自分へのご褒美として、いくつかの新しいPCゲームをご紹介します。もしくは、バーベキューを楽しむのもいいですね。実は、そのようなリラックスした時間を過ごすためのアイテムもあります。",
+        "description": "Team RPSにとって、この1週間は管理しやすく、穏やかなものだった人もいるかもしれません。このような生産的な5日間を終えた自分へのご褒美として、いくつかのPCゲームをご用意しました。あるいは、バーベキューを楽しむのもいいかもしれません。実は、そのようなゆったりした週末を過ごすために、準備しておくべきゲームが幾つかあります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -340,10 +340,10 @@
         "is_translated": true
       },
       {
-        "title": "ゲーム業界では、以前はゲーム機ではなかった機器が、 将来的にはゲーム機として使われる可能性があると言われています。Take-TwoのCEOは、ストリーミング技術がゲーム機のハードウェア価格問題を解決する鍵となり得るとしています。ストリーミング技術により、ゲーム機のハードウェアの高価な部品を必要とせずに、インターネット経由で高品質のゲームをプレイできるようになります。これにより、従来のゲーム機に比べて、より安価で手軽にゲームを楽しむことが可能になります。さらに、ストリーミング技術の進化により、さまざまなデバイスでゲームをプレイできるようになり、ゲーム市場は更に拡大する可能性があります。",
+        "title": "ゲーム機で遊ぶことができなかったマシンが、ストリーミング技術によってゲーム機として機能するようになるだろうと、Take-TwoのCEOは予測しています。ストリーミング技術は、ゲーム機のハードウェア価格が高騰している問題を解決する鍵となり得るというのが彼の見解です。ゲーム機の価格が高騰する問題は、ゲーム愛好家にとって大きな課題です。しかし、ストリーミング技術によって、さまざまなデバイスでゲームが遊べるようになれば、ハードウェアの価格負担が軽減され、より多くの人々がゲームを楽しめるようになることが期待されます。Take-TwoのCEOの予測は、ゲーム業界が今後どう変わっていくのかについて、興味深い示唆を与えています。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ロックスターの親会社テイクツー・インタラクティブのCEOであるストラス・ゼルニック氏は、現在のゲームハードウェアの価格が非常に高額であることを認めつつも、心配する必要はないと語っています。ゼルニック氏によると、近い将来、すべてのゲームがストリーミング経由でプレイできるようになる予定です。",
+        "description": "ロックスターの親会社であるテイクツー・インタラクティブのCEO、ストラス・ゼルニック氏は、現在のゲームハードウェアの価格について「絶対に高額ですが、心配する必要はない」と述べています。将来的には、すべてのゲームをストリーミングサービスを通じてプレイする予定です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -353,10 +353,10 @@
         "is_translated": true
       },
       {
-        "title": "【ゴースト リコン：ワイルドランズ：レビュー】",
+        "title": "【ゴースト リコン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "CIA が思わぬ政権交代前に誤った情報を拡散したように、Ubisoft も次回作の Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、開発チームは新しいゲームの方向性を明らかにしようとしています。 Ghost Recon シリーズのファンは、シリーズの進化に大きな期待を寄せています。Ubisoft は、シリーズの新しい章を紹介するた",
+        "description": "CIA が大胆なクーデターや政権交代の前触れとして誤った情報を流布しているように、Ubisoft も次回作の Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、開発チームは新しい Ghost Recon ゲームの制作に着手しています。ポパ氏は、ファンが待ちに待ったこの新作について、すでに多くの期待が高まっていることを認めています。新",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -369,7 +369,7 @@
         "title": "【栄光のアザーサイド：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG でした。このゲームでは、あなたは悲しみに満ちた刃物とピストルを操るクローンの部隊を指揮し、戦いを進めます。戦術的な思考と、クローンたちを大切にすることの重要性が、Othercide の魅力です。",
+        "description": "Lightbulb Crew の Othercide は、最悪の母親が登場する、XCOM スタイルの戦術 RPG です。このゲームは、悲しみに満ちた刃物やピストルを駆使して戦うクローンの部隊を率いて戦う、ダークな世界観のゲームです。プレイヤーは、強力な敵と戦いながら、クローンの部隊を指揮して勝利を目指します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -379,10 +379,10 @@
         "is_translated": true
       },
       {
-        "title": "【鬼武者: Way of the Sword：レビュー】",
+        "title": "【鬼武者：Way of the Sword：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "先月、私は新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューをプレイしたところ、少し指が痛くなったものの、感銘を受けて帰ってきました。サムライアクションジャンルは人気作品で溢れているですが、『鬼武者: Way of the Sword』は他作品と一線を画する独自の魅力を持っています。このゲームは、スピードと戦略を兼ね備えたアクションシーケンスでプレイヤーを楽し",
+        "description": "先月、新作アクションスラッシャー『鬼武者: Way of the Sword』の拡張プレビューを体験し、感銘を受けて帰ってきました。プレイ時間が長かったため、指が少し痛みましたが、ゲームの内容は非常に面白かったです。サムライアクションジャンルは現在、多くのタイトルでひしめいていますが、『鬼武者: Way of the Sword』は他のゲームとは一線を画す内容です。スリリングなアクションシーンや、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -545,5 +545,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10T12:45:25.316274"
+  "last_updated": "2026-08-11T01:56:39.095407"
 }

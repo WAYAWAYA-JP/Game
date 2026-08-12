@@ -5,13 +5,13 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。このゲームでは、夜のこっそり出かけて新しい友達と出会い、隠された真実を明らかにすることができます。さらに、運命の流れを変える特別な言葉を集めることもできます。ゲームを進めると、様々な選択肢や謎が登場し、プレイヤーはそれらを解決しながら物語を進めていきます。独特の雰囲気と魅力的な世界観が待っています。",
+        "description": "Beacon Pinesは、キュートで不気味な雰囲気を持つアドベンチャーゲームです。このゲームでは、夜の静寂をぬって外に出て、新しい友達と出会い、隠された真実を明らかにすることができます。さらに、運命の流れを変える言葉を集めることもできます。このゲームは、プレイヤーに自由な冒険の楽しみを提供するので、是非挑戦してみてください。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-11"
+        "date": "2026-08-12"
       },
       {
         "title": "We Were Here Together - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-11"
+        "date": "2026-08-12"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-08-11"
+        "date": "2026-08-12"
       },
       {
         "title": "[Steam] Ghost Recon Franchise Bundle ($15 / 90% off)",
@@ -210,10 +210,36 @@
     ],
     "review": [
       {
+        "title": "【Little Kitty, Big City：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "元ValveのベテランであるMatt T. Wood氏が率いるインディーゲームデベロッパー、Double Dagger Studioのデビュー作として、2024年5月にリリースされ、高い評価を獲得した「Little Kitty, Big Trouble」です。このゲームは、ユーザーから高い評価を獲得しており、印象的なデビュー作として注目されています。Double Dagger Studioのデビュ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169536.html",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【Paralives：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "早期アクセスゲームの利点は、ゲームが完成していない部分を見て、「これは正しくない」と指摘できることです。ただし、意見を言ってもらえるためには、正しい意見を述べることが大切です。知ったかぶった態度で、実際とは異なるフィードバックを送ることではなく、建設的な意見を述べることが重要です。そうすれば、ゲームの開発者は、ユーザーの意見を参考にしてゲームを改良することができます。早期アクセスゲームは、ユーザー",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/paralives-latest-update-throws-out-its-wonderfully-awful-homunculi-babies-and-makes-it-so-that-dead-bodies-should-no-longer-litter-the-streets",
+        "date": "2026-08-11",
+        "is_translated": true
+      },
+      {
         "title": "【ゴールデンレトリバーと過ごす日々：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Rablo Gamesは8月6日、ペットシミュレーションゲーム『ゴールデンレトリバーと過ごす日々』の体験版を、8月12日に配信することを発表しました。このゲームでは、愛らしいゴールデンレトリバーと一緒に生活する楽しみを体験できます。プレイヤーは犬の世話や訓練、そしてさまざまなアクティビティを楽しむことができます。体験版の配信により、ファンは早速ゲームの世界に足を踏み入れることができ、その魅力に 満",
+        "description": "Rablo Gamesは8月6日、ペットシミュレーションゲーム『ゴールデンレトリバーと過ごす日々』の体験版を、8月12日に配信すると発表しました。このゲームでは、愛らしいゴールデンレトリバーと一緒に生活を送り、さまざまな体験を楽しむことができます。体験版の配信に伴い、ゲームの魅力に迫ってみるのはいかがでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -223,62 +249,10 @@
         "is_translated": false
       },
       {
-        "title": "【BIG HOPS：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Luckshot Gamesは8月9日、アクションアドベンチャーゲーム『BIG HOPS』のPC（Steam）版向けに大型アップデートを配信しました。このアップデートは、プレイヤーが新しい機能やコンテンツを楽しむことができるように設計されており、アクションアドベンチャーファンにとって非常に魅力的なものです。Luckshot Gamesは、常にユーザーの要望を聞き、ゲームを改善するために努力していま",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260810-459476/",
-        "date": "2026-08-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Big Walk：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "面白いガチョウゲーム「Untitled Goose Game」を生み出したHouse Houseの新作「Big Walk」は、8月4日に世界中で同時にリリースされ、高い評価を獲得しました。このCo-opアドベンチャーゲームは、プレイヤーたちが一緒にさまざまなミッションをこなしていくという、新しいタイプのゲームです。プレイヤーは、協力して課題をクリアし、ストーリーを進めていきます。「Big Walk",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169510.html",
-        "date": "2026-08-10",
-        "is_translated": false
-      },
-      {
-        "title": "【1666: Amsterdam：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "1666: Amsterdam の最終版をプレイすることが私の目標です。最終的な到達点を目指して、ゲームを進めていきたいと思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【ノーマンズ・スカイ：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Hello Games の創設者は、「私はこのゲームに本当に興味があります」と語っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/sean-murray-still-loves-playing-the-2016-version-of-no-mans-sky-its-a-little-bit-weirder-but-its-got-its-charm/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Team RPS には、この1週間が管理しやすく、穏やかな時間であったと感じる人もいるかもしれません。その場合、5日間の生産的なPCゲームプレイを楽しんだ自分へのご褒美として、いくつかのPCゲームを用意しています。，或いはバーベキューを楽しむ人もいるでしょう。実際、そのようなリラックスした時間を過ごすための準備も整えています。",
+        "description": "Team RPS には、この1週間が管理しやすく、穏やかだったと思っている人もいるかもしれません。そのため、生産的な5日間のPCゲームを楽しんだ自分へのご褒美として、いくつかのPCゲームを用意しました。あるいは、バーベキューを楽しむ人もいるでしょう。実は、そのようなプレイヤーに向けて、いくつかの魅力的なPCゲームを紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,10 +262,10 @@
         "is_translated": true
       },
       {
-        "title": "Take-TwoのCEOは、ストリーミング技術がゲーム機のハードウェア価格問題を解決することができると予測しています。以前はゲーム機ではなかった機器も、ストリーミング技術によってゲーム機として利用できるようになる可能性があります。これにより、より多くの人がゲームを楽しむことができ、ゲーム業界は新たな展開を見せるでしょう。ゲーム機の価格が下がったり、ゲームの利用が広がったりすることが期待できます。",
+        "title": "Take-TwoのCEOは、従来ゲーム機ではなかったマシンが、これからゲーム機としての役割を果たすことができるようになるだろうと予測しています。具体的には、ストリーミング技術の進化によって、ハードウェアの価格に関する問題が解決される可能性があるということです。ゲーム機の価格が高騰している問題は、ゲーマーにとって大きなハードルになっているため、このような技術の進歩は業界に大きな変化をもたらす可能性があります。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ロックスターの親会社であるテイクツー・インタラクティブ社のCEO、ストラス・ゼルニック氏は、現在のゲームハードウェアの価格について触れました。彼は、価格が非常に高いことは事実ですが、心配する必要はないと語りました。さらに、ゲームのプレイ方法についても言及し、近い将来にすべてのゲームをストリーミングサービスを通じてプレイする予定であることを明かしました。",
+        "description": "ロックスターの親会社であるテイクツー・インタラクティブ社のCEO、ストラス・ゼルニック氏は、ゲームハードウェアの価格が非常に高いことを認めつつも、心配する必要はないと語っています。ゼルニック氏によると、将来的にはすべてのゲームをストリーミングで遊ぶことができるようになる予定です。そのため、現在のハードウェアの価格については、問題ないという見解を示しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -304,25 +278,12 @@
         "title": "【ゴースト リコン：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "CIA が意図的に誤った情報を流すのと同様に、Ubisoft も次回作の Ghost Recon ゲームについて話し始めています。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、次回作についての情報が明らかになっています。",
+        "description": "CIA が過去に誤った情報を流したように、Ubisoft も新しい Ghost Recon ゲームについて話し始めました。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、次の Ghost Recon ゲームについてはまだ具体的な情報はありませんが、ファンの期待を裏切らないような作品を作るために、様々なアイデアを検討しているようです。Ubisoft は Ghost Recon シリーズを",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/credible-military-storytelling-ubisoft-announce-playtests-for-new-ghost-recon-game-alongside-a-sizeable-wildlands-update-and-a-future-soldier-giveaway",
-        "date": "2026-08-07",
-        "is_translated": true
-      },
-      {
-        "title": "【大虐殺：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Lightbulb Crew の Othercide は、世界で最悪の母親をフィーチャーした、XCOM スタイルの戦術 RPG であり、プレイヤーは悲しみに満ちた刃物とピストルを揮うクローンの部隊を指揮します。暗い雰囲気と緊張感溢れる戦闘が特徴で、戦略的な思考と迅速な判断が求められます。クローンの部隊を率いて、様々な敵と戦いながら、母親の黒い過去を解き明かしていきます。戦術的な深みと物語の重厚さが",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-makers-of-the-glorious-othercide-have-another-tactics-rpg-bloodbath-out-in-september-with-a-playtest-live-now",
         "date": "2026-08-07",
         "is_translated": true
       }
@@ -480,5 +441,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11T12:41:24.682101"
+  "last_updated": "2026-08-12T02:09:06.364926"
 }

@@ -5,7 +5,7 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味な雰囲気を持つアドベンチャーゲームです。このゲームでは、夜の静寂をぬって外に出て、新しい友達と出会い、隠された真実を明らかにすることができます。さらに、運命の流れを変える言葉を集めることもできます。このゲームは、プレイヤーに自由な冒険の楽しみを提供するので、是非挑戦してみてください。",
+        "description": "Beacon Pinesは、不気味な雰囲気を漂わせながらもキュートなアドベンチャーゲームです。このゲームでは、夜の静寂を裂いて新しい友達と出会い、隠された真実を明らかにすることにより、運命の流れを変える言葉を集めることができます。ゲームを進めると、プレイヤーは言葉の力に気づき、物語を形作り変えることができます。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -210,23 +210,23 @@
     ],
     "review": [
       {
-        "title": "【Little Kitty, Big City：レビュー】",
-        "platform": "doope!",
+        "title": "【Phantom Blade Zero：レビュー】",
+        "platform": "Polygon",
         "type": "review",
-        "description": "元ValveのベテランであるMatt T. Wood氏が率いるインディーゲームデベロッパー、Double Dagger Studioのデビュー作として、2024年5月にリリースされ、高い評価を獲得した「Little Kitty, Big Trouble」です。このゲームは、ユーザーから高い評価を獲得しており、印象的なデビュー作として注目されています。Double Dagger Studioのデビュ",
+        "description": "予約注文トレーラーでは、Phantom Blade Zero の発売詳細が明らかになり、ゲームプレイの広範なプレビューが特徴です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08169536.html",
-        "date": "2026-08-11",
-        "is_translated": false
+        "url": "https://www.polygon.com/phantom-blade-zero-trailer-state-of-play-announcement/",
+        "date": "2026-08-12",
+        "is_translated": true
       },
       {
         "title": "【Paralives：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "早期アクセスゲームの利点は、ゲームが完成していない部分を見て、「これは正しくない」と指摘できることです。ただし、意見を言ってもらえるためには、正しい意見を述べることが大切です。知ったかぶった態度で、実際とは異なるフィードバックを送ることではなく、建設的な意見を述べることが重要です。そうすれば、ゲームの開発者は、ユーザーの意見を参考にしてゲームを改良することができます。早期アクセスゲームは、ユーザー",
+        "description": "早期アクセスゲームでは、ゲームの開発途中でのプレイが可能で、ファンキーな要素を見つけたときに「これは間違っている」と指摘することができます。ただし、実際のゲーム開発とは関係のない、イライラするような指摘は避けるべきです。ゲームに対するフィードバックを送る際には、正確で建設的な意見を提供することが重要です。そうすることで、ゲームの質を向上させることができます。早期アクセスゲームの利点は、ゲーム開発の",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -236,55 +236,16 @@
         "is_translated": true
       },
       {
-        "title": "【ゴールデンレトリバーと過ごす日々：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Rablo Gamesは8月6日、ペットシミュレーションゲーム『ゴールデンレトリバーと過ごす日々』の体験版を、8月12日に配信すると発表しました。このゲームでは、愛らしいゴールデンレトリバーと一緒に生活を送り、さまざまな体験を楽しむことができます。体験版の配信に伴い、ゲームの魅力に迫ってみるのはいかがでしょうか。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260810-459523/",
-        "date": "2026-08-10",
-        "is_translated": false
-      },
-      {
         "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Team RPS には、この1週間が管理しやすく、穏やかだったと思っている人もいるかもしれません。そのため、生産的な5日間のPCゲームを楽しんだ自分へのご褒美として、いくつかのPCゲームを用意しました。あるいは、バーベキューを楽しむ人もいるでしょう。実は、そのようなプレイヤーに向けて、いくつかの魅力的なPCゲームを紹介します。",
+        "description": "Team RPS にとって、この 1 週間は管理しやすく、穏やかだったという人もいるかもしれません。この週は、生産的な 5 日間を終えた自分へのご褒美として、いくつかの新しい PC ゲームを楽しむ計画です。あるいは、バーベキューを楽しむのもいいかもしれません。実は、そのソウルシリーズの新作も登場しているので、多くの選択肢があります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-394",
         "date": "2026-08-08",
-        "is_translated": true
-      },
-      {
-        "title": "Take-TwoのCEOは、従来ゲーム機ではなかったマシンが、これからゲーム機としての役割を果たすことができるようになるだろうと予測しています。具体的には、ストリーミング技術の進化によって、ハードウェアの価格に関する問題が解決される可能性があるということです。ゲーム機の価格が高騰している問題は、ゲーマーにとって大きなハードルになっているため、このような技術の進歩は業界に大きな変化をもたらす可能性があります。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ロックスターの親会社であるテイクツー・インタラクティブ社のCEO、ストラス・ゼルニック氏は、ゲームハードウェアの価格が非常に高いことを認めつつも、心配する必要はないと語っています。ゼルニック氏によると、将来的にはすべてのゲームをストリーミングで遊ぶことができるようになる予定です。そのため、現在のハードウェアの価格については、問題ないという見解を示しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/machines-that-werent-game-machines-before-will-become-game-machines-take-two-ceo-predicts-that-streaming-will-help-fix-the-industrys-hardware-pricing-problem",
-        "date": "2026-08-07",
-        "is_translated": true
-      },
-      {
-        "title": "【ゴースト リコン：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "CIA が過去に誤った情報を流したように、Ubisoft も新しい Ghost Recon ゲームについて話し始めました。ライブプロデューサーのイリーナ・ガブリエラ・ポパ氏によると、次の Ghost Recon ゲームについてはまだ具体的な情報はありませんが、ファンの期待を裏切らないような作品を作るために、様々なアイデアを検討しているようです。Ubisoft は Ghost Recon シリーズを",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/credible-military-storytelling-ubisoft-announce-playtests-for-new-ghost-recon-game-alongside-a-sizeable-wildlands-update-and-a-future-soldier-giveaway",
-        "date": "2026-08-07",
         "is_translated": true
       }
     ],
@@ -441,5 +402,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T02:09:06.364926"
+  "last_updated": "2026-08-12T12:44:25.496939"
 }

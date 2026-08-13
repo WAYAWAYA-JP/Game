@@ -5,7 +5,7 @@
         "title": "Beacon Pines - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味な雰囲気を持つアドベンチャーゲームです。このゲームでは、夜の静寂を抜け出して新しい友達を作り、隠された真実を明らかにし、運命の流れを変える言葉を集めることができます。プレイヤーは、物語の重要な瞬間に干渉することができ、言葉の力で世界を変えることができます。ゲームの世界は、不気味な雰囲気とキュートなキャラクターが共存するユニークなもので、プレイヤーを引き込む魅力的なストーリーが用意されています。",
+        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。夜の静寂の中でこっそり外出し、新しい友達と出会い、隠された真実を明らかにしていきます。而えて集めるべき言葉は、運命の流れを変える力を持っています。",
         "price": "無料",
         "originalPrice": "¥1,980",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Signal Bundle スチームで6本のゲームがセット",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "ベネズエラ支援バンドル",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-13"
+      },
       {
         "title": "Venezuela Bundle PCゲーム集",
         "platform": "Humble Bundle",
@@ -182,33 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-01"
-      },
-      {
-        "title": "SOEDESCO Publishing Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-07-31"
-      },
-      {
-        "title": "難関ゲームをプレイしよう ゲッティングオーバーアイト、スプロディ、ネバーギブアップ、GRIME、ジャンプキングなど",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "収録: Your Friends、Splodey、Never Give Up",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-07-31"
       }
     ],
     "review": [
+      {
+        "title": "【Agefield High: Rock the School：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アメリカの高校生活を舞台にしたオープンワールドゲームというユニークなコンセプトで話題になっていたこの作品ですが、現在のSteamユーザーレビューでは「やや不評」という評価が付き、厳しい評価に直面しているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260813-460066/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
       {
         "title": "【ビッグウォーク：レビュー】",
         "platform": "PC Gamer",
@@ -239,7 +252,7 @@
         "title": "【Paralives：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "早期アクセスゲームの利点は、ファンキーな要素を見つけることができ、それについて「これは間違っている」と指摘できることです。しかし、実際は正しいのに、誤ったフィードバックを行う、イライラするような知ったかぶりでない限りは、そのような意見は歓迎されます。",
+        "description": "早期アクセスゲームでは、ファンキーなものを見て、「それは正しくない」と言うことができるのが大きな利点です。ただし、それが正しい場合に限ります。実際とは異なるフィードバックを行うイライラする知ったかぶりでない限りは、こうしたアプローチは非常に効果的です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -402,5 +415,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T02:11:01.839171"
+  "last_updated": "2026-08-13T12:45:41.509534"
 }

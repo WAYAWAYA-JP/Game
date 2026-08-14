@@ -2,31 +2,43 @@
   "pc": {
     "free": [
       {
-        "title": "Beacon Pines - Epic Games 無料配布中",
+        "title": "Caravan SandWitch - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Beacon Pinesは、キュートで不気味なアドベンチャーゲームです。夜の静寂の中でこっそり外出し、新しい友達と出会い、隠された真実を明らかにしていきます。而えて集めるべき言葉は、運命の流れを変える力を持っています。",
+        "description": "奥深い物語が広がるアドベンチャーゲーム『Caravan SandWitch』では、広大な大地を旅しながら様々な冒険が待っています。未知の土地を巡り、出会い、戦い、成長を経験することで、物語の奥深さに迫ることができます。このゲームで、プレイヤーは大地を股にかけ、自由に旅に出ることができます。様々な場所を訪れ、人々と出会い、物語の謎を解き明かしてみてください。",
         "price": "無料",
-        "originalPrice": "¥1,980",
+        "originalPrice": "¥2,950",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "We Were Here Together - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "凍った荒地を探索している中、再び不運が訪れた。猛烈な吹雪の中、緊急照明弾の光が空に照らされ、無線からは壊れて死にそうな泣き声が聞こえてくる…誰も彼らを助けに来ることはできない。だが、一緒に…戻ることはできるのだろうか？",
-        "price": "無料",
-        "originalPrice": "¥1,260",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-13"
+        "date": "2026-08-14"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] The Judgment Collection ($25.05USD/73% Off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Build Your Own Titanium Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-14"
+      },
       {
         "title": "Signal Bundle スチームで6本のゲームがセット",
         "platform": "Steam",
@@ -182,38 +194,27 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-02"
-      },
-      {
-        "title": "Dungeons & Dragons: Classics Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Dungeons & Dragons クラシックス コレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-01"
       }
     ],
     "review": [
       {
+        "title": "【Caravan SandWitch：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Epic Gamesストアでは、面白いゲーム『Caravan SandWitch』が現在無料で配布されています。気になるゲーマーは、8月21日午前0時までにダウンロードすることができます。この機会に、こちらのゲームをプレイしてみてはいかがでしょうか。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/caravan-sandwitch-20260813-460099/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
+      {
         "title": "【Agefield High: Rock the School：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "アメリカの高校生活を舞台にしたオープンワールドゲームというユニークなコンセプトで話題になっていたこの作品ですが、現在のSteamユーザーレビューでは「やや不評」という評価が付き、厳しい評価に直面しているようです。",
+        "description": "アメリカの高校生活を舞台にしたオープンワールドゲームというユニークなコンセプトで話題を集めていたこの作品ですが、Steamユーザーのレビューでは現在「やや不評」という評価を受けており、厳しい評価に直面しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -221,6 +222,19 @@
         "url": "https://automaton-media.com/articles/newsjp/20260813-460066/",
         "date": "2026-08-13",
         "is_translated": false
+      },
+      {
+        "title": "【Sandustry：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今月は砂遊びが特に楽しみな月です。文字通りサンドボックスゲームと言えるSandcastleは、今月初めにデモが公開されました。さらに今日、全く違ったアプローチのSandustryがリリースされ、砂遊びの魅力を存分に楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/sandustry-the-factory-game-where-every-single-pixel-is-a-resource-you-can-build-with-is-out-in-early-access",
+        "date": "2026-08-13",
+        "is_translated": true
       },
       {
         "title": "【ビッグウォーク：レビュー】",
@@ -236,23 +250,10 @@
         "is_translated": true
       },
       {
-        "title": "【Marvel Tokon：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "少なくとも状況は好転している。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fighting/marvel-tokons-first-big-pc-patch-has-mostly-fixed-performance-woes-though-it-hasnt-done-much-for-its-steam-reviews/",
-        "date": "2026-08-12",
-        "is_translated": true
-      },
-      {
         "title": "【Paralives：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "早期アクセスゲームでは、ファンキーなものを見て、「それは正しくない」と言うことができるのが大きな利点です。ただし、それが正しい場合に限ります。実際とは異なるフィードバックを行うイライラする知ったかぶりでない限りは、こうしたアプローチは非常に効果的です。",
+        "description": "早期アクセスゲームには、ユーザーが開発中にゲームを遊んで意見を述べることができる利点があります。ユーザーは、ゲームのバランスが取れていない部分を見つけたり、不自然な点があると感じた場合、それを指摘することができます。ただし、ユーザーが不平等な、または不正確なフィードバックを提供する場合、開発チームにとってはイライラすることになるでしょう。開発チームは、ユーザーの意見を参考にしてゲームを改善すること",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -415,5 +416,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13T12:45:41.509534"
+  "last_updated": "2026-08-14T02:09:11.178256"
 }

@@ -5,7 +5,7 @@
         "title": "Caravan SandWitch - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奥深い物語が織りなす冒険アドベンチャー『Caravan SandWitch』では、広大な大地を股にかけ、旅に出ることができます。このゲームでは、プレイヤーは様々な冒険を体験し、物語の奥深さを感じることができます。広大な大地を旅しながら、様々な出会いや挑戦が待っています。『Caravan SandWitch』で、未知の世界を探索し、自分だけの冒険を創造してみませんか。",
+        "description": "奥深い物語が広がる冒険ゲーム『Caravan SandWitch』では、広大な大地を自由に旅することができます。大自然の中を旅しながら、様々な出会いや体験を通じて成長していきます。このゲームでは、プレイヤーが自分のキャラクターを操作して、未知の土地を探索し、秘密を解き明かすことができます。奥深いストーリーや豊かな世界観が魅力的なこのゲームで、プレイヤーは新たな冒険の旅に出ることができます。",
         "price": "無料",
         "originalPrice": "¥2,950",
         "discount": "100% OFF",
@@ -198,10 +198,62 @@
     ],
     "review": [
       {
+        "title": "【生成AI利用ゲーム：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "生成AIのゲーム利用について、プレイヤーが実際にどのような反応を見せているかを分析した研究結果が発表されました。生成AIの利用がどのように受け止められているかという点について、単にその利用自体に焦点を当てるのではなく、生成AIを利用した背景や意図にも注目したレビューが多く見受けられました。このような研究は、ゲームにおける生成AIの役割をより深く理解する上で重要な意味を持つものです。生成AIの活用は",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Stonewards：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始しました。このゲームは、リリース直後から高評価を得る好調なスタートを切っています。開発者は、プレイヤーから多くのフィードバックを集めながら、ゲームの内容を充実させていく予定です。早期アクセス期間中には、新しい機能やコンテンツが追加される予定で、プレイヤーにとって更に楽しい体験ができるようになるでしょ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260815-460327/",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今週は少し静かです、ギャング。RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していません。おそらくスカンジナビアのような、穏やかでない地域にいる、幸運な人たちです。しかし、ゲームは止まることを知らないので、最新のニュースや話題についてはこちらでお楽しみいただけます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
+        "date": "2026-08-15",
+        "is_translated": true
+      },
+      {
+        "title": "【X-MEN：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "2026年のD23では、マーベル・スタジオがジェイク・シュライアー監督による『X-MEN』映画のキャストを発表し、サイクロップス、ストーム、プロフェッサーXの役を誰が演じるかが明らかにされた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/",
+        "date": "2026-08-15",
+        "is_translated": true
+      },
+      {
         "title": "【Sign: 砕冠編：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "猫猫毛工房は8月14日、ファンタジーと都市、そして冒険を融合させたビジュアルノベル『Sign: 砕冠編』の新しい体験版を配信しました。この作品は、ユニークな世界観とストーリーでプレイヤーの心を掴むことが期待できる内容になっています。猫猫毛工房の『Sign: 砕冠編』の体験版を遊んでみることで、ファンタジーと都市、そして冒険が交差する世界に足を踏み入れてみることができます。",
+        "description": "猫猫毛工坊は8月14日、ファンタジーと都市と冒険を融合させたビジュアルノベル『Sign: 砕冠編』の新体験版を配信した。この作品では、ユーザーは新しいストーリーやキャラクターと出会い、ゲームの世界をより深く体験することができる。新体験版では、ゲームの魅力がより一層引き出されることで、ファンタジーと冒険が好きなユーザーには必見の作品となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -211,10 +263,10 @@
         "is_translated": false
       },
       {
-        "title": "【グランド セフト オート IV：レビュー】",
+        "title": "【GTA 4：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "リバティーシティはとても大規模なゲームなので、2回目にもレビューしました。今回のレビューでは、マルチプレイヤーに対する評価に焦点を当てています。リバティーシティは、プレイヤーが自由に活動できる広大な世界を提供し、マルチプレイヤー機能を通じて、友達や他のプレイヤーと協力してMISSIONをクリアしたり、対戦したりすることができます。ゲームのグラフィックやサウンドは、高品質で、臨場感があります。マルチ",
+        "description": "リバティーシティは非常に大規模なゲームなので、2度目のレビューを行いました。これはマルチプレイヤーに焦点を当てたものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -227,7 +279,7 @@
         "title": "【WOW：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "プレイヤーがゲームに参加していないとき、誰がゲームをプレイしているのでしょうか。",
+        "description": "プレーヤーがプレイしていないとき、ゲームの中で誰がプレイしているのでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -240,7 +292,7 @@
         "title": "【フィールズ・オブ・ミストリア：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "これは、ファームシムで見つけられるとは思わなかったレベルのキャラクター造形を備えた、少女アニメのような夢のようなゲームです。",
+        "description": "これは、ファームシムで見つけられるとは思わなかったレベルのキャラクター造作を備えた、少女アニメの夢のような作品です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -276,36 +328,10 @@
         "is_translated": true
       },
       {
-        "title": "【Caravan SandWitch：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Epic Gamesストアでは、人気ゲーム『Caravan SandWitch』の無料配布が開始されました。期間限定のこのキャンペーンは、8月21日午前0時まで実施されます。期間中はEpic Gamesストアで『Caravan SandWitch』を無料でダウンロードできるので、興味のある方はお急ぎください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/caravan-sandwitch-20260813-460099/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Agefield High: Rock the School：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アメリカの高校生活を舞台にしたオープンワールドゲームというユニークなコンセプトで話題になっていたゲームですが、Steamユーザーのレビューは現在「やや不評」となっており、厳しい評価に直面しています。このゲームは、学校生活を自由に体験できるよう設計されており、プレイヤーは様々なキャラクターとの交流や学校行事に参加することができます。しかし、Steamユーザーのレビューでは、ゲームのバグや操作性の悪さ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260813-460066/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今月は砂遊びが充実した月です。文字通りのサンドボックスゲームであるSandcastleが今月初めにデモを公開しました。また、今日には完全に異なるもう1つのSandustryがリリースされました。Sandcastleでは、プレイヤーは自由に砂で城を作ったり、壊したりすることができます。Sandustryでは、プレイヤーは砂を採掘して、さまざまなアイテムを作成することができます。どちらのゲームも、ユー",
+        "description": "今月は砂遊びが充実した月です。文字通りのサンドボックスゲームであるSandcastleが今月初めにデモを受け取り、今日は完全に異なるもう1つのSandustryがリリースされました。サンドボックスゲームファンにはとても兴味深い月になりそうです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -318,7 +344,7 @@
         "title": "【Paralives：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "早期アクセスゲームには、ユーザーが実際にゲームをプレイしてフィードバックを提供できる利点があります。ファンキーなものを見て、「それは正しくない」と言うことができるのです。しかし、ただ単に知ったかぶりで、実際とは異なるフィードバックを行うのではなく、建設的な意見を提供することが重要です。早期アクセスゲームのユーザーは、ゲームの開発プロセスに参加し、ゲームの方向性を決定する上で重要な役割を果たします。",
+        "description": "早期アクセスゲームには、ユーザーがゲームを体験し、「これは間違っている」と指摘できる利点があります。ただし、実際と異なる無駄なフィードバックをしてしまう知ったかぶりなユーザーでない限りは、そのようなフィードバックは開発者にとって非常に役立つものです。早期アクセスゲームのユーザーは、ゲームの開発プロセスに参加し、開発者と共にゲームをより良くすることができます。彼らは、新しい機能やアイデアを提案したり",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -445,5 +471,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T01:22:52.572777"
+  "last_updated": "2026-08-15T12:18:54.783502"
 }

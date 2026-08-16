@@ -5,13 +5,13 @@
         "title": "Caravan SandWitch - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奥深い物語が広がる冒険ゲーム『Caravan SandWitch』では、広大な大地を自由に旅することができます。大自然の中を旅しながら、様々な出会いや体験を通じて成長していきます。このゲームでは、プレイヤーが自分のキャラクターを操作して、未知の土地を探索し、秘密を解き明かすことができます。奥深いストーリーや豊かな世界観が魅力的なこのゲームで、プレイヤーは新たな冒険の旅に出ることができます。",
+        "description": "奥深い物語が広がる冒険ゲーム『Caravan SandWitch』で、広大な大地を旅する冒険に参加してみませんか。様々なキャラクターとの出会いや、壮大な風景の中での探索が待っています。",
         "price": "無料",
         "originalPrice": "¥2,950",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       }
     ],
     "bundle": [
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
+        "date": "2026-08-16"
       },
       {
         "title": "Build Your Own Titanium Bundle",
@@ -182,26 +182,14 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-03"
-      },
-      {
-        "title": "Build Your Own Power Picks Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-02"
       }
     ],
     "review": [
       {
-        "title": "【生成AI利用ゲーム：レビュー】",
+        "title": "【なし：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "生成AIのゲーム利用について、プレイヤーが実際にどのような反応を見せているかを分析した研究結果が発表されました。生成AIの利用がどのように受け止められているかという点について、単にその利用自体に焦点を当てるのではなく、生成AIを利用した背景や意図にも注目したレビューが多く見受けられました。このような研究は、ゲームにおける生成AIの役割をより深く理解する上で重要な意味を持つものです。生成AIの活用は",
+        "description": "生成AIのゲーム利用について、プレイヤーが実際にどのような反応を見せているかを分析した研究結果が発表されました。この研究では、生成AIの利用自体だけでなく、利用した背景や意図にも焦点が当てられています。レビューの多くは、生成AIの利用に至った理由や目的、さらにそれらの影響について考察したものでした。生成AIのゲーム利用が、プレイヤーにどのような影響を与えているのかを知ることができるこの研究結果は、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -214,7 +202,7 @@
         "title": "【Stonewards：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始しました。このゲームは、リリース直後から高評価を得る好調なスタートを切っています。開発者は、プレイヤーから多くのフィードバックを集めながら、ゲームの内容を充実させていく予定です。早期アクセス期間中には、新しい機能やコンテンツが追加される予定で、プレイヤーにとって更に楽しい体験ができるようになるでしょ",
+        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始し、大きな人気を集めることに成功した。この新作は、リリース直後から高い評価を獲得し、好調なスタートを切り抜けた。ゲームファンからの反応は非常に良好で、プレイヤーは本作の魅力的な世界観や奥深いゲームプレイに熱くなることが予想される。早期アクセス配信ということで、開発はまだ進行中だが、すでに多くのゲーマ",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -224,10 +212,36 @@
         "is_translated": false
       },
       {
+        "title": "【ラスト・オブ・アス：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ペドロ・パスカルは、ホアキン・フェニックスのような複雑なキャラクターを演じることで、素晴らしい仕事をしました。彼の演技は、観客を引きつけて、物語の核心に迫らせる力があります。『ジョーカー』のような映画では、主演のホアキン・フェニックスに匹敵する存在感を示し、共演者としての役割を完全に演じきっています。ペドロ・パスカルは、演技の幅を広げ、様々なキャラクターに命を吹き込み、観客の心を掴む才能を持ってい",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/matthew-mcconaughey-could-have-played-joel-in-the-last-of-us-but-says-it-just-wasnt-for-me-at-the-time/",
+        "date": "2026-08-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Slay the Spire 2：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『Slay the Spire 2』は、3 月に早期アクセスを開始して以来、着実なペースで進んでいます。開発者の Mega Crit は、5 月にアップデートの頻度が 2 週間に 1 回に切り替わることを発表しました。このゲームは、プレイヤーを引きつける新しい要素を次々と追加しながら、ゲームの世界をより豊かにしてきました。早期アクセス開始以来、開発者はコミュニティのフィードバックを積極的に取り入れ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
+        "date": "2026-08-15",
+        "is_translated": true
+      },
+      {
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週は少し静かです、ギャング。RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していません。おそらくスカンジナビアのような、穏やかでない地域にいる、幸運な人たちです。しかし、ゲームは止まることを知らないので、最新のニュースや話題についてはこちらでお楽しみいただけます。",
+        "description": "今週は少し静かな週ですね、ギャング。RPS チームの半数は休暇中、または病気で不在です。また、スカンジナビアのような穏やかな地域で開催されるプレビュー イベントに参加している人もいます。しかし、ゲームの世界はいつもと変わらず活気に満ちています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -237,23 +251,10 @@
         "is_translated": true
       },
       {
-        "title": "【X-MEN：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "2026年のD23では、マーベル・スタジオがジェイク・シュライアー監督による『X-MEN』映画のキャストを発表し、サイクロップス、ストーム、プロフェッサーXの役を誰が演じるかが明らかにされた。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/",
-        "date": "2026-08-15",
-        "is_translated": true
-      },
-      {
         "title": "【Sign: 砕冠編：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "猫猫毛工坊は8月14日、ファンタジーと都市と冒険を融合させたビジュアルノベル『Sign: 砕冠編』の新体験版を配信した。この作品では、ユーザーは新しいストーリーやキャラクターと出会い、ゲームの世界をより深く体験することができる。新体験版では、ゲームの魅力がより一層引き出されることで、ファンタジーと冒険が好きなユーザーには必見の作品となっている。",
+        "description": "猫猫毛工坊は8月14日、ファンタジーと都市と冒険を融合させたビジュアルノベル『Sign: 砕冠編』の新体験版を配信しました。この作品は、ユーザーに新たな物語の世界を体験させることができます。ファンタジーな世界観と都市の融合が特徴的で、ユーザーに新しい冒険の感覚を提供することを目指しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -263,10 +264,10 @@
         "is_translated": false
       },
       {
-        "title": "【GTA 4：レビュー】",
+        "title": "【グランド セフト オート IV：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "リバティーシティは非常に大規模なゲームなので、2度目のレビューを行いました。これはマルチプレイヤーに焦点を当てたものです。",
+        "description": "リバティーシティは、非常に大規模なゲームであるため、2回レビューを行いました。今回はマルチプレイヤーモードに焦点を当てています。リバティーシティは、プレイヤーが自由に活動できる広大な世界を提供し、多くのユーザーが同時にプレイすることができます。マルチプレイヤーモードでは、プレイヤーは他のユーザーと協力してミッションを遂行したり、対戦モードで競争したりすることができます。リバティーシティの世界は、詳",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -279,7 +280,7 @@
         "title": "【WOW：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "プレーヤーがプレイしていないとき、ゲームの中で誰がプレイしているのでしょうか。",
+        "description": "プレイヤーがプレーしていないとき、誰がゲームを進行させているのでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -292,7 +293,7 @@
         "title": "【フィールズ・オブ・ミストリア：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "これは、ファームシムで見つけられるとは思わなかったレベルのキャラクター造作を備えた、少女アニメの夢のような作品です。",
+        "description": "これは、ファームシムでは見られないレベルのキャラクターライティングを備えた、少女アニメの夢のようなゲームです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -302,7 +303,7 @@
         "is_translated": true
       },
       {
-        "title": "【Marvel Tokon: Fighting Souls：レビュー】",
+        "title": "【Marvel Tkon: Fighting Souls：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
         "description": "PC Gamerによるレビュー記事。",
@@ -315,42 +316,16 @@
         "is_translated": true
       },
       {
-        "title": "【GameSir T7 Pro Sugar Whirl：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "それほど甘いお菓子ではありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/game-pads/gamesir-t7-pro-sugar-whirl-review/",
-        "date": "2026-08-14",
-        "is_translated": true
-      },
-      {
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今月は砂遊びが充実した月です。文字通りのサンドボックスゲームであるSandcastleが今月初めにデモを受け取り、今日は完全に異なるもう1つのSandustryがリリースされました。サンドボックスゲームファンにはとても兴味深い月になりそうです。",
+        "description": "今月は砂遊びが充実した月です。文字通りのサンドボックスゲームであるSandcastleが今月初めにデモを受け取りました。さらに今日、全く異なる新しいサンドボックスゲームのSandustryがリリースされました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/sandustry-the-factory-game-where-every-single-pixel-is-a-resource-you-can-build-with-is-out-in-early-access",
         "date": "2026-08-13",
-        "is_translated": true
-      },
-      {
-        "title": "【Paralives：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "早期アクセスゲームには、ユーザーがゲームを体験し、「これは間違っている」と指摘できる利点があります。ただし、実際と異なる無駄なフィードバックをしてしまう知ったかぶりなユーザーでない限りは、そのようなフィードバックは開発者にとって非常に役立つものです。早期アクセスゲームのユーザーは、ゲームの開発プロセスに参加し、開発者と共にゲームをより良くすることができます。彼らは、新しい機能やアイデアを提案したり",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/paralives-latest-update-throws-out-its-wonderfully-awful-homunculi-babies-and-makes-it-so-that-dead-bodies-should-no-longer-litter-the-streets",
-        "date": "2026-08-11",
         "is_translated": true
       }
     ],
@@ -471,5 +446,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T12:18:54.783502"
+  "last_updated": "2026-08-16T01:27:57.863548"
 }

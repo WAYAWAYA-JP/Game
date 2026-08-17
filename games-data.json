@@ -5,16 +5,28 @@
         "title": "Caravan SandWitch - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奥深い物語が織りなすアドベンチャーゲーム『Caravan SandWitch』で、広大な大地を旅しながら新たな冒険に出会いましょう。",
+        "description": "奥深い物語が広がる冒険アドベンチャーゲーム『Caravan SandWitch』。このゲームでは、広大な大地を旅しながら様々な出会いと別れ、そして冒険が待っています。豊かな世界観とキャラクターに溢れたこのゲームで、プレイヤーは自分だけの物語を紡いでいくことができます。ゲームの世界は、多彩な文化や風景が織り成す大陸が舞台となっています。様々な人々との出会いや交流を通じて、プレイヤーは世界の秘密に迫っていくことができます。『Caravan SandWitch』では、自由に旅を続けながら、自分だけの冒険を体験することができます。",
         "price": "無料",
         "originalPrice": "¥2,950",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-16"
+        "date": "2026-08-17"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Kairosoft Bundle (82% off/ $108.72)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-17"
+      },
       {
         "title": "[Steam] The Judgment Collection ($25.05USD/73% Off)",
         "platform": "Steam",
@@ -170,26 +182,27 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-06"
-      },
-      {
-        "title": "Dungeons & Dragons クラシックコレクション",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-03"
       }
     ],
     "review": [
       {
+        "title": "【TCG Card Shop Simulator：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マレーシアで活動するインディースタジオO.P.Neon Gamesが手がける新作は、2024年9月にSteam Early Accessでリリースされ、非常に高い評価を獲得しています。このゲームは、トレーディングカードショップを経営するシミュレーションゲームです。プレイヤーは、店を運営し、カードを収集・売買しながら、店を成長させていきます。このゲームは、トレーディングカードゲームのファンや、シミュ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169687.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
         "title": "【龍が如く７外伝：レビュー】\n【JUDGE EYES：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamでは先週、多くのゲームがセールに突入しました。本稿ではその中で特に割引率の高いタイトルをピックアップして紹介します。",
+        "description": "この1週間でSteamでセールが始まったゲームの中から、特に割引率の高いタイトルをピックアップして紹介します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -199,10 +212,36 @@
         "is_translated": false
       },
       {
+        "title": "【ディアブロ：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "伝説的なゲームデザイナーが、PCで遊べるゲームについてガイドしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/david-brevik-creator-of-diablo-reveals-the-worst-ending-to-any-game-hes-played-but-i-really-love-the-game-its-amazing/",
+        "date": "2026-08-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Iron Nest：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "賢さを利用して敵を見つけ、射撃の解決策を綿密に計画します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/iron-nest-is-the-best-battleship-game-ive-played-in-years-and-it-doesnt-even-have-boats/",
+        "date": "2026-08-16",
+        "is_translated": true
+      },
+      {
         "title": "Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "生成AIのゲーム利用について、プレイヤーが実際にどう反応しているのかを分析した研究結果が発表されました。分析対象となったレビューでは、生成AIそのものの利用についてではなく、利用の背景や意図に焦点を当てたものも多く見受けられました。生成AIの利用がゲームにおける新たな可能性を開拓する一方で、プレイヤーの中には生成AIの利用に懐疑的な声もあるようです。生成AIの利用がゲームの魅力を高めるものになるか",
+        "description": "生成AIのゲーム利用について、プレイヤーたちの反応が実際にどのような傾向にあるかを分析した研究結果が発表されました。この研究では、プレイヤーたちが生成AIの「利用」自体よりも、生成AIを利用した背景や意図に注目していることが多かったようです。生成AIの利用に関するプレイヤーの反応は、単純に利用しているかどうかだけではなく、利用した理由や状況なども含めて分析することが重要です。生成AIのゲーム利用に",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -215,7 +254,7 @@
         "title": "【Stonewards：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始した。この新作は早速高い評価を獲得し、好調なスタートを切りました。",
+        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始した。このタイトルはリリース直後から高評価を集め、好調な滑り出しを切り開いている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -228,7 +267,7 @@
         "title": "【ラスト・オブ・アス：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ペドロ・パスカルは素晴らしい仕事をしましたが、それは誰でもわかることです。彼は『ゲーム・オブ・スローンズ』のオベリン・マルテルや『ナルコス』のハビエル・ペーニャなど、様々な役割を演じています。特に、スター・ウォーズの『マンダロリアン』では、タイトル・キャラクターを演じて、ファンの間で大きな注目を集めています。彼の演技は、キャラクターを深みと複雑さを持たせ、観客を魅了します。ペドロ・パスカルは、ハリ",
+        "description": "ペドロ・パスカルは、ゲームの世界に新風をもたらしました。彼が果たした役割は、ゲームをより魅力的にする鍵となりました。ペドロ・パスカルは、ゲームの物語を深めるために重要な役割を果たし、ゲームをより本格的に楽しめるようになりました。ゲームのファンは、ペドロ・パスカルの仕事を高く評価しています。彼の才能は、ゲームの世界に新しい発展をもたらしました。ゲームを愛する人々は、ペドロ・パスカルの仕事に感謝してい",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -241,7 +280,7 @@
         "title": "【Slay the Spire 2：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Slay the Spire 2』は3月に早期アクセスを開始して以来、着実なペースで進んでいます。5月には、開発者のMega Critが、以降のアップデートを2週間に1回に行うことを発表しました。この変更により、開発チームはより集中してゲームの改善に取り組むことができ、プレイヤーにはより短いサイクルで新しい機能やバグフィックスが提供されることになります。早期アクセス期间、開発チームはプレイヤーの",
+        "description": "『Slay the Spire 2』は3月に早期アクセスを開始して以来、着実なペースで進んでいます。開発者のMega Critによると、5月からはアップデートの頻度が2週間に1回に変更になりました。このような開発の進捗状況は、ファンやプレイヤーにとって大きな期待を抱かせます。ゲームの進化に合わせて、新しい機能やコンテンツが追加され、プレイの深みや楽しみが増すことが予想されます。早期アクセスの開始以",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -254,7 +293,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週は少し静かな様子です。RPS チームの半数は休暇中、病気療養中、またはプレビュー イベントに参加中です。残りのメンバーも、スカンジナビアのような穏やかな環境ではなく、忙しい日々を送っています。しかし、ゲームの世界は絶えず動いており、様々なニュースや情報が飛び交っています。",
+        "description": "今週は少し静かな週になりそうです。RPS チームの半数は休暇中、または病気で出席できないようです。また、スカンジナビアのような穏やかな地域ではなく、プレビュー イベントに参加している人もいます。ただし、ゲームはいつもと変わらず活気に満ちています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -267,7 +306,7 @@
         "title": "【Sign: 砕冠編：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "猫猫毛工房は8月14日、ビジュアルノベル『Sign: 砕冠編』の新体験版を配信しました。本作は、ファンタジーと都市と冒険を融合させた、ユニークな世界を描く作品です。プレイヤーは、物語を進めながら、都市の秘密を解き明かし、冒険の楽しみを感じることができます。本作の新体験版では、より詳細なストーリーやキャラクター設定が追加されており、プレイヤーはより深い世界観に没頭することができます。ファンタジーと冒",
+        "description": "猫猫毛工坊は8月14日、『Sign: 砕冠編』の新体験版を配信した。ファンタジーと都市、そして冒険を融合させたビジュアルノベル作品で、ユーザーは新しいストーリーやキャラクターと出会うことができる。ゲームの世界観やゲーム性を感じることができる本体験版は、ファンタジーと都市の独特な雰囲気を楽しむことができる。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -277,10 +316,10 @@
         "is_translated": false
       },
       {
-        "title": "【GTA 4：レビュー】",
+        "title": "【グランド セフト オート IV：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "リバティーシティは、その巨大な规模のため、2回もレビューしています。今回はマルチプレイヤーの側面に焦点を当ててみました。リバティーシティは、プレイヤーが自由に活動できる広大な世界を提供し、多くのプレーヤーが同時にプレイできます。ゲーム内のさまざまなミッションやクエストを他のプレーヤーと協力してクリアすることも可能です。また、プレイヤー同士で対戦することもでき、リバティーシティの世界では常に何かが起",
+        "description": "リバティーシティは、巨大な都市を舞台に繰り広げられるゲームです。都市があまりに広大なことから、2回にわたってレビューしています。今回紹介するのは、マルチプレイヤー機能です。リバティーシティの世界では、多くのプレイヤーが集まって楽しく遊べます。都市の中で様々なアクティビティに参加したり、他のプレイヤーと交流したりすることができます。都市の自由を感じながら、友達と共にリバティーシティを満喫することがで",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -293,7 +332,7 @@
         "title": "【WOW：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "プレイヤーがプレイしていないときに、誰がゲームをプレイしているのでしょうか。",
+        "description": "プレーヤーがプレーしていないとき、誰がゲームをプレイしているのでしょうか。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,23 +342,10 @@
         "is_translated": true
       },
       {
-        "title": "【フィールズ・オブ・ミストリア：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "これは、ファームシムでは見られないレベルのキャラクター造形を備えた、少女アニメの夢のような世界です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-review/",
-        "date": "2026-08-14",
-        "is_translated": true
-      },
-      {
         "title": "【Sandustry：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今月は砂遊びが充実した月です。文字通りのサンドボックスゲームであるSandcastleは、今月初めにデモが配布されました。さらに今日、全く異なる新しいサンドボックスゲームのSandustryがリリースされました。",
+        "description": "今月は砂遊びが満喫できる月です。文字通りのサンドボックスゲームであるSandcastleは、今月初めにデモが公開されました。また、今日ではまったく異なるもう1つのSandustryがリリースされました。どちらもユーザーが自由に作り上げる楽しさを提供するゲームであり、プレーヤーには新たな体験が待っています。Sandcastleは、デモ版からความค期待を高めてきましたが、Sandustryは今月の",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -446,5 +472,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-16T12:19:34.154727"
+  "last_updated": "2026-08-17T01:25:10.287623"
 }

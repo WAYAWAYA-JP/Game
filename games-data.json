@@ -5,7 +5,7 @@
         "title": "Caravan SandWitch - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奥深い物語が広がる冒険アドベンチャーゲーム『Caravan SandWitch』。このゲームでは、広大な大地を旅しながら様々な出会いと別れ、そして冒険が待っています。豊かな世界観とキャラクターに溢れたこのゲームで、プレイヤーは自分だけの物語を紡いでいくことができます。ゲームの世界は、多彩な文化や風景が織り成す大陸が舞台となっています。様々な人々との出会いや交流を通じて、プレイヤーは世界の秘密に迫っていくことができます。『Caravan SandWitch』では、自由に旅を続けながら、自分だけの冒険を体験することができます。",
+        "description": "奥深い物語が織りなす冒険アドベンチャー『Caravan SandWitch』で広大な大地を股にかけ旅に出よう。",
         "price": "無料",
         "originalPrice": "¥2,950",
         "discount": "100% OFF",
@@ -186,10 +186,36 @@
     ],
     "review": [
       {
-        "title": "【TCG Card Shop Simulator：レビュー】",
+        "title": "Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百時間やりこんでの不満、貴重な“熟成辛口レビュー”",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "研究チームは、ゲームを長時間プレイしているにもかかわらず、レビューの中にネガティブな感情を含むプレイヤーが存在することに着目した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260817-460520/",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "人気サイコホラーアドベンチャーの続編「Sally Face 2」が正式アナウンス、発売10周年を迎えた初代の日本語対応サプライズも",
         "platform": "doope!",
         "type": "review",
-        "description": "マレーシアで活動するインディースタジオO.P.Neon Gamesが手がける新作は、2024年9月にSteam Early Accessでリリースされ、非常に高い評価を獲得しています。このゲームは、トレーディングカードショップを経営するシミュレーションゲームです。プレイヤーは、店を運営し、カードを収集・売買しながら、店を成長させていきます。このゲームは、トレーディングカードゲームのファンや、シミュ",
+        "description": "Steve Gabry氏が10年以上の歳月を費やし、サウンドトラックからアニメーションに到るまで、たった1人で開発を手がけ、極めて高い評価を獲得した傑作サイコホラー・ミステリーアドベンチャー「Sally Face」ですが […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169692.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のPC製品版1.0とコンソール版の発売日が9月15日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マレーシアで活動するインディースタジオO.P.Neon Gamesの新作として、2024年9月にSteam Early Access入りを果たし、非常に高い評価を獲得していた人気トレーディングカードショップ経営シム「TC […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -199,10 +225,36 @@
         "is_translated": false
       },
       {
-        "title": "【龍が如く７外伝：レビュー】\n【JUDGE EYES：レビュー】",
+        "title": "Steam 週間の振り返り: GTA 6 の日にリリースする勇気のある 32 の Steam ゲームをご紹介します",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "8 月 16 日までの週の Steam に関する興味深い事実をまとめました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
+        "date": "2026-08-17",
+        "is_translated": true
+      },
+      {
+        "title": "『ブレードランナー 2099』作者、ハリソン・フォードがプライム・ビデオ番組に出演するかどうかを公式に明らかに",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Polygon は最近、今後の秋のプレビューに向けて『ブレードランナー 2099』のクリエイター兼ショーランナーであるシルカ・ルイーサにインタビューし、彼女がその答えを明らかにしました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blade-runner-2099-harrison-ford/",
+        "date": "2026-08-17",
+        "is_translated": true
+      },
+      {
+        "title": "『龍が如く７外伝』は75％オフで1500円切り。『JUDGE EYES』は745円で買える。高評価フンコロガシピンボール風アクションはわずか205円。今週の高割引率PCゲーム",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "この1週間でSteamでセールが始まったゲームの中から、特に割引率の高いタイトルをピックアップして紹介します。",
+        "description": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -212,10 +264,10 @@
         "is_translated": false
       },
       {
-        "title": "【ディアブロ：レビュー】",
+        "title": "『ディアブロ』の生みの親、デヴィッド・ブレヴィク氏は、これまでプレイしたゲームの「最悪の結末」を明かす：「しかし、私はこのゲームが本当に大好きだ」すごいですね』",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "伝説的なゲームデザイナーが、PCで遊べるゲームについてガイドしています。",
+        "description": "伝説的なゲーム デザイナーが、PC 上のゲームについてガイドします。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -225,7 +277,7 @@
         "is_translated": true
       },
       {
-        "title": "【Iron Nest：レビュー】",
+        "title": "Iron Nest は私がここ数年でプレイした中で最高の「戦艦」ゲームです - しかもボートすらありません",
         "platform": "PC Gamer",
         "type": "review",
         "description": "賢さを利用して敵を見つけ、射撃の解決策を綿密に計画します。",
@@ -241,7 +293,7 @@
         "title": "Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "生成AIのゲーム利用について、プレイヤーたちの反応が実際にどのような傾向にあるかを分析した研究結果が発表されました。この研究では、プレイヤーたちが生成AIの「利用」自体よりも、生成AIを利用した背景や意図に注目していることが多かったようです。生成AIの利用に関するプレイヤーの反応は、単純に利用しているかどうかだけではなく、利用した理由や状況なども含めて分析することが重要です。生成AIのゲーム利用に",
+        "description": "生成AIのゲーム利用について、プレイヤー反応が実際にどのような傾向にあるかを分析した研究が発表された。レビューの中では、“利用”そのものより、生成AIを利用した背景や意図に着目したものも多かったようだ。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -251,10 +303,10 @@
         "is_translated": false
       },
       {
-        "title": "【Stonewards：レビュー】",
+        "title": "最大4人協力・鉱山防衛ローグライトアクション『Stonewards』前評判どおりの好評スタート。防衛の合間にせっせと採掘、休む暇なしドワーフの大群魔物しばき",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始した。このタイトルはリリース直後から高評価を集め、好調な滑り出しを切り開いている。",
+        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始した。本作はさっそく高評価を得る好調なスタートとなっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -264,10 +316,10 @@
         "is_translated": false
       },
       {
-        "title": "【ラスト・オブ・アス：レビュー】",
+        "title": "マシュー・マコノヒーは『ラスト・オブ・アス』でジョエルを演じることもできたが、「当時の私には合わなかった」と語る",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ペドロ・パスカルは、ゲームの世界に新風をもたらしました。彼が果たした役割は、ゲームをより魅力的にする鍵となりました。ペドロ・パスカルは、ゲームの物語を深めるために重要な役割を果たし、ゲームをより本格的に楽しめるようになりました。ゲームのファンは、ペドロ・パスカルの仕事を高く評価しています。彼の才能は、ゲームの世界に新しい発展をもたらしました。ゲームを愛する人々は、ペドロ・パスカルの仕事に感謝してい",
+        "description": "ペドロ・パスカルは素晴らしい仕事をしましたが、それはわかりますか？",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -277,10 +329,10 @@
         "is_translated": true
       },
       {
-        "title": "【Slay the Spire 2：レビュー】",
+        "title": "Slay the Spire 2 のアップデートが再び遅くなりましたが、恐れることはありません。すべては追加モード、代替 Act 2、そして足に包帯を巻いたキャラクターの名の下にあるのです。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『Slay the Spire 2』は3月に早期アクセスを開始して以来、着実なペースで進んでいます。開発者のMega Critによると、5月からはアップデートの頻度が2週間に1回に変更になりました。このような開発の進捗状況は、ファンやプレイヤーにとって大きな期待を抱かせます。ゲームの進化に合わせて、新しい機能やコンテンツが追加され、プレイの深みや楽しみが増すことが予想されます。早期アクセスの開始以",
+        "description": "『Slay the Spire 2』は 3 月に早期アクセスを開始して以来、着実なペースで進んでいますが、5 月に開発者の Mega Crit は、アップデートが 2 週間に 1 回に切り替わると共有しました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -293,7 +345,7 @@
         "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今週は少し静かな週になりそうです。RPS チームの半数は休暇中、または病気で出席できないようです。また、スカンジナビアのような穏やかな地域ではなく、プレビュー イベントに参加している人もいます。ただし、ゲームはいつもと変わらず活気に満ちています。",
+        "description": "今週はちょっと静かですね、ギャング。 RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していない、おそらくスカンジナビアのような世界のそれほど穏やかでない地域にいる、幸運な野郎たちです。ただし、ゲームは、",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,23 +355,10 @@
         "is_translated": true
       },
       {
-        "title": "【Sign: 砕冠編：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "猫猫毛工坊は8月14日、『Sign: 砕冠編』の新体験版を配信した。ファンタジーと都市、そして冒険を融合させたビジュアルノベル作品で、ユーザーは新しいストーリーやキャラクターと出会うことができる。ゲームの世界観やゲーム性を感じることができる本体験版は、ファンタジーと都市の独特な雰囲気を楽しむことができる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sign-20260814-460245/",
-        "date": "2026-08-14",
-        "is_translated": false
-      },
-      {
-        "title": "【グランド セフト オート IV：レビュー】",
+        "title": "グランド セフト オート オンラインの前に、GTA 4 のマルチプレイヤーはオープンワールド サンドボックスに「輝かしいカオス」を追加しました",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "リバティーシティは、巨大な都市を舞台に繰り広げられるゲームです。都市があまりに広大なことから、2回にわたってレビューしています。今回紹介するのは、マルチプレイヤー機能です。リバティーシティの世界では、多くのプレイヤーが集まって楽しく遊べます。都市の中で様々なアクティビティに参加したり、他のプレイヤーと交流したりすることができます。都市の自由を感じながら、友達と共にリバティーシティを満喫することがで",
+        "description": "リバティーシティ、リバティーシティ: あまりに大きいので二度レビューしました。今回はマルチプレイヤーです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -329,23 +368,10 @@
         "is_translated": true
       },
       {
-        "title": "【WOW：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "プレーヤーがプレーしていないとき、誰がゲームをプレイしているのでしょうか。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-haunted-players-report-that-their-disconnected-friends-characters-are-starting-to-play-the-game-on-their-own/",
-        "date": "2026-08-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Sandustry：レビュー】",
+        "title": "Sandustry は、すべてのピクセルが構築可能なリソースであるファクトリー ゲームで、早期アクセスが開始されました。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今月は砂遊びが満喫できる月です。文字通りのサンドボックスゲームであるSandcastleは、今月初めにデモが公開されました。また、今日ではまったく異なるもう1つのSandustryがリリースされました。どちらもユーザーが自由に作り上げる楽しさを提供するゲームであり、プレーヤーには新たな体験が待っています。Sandcastleは、デモ版からความค期待を高めてきましたが、Sandustryは今月の",
+        "description": "砂遊びが充実した月です！文字通りのサンドボックス ゲームである Sandcastle は、今月初めにデモを受け取りました。そして今日、完全に異なるもう 1 つの Sandustry がリリースされました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -472,5 +498,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-17T01:25:10.287623"
+  "last_updated": "2026-08-17T12:23:09.455876"
 }

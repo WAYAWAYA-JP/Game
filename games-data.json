@@ -198,6 +198,32 @@
     ],
     "review": [
       {
+        "title": "ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以上、特定ジャンル250時間以上プレイなどの条件で募る",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲームテストプラットフォームのPlithus（プリダス）が、9月15～16日に開催される新作ゲームのオフラインテストプレイの参加者を募集中だ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/pts-20260818-460667/",
+        "date": "2026-08-18",
+        "is_translated": false
+      },
+      {
+        "title": "お父さんのゲームレビューまとめ",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ゲームはお父さんのためのものです。ビデオ ゲームのおかげで、お父さんはホーム オフィスから離れることなく、ゴルフをしたり、巣箱を作ったり、芝刈りをしたり、釣りに行ったりすることができます。しかし、Powerwash Simulator、Train のようなゲームは何をするのでしょうか",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/video/dad-game-review-round-up/",
+        "date": "2026-08-18",
+        "is_translated": true
+      },
+      {
         "title": "Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百時間やりこんでの不満、貴重な“熟成辛口レビュー”",
         "platform": "AUTOMATON",
         "type": "review",
@@ -263,19 +289,6 @@
         "is_translated": true
       },
       {
-        "title": "『龍が如く７外伝』は75％オフで1500円切り。『JUDGE EYES』は745円で買える。高評価フンコロガシピンボール風アクションはわずか205円。今週の高割引率PCゲーム",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260816-460399/",
-        "date": "2026-08-16",
-        "is_translated": false
-      },
-      {
         "title": "『ディアブロ』の生みの親、デヴィッド・ブレヴィク氏は、これまでプレイしたゲームの「最悪の結末」を明かす：「しかし、私はこのゲームが本当に大好きだ」すごいですね』",
         "platform": "PC Gamer",
         "type": "review",
@@ -302,32 +315,6 @@
         "is_translated": true
       },
       {
-        "title": "Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "生成AIのゲーム利用について、プレイヤー反応が実際にどのような傾向にあるかを分析した研究が発表された。レビューの中では、“利用”そのものより、生成AIを利用した背景や意図に着目したものも多かったようだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "最大4人協力・鉱山防衛ローグライトアクション『Stonewards』前評判どおりの好評スタート。防衛の合間にせっせと採掘、休む暇なしドワーフの大群魔物しばき",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Banana Tiger Studioは8月12日、『Stonewards』の早期アクセス配信を開始した。本作はさっそく高評価を得る好調なスタートとなっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260815-460327/",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
         "title": "Slay the Spire 2 のアップデートが再び遅くなりましたが、恐れることはありません。すべては追加モード、代替 Act 2、そして足に包帯を巻いたキャラクターの名の下にあるのです。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -341,7 +328,7 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "今週はちょっと静かですね、ギャング。 RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していない、おそらくスカンジナビアのような世界のそれほど穏やかでない地域にいる、幸運な野郎たちです。ただし、ゲームは、",
@@ -354,7 +341,7 @@
         "is_translated": true
       },
       {
-        "title": "Sandustry は、すべてのピクセルが構築できるリソースであるファクトリー ゲームで、早期アクセスが開始されました。",
+        "title": "Sandustry は、すべてのピクセルが構築可能なリソースであるファクトリー ゲームで、早期アクセスが開始されました。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "砂遊びが充実した月です！文字通りのサンドボックス ゲームである Sandcastle は、今月初めにデモを受け取りました。そして今日、完全に異なるもう 1 つの Sandustry がリリースされました。",
@@ -368,6 +355,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Humble Store] ウォーハンマー 40,000: スペース マリーン 2 - 70% オフ (£16.49)",
+        "platform": "Humble Bundle",
+        "type": "sale",
+        "description": "Humble Bundleでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "[Steam] ジョスト ($0.60 / 40% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "[STEAM] キャプテン シャークベイト: 宝への航海 (0.49USD / 50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "[Rebellion セール] Sniper Elite: Resistance (コード NOBALLSSAFE で -50% & 15% 追加 | コード付き $21.25 / €21.25 / C$27.62) |蒸気 | 8 月 21 日 00:00 CET に終了 |すべての地域",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "THQ - Gamescom セール - Gothic 1 Remake (€35.10 -29% オフ / £29.90 -28% オフ / $36 -27% オフ)、REANIMAL (€25.50 -36% オフ / £22.90 -34% オフ / $27.90 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-18"
+      },
       {
         "title": "[Steam] Glyphica : タイピング サバイバル - ($6.99/30% オフ)",
         "platform": "Steam",
@@ -484,5 +531,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18T01:21:38.131674"
+  "last_updated": "2026-08-18T12:24:39.072636"
 }

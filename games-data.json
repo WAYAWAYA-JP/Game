@@ -198,6 +198,71 @@
     ],
     "review": [
       {
+        "title": "注目された「怪獣vs人」都市破壊バトル『BeastLink』、不評の目立つ厳しいスタート。開発元は“フレームレート劇的改善パッチ”などで緊急テコ入れ中",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Grove Street Gamesは8月18日、『BeastLink』の早期アクセス配信を開始した。技術的な問題によって多くの不評レビューを集めており、それを受けてさっそく改善パッチが配信された。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260819-461185/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "『超新時空ゲイム ネプテューヌ∞（アンリミテッド）』プレイレポート。11年ぶりの正統続編でも切れ味が衰えていなかった。オタクで良かったと思わせてくれる、いつもの『ネプテューヌ』の味",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『超新時空ゲイム ネプテューヌ∞（アンリミテッド）』の先行プレイレポートをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260819-461105/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "“好評なのに売れてない”と嘆かれた『Arco』、2年越しに10万本到達で無事開発費を回収。「新しさ」に挑んだ隠れた良作、じわじわ実る",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "2024年に発売された『Arco』はメディア、ユーザー共に高い評価を得ながら、売れ行きの面で苦戦していた。しかし、発売から2年が経過した8月19日、販売本数が10万本に達し、開発費を回収できたとのこと。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260819-461131/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "基本プレイ無料『NTE』新キャラ「残虹」はセクシー殺気ムンムンお姉さん（CV井上喜久子さん）。愛するか斬り捨てるかを選べる、自宅に呼べる“元ボスキャラ”とのいびつな関係",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『NTE: Neverness to Everness』にてピックアップ中の「残虹」を先行プレイしてきた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260819-461041/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "ブーリーEP200レビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "予算が限られている場合は、この椅子で十分にカバーできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/boulies-ep200-review/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
         "title": "「GTA 6」のリークにより、象徴的な6つ星の手配レベルシステムが13年ぶりに復活することが判明",
         "platform": "Polygon",
         "type": "review",
@@ -208,32 +273,6 @@
         "deadline": "",
         "url": "https://www.polygon.com/gta-6-leak-wanted-level-six-stars-five-how-does-it-work-cops-tanks/",
         "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以上、特定ジャンル250時間以上プレイなどの条件で募る",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲームテストプラットフォームのPlithus（プリダス）が、9月15～16日に開催される新作ゲームのオフラインテストプレイの参加者を募集中だ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pts-20260818-460667/",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "「GTA 6」ハッカーがロックスターの物議を醸す決定を狙っている",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "最近のグランド・セフト・オート6のゲームプレイとマップのリークは、「ゲーマーの権利のために戦っている」と主張するハッキンググループの仕業である",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-hackers-cyberleek-physical-discs/",
-        "date": "2026-08-18",
         "is_translated": true
       },
       {
@@ -276,7 +315,7 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "今週はちょっと静かですね、ギャング。 RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していない、おそらくスカンジナビアのような世界のそれほど穏やかでない地域にいる、幸運な野郎たちです。ただし、ゲームは、",
@@ -466,5 +505,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-19T01:22:59.622237"
+  "last_updated": "2026-08-19T12:24:28.849295"
 }

@@ -11,10 +11,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-19"
+        "date": "2026-08-20"
       }
     ],
     "bundle": [
+      {
+        "title": "Yes Chef! - Cooking Bundle (Pay $7 for Brewmaster: Beer Brewing Simulator, Tailside: Cozy Cafe Sim, Which Sausage, Mate?, 4 more, $13 for Pizza Possum, Food Truck Simulator, 3 more, incl. prior tier and $16 for Tavern Manager Simulator, The Chef's Shift, Chef Knight incl. all prior tiers)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "Hamble's Summer Island Getaway Bundle (Pay $6 for ISLANDERS: New Shores, Just a To the Moon Series Beach Episode, The South Island, ISLANDERS, Flooded, and $12 for Primordialis, Caribbean Legend, Forgotten Seas, incl. prior tier)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-20"
+      },
       {
         "title": "Build Your Own Blistering Bundle / Ultimate Drummer / pureya / Loophole / Night Loops / White Cat Knight / Teratopia / More)",
         "platform": "Fanatical",
@@ -170,33 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-07"
-      },
-      {
-        "title": "Like a Dragonなど、8月の新作ゲーム",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Like a Dragon、Dead Cells、忍者タートルズ：シェッダーの復讐が発売",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-06"
       }
     ],
     "review": [
+      {
+        "title": "Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日早期アクセス向けのローンチを果たし、高い評価を獲得した2D工場自動化シム「Sandustry」ですが、新たにパブリッシャーHooded Horseがプレスリリースを発行し、本作の販売規模を報告。発売から僅か1週間で1 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169830.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
       {
         "title": "注目された「怪獣vs人」都市破壊バトル『BeastLink』、不評の目立つ厳しいスタート。開発元は“フレームレート劇的改善パッチ”などで緊急テコ入れ中",
         "platform": "AUTOMATON",
@@ -250,6 +263,58 @@
         "is_translated": false
       },
       {
+        "title": "愛らしい捜し物アドベンチャーゲーム「Lost and Found Co.」の販売が10万本を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "タイのインディーデベロッパBit Eggが開発を手がける新作捜し物アドベンチャーゲームとして、今年3月にローンチを果たし、非常に高い評価を獲得した「Lost and Found Co.」ですが、新たにBit Eggがプレ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169803.html",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "GTA 6のさらなるリークにより新たな詳細が明らかに：クローンキー、戦闘変更、ランダムな鳥の死",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "最新とされる「GTA 6」のゲームプレイビデオでは、ジェイソンがさらに無分別な殺人を犯す様子が描かれており、さらに多くのゲームプレイシステムが明らかになっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "Copilot はだまされて自分自身をハッキングする方法を明らかにさせられたとセキュリティ研究者は主張しています。「Copilot は侵害されていません。Copilot は侵害されていません。」遊ばれたよ』",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/copilot-was-bamboozled-into-revealing-how-to-hack-itself-security-researchers-claim-copilot-wasnt-breached-it-was-played/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "Keychron K8 Ultra 8Kレビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "堅牢で信頼性があり、多用途です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k8-ultra-8k-review/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
         "title": "ブーリーEP200レビュー",
         "platform": "PC Gamer",
         "type": "review",
@@ -263,15 +328,15 @@
         "is_translated": true
       },
       {
-        "title": "「GTA 6」のリークにより、象徴的な6つ星の手配レベルシステムが13年ぶりに復活することが判明",
-        "platform": "Polygon",
+        "title": "STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ゲームプレイのリークによると、GTA 6 には 6 つ星の手配システムがあり、戦車警官の追跡が復活する可能性があります。",
+        "description": "同時にリリースされる 2.0 アップデートの技術的な修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gta-6-leak-wanted-level-six-stars-five-how-does-it-work-cops-tanks/",
+        "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
         "date": "2026-08-19",
         "is_translated": true
       },
@@ -299,32 +364,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/boardroom-beat-em-up-stick-it-to-the-stickman-punches-its-way-out-of-early-access-next-month-complete-with-neurolinkage-and-an-absolutely-absurd-finale",
         "date": "2026-08-17",
-        "is_translated": true
-      },
-      {
-        "title": "Slay the Spire 2 のアップデートが再び遅くなりましたが、恐れることはありません。すべては追加モード、代替 Act 2、そして足に包帯を巻いたキャラクターの名の下にあるのです。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『Slay the Spire 2』は 3 月に早期アクセスを開始して以来、着実なペースで進んでいますが、5 月に開発者の Mega Crit は、アップデートが 2 週間に 1 回に切り替わると共有しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
-        "date": "2026-08-15",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週はちょっと静かですね、ギャング。 RPS チームの半数は休暇中、病気中、またはプレビュー イベントに参加していない、おそらくスカンジナビアのような世界のそれほど穏やかでない地域にいる、幸運な野郎たちです。ただし、ゲームは、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
-        "date": "2026-08-15",
         "is_translated": true
       }
     ],
@@ -505,5 +544,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-19T12:24:28.849295"
+  "last_updated": "2026-08-20T01:22:26.538785"
 }

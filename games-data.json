@@ -210,6 +210,45 @@
     ],
     "review": [
       {
+        "title": "「平均的なゲーマーなどもはや存在しない」との大規模分析。好みはどんどん細分化、“万人ウケ狙い”は厳しい時代に",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム業界向けの分析レポートである「Gaming Report」の2026年版にて、ゲーム嗜好の多様化に伴う“平均的ゲーマー像”の消失が語られている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260821-461861/",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価受ける。本当に微妙物件なのか？プロの不動産屋に訊いてみた",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『NTE: Neverness to Everness』Ver.1.3にて実装された「閑野雅邸」を本職の不動産屋に評価してもらった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "オンライン対応“イカサマ合法”麻雀ゲーム『千宝麻雀』来年3月に基本プレイ無料にて配信へ、体験版も配信中。赤ドラ錬成から点棒強奪まで、あくまで「スキル」",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "TechNeedは8月21日、麻雀ゲーム『千宝麻雀』を2027年3月に配信すると発表した。基本プレイ無料（ゲーム内課⾦あり）にて提供される。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260821-461570/",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
         "title": "大型国産メトロイドヴァニア『クロノスクリプト』体験版配信開始。『ベヨネッタ』『ゼノブレイド』豪華クリエイター陣が贈る期待作、“ボスバトル特化モード”も収録",
         "platform": "AUTOMATON",
         "type": "review",
@@ -223,43 +262,69 @@
         "is_translated": false
       },
       {
-        "title": "フロム・ソフトウェア新作『ダスクブラッド』先行プレイ感想。団結したり、戦ったり恋したり、“フロム流”すぎるまったく新しいPvPvE",
-        "platform": "AUTOMATON",
+        "title": "Creative XF1スピーカーレビュー",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "『The Duskbloods（ダスクブラッド）』の試遊プレイを通して確認できた、フロム・ソフトウェアの「癖」が濃厚な本作の内容を紹介していこう。",
+        "description": "小さいながらも存在感のあるパッケージ。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260820-461510/",
-        "date": "2026-08-20",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
+        "date": "2026-08-21",
+        "is_translated": true
       },
       {
-        "title": "国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大帝国」化、ゆったり眺める片手間領主生活",
-        "platform": "AUTOMATON",
+        "title": "メタルギアソリッド4：ガンズ・オブ・ザ・パトリオッツ レビュー",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Runic ForgeおよびGamersky Gamesは、Phorust Studiosが手がける『小さな領地の繫盛記』を8月20日にリリースした。配信直後から好評を博し、Steamユーザーレビューは「非常に好評」ステータスを獲得している。",
+        "description": "小島監督の最も奇妙な続編をプレイするための新しい最良の方法。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461419/",
-        "date": "2026-08-20",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/third-person-shooter/metal-gear-solid-4-guns-of-the-patriots-review/",
+        "date": "2026-08-21",
+        "is_translated": true
       },
       {
-        "title": "『空の軌跡 the 2nd（ザ・セカンド）』体験版、本日より配信開始。ゲーム序盤を丸ごと遊べる、セーブデータも製品版に引き継ぎ可",
-        "platform": "AUTOMATON",
+        "title": "PSA: 最新の GTA 6 リークの影響で、totallegitgta6leakedbuild.exe のような名前のファイルをダウンロードするのは得策ではありません。",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "日本ファルコムは8月20日、『空の軌跡 the 2nd（ザ・セカンド）』について、本日体験版を配信開始した。体験版は同作第1章までプレイ可能で、セーブデータを製品版に引き継ぐことが可能だ。",
+        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力にのめり込むことは何も新しいことではありませんが、サイバーセキュリティ企業はこれについて警告を発しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461259/",
-        "date": "2026-08-20",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/psa-in-the-latest-gta-6-leaks-aftermath-its-not-a-good-idea-to-download-files-with-names-like-totallylegitgta6leakedbuildexe",
+        "date": "2026-08-21",
+        "is_translated": true
+      },
+      {
+        "title": "Netflix の 10/10 アクション スリラーは、DC ユニバースの最新スターへの完璧な入門編です",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "宇宙刑事を演じる前、彼は腐敗した警察官を殴っていた",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/rebel-ridge-aaron-pierre-streaming-rec/",
+        "date": "2026-08-21",
+        "is_translated": true
+      },
+      {
+        "title": "メタルギア ソリッド マスターコレクション Vol. 2 レビューまとめ: MGS4 の復活を万歳",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "批評家は、これまでPS3のみで発売されていた小島秀夫監督の賛否両論を巻き起こした『メタルギア ソリッド 4: ガンズ・オブ・ザ・パトリオット』のリマスターを歓迎",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
+        "date": "2026-08-21",
+        "is_translated": true
       },
       {
         "title": "Black Myth: Zhong Kui の 15 分間のゲームプレイ公開では、自信に満ちた剣術、オイスターマンとのボス戦、そしてこれまで見た中で最もクールなスケルトンが披露されています",
@@ -301,33 +366,7 @@
         "is_translated": true
       },
       {
-        "title": "Silent Hill: Townfall の最新ゲームプレイ トレーラーを見て、シリーズに銃が登場すべきではない理由を思い出させた",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "セラピーセッションに銃を持ち込むべきではありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/silent-hill-townfalls-latest-gameplay-trailer-reminds-me-why-the-series-shouldnt-have-guns/",
-        "date": "2026-08-20",
-        "is_translated": true
-      },
-      {
-        "title": "GTA 6のさらなるリークにより新たな詳細が明らかに：クローンキー、戦闘変更、ランダムな鳥の死",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "最新とされる「GTA 6」のゲームプレイビデオでは、ジェイソンがさらに無分別な殺人を犯す様子が描かれており、さらに多くのゲームプレイシステムが明らかになっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
-        "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "STALKER 2: Cost of Hope レビュー: 派閥戦争が暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
+        "title": "STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "同時にリリースされる 2.0 アップデートの技術的な修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
@@ -577,5 +616,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21T01:27:33.013719"
+  "last_updated": "2026-08-21T12:26:43.178331"
 }

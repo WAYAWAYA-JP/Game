@@ -2,19 +2,43 @@
   "pc": {
     "free": [
       {
-        "title": "Caravan SandWitch - Epic Games 無料配布中",
+        "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奥深い物語が織りなす冒険アドベンチャー『Caravan SandWitch』で広大な大地を股にかけ旅に出かけよう。",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
         "price": "無料",
-        "originalPrice": "¥2,950",
+        "originalPrice": "¥2,380",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
+      },
+      {
+        "title": "エピックメイジバンドル - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "エピックメイジバンドルがEpic Gamesで期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
+        "price": "無料",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-08-21"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Summer Superstars Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-21"
+      },
       {
         "title": "Yes Chef! - Cooking Bundle (Pay $7 for Brewmaster: Beer Brewing Simulator, Tailside: Cozy Cafe Sim, Which Sausage, Mate?, 4 more, $13 for Pizza Possum, Food Truck Simulator, 3 more, incl. prior tier and $16 for Tavern Manager Simulator, The Chef's Shift, Chef Knight incl. all prior tiers)",
         "platform": "Humble Bundle",
@@ -25,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
       },
       {
         "title": "Hamble's Summer Island Getaway Bundle (Pay $6 for ISLANDERS: New Shores, Just a To the Moon Series Beach Episode, The South Island, ISLANDERS, Flooded, and $12 for Primordialis, Caribbean Legend, Forgotten Seas, incl. prior tier)",
@@ -37,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
       },
       {
         "title": "Build Your Own Blistering Bundle / Ultimate Drummer / pureya / Loophole / Night Loops / White Cat Knight / Teratopia / More)",
@@ -182,21 +206,35 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-08"
-      },
-      {
-        "title": "In Your World VR Bundle VR",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-07"
       }
     ],
     "review": [
+      {
+        "title": "大型国産メトロイドヴァニア『クロノスクリプト』体験版配信開始。『ベヨネッタ』『ゼノブレイド』豪華クリエイター陣が贈る期待作、“ボスバトル特化モード”も収録",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "集英社ゲームズは8月20日、『Chronoscript: The Endless End』の体験版を配信開始した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260821-461547/",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "フロム・ソフトウェア新作『ダスクブラッド』先行プレイ感想。団結したり、戦ったり恋したり、“フロム流”すぎるまったく新しいPvPvE",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『The Duskbloods（ダスクブラッド）』の試遊プレイを通して確認できた、フロム・ソフトウェアの「癖」が濃厚な本作の内容を紹介していこう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260820-461510/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
       {
         "title": "国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大帝国」化、ゆったり眺める片手間領主生活",
         "platform": "AUTOMATON",
@@ -224,30 +262,43 @@
         "is_translated": false
       },
       {
-        "title": "長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragonwilds」のXBOX Game Pass入りがアナウンス、PC製品版1.0とコンソール対応を含む解禁は9月15日",
-        "platform": "doope!",
+        "title": "Black Myth: Zhong Kui の 15 分間のゲームプレイ公開では、自信に満ちた剣術、オイスターマンとのボス戦、そしてこれまで見た中で最もクールなスケルトンが披露されています",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "25年に及ぶ歴史を持つ長寿MMORPG“RuneScape”のスピンオフとして、昨年4月にPC向けの早期アクセス版ローンチを果たし、高い評価を獲得したJagexのクラフト系オープンワールドサバイバルゲーム「RuneSca […]",
+        "description": "あの人たちを見てください！あの人たちを見てください!!",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08169810.html",
+        "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
         "date": "2026-08-20",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破",
-        "platform": "doope!",
+        "title": "私はフロムソフトウェアに 10 年以上ハマっていますが、これが最初の Duskbloods ゲームプレイから得た 5 つのポイントです",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "先日早期アクセス向けのローンチを果たし、高い評価を獲得した2D工場自動化シム「Sandustry」ですが、新たにパブリッシャーHooded Horseがプレスリリースを発行し、本作の販売規模を報告。発売から僅か1週間で1 […]",
+        "description": "私はそれがSwitch 2専用であることに今でも憤りを感じています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08169830.html",
+        "url": "https://www.pcgamer.com/games/action/im-a-decade-plus-fromsoftware-sicko-and-these-are-my-5-takeaways-from-the-first-duskbloods-gameplay/",
         "date": "2026-08-20",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "結婚式の写真は台無しだ、私は善良な領主が意図したようにデジタル一眼レフカメラでドゥームをプレイしている",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "折れて破れますか？意味が分からなくなった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/screw-the-wedding-photos-im-playing-doom-on-a-dslr-camera-like-the-good-lord-intended/",
+        "date": "2026-08-20",
+        "is_translated": true
       },
       {
         "title": "Silent Hill: Townfall の最新ゲームプレイ トレーラーを見て、シリーズに銃が登場すべきではない理由を思い出させた",
@@ -263,32 +314,6 @@
         "is_translated": true
       },
       {
-        "title": "新しいゲームプレイトレーラーで黒の神話鍾馗の主人公が明らかに",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Game Science は、新しいゲームプレイ トレーラーで Black Myth Zhong Kui の主人公を明らかにしました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/black-myth-zhong-kui-new-gameplay-trailer-protagonist/",
-        "date": "2026-08-20",
-        "is_translated": true
-      },
-      {
-        "title": "愛らしい捜し物アドベンチャーゲーム「Lost and Found Co.」の販売が10万本を突破",
-        "platform": "doope!",
-        "type": "review",
-        "description": "タイのインディーデベロッパBit Eggが開発を手がける新作捜し物アドベンチャーゲームとして、今年3月にローンチを果たし、非常に高い評価を獲得した「Lost and Found Co.」ですが、新たにBit Eggがプレ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169803.html",
-        "date": "2026-08-19",
-        "is_translated": false
-      },
-      {
         "title": "GTA 6のさらなるリークにより新たな詳細が明らかに：クローンキー、戦闘変更、ランダムな鳥の死",
         "platform": "PC Gamer",
         "type": "review",
@@ -302,46 +327,7 @@
         "is_translated": true
       },
       {
-        "title": "Copilot はだまされて自分自身をハッキングする方法を明らかにさせられたとセキュリティ研究者は主張しています。「Copilot は侵害されていません。Copilot は侵害されていません。」遊ばれたよ』",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/copilot-was-bamboozled-into-revealing-how-to-hack-itself-security-researchers-claim-copilot-wasnt-breached-it-was-played/",
-        "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "Keychron K8 Ultra 8Kレビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "堅牢で信頼性があり、多用途です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k8-ultra-8k-review/",
-        "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "ブーリーEP200レビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "予算が限られている場合は、この椅子で十分にカバーできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-chairs/boulies-ep200-review/",
-        "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
+        "title": "STALKER 2: Cost of Hope レビュー: 派閥戦争が暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "同時にリリースされる 2.0 アップデートの技術的な修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
@@ -351,32 +337,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
         "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "Mortal Shell 2 レビュー: 90 年代の PC ゲームの精神を備えた記念碑的なヘヴィメタルの続編",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Mortal Shell 2 の過酷な領域である Fainweald を旅して数時間経つと、The One Legged Wolf という居酒屋に出会うかもしれません。ペースト状の顔の山賊が住む恐ろしい土地で、",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game",
-        "date": "2026-08-17",
-        "is_translated": true
-      },
-      {
-        "title": "役員会議室のビートエムアップ『Stick It to the Stickman』が来月早期アクセスから解放され、ニューロリンケージと「まったく不条理なフィナーレ」を備えている",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "上向きのグラフの線に関する最高のプレゼンテーション資料を取得し、それを使って同僚を徹底的に打ち負かしてみましょう。 Stick It to the Stickman、ローグライトのビートゲーム",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/boardroom-beat-em-up-stick-it-to-the-stickman-punches-its-way-out-of-early-access-next-month-complete-with-neurolinkage-and-an-absolutely-absurd-finale",
-        "date": "2026-08-17",
         "is_translated": true
       }
     ],
@@ -617,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20T12:27:25.019316"
+  "last_updated": "2026-08-21T01:27:33.013719"
 }

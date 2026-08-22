@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-21"
+        "date": "2026-08-22"
       },
       {
         "title": "エピックメイジバンドル - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-21"
+        "date": "2026-08-22"
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Tabletop Battles Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-22"
+      },
       {
         "title": "Build Your Own Summer Superstars Collection",
         "platform": "Fanatical",
@@ -194,21 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-10"
-      },
-      {
-        "title": "Build Your Own Platinum Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-08"
       }
     ],
     "review": [
+      {
+        "title": "ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツアップデートの予告も",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スペインのインディースタジオ“Undercoders”の新作として、先月中旬にPS5とXBOX Series X|S、Nintendo Switch 2、PC向けのローンチを果たし、非常に高い評価を獲得した「電車アタック […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169896.html",
+        "date": "2026-08-22",
+        "is_translated": false
+      },
       {
         "title": "「平均的なゲーマーなどもはや存在しない」との大規模分析。好みはどんどん細分化、“万人ウケ狙い”は厳しい時代に",
         "platform": "AUTOMATON",
@@ -249,17 +262,43 @@
         "is_translated": false
       },
       {
-        "title": "大型国産メトロイドヴァニア『クロノスクリプト』体験版配信開始。『ベヨネッタ』『ゼノブレイド』豪華クリエイター陣が贈る期待作、“ボスバトル特化モード”も収録",
-        "platform": "AUTOMATON",
+        "title": "発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が100万人を突破、9月17日にはアニバーサリーアップデートが配信",
+        "platform": "doope!",
         "type": "review",
-        "description": "集英社ゲームズは8月20日、『Chronoscript: The Endless End』の体験版を配信開始した。",
+        "description": "“Dead Cells”を生んだEvil Empireが開発を手がける“プリンス オブ ペルシャ”シリーズの新作スピンオフとして、昨年8月にローンチを果たし、高い評価を獲得した「The Rogue Prince of P […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461547/",
+        "url": "https://doope.jp/2026/08169883.html",
         "date": "2026-08-21",
         "is_translated": false
+      },
+      {
+        "title": "電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、待望のローンチを果たし、高い評価を得た電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、初週30万本販売を突破した本作の動向に注目が集まるなか、新たにMandragoraが初のコンテンツアップデートを予告 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169884.html",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "ロックスターの従業員は「GTA 6」のリークに不満を抱いているが、彼らは明らかにしたいという欲求だけを持っているかもしれない",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "2022年のハッキングを受けてセキュリティ対策が強化されましたが、「GTA 6」のゲームプレイに関する新たな大規模な漏洩を阻止することはできませんでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
+        "date": "2026-08-21",
+        "is_translated": true
       },
       {
         "title": "Creative XF1スピーカーレビュー",
@@ -288,6 +327,19 @@
         "is_translated": true
       },
       {
+        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
+        "date": "2026-08-21",
+        "is_translated": true
+      },
+      {
         "title": "PSA: 最新の GTA 6 リークの影響で、totallegitgta6leakedbuild.exe のような名前のファイルをダウンロードするのは得策ではありません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -301,32 +353,6 @@
         "is_translated": true
       },
       {
-        "title": "Netflix の 10/10 アクション スリラーは、DC ユニバースの最新スターへの完璧な入門編です",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "宇宙刑事を演じる前、彼は腐敗した警察官を殴っていた",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/rebel-ridge-aaron-pierre-streaming-rec/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "メタルギア ソリッド マスターコレクション Vol. 2 レビューまとめ: MGS4 の復活を万歳",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "批評家は、これまでPS3のみで発売されていた小島秀夫監督の賛否両論を巻き起こした『メタルギア ソリッド 4: ガンズ・オブ・ザ・パトリオット』のリマスターを歓迎",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
         "title": "Black Myth: Zhong Kui の 15 分間のゲームプレイ公開では、自信に満ちた剣術、オイスターマンとのボス戦、そしてこれまで見た中で最もクールなスケルトンが披露されています",
         "platform": "PC Gamer",
         "type": "review",
@@ -336,32 +362,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
-        "date": "2026-08-20",
-        "is_translated": true
-      },
-      {
-        "title": "私はフロムソフトウェアに 10 年以上ハマっていますが、これが最初の Duskbloods ゲームプレイから得た 5 つのポイントです",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "私はそれがSwitch 2専用であることに今でも憤りを感じています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/im-a-decade-plus-fromsoftware-sicko-and-these-are-my-5-takeaways-from-the-first-duskbloods-gameplay/",
-        "date": "2026-08-20",
-        "is_translated": true
-      },
-      {
-        "title": "結婚式の写真は台無しだ、私は善良な領主が意図したようにデジタル一眼レフカメラでドゥームをプレイしている",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "折れて破れますか？意味が分からなくなった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/screw-the-wedding-photos-im-playing-doom-on-a-dslr-camera-like-the-good-lord-intended/",
         "date": "2026-08-20",
         "is_translated": true
       },
@@ -616,5 +616,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21T12:26:43.178331"
+  "last_updated": "2026-08-22T01:21:26.847973"
 }

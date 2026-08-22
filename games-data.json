@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "Steamにおける“売れるジャンル”、ずっとサンドボックスが強い説。「10万本分」のデータから見る、Steamでの売れ筋分析",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「We Love It」にて8月20日、「The Steam Revenue Report（Steamの収益レポート）」が公開された。ジャンルにより収益に差がある様子がうかがえる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260821-461710/",
+        "date": "2026-08-22",
+        "is_translated": false
+      },
+      {
         "title": "ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツアップデートの予告も",
         "platform": "doope!",
         "type": "review",
@@ -258,32 +271,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260821-461570/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が100万人を突破、9月17日にはアニバーサリーアップデートが配信",
-        "platform": "doope!",
-        "type": "review",
-        "description": "“Dead Cells”を生んだEvil Empireが開発を手がける“プリンス オブ ペルシャ”シリーズの新作スピンオフとして、昨年8月にローンチを果たし、高い評価を獲得した「The Rogue Prince of P […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169883.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、待望のローンチを果たし、高い評価を得た電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、初週30万本販売を突破した本作の動向に注目が集まるなか、新たにMandragoraが初のコンテンツアップデートを予告 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169884.html",
         "date": "2026-08-21",
         "is_translated": false
       },
@@ -350,19 +337,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/psa-in-the-latest-gta-6-leaks-aftermath-its-not-a-good-idea-to-download-files-with-names-like-totallylegitgta6leakedbuildexe",
         "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "Black Myth: Zhong Kui の 15 分間のゲームプレイ公開では、自信に満ちた剣術、オイスターマンとのボス戦、そしてこれまで見た中で最もクールなスケルトンが披露されています",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "あの人たちを見てください！あの人たちを見てください!!",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
-        "date": "2026-08-20",
         "is_translated": true
       },
       {
@@ -616,5 +590,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T01:21:26.847973"
+  "last_updated": "2026-08-22T12:19:08.777304"
 }

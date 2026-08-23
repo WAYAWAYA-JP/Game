@@ -5,13 +5,13 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてます。 さらになんかこれはジェスにとって初めての登校日のことでした！ ところで、ことも危ういゲーム内のミュータントが現実世界に出現する事態が発生。",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-22"
+        "date": "2026-08-23"
       },
       {
         "title": "エピックメイジバンドル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-22"
+        "date": "2026-08-23"
       }
     ],
     "bundle": [
@@ -236,6 +236,19 @@
         "is_translated": false
       },
       {
+        "title": "私がプレイしたことを覚えている最初の物理的な PC ゲームは、ソニーが軽率に破壊しているものを示しています",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私と多くの大型 PC ゲームは、完全にブームになるか、非常に重要なポイントを証明するでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/the-first-physical-pc-game-i-remember-playing-shows-what-sony-is-thoughtlessly-destroying/",
+        "date": "2026-08-22",
+        "is_translated": true
+      },
+      {
         "title": "「平均的なゲーマーなどもはや存在しない」との大規模分析。好みはどんどん細分化、“万人ウケ狙い”は厳しい時代に",
         "platform": "AUTOMATON",
         "type": "review",
@@ -258,19 +271,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "オンライン対応“イカサマ合法”麻雀ゲーム『千宝麻雀』来年3月に基本プレイ無料にて配信へ、体験版も配信中。赤ドラ錬成から点棒強奪まで、あくまで「スキル」",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "TechNeedは8月21日、麻雀ゲーム『千宝麻雀』を2027年3月に配信すると発表した。基本プレイ無料（ゲーム内課⾦あり）にて提供される。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461570/",
         "date": "2026-08-21",
         "is_translated": false
       },
@@ -301,19 +301,6 @@
         "is_translated": true
       },
       {
-        "title": "メタルギアソリッド4：ガンズ・オブ・ザ・パトリオッツ レビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "小島監督の最も奇妙な続編をプレイするための新しい最良の方法。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/metal-gear-solid-4-guns-of-the-patriots-review/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
         "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -330,7 +317,7 @@
         "title": "PSA: 最新の GTA 6 リークの影響で、totallegitgta6leakedbuild.exe のような名前のファイルをダウンロードするのは得策ではありません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力にのめり込むことは何も新しいことではありませんが、サイバーセキュリティ企業はこれについて警告を発しています。",
+        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力に手を染めるのは何も新しいことではないが、サイバーセキュリティ企業は警告を発している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -340,10 +327,10 @@
         "is_translated": true
       },
       {
-        "title": "STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
+        "title": "STALKER 2: Cost of Hope レビュー: 派閥戦争が暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "同時にリリースされる 2.0 アップデートの技術的な修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
+        "description": "同時にリリースされる 2.0 アップデートの技術修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -590,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T12:19:08.777304"
+  "last_updated": "2026-08-23T01:34:56.626574"
 }

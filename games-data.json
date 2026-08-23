@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "あなたがプレイしたことのない最高の犬ゲームが PS Plus で辛抱強く待っています",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "愛犬家なら、Nomada Studio の Neva を見逃すことはできません。魅力的なプラットフォームと豪華なアートワークを備えた感情的なアドベンチャーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/playstation-plus-game-catalog-neva-nomada-studio-gris/",
+        "date": "2026-08-23",
+        "is_translated": true
+      },
+      {
         "title": "Steamにおける“売れるジャンル”、ずっとサンドボックスが強い説。「10万本分」のデータから見る、Steamでの売れ筋分析",
         "platform": "AUTOMATON",
         "type": "review",
@@ -284,19 +297,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "Creative XF1スピーカーレビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "小さいながらも存在感のあるパッケージ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
         "date": "2026-08-21",
         "is_translated": true
       },
@@ -577,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23T01:34:56.626574"
+  "last_updated": "2026-08-23T12:19:50.243976"
 }

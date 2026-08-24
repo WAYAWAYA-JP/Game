@@ -5,7 +5,7 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子Jessの失敗のせいで、学校で誰もがお気に入りのカードゲームが禁止されてしまいます。さらに悪いことにこれはJessにとって初めての登校日のことでした！しかも、こともあろうかゲーム内のミュータントが現実世界に出現する事態が発生。Jessと友達は怪物を阻止できるでしょうか？Mega Mutant Power Petマスターとなり、学校を救いましょう…もしかしたら世界も。",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
@@ -210,33 +210,85 @@
     ],
     "review": [
       {
-        "title": "Steamにおける“売れるジャンル”、ずっとサンドボックスが強い説。「10万本分」のデータから見る、Steamでの売れ筋分析",
+        "title": "新作『マビノギモバイル』を遊んでみたら「時間がない人に優しすぎるMMORPG」だった。先行プレイで感じた、ほのぼの生活・冒険・交流ゲームの生まれ変わりっぷり",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "「We Love It」にて8月20日、「The Steam Revenue Report（Steamの収益レポート）」が公開された。ジャンルにより収益に差がある様子がうかがえる。",
+        "description": "長寿MMO『マビノギ』の血統を受け継ぐ本作について、『マビノギ』生みの親を含む開発チームによるプレゼンテーションを受け、実際に本作に触れた所感をお届けする。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461710/",
-        "date": "2026-08-22",
+        "url": "https://automaton-media.com/articles/reportjp/mabinogi-mobile-20260824-462277/",
+        "date": "2026-08-24",
         "is_translated": false
       },
       {
-        "title": "ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツアップデートの予告も",
-        "platform": "doope!",
+        "title": "自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプデで日本語対応。斬るか斬られるか、高評価サムライゲームを日本語で遊べる",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "スペインのインディースタジオ“Undercoders”の新作として、先月中旬にPS5とXBOX Series X|S、Nintendo Switch 2、PC向けのローンチを果たし、非常に高い評価を獲得した「電車アタック […]",
+        "description": "Night Eyes Interactiveは8月14日、『FIRST CUT: SAMURAI DUEL』のアップデートを実施した。新たに日本語にも対応を果たしている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08169896.html",
-        "date": "2026-08-22",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462235/",
+        "date": "2026-08-24",
         "is_translated": false
       },
       {
-        "title": "The first physical PC game I remember playing shows what Sony is thoughtlessly destroying",
+        "title": "「ケモ耳娘カード」収集シム『KOTAMON』、大盛況で「非常に好評」獲得。ゴミの山からお宝探す、ビールで疲労回復のアル中清掃員生活",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Polnochは8月21日、KotaMota Gamesが手がける『KOTAMON』をリリースした。配信直後から注目を集め、Steamユーザーレビューにて「非常に好評」を獲得している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462213/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "女子高生2人“ゆるくて重い”ビジュアルノベル『彼女は知らない』発表。高評価尖りゲーム連発クリエイターが描く青春は、やっぱり不穏",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "lvl374氏は8月24日、『彼女は知らない』のSteamストアページを公開した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462119/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "Twitch、Amazon AIトレーニングを巡る集団訴訟に見舞われる：「Twitchはメールを送信せず、ポップアップ通知も表示せず、アナウンスも行わなかった」",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このシステムは「誰もオプトインしないだろう」という理由でオプトアウトされたとTwitchの最高製品責任者は認めた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/twitch-hit-with-class-action-lawsuit-over-amazon-ai-training-twitch-sent-no-email-displayed-no-pop-up-notification-and-made-no-announcement/",
+        "date": "2026-08-24",
+        "is_translated": true
+      },
+      {
+        "title": "Steam 週間の振り返り: AI を少し加えるだけで反発が起きる、有望な新規インディーズが下品懐疑派の目に遭う",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "8 月 23 日までの週の Steam の興味深い事実すべて",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
+        "date": "2026-08-24",
+        "is_translated": true
+      },
+      {
+        "title": "私がプレイしたことを覚えている最初の物理的な PC ゲームは、ソニーが軽率に破壊しているものを示しています",
         "platform": "PC Gamer",
         "type": "review",
         "description": "私と多くの大型 PC ゲームは、完全にブームになるか、非常に重要なポイントを証明するでしょう。",
@@ -249,36 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "「平均的なゲーマーなどもはや存在しない」との大規模分析。好みはどんどん細分化、“万人ウケ狙い”は厳しい時代に",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲーム業界向けの分析レポートである「Gaming Report」の2026年版にて、ゲーム嗜好の多様化に伴う“平均的ゲーマー像”の消失が語られている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461861/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価受ける。本当に微妙物件なのか？プロの不動産屋に訊いてみた",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『NTE: Neverness to Everness』Ver.1.3にて実装された「閑野雅邸」を本職の不動産屋に評価してもらった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
+        "title": "ロックスターの従業員は「GTA 6」のリークに不満を抱いているが、彼らは明らかにしたいという欲求だけを持っているかもしれない",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "The increased security measures following the 2022 hack didn't stop another major leak of GTA 6 gameplay.",
+        "description": "2022年のハッキングを受けてセキュリティ対策が強化されましたが、「GTA 6」のゲームプレイに関する新たな大規模な漏洩を阻止することはできませんでした。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -288,10 +314,10 @@
         "is_translated": true
       },
       {
-        "title": "Sandustry is the first factory simulation game I've played that gets heaps right",
+        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Before we talk about Sandustry, the excellent new spelunking factory builder from Lantto Games and Hooded Horse, we need to revisit that most quintessentially vidyagame of topics, the post-industria",
+        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,29 +327,16 @@
         "is_translated": true
       },
       {
-        "title": "PSA: In the latest GTA 6 leak's aftermath, it's not a good idea to download files with names like totallylegitgta6leakedbuild.exe",
+        "title": "PSA: 最新の GTA 6 リークの影響で、totallegitgta6leakedbuild.exe のような名前のファイルをダウンロードするのは得策ではありません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "While scammers and other ne'er-do-wells leaning into the allure of playing GTA 6 as part of their efforts to spread malware isn't anything new - cybersecurity companies have been issuing warnings abo",
+        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力にのめり込むことは何も新しいことではありませんが、サイバーセキュリティ企業はこれについて警告を発しています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/psa-in-the-latest-gta-6-leaks-aftermath-its-not-a-good-idea-to-download-files-with-names-like-totallylegitgta6leakedbuildexe",
         "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "同時にリリースされる 2.0 アップデートの技術修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
-        "date": "2026-08-19",
         "is_translated": true
       }
     ],
@@ -564,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24T01:27:48.495578"
+  "last_updated": "2026-08-24T12:27:47.002228"
 }

@@ -5,13 +5,13 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてます。 さらになんかこれはジェスにとって初めての登校日のことでした！ ところで、ことも危ういゲーム内のミュータントが現実世界に出現する事態が発生。",
+        "description": "10才の女の子Jessの失敗のせいで、学校で誰もがお気に入りのカードゲームが禁止されてしまいます。さらに悪いことにこれはJessにとって初めての登校日のことでした！しかも、こともあろうかゲーム内のミュータントが現実世界に出現する事態が発生。Jessと友達は怪物を阻止できるでしょうか？Mega Mutant Power Petマスターとなり、学校を救いましょう…もしかしたら世界も。",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
       },
       {
         "title": "エピックメイジバンドル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
       }
     ],
     "bundle": [
@@ -210,19 +210,6 @@
     ],
     "review": [
       {
-        "title": "あなたがプレイしたことのない最高の犬ゲームが PS Plus で辛抱強く待っています",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "愛犬家なら、Nomada Studio の Neva を見逃すことはできません。魅力的なプラットフォームと豪華なアートワークを備えた感情的なアドベンチャーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/playstation-plus-game-catalog-neva-nomada-studio-gris/",
-        "date": "2026-08-23",
-        "is_translated": true
-      },
-      {
         "title": "Steamにおける“売れるジャンル”、ずっとサンドボックスが強い説。「10万本分」のデータから見る、Steamでの売れ筋分析",
         "platform": "AUTOMATON",
         "type": "review",
@@ -249,7 +236,7 @@
         "is_translated": false
       },
       {
-        "title": "私がプレイしたことを覚えている最初の物理的な PC ゲームは、ソニーが軽率に破壊しているものを示しています",
+        "title": "The first physical PC game I remember playing shows what Sony is thoughtlessly destroying",
         "platform": "PC Gamer",
         "type": "review",
         "description": "私と多くの大型 PC ゲームは、完全にブームになるか、非常に重要なポイントを証明するでしょう。",
@@ -288,10 +275,10 @@
         "is_translated": false
       },
       {
-        "title": "ロックスターの従業員は「GTA 6」のリークに不満を抱いているが、彼らは明らかにしたいという欲求だけを持っているかもしれない",
+        "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "2022年のハッキングを受けてセキュリティ対策が強化されましたが、「GTA 6」のゲームプレイに関する新たな大規模な漏洩を阻止することはできませんでした。",
+        "description": "The increased security measures following the 2022 hack didn't stop another major leak of GTA 6 gameplay.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,10 +288,10 @@
         "is_translated": true
       },
       {
-        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
+        "title": "Sandustry is the first factory simulation game I've played that gets heaps right",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
+        "description": "Before we talk about Sandustry, the excellent new spelunking factory builder from Lantto Games and Hooded Horse, we need to revisit that most quintessentially vidyagame of topics, the post-industria",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,10 +301,10 @@
         "is_translated": true
       },
       {
-        "title": "PSA: 最新の GTA 6 リークの影響で、totallegitgta6leakedbuild.exe のような名前のファイルをダウンロードするのは得策ではありません。",
+        "title": "PSA: In the latest GTA 6 leak's aftermath, it's not a good idea to download files with names like totallylegitgta6leakedbuild.exe",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力に手を染めるのは何も新しいことではないが、サイバーセキュリティ企業は警告を発している。",
+        "description": "While scammers and other ne'er-do-wells leaning into the allure of playing GTA 6 as part of their efforts to spread malware isn't anything new - cybersecurity companies have been issuing warnings abo",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -327,7 +314,7 @@
         "is_translated": true
       },
       {
-        "title": "STALKER 2: Cost of Hope レビュー: 派閥戦争が暗礁に乗り上げているにもかかわらず、探索を求める拡張ゾーン",
+        "title": "STALKER 2: Cost of Hope review: An expanded Zone that begs to be explored, even as its faction war fizzles",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "同時にリリースされる 2.0 アップデートの技術修正の上部と同様に、『STALKER 2: Heart of Chornobyl』の拡張版「Cost of Hope」は、決定的に眉間にしわを寄せて登場します。そんなe",
@@ -577,5 +564,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23T12:19:50.243976"
+  "last_updated": "2026-08-24T01:27:48.495578"
 }

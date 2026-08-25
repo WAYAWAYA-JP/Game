@@ -5,7 +5,7 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
+        "description": "10才の女の子Jessの失敗のせいで、学校で誰もがお気に入りのカードゲームが禁止されてしまいます。さらに悪いことにこれはJessにとって初めての登校日のことでした！しかも、こともあろうかゲーム内のミュータントが現実世界に出現する事態が発生。Jessと友達は怪物を阻止できるでしょうか？Mega Mutant Power Petマスターとなり、学校を救いましょう…もしかしたら世界も。",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
@@ -186,6 +186,45 @@
     ],
     "review": [
       {
+        "title": "ディストピア都市パルクール『VHOLUME』Steamでさっそく「圧倒的に好評」スタート。無機質コンクリ巨大迷宮を、“配給券”求めて孤独に走る",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "IronEqualは8月22日、『VHOLUME』をリリースした。Steamユーザーレビューでは、本作に向けてさっそく高い評価が寄せられている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260825-462615/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "Be Quiet! Light Mount TKL review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "A very welcome TKL update that didn't quite leave me speechless.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Clear River Games Development and Limited Run are working on a PC re-release of Terranigma, Quintet's Super Nintendo Entertainment System action-RPG from 1995. I never played Terranigma, for I was r",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
         "title": "98年発売高評価サイコホラー『Sanitarium』リマスター版発表。快適性向上、高解像度化で妄想入り混じる狂気世界への没入感マシマシ",
         "platform": "AUTOMATON",
         "type": "review",
@@ -212,49 +251,10 @@
         "is_translated": false
       },
       {
-        "title": "新作『マビノギモバイル』を遊んでみたら「時間がない人に優しすぎるMMORPG」だった。先行プレイで感じた、ほのぼの生活・冒険・交流ゲームの生まれ変わりっぷり",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "長寿MMO『マビノギ』の血統を受け継ぐ本作について、『マビノギ』生みの親を含む開発チームによるプレゼンテーションを受け、実際に本作に触れた所感をお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/mabinogi-mobile-20260824-462277/",
-        "date": "2026-08-24",
-        "is_translated": false
-      },
-      {
-        "title": "自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプデで日本語対応。斬るか斬られるか、高評価サムライゲームを日本語で遊べる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Night Eyes Interactiveは8月14日、『FIRST CUT: SAMURAI DUEL』のアップデートを実施した。新たに日本語にも対応を果たしている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260824-462235/",
-        "date": "2026-08-24",
-        "is_translated": false
-      },
-      {
-        "title": "「ケモ耳娘カード」収集シム『KOTAMON』、大盛況で「非常に好評」獲得。ゴミの山からお宝探す、ビールで疲労回復のアル中清掃員生活",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Polnochは8月21日、KotaMota Gamesが手がける『KOTAMON』をリリースした。配信直後から注目を集め、Steamユーザーレビューにて「非常に好評」を獲得している。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260824-462213/",
-        "date": "2026-08-24",
-        "is_translated": false
-      },
-      {
-        "title": "『The Duskbloods』が PC に登場しないという私の FOMO は、実際にプレイしてみると消え去りました。",
+        "title": "My FOMO over The Duskbloods not coming to PC evaporated once I actually played it",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ヴァンパイアの PvPvE ゲームは混乱を招き、万人向けではありません。",
+        "description": "The vampire PvPvE game is a confusing mess that isn't going to be for everyone.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -264,7 +264,7 @@
         "is_translated": true
       },
       {
-        "title": "ブラッドダンジョンのレビュー",
+        "title": "Blood Dungeon review",
         "platform": "PC Gamer",
         "type": "review",
         "description": "The creators of Nidhogg and Wheel World tackle the bullet heaven genre, but can't transcend its inherent weaknesses.",
@@ -277,7 +277,7 @@
         "is_translated": true
       },
       {
-        "title": "映画「ザ・ギルド」リバイバル作品がキックスターター映画史上最高額の資金を集め、ミレニアル世代のノスタルジーで満たされ、とても緊張した",
+        "title": "'The Guild' movie revival becomes highest-funded Kickstarter film ever, filling me with millennial nostalgia and making me very nervous",
         "platform": "PC Gamer",
         "type": "review",
         "description": "Massively multi-funded online roleplaying movie.",
@@ -293,7 +293,7 @@
         "title": "Twitch hit with class-action lawsuit over Amazon AI training: 'Twitch sent no email, displayed no pop-up notification, and made no announcement'",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "このシステムは「誰もオプトインしないだろう」という理由でオプトアウトされたとTwitchの最高製品責任者は認めた。",
+        "description": "The system was opt-out because \"nobody would opt in,\" admitted Twitch's chief product officer.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,23 +303,10 @@
         "is_translated": true
       },
       {
-        "title": "Steam Week in Review: A touch of AI is all it takes to trigger backlash, as a promising new indie falls afoul of slop skeptics",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "All the interesting Steam facts for the week ending August 23",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
-        "date": "2026-08-24",
-        "is_translated": true
-      },
-      {
-        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
+        "title": "Sandustry is the first factory simulation game I've played that gets heaps right",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
+        "description": "Before we talk about Sandustry, the excellent new spelunking factory builder from Lantto Games and Hooded Horse, we need to revisit that most quintessentially vidyagame of topics, the post-industria",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -332,7 +319,7 @@
         "title": "PSA: In the latest GTA 6 leak's aftermath, it's not a good idea to download files with names like totallylegitgta6leakedbuild.exe",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "詐欺師やその他のろくでもない者たちが、マルウェアを拡散させる一環として「GTA 6」プレイの魅力にのめり込むことは何も新しいことではありませんが、サイバーセキュリティ企業はこれについて警告を発しています。",
+        "description": "While scammers and other ne'er-do-wells leaning into the allure of playing GTA 6 as part of their efforts to spread malware isn't anything new - cybersecurity companies have been issuing warnings abo",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -579,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25T01:24:43.322932"
+  "last_updated": "2026-08-25T12:29:38.148744"
 }

@@ -5,13 +5,13 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子Jessの失敗のせいで、学校で誰もがお気に入りのカードゲームが禁止されてしまいます。さらに悪いことにこれはJessにとって初めての登校日のことでした！しかも、こともあろうかゲーム内のミュータントが現実世界に出現する事態が発生。Jessと友達は怪物を阻止できるでしょうか？Mega Mutant Power Petマスターとなり、学校を救いましょう…もしかしたら世界も。",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-25"
+        "date": "2026-08-26"
       },
       {
         "title": "エピックメイジバンドル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-25"
+        "date": "2026-08-26"
       }
     ],
     "bundle": [
@@ -186,36 +186,114 @@
     ],
     "review": [
       {
-        "title": "ディストピア都市パルクール『VHOLUME』Steamでさっそく「圧倒的に好評」スタート。無機質コンクリ巨大迷宮を、“配給券”求めて孤独に走る",
+        "title": "『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭和アメリカ」先行プレイ",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "IronEqualは8月22日、『VHOLUME』をリリースした。Steamユーザーレビューでは、本作に向けてさっそく高い評価が寄せられている。",
+        "description": "大きな注目を集める『昭和米国物語』の試遊プレイで確認できたゲームプレイを紹介しよう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260825-462615/",
+        "url": "https://automaton-media.com/articles/reportjp/20260826-462922/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "『ザ・ドッグ・スターズ』レビュー：リドリー・スコット監督の新作SFオデッセイは他に類を見ないアクション映画だ",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "リドリー・スコット監督によるほぼ 10 年ぶりの SF 映画は、感情的な賭けと壮大なアクションの舞台装置を備えた勝利のスペクタクルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-dog-stars-review-ridley-scott/",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評価される名作が、3D&4K対応、最新サウンドで美麗に蘇る",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Ubisoftは8月26日、『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』を発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-462833/",
         "date": "2026-08-25",
         "is_translated": false
       },
       {
-        "title": "Be Quiet! Light Mount TKL review",
+        "title": "Gears of War: E-Day のキャンペーンの 2 つのミッションをプレイしました。1 つは素晴らしかったですが、もう 1 つはそうではありませんでした",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "A very welcome TKL update that didn't quite leave me speechless.",
+        "description": "Gears は再びセミオープンワールドになります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/i-played-two-missions-of-gears-of-war-e-days-campaign-one-rocked-but-the-other-did-not/",
         "date": "2026-08-25",
         "is_translated": true
       },
       {
-        "title": "31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest",
+        "title": "Path of Exile 2 は 12 月についに剣を入手し、ゲームの残りの部分も入手します",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Grinding Gear Games は、アクション RPG が早期アクセスを終了して無料プレイになる前に、もう 1 つのクラスを絞り込みます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-is-finally-getting-swords-in-december-and-also-the-rest-of-the-game/",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "1666: アムステルダムの早期アクセスは現在公開されていますが、30 ドルを支払う前に解決する必要があることがまだたくさんあります",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/1666-amsterdams-early-access-is-live-now-but-theres-still-plenty-that-needs-ironing-out-before-id-pay-usd30-for-it/",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "次の大きな D&D ゲームが長いゲームプレイ トレーラーで完全に明らかに",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ウォーロックのゲームプレイは私を 2000 年代半ばに思い出させます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/the-next-big-d-and-d-game-has-been-revealed/",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "バトルロイヤルがグランジへ: 新しい PUBG ゲームが登場、舞台は 90 年代",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PUBG: Ded.net は、「シューティングゲームプレイとラン全体にわたるローグライトの進行を組み合わせた新しいマルチプレイヤー FPS」です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/battle-royale/battle-royale-goes-grunge-theres-a-new-pubg-game-and-its-set-in-the-90s/",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "31 年後、美しい SNES RPG Terranigma がついに PC に登場します。コンソール戦士だった子供時代の亡霊を眠らせなければなりません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Clear River Games Development and Limited Run are working on a PC re-release of Terranigma, Quintet's Super Nintendo Entertainment System action-RPG from 1995. I never played Terranigma, for I was r",
+        "description": "Clear River Games Development と Limited Run は、1995 年に発売された Quintet の Super Nintendo Entertainment System アクション RPG、Terranigma の PC 再リリースに取り組んでいます。私は Terranigma をプレイしたことがありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -225,106 +303,28 @@
         "is_translated": true
       },
       {
-        "title": "98年発売高評価サイコホラー『Sanitarium』リマスター版発表。快適性向上、高解像度化で妄想入り混じる狂気世界への没入感マシマシ",
-        "platform": "AUTOMATON",
+        "title": "Steam で最も興味深いスローバーン アドベンチャー ゲーム、完成までに現実世界で 400 日かかる",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Ziggurat Interactiveは8月25日、サイコホラーアドベンチャーゲーム『Sanitarium』の現代向けリマスター版『Sanitarium Enhanced』を2026年内に発売すると発表した。",
+        "description": "The Longing は、プレイしているかどうかに関係なく、現実世界の 400 日をカウントダウンします…洞窟を飾り付けたり、白鯨を最初から最後まで読んだりしながら。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260825-462359/",
-        "date": "2026-08-24",
-        "is_translated": false
-      },
-      {
-        "title": "高速決着カードゲーム『MARVEL SNAP』新モード「Draft Mode」先行プレイ感想。開発期間1年半のとっておきコンテンツ、意外にも初心者向けかも",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本モードではあらかじめ用意したデッキを使用するのではなく、提示された中から選んだカードで、デッキを即興で組み上げて戦う。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/marv-20260825-462328/",
-        "date": "2026-08-24",
-        "is_translated": false
-      },
-      {
-        "title": "My FOMO over The Duskbloods not coming to PC evaporated once I actually played it",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The vampire PvPvE game is a confusing mess that isn't going to be for everyone.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/my-fomo-over-the-duskbloods-not-coming-to-pc-evaporated-once-i-actually-played-it/",
-        "date": "2026-08-24",
+        "url": "https://www.polygon.com/the-longing-steam/",
+        "date": "2026-08-25",
         "is_translated": true
       },
       {
-        "title": "Blood Dungeon review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The creators of Nidhogg and Wheel World tackle the bullet heaven genre, but can't transcend its inherent weaknesses.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/blood-dungeon-review/",
-        "date": "2026-08-24",
-        "is_translated": true
-      },
-      {
-        "title": "'The Guild' movie revival becomes highest-funded Kickstarter film ever, filling me with millennial nostalgia and making me very nervous",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Massively multi-funded online roleplaying movie.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/the-guild-movie-revival-becomes-highest-funded-kickstarter-film-ever-filling-me-with-millennial-nostalgia-and-making-me-very-nervous/",
-        "date": "2026-08-24",
-        "is_translated": true
-      },
-      {
-        "title": "Twitch hit with class-action lawsuit over Amazon AI training: 'Twitch sent no email, displayed no pop-up notification, and made no announcement'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The system was opt-out because \"nobody would opt in,\" admitted Twitch's chief product officer.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/twitch-hit-with-class-action-lawsuit-over-amazon-ai-training-twitch-sent-no-email-displayed-no-pop-up-notification-and-made-no-announcement/",
-        "date": "2026-08-24",
-        "is_translated": true
-      },
-      {
-        "title": "Sandustry is the first factory simulation game I've played that gets heaps right",
+        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Before we talk about Sandustry, the excellent new spelunking factory builder from Lantto Games and Hooded Horse, we need to revisit that most quintessentially vidyagame of topics, the post-industria",
+        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "PSA: In the latest GTA 6 leak's aftermath, it's not a good idea to download files with names like totallylegitgta6leakedbuild.exe",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "While scammers and other ne'er-do-wells leaning into the allure of playing GTA 6 as part of their efforts to spread malware isn't anything new - cybersecurity companies have been issuing warnings abo",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/psa-in-the-latest-gta-6-leaks-aftermath-its-not-a-good-idea-to-download-files-with-names-like-totallylegitgta6leakedbuildexe",
         "date": "2026-08-21",
         "is_translated": true
       }
@@ -566,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25T12:29:38.148744"
+  "last_updated": "2026-08-26T01:27:00.635941"
 }

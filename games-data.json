@@ -5,7 +5,7 @@
         "title": "『Cardpocalypse』 Standard Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてしまいます。 さらにこれはジェスにとって初めての登校日のことでした！",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてます。 さらになんかこれはジェスにとって初めての登校日のことでした！ ところで、ことも危ういゲーム内のミュータントが現実世界に出現する事態が発生。",
         "price": "無料",
         "originalPrice": "¥2,380",
         "discount": "100% OFF",
@@ -27,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT (100% off/Free)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-26"
+      },
       {
         "title": "Build Your Own Myths & Legends Bundle",
         "platform": "Fanatical",
@@ -170,21 +182,35 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-13"
-      },
-      {
-        "title": "Build Your Own Family Board Games Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-12"
       }
     ],
     "review": [
+      {
+        "title": "『ロックマン: デュアル オーバーライド』先行プレイ感想。前作「ダブルギアシステム」から一新、シリーズの“ツボ”を押さえた正統進化",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ロックマン: デュアル オーバーライド』はナンバリング第12作に相当するシリーズ最新作。本記事では、体験会で得られた本作のプレイフィールを紹介する。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260826-462291/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "『ペルソナ４ リバイバル』先行プレイ感想。オリジナルの要素はそのままに、「今遊ぶ意味」と向き合うリメイク",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ペルソナ４ リバイバル』の先行プレイを通じてどのような作品に仕上がっていたのか、進化の方向性を確かめていきたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/persona-4-revival-20260826-462472/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
       {
         "title": "『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭和アメリカ」先行プレイ",
         "platform": "AUTOMATON",
@@ -199,36 +225,23 @@
         "is_translated": false
       },
       {
-        "title": "『ザ・ドッグ・スターズ』レビュー：リドリー・スコット監督の新作SFオデッセイは他に類を見ないアクション映画だ",
+        "title": "カプコンの『ロックマン: デュアル オーバーライド』は昔ながらのゲームだ",
         "platform": "Polygon",
         "type": "review",
-        "description": "リドリー・スコット監督によるほぼ 10 年ぶりの SF 映画は、感情的な賭けと壮大なアクションの舞台装置を備えた勝利のスペクタクルです。",
+        "description": "私たちは『ロックマン デュアル オーバーライド』を実際にプレイしてみたところ、カプコンの最新作がシリーズのレトロなデザインから逸脱していないことがわかりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/the-dog-stars-review-ridley-scott/",
+        "url": "https://www.polygon.com/mega-man-dual-override-hands-on/",
         "date": "2026-08-26",
         "is_translated": true
       },
       {
-        "title": "ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評価される名作が、3D&4K対応、最新サウンドで美麗に蘇る",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Ubisoftは8月26日、『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』を発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260826-462833/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "Gears of War: E-Day のキャンペーンの 2 つのミッションをプレイしました。1 つは素晴らしかったですが、もう 1 つはそうではありませんでした",
+        "title": "I played two missions of Gears of War: E-Day's campaign: One rocked, but the other did not",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Gears は再びセミオープンワールドになります。",
+        "description": "Gears goes semi-open-world, again.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -238,10 +251,10 @@
         "is_translated": true
       },
       {
-        "title": "Path of Exile 2 は 12 月についに剣を入手し、ゲームの残りの部分も入手します",
+        "title": "Path of Exile 2 is finally getting swords in December, and also the rest of the game",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Grinding Gear Games は、アクション RPG が早期アクセスを終了して無料プレイになる前に、もう 1 つのクラスを絞り込みます。",
+        "description": "Grinding Gear Games squeezes one more class in before the action RPG leaves early access and goes free-to-play.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -251,7 +264,7 @@
         "is_translated": true
       },
       {
-        "title": "1666: アムステルダムの早期アクセスは現在公開されていますが、30 ドルを支払う前に解決する必要があることがまだたくさんあります",
+        "title": "1666: Amsterdam's early access is live now but there's still plenty that needs ironing out before I'd pay $30 for it",
         "platform": "PC Gamer",
         "type": "review",
         "description": "PC Gamerによるレビュー記事。",
@@ -264,10 +277,10 @@
         "is_translated": true
       },
       {
-        "title": "次の大きな D&D ゲームが長いゲームプレイ トレーラーで完全に明らかに",
+        "title": "Next big D&D game fully revealed with lengthy gameplay trailer",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ウォーロックのゲームプレイは私を 2000 年代半ばに思い出させます。",
+        "description": "Warlock gameplay is bringing me back to the mid-2000s.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -277,10 +290,10 @@
         "is_translated": true
       },
       {
-        "title": "バトルロイヤルがグランジへ: 新しい PUBG ゲームが登場、舞台は 90 年代",
+        "title": "Battle royale goes grunge: there's a new PUBG game and it's set in the '90s",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "PUBG: Ded.net は、「シューティングゲームプレイとラン全体にわたるローグライトの進行を組み合わせた新しいマルチプレイヤー FPS」です。",
+        "description": "PUBG: Ded.net is \"a new multiplayer FPS that combines shooter gameplay with roguelite progression across runs.\"",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -290,7 +303,7 @@
         "is_translated": true
       },
       {
-        "title": "31 年後、美しい SNES RPG Terranigma がついに PC に登場します。コンソール戦士だった子供時代の亡霊を眠らせなければなりません。",
+        "title": "31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "Clear River Games Development と Limited Run は、1995 年に発売された Quintet の Super Nintendo Entertainment System アクション RPG、Terranigma の PC 再リリースに取り組んでいます。私は Terranigma をプレイしたことがありません。",
@@ -300,32 +313,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest",
         "date": "2026-08-25",
-        "is_translated": true
-      },
-      {
-        "title": "Steam で最も興味深いスローバーン アドベンチャー ゲーム、完成までに現実世界で 400 日かかる",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The Longing は、プレイしているかどうかに関係なく、現実世界の 400 日をカウントダウンします…洞窟を飾り付けたり、白鯨を最初から最後まで読んだりしながら。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-longing-steam/",
-        "date": "2026-08-25",
-        "is_translated": true
-      },
-      {
-        "title": "Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Lantto Games と Hooded Horse が開発した優れた新しい洞窟工場ビルダー、Sandustry について話す前に、最も典型的な vidyagame のトピックであるポスト産業を再訪する必要があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
-        "date": "2026-08-21",
         "is_translated": true
       }
     ],
@@ -566,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-26T01:27:00.635941"
+  "last_updated": "2026-08-26T12:32:03.719414"
 }

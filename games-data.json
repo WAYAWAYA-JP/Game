@@ -17,7 +17,7 @@
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
+        "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "PAX West 2026 Bundle (Pay $10 for Order Automatica, The Lacerator, GODBREAKERS, Parking Garage Rally Circuit, Neckbreak, and $20 for Cornucopia, Dark Deity 2, Quilts and Cats of Calico Special Edition)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Build Your Own Discoveries Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-08-28"
+      },
       {
         "title": "Nuntius Games Bundle (9 for $7.99 - Choose from Alien Strike: Blasting the Intruders / Pimbolas / Damned 2 / Bloodrush: Undying Wish / DOCTOR VISCERA / Ghetto Zombies - Graffiti Squad / Islets Defense / More)",
         "platform": "Fanatical",
@@ -175,15 +199,41 @@
         "is_translated": false
       },
       {
-        "title": "プレビューでは答えられていない GTA 6 の 4 つの主要な質問",
-        "platform": "Polygon",
+        "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "キャストには誰がいますか？ 「GTAオンライン」で何が起こっているのでしょうか？ Rockstar の Netflix グランド・セフト・オート 6 のエクステンデッド・ルックの後で質問があります。",
+        "description": "Hands-on with the free-to-play boss-killer.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "url": "https://www.pcgamer.com/games/action/nodusfall-isnt-elden-ring-monster-hunter-or-a-typical-hoyoverse-game-its-something-very-different/",
+        "date": "2026-08-28",
+        "is_translated": true
+      },
+      {
+        "title": "5 samurai movies to watch before playing Onimusha: Way of the Sword",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "While you were out partying, I was studying the blade (on DVD).",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/5-samurai-movies-to-watch-before-playing-onimusha-way-of-the-sword/",
+        "date": "2026-08-28",
+        "is_translated": true
+      },
+      {
+        "title": "8 Incredible Details In GTA 6's Extended Look That Blew Us Away",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "GTA 6's 26-minute trailer was full of small gameplay details that were easy to miss amid the shootouts and police chases",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-youtube-hair-sweat-animals-gameplay-details/",
         "date": "2026-08-28",
         "is_translated": true
       },
@@ -201,7 +251,7 @@
         "is_translated": false
       },
       {
-        "title": "「GTA 6」のゲームプレイ公開の内訳: 発見されたすべての詳細の概要",
+        "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
         "platform": "PC Gamer",
         "type": "review",
         "description": "変装して犯罪を犯したり、警察から逃げたりするための小さな戦術的な駆け引きもたくさん見られました。",
@@ -243,7 +293,7 @@
         "title": "GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途半端にそれを決めても、彼らが一緒に犯罪を犯すのを止めることはできません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "そうですね、見ていただけますか、GTA 6 は本物のビデオ ゲームです。これを読んでいる時点で、あなたは Netflix のプレビューを見ているか、他の人が Netflix のプレビューを見ているのを見ているか、あるいはそれが",
+        "description": "Well, would you look at that, GTA 6 is a real video game! I'm sure by the time you're reading this you've either watched the Netflix preview, watched someone else watch the Netflix preview, or it's",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -253,10 +303,10 @@
         "is_translated": true
       },
       {
-        "title": "GTA6？いいえ、私は Volvy's Adventure: Reslimed をプレイする予定です。これは Devolver のアクション プラットフォーマーで、Rockstar の巨大なゲームと毎日リリースされます。",
+        "title": "GTA 6? No thanks, I'll be playing Volvy's Adventure: Reslimed, an action platformer from Devolver that's releasing day and date with Rockstar's behemoth",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 6 以外に 11 月にリリースされるゲームは存在しないため、GTA 6 がいつリリースされるかは誰もが知っています。あるいは、Devolver Digital が彼らが好む悪党でないとしたら、それは真実でしょう。彼らはそうしてきました",
+        "description": "We all know when GTA 6 is releasing because there are zero games releasing in November apart from it. Or, that would be true, if Devolver Digital weren't the miscreants they love to be. They've been",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -266,10 +316,10 @@
         "is_translated": true
       },
       {
-        "title": "Resonance: A Plague Tale Legacy レビュー – 前作のユニークさを失った有能なアクション ゲームのスピンオフ",
+        "title": "Resonance: A Plague Tale Legacy review – a competent action game spinoff that loses what made its predecessors unique",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "光と闇を描いたシリーズとしては、『Resonance: A Plague Tale Legacy』がメイン エントリの影から逃れようとするスピンオフであることは適切です。開発者 Asobo Studio は多くのことを落としました",
+        "description": "For a series about light and dark, it's appropriate that Resonance: A Plague Tale Legacy is a spinoff that's trying to escape the main entries' shadow. Developer Asobo Studio have dropped much that",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -516,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-28T10:18:12.833197"
+  "last_updated": "2026-08-28T21:37:09.890276"
 }

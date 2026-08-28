@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-27"
+        "date": "2026-08-28"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-27"
+        "date": "2026-08-28"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-08-27"
+        "date": "2026-08-28"
       },
       {
         "title": "Beyond the Metroidverse Bundle (Pay $5 for Salt and Sanctuary, Salt and Sacrifice, and $10 for Supraland Six Inches Under, HAAK, Monster Boy and the Cursed Kingdom, Worldless, Hunter X)",
@@ -158,21 +158,35 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-08-16"
-      },
-      {
-        "title": "Build Your Own Titanium Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-14"
       }
     ],
     "review": [
+      {
+        "title": "80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand Theft Auto VI」の多彩な新情報が解禁",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先ほど、27分弱に及ぶ日本語字幕入りの映像が遂に解禁された「Grand Theft Auto VI」ですが、来る2026年11月19日の発売に大きな期待が掛かるなか、新映像の公開に併せて、幾つかのプレビューが解禁され、最 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170214.html",
+        "date": "2026-08-28",
+        "is_translated": false
+      },
+      {
+        "title": "プレビューでは答えられていない GTA 6 の 4 つの主要な質問",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "キャストには誰がいますか？ 「GTAオンライン」で何が起こっているのでしょうか？ Rockstar の Netflix グランド・セフト・オート 6 のエクステンデッド・ルックの後で質問があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-08-28",
+        "is_translated": true
+      },
       {
         "title": "基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注ぐ、超ド級ゲーム体験",
         "platform": "AUTOMATON",
@@ -187,62 +201,10 @@
         "is_translated": false
       },
       {
-        "title": "『鳴潮』はコンサートもストーリー仕立てだった。美しい音楽と熱いセットリストと共に蘇る、「あの感情」たち",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "2026年8月22日に東京ガーデンシアターで開催された『鳴潮』コンサートのレポートをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/meicho-202608-463585/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "コロニーシム×ストラテジー『CONQUISTA: Tide of Wills』は、ひとりの領民の“情熱”が歴史を動かすこともある。国家運営だけど“人を見る”ってどういうことなのか、触れてきた",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "コロニーシム×ストラテジー『CONQUISTA: TIDE OF WILLS』の試遊レポートをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/conquista-20260827-463440/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "ハイスピードバトル球技アクション『BAKUDO』は、球技なのに死にゲーでヒリつく難易度だった。なぜか槍と雷が降ってくるボールスポーツ、試されまくる反射神経",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ハイスピードバトル球技アクション『BAKUDO』の試遊レポートをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/bakudo-20260827-463193/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」がアナウンス、無料先行プレイテストの実施も",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本日、Q-Gamesが国内向けのプレスリリースを発行し、“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」を正式にアナウンス。PC Steam向けの発売を予定していることが明らかになりました […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170192.html",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "「GTA 6」のゲームプレイ明らかになった内訳: 発見されたすべての詳細の概要",
+        "title": "「GTA 6」のゲームプレイ公開の内訳: 発見されたすべての詳細の概要",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "変装して犯罪を犯したり、警察から逃れたりするための小さな戦術的な駆け引きもたくさん見られました。",
+        "description": "変装して犯罪を犯したり、警察から逃げたりするための小さな戦術的な駆け引きもたくさん見られました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -265,15 +227,15 @@
         "is_translated": true
       },
       {
-        "title": "8 月 27 日の GTA 6 ゲームプレイ公開をいつ、どこで視聴できるか",
-        "platform": "PC Gamer",
+        "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ロックスターはついに正式に、Netflix で最初に公開される公開で GTA 6 のゲームプレイを披露します。",
+        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/how-to-watch-gta-6-gameplay-reveal-time-netflix-youtube/",
+        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
         "date": "2026-08-27",
         "is_translated": true
       },
@@ -291,7 +253,7 @@
         "is_translated": true
       },
       {
-        "title": "GTA6？いいえ、私は Volvy's Adventure: Reslimed をプレイする予定です。これは Devolver のアクション プラットフォーマーで、Rockstar の巨大ゲームと日替わりでリリースされます。",
+        "title": "GTA6？いいえ、私は Volvy's Adventure: Reslimed をプレイする予定です。これは Devolver のアクション プラットフォーマーで、Rockstar の巨大なゲームと毎日リリースされます。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "GTA 6 以外に 11 月にリリースされるゲームは存在しないため、GTA 6 がいつリリースされるかは誰もが知っています。あるいは、Devolver Digital が彼らが好む悪党でないとしたら、それは真実でしょう。彼らはそうしてきました",
@@ -300,45 +262,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/gta-6-no-thanks-ill-be-playing-volvys-adventure-reslimed-an-action-platformer-from-devolver-thats-releasing-day-and-date-with-rockstars-behemoth",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "「GTA 6」のゲームプレイで確認されたすべての曲の詳細",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ロックスターの長い GTA 6 ゲームプレイ トレーラーには、フィル コリンズやデフ レパードなどのアーティストによる十数曲の音楽トラックがフィーチャーされていました",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-gameplay-trailer-all-music-artists-tracks/",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "Netflix ストリームをフォローして、GTA 6 のプレビューをさらに追加して、ゲームについてさらに詳しく明らかにしましょう",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Grant Theft Auto 6 の最初の公式プレビューが公開されています。ここでは、Rockstar の最新情報について詳しく知ることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-preview-roundup/",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "「GTA 6」の新しい評判システムはゲームのプレイに関するすべてを変える",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "NetflixによるGTA 6の詳細な考察は、ロックスターがRDR2から名誉と名声の公式を進化させていることを示している",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-fame-honor-how-does-it-work-relationship-mechanics-netflix/",
         "date": "2026-08-27",
         "is_translated": true
       },
@@ -353,19 +276,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
         "date": "2026-08-26",
-        "is_translated": true
-      },
-      {
-        "title": "31 年後、美しい SNES RPG Terranigma がついに PC に登場します。コンソール戦士だった子供時代の亡霊を眠らせなければなりません。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Clear River Games Development と Limited Run は、1995 年に発売された Quintet の Super Nintendo Entertainment System アクション RPG、Terranigma の PC 再リリースに取り組んでいます。私は Terranigma をプレイしたことがありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest",
-        "date": "2026-08-25",
         "is_translated": true
       }
     ],
@@ -606,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-27T21:27:40.945707"
+  "last_updated": "2026-08-28T10:18:12.833197"
 }

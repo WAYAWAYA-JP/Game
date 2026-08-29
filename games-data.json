@@ -186,6 +186,32 @@
     ],
     "review": [
       {
+        "title": "I played just an hour of Total War: Warhammer 40,000 and it was the highlight of my year",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Living the grimdark dream.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Saturdays are for actually remembering that it's a Bank Holiday weekend, rather than forgetting and coming in on Monday and getting viciously annoyed with Julian and Mark for seeming to ignore your G",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-397",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
         "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
         "platform": "PC Gamer",
         "type": "review",
@@ -215,7 +241,7 @@
         "title": "\"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
+        "description": "Update 28/8: Valve appear to have taken action, changing the game's rating - the storepage can now be accessed in the UK. \"It looks like Steam re-reviewed Future? No Thanks! and removed the 'frequent",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -251,10 +277,10 @@
         "is_translated": true
       },
       {
-        "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
+        "title": "Say goodbye to stealing any car you like with a single button in GTA 6, and hello to whatever the hell the WAINK scanner is",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです。 GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
+        "description": "It's finally here! The preview for that extended look at a crime sim currently without a PC release date! GTA 6, or in the immortal words of Jack Nance, \"Grand Theft Auto\" [6]. After a long drought",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -264,7 +290,7 @@
         "is_translated": true
       },
       {
-        "title": "GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途半端にそれを決めても、彼らが一緒に犯罪を犯すのを止めることはできません。",
+        "title": "Your biggest choice in GTA 6 is whether Lucia and Jason stay a couple, but half-arsing it won't stop them doing crimes together",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "そうですね、見ていただけますか、GTA 6 は本物のビデオ ゲームです。これを読んでいる時点で、あなたは Netflix のプレビューを見ているか、他の人が Netflix のプレビューを見ているのを見ているか、あるいはそれが",
@@ -287,19 +313,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/gta-6-no-thanks-ill-be-playing-volvys-adventure-reslimed-an-action-platformer-from-devolver-thats-releasing-day-and-date-with-rockstars-behemoth",
         "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "Resonance: A Plague Tale Legacy レビュー – 前作のユニークさを失った有能なアクション ゲームのスピンオフ",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "光と闇を描いたシリーズとしては、『Resonance: A Plague Tale Legacy』がメイン エントリの影から逃れようとするスピンオフであることは適切です。開発者 Asobo Studio は多くのことを落としました",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
-        "date": "2026-08-26",
         "is_translated": true
       }
     ],
@@ -540,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T06:18:29.649259"
+  "last_updated": "2026-08-29T15:58:37.002796"
 }

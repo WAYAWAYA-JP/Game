@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
       },
       {
         "title": "Build Your Own Discoveries Bundle",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
       },
       {
         "title": "Nuntius Games Bundle (9 for $7.99 - Choose from Alien Strike: Blasting the Intruders / Pimbolas / Damned 2 / Bloodrush: Undying Wish / DOCTOR VISCERA / Ghetto Zombies - Graffiti Squad / Islets Defense / More)",
@@ -186,19 +186,6 @@
     ],
     "review": [
       {
-        "title": "80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand Theft Auto VI」の多彩な新情報が解禁",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先ほど、27分弱に及ぶ日本語字幕入りの映像が遂に解禁された「Grand Theft Auto VI」ですが、来る2026年11月19日の発売に大きな期待が掛かるなか、新映像の公開に併せて、幾つかのプレビューが解禁され、最 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170214.html",
-        "date": "2026-08-28",
-        "is_translated": false
-      },
-      {
         "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
         "platform": "PC Gamer",
         "type": "review",
@@ -225,36 +212,23 @@
         "is_translated": true
       },
       {
-        "title": "8 Incredible Details In GTA 6's Extended Look That Blew Us Away",
-        "platform": "Polygon",
+        "title": "\"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "GTA 6's 26-minute trailer was full of small gameplay details that were easy to miss amid the shootouts and police chases",
+        "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gta-6-youtube-hair-sweat-animals-gameplay-details/",
+        "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
         "date": "2026-08-28",
         "is_translated": true
-      },
-      {
-        "title": "基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注ぐ、超ド級ゲーム体験",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『無限大ANANTA』の魅力は一体なにをプレイヤーにもたらしてくれるのか。サービスの正式リリース日が待ち遠しい限りだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ananta-20260827-463688/",
-        "date": "2026-08-27",
-        "is_translated": false
       },
       {
         "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "変装して犯罪を犯したり、警察から逃げたりするための小さな戦術的な駆け引きもたくさん見られました。",
+        "description": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -264,10 +238,10 @@
         "is_translated": true
       },
       {
-        "title": "「GTA 6」の公開についてどう思いますか?",
+        "title": "What do you think of the GTA 6 reveal?",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Netflix のプレビューはあなたがこれまで望んでいたものすべてでしたか、それとも失敗でしたか?",
+        "description": "Was the Netflix preview everything you’ve ever wanted, or a dud?",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -280,7 +254,7 @@
         "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
+        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです。 GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -293,7 +267,7 @@
         "title": "GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途半端にそれを決めても、彼らが一緒に犯罪を犯すのを止めることはできません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Well, would you look at that, GTA 6 is a real video game! I'm sure by the time you're reading this you've either watched the Netflix preview, watched someone else watch the Netflix preview, or it's",
+        "description": "そうですね、見ていただけますか、GTA 6 は本物のビデオ ゲームです。これを読んでいる時点で、あなたは Netflix のプレビューを見ているか、他の人が Netflix のプレビューを見ているのを見ているか、あるいはそれが",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -303,10 +277,10 @@
         "is_translated": true
       },
       {
-        "title": "GTA 6? No thanks, I'll be playing Volvy's Adventure: Reslimed, an action platformer from Devolver that's releasing day and date with Rockstar's behemoth",
+        "title": "GTA6？いいえ、私は Volvy's Adventure: Reslimed をプレイする予定です。これは Devolver のアクション プラットフォーマーで、Rockstar の巨大なゲームと毎日リリースされます。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "We all know when GTA 6 is releasing because there are zero games releasing in November apart from it. Or, that would be true, if Devolver Digital weren't the miscreants they love to be. They've been",
+        "description": "GTA 6 以外に 11 月にリリースされるゲームは存在しないため、GTA 6 がいつリリースされるかは誰もが知っています。あるいは、Devolver Digital が彼らが好む悪党でないとしたら、それは真実でしょう。彼らはそうしてきました",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -316,10 +290,10 @@
         "is_translated": true
       },
       {
-        "title": "Resonance: A Plague Tale Legacy review – a competent action game spinoff that loses what made its predecessors unique",
+        "title": "Resonance: A Plague Tale Legacy レビュー – 前作のユニークさを失った有能なアクション ゲームのスピンオフ",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "For a series about light and dark, it's appropriate that Resonance: A Plague Tale Legacy is a spinoff that's trying to escape the main entries' shadow. Developer Asobo Studio have dropped much that",
+        "description": "光と闇を描いたシリーズとしては、『Resonance: A Plague Tale Legacy』がメイン エントリの影から逃れようとするスピンオフであることは適切です。開発者 Asobo Studio は多くのことを落としました",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -566,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-28T21:37:09.890276"
+  "last_updated": "2026-08-29T06:18:29.649259"
 }

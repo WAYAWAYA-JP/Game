@@ -29,7 +29,7 @@
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
+        "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
@@ -186,6 +186,32 @@
     ],
     "review": [
       {
+        "title": "MCU俳優、『アベンジャーズ／エンドゲーム』スピンオフについて7年間マーベルに売り込みを続けていたことを明かす",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『アベンジャーズ／インフィニティ・ウォー』と『アベンジャーズ／エンドゲーム』でレッドスカルを演じた俳優ロス・マーカンドが、キャプテン・アメリカのTVシリーズについてマーベルに売り込む",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ross-marquand-red-skull-captain-america-infinity-stones-pitch/",
+        "date": "2026-08-30",
+        "is_translated": true
+      },
+      {
+        "title": "これまでの 2026 年のベスト ゲーム: Pragmata、Pokopia など",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "We're keeping track of the best video games we've played so far in 2026, from Cairn to Resident Evil Requiem.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-2026-games-xbox-ps5-switch-pc/",
+        "date": "2026-08-30",
+        "is_translated": true
+      },
+      {
         "title": "「不確実な」業界を生き残るためにスタジオが続編から開発者をシフトさせる中、『The Long Dark』には再び新しいDLCが登場：「我々はこれに適応しなければならない」",
         "platform": "PC Gamer",
         "type": "review",
@@ -202,7 +228,7 @@
         "title": "Total War: Warhammer 40,000 を 1 時間だけプレイしましたが、それは私の今年のハイライトでした",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "暗い夢を生きています。",
+        "description": "暗い夢を生きている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -212,7 +238,7 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
@@ -225,36 +251,10 @@
         "is_translated": true
       },
       {
-        "title": "Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades が出会う",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Murals, a new action game from Disney Illusion Island maker Dlala Studios, has obvious Hades and Doom references according to our preview.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/murals-gamescom-2026-preview/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "Animal Crossing Gets Its First Serious Competition In Years",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Petit Planet, an upcoming life sim from HoYoverse, has all the marks of a great Animal Crossing clone, according to a new hands-on preview.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/petit-planet-gamescom-2026-preview/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "Nodusfall はエルデン リングでも、モンスター ハンターでも、典型的な HoYverse ゲームでもありません。それはまったく異なるものです。",
+        "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "無料でプレイできるボスキラーを実際にプレイしてみましょう。",
+        "description": "Hands-on with the free-to-play boss-killer.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -277,7 +277,7 @@
         "is_translated": true
       },
       {
-        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
+        "title": "「Valve の誰かを知っている人を必死に探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
@@ -293,7 +293,7 @@
         "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
+        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです。 GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -566,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-30T04:27:13.636894"
+  "last_updated": "2026-08-30T15:44:48.745739"
 }

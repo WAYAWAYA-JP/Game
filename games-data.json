@@ -11,19 +11,31 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-29"
+        "date": "2026-08-30"
+      },
+      {
+        "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Old Ones Awakenには、新たなレベルが含まれています！",
+        "price": "無料",
+        "originalPrice": "¥390",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-08-30"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
+        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-29"
+        "date": "2026-08-30"
       }
     ],
     "bundle": [
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-29"
+        "date": "2026-08-30"
       },
       {
         "title": "Build Your Own Discoveries Bundle",
@@ -170,26 +182,27 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-08-18"
-      },
-      {
-        "title": "[Steam] The Judgment Collection ($25.05USD/73% Off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-16"
       }
     ],
     "review": [
       {
-        "title": "I played just an hour of Total War: Warhammer 40,000 and it was the highlight of my year",
+        "title": "「不確実な」業界を生き残るためにスタジオが続編から開発者をシフトさせる中、『The Long Dark』には再び新しいDLCが登場：「我々はこれに適応しなければならない」",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Living the grimdark dream.",
+        "description": "結局のところ、Blackfrost の早期アクセス リリースは今年中にはリリースされないでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "Total War: Warhammer 40,000 を 1 時間だけプレイしましたが、それは私の今年のハイライトでした",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "暗い夢を生きています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -199,10 +212,10 @@
         "is_translated": true
       },
       {
-        "title": "What are we all playing this weekend?",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Saturdays are for actually remembering that it's a Bank Holiday weekend, rather than forgetting and coming in on Monday and getting viciously annoyed with Julian and Mark for seeming to ignore your G",
+        "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -212,10 +225,36 @@
         "is_translated": true
       },
       {
-        "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
+        "title": "Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades が出会う",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Murals, a new action game from Disney Illusion Island maker Dlala Studios, has obvious Hades and Doom references according to our preview.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/murals-gamescom-2026-preview/",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "Animal Crossing Gets Its First Serious Competition In Years",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Petit Planet, an upcoming life sim from HoYoverse, has all the marks of a great Animal Crossing clone, according to a new hands-on preview.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/petit-planet-gamescom-2026-preview/",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "Nodusfall はエルデン リングでも、モンスター ハンターでも、典型的な HoYverse ゲームでもありません。それはまったく異なるものです。",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Hands-on with the free-to-play boss-killer.",
+        "description": "無料でプレイできるボスキラーを実際にプレイしてみましょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -225,10 +264,10 @@
         "is_translated": true
       },
       {
-        "title": "5 samurai movies to watch before playing Onimusha: Way of the Sword",
+        "title": "『鬼武者: Way of the Sword』をプレイする前に見るべき 5 つのサムライ映画",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "While you were out partying, I was studying the blade (on DVD).",
+        "description": "あなたがパーティーに出かけている間、私はブレードについて（DVDで）勉強していました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -238,10 +277,10 @@
         "is_translated": true
       },
       {
-        "title": "\"I'm desperately looking for anybody who knows anybody at Valve\": open world satire Future? No Thanks! is still locked in Steam horny jail",
+        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Update 28/8: Valve appear to have taken action, changing the game's rating - the storepage can now be accessed in the UK. \"It looks like Steam re-reviewed Future? No Thanks! and removed the 'frequent",
+        "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -251,36 +290,10 @@
         "is_translated": true
       },
       {
-        "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "What do you think of the GTA 6 reveal?",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Was the Netflix preview everything you’ve ever wanted, or a dud?",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/what-do-you-think-of-the-gta-6-reveal/",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "Say goodbye to stealing any car you like with a single button in GTA 6, and hello to whatever the hell the WAINK scanner is",
+        "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "It's finally here! The preview for that extended look at a crime sim currently without a PC release date! GTA 6, or in the immortal words of Jack Nance, \"Grand Theft Auto\" [6]. After a long drought",
+        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -290,7 +303,7 @@
         "is_translated": true
       },
       {
-        "title": "Your biggest choice in GTA 6 is whether Lucia and Jason stay a couple, but half-arsing it won't stop them doing crimes together",
+        "title": "GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途半端にそれを決めても、彼らが一緒に犯罪を犯すのを止めることはできません。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "そうですね、見ていただけますか、GTA 6 は本物のビデオ ゲームです。これを読んでいる時点で、あなたは Netflix のプレビューを見ているか、他の人が Netflix のプレビューを見ているのを見ているか、あるいはそれが",
@@ -553,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29T15:58:37.002796"
+  "last_updated": "2026-08-30T04:27:13.636894"
 }

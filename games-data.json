@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
       },
       {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
+        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
         "price": "無料",
         "originalPrice": "¥2,480",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
       },
       {
         "title": "Build Your Own Discoveries Bundle",
@@ -186,28 +186,54 @@
     ],
     "review": [
       {
-        "title": "MCU俳優、『アベンジャーズ／エンドゲーム』スピンオフについて7年間マーベルに売り込みを続けていたことを明かす",
-        "platform": "Polygon",
+        "title": "Steam 週間の振り返り: Steam で最も人気のあるジャンルのトップ 10 をご紹介します",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "『アベンジャーズ／インフィニティ・ウォー』と『アベンジャーズ／エンドゲーム』でレッドスカルを演じた俳優ロス・マーカンドが、キャプテン・アメリカのTVシリーズについてマーベルに売り込む",
+        "description": "8 月 30 日までの週の Steam に関する興味深い事実をまとめました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/ross-marquand-red-skull-captain-america-infinity-stones-pitch/",
-        "date": "2026-08-30",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-top-10-most-popular-genres-on-steam/",
+        "date": "2026-08-31",
         "is_translated": true
       },
       {
-        "title": "これまでの 2026 年のベスト ゲーム: Pragmata、Pokopia など",
+        "title": "『The Expanse: Osiris Reborn』はビデオゲーム史上最高の映画化作品のようだ",
         "platform": "Polygon",
         "type": "review",
-        "description": "We're keeping track of the best video games we've played so far in 2026, from Cairn to Resident Evil Requiem.",
+        "description": "Gamescom のプレビューによると、Owlcat Games のサードパーソン アクション RPG である The Expanse: Osiris Reborn は、そのソース素材の本質を捉えているとのことです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/best-2026-games-xbox-ps5-switch-pc/",
+        "url": "https://www.polygon.com/expanse-osiris-reborn-gamescom-preview-2026/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "「ウィッチャー3 ワイルドハント: 追憶の調べ」の本格的な公式プレビュー映像が公開、素敵なサウンドトラックも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、待望のお披露目を果たし、“gamescom award 2026”において見事最多3部門受賞を果たした期待の大型拡張パック「ウィッチャー3 ワイルドハント: 追憶の調べ」ですが、ダンディリオンの知られざる出自と新た […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170275.html",
+        "date": "2026-08-30",
+        "is_translated": false
+      },
+      {
+        "title": "Total War: Warhammer 40,000 が Gamescom で最優秀 PC ゲームを受賞",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Grimdark 戦略ゲームのプレビューが注目を集めています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
         "date": "2026-08-30",
         "is_translated": true
       },
@@ -228,7 +254,7 @@
         "title": "Total War: Warhammer 40,000 を 1 時間だけプレイしましたが、それは私の今年のハイライトでした",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "暗い夢を生きている。",
+        "description": "暗い夢を生きています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -238,7 +264,7 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊びますか？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
@@ -251,33 +277,7 @@
         "is_translated": true
       },
       {
-        "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Hands-on with the free-to-play boss-killer.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/nodusfall-isnt-elden-ring-monster-hunter-or-a-typical-hoyoverse-game-its-something-very-different/",
-        "date": "2026-08-28",
-        "is_translated": true
-      },
-      {
-        "title": "『鬼武者: Way of the Sword』をプレイする前に見るべき 5 つのサムライ映画",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "あなたがパーティーに出かけている間、私はブレードについて（DVDで）勉強していました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/5-samurai-movies-to-watch-before-playing-onimusha-way-of-the-sword/",
-        "date": "2026-08-28",
-        "is_translated": true
-      },
-      {
-        "title": "「Valve の誰かを知っている人を必死に探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
+        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
@@ -293,7 +293,7 @@
         "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです。 GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
+        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -566,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-30T15:44:48.745739"
+  "last_updated": "2026-08-31T04:31:18.516274"
 }

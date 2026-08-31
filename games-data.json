@@ -40,6 +40,30 @@
     ],
     "bundle": [
       {
+        "title": "Dread and Dark Fantasies RPG Collection (Pay $6 for Steelrising - Bastille Edition, The Axis Unseen, $12 for Darksiders Genesis, Dread Delusion, Ashen, and $18 for Pillars of Eternity II: Deadfire, Torchlight 1-3 Bundle, Kristala)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "[Steam] Super Night Riders S1 Collector Bundle ($10.82/15% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-08-31"
+      },
+      {
         "title": "PAX West 2026 Bundle (Pay $10 for Order Automatica, The Lacerator, GODBREAKERS, Parking Garage Rally Circuit, Neckbreak, and $20 for Cornucopia, Dark Deity 2, Quilts and Cats of Calico Special Edition)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -186,6 +210,45 @@
     ],
     "review": [
       {
+        "title": "名門「Housemarque」を設立し、ジャンルの転身を成功させたベテランHarri Tikkanen氏が引退、後任の責任者はSami Hakala氏",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年4月に最新作“Saros”をリリースし、高い評価を獲得したフィンランドの名門「Housemarque」ですが、本日スタジオの共同創設者でスタジオヘッド兼マネージングディレクターを務めるベテランHarri Tikkan […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170279.html",
+        "date": "2026-08-31",
+        "is_translated": false
+      },
+      {
+        "title": "鬼武者 剣の道 レビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "猛烈な戦闘力で、長らく休眠状態にあったこのシリーズをあの世から甦らせます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "ドーンウォーカーの血のレビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "たとえそれを実行する勇気が必ずしもないとしても、独自の斬新なアイデアを備えたホラー RPG。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-review/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
         "title": "Steam 週間の振り返り: Steam で最も人気のあるジャンルのトップ 10 をご紹介します",
         "platform": "PC Gamer",
         "type": "review",
@@ -199,30 +262,56 @@
         "is_translated": true
       },
       {
-        "title": "『The Expanse: Osiris Reborn』はビデオゲーム史上最高の映画化作品のようだ",
-        "platform": "Polygon",
+        "title": "『The Blood of Dawnwalker』レビュー - トップ RPG のテーブルで血を啜るにふさわしい",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Gamescom のプレビューによると、Owlcat Games のサードパーソン アクション RPG である The Expanse: Osiris Reborn は、そのソース素材の本質を捉えているとのことです。",
+        "description": "私がドーンウォーカーの血を知った瞬間は、それほど遠くないところで、地元の泥炭掘りの一人が大きな穴に落ちたときでした。お祭りのように見えたものの始まりに、兄から彼を見つけるという任務を与えられた",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/expanse-osiris-reborn-gamescom-preview-2026/",
+        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
         "date": "2026-08-31",
         "is_translated": true
       },
       {
-        "title": "「ウィッチャー3 ワイルドハント: 追憶の調べ」の本格的な公式プレビュー映像が公開、素敵なサウンドトラックも",
-        "platform": "doope!",
+        "title": "すべての冒険効果と Pokémon Go での効果",
+        "platform": "Polygon",
         "type": "review",
-        "description": "先日、待望のお披露目を果たし、“gamescom award 2026”において見事最多3部門受賞を果たした期待の大型拡張パック「ウィッチャー3 ワイルドハント: 追憶の調べ」ですが、ダンディリオンの知られざる出自と新た […]",
+        "description": "Pokémon Go の一部の伝説のポケモンには、ゲームプレイを強化する特別なボーナス効果があります。以下にそれらすべてのリストを示します。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08170275.html",
-        "date": "2026-08-30",
-        "is_translated": false
+        "url": "https://www.polygon.com/pokemon-go-adventure-effect-list-cost-unlock/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "『鬼武者 剣の道』レビュー カプコンが今年4作目のヒット作を発表",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Onimusha Way of the Sword のレビューは、いくつかの制限や繰り返しにもかかわらず、アクション ゲームの一流の戦闘とストーリーテリングを強調しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "『ドーンウォーカーの血』のレビューは、『ウィッチャー3』についにふさわしい後継者が登場したと語る",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『The Blood of Dawnwalker』のレビューが到着し、批評家は Rebel Wolves のヴァンパイア RPG を絶賛しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blood-of-dawnwalker-review-roundup/",
+        "date": "2026-08-31",
+        "is_translated": true
       },
       {
         "title": "Total War: Warhammer 40,000 が Gamescom で最優秀 PC ゲームを受賞",
@@ -247,19 +336,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "Total War: Warhammer 40,000 を 1 時間だけプレイしましたが、それは私の今年のハイライトでした",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "暗い夢を生きています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/",
         "date": "2026-08-29",
         "is_translated": true
       },
@@ -312,19 +388,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "GTA6？いいえ、私は Volvy's Adventure: Reslimed をプレイする予定です。これは Devolver のアクション プラットフォーマーで、Rockstar の巨大なゲームと毎日リリースされます。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "GTA 6 以外に 11 月にリリースされるゲームは存在しないため、GTA 6 がいつリリースされるかは誰もが知っています。あるいは、Devolver Digital が彼らが好む悪党でないとしたら、それは真実でしょう。彼らはそうしてきました",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/gta-6-no-thanks-ill-be-playing-volvys-adventure-reslimed-an-action-platformer-from-devolver-thats-releasing-day-and-date-with-rockstars-behemoth",
         "date": "2026-08-27",
         "is_translated": true
       }
@@ -566,5 +629,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-31T04:31:18.516274"
+  "last_updated": "2026-08-31T18:27:17.657816"
 }

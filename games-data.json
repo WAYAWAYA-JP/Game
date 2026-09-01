@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-31"
+        "date": "2026-09-01"
       },
       {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-31"
+        "date": "2026-09-01"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-08-31"
+        "date": "2026-09-01"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-08-31"
+        "date": "2026-09-01"
       },
       {
         "title": "[Steam] Super Night Riders S1 Collector Bundle ($10.82/15% off)",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-31"
+        "date": "2026-09-01"
       },
       {
         "title": "PAX West 2026 Bundle (Pay $10 for Order Automatica, The Lacerator, GODBREAKERS, Parking Garage Rally Circuit, Neckbreak, and $20 for Cornucopia, Dark Deity 2, Quilts and Cats of Calico Special Edition)",
@@ -194,57 +194,71 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-19"
-      },
-      {
-        "title": "[Steam] Kairosoft Bundle (82% off/ $108.72)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-18"
       }
     ],
     "review": [
       {
-        "title": "名門「Housemarque」を設立し、ジャンルの転身を成功させたベテランHarri Tikkanen氏が引退、後任の責任者はSami Hakala氏",
-        "platform": "doope!",
+        "title": "基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開始。ブラウザから遊べる「先端技術フル活用」の意欲作",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "今年4月に最新作“Saros”をリリースし、高い評価を獲得したフィンランドの名門「Housemarque」ですが、本日スタジオの共同創設者でスタジオヘッド兼マネージングディレクターを務めるベテランHarri Tikkan […]",
+        "description": "コロプラのブランドKuma the Bearは8月31日、『アクティブシネマRPG 369（ミロク）』をリリースした。本稿では先行プレイでの感想を紹介していく。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/08170279.html",
+        "url": "https://automaton-media.com/articles/newsjp/20260831-464160/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "Goodbye Volcano Highを生んだ“KO_OP”の新作Co-opライフシム「Young Suns」の製品版1.0が本日配信、ローンチトレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気アドベンチャーGoodbye Volcano Highで知られるKO_OPの新作として、昨年11月のアナウンスと同時にXbox|PC Game Pass入りを含むゲームプレビュー版の販売がスタートした宇宙テーマのCo […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170340.html",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "発売が迫るダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のプラットフォーム/地域別解禁時刻がアナウンス",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨晩、Metascoreが83、OpenCriticが85に達するレビューが解禁されたRebel Wolvesのデビュー作「The Blood of Dawnwalker」ですが、元CD PROJEKT REDのベテラン […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170329.html",
         "date": "2026-08-31",
         "is_translated": false
       },
       {
-        "title": "鬼武者 剣の道 レビュー",
+        "title": "The Blood of Dawnwalker review",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "猛烈な戦闘力で、長らく休眠状態にあったこのシリーズをあの世から甦らせます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
-        "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "ドーンウォーカーの血のレビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "たとえそれを実行する勇気が必ずしもないとしても、独自の斬新なアイデアを備えたホラー RPG。",
+        "description": "A horror RPG with novel ideas of its own, even if it doesn’t always have the courage to follow them through.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-review/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "Onimusha: Way of the Sword review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Ferociously good combat brings this long-dormant series back from the afterlife.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
         "date": "2026-08-31",
         "is_translated": true
       },
@@ -275,45 +289,6 @@
         "is_translated": true
       },
       {
-        "title": "すべての冒険効果と Pokémon Go での効果",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Pokémon Go の一部の伝説のポケモンには、ゲームプレイを強化する特別なボーナス効果があります。以下にそれらすべてのリストを示します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/pokemon-go-adventure-effect-list-cost-unlock/",
-        "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "『鬼武者 剣の道』レビュー カプコンが今年4作目のヒット作を発表",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Onimusha Way of the Sword のレビューは、いくつかの制限や繰り返しにもかかわらず、アクション ゲームの一流の戦闘とストーリーテリングを強調しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
-        "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "『ドーンウォーカーの血』のレビューは、『ウィッチャー3』についにふさわしい後継者が登場したと語る",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『The Blood of Dawnwalker』のレビューが到着し、批評家は Rebel Wolves のヴァンパイア RPG を絶賛しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/blood-of-dawnwalker-review-roundup/",
-        "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
         "title": "Total War: Warhammer 40,000 が Gamescom で最優秀 PC ゲームを受賞",
         "platform": "PC Gamer",
         "type": "review",
@@ -327,20 +302,7 @@
         "is_translated": true
       },
       {
-        "title": "「不確実な」業界を生き残るためにスタジオが続編から開発者をシフトさせる中、『The Long Dark』には再び新しいDLCが登場：「我々はこれに適応しなければならない」",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "結局のところ、Blackfrost の早期アクセス リリースは今年中にはリリースされないでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
@@ -353,7 +315,7 @@
         "is_translated": true
       },
       {
-        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだスチームの角質刑務所に閉じ込められています",
+        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだ蒸気の角質刑務所に閉じ込められています",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
@@ -629,5 +591,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-31T18:27:17.657816"
+  "last_updated": "2026-09-01T04:14:30.991432"
 }

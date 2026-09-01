@@ -198,6 +198,45 @@
     ],
     "review": [
       {
+        "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スコープリー・エクスプロア株式会社は、株式会社カプコンと合同で、「モンスターハンターNowカーニバル 2026：大阪」の発表会を実施した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/monster-hunter-now-20260901-464458/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっと遅い。圧倒的作り込みの剣戟で魅せる、「令和のカプコン」流バッサリ感",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では、製品版相当のバージョンを先行プレイした感想や、その内容についてお伝えする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "2人専用アクションゲーム『オービタルズ Orbitals』レビュー。「友情崩壊協力ゲーム」時代の真逆を征く、「友情を育む」宝石のような協力ゲーム",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "子どもの頃、物語の中で繰り広げられる冒険に胸を躍らせていた筆者にとって、友人と力を合わせながら宇宙を旅する本作のプレイ体験は、どこか懐かしく、それでいて心ときめくものであった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/orbitals-20260901-464392/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
         "title": "基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開始。ブラウザから遊べる「先端技術フル活用」の意欲作",
         "platform": "AUTOMATON",
         "type": "review",
@@ -224,23 +263,75 @@
         "is_translated": false
       },
       {
-        "title": "発売が迫るダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のプラットフォーム/地域別解禁時刻がアナウンス",
-        "platform": "doope!",
+        "title": "Pimax Dream Air レビュー",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "昨晩、Metascoreが83、OpenCriticが85に達するレビューが解禁されたRebel Wolvesのデビュー作「The Blood of Dawnwalker」ですが、元CD PROJEKT REDのベテラン […]",
+        "description": "比類のないビジュアル、優れた快適性、そして平凡なトラッキング。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170329.html",
-        "date": "2026-08-31",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/pimax-dream-air-review/",
+        "date": "2026-09-01",
+        "is_translated": true
       },
       {
-        "title": "The Blood of Dawnwalker review",
+        "title": "ドワーフ要塞の作者は、人間は人間が作った物語に自然と傾く傾向があると語る、「しかし、我々は今後数年のうちに、AIによって非常に厳しい試練を受けることになるだろう」",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "A horror RPG with novel ideas of its own, even if it doesn’t always have the courage to follow them through.",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "Aliens: Fireteam Elite 2 は Steam のレビューと同じくらい平凡です",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Cold Iron Studios の Aliens: Fireteam Elite 2 は、次の協力ゲームとしては単純すぎて退屈だ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/aliens-fireteam-elite-2-impressions/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "オンスロート レビュー: 2026 年で最も不快なアクション スリラー、そして最も重要な作品",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "アダム・ウィンガードの新作グラインドハウス・スラッシャーで、ターミネーターとキル・ビルが出会う。オンスロートのレビューをお読みください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/onslaught-review-2026/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "「スター・ウォーズ」数年で最も評価の高いゲーム開発チームの最大80％が発売前に一時帰休",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "XCOM退役軍人によって設立されたスター・ウォーズ・ゼロ・カンパニーの開発会社ビット・リアクターは、激しい紛争の中で資金を使い果たしたようだ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-wars-zero-company-bit-reactor-furlough/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "ドーンウォーカーの血のレビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "たとえそれを実行する勇気が必ずしもないとしても、独自の斬新なアイデアを備えたホラー RPG。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -250,28 +341,15 @@
         "is_translated": true
       },
       {
-        "title": "Onimusha: Way of the Sword review",
+        "title": "鬼武者 剣の道 レビュー",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Ferociously good combat brings this long-dormant series back from the afterlife.",
+        "description": "猛烈な戦闘力で、長らく休眠状態にあったこのシリーズをあの世から甦らせます。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
-        "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "Steam 週間の振り返り: Steam で最も人気のあるジャンルのトップ 10 をご紹介します",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "8 月 30 日までの週の Steam に関する興味深い事実をまとめました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-top-10-most-popular-genres-on-steam/",
         "date": "2026-08-31",
         "is_translated": true
       },
@@ -289,23 +367,10 @@
         "is_translated": true
       },
       {
-        "title": "Total War: Warhammer 40,000 が Gamescom で最優秀 PC ゲームを受賞",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Grimdark 戦略ゲームのプレビューが注目を集めています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
-        "date": "2026-08-30",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
+        "description": "土曜日は、月曜日に忘れて出勤して、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも、実際にバンクホリデーの週末であることを思い出すためのものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -315,7 +380,7 @@
         "is_translated": true
       },
       {
-        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだ蒸気の角質刑務所に閉じ込められています",
+        "title": "「Valve の誰かを知っている人を必死に探しています」: オープンワールド風刺 未来?結構です！まだ蒸気の角質刑務所に閉じ込められています",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
@@ -325,32 +390,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
         "date": "2026-08-28",
-        "is_translated": true
-      },
-      {
-        "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途半端にそれを決めても、彼らが一緒に犯罪を犯すのを止めることはできません。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "そうですね、見ていただけますか、GTA 6 は本物のビデオ ゲームです。これを読んでいる時点で、あなたは Netflix のプレビューを見ているか、他の人が Netflix のプレビューを見ているのを見ているか、あるいはそれが",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
-        "date": "2026-08-27",
         "is_translated": true
       }
     ],
@@ -591,5 +630,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-01T04:14:30.991432"
+  "last_updated": "2026-09-01T15:46:54.442750"
 }

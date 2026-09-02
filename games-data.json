@@ -211,6 +211,32 @@
         "is_translated": false
       },
       {
+        "title": "レゴ スカイラインを少しプレイした後では、交通渋滞よりも装飾を重視する人向けの街づくりゲームのように思えます。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "短いプレビューでは、素晴らしい景色を望む居心地の良い穏やかな建築業者が明らかになりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/city-builder/after-playing-a-bit-of-lego-skylines-it-seems-like-a-city-builder-for-people-who-care-less-about-traffic-jams-and-more-about-decorating/",
+        "date": "2026-09-02",
+        "is_translated": true
+      },
+      {
+        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/rockstar-unveil-the-next-evolution-of-modded-gta-5-roleplaying-while-staying-totally-mum-on-when-pc-pretenders-might-be-able-to-migrate-to-their-next-game",
+        "date": "2026-09-02",
+        "is_translated": true
+      },
+      {
         "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
         "platform": "AUTOMATON",
         "type": "review",
@@ -237,32 +263,6 @@
         "is_translated": false
       },
       {
-        "title": "2人専用アクションゲーム『オービタルズ Orbitals』レビュー。「友情崩壊協力ゲーム」時代の真逆を征く、「友情を育む」宝石のような協力ゲーム",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "子どもの頃、物語の中で繰り広げられる冒険に胸を躍らせていた筆者にとって、友人と力を合わせながら宇宙を旅する本作のプレイ体験は、どこか懐かしく、それでいて心ときめくものであった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/orbitals-20260901-464392/",
-        "date": "2026-09-01",
-        "is_translated": false
-      },
-      {
-        "title": "基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開始。ブラウザから遊べる「先端技術フル活用」の意欲作",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "コロプラのブランドKuma the Bearは8月31日、『アクティブシネマRPG 369（ミロク）』をリリースした。本稿では先行プレイでの感想を紹介していく。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260831-464160/",
-        "date": "2026-09-01",
-        "is_translated": false
-      },
-      {
         "title": "良い評価は「大きな安堵感」だとブラッド・オブ・ドーンウォーカーの監督が語る、CD Projektの元同僚らが列をなして祝福の言葉を贈る",
         "platform": "PC Gamer",
         "type": "review",
@@ -276,7 +276,7 @@
         "is_translated": true
       },
       {
-        "title": "ロックスターが招待制の新しい Nopixel V RP サーバーを宣伝するため、GTA ロールプレイングの将来は今のところ GTA 5 に残ります",
+        "title": "ロックスターが招待制の新しい Nopixel V RP サーバーを宣伝しているため、GTA ロールプレイングの将来は今のところ GTA 5 に残ります",
         "platform": "PC Gamer",
         "type": "review",
         "description": "Rockstar は Nopixel Studios と協力して、1,000 の所有可能なプロパティを含むカスタム GTA 5 ロールプレイング エクスペリエンスの最新バージョンを開発しました。",
@@ -289,7 +289,7 @@
         "is_translated": true
       },
       {
-        "title": "レゾナンス: ペスト・テイル・レガシー レビュー",
+        "title": "レゾナンス：ペスト・テイル・レガシーのレビュー",
         "platform": "PC Gamer",
         "type": "review",
         "description": "PC Gamerによるレビュー記事。",
@@ -315,23 +315,10 @@
         "is_translated": true
       },
       {
-        "title": "ドワーフ要塞の作者は、人間は人間が作った物語に自然に傾く傾向があると語る、「しかし、我々は今後数年間にAIによって非常に厳しい試練を受けることになるだろう」",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-        "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "『The Witcher 3: Songs of Past』は非公開プレビューでは悪くなかったが、私はリマスターの戦闘アップグレードの方が魅力的だ",
+        "title": "The Witcher 3: Songs of Past looked alright in its behind-closed-doors preview, though I'm more enticed by the remaster’s combat upgrades",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "まあ、私は密室で言います。 The Witcher III: Wild Hunt の Song of the Past 拡張コンテンツの一部を通して、事前に録画された散歩を見たい場合は、調整するだけで済むことがわかりました。",
+        "description": "Well, I say behind-closed-doors. It turns out that if I wanted to watch a prerecorded saunter through a chunk of The Witcher III: Wild Hunt’s Songs of the Past expansion, I could have just tune",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -354,10 +341,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
+        "description": "土曜日は、月曜日に忘れて出勤して、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも、実際にバンクホリデーの週末であることを思い出すためのものです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -365,49 +352,11 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-397",
         "date": "2026-08-29",
         "is_translated": true
-      },
-      {
-        "title": "「Valve の誰かを知っている人を必死で探しています」: オープンワールド風刺 未来?結構です！まだ蒸気の角質刑務所に閉じ込められています",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "8 月 28 日更新: Valve はゲームの評価を変更する措置を講じたようです - 英国でもストアページにアクセスできるようになりました。 「Steam が Future? No Thanks! を再レビューし、頻繁に使用される「Future? No Thanks!」を削除したようです",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
-        "date": "2026-08-28",
-        "is_translated": true
-      },
-      {
-        "title": "「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何であれ、こんにちは。",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ついに来ました！現在 PC 版のリリース日は未定の犯罪シミュレーションの拡張版プレビューです! GTA 6、あるいはジャック・ナンスの不滅の言葉を借りれば「グランド・セフト・オート」[6]。長い干ばつの後",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
-        "date": "2026-08-27",
-        "is_translated": true
       }
     ],
     "sale": [
       {
-        "title": "[Humble Store] メタファー: レファンツィオ - 60% オフ (£23.99)",
-        "platform": "Humble Bundle",
-        "type": "sale",
-        "description": "Humble Bundleでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "[Steam] Curious Paws: 隠しオブジェクト ($1.87 / 25% オフ)",
+        "title": "ディズニー ドリームライト バレー: タイムの裂け目 (€17.95 -40% オフ / £15.50 -40% オフ / $17.95 -40% オフ)、ディズニー ドリームライト バレー: ストーリーブック ヴェイル (€17.95 -40% オフ / £15.59 -40% オフ / $17.95 -40% オフ)、EU、英国、米国 |スチームアクティベーション",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -416,34 +365,10 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-20"
+        "date": "2026-09-02"
       },
       {
-        "title": "[Humble Store] バイオハザード 4 リメイク ゴールド エディション (12.44€/75% オフ) - カートに追加して価格を確認します",
-        "platform": "Humble Bundle",
-        "type": "sale",
-        "description": "Humble Bundleでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "[ファナティカル] リムワールド ($24.84/29% オフ)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "[Steam] Grapplers: Relic Rivals ($7.69 / 45% オフ)",
+        "title": "[Steam] IfSunSets ($19.99--->$11.99 / 40% オフ)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -452,22 +377,10 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-20"
+        "date": "2026-09-02"
       },
       {
-        "title": "[Humble Store] ウォーハンマー 40,000: スペース マリーン 2 - 70% オフ (£16.49)",
-        "platform": "Humble Bundle",
-        "type": "sale",
-        "description": "Humble Bundleでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "[Steam] ジョスト ($0.60 / 40% オフ)",
+        "title": "[Steam] 外交は選択肢ではありません ($11.99 / 11,59€ / -60% OFF)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -476,10 +389,22 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-18"
+        "date": "2026-09-02"
       },
       {
-        "title": "[STEAM] キャプテン シャークベイト: 宝への航海 (0.49USD / 50% オフ)",
+        "title": "ヒットマン シリーズ 90% オフ: コードネーム 47 ($0.79) |サイレントアサシン ($0.89) |契約 ($0.89) |ブラッドマネー ($0.99) |アブソリューション ($1.99)",
+        "platform": "GOG",
+        "type": "sale",
+        "description": "GOGでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.gog.com/",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "[Steam] キング オブ ファイターズ XV アルティメット エディション ($14.99/75% オフ)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -488,91 +413,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "[Rebellion セール] Sniper Elite: Resistance (コード NOBALLSSAFE で -50% & 15% 追加 | コード付き $21.25 / €21.25 / C$27.62) |蒸気 | 8 月 21 日 00:00 CET に終了 |すべての地域",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "THQ - Gamescom セール - Gothic 1 Remake (€35.10 -29% オフ / £29.90 -28% オフ / $36 -27% オフ)、REANIMAL (€25.50 -36% オフ / £22.90 -34% オフ / $27.90 -30% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "[Steam] Glyphica : タイピング サバイバル - ($6.99/30% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steam の最新のセールでは、タイピング サバイバル ゲーム「Glyphica」が 30% オフで提供されています。通常価格より 30% 安くなり、6.99 ドルで購入できます。このタイピング サバイバル ゲームでは、プレイヤーはタイピング スキルを駆使して、さまざまな課題を克服し、サバイバルを図ります。高速のタイピングが求められるアクション パートや、戦略的思考を必要とするパズル要素など、多様な要素が含まれています。タイピング スキルを向上させながら、スリルと挑戦感を味わえるこのゲームは、タイピング ファンやアクション ゲーム好きの方にぴったりです。タイピングの腕前を試し、サバイバルを体験してみてはいかがでしょうか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "[Steam] The Judgement Collection ($25.05USD/73% Off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamで提供されている「The Judgement Collection」は、注目すべきゲームコレクションです。このコレクションでは、ユーザーは興味深いストーリーとキャラクターを体験することができます。The Judgement Collectionは、ユーザーに独自のゲーム体験を提供するために設計されており、ゲームの世界に没入することができます。 このコレクションでは、ユーザーは様々なゲームをプレイすることができ、各ゲームには独自のストーリーとゲームプレイスタイルがあります。ユーザーは、さまざまなキャラクターを操作して、ゲームの世界を探索することができ、ゲームのストーリーを楽しむことができます。 The Judgement Collectionは、Steamで73%オフの特別価格で提供されています。通常価格より大幅に安い価格で、このコレクションを購入することができます。ゲームファンには、まさに待ちに待ったチャンスです。SteamでThe Judgement Collectionを購入して、独自のゲーム体験を楽しんでください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "[Steam] ワンス・アポン・ア・ダンジョン II ($2.99/75% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ワンス・アポン・ア・ダンジョン IIは、ローグライク要素とダンジョン探索を融合させた、深い楽しみを提供するゲームです。プレイヤーは、ランダムに生成されるダンジョンを冒険し、さまざまなアイテムやスキルを集めながら、自分だけの戦略を生み出します。 このゲームの特徴的な点は、ダンジョンの生成が完全にランダムに行われることです。毎回異なる構造や罠、アイテム配置を持つダンジョンを攻略することで、プレイヤーは常に新しい挑戦に直面し、戦略を考え直す必要があります。 また、ゲームには様々なキャラクターが用意されており、それぞれに独自の能力や特性があります。プレイヤーは、これらのキャラクターを上手く使い分け、ダンジョンを攻略していきます。 ワンス・アポン・ア・ダンジョン IIは、ダンジョン探索の楽しみとローグライクの要素を組み合わせ、プレイヤーに繰り返してプレイしてみたいと思わせる魅力的なゲームです。現在、75% オフという特別な価格で提供されています。この機会に、ワンス・アポン・ア・ダンジョン IIの世界に行ってみてはいかがでしょうか。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "[Steam] Bloody Spell ($2.49/90% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Bloody Spellは、Steamで90%オフの特別セール中です。このアクションパックされたゲームでは、プレイヤーはさまざまな魔法を使いこなして、恐ろしい敵たちと戦います。独自の戦闘システムと豊富な魔法の種類が、プレイヤーを新たな世界に引き込むでしょう。 ゲームの世界は、ダークファンタジーを題材としています。プレイヤーは、魔法を使って暗黒の力を打ち破り、世界を救うために戦うことになります。さまざまなステージとボスキャラクターが、プレイヤーのスキルを試します。 Bloody Spellのグラフィックは、ダークファンタジーの世界をリアルに表現しています。詳細なキャラクターデザインと美しい魔法のエフェクトが、プレイヤーを魅了するでしょう。サウンドトラックも、ゲームの雰囲気を高めています。 このセールは、Bloody Spellを低価格で体験する絶好の機会です。アクションゲームやダークファンタジーのファンには、必見のタイトルです。セール期間中は、通常価格より90%安い$2.49で購入できます。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "[Steam] 皮剥ぎされた男 ($0.99/50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、現在「皮剥ぎされた男」が半額のキャンペーン中です。このゲームは、ユニークなタイトルが示すように、サスペンスとミステリーが満ち溢れた世界を舞台にしているようです。プレイヤーは、不気味で陰気な雰囲気の中で、謎を解くために重要な手がかりを探すことになります。 ゲームのグラフィックは、ダークファンタジーの世界を表現したもので、不気味なクリーチャーや暗い環境が印象的です。キャラクターのデザインも独特で、プレイヤーは皮を剥がされた男の姿で冒険するようです。 このゲームは、プレイヤーにさまざまなパズルを解決させることで、ストーリーが進展するようです。難易度は高めなので、チャレンジ精神のあるゲーマーにぴったりです。また、ゲームの世界は、探索することで新しい発見があるかもしれません。 「皮剥ぎされた男」は、ホラーとアクションを融合させたユニークな体験を提供するゲームです。現在の半額キャンペーンは、ゲーマーにとって大きなチャンスです。Steamでこのゲームを購入して、不気味な世界に踏み込んでみてください。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-08-15"
+        "date": "2026-09-02"
       }
     ]
   },
@@ -630,5 +471,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T03:36:32.042829"
+  "last_updated": "2026-09-02T15:38:49.556282"
 }

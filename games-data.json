@@ -2,18 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "Breathedge - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "広大な宇宙で生き延びよう！不死身のニワトリと一緒に、宇宙船の突然の事故の裏に隠された真実を解き明かしましょう。道具を作り、ビークルを操縦し、宇宙ステーションを管理して、生き延び、難破船を探検しましょう。",
-        "price": "無料",
-        "originalPrice": "¥2,800",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-03"
-      },
-      {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -26,12 +14,24 @@
         "date": "2026-09-03"
       },
       {
-        "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
+        "title": "Monument Valley - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
+        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
         "price": "無料",
-        "originalPrice": "¥2,480",
+        "originalPrice": "¥920",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Alone With You - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "price": "無料",
+        "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -39,6 +39,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-03"
+      },
       {
         "title": "CRPG Pack: Isometric Immersion (Pay $10 for Torment: Tides of Numenera, Gamedec - DE, Disco Elysium, UnderRail, Balrum, $15 for Pathfinder: Wrath of the Righteous - GotY, SKALD: Against the Black Priory - DB, and 2 more, and $23 for WH 40k: Rogue Trader and Season Pass)",
         "platform": "Humble Bundle",
@@ -53,6 +65,30 @@
       },
       {
         "title": "Mega Man: Recharged Collection (Pay $16 for Mega Man Battle Network LC Vol.2, Mega Man Battle Network LC Vol.1, MEGA MAN X DiVE Offline, $24 for Mega Man Zero/ZX LC, Mega Man 11, $32 for Mega Man LC 2, Mega Man X LC 2, and $40 for Mega Man LC, Mega Man X LC)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "What was the best \"humble bundle choice\" in history?",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "September 2026 Humble Choice | Overview / Discussion Megathread",
         "platform": "Humble Bundle",
         "type": "bundle",
         "description": "Humble Bundleのバンドル。",
@@ -182,73 +218,50 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-22"
-      },
-      {
-        "title": "Build Your Own Summer Superstars Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-21"
-      },
-      {
-        "title": "Yes Chef! - Cooking Bundle (Pay $7 for Brewmaster: Beer Brewing Simulator, Tailside: Cozy Cafe Sim, Which Sausage, Mate?, 4 more, $13 for Pizza Possum, Food Truck Simulator, 3 more, incl. prior tier and $16 for Tavern Manager Simulator, The Chef's Shift, Chef Knight incl. all prior tiers)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-21"
-      },
-      {
-        "title": "Hamble's Summer Island Getaway Bundle (Pay $6 for ISLANDERS: New Shores, Just a To the Moon Series Beach Episode, The South Island, ISLANDERS, Flooded, and $12 for Primordialis, Caribbean Legend, Forgotten Seas, incl. prior tier)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-21"
       }
     ],
     "review": [
       {
-        "title": "時空超越RPG『アナザーエデン ビギンズ』無料デモ版配信開始。「第6章」まで遊べる太っ腹体験版、セーブデータも引き継ぎ可能",
+        "title": "爆速成長アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）』体験版先行プレイ感想。頭からっぽに楽しめる気持ち良いアクション",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ライトフライヤースタジオは9月3日、『アナザーエデン ビギンズ』の無料体験版を配信開始した。",
+        "description": "デベロッパーのGPTRACK50とパブリッシャーのセガは9月4日、アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）』の体験版「FIRST BITE DEMO」を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260903-464746/",
+        "url": "https://automaton-media.com/articles/newsjp/snd-20260904-465008/",
         "date": "2026-09-03",
         "is_translated": false
       },
       {
-        "title": "遂に発売を迎えたダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のオープニングシネマティックが公開",
-        "platform": "doope!",
+        "title": "『ファイナルファンタジー レゾナンス』先行プレイ感想。懐かしいだけじゃない、新しい未来の可能性を感じさせる1作",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "先日のローンチトレーラー公開を経て、良スコアが並ぶレビューが解禁されたRebel Wolvesのデビュー作「The Blood of Dawnwalker」ですが、本日予定通り国内外で本作の販売が開始され、Rebel W […]",
+        "description": "本作の体験版を先行してプレイする機会に恵まれたため、現時点で判明している作品の内容を紹介していきたい。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170415.html",
-        "date": "2026-09-02",
+        "url": "https://automaton-media.com/articles/reportjp/final-fantasy-resonance-20260904-464963/",
+        "date": "2026-09-03",
         "is_translated": false
       },
       {
-        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちながら、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
+        "title": "Steamの新作ゲームが急増中、「14分に1本」出る超過密ペースに。一方“売れてるゲーム”ばかりでもなさそう",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Thomas Bidaux氏は8月31日にBlueskyにて、Steamの週間リリース数が720本の最高記録であったと投稿した。一方で10件以上のレビューを得たゲームは約26%に留まるという。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260903-464837/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
@@ -284,19 +297,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
         "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をしますか？",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-397",
-        "date": "2026-08-29",
         "is_translated": true
       }
     ],
@@ -417,5 +417,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-03T03:35:56.495462"
+  "last_updated": "2026-09-03T15:29:23.039215"
 }

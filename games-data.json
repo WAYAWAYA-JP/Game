@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
       },
       {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
       },
       {
         "title": "Rival Stars Horse Racing : Desktop Edition - Epic Games 無料配布中",
@@ -35,10 +35,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
       }
     ],
     "bundle": [
+      {
+        "title": "CRPG Pack: Isometric Immersion (Pay $10 for Torment: Tides of Numenera, Gamedec - DE, Disco Elysium, UnderRail, Balrum, $15 for Pathfinder: Wrath of the Righteous - GotY, SKALD: Against the Black Priory - DB, and 2 more, and $23 for WH 40k: Rogue Trader and Season Pass)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Mega Man: Recharged Collection (Pay $16 for Mega Man Battle Network LC Vol.2, Mega Man Battle Network LC Vol.1, MEGA MAN X DiVE Offline, $24 for Mega Man Zero/ZX LC, Mega Man 11, $32 for Mega Man LC 2, Mega Man X LC 2, and $40 for Mega Man LC, Mega Man X LC)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-03"
+      },
       {
         "title": "September 2026: Frostpunk 2, SONIC X SHADOW GENERATIONS, Voidtrain, Ballionaire, GUNTOUCHABLES, Urban Jungle, Pocket Mirror ~ GoldenerTraum, Keylocker | Turn Based Cyberpun ($14.99)",
         "platform": "Humble Bundle",
@@ -49,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
       },
       {
         "title": "Dread and Dark Fantasies RPG Collection (Pay $6 for Steelrising - Bastille Edition, The Axis Unseen, $12 for Darksiders Genesis, Dread Delusion, Ashen, and $18 for Pillars of Eternity II: Deadfire, Torchlight 1-3 Bundle, Kristala)",
@@ -198,33 +222,33 @@
     ],
     "review": [
       {
-        "title": "解禁が迫る「ウィッチャー3 ワイルドハント」リマスターは既存のセーブデータでプレイ可能、ウィッシュリスト登録規模の話題も",
-        "platform": "doope!",
+        "title": "時空超越RPG『アナザーエデン ビギンズ』無料デモ版配信開始。「第6章」まで遊べる太っ腹体験版、セーブデータも引き継ぎ可能",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "先日、初の本格的なプレビュー映像が公開された「ウィッチャー3 ワイルドハント」の第3弾大型拡張パック「追憶の調べ」ですが、9月29日の現世代リマスター解禁が迫るなか、新たにCD PROJEKT REDがファンから多く寄せ […]",
+        "description": "ライトフライヤースタジオは9月3日、『アナザーエデン ビギンズ』の無料体験版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170353.html",
+        "url": "https://automaton-media.com/articles/newsjp/20260903-464746/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "遂に発売を迎えたダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のオープニングシネマティックが公開",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日のローンチトレーラー公開を経て、良スコアが並ぶレビューが解禁されたRebel Wolvesのデビュー作「The Blood of Dawnwalker」ですが、本日予定通り国内外で本作の販売が開始され、Rebel W […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170415.html",
         "date": "2026-09-02",
         "is_translated": false
       },
       {
-        "title": "レゴ スカイラインを少しプレイした後では、交通渋滞よりも装飾を重視する人向けの街づくりゲームのように思えます。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "短いプレビューでは、素晴らしい景色を望む居心地の良い穏やかな建築業者が明らかになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/city-builder/after-playing-a-bit-of-lego-skylines-it-seems-like-a-city-builder-for-people-who-care-less-about-traffic-jams-and-more-about-decorating/",
-        "date": "2026-09-02",
-        "is_translated": true
-      },
-      {
-        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
+        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちながら、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
@@ -237,88 +261,10 @@
         "is_translated": true
       },
       {
-        "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スコープリー・エクスプロア株式会社は、株式会社カプコンと合同で、「モンスターハンターNowカーニバル 2026：大阪」の発表会を実施した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/monster-hunter-now-20260901-464458/",
-        "date": "2026-09-01",
-        "is_translated": false
-      },
-      {
-        "title": "『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっと遅い。圧倒的作り込みの剣戟で魅せる、「令和のカプコン」流バッサリ感",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿では、製品版相当のバージョンを先行プレイした感想や、その内容についてお伝えする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
-        "date": "2026-09-01",
-        "is_translated": false
-      },
-      {
-        "title": "良い評価は「大きな安堵感」だとブラッド・オブ・ドーンウォーカーの監督が語る、CD Projektの元同僚らが列をなして祝福の言葉を贈る",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Rebel Wolves のヴァンパイア RPG は、Metacritic で合計 83 スコアを獲得しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/good-reviews-are-a-great-relief-says-blood-of-dawnwalker-director-as-former-cd-projekt-coworkers-line-up-to-offer-congratulations/",
-        "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "ロックスターが招待制の新しい Nopixel V RP サーバーを宣伝しているため、GTA ロールプレイングの将来は今のところ GTA 5 に残ります",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Rockstar は Nopixel Studios と協力して、1,000 の所有可能なプロパティを含むカスタム GTA 5 ロールプレイング エクスペリエンスの最新バージョンを開発しました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-touts-new-invite-only-nopixel-v-gta-roleplaying-server-as-the-next-evolution-of-the-rp-community/",
-        "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "レゾナンス：ペスト・テイル・レガシーのレビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/resonance-a-plague-tale-legacy-review/",
-        "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "Pimax Dream Air レビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "比類のないビジュアル、優れた快適性、そして平凡なトラッキング。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/pimax-dream-air-review/",
-        "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "The Witcher 3: Songs of Past looked alright in its behind-closed-doors preview, though I'm more enticed by the remaster’s combat upgrades",
+        "title": "『The Witcher 3: Songs of Past』は非公開プレビューでは悪くなかったが、リマスターの戦闘アップグレードの方が魅力的だ",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Well, I say behind-closed-doors. It turns out that if I wanted to watch a prerecorded saunter through a chunk of The Witcher III: Wild Hunt’s Songs of the Past expansion, I could have just tune",
+        "description": "まあ、私は密室で言います。 The Witcher III: Wild Hunt の Song of the Past 拡張コンテンツの一部を通して、事前に録画された散歩を見たい場合は、調整するだけで済むことがわかりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -341,10 +287,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をして遊びますか？",
+        "title": "今週末はみんなで何をしますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "土曜日は、月曜日に忘れて出勤して、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも、実際にバンクホリデーの週末であることを思い出すためのものです。",
+        "description": "土曜日は、バンクホリデーの週末であることを実際に思い出すためのものです。月曜日に忘れて出勤し、あなたのGを無視しているように見えるジュリアンとマークにひどくイライラするよりも",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -471,5 +417,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T15:38:49.556282"
+  "last_updated": "2026-09-03T03:35:56.495462"
 }

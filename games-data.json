@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       },
       {
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出しようとしています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       },
       {
         "title": "CRPG Pack: Isometric Immersion (Pay $10 for Torment: Tides of Numenera, Gamedec - DE, Disco Elysium, UnderRail, Balrum, $15 for Pathfinder: Wrath of the Righteous - GotY, SKALD: Against the Black Priory - DB, and 2 more, and $23 for WH 40k: Rogue Trader and Season Pass)",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       },
       {
         "title": "Mega Man: Recharged Collection (Pay $16 for Mega Man Battle Network LC Vol.2, Mega Man Battle Network LC Vol.1, MEGA MAN X DiVE Offline, $24 for Mega Man Zero/ZX LC, Mega Man 11, $32 for Mega Man LC 2, Mega Man X LC 2, and $40 for Mega Man LC, Mega Man X LC)",
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
       },
       {
         "title": "What was the best \"humble bundle choice\" in history?",
@@ -248,20 +248,33 @@
         "is_translated": false
       },
       {
-        "title": "Steamの新作ゲームが急増中、「14分に1本」出る超過密ペースに。一方“売れてるゲーム”ばかりでもなさそう",
-        "platform": "AUTOMATON",
+        "title": "DLSS 5 can be jammed into almost any game now, so I've been playing FM26 with neural rendered little computer people because that's just what I do",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Thomas Bidaux氏は8月31日にBlueskyにて、Steamの週間リリース数が720本の最高記録であったと投稿した。一方で10件以上のレビューを得たゲームは約26%に留まるという。",
+        "description": "And here's how I did it.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260903-464837/",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
         "date": "2026-09-03",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
+        "title": "The bizarre spirit of classic Elder Scrolls games is alive and well in little lo-fi RPG A Short Quest",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "A few hours with a recent playtest has me eager to play the full thing next year.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-bizarre-spirit-of-classic-elder-scrolls-games-is-alive-and-well-in-little-lo-fi-rpg-a-short-quest/",
+        "date": "2026-09-03",
+        "is_translated": true
+      },
+      {
+        "title": "Rockstar unveil the \"next evolution\" of modded GTA 5 roleplaying, while staying totally mum on when PC pretenders might be able to migrate to their next game",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
@@ -277,26 +290,13 @@
         "title": "『The Witcher 3: Songs of Past』は非公開プレビューでは悪くなかったが、リマスターの戦闘アップグレードの方が魅力的だ",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "まあ、私は密室で言います。 The Witcher III: Wild Hunt の Song of the Past 拡張コンテンツの一部を通して、事前に録画された散歩を見たい場合は、調整するだけで済むことがわかりました。",
+        "description": "まあ、私は密室で言います。 The Witcher III: Wild Hunt の Song of the Past 拡張版の一部を通して、事前に録画された散歩を見たい場合は、調整するだけで済むことがわかりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-past-looked-alright-in-its-behind-closed-doors-preview-though-im-more-enticed-by-the-remasters-combat-upgrades",
         "date": "2026-09-01",
-        "is_translated": true
-      },
-      {
-        "title": "『The Blood of Dawnwalker』レビュー - トップ RPG のテーブルで血を啜るにふさわしい",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "私がドーンウォーカーの血を知った瞬間は、それほど遠くないところで、地元の泥炭掘りの一人が大きな穴に落ちたときでした。お祭りのように見えたものの始まりに、兄から彼を見つけるという任務を与えられた",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
-        "date": "2026-08-31",
         "is_translated": true
       }
     ],
@@ -417,5 +417,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-03T15:29:23.039215"
+  "last_updated": "2026-09-04T03:36:58.045482"
 }

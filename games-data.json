@@ -29,7 +29,7 @@
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出しようとしています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -39,6 +39,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "War Child Charity Bundle (11 for $7.99 - Get Suicide Squad: Kill the Justice League / Boyfriend Dungeon / Production Line : Car factory simulation / A Space for the Unbound / Thea: The Awakening / Webbed / Wirm / More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-04"
+      },
       {
         "title": "Build Your Own Platinum Collection",
         "platform": "Fanatical",
@@ -206,52 +218,92 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-25"
-      },
-      {
-        "title": "Build Your Own Tabletop Battles Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-22"
       }
     ],
     "review": [
       {
-        "title": "爆速成長アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）』体験版先行プレイ感想。頭からっぽに楽しめる気持ち良いアクション",
+        "title": "人気ゲーム開発者が自ら、“Metacritic対抗”レビューサイトを立ち上げ。「メディアよりユーザー重視、最新評価も重視」をアピール",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "デベロッパーのGPTRACK50とパブリッシャーのセガは9月4日、アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）』の体験版「FIRST BITE DEMO」を配信開始した。",
+        "description": "Moon StudiosのCEOを務めるThomas Mahler氏は9月2日、新たなレビュー集積サイトとして「VideoGamesCritic」を立ち上げたことを発表した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/snd-20260904-465008/",
-        "date": "2026-09-03",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465240/",
+        "date": "2026-09-04",
         "is_translated": false
       },
       {
-        "title": "『ファイナルファンタジー レゾナンス』先行プレイ感想。懐かしいだけじゃない、新しい未来の可能性を感じさせる1作",
+        "title": "独裁国家タワーディフェンス『絶対ロケット防衛主義』着実に評価集める好調スタート。ロケット発射のためには、兵器以外に“秘密警察”なども総動員",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本作の体験版を先行してプレイする機会に恵まれたため、現時点で判明している作品の内容を紹介していきたい。",
+        "description": "tiny cactus studioは9月4日、基地建設ストラテジーゲーム『絶対ロケット防衛主義』をリリースした。本作は発売直後から好評レビューが寄せられ、好調なスタートを切っている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/final-fantasy-resonance-20260904-464963/",
-        "date": "2026-09-03",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465182/",
+        "date": "2026-09-04",
         "is_translated": false
       },
       {
-        "title": "DLSS 5 can be jammed into almost any game now, so I've been playing FM26 with neural rendered little computer people because that's just what I do",
+        "title": "「その批判は正当である」: Gamescom、開発者のハードウェア盗難に対する冷酷な対応を謝罪",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "And here's how I did it.",
+        "description": "Gamescomは「共同でセキュリティを見直し、さらなる改善に取り組む」と述べたが、影響を受けた出展者への補償については言及していない。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "Xgimi Titan Noir Max レビュー",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "たくさんのルーメンには、たくさんのお金がかかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/xgimi-titan-noir-max-review/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "マスエフェクトにインスピレーションを得た RPG エクソダスをプレイするのは、いくつかの素晴らしい無重力戦闘にもかかわらず、不快なほど見慣れた宇宙旅行でした",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "完全な開示：私は不機嫌なメカタコスナイパーでエクソダスをプレイすることができませんでした。 「タコのスナイパーはどこ？」と私はささやきましたが、スパの他の2人のメンバーのように、混乱は悲しみに溶けていきました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/playing-mass-effect-inspired-rpg-exodus-was-an-uncomfortably-familiar-space-trip-despite-some-brilliant-zero-g-fights",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "2 時間経つと、Exodus はマス エフェクトの再来のように感じます |プレビュー",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Archetype Entertainment のデビュー作宇宙 SF アクション RPG である Exodus は、私たちが待ち望んでいた Mass Effect の後継作です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/exodus-preview-hands-on/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "DLSS 5 は現在、ほぼすべてのゲームに組み込むことができるため、ニューラル レンダリングされた小さなコンピューターの人たちと FM26 をプレイしています。それが私の仕事だからです。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "そして、これが私がやった方法です。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -261,10 +313,10 @@
         "is_translated": true
       },
       {
-        "title": "The bizarre spirit of classic Elder Scrolls games is alive and well in little lo-fi RPG A Short Quest",
+        "title": "古典的なエルダースクロールズゲームの奇妙な精神は、小さなローファイ RPG ショートクエストでも健在です",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "A few hours with a recent playtest has me eager to play the full thing next year.",
+        "description": "最近プレイテストを数時間行ったので、来年は完全にプレイしたいと思うようになりました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -274,7 +326,7 @@
         "is_translated": true
       },
       {
-        "title": "Rockstar unveil the \"next evolution\" of modded GTA 5 roleplaying, while staying totally mum on when PC pretenders might be able to migrate to their next game",
+        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
@@ -284,19 +336,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/rockstar-unveil-the-next-evolution-of-modded-gta-5-roleplaying-while-staying-totally-mum-on-when-pc-pretenders-might-be-able-to-migrate-to-their-next-game",
         "date": "2026-09-02",
-        "is_translated": true
-      },
-      {
-        "title": "『The Witcher 3: Songs of Past』は非公開プレビューでは悪くなかったが、リマスターの戦闘アップグレードの方が魅力的だ",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "まあ、私は密室で言います。 The Witcher III: Wild Hunt の Song of the Past 拡張版の一部を通して、事前に録画された散歩を見たい場合は、調整するだけで済むことがわかりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-past-looked-alright-in-its-behind-closed-doors-preview-though-im-more-enticed-by-the-remasters-combat-upgrades",
-        "date": "2026-09-01",
         "is_translated": true
       }
     ],
@@ -417,5 +456,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T03:36:58.045482"
+  "last_updated": "2026-09-04T15:27:24.451736"
 }

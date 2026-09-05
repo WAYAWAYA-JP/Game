@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       },
       {
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出しようとしています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       },
       {
         "title": "Build Your Own Platinum Collection",
@@ -248,6 +248,32 @@
         "is_translated": false
       },
       {
+        "title": "Civilization 7 を無料でプレイしてレイバーデーを祝いましょう",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "実際にはレイバーデーとの関連性は見当たりませんが、Civ 7 は 9 月 10 日まで無料でプレイでき、セールも行われています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "Silent Hill: Townfall は私がこれまでプレイした中で最もスコットランドらしいゲームであり、私がこれまで見てきた中で最も効果的なホラー ゲームです。「自分たちの生い立ちや過去を深く掘り下げ、信頼できる場所を構築しようとするのは理にかなっていました。」",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "悪天候のせいだけではありません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-most-scottish-game-ive-ever-played-and-the-most-effective-horror-game-ive-seen-in-ages-it-made-sense-for-us-to-dig-deep-into-our-upbringings-into-our-past-and-try-and-build-a-place-that-felt-believable/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
         "title": "「その批判は正当である」: Gamescom、開発者のハードウェア盗難に対する冷酷な対応を謝罪",
         "platform": "PC Gamer",
         "type": "review",
@@ -274,10 +300,23 @@
         "is_translated": true
       },
       {
+        "title": "Moonlighter 2: The Endless Vault レビュー – 数字が上がる楽しい試合で、その改善の程度が最も注目に値します",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Moonlighter ゲームでは、プレイヤーはダンジョンニーと商人のハイブリッドであるウィルとしてキャストされ、夜はランダムに移動する戦闘アリーナを探索し、昼はそこで発掘した宝物を販売します。ダンジョンでは、あなたは",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
         "title": "マスエフェクトにインスピレーションを得た RPG エクソダスをプレイするのは、いくつかの素晴らしい無重力戦闘にもかかわらず、不快なほど見慣れた宇宙旅行でした",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "完全な開示：私は不機嫌なメカタコスナイパーでエクソダスをプレイすることができませんでした。 「タコのスナイパーはどこ？」と私はささやきましたが、スパの他の2人のメンバーのように、混乱は悲しみに溶けていきました。",
+        "description": "完全な開示：私は不機嫌なメカタコスナイパーとエクソダスをプレイすることができませんでした。 「タコのスナイパーはどこ？」と私はささやきましたが、スパの他の2人のメンバーのように、混乱は悲しみに溶けていきました。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -287,15 +326,28 @@
         "is_translated": true
       },
       {
-        "title": "2 時間経つと、Exodus はマス エフェクトの再来のように感じます |プレビュー",
+        "title": "誰もプレイしていないほぼ完璧な Switch ゲーム 10 選",
         "platform": "Polygon",
         "type": "review",
-        "description": "Archetype Entertainment のデビュー作宇宙 SF アクション RPG である Exodus は、私たちが待ち望んでいた Mass Effect の後継作です。",
+        "description": "Switch ゲームのライブラリは膨大ですが、多くの人が 10 個の素晴らしい隠れた名作を見落としています。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/exodus-preview-hands-on/",
+        "url": "https://www.polygon.com/10-switch-hidden-gems/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "Gamescom 2026 のベスト 14",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "AAA の巨人からインディーの逸品まで、Gamescom 2026 でプレイした最高のゲームをご紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-games-gamescom-2026/",
         "date": "2026-09-04",
         "is_translated": true
       },
@@ -309,19 +361,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
-        "date": "2026-09-03",
-        "is_translated": true
-      },
-      {
-        "title": "古典的なエルダースクロールズゲームの奇妙な精神は、小さなローファイ RPG ショートクエストでも健在です",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "最近プレイテストを数時間行ったので、来年は完全にプレイしたいと思うようになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-bizarre-spirit-of-classic-elder-scrolls-games-is-alive-and-well-in-little-lo-fi-rpg-a-short-quest/",
         "date": "2026-09-03",
         "is_translated": true
       },
@@ -456,5 +495,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-04T15:27:24.451736"
+  "last_updated": "2026-09-05T03:36:48.203272"
 }

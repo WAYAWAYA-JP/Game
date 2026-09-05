@@ -222,6 +222,58 @@
     ],
     "review": [
       {
+        "title": "新たな非対称PvP殺人鬼ホラー『Halloween: The Game』、まだ“先行アクセス限定”なのに同接2万5000人の大盛況。しかしバグ頻出などで「賛否両論」の幕開け",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Halloween: The Game』Deluxe Editionでは特典として先行アクセス権が付与されており、購入者はすでにプレイ可能になっている。さっそく盛況となった一方で、Steamのユーザ―レビューは「賛否両論」となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260905-465359/",
+        "date": "2026-09-05",
+        "is_translated": false
+      },
+      {
+        "title": "ダンジョン探索×コロニー運営シム『ダンジョンセトラーズ』、デモ版の盛況そのまま好評スタート。資源を求めて迷宮を探検、死んだ仲間は帰ってこないシビアダンジョン生活",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "WhisperGamesとCanOpenerは9月4日、『ダンジョンセトラーズ』の早期アクセス配信を開始した。さっそく多くのプレイヤーを集め、評価も高い好調な滑り出しとなっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260905-465350/",
+        "date": "2026-09-05",
+        "is_translated": false
+      },
+      {
+        "title": "フランスの一流 FPS 兄弟デュオの半分が、私がこれまでプレイした中で最も爽快なパルクール ゲームをリリースしました。しかもその価格はわずか 8 ドルです",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "全てが動き、シューターは無し。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/half-of-frances-premier-fps-sibling-duo-just-put-out-the-most-exhilarating-parkour-game-ive-ever-played-and-its-only-usd8/",
+        "date": "2026-09-05",
+        "is_translated": true
+      },
+      {
+        "title": "今週末はみんなで何をしますか？",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "鼻詰まりや粘液を飛ばす咳をせずに目覚めたのは、この月で初めての土曜日だ。クロスカントリーバイクに積んでスペイン、スウェーデン、ドイツを立て続けに旅行",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398",
+        "date": "2026-09-05",
+        "is_translated": true
+      },
+      {
         "title": "人気ゲーム開発者が自ら、“Metacritic対抗”レビューサイトを立ち上げ。「メディアよりユーザー重視、最新評価も重視」をアピール",
         "platform": "AUTOMATON",
         "type": "review",
@@ -323,45 +375,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/playing-mass-effect-inspired-rpg-exodus-was-an-uncomfortably-familiar-space-trip-despite-some-brilliant-zero-g-fights",
         "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "誰もプレイしていないほぼ完璧な Switch ゲーム 10 選",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Switch ゲームのライブラリは膨大ですが、多くの人が 10 個の素晴らしい隠れた名作を見落としています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/10-switch-hidden-gems/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "Gamescom 2026 のベスト 14",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "AAA の巨人からインディーの逸品まで、Gamescom 2026 でプレイした最高のゲームをご紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/best-games-gamescom-2026/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "DLSS 5 は現在、ほぼすべてのゲームに組み込むことができるため、ニューラル レンダリングされた小さなコンピューターの人たちと FM26 をプレイしています。それが私の仕事だからです。",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "そして、これが私がやった方法です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
-        "date": "2026-09-03",
         "is_translated": true
       },
       {
@@ -495,5 +508,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-05T03:36:48.203272"
+  "last_updated": "2026-09-05T14:15:09.716889"
 }

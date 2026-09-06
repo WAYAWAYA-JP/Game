@@ -222,6 +222,32 @@
     ],
     "review": [
       {
+        "title": "『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版は『オクトラ』とは結構違う、けど馴染む。今週のゲーミング",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。560回目です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260906-465443/",
+        "date": "2026-09-06",
+        "is_translated": false
+      },
+      {
+        "title": "Deus Ex と Escape from Butcher Bay を組み合わせた Deficit は、ステルス システムに本格的な作業が必要な場合でも、私がプレイした中で最も感触の良いインディーズ没入型シムの 1 つです。",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Deficit のデモをプレイしても、純損失には程遠いものでした。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/blending-deus-ex-with-escape-from-butcher-bay-deficit-is-one-of-the-best-feeling-indie-immersive-sims-ive-played-even-if-the-stealth-system-needs-serious-work/",
+        "date": "2026-09-06",
+        "is_translated": true
+      },
+      {
         "title": "新たな非対称PvP殺人鬼ホラー『Halloween: The Game』、まだ“先行アクセス限定”なのに同接2万5000人の大盛況。しかしバグ頻出などで「賛否両論」の幕開け",
         "platform": "AUTOMATON",
         "type": "review",
@@ -251,7 +277,7 @@
         "title": "フランスの一流 FPS 兄弟デュオの半分が、私がこれまでプレイした中で最も爽快なパルクール ゲームをリリースしました。しかもその価格はわずか 8 ドルです",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "全てが動き、シューターは無し。",
+        "description": "すべての移動、シューティングなし。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -261,10 +287,10 @@
         "is_translated": true
       },
       {
-        "title": "今週末はみんなで何をしますか？",
+        "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "鼻詰まりや粘液を飛ばす咳をせずに目覚めたのは、この月で初めての土曜日だ。クロスカントリーバイクに積んでスペイン、スウェーデン、ドイツを立て続けに旅行",
+        "description": "This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough. Trips to Spain, Sweden, and Germany in quick succession and loaded on top of a cross country bike",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -300,41 +326,15 @@
         "is_translated": false
       },
       {
-        "title": "Civilization 7 を無料でプレイしてレイバーデーを祝いましょう",
+        "title": "Celebrate Labor Day by playing Civilization 7 for free",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "実際にはレイバーデーとの関連性は見当たりませんが、Civ 7 は 9 月 10 日まで無料でプレイでき、セールも行われています。",
+        "description": "There's actually no connection to Labor Day that I can see, but Civ 7 is free to play until September 10, and it's on sale too.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "Silent Hill: Townfall は私がこれまでプレイした中で最もスコットランドらしいゲームであり、私がこれまで見てきた中で最も効果的なホラー ゲームです。「自分たちの生い立ちや過去を深く掘り下げ、信頼できる場所を構築しようとするのは理にかなっていました。」",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "悪天候のせいだけではありません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-most-scottish-game-ive-ever-played-and-the-most-effective-horror-game-ive-seen-in-ages-it-made-sense-for-us-to-dig-deep-into-our-upbringings-into-our-past-and-try-and-build-a-place-that-felt-believable/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "「その批判は正当である」: Gamescom、開発者のハードウェア盗難に対する冷酷な対応を謝罪",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Gamescomは「共同でセキュリティを見直し、さらなる改善に取り組む」と述べたが、影響を受けた出展者への補償については言及していない。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
         "date": "2026-09-04",
         "is_translated": true
       },
@@ -362,19 +362,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/playing-mass-effect-inspired-rpg-exodus-was-an-uncomfortably-familiar-space-trip-despite-some-brilliant-zero-g-fights",
         "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "ロックスターは、PC のなりすましプレイヤーがいつ次のゲームに移行できるかについては完全に沈黙を保ちつつ、MOD を使用した GTA 5 ロールプレイングの「次の進化」を発表",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "はい。知っている。 『GTA 6』は、PC 版の発売日が発表されていないまま、依然として名高い犯罪ゲームのリストに名を連ねています。ただし、GTA 5 は PC でリリースされており、Rockstar のクライム サンドボックスをこよなく愛する人々に長い間人気がありました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/rockstar-unveil-the-next-evolution-of-modded-gta-5-roleplaying-while-staying-totally-mum-on-when-pc-pretenders-might-be-able-to-migrate-to-their-next-game",
-        "date": "2026-09-02",
         "is_translated": true
       }
     ],
@@ -555,5 +542,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T03:38:41.804272"
+  "last_updated": "2026-09-06T14:39:07.648773"
 }

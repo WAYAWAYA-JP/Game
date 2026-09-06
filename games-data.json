@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-05"
+        "date": "2026-09-06"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-05"
+        "date": "2026-09-06"
       },
       {
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出しようとしています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-05"
+        "date": "2026-09-06"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-05"
+        "date": "2026-09-06"
       },
       {
         "title": "Build Your Own Platinum Collection",
@@ -339,20 +339,7 @@
         "is_translated": true
       },
       {
-        "title": "Xgimi Titan Noir Max レビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "たくさんのルーメンには、たくさんのお金がかかります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/xgimi-titan-noir-max-review/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "Moonlighter 2: The Endless Vault レビュー – 数字が上がる楽しい試合で、その改善の程度が最も注目に値します",
+        "title": "Moonlighter 2: The Endless Vault review – a pleasant bout of number go up that’s most remarkable for how much of an improvement it is",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "Moonlighter ゲームでは、プレイヤーはダンジョンニーと商人のハイブリッドであるウィルとしてキャストされ、夜はランダムに移動する戦闘アリーナを探索し、昼はそこで発掘した宝物を販売します。ダンジョンでは、あなたは",
@@ -392,6 +379,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] これは洞窟ではありません ($3.49 / 50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[Steam] ボディカム ($26.65/20% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[Steam] アラン ウェイク ($1.49 / 90% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[Steam] Master Detective Archives: RAIN CODE Plus ($14.99/50% オフ)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[STEAM] UFO クラッシュ ゲーム 特別プロモーション: FullBlast (50% オフ - $2.49) Centipede Simulator (25% オフ - $2.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-06"
+      },
       {
         "title": "ディズニー ドリームライト バレー: タイムの裂け目 (€17.95 -40% オフ / £15.50 -40% オフ / $17.95 -40% オフ)、ディズニー ドリームライト バレー: ストーリーブック ヴェイル (€17.95 -40% オフ / £15.59 -40% オフ / $17.95 -40% オフ)、EU、英国、米国 |スチームアクティベーション",
         "platform": "Steam",
@@ -508,5 +555,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-05T14:15:09.716889"
+  "last_updated": "2026-09-06T03:38:41.804272"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
       },
       {
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
       }
     ],
     "bundle": [
@@ -222,6 +222,19 @@
     ],
     "review": [
       {
+        "title": "新たなAAA協力プレイアクション『1001 Threads of Mizan』先行プレイ感想。「空飛ぶ絨毯」がとにかく気持ちいい、空と陸の立体共同戦線",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "gamescom向けビルドに収録されていた各システムはすでにうまく噛み合っており、MBC Game Studioがどのようなゲーム体験を作ろうとしているのかを伝える、説得力のある導入となっていた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/1001-20260907-465473/",
+        "date": "2026-09-07",
+        "is_translated": false
+      },
+      {
         "title": "『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版は『オクトラ』とは結構違う、けど馴染む。今週のゲーミング",
         "platform": "AUTOMATON",
         "type": "review",
@@ -235,10 +248,10 @@
         "is_translated": false
       },
       {
-        "title": "Deus Ex と Escape from Butcher Bay を組み合わせた Deficit は、ステルス システムに本格的な作業が必要な場合でも、私がプレイした中で最も感触の良いインディーズ没入型シムの 1 つです。",
+        "title": "Blending Deus Ex with Escape from Butcher Bay, Deficit is one of the best-feeling indie immersive sims I've played—even if the stealth system needs serious work",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Deficit のデモをプレイしても、純損失には程遠いものでした。",
+        "description": "Playing the demo for Deficit was far from a net loss.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -274,10 +287,10 @@
         "is_translated": false
       },
       {
-        "title": "フランスの一流 FPS 兄弟デュオの半分が、私がこれまでプレイした中で最も爽快なパルクール ゲームをリリースしました。しかもその価格はわずか 8 ドルです",
+        "title": "Half of France's premier FPS sibling duo just put out the most exhilarating parkour game I've ever played, and it's only $8",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "すべての移動、シューティングなし。",
+        "description": "All movement, no shooter.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -300,49 +313,10 @@
         "is_translated": true
       },
       {
-        "title": "人気ゲーム開発者が自ら、“Metacritic対抗”レビューサイトを立ち上げ。「メディアよりユーザー重視、最新評価も重視」をアピール",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Moon StudiosのCEOを務めるThomas Mahler氏は9月2日、新たなレビュー集積サイトとして「VideoGamesCritic」を立ち上げたことを発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260904-465240/",
-        "date": "2026-09-04",
-        "is_translated": false
-      },
-      {
-        "title": "独裁国家タワーディフェンス『絶対ロケット防衛主義』着実に評価集める好調スタート。ロケット発射のためには、兵器以外に“秘密警察”なども総動員",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "tiny cactus studioは9月4日、基地建設ストラテジーゲーム『絶対ロケット防衛主義』をリリースした。本作は発売直後から好評レビューが寄せられ、好調なスタートを切っている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260904-465182/",
-        "date": "2026-09-04",
-        "is_translated": false
-      },
-      {
-        "title": "Celebrate Labor Day by playing Civilization 7 for free",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "There's actually no connection to Labor Day that I can see, but Civ 7 is free to play until September 10, and it's on sale too.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
         "title": "Moonlighter 2: The Endless Vault review – a pleasant bout of number go up that’s most remarkable for how much of an improvement it is",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Moonlighter ゲームでは、プレイヤーはダンジョンニーと商人のハイブリッドであるウィルとしてキャストされ、夜はランダムに移動する戦闘アリーナを探索し、昼はそこで発掘した宝物を販売します。ダンジョンでは、あなたは",
+        "description": "The Moonlighter games cast you as Will, a dungeoneer-merchant hybrid, delving into randomly shifting combat arenas by night and selling the treasures you unearth there by day. In the dungeons, you f",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -352,10 +326,10 @@
         "is_translated": true
       },
       {
-        "title": "マスエフェクトにインスピレーションを得た RPG エクソダスをプレイするのは、いくつかの素晴らしい無重力戦闘にもかかわらず、不快なほど見慣れた宇宙旅行でした",
+        "title": "Playing Mass Effect-inspired RPG Exodus was an uncomfortably familiar space trip, despite some brilliant zero-G fights",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "完全な開示：私は不機嫌なメカタコスナイパーとエクソダスをプレイすることができませんでした。 「タコのスナイパーはどこ？」と私はささやきましたが、スパの他の2人のメンバーのように、混乱は悲しみに溶けていきました。",
+        "description": "Full disclosure: I did not get to play Exodus with the grumpy mecha octopus sniper. \"Where’s the octopus sniper?\", I whispered, confusion melting into sadness as the two other members of my spa",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -542,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T14:39:07.648773"
+  "last_updated": "2026-09-07T03:38:54.703395"
 }

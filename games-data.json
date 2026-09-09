@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +23,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出しようとしています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "title": "Bundlefest: Build Your Own Killer Bundle (5/10/15/25 for $5.99/$9.99/$14.69/$23.69 - Choose from RoboCop: Rogue City / Rain World / Nobody Wants to Die / Tavern Master / Wall World 2 / Don't Die, Collect Loot / Zefyr: A Thief's Melody / More)",
@@ -222,6 +222,32 @@
     ],
     "review": [
       {
+        "title": "基本プレイ無料着せ替えRPG『シャイニングニキ』新イベントでは“標本になれる”ように。おしゃれの限界突破、ちょっと怖いほど美しいコーデを試してみた",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Infold Gamesは9月9日より、着せ替えゲーム『シャイニングニキ』の新イベント「翠影の沈む地」を開催している。先行プレイに基づき、新イベントの内容をお届けしたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260909-465936/",
+        "date": "2026-09-09",
+        "is_translated": false
+      },
+      {
+        "title": "ダークファンタジー吸血鬼RPG“The Blood of Dawnwalker”のローンチを果たした「Rebel Wolves」が早くも続編の計画を始動",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、デビュー作となるダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のローンチを果たし、高い評価を獲得した「Rebel Wolves」ですが、元CD PROJEKT REDのベテランたち […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170592.html",
+        "date": "2026-09-09",
+        "is_translated": false
+      },
+      {
         "title": "ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お客」にも。“魔法だからできる”やりすぎ自動化商売",
         "platform": "AUTOMATON",
         "type": "review",
@@ -248,7 +274,7 @@
         "is_translated": false
       },
       {
-        "title": "Valheim 1.0 review",
+        "title": "Valheim 1.0 レビュー",
         "platform": "PC Gamer",
         "type": "review",
         "description": "あなたの長い旅は終わりました、バイキング。",
@@ -257,19 +283,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
-        "date": "2026-09-08",
-        "is_translated": true
-      },
-      {
-        "title": "任天堂、ゼルダの伝説 時のオカリナの発売日とゲームプレイを正式に発表",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『ゼルダの伝説 時のオカリナ』リメイク版が今年11月にNintendo Switch 2に登場します。ニンテンドーダイレクトで最初に明らかになったゲームプレイの詳細。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-gameplay-release-date/",
         "date": "2026-09-08",
         "is_translated": true
       },
@@ -287,20 +300,7 @@
         "is_translated": true
       },
       {
-        "title": "Steam 週間のレビュー: 先週 Steam でリリースされた 54 のアイドル ゲーム、その多くは不気味なほど似ています",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "9 月 6 日までの週の Steam の興味深い事実をまとめました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊ぶのかな？",
+        "title": "今週末はみんなで何をして遊びますか？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "鼻詰まりや粘液を飛ばす咳をせずに目覚めたのは、この月で初めての土曜日だ。クロスカントリーバイクに積んでスペイン、スウェーデン、ドイツを立て続けに旅行",
@@ -516,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-08T15:40:46.482664"
+  "last_updated": "2026-09-09T03:47:54.000649"
 }

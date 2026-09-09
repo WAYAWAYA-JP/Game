@@ -29,7 +29,7 @@
         "title": "Alone With You - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を語る SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -39,6 +39,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Bundlefest: Build Your Own Play on the Go Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-09"
+      },
       {
         "title": "Bundlefest: Build Your Own Decks & Dragons Bundle",
         "platform": "Fanatical",
@@ -206,71 +218,46 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-28"
-      },
-      {
-        "title": "Beyond the Metroidverse Bundle (Pay $5 for Salt and Sanctuary, Salt and Sacrifice, and $10 for Supraland Six Inches Under, HAAK, Monster Boy and the Cursed Kingdom, Worldless, Hunter X)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-27"
       }
     ],
     "review": [
       {
-        "title": "基本プレイ無料着せ替えRPG『シャイニングニキ』新イベントでは“標本になれる”ように。おしゃれの限界突破、ちょっと怖いほど美しいコーデを試してみた",
+        "title": "『ロマサガ3』フルリメイク『ロマンシング サガ3 デスティニーユナイテッド』発表、2027年2月発売へ。高評価『ロマサガ2』リメイクに続く",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Infold Gamesは9月9日より、着せ替えゲーム『シャイニングニキ』の新イベント「翠影の沈む地」を開催している。先行プレイに基づき、新イベントの内容をお届けしたい。",
+        "description": "スクウェア・エニックスは9月9日、Nintendo Directにて『ロマンシング サガ3 デスティニーユナイテッド』を発表した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260909-465936/",
+        "url": "https://automaton-media.com/articles/newsjp/rmsga-20260909-466172/",
         "date": "2026-09-09",
         "is_translated": false
       },
       {
-        "title": "ダークファンタジー吸血鬼RPG“The Blood of Dawnwalker”のローンチを果たした「Rebel Wolves」が早くも続編の計画を始動",
-        "platform": "doope!",
+        "title": "少女と町長を切り替える、日本田舎スローライフ『復興しよう！温泉町』期間限定の体験版配信。少女は釣りやお手伝いでのんびり、町長は依頼にバイトに大忙し",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "先日、デビュー作となるダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のローンチを果たし、高い評価を獲得した「Rebel Wolves」ですが、元CD PROJEKT REDのベテランたち […]",
+        "description": "ハリソンワールドは9月9日、饼饼Studioが手がける『復興しよう！温泉町』の体験版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170592.html",
+        "url": "https://automaton-media.com/articles/newsjp/20260909-466001/",
         "date": "2026-09-09",
         "is_translated": false
       },
       {
-        "title": "ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お客」にも。“魔法だからできる”やりすぎ自動化商売",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Gamirror Gamesは9月8日、高評価錬金術自動化シム『Alchemy Factory』を正式リリースした。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260908-465765/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "ローグライト横スクロールアクション「Absolum」のモバイル対応がアナウンス、発売は2026年11月5日",
+        "title": "「ウィッチャー３ ワイルドハント リマスター」と「追憶の調べ」拡張の最新情報を紹介する“TGS 2026”向け特別配信番組がアナウンス",
         "platform": "doope!",
         "type": "review",
-        "description": "昨年10月のローンチを経て高い評価を獲得し、今年5月には全対応プラットフォーム間のクロスプラットフォームマルチプレイヤーを導入するアップデートが配信されたDotemuとGuard Crush Games、Supamonk […]",
+        "description": "先日、非常に楽しそうな「追憶の調べ」拡張の公式プレビュー映像が公開された「ウィッチャー3 ワイルドハント」ですが、来るリマスターの解禁が迫るなか、新たにCD PROJEKT REDがプレスリリースを発行し、“東京ゲームシ […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170633.html",
-        "date": "2026-09-08",
+        "url": "https://doope.jp/2026/09170595.html",
+        "date": "2026-09-09",
         "is_translated": false
       },
       {
@@ -287,20 +274,7 @@
         "is_translated": true
       },
       {
-        "title": "スカフオメガのレビュー",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "オメガよりもアルファまたはベータに近い。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
-      {
-        "title": "今週末はみんなで何をして遊びますか？",
+        "title": "今週末はみんなで何をして遊ぶのかな？",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "鼻詰まりや粘液を飛ばす咳をせずに目覚めたのは、この月で初めての土曜日だ。クロスカントリーバイクに積んでスペイン、スウェーデン、ドイツを立て続けに旅行",
@@ -310,32 +284,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398",
         "date": "2026-09-05",
-        "is_translated": true
-      },
-      {
-        "title": "Moonlighter 2: The Endless Vault レビュー – 数字が上がる楽しい試合で、その改善の程度が最も注目に値します",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Moonlighter ゲームでは、プレイヤーはダンジョンニーと商人のハイブリッドであるウィルとしてキャストされ、夜はランダムに移動する戦闘アリーナを探索し、昼はそこで発掘した宝物を販売します。ダンジョンでは、あなたは",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
-        "date": "2026-09-04",
-        "is_translated": true
-      },
-      {
-        "title": "マスエフェクトにインスピレーションを得た RPG エクソダスをプレイするのは、いくつかの素晴らしい無重力戦闘にもかかわらず、不快なほど見慣れた宇宙旅行でした",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "完全な開示：私は不機嫌なメカタコスナイパーとエクソダスをプレイすることができませんでした。 「タコのスナイパーはどこ？」と私はささやきましたが、スパの他の2人のメンバーのように、混乱は悲しみに溶けていきました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/playing-mass-effect-inspired-rpg-exodus-was-an-uncomfortably-familiar-space-trip-despite-some-brilliant-zero-g-fights",
-        "date": "2026-09-04",
         "is_translated": true
       }
     ],
@@ -516,5 +464,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-09T03:47:54.000649"
+  "last_updated": "2026-09-09T15:34:28.703889"
 }

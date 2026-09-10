@@ -26,12 +26,24 @@
         "date": "2026-09-10"
       },
       {
-        "title": "Alone With You - Epic Games 無料配布中",
+        "title": "Luftrausers - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
+        "description": "Vlambeer のスタイリッシュなアーケード シューティング ゲーム LUFTRAUSERS では、空は燃え上がり、海は残骸で溢れます。カスタマイズされた戦闘機で空に飛び、戦艦、潜水艦、ライバルのエースと戦い、栄光、名誉、そしてハイスコアを目指しましょう。",
         "price": "無料",
         "originalPrice": "¥970",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Astral Ascent - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
+        "price": "無料",
+        "originalPrice": "¥2,570",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -39,6 +51,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Bundlefest: Build Your Own Special Editions Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-10"
+      },
       {
         "title": "Bundlefest: Build Your Own Play on the Go Bundle",
         "platform": "Fanatical",
@@ -206,36 +230,37 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-08-29"
-      },
-      {
-        "title": "Nuntius Games Bundle (9 for $7.99 - Choose from Alien Strike: Blasting the Intruders / Pimbolas / Damned 2 / Bloodrush: Undying Wish / DOCTOR VISCERA / Ghetto Zombies - Graffiti Squad / Islets Defense / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-28"
       }
     ],
     "review": [
       {
-        "title": "『ロマサガ3』フルリメイク『ロマンシング サガ3 デスティニーユナイテッド』発表、2027年2月発売へ。高評価『ロマサガ2』リメイクに続く",
+        "title": "『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高密度フィールド、圧倒的「オープンワールド」体験",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "スクウェア・エニックスは9月9日、Nintendo Directにて『ロマンシング サガ3 デスティニーユナイテッド』を発表した。",
+        "description": "『ファイナルファンタジーVII リベレーション』を1時間試遊して得た感想をお伝えする。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/rmsga-20260909-466172/",
-        "date": "2026-09-09",
+        "url": "https://automaton-media.com/articles/reportjp/20260910-466642/",
+        "date": "2026-09-10",
         "is_translated": false
       },
       {
-        "title": "城と戦車が融合したフランケンシュタインのような車を運転する弾丸天国、ワンダーバーグが本日早期アクセスで登場",
+        "title": "『グランブルーファンタジーヴァーサス -ライジング-』新キャラ「イド」は力強く取っつきやすい。と思いきや“竜人化”で一変、『GBVSR』らしい“やりこみ要素”もあり",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では『グランブルーファンタジーヴァーサス -ライジング-』のNintendo Switch 2版および新プレイアブルキャラ「イド」のインプレッションをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260910-466512/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "城と戦車が融合したフランケンシュタインのような車を運転する弾丸天国、Wanderburg が本日早期アクセスで登場",
         "platform": "Rock Paper Shotgun",
         "type": "review",
         "description": "実を言うと、私はまだ「弾丸天国」というジャンルにハマっていません。名前にもかかわらず、このジャンルは間違いなくここに残り、V という事実にもかかわらず、常にこのジャンルに対する面白い新しい解釈があるようです。",
@@ -485,5 +510,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-10T03:46:23.448627"
+  "last_updated": "2026-09-10T15:30:18.176220"
 }

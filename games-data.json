@@ -2,6 +2,18 @@
   "pc": {
     "free": [
       {
+        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜けるハードコアFPPアクションゲーム！『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦、没入感あふれる新たなストーリー、迫力満点のバイクステージ、改良されたスキル、サイバー忍者アクションが集結！",
+        "price": "無料",
+        "originalPrice": "¥4,880",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-09-11"
+      },
+      {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -11,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,19 +35,19 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Vlambeer のスタイリッシュなアーケード シューティング ゲーム LUFTRAUSERS では、空は燃え上がり、海は残骸で溢れます。カスタマイズされた戦闘機で空に飛び、戦艦、潜水艦、ライバルのエースと戦い、栄光、名誉、そしてハイスコアを目指しましょう。",
+        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -47,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       }
     ],
     "bundle": [
@@ -61,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       },
       {
         "title": "Bundlefest: Build Your Own Play on the Go Bundle",
@@ -234,6 +246,19 @@
     ],
     "review": [
       {
+        "title": "David Harbour's Santa Goes Full Hunger Games in Violent Night 2 (Exclusive)",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "For Polygon's fall preview, Violent Night 2 director Tommy Wirkola explains how his action-Christmas sequel became a modern Western",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/violent-night-2-exclusive-preview/",
+        "date": "2026-09-11",
+        "is_translated": true
+      },
+      {
         "title": "『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高密度フィールド、圧倒的「オープンワールド」体験",
         "platform": "AUTOMATON",
         "type": "review",
@@ -260,10 +285,36 @@
         "is_translated": false
       },
       {
-        "title": "城と戦車が融合したフランケンシュタインのような車を運転する弾丸天国、Wanderburg が本日早期アクセスで登場",
+        "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"People just buy an early access game like they buy a normal game and treat it like that's the game.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as-the-rise-of-hyper-casual-gaming-culture-means-people-often-dont-understand-what-theyre-getting-into/",
+        "date": "2026-09-10",
+        "is_translated": true
+      },
+      {
+        "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "実を言うと、私はまだ「弾丸天国」というジャンルにハマっていません。名前にもかかわらず、このジャンルは間違いなくここに残り、V という事実にもかかわらず、常にこのジャンルに対する面白い新しい解釈があるようです。",
+        "description": "There are probably many jokes one could make about mushrooms being edible, and mushrooms being like, edible, man in relation to Shroom and Gloom, a positively mycelial roguelike deckbuilder where yo",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/shroom-and-gloom-is-a-positively-mycelial-roguelike-double-deckbuilder-thats-now-out-in-early-access",
+        "date": "2026-09-10",
+        "is_translated": true
+      },
+      {
+        "title": "Wanderburg, a bullet heaven where you drive around a Frankensteinian hybrid of a castle and a tank, is out in early access today",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Truth be told, I'm still not sold on \"bullet heaven\" as a genre. Name notwithstanding, the genre is certainly here to stay, and there always seems to be funny new takes on it despite the fact that V",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -510,5 +561,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-10T15:30:18.176220"
+  "last_updated": "2026-09-11T03:44:23.933706"
 }

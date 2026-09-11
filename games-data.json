@@ -64,6 +64,18 @@
     ],
     "bundle": [
       {
+        "title": "Prestige Collection - Build Your Own Bundle (Fall 2026) (2 / 3 / 5 for $14.99 / $21.75 / $34.99 | Includes Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "収録: Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-11"
+      },
+      {
         "title": "Bundlefest: Build Your Own Special Editions Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -230,31 +242,19 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-08-31"
-      },
-      {
-        "title": "Build Your Own Discoveries Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-08-29"
       }
     ],
     "review": [
       {
-        "title": "David Harbour's Santa Goes Full Hunger Games in Violent Night 2 (Exclusive)",
+        "title": "'Blade Runner 2099' Showrunner Reveals the Sci-Fi Secrets She Learned from Ridley Scott",
         "platform": "Polygon",
         "type": "review",
-        "description": "For Polygon's fall preview, Violent Night 2 director Tommy Wirkola explains how his action-Christmas sequel became a modern Western",
+        "description": "For Polygon's Fall Preview, we caught up with Silka Luisa and peppered her with questions about Blade Runner 2099",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/violent-night-2-exclusive-preview/",
+        "url": "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/",
         "date": "2026-09-11",
         "is_translated": true
       },
@@ -272,23 +272,10 @@
         "is_translated": false
       },
       {
-        "title": "『グランブルーファンタジーヴァーサス -ライジング-』新キャラ「イド」は力強く取っつきやすい。と思いきや“竜人化”で一変、『GBVSR』らしい“やりこみ要素”もあり",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿では『グランブルーファンタジーヴァーサス -ライジング-』のNintendo Switch 2版および新プレイアブルキャラ「イド」のインプレッションをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260910-466512/",
-        "date": "2026-09-10",
-        "is_translated": false
-      },
-      {
-        "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
+        "title": "Palworldのパブリッシング責任者は、「ハイパーカジュアル」ゲーム文化の台頭により、人々は自分が何に夢中になっているのか理解できないことが多くなり、早期アクセスは「意味を失った」と懸念している",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "\"People just buy an early access game like they buy a normal game and treat it like that's the game.\"",
+        "description": "「人々は通常のゲームを購入するのと同じように早期アクセス ゲームを購入し、それがゲームであるかのように扱います。」",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -298,10 +285,10 @@
         "is_translated": true
       },
       {
-        "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
+        "title": "Shroom and Gloom は、早期アクセスが開始された、正に菌糸のようなローグライク ダブルデッキビルダーです。",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "There are probably many jokes one could make about mushrooms being edible, and mushrooms being like, edible, man in relation to Shroom and Gloom, a positively mycelial roguelike deckbuilder where yo",
+        "description": "おそらく、キノコが食用であること、そしてキノコが人間のようなものであるというジョークは、間違いなく菌糸体のローグライクデッキビルダーであるシュルーム アンド グルームに関連して作ることができるでしょう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -314,7 +301,7 @@
         "title": "Wanderburg, a bullet heaven where you drive around a Frankensteinian hybrid of a castle and a tank, is out in early access today",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Truth be told, I'm still not sold on \"bullet heaven\" as a genre. Name notwithstanding, the genre is certainly here to stay, and there always seems to be funny new takes on it despite the fact that V",
+        "description": "実を言うと、私はまだ「弾丸天国」というジャンルにハマっていません。名前にもかかわらず、このジャンルは間違いなくここに存在しており、V という事実にもかかわらず、常にこのジャンルに対する面白い新しい解釈があるようです。",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -561,5 +548,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-11T03:44:23.933706"
+  "last_updated": "2026-09-11T15:33:16.925622"
 }

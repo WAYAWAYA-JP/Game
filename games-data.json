@@ -246,6 +246,19 @@
     ],
     "review": [
       {
+        "title": "PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marvel’s Spider-Man』ゲームを作ったスタジオの新作は「十数時間でわかるウルヴァリン」。良い意味でも悪い意味でも",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "開発会社の実力が十分に発揮できていないように思えた、非常に惜しい内容に収まってしまっているゲームと言えるだろう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/ps5marvels-wolverine-20260912-467016/",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
         "title": "“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表",
         "platform": "doope!",
         "type": "review",
@@ -262,39 +275,13 @@
         "title": "Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "The new Wolverine game is fine, but it's definitely not the best there is at what it does.",
+        "description": "新しいウルヴァリンゲームは素晴らしいですが、それができることにおいては間違いなく最高ではありません。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
         "date": "2026-09-11",
-        "is_translated": true
-      },
-      {
-        "title": "The 17 Best Games of Gamescom 2026",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Here are the best games we played at Gamescom 2026, from AAA titans to indie gems.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/best-games-gamescom-2026/",
-        "date": "2026-09-11",
-        "is_translated": true
-      },
-      {
-        "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"People just buy an early access game like they buy a normal game and treat it like that's the game.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as-the-rise-of-hyper-casual-gaming-culture-means-people-often-dont-understand-what-theyre-getting-into/",
-        "date": "2026-09-10",
         "is_translated": true
       },
       {
@@ -561,5 +548,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-12T03:48:08.022085"
+  "last_updated": "2026-09-12T14:40:09.860957"
 }

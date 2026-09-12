@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       },
       {
         "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -59,10 +59,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       }
     ],
     "bundle": [
+      {
+        "title": "Run It Back - Roguelikes Bundle (Pay $5 for Spellmasons, Source of Madness, $10 adds Dome Keeper, Battle Shapers, Dungeons of Blood and Dream, OTXO, and $13 adds Rabbit and Steel, Chrono Ark, Lost in Random: The Eternal Die)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-12"
+      },
       {
         "title": "Prestige Collection - Build Your Own Bundle (Fall 2026) (2 / 3 / 5 for $14.99 / $21.75 / $34.99 | Includes Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
         "platform": "Fanatical",
@@ -73,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
       },
       {
         "title": "Bundlefest: Build Your Own Special Editions Bundle",
@@ -230,52 +242,53 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-02"
-      },
-      {
-        "title": "PAX West 2026 Bundle (Pay $10 for Order Automatica, The Lacerator, GODBREAKERS, Parking Garage Rally Circuit, Neckbreak, and $20 for Cornucopia, Dark Deity 2, Quilts and Cats of Calico Special Edition)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-08-31"
       }
     ],
     "review": [
       {
-        "title": "'Blade Runner 2099' Showrunner Reveals the Sci-Fi Secrets She Learned from Ridley Scott",
-        "platform": "Polygon",
+        "title": "“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表",
+        "platform": "doope!",
         "type": "review",
-        "description": "For Polygon's Fall Preview, we caught up with Silka Luisa and peppered her with questions about Blade Runner 2099",
+        "description": "本日、小さなネズミ“クイル”の冒険を描く「Moss」シリーズで高い評価を獲得したインディースタジオ「Polyarc」が、Linkedinを通じてスタジオの閉鎖をアナウンス。既に開発業務を終了し、チームメンバーの新たな採用 […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/",
+        "url": "https://doope.jp/2026/09170753.html",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The new Wolverine game is fine, but it's definitely not the best there is at what it does.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
         "date": "2026-09-11",
         "is_translated": true
       },
       {
-        "title": "『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高密度フィールド、圧倒的「オープンワールド」体験",
-        "platform": "AUTOMATON",
+        "title": "The 17 Best Games of Gamescom 2026",
+        "platform": "Polygon",
         "type": "review",
-        "description": "『ファイナルファンタジーVII リベレーション』を1時間試遊して得た感想をお伝えする。",
+        "description": "Here are the best games we played at Gamescom 2026, from AAA titans to indie gems.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260910-466642/",
-        "date": "2026-09-10",
-        "is_translated": false
+        "url": "https://www.polygon.com/best-games-gamescom-2026/",
+        "date": "2026-09-11",
+        "is_translated": true
       },
       {
-        "title": "Palworldのパブリッシング責任者は、「ハイパーカジュアル」ゲーム文化の台頭により、人々は自分が何に夢中になっているのか理解できないことが多くなり、早期アクセスは「意味を失った」と懸念している",
+        "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "「人々は通常のゲームを購入するのと同じように早期アクセス ゲームを購入し、それがゲームであるかのように扱います。」",
+        "description": "\"People just buy an early access game like they buy a normal game and treat it like that's the game.\"",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -285,10 +298,10 @@
         "is_translated": true
       },
       {
-        "title": "Shroom and Gloom は、早期アクセスが開始された、正に菌糸のようなローグライク ダブルデッキビルダーです。",
+        "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "おそらく、キノコが食用であること、そしてキノコが人間のようなものであるというジョークは、間違いなく菌糸体のローグライクデッキビルダーであるシュルーム アンド グルームに関連して作ることができるでしょう。",
+        "description": "There are probably many jokes one could make about mushrooms being edible, and mushrooms being like, edible, man in relation to Shroom and Gloom, a positively mycelial roguelike deckbuilder where yo",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -301,7 +314,7 @@
         "title": "Wanderburg, a bullet heaven where you drive around a Frankensteinian hybrid of a castle and a tank, is out in early access today",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "実を言うと、私はまだ「弾丸天国」というジャンルにハマっていません。名前にもかかわらず、このジャンルは間違いなくここに存在しており、V という事実にもかかわらず、常にこのジャンルに対する面白い新しい解釈があるようです。",
+        "description": "Truth be told, I'm still not sold on \"bullet heaven\" as a genre. Name notwithstanding, the genre is certainly here to stay, and there always seems to be funny new takes on it despite the fact that V",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -548,5 +561,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-11T15:33:16.925622"
+  "last_updated": "2026-09-12T03:48:08.022085"
 }

@@ -5,7 +5,7 @@
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜ける迫力のFPPアクションゲーム！ 『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦、没入感あふれる新たなストーリー、迫力のバイクステージ、改良されたスキル、サイバー忍者アクションが集結！",
+        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜けるハードコアFPPアクションゲーム！『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦、没入感あふれる新たなストーリー、迫力満点のバイクステージ、改良されたスキル、サイバー忍者アクションが集結！",
         "price": "無料",
         "originalPrice": "¥4,880",
         "discount": "100% OFF",
@@ -41,7 +41,7 @@
         "title": "Luftrausers - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Vlambeer のスタイリッシュなアーケード シューティング ゲーム LUFTRAUSERS では、空は燃え上がり、海は残骸で溢れます。カスタマイズされた戦闘機で空に飛び、戦艦、潜水艦、ライバルのエースと戦い、栄光、名誉、そしてハイスコアを目指しましょう。",
+        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
         "price": "無料",
         "originalPrice": "¥970",
         "discount": "100% OFF",
@@ -246,10 +246,23 @@
     ],
     "review": [
       {
-        "title": "コントローラーで RTS をプレイしていますか? Total War: Warhammer 40,000 開発者、ゲーム内で「本当に機能する」と語る：「我々は本当に堅実な位置に着地したと思う」",
+        "title": "Beneath a Steel Sky review (1994)",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "しかし、ユニットを向きを変えるために「J」を押すにはどうすればよいでしょうか?",
+        "description": "RevisitingRevolution Software's dystopian adventure.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
+        "title": "Playing RTS with a controller? Total War: Warhammer 40,000 dev says it 'really does work' in their game: 'I think we've landed in a really solid spot'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "But how will we press \"J\" to make a unit about-face?",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -259,15 +272,41 @@
         "is_translated": true
       },
       {
-        "title": "誰もプレイしていないほぼ完璧なニンテンドー 3DS ゲーム 10 本",
-        "platform": "Polygon",
+        "title": "The Sunday Papers",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "The 3DS came and went, leaving behind 10 near-perfect games most players overlooked, but shouldn't have.",
+        "description": "Sundays are for realising that after playing The Blood of Dawnwalker, you've developed a craving for blackcurrant juice. There's none in the cupboard, so you venture out to get some, floating across",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/best-3ds-games-underrated/",
+        "url": "https://www.rockpapershotgun.com/the-sunday-papers-827",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
+        "title": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Polygon previews an exciting but lopsided fall, dominated by GTA 6 and Zelda, with PlayStation playing the role of villain",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
+        "title": "'Godzilla Minus Zero' Director Reveals How Steven Spielberg Inspired the Sci-Fi Sequel",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Takashi Yamazaki talks Godzilla Minus Zero for Polygon's 2026 Fall Preview",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/godzilla-minus-zero-director-interview/",
         "date": "2026-09-13",
         "is_translated": true
       },
@@ -301,7 +340,7 @@
         "title": "Diablo 5 gameplay details from BlizzCon: More classes than ever before, procedurally-generated dungeons, and Diablo 2-style loot",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "ブリザードは、2029年までリリースされないアクションRPGの続編について、驚くべき量の詳細を提供した。",
+        "description": "Blizzard has offered up a surprising amount of detail about the action RPG sequel, which won't be out until 2029.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -311,10 +350,10 @@
         "is_translated": true
       },
       {
-        "title": "ウルヴァリンのレビューまとめ: 率直に言って、「PlayStation 5 独占」というもの全体について少しは良い気分になり始めています",
+        "title": "Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "新しいウルヴァリンゲームは素晴らしいですが、それができることにおいては間違いなく最高ではありません。",
+        "description": "The new Wolverine game is fine, but it's definitely not the best there is at what it does.",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -324,10 +363,10 @@
         "is_translated": true
       },
       {
-        "title": "Shroom and Gloom は、現在早期アクセスがリリースされている、まさに菌糸的なローグライク ダブルデッキビルダーです",
+        "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "おそらく、キノコが食用であること、そしてキノコが人間のようなものであるというジョークは、間違いなく菌糸体のローグライクデッキビルダーであるシュルーム アンド グルームに関連して作ることができるでしょう。",
+        "description": "There are probably many jokes one could make about mushrooms being edible, and mushrooms being like, edible, man in relation to Shroom and Gloom, a positively mycelial roguelike deckbuilder where yo",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -337,10 +376,10 @@
         "is_translated": true
       },
       {
-        "title": "城と戦車が融合したフランケンシュタインのような車を運転する弾丸天国、Wanderburg が本日早期アクセスで登場",
+        "title": "Wanderburg, a bullet heaven where you drive around a Frankensteinian hybrid of a castle and a tank, is out in early access today",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "実を言うと、私はまだ「弾丸天国」というジャンルにハマっていません。名前にもかかわらず、このジャンルは間違いなくここに残り、V という事実にもかかわらず、常にこのジャンルに対する面白い新しい解釈があるようです。",
+        "description": "Truth be told, I'm still not sold on \"bullet heaven\" as a genre. Name notwithstanding, the genre is certainly here to stay, and there always seems to be funny new takes on it despite the fact that V",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -587,5 +626,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-13T03:56:07.971655"
+  "last_updated": "2026-09-13T15:21:29.930381"
 }

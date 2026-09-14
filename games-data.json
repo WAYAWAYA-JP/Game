@@ -11,19 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Lost Castle: The Old Ones Awaken - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Old Ones Awakenには、新たなレベルが含まれています！",
-        "price": "無料",
-        "originalPrice": "¥390",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -35,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -47,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -59,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       }
     ],
     "bundle": [
@@ -73,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "Prestige Collection - Build Your Own Bundle (Fall 2026) (2 / 3 / 5 for $14.99 / $21.75 / $34.99 | Includes Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
@@ -85,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "Bundlefest: Build Your Own Special Editions Bundle",
@@ -246,6 +234,45 @@
     ],
     "review": [
       {
+        "title": "人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評価市松人形ゲーム『いちまさん』開発者の新作",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "個人ゲーム開発者のせをはやみ氏は9月12日、『Mary-san（メァリーさん）』のSteamストアページを公開した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260914-467165/",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
+        "title": "Inzoi's director says he is 'very much focused on our core goals' as he announces a multiplayer roleplaying mode designed to be like Ready Player One",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"The main goal of Canvastown is to get away from mundane daily life.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/inzois-director-says-he-is-very-much-focused-on-our-core-goals-as-he-announces-a-multiplayer-roleplaying-mode-designed-to-be-like-ready-player-one/",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
         "title": "Beneath a Steel Sky review (1994)",
         "platform": "PC Gamer",
         "type": "review",
@@ -285,32 +312,6 @@
         "is_translated": true
       },
       {
-        "title": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Polygon previews an exciting but lopsided fall, dominated by GTA 6 and Zelda, with PlayStation playing the role of villain",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
-      {
-        "title": "'Godzilla Minus Zero' Director Reveals How Steven Spielberg Inspired the Sci-Fi Sequel",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Takashi Yamazaki talks Godzilla Minus Zero for Polygon's 2026 Fall Preview",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/godzilla-minus-zero-director-interview/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
-      {
         "title": "PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marvel’s Spider-Man』ゲームを作ったスタジオの新作は「十数時間でわかるウルヴァリン」。良い意味でも悪い意味でも",
         "platform": "AUTOMATON",
         "type": "review",
@@ -320,19 +321,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/impressionjp/ps5marvels-wolverine-20260912-467016/",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本日、小さなネズミ“クイル”の冒険を描く「Moss」シリーズで高い評価を獲得したインディースタジオ「Polyarc」が、Linkedinを通じてスタジオの閉鎖をアナウンス。既に開発業務を終了し、チームメンバーの新たな採用 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170753.html",
         "date": "2026-09-12",
         "is_translated": false
       },
@@ -347,19 +335,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/rpg/diablo-5-gameplay-details-from-blizzcon-more-classes-than-ever-before-procedurally-generated-dungeons-and-diablo-2-style-loot/",
         "date": "2026-09-12",
-        "is_translated": true
-      },
-      {
-        "title": "Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The new Wolverine game is fine, but it's definitely not the best there is at what it does.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
-        "date": "2026-09-11",
         "is_translated": true
       },
       {
@@ -391,7 +366,7 @@
     ],
     "sale": [
       {
-        "title": "[Steam] FTL: Faster Than Light ($1.99 / 80% オフ)",
+        "title": "[Steam] What Is The Ghost ($5.35 / 33% off)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -400,10 +375,10 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
-        "title": "[Steam] Quantum Odyssey (€9,09/30% オフ)",
+        "title": "[Steam] FTL: Faster Than Light ($1.99 / 80% off)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -412,10 +387,22 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
-        "title": "[GOG] Deus Ex: Mankind Divided ($2.99 / 90% オフ)、デラックス エディション ($4.49 / 90% オフ)",
+        "title": "[Steam] Quantum Odyssey (€9,09/30% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "[GOG] Deus Ex: Mankind Divided ($2.99 / 90% off), Deluxe Edition ($4.49 / 90% off)",
         "platform": "GOG",
         "type": "sale",
         "description": "GOGでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -424,10 +411,10 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.gog.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
-        "title": "[Steam] Deep Sheol ($5.51/15% オフ)",
+        "title": "[Steam] Deep Sheol ($5.51/15% off)",
         "platform": "Steam",
         "type": "sale",
         "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
@@ -436,7 +423,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
       },
       {
         "title": "[Newegg] CONTROL Resonant (Steam デジタル コード) ($47.99 - コード CNTRLXV で 15% オフ)",
@@ -626,5 +613,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-13T15:21:29.930381"
+  "last_updated": "2026-09-14T04:04:49.377488"
 }

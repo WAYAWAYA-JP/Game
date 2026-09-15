@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-14"
+        "date": "2026-09-15"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-14"
+        "date": "2026-09-15"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-14"
+        "date": "2026-09-15"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-14"
+        "date": "2026-09-15"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-14"
+        "date": "2026-09-15"
       },
       {
         "title": "Prestige Collection - Build Your Own Bundle (Fall 2026) (2 / 3 / 5 for $14.99 / $21.75 / $34.99 | Includes Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
@@ -234,17 +234,69 @@
     ],
     "review": [
       {
-        "title": "人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評価市松人形ゲーム『いちまさん』開発者の新作",
+        "title": "世紀末「巨大カニ上暮らし」ローグライト『The Crab is Walking』発表。省スペースで都市建築、軍隊育てて進軍せよ、高評価『The King is Watching』開発元の新作",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "個人ゲーム開発者のせをはやみ氏は9月12日、『Mary-san（メァリーさん）』のSteamストアページを公開した。",
+        "description": "tinyBuildは9月14日、Hypnoheadが手がける『The Crab is Walking』を発表した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260914-467165/",
-        "date": "2026-09-14",
+        "url": "https://automaton-media.com/articles/newsjp/20260915-467485/",
+        "date": "2026-09-15",
         "is_translated": false
+      },
+      {
+        "title": "人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のPC製品版1.0とコンソール版が遂に発売、ローンチトレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マレーシアで活動するインディースタジオO.P.Neon Gamesの新作として、2024年9月にSteam Early Access版がリリースされ、非常に高い評価を獲得していたた人気トレーディングカードショップ経営シム […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170787.html",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "「リ・ストーリー: 思い出修理屋」の販売が50万本を突破、無料アップデートの配信は9月21日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年8月のローンチを経て高い評価を獲得し、初週30万本販売突破が報じられた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、昨晩放送されたtinyBuild Connectにて、本作の評価トレーラーが公開され、 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170827.html",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "10 Near-Perfect Xbox 360 Games Nobody Played",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Xbox 360 had a large library of hits, but some of its exclusive hidden gems didn't get the attention they deserved.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/most-underrated-xbox-360-games/",
+        "date": "2026-09-15",
+        "is_translated": true
+      },
+      {
+        "title": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Still no new release date, though.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+        "date": "2026-09-14",
+        "is_translated": true
       },
       {
         "title": "We tested the simple Windows 11 account bypass and it works. Just no-one tell Microsoft",
@@ -270,58 +322,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
         "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "Mahershala Ali’s New Movie From Blade Director Is Getting Perfect Reviews",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Your Mother Your Mother Your Mother from Blade director and Mahershala Ali debuts to rousing success",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/your-mother-mahershala-ali-bassim-tariq-blade-rotten-tomatoes/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "Zack Snyder’s Lifelong Passion Project Gets Terrible Reviews",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Zack Snyder's new film, 'The Last Photograph,' just premiered at TIFF and it's getting horrible first reviews.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
-      {
-        "title": "Inzoi's director says he is 'very much focused on our core goals' as he announces a multiplayer roleplaying mode designed to be like Ready Player One",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"The main goal of Canvastown is to get away from mundane daily life.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/inzois-director-says-he-is-very-much-focused-on-our-core-goals-as-he-announces-a-multiplayer-roleplaying-mode-designed-to-be-like-ready-player-one/",
-        "date": "2026-09-13",
         "is_translated": true
       },
       {
@@ -600,5 +600,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-14T17:17:28.189646"
+  "last_updated": "2026-09-15T04:02:42.979245"
 }

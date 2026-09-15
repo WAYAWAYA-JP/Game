@@ -52,6 +52,18 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own Capcom Mega Bundle (2/3/4/8 for $12.99/$18.99/$24.99/$49.59 - Choose from Resident Evil Village Gold Edition / Monster Hunter Stories / Monster Hunter Stories 2: Wings of Ruin / Resident Evil 4 / The Great Ace Attorney Chronicles / Phoenix Wright: Ace Attorney / More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-15"
+      },
+      {
         "title": "Run It Back - Roguelikes Bundle (Pay $5 for Spellmasons, Source of Madness, $10 adds Dome Keeper, Battle Shapers, Dungeons of Blood and Dream, OTXO, and $13 adds Rabbit and Steel, Chrono Ark, Lost in Random: The Eternal Die)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -218,31 +230,58 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-02"
-      },
-      {
-        "title": "[Steam] Super Night Riders S1 Collector Bundle ($10.82/15% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-02"
       }
     ],
     "review": [
       {
-        "title": "世紀末「巨大カニ上暮らし」ローグライト『The Crab is Walking』発表。省スペースで都市建築、軍隊育てて進軍せよ、高評価『The King is Watching』開発元の新作",
+        "title": "『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジーゲーム入門から、特殊兵器で敵軍団を一網打尽まで体験",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "tinyBuildは9月14日、Hypnoheadが手がける『The Crab is Walking』を発表した。",
+        "description": "約75分間のプレイフィールを通じて得た感想を、本稿でお伝えしたい。チュートリアルモードとキャンペーンモードを中心に紹介していこう。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260915-467485/",
+        "url": "https://automaton-media.com/articles/reportjp/tt-20260915-467751/",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間でサクッと決着がつく、だけど頭はフル回転な「短期集中」型ゲーム",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『OVER RUSH』は、ローグライク要素を取り入れた高速カードバトルRPG。“短期集中”型のバトルを一足先に体験してきた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/over-rush-20260915-467664/",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”がアナウンス、発売は10月12日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Arcen Gamesが開発を手掛ける新作ストラテジーRPGとして、今年3月に製品版1.0のローンチを果たし、高い評価を獲得した4XストラテジーRPG「Heart of the Machine」ですが、新たにHooded […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170848.html",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "「007 First Light」のNintendo Switch 2版が延期、新たな発売時期は2027年3月",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年5月のローンチを経て高い評価を獲得し、先日累計400万本販売突破が報じられた「007 First Light」ですが、新たにIo-Interactiveが今夏を予定していたNintendo Switch 2版の更なる […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170840.html",
         "date": "2026-09-15",
         "is_translated": false
       },
@@ -260,28 +299,15 @@
         "is_translated": false
       },
       {
-        "title": "「リ・ストーリー: 思い出修理屋」の販売が50万本を突破、無料アップデートの配信は9月21日",
-        "platform": "doope!",
+        "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今年8月のローンチを経て高い評価を獲得し、初週30万本販売突破が報じられた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、昨晩放送されたtinyBuild Connectにて、本作の評価トレーラーが公開され、 […]",
+        "description": "The September update for Civ 7 arrives today, September 15th. It's got a handful of new maps, including a fresh version of the real life-mimicking True Start Earth playing field, and updates to diplo",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09170827.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "10 Near-Perfect Xbox 360 Games Nobody Played",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Xbox 360 had a large library of hits, but some of its exclusive hidden gems didn't get the attention they deserved.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/most-underrated-xbox-360-games/",
+        "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
         "date": "2026-09-15",
         "is_translated": true
       },
@@ -299,23 +325,10 @@
         "is_translated": true
       },
       {
-        "title": "We tested the simple Windows 11 account bypass and it works. Just no-one tell Microsoft",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/operating-systems/we-tested-the-simple-windows-11-account-bypass-and-it-works-just-no-one-tell-microsoft/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
         "title": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Disclosure: Nighthawks writer Richard Cobbett has contributed articles to RPS, with his most recent as of writing being a Fable-themed feature from 2018. Vampire RPG Nighthawks has been slapped with",
+        "description": "Update: Wadjet Eye's Dave Gilbert has confirmed on Bluesky that Nighthawks' \"Adults Only\" Steam label has been removed, meaning it's no longer locked in horny jail. \"Everything is set for launch on t",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -600,5 +613,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-15T04:02:42.979245"
+  "last_updated": "2026-09-15T15:56:33.769917"
 }

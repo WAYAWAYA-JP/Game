@@ -234,71 +234,6 @@
     ],
     "review": [
       {
-        "title": "ダーク三國志死にゲー『Wo Long 2: Wings of Ember』来年3月4日発売へ。ぬるっと発表、期間限定体験版もいきなり配信開始",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "コーエーテクモゲームスは9月16日、『Wo Long 2: Wings of Ember』を2027年3月4日に発売すると発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260916-467836/",
-        "date": "2026-09-16",
-        "is_translated": false
-      },
-      {
-        "title": "北山宏光さん主演ゲーム『AKIBA LOST』ってどんなゲーム？実写映像いっぱい物語いっぱいバッドエンドいっぱい、大ボリュームで贈る異色の群像劇サスペンス",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本稿では先行プレビューとして、構想から6年という長い時間をかけて作り込まれた『AKIBA LOST』を紹介したい。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/akiba-lost-20260916-467790/",
-        "date": "2026-09-16",
-        "is_translated": false
-      },
-      {
-        "title": "『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジーゲーム入門から、特殊兵器で敵軍団を一網打尽まで体験",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "約75分間のプレイフィールを通じて得た感想を、本稿でお伝えしたい。チュートリアルモードとキャンペーンモードを中心に紹介していこう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/tt-20260915-467751/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間でサクッと決着がつく、だけど頭はフル回転な「短期集中」型ゲーム",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『OVER RUSH』は、ローグライク要素を取り入れた高速カードバトルRPG。“短期集中”型のバトルを一足先に体験してきた。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/over-rush-20260915-467664/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”がアナウンス、発売は10月12日",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Arcen Gamesが開発を手掛ける新作ストラテジーRPGとして、今年3月に製品版1.0のローンチを果たし、高い評価を獲得した4XストラテジーRPG「Heart of the Machine」ですが、新たにHooded […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170848.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
         "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -309,45 +244,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
         "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "God of War Laufey Now Has a Lot To Prove After Wolverine’s Messy Launch",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "After Marvel's Wolverine launched to mixed reviews, God of War Laufey is set to be a high-stakes test for Sony's reputation.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Still no new release date, though.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-        "date": "2026-09-14",
         "is_translated": true
       },
       {
@@ -375,22 +271,57 @@
         "url": "https://www.rockpapershotgun.com/the-sunday-papers-827",
         "date": "2026-09-13",
         "is_translated": true
-      },
-      {
-        "title": "Shroom and Gloom is a positively mycelial roguelike double deckbuilder that's now out in early access",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "There are probably many jokes one could make about mushrooms being edible, and mushrooms being like, edible, man in relation to Shroom and Gloom, a positively mycelial roguelike deckbuilder where yo",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/shroom-and-gloom-is-a-positively-mycelial-roguelike-double-deckbuilder-thats-now-out-in-early-access",
-        "date": "2026-09-10",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] Danganronpa: Trigger Happy Havoc ($1.99/90% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "[Steam] One Rotten Oath - (40% off / $4.19)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "Dying Light: The Beast (€26.59 -55% off / £22.10 -55% off / $26.90 -55% off), EU, UK, US | Steam Activation",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "[Steam] Rogue Zodiacs (75% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-16"
+      },
       {
         "title": "[Steam] What Is The Ghost ($5.35 / 33% off)",
         "platform": "Steam",
@@ -522,66 +453,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-10"
-      },
-      {
-        "title": "[Steam] これは洞窟ではありません ($3.49 / 50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "[Steam] ボディカム ($26.65/20% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "[Steam] アラン ウェイク ($1.49 / 90% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "[Steam] Master Detective Archives: RAIN CODE Plus ($14.99/50% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "[STEAM] UFO クラッシュ ゲーム 特別プロモーション: FullBlast (50% オフ - $2.49) Centipede Simulator (25% オフ - $2.99)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-06"
       }
     ]
   },
@@ -639,5 +510,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-16T04:00:39.826031"
+  "last_updated": "2026-09-16T15:48:30.885073"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -47,10 +47,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
       }
     ],
     "bundle": [
+      {
+        "title": "Best of Humble Bundle - Sniper Elite: Classics Collection (Pay $5 for Sniper Elite 3, Sniper Elite 3 - Season Pass, Sniper Elite V2 Remastered, Sniper Elite, and $10 adds Sniper Elite 4: Deluxe Edition)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-16"
+      },
       {
         "title": "Build Your Own Capcom Mega Bundle (2/3/4/8 for $12.99/$18.99/$24.99/$49.59 - Choose from Resident Evil Village Gold Edition / Monster Hunter Stories / Monster Hunter Stories 2: Wings of Ruin / Resident Evil 4 / The Great Ace Attorney Chronicles / Phoenix Wright: Ace Attorney / More)",
         "platform": "Fanatical",
@@ -61,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
       },
       {
         "title": "Run It Back - Roguelikes Bundle (Pay $5 for Spellmasons, Source of Madness, $10 adds Dome Keeper, Battle Shapers, Dungeons of Blood and Dream, OTXO, and $13 adds Rabbit and Steel, Chrono Ark, Lost in Random: The Eternal Die)",
@@ -218,21 +230,35 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-03"
-      },
-      {
-        "title": "Dread and Dark Fantasies RPG Collection (Pay $6 for Steelrising - Bastille Edition, The Axis Unseen, $12 for Darksiders Genesis, Dread Delusion, Ashen, and $18 for Pillars of Eternity II: Deadfire, Torchlight 1-3 Bundle, Kristala)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-02"
       }
     ],
     "review": [
+      {
+        "title": "ダーク三國志死にゲー『Wo Long 2: Wings of Ember』来年3月4日発売へ。ぬるっと発表、期間限定体験版もいきなり配信開始",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "コーエーテクモゲームスは9月16日、『Wo Long 2: Wings of Ember』を2027年3月4日に発売すると発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260916-467836/",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "北山宏光さん主演ゲーム『AKIBA LOST』ってどんなゲーム？実写映像いっぱい物語いっぱいバッドエンドいっぱい、大ボリュームで贈る異色の群像劇サスペンス",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では先行プレビューとして、構想から6年という長い時間をかけて作り込まれた『AKIBA LOST』を紹介したい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/akiba-lost-20260916-467790/",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
       {
         "title": "『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジーゲーム入門から、特殊兵器で敵軍団を一網打尽まで体験",
         "platform": "AUTOMATON",
@@ -273,32 +299,6 @@
         "is_translated": false
       },
       {
-        "title": "「007 First Light」のNintendo Switch 2版が延期、新たな発売時期は2027年3月",
-        "platform": "doope!",
-        "type": "review",
-        "description": "今年5月のローンチを経て高い評価を獲得し、先日累計400万本販売突破が報じられた「007 First Light」ですが、新たにIo-Interactiveが今夏を予定していたNintendo Switch 2版の更なる […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170840.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のPC製品版1.0とコンソール版が遂に発売、ローンチトレーラーも",
-        "platform": "doope!",
-        "type": "review",
-        "description": "マレーシアで活動するインディースタジオO.P.Neon Gamesの新作として、2024年9月にSteam Early Access版がリリースされ、非常に高い評価を獲得していたた人気トレーディングカードショップ経営シム […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170787.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
         "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -308,6 +308,32 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+        "date": "2026-09-15",
+        "is_translated": true
+      },
+      {
+        "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-09-15",
+        "is_translated": true
+      },
+      {
+        "title": "God of War Laufey Now Has a Lot To Prove After Wolverine’s Messy Launch",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "After Marvel's Wolverine launched to mixed reviews, God of War Laufey is set to be a high-stakes test for Sony's reputation.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/",
         "date": "2026-09-15",
         "is_translated": true
       },
@@ -613,5 +639,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-15T15:56:33.769917"
+  "last_updated": "2026-09-16T04:00:39.826031"
 }

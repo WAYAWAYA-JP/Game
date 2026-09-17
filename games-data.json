@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
       },
       {
         "title": "Astral Ascent - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
       },
       {
         "title": "Build Your Own Capcom Mega Bundle (2/3/4/8 for $12.99/$18.99/$24.99/$49.59 - Choose from Resident Evil Village Gold Edition / Monster Hunter Stories / Monster Hunter Stories 2: Wings of Ruin / Resident Evil 4 / The Great Ace Attorney Chronicles / Phoenix Wright: Ace Attorney / More)",
@@ -194,45 +194,100 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-04"
-      },
-      {
-        "title": "What was the best \"humble bundle choice\" in history?",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "September 2026 Humble Choice | Overview / Discussion Megathread",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "September 2026: Frostpunk 2, SONIC X SHADOW GENERATIONS, Voidtrain, Ballionaire, GUNTOUCHABLES, Urban Jungle, Pocket Mirror ~ GoldenerTraum, Keylocker | Turn Based Cyberpun ($14.99)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-03"
       }
     ],
     "review": [
+      {
+        "title": "『Fate/EXTRA Record』TGS先行プレイ感想。バトルは「3すくみのじゃんけん」から「デッキ構築」へ。読み合いは形を変える",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "今回は原作ファンである筆者が『Fate/EXTRA Record』を試遊。実際にプレイして分かった手触りや、原作から大きく変化したバトルシステムを中心に紹介していきたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/fate-extra-record-20260917-467923/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "フリュー新作“懺悔で成長”ローグライクACT『クライムライト』の正式体験版配信。ビルドは“ポーカー式”の新作を「第1章まるごと」お届け、最後にはサプライズも",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フリュー株式会社は9月17日、『クライムライト／CRYMELIGHT』の正式体験版をSteam向けに配信開始した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260917-467995/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "『モンスターハンターワイルズ：アセンダンス』の新アクションで初手ガン攻め、便利すぎて「いつ使うか」悩む。チャアク・スラアク・ガンランスで、新たな“先生”とテオに挑んだ先行プレイ",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "東京ゲームショウ2026にて体験できる『モンスターハンターワイルズ：アセンダンス』試遊版を事前にプレイすることができたため、その内容をお届けしたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260917-468142/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "“Hyper Light Drifter”を生んだ「Heart Machine」がほぼ全ての従業員を対象とするレイオフを報告",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2016年に極めて高い評価を獲得した“Hyper Light Drifter”で知られる「Heart Machine」の創設者Alx Preston氏が、本日自身のLinkedinを更新し、スタジオの資金的な問題に伴い、 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170866.html",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "Endless Legend 2 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Coral robots fighting nano-vampires—that's Endless Legend 2, y'all.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
+      {
+        "title": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Low bar to clear, but still.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
+      {
+        "title": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space's release in July 2012, players who preordered the game got immediate acces",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
       {
         "title": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
         "platform": "Rock Paper Shotgun",
@@ -510,5 +565,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-16T15:48:30.885073"
+  "last_updated": "2026-09-17T04:06:30.601005"
 }

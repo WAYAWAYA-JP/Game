@@ -2,6 +2,18 @@
   "pc": {
     "free": [
       {
+        "title": "Astrea Six Sided Oracles - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Astrea』はまったく新しいダイス＆デッキ構築型ローグライクゲーム。本作であなたは、６人の勇敢なオラクルの１人となって、失われた文明の遺跡で道を切り開いていきます。",
+        "price": "無料",
+        "originalPrice": "¥2,480",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-09-17"
+      },
+      {
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -14,36 +26,36 @@
         "date": "2026-09-17"
       },
       {
-        "title": "Monument Valley - Epic Games 無料配布中",
+        "title": "LISA: Definitive Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
+        "description": "オレイサを探索し、オリジナルのストーリー重視のRPG『LISA: The Painful』とその続編『LISA: The Joyful』を収録した『LISA: Definitive Edition』で、倒錯した謎を明かそう。",
         "price": "無料",
-        "originalPrice": "¥920",
+        "originalPrice": "¥3,380",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-09-17"
       },
       {
-        "title": "Luftrausers - Epic Games 無料配布中",
+        "title": "マインドコップ - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
         "price": "無料",
-        "originalPrice": "¥970",
+        "originalPrice": "¥1,750",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-09-17"
       },
       {
-        "title": "Astral Ascent - Epic Games 無料配布中",
+        "title": "Shogun Showdown - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
+        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
         "price": "無料",
-        "originalPrice": "¥2,570",
+        "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -51,6 +63,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Popular Picks Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "[Steam] House Flipper Remastered Loyalty Bundle ( $28.58 / 49% Off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-17"
+      },
       {
         "title": "Best of Humble Bundle - Sniper Elite: Classics Collection (Pay $5 for Sniper Elite 3, Sniper Elite 3 - Season Pass, Sniper Elite V2 Remastered, Sniper Elite, and $10 adds Sniper Elite 4: Deluxe Edition)",
         "platform": "Humble Bundle",
@@ -198,6 +234,19 @@
     ],
     "review": [
       {
+        "title": "『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あらゆる方向から笑いを誘う『クレイジータクシー』最新作",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『クレイジータクシー：ワールドツアー』を2時間試遊してわかったことを本稿で伝えたい",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260918-468460/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
         "title": "『Fate/EXTRA Record』TGS先行プレイ感想。バトルは「3すくみのじゃんけん」から「デッキ構築」へ。読み合いは形を変える",
         "platform": "AUTOMATON",
         "type": "review",
@@ -224,30 +273,17 @@
         "is_translated": false
       },
       {
-        "title": "『モンスターハンターワイルズ：アセンダンス』の新アクションで初手ガン攻め、便利すぎて「いつ使うか」悩む。チャアク・スラアク・ガンランスで、新たな“先生”とテオに挑んだ先行プレイ",
-        "platform": "AUTOMATON",
+        "title": "iBuyPower RDY Scale B06 review",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "東京ゲームショウ2026にて体験できる『モンスターハンターワイルズ：アセンダンス』試遊版を事前にプレイすることができたため、その内容をお届けしたい。",
+        "description": "It's a sign of how bad the memory crisis is that this rig doesn't feel super expensive.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260917-468142/",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
         "date": "2026-09-17",
-        "is_translated": false
-      },
-      {
-        "title": "“Hyper Light Drifter”を生んだ「Heart Machine」がほぼ全ての従業員を対象とするレイオフを報告",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2016年に極めて高い評価を獲得した“Hyper Light Drifter”で知られる「Heart Machine」の創設者Alx Preston氏が、本日自身のLinkedinを更新し、スタジオの資金的な問題に伴い、 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170866.html",
-        "date": "2026-09-16",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Endless Legend 2 review",
@@ -299,32 +335,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
         "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Update: Wadjet Eye's Dave Gilbert has confirmed on Bluesky that Nighthawks' \"Adults Only\" Steam label has been removed, meaning it's no longer locked in horny jail. \"Everything is set for launch on t",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "The Sunday Papers",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Sundays are for realising that after playing The Blood of Dawnwalker, you've developed a craving for blackcurrant juice. There's none in the cupboard, so you venture out to get some, floating across",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-sunday-papers-827",
-        "date": "2026-09-13",
         "is_translated": true
       }
     ],
@@ -565,5 +575,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T04:06:30.601005"
+  "last_updated": "2026-09-17T15:55:34.890731"
 }

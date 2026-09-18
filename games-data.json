@@ -52,6 +52,18 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own Goblinz Studio Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-18"
+      },
+      {
         "title": "Build Your Own Popular Picks Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -186,6 +198,97 @@
     ],
     "review": [
       {
+        "title": "高評価・地形変動ストラテジー『エンドレス・レジェンド 2』正式リリースで人気沸騰。海が干上がり土地拡大、情勢のうねり止まぬ覇権争い",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Hooded Horseは日本時間9月18日、『ENDLESS Legend 2（エンドレス・レジェンド 2）』を正式にリリースした。本作は地形の変化が激しい世界で勢力を争うターン制ストラテジーゲームだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260918-468609/",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "発売が迫る期待作「CONTROL Resonant」の地域別解禁時刻がアナウンス",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先ほど、Metascoreが84、OpenCriticが85に達するレビューが解禁されたRemedy Entertainmentの人気シリーズ最新作「CONTROL Resonant」ですが、2026年9月24日の発売に […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170973.html",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "Control Resonant review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "[Redacted] is the better Faden.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Control Resonant, much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn’t exist. At least not in the risk-averse, pennypinching rea",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/control-resonant-review",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "Control Resonant Reviews Say Remedy Has Another Hit, but Not Its Best Game",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Reviews for Control Resonant say that Remedy's sequel is typically great, even if its a small step down from Alan Wake 2.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-review-roundup/",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "Control Resonant Fails At Nearly All of Its Ambitions | Review",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Remedy evokes everything from Infamous to Devil May Cry in Control Resonant but fails to deliver a satisfying follow-up to the 2019 original",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-review/",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
         "title": "『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あらゆる方向から笑いを誘う『クレイジータクシー』最新作",
         "platform": "AUTOMATON",
         "type": "review",
@@ -209,45 +312,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
         "date": "2026-09-17",
-        "is_translated": true
-      },
-      {
-        "title": "10 Near-Perfect PS4 Games Nobody Played",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/underrated-ps4-games/",
-        "date": "2026-09-17",
-        "is_translated": true
-      },
-      {
-        "title": "Wardogs Is Officially One of the Best FPS Games of the Decade",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Wardogs, the latest FPS from Bulkhead, is still in early access, but it already feels like a revolutionary take on the genre.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/wardogs-impressions-early-access/",
-        "date": "2026-09-17",
-        "is_translated": true
-      },
-      {
-        "title": "Endless Legend 2 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Coral robots fighting nano-vampires—that's Endless Legend 2, y'all.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
-        "date": "2026-09-16",
         "is_translated": true
       },
       {
@@ -278,6 +342,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] Demonic Defense ($4.24 / 15% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[Steam] Endless Legend 2 Official Release ($24.99 / 50% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[Steam] Tlatoani: Aztec Cities (-50% Daily Deal)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Marvel's Midnight Suns (€7.07 -88% off / £5.94 -88% off / $7.08 -88% off), Sid Meier's Civilization VII (€27.96 -60% off / £23.91 -60% off / $27.96 -60% off), XCOM 2 (€2.36 -88% off / £2.37 -88% off / $2.35 -88% off), EU, UK, US with the FRAXIS8 code. | Steam Activation",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[Steam Store] VMX ($11.99 / 20% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-18"
+      },
       {
         "title": "[Steam] Danganronpa: Trigger Happy Havoc ($1.99/90% off)",
         "platform": "Steam",
@@ -514,5 +638,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T03:52:58.503484"
+  "last_updated": "2026-09-18T15:30:53.112398"
 }

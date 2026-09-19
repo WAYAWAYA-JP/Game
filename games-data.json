@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2026発表会レポート。原作再現たっぷりの試遊プレイに、ほとばしる原作愛",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "東京ゲームショウ2026の会場にて開催された『俺だけレベルアップな件：KARMA』のメディア発表会の模様をお伝えする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260919-468900/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
+        "title": "バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ100万人」の大人気ブラウザゲーム、ついにSteam殴り込み",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "OpenFront Incは9月17日、マルチRTS『OpenFront』をPC（Steam）向けに早期アクセス配信開始した。さっそく高評価を集めている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260919-468841/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
         "title": "高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今入手すればずっと遊べるラストチャンス",
         "platform": "AUTOMATON",
         "type": "review",
@@ -221,6 +247,32 @@
         "url": "https://automaton-media.com/articles/newsjp/20260919-468798/",
         "date": "2026-09-19",
         "is_translated": false
+      },
+      {
+        "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "What vile debauchery could lie within Sex Vixens from Space?",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+        "date": "2026-09-19",
+        "is_translated": true
+      },
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "It's well and truly not summer now. I'm writing this with the lights on because the screen's backlight is suddenly too bright for these eyes grown weak and lazy by the abundance of natural illuminati",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
+        "date": "2026-09-19",
+        "is_translated": true
       },
       {
         "title": "高評価・地形変動ストラテジー『エンドレス・レジェンド 2』正式リリースで人気沸騰。海が干上がり土地拡大、情勢のうねり止まぬ覇権争い",
@@ -286,19 +338,6 @@
         "url": "https://www.rockpapershotgun.com/control-resonant-review",
         "date": "2026-09-18",
         "is_translated": true
-      },
-      {
-        "title": "『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あらゆる方向から笑いを誘う『クレイジータクシー』最新作",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『クレイジータクシー：ワールドツアー』を2時間試遊してわかったことを本稿で伝えたい",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260918-468460/",
-        "date": "2026-09-17",
-        "is_translated": false
       },
       {
         "title": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
@@ -611,5 +650,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T03:49:17.804018"
+  "last_updated": "2026-09-19T15:04:35.210128"
 }

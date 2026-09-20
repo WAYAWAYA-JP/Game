@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       {
         "title": "マインドコップ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       {
         "title": "Shogun Showdown - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       {
         "title": "Build Your Own Goblinz Studio Bundle",
@@ -194,18 +194,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-08"
-      },
-      {
-        "title": "War Child Charity Bundle (11 for $7.99 - Get Suicide Squad: Kill the Justice League / Boyfriend Dungeon / Production Line : Car factory simulation / A Space for the Unbound / Thea: The Awakening / Webbed / Wirm / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-06"
       }
     ],
     "review": [
@@ -273,19 +261,6 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
         "date": "2026-09-19",
         "is_translated": true
-      },
-      {
-        "title": "高評価・地形変動ストラテジー『エンドレス・レジェンド 2』正式リリースで人気沸騰。海が干上がり土地拡大、情勢のうねり止まぬ覇権争い",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Hooded Horseは日本時間9月18日、『ENDLESS Legend 2（エンドレス・レジェンド 2）』を正式にリリースした。本作は地形の変化が激しい世界で勢力を争うターン制ストラテジーゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260918-468609/",
-        "date": "2026-09-18",
-        "is_translated": false
       },
       {
         "title": "発売が迫る期待作「CONTROL Resonant」の地域別解禁時刻がアナウンス",
@@ -650,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T15:04:35.210128"
+  "last_updated": "2026-09-20T04:06:08.354714"
 }

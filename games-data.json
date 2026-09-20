@@ -198,6 +198,19 @@
     ],
     "review": [
       {
+        "title": "『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』の予測不能ギミックに感心。『一筆進化』で空を飛ぶ。今週のゲーミング",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。562回目です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260920-469002/",
+        "date": "2026-09-20",
+        "is_translated": false
+      },
+      {
         "title": "本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2026発表会レポート。原作再現たっぷりの試遊プレイに、ほとばしる原作愛",
         "platform": "AUTOMATON",
         "type": "review",
@@ -274,19 +287,6 @@
         "url": "https://doope.jp/2026/09170973.html",
         "date": "2026-09-18",
         "is_translated": false
-      },
-      {
-        "title": "Control Resonant review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "[Redacted] is the better Faden.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
-        "date": "2026-09-18",
-        "is_translated": true
       },
       {
         "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
@@ -625,5 +625,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T04:06:08.354714"
+  "last_updated": "2026-09-20T15:08:14.124800"
 }

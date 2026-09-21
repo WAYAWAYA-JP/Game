@@ -198,6 +198,32 @@
     ],
     "review": [
       {
+        "title": "『空の軌跡 the 2nd』いきなり大人気、Steam同接はファルコム史上トップに。『the 1st』を超え、続編リメイクも絶好調",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『空の軌跡 the 2nd』がさっそく高い評価を獲得。Steamでは日本ファルコムのタイトルとして史上最高の同時接続プレイヤー数を記録する人気となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260921-469173/",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "鍛冶屋経営シム「Blacksmith Master」のPC製品版ローンチが2026年11月19日に決定、新トレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年5月に早期アクセス向けのローンチを果たし、高い評価を獲得したUntitled Studioの鍛冶屋経営シム「Blacksmith Master」ですが、新たにパブリッシャーHooded Horseがプレスリリースを発 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171049.html",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
         "title": "Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キャッスルヴァニア ベルモンドカース」の体験版配信日が2026年10月1日に決定",
         "platform": "doope!",
         "type": "review",
@@ -211,17 +237,43 @@
         "is_translated": false
       },
       {
-        "title": "惑星を侵食する危険なキノコと戦うCo-opシューター「Mycopunk」のPC版1.0配信とPS5版発売日が2026年10月20日に決定、新トレーラーも",
-        "platform": "doope!",
+        "title": "Silent Hill: Townfall review",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "ニューヨークで活動する新スタジオ“Pigeons at Play”のデビュー作として、昨年7月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fiアクションシューター「Mycopunk」ですが、昨晩放送さ […]",
+        "description": "There's no place like home.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09171002.html",
+        "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-review/",
         "date": "2026-09-21",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "All the interesting Steam facts for the week ending September 20.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+        "date": "2026-09-21",
+        "is_translated": true
+      },
+      {
+        "title": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebr",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+        "date": "2026-09-21",
+        "is_translated": true
       },
       {
         "title": "『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』の予測不能ギミックに感心。『一筆進化』で空を飛ぶ。今週のゲーミング",
@@ -248,84 +300,6 @@
         "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
         "date": "2026-09-20",
         "is_translated": true
-      },
-      {
-        "title": "Robots versus fungi FPS Mycopunk is leaving early access next month",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Just enough time to gather your squad and prepare to deploy.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
-        "date": "2026-09-20",
-        "is_translated": true
-      },
-      {
-        "title": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Bafford's Manor is gonna be emptier than ever when I'm through with it.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
-        "date": "2026-09-20",
-        "is_translated": true
-      },
-      {
-        "title": "Escape From Playtime is a co-op survival horror where you play itsy-bitsy toy animals, and its playtest is taking signups now",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Many toy creatures will be harmed in the playing of this videogame.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/escape-from-playtime-is-a-co-op-survival-horror-where-you-play-itsy-bitsy-toy-animals-and-its-playtest-is-taking-signups-now/",
-        "date": "2026-09-20",
-        "is_translated": true
-      },
-      {
-        "title": "Pirate poker battler Piroker has a playtest you can sign up for now",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Score big or walk the plank.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/card-games/pirate-poker-battler-piroker-has-a-playtest-you-can-sign-up-for-now/",
-        "date": "2026-09-20",
-        "is_translated": true
-      },
-      {
-        "title": "本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2026発表会レポート。原作再現たっぷりの試遊プレイに、ほとばしる原作愛",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "東京ゲームショウ2026の会場にて開催された『俺だけレベルアップな件：KARMA』のメディア発表会の模様をお伝えする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260919-468900/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ100万人」の大人気ブラウザゲーム、ついにSteam殴り込み",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "OpenFront Incは9月17日、マルチRTS『OpenFront』をPC（Steam）向けに早期アクセス配信開始した。さっそく高評価を集めている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260919-468841/",
-        "date": "2026-09-19",
-        "is_translated": false
       },
       {
         "title": "What are we all playing this weekend?",
@@ -677,5 +651,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T04:04:16.100997"
+  "last_updated": "2026-09-21T17:28:53.335810"
 }

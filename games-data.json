@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-20"
+        "date": "2026-09-21"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-20"
+        "date": "2026-09-21"
       },
       {
         "title": "マインドコップ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-20"
+        "date": "2026-09-21"
       },
       {
         "title": "Shogun Showdown - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-20"
+        "date": "2026-09-21"
       }
     ],
     "bundle": [
@@ -198,6 +198,32 @@
     ],
     "review": [
       {
+        "title": "Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キャッスルヴァニア ベルモンドカース」の体験版配信日が2026年10月1日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "“Dead Cells”でお馴染みEvil EmpireとMotion Twinが共同で開発を手掛ける“悪魔城ドラキュラ”シリーズの完全新作として、今年2月にアナウンスされ、先日、主人公ローズ・ベルモンドの戦いを描く日本 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171011.html",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "惑星を侵食する危険なキノコと戦うCo-opシューター「Mycopunk」のPC版1.0配信とPS5版発売日が2026年10月20日に決定、新トレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ニューヨークで活動する新スタジオ“Pigeons at Play”のデビュー作として、昨年7月に早期アクセス向けのローンチを果たし、高い評価を獲得したSci-Fiアクションシューター「Mycopunk」ですが、昨晩放送さ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171002.html",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
         "title": "『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』の予測不能ギミックに感心。『一筆進化』で空を飛ぶ。今週のゲーミング",
         "platform": "AUTOMATON",
         "type": "review",
@@ -209,6 +235,71 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260920-469002/",
         "date": "2026-09-20",
         "is_translated": false
+      },
+      {
+        "title": "Solarpunk MMO Loftia is launching into early access November 3",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Live on your very own island in the sky.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+        "date": "2026-09-20",
+        "is_translated": true
+      },
+      {
+        "title": "Robots versus fungi FPS Mycopunk is leaving early access next month",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Just enough time to gather your squad and prepare to deploy.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+        "date": "2026-09-20",
+        "is_translated": true
+      },
+      {
+        "title": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Bafford's Manor is gonna be emptier than ever when I'm through with it.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
+        "date": "2026-09-20",
+        "is_translated": true
+      },
+      {
+        "title": "Escape From Playtime is a co-op survival horror where you play itsy-bitsy toy animals, and its playtest is taking signups now",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Many toy creatures will be harmed in the playing of this videogame.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/escape-from-playtime-is-a-co-op-survival-horror-where-you-play-itsy-bitsy-toy-animals-and-its-playtest-is-taking-signups-now/",
+        "date": "2026-09-20",
+        "is_translated": true
+      },
+      {
+        "title": "Pirate poker battler Piroker has a playtest you can sign up for now",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Score big or walk the plank.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/card-games/pirate-poker-battler-piroker-has-a-playtest-you-can-sign-up-for-now/",
+        "date": "2026-09-20",
+        "is_translated": true
       },
       {
         "title": "本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2026発表会レポート。原作再現たっぷりの試遊プレイに、ほとばしる原作愛",
@@ -237,32 +328,6 @@
         "is_translated": false
       },
       {
-        "title": "高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今入手すればずっと遊べるラストチャンス",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "HypeTrain Digitalは9月18日、『PAPERHEAD EP.0』を9月24日に配信終了すると発表した。期限内にライブラリに追加しておけば、配信終了後もプレイすることが可能。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260919-468798/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "What vile debauchery could lie within Sex Vixens from Space?",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-        "date": "2026-09-19",
-        "is_translated": true
-      },
-      {
         "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -274,19 +339,6 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
         "date": "2026-09-19",
         "is_translated": true
-      },
-      {
-        "title": "発売が迫る期待作「CONTROL Resonant」の地域別解禁時刻がアナウンス",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先ほど、Metascoreが84、OpenCriticが85に達するレビューが解禁されたRemedy Entertainmentの人気シリーズ最新作「CONTROL Resonant」ですが、2026年9月24日の発売に […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170973.html",
-        "date": "2026-09-18",
-        "is_translated": false
       },
       {
         "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
@@ -625,5 +677,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T15:08:14.124800"
+  "last_updated": "2026-09-21T04:04:16.100997"
 }

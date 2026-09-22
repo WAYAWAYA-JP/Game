@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-21"
+        "date": "2026-09-22"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-21"
+        "date": "2026-09-22"
       },
       {
         "title": "マインドコップ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-21"
+        "date": "2026-09-22"
       },
       {
         "title": "Shogun Showdown - Epic Games 無料配布中",
@@ -47,10 +47,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-21"
+        "date": "2026-09-22"
       }
     ],
     "bundle": [
+      {
+        "title": "The Almighty God Games Bundle (Pay $6 for Equilinox, Warbox Sandbox, Technotopia, and $12 adds The Universim, Godhood, Shadows of Forbidden Gods, Deisim)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-22"
+      },
       {
         "title": "IGN 30th Anniversary Bundle (Pay $5 for Thronebreaker: The Witcher Tales, Sonic Adventure 2, $10 adds Ravenswatch, Subnautica, and $15 adds The Elder Scrolls Online - Elsweyr, REMNANT II, BlazBlue Entropy Effect)",
         "platform": "Humble Bundle",
@@ -182,18 +194,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-09"
-      },
-      {
-        "title": "Bundlefest: Build Your Own Killer Bundle (5/10/15/25 for $5.99/$9.99/$14.69/$23.69 - Choose from RoboCop: Rogue City / Rain World / Nobody Wants to Die / Tavern Master / Wall World 2 / Don't Die, Collect Loot / Zefyr: A Thief's Melody / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-08"
       }
     ],
     "review": [
@@ -220,19 +220,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://doope.jp/2026/09171049.html",
-        "date": "2026-09-21",
-        "is_translated": false
-      },
-      {
-        "title": "Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キャッスルヴァニア ベルモンドカース」の体験版配信日が2026年10月1日に決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "“Dead Cells”でお馴染みEvil EmpireとMotion Twinが共同で開発を手掛ける“悪魔城ドラキュラ”シリーズの完全新作として、今年2月にアナウンスされ、先日、主人公ローズ・ベルモンドの戦いを描く日本 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171011.html",
         "date": "2026-09-21",
         "is_translated": false
       },
@@ -273,32 +260,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
         "date": "2026-09-21",
-        "is_translated": true
-      },
-      {
-        "title": "『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』の予測不能ギミックに感心。『一筆進化』で空を飛ぶ。今週のゲーミング",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。562回目です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260920-469002/",
-        "date": "2026-09-20",
-        "is_translated": false
-      },
-      {
-        "title": "Solarpunk MMO Loftia is launching into early access November 3",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Live on your very own island in the sky.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
-        "date": "2026-09-20",
         "is_translated": true
       },
       {
@@ -651,5 +612,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T17:28:53.335810"
+  "last_updated": "2026-09-22T04:01:04.780709"
 }

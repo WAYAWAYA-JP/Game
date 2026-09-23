@@ -52,6 +52,18 @@
     ],
     "bundle": [
       {
+        "title": "Hidden Art 3 Bundle ($3.49 BPI / $3.99 / 79% OFF/ 17 Steam Games: 100 hidden aliens, birds (1 & 2), cats (1 & 2), dogs, eternals, fish, frogs 2, gnomes, hares, mice, mushrooms, rams, snails (1 & 2), and turtles",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-23"
+      },
+      {
         "title": "The Almighty God Games Bundle (Pay $6 for Equilinox, Warbox Sandbox, Technotopia, and $12 adds The Universim, Godhood, Shadows of Forbidden Gods, Deisim)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -212,6 +224,32 @@
         "is_translated": false
       },
       {
+        "title": "「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と回復、螺旋",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マンハッタンの裏路地、かつてそうだった場所。振り下ろした武器が敵を押し潰し、衝撃で砕けたアスファルトが宙を舞い、右に向かって、まるで吸い寄せられるように“落下”していった。 頭上、と呼んでいいのか確信は持てない。Ｌ字状に […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171026.html",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing. It's not only your face they want, but also any wo",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+        "date": "2026-09-23",
+        "is_translated": true
+      },
+      {
         "title": "『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由で、難しくて、面白い。黒魔道士ティファ躍動、ヴィンセントはちょっと難しい",
         "platform": "AUTOMATON",
         "type": "review",
@@ -251,19 +289,6 @@
         "is_translated": true
       },
       {
-        "title": "『空の軌跡 the 2nd』いきなり大人気、Steam同接はファルコム史上トップに。『the 1st』を超え、続編リメイクも絶好調",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『空の軌跡 the 2nd』がさっそく高い評価を獲得。Steamでは日本ファルコムのタイトルとして史上最高の同時接続プレイヤー数を記録する人気となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260921-469173/",
-        "date": "2026-09-21",
-        "is_translated": false
-      },
-      {
         "title": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -274,32 +299,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
         "date": "2026-09-21",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "It's well and truly not summer now. I'm writing this with the lights on because the screen's backlight is suddenly too bright for these eyes grown weak and lazy by the abundance of natural illuminati",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
-        "date": "2026-09-19",
-        "is_translated": true
-      },
-      {
-        "title": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-        "date": "2026-09-18",
         "is_translated": true
       }
     ],
@@ -600,5 +599,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T03:57:46.813452"
+  "last_updated": "2026-09-23T15:48:33.822510"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-22"
+        "date": "2026-09-23"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-22"
+        "date": "2026-09-23"
       },
       {
         "title": "マインドコップ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-22"
+        "date": "2026-09-23"
       },
       {
         "title": "Shogun Showdown - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-22"
+        "date": "2026-09-23"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-22"
+        "date": "2026-09-23"
       },
       {
         "title": "IGN 30th Anniversary Bundle (Pay $5 for Thronebreaker: The Witcher Tales, Sonic Adventure 2, $10 adds Ravenswatch, Subnautica, and $15 adds The Elder Scrolls Online - Elsweyr, REMNANT II, BlazBlue Entropy Effect)",
@@ -182,21 +182,35 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-10"
-      },
-      {
-        "title": "Bundlefest: Build Your Own Decks & Dragons Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-09"
       }
     ],
     "review": [
+      {
+        "title": "『Wo Long 2』開発者、体験版の反響に手応えあり。オープンフィールド導入の理由や前作の反省など、現状から設計の意図までいろいろ訊いた",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "プロデューサーを務める平山正和氏、ならびに開発プロデューサーを務める山際眞晃氏にインタビューを行った。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/wo-long-2-20260923-469471/",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "モンスター集めオープンワールド『アニモ（Aniimo）』で感じた、アニモの“いのち”。アニモと暮らし、アニモと戦い、アニモそのものになる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "正式リリースされたモンスター集めオープンワールド『アニモ（Aniimo）』の、先行プレイレポートをお送りする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/aniimo-20260923-469420/",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
       {
         "title": "『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由で、難しくて、面白い。黒魔道士ティファ躍動、ヴィンセントはちょっと難しい",
         "platform": "AUTOMATON",
@@ -220,32 +234,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/ved-recure-20260922-469190/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "Kyle Thompson氏の新作メトロイドヴァニア「Well Dweller」が本日発売、ローンチトレーラーとスコア90超えの高評価も",
-        "platform": "doope!",
-        "type": "review",
-        "description": "“Islets”や“Crypt Custodian”を生んだKyle Thompson氏の次回作として、昨年8月にアナウンスされ、先日発売日がアナウンスされたる新作メトロイドヴァニア「Well Dweller」（井戸の鳥 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171031.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "カオスなCo-op爆弾解体ゲーム「BOMBANANA!」の販売が累計100万本を突破、モバイルやコンソール対応も",
-        "platform": "doope!",
-        "type": "review",
-        "description": "FPSホラー“White Room Protocol”を手掛けたトルコのインディーデベロッパLefto Studioの新作として、9月2日にローンチを果たし、高い評価を獲得したカオスな3人Co-op爆弾解体ゲーム「BOM […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171033.html",
         "date": "2026-09-22",
         "is_translated": false
       },
@@ -311,19 +299,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-        "date": "2026-09-18",
-        "is_translated": true
-      },
-      {
-        "title": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Control Resonant, much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn’t exist. At least not in the risk-averse, pennypinching rea",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/control-resonant-review",
         "date": "2026-09-18",
         "is_translated": true
       }
@@ -625,5 +600,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-22T15:58:50.900388"
+  "last_updated": "2026-09-23T03:57:46.813452"
 }

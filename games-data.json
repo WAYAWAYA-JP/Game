@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-23"
+        "date": "2026-09-24"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-23"
+        "date": "2026-09-24"
       },
       {
         "title": "マインドコップ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-23"
+        "date": "2026-09-24"
       },
       {
         "title": "Shogun Showdown - Epic Games 無料配布中",
@@ -47,10 +47,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-23"
+        "date": "2026-09-24"
       }
     ],
     "bundle": [
+      {
+        "title": "Trineverse Triple Co-Op Pack (Pay $10 for Trine 4: The Nightmare Prince, Nine Parchments, Trine 3: The Artifacts of Power, Trine 2: Complete Story, Trine EE, $14 for 2 copies of each games and $18 for 3 copies of each games)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Best of Humble Bundle - Indie Fears Bundle (Pay $13 for Mouthwashing, The Headliners, Buckshot Roulette, PANICORE, Arctic Eggs, Who's Lila?, ORDER 13, Mama's Sleeping Angels, THRESHOLD, s.p.l.i.t, NO-SKIN, Kiosk, The Skin Stapler, Flesh Made Fear)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-24"
+      },
       {
         "title": "Hidden Art 3 Bundle ($3.49 BPI / $3.99 / 79% OFF/ 17 Steam Games: 100 hidden aliens, birds (1 & 2), cats (1 & 2), dogs, eternals, fish, frogs 2, gnomes, hares, mice, mushrooms, rams, snails (1 & 2), and turtles",
         "platform": "Steam",
@@ -61,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-09-23"
+        "date": "2026-09-24"
       },
       {
         "title": "The Almighty God Games Bundle (Pay $6 for Equilinox, Warbox Sandbox, Technotopia, and $12 adds The Universim, Godhood, Shadows of Forbidden Gods, Deisim)",
@@ -182,21 +206,35 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-11"
-      },
-      {
-        "title": "Bundlefest: Build Your Own Play on the Go Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-10"
       }
     ],
     "review": [
+      {
+        "title": "“いわくつき資料”を読み解くホラー『『スクジサマ』を巡る考察』9月27日配信へ。高評価ホラー『失踪した友人の部屋に残されていたゲーム 』開発者による新作モキュメンタリー",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "れんたか氏は、『『スクジサマ』を巡る考察』を9月27日にリリース予定と発表した。本作はあるオカルトライターが遺したという資料を読み解くという形式の、モキュメンタリーホラーゲーム作品だ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260924-469646/",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
+      {
+        "title": "「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と回復、螺旋",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マンハッタンの裏路地、かつてそうだった場所。振り下ろした武器が敵を押し潰し、衝撃で砕けたアスファルトが宙を舞い、右に向かって、まるで吸い寄せられるように“落下”していった。 頭上、と呼んでいいのか確信は持てない。Ｌ字状に […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171026.html",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
       {
         "title": "『Wo Long 2』開発者、体験版の反響に手応えあり。オープンフィールド導入の理由や前作の反省など、現状から設計の意図までいろいろ訊いた",
         "platform": "AUTOMATON",
@@ -224,17 +262,30 @@
         "is_translated": false
       },
       {
-        "title": "「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と回復、螺旋",
+        "title": "90年代レトロサバイバルホラー「Heartworm」のコンソール対応がアナウンス、発売は2026年10月1日",
         "platform": "doope!",
         "type": "review",
-        "description": "マンハッタンの裏路地、かつてそうだった場所。振り下ろした武器が敵を押し潰し、衝撃で砕けたアスファルトが宙を舞い、右に向かって、まるで吸い寄せられるように“落下”していった。 頭上、と呼んでいいのか確信は持てない。Ｌ字状に […]",
+        "description": "90年代のクラシックなサバイバルホラーにインスパイアされた幾つかのインディーゲーム開発に貢献したVincent Adinolfi氏の新作として、昨年8月にPC版ローンチを果たし、高い評価を獲得したレトロサバイバルホラー「 […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09171026.html",
+        "url": "https://doope.jp/2026/09171123.html",
         "date": "2026-09-23",
         "is_translated": false
+      },
+      {
+        "title": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "If you ever played it on Steam, it's yours to keep.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+        "date": "2026-09-23",
+        "is_translated": true
       },
       {
         "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
@@ -248,32 +299,6 @@
         "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
         "date": "2026-09-23",
         "is_translated": true
-      },
-      {
-        "title": "『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由で、難しくて、面白い。黒魔道士ティファ躍動、ヴィンセントはちょっと難しい",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "約30分の試遊を通じて得られたプレイフィールを、本稿でお伝えしたい。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ff7r-20260922-469333/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "美少女ローグライトアクション『Ved：リキュア』は、かわいいキャラを眺める暇がない。待っていたのはゴリゴリの高難度ボスだった（救済もあり）",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Ved：リキュア』は7名のプレイアブルキャラクターを操り、総勢16体のボスと戦う高速ローグライトアクションゲームだ。先行プレイした感想をもとに、本作がどのようなゲームであるかをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ved-recure-20260922-469190/",
-        "date": "2026-09-22",
-        "is_translated": false
       },
       {
         "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
@@ -599,5 +624,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T15:48:33.822510"
+  "last_updated": "2026-09-24T03:51:44.282911"
 }

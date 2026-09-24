@@ -2,6 +2,18 @@
   "pc": {
     "free": [
       {
+        "title": "Astrea Six Sided Oracles - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Astrea』はまったく新しいダイス＆デッキ構築型ローグライクゲーム。本作であなたは、６人の勇敢なオラクルの１人となって、失われた文明の遺跡で道を切り開いていきます。",
+        "price": "無料",
+        "originalPrice": "¥2,480",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-09-24"
+      },
+      {
         "title": "ゴーストランナー 2 - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -26,24 +38,12 @@
         "date": "2026-09-24"
       },
       {
-        "title": "マインドコップ - Epic Games 無料配布中",
+        "title": "Mechabellum - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
+        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
         "price": "無料",
-        "originalPrice": "¥1,750",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Shogun Showdown - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
-        "price": "無料",
-        "originalPrice": "¥1,460",
+        "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派骨太ソウルライクはたまに“クセつよ”が見え隠れ。だがそれがいい",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作の購入を検討している方々に向けて、筆者のプレイ経験をもとに、本作の魅力と“ちょっとおかしな点”をご紹介する。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/mortal-shell-ii-20260924-469695/",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
+      {
         "title": "“いわくつき資料”を読み解くホラー『『スクジサマ』を巡る考察』9月27日配信へ。高評価ホラー『失踪した友人の部屋に残されていたゲーム 』開発者による新作モキュメンタリー",
         "platform": "AUTOMATON",
         "type": "review",
@@ -233,45 +246,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/09171026.html",
         "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "『Wo Long 2』開発者、体験版の反響に手応えあり。オープンフィールド導入の理由や前作の反省など、現状から設計の意図までいろいろ訊いた",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "プロデューサーを務める平山正和氏、ならびに開発プロデューサーを務める山際眞晃氏にインタビューを行った。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/wo-long-2-20260923-469471/",
-        "date": "2026-09-23",
-        "is_translated": false
-      },
-      {
-        "title": "モンスター集めオープンワールド『アニモ（Aniimo）』で感じた、アニモの“いのち”。アニモと暮らし、アニモと戦い、アニモそのものになる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "正式リリースされたモンスター集めオープンワールド『アニモ（Aniimo）』の、先行プレイレポートをお送りする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/aniimo-20260923-469420/",
-        "date": "2026-09-23",
-        "is_translated": false
-      },
-      {
-        "title": "90年代レトロサバイバルホラー「Heartworm」のコンソール対応がアナウンス、発売は2026年10月1日",
-        "platform": "doope!",
-        "type": "review",
-        "description": "90年代のクラシックなサバイバルホラーにインスパイアされた幾つかのインディーゲーム開発に貢献したVincent Adinolfi氏の新作として、昨年8月にPC版ローンチを果たし、高い評価を獲得したレトロサバイバルホラー「 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171123.html",
-        "date": "2026-09-23",
         "is_translated": false
       },
       {
@@ -311,19 +285,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
         "date": "2026-09-22",
-        "is_translated": true
-      },
-      {
-        "title": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebr",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
-        "date": "2026-09-21",
         "is_translated": true
       }
     ],
@@ -624,5 +585,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T03:51:44.282911"
+  "last_updated": "2026-09-24T16:10:10.392752"
 }

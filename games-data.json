@@ -40,6 +40,18 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own Fall Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-25"
+      },
+      {
         "title": "[Fanatical] Daedalic - Gigantic Bundle ($2.79/96% off)",
         "platform": "Fanatical",
         "type": "bundle",
@@ -198,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "Ace Combat 8: Wings of Theve review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The arcade air combat series soars to dizzying new heights.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
+        "date": "2026-09-25",
+        "is_translated": true
+      },
+      {
         "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
         "platform": "PC Gamer",
         "type": "review",
@@ -211,30 +236,30 @@
         "is_translated": true
       },
       {
-        "title": "『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派骨太ソウルライクはたまに“クセつよ”が見え隠れ。だがそれがいい",
-        "platform": "AUTOMATON",
+        "title": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "本作の購入を検討している方々に向けて、筆者のプレイ経験をもとに、本作の魅力と“ちょっとおかしな点”をご紹介する。",
+        "description": "After months of smaller patches, Hytale’s early access phase is getting its inaugural Chapter update, confirmed release date and all. Chapter 1 is out on October 12th, and it’s a bundle o",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/mortal-shell-ii-20260924-469695/",
-        "date": "2026-09-24",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
+        "date": "2026-09-25",
+        "is_translated": true
       },
       {
-        "title": "“いわくつき資料”を読み解くホラー『『スクジサマ』を巡る考察』9月27日配信へ。高評価ホラー『失踪した友人の部屋に残されていたゲーム 』開発者による新作モキュメンタリー",
-        "platform": "AUTOMATON",
+        "title": "Ace Combat 8 Reviews Officially Make It One of 2026’s Best-Reviewed Games",
+        "platform": "Polygon",
         "type": "review",
-        "description": "れんたか氏は、『『スクジサマ』を巡る考察』を9月27日にリリース予定と発表した。本作はあるオカルトライターが遺したという資料を読み解くという形式の、モキュメンタリーホラーゲーム作品だ。",
+        "description": "Ace Combat 8: Wings of Theve critics had high praise for the thrilling aerial combat, dynamic weather, and soaring soundtrack.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260924-469646/",
-        "date": "2026-09-24",
-        "is_translated": false
+        "url": "https://www.polygon.com/ace-combat-8-review-roundup/",
+        "date": "2026-09-25",
+        "is_translated": true
       },
       {
         "title": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
@@ -464,5 +489,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T04:06:17.461265"
+  "last_updated": "2026-09-25T16:11:10.572033"
 }

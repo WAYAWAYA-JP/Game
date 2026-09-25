@@ -11,19 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "ゴーストランナー 2 - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『ゴーストランナー 2』は、サイバーパンクの街を駆け抜けるハードコアFPPアクションゲーム！『ゴーストランナー』で好評だった要素に加え、熾烈なボス戦、没入感あふれる新たなストーリー、迫力満点のバイクステージ、改良されたスキル、サイバー忍者アクションが集結！",
-        "price": "無料",
-        "originalPrice": "¥4,880",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -35,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -47,10 +35,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       }
     ],
     "bundle": [
+      {
+        "title": "[Fanatical] Daedalic - Gigantic Bundle ($2.79/96% off)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-25"
+      },
       {
         "title": "Trineverse Triple Co-Op Pack (Pay $10 for Trine 4: The Nightmare Prince, Nine Parchments, Trine 3: The Artifacts of Power, Trine 2: Complete Story, Trine EE, $14 for 2 copies of each games and $18 for 3 copies of each games)",
         "platform": "Humble Bundle",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       },
       {
         "title": "Best of Humble Bundle - Indie Fears Bundle (Pay $13 for Mouthwashing, The Headliners, Buckshot Roulette, PANICORE, Arctic Eggs, Who's Lila?, ORDER 13, Mama's Sleeping Angels, THRESHOLD, s.p.l.i.t, NO-SKIN, Kiosk, The Skin Stapler, Flesh Made Fear)",
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       },
       {
         "title": "Hidden Art 3 Bundle ($3.49 BPI / $3.99 / 79% OFF/ 17 Steam Games: 100 hidden aliens, birds (1 & 2), cats (1 & 2), dogs, eternals, fish, frogs 2, gnomes, hares, mice, mushrooms, rams, snails (1 & 2), and turtles",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-09-24"
+        "date": "2026-09-25"
       },
       {
         "title": "The Almighty God Games Bundle (Pay $6 for Equilinox, Warbox Sandbox, Technotopia, and $12 adds The Universim, Godhood, Shadows of Forbidden Gods, Deisim)",
@@ -194,21 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-14"
-      },
-      {
-        "title": "Bundlefest: Build Your Own Special Editions Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-11"
       }
     ],
     "review": [
+      {
+        "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The free weekend playtest for Gravhounds is fun. Also, you are a dog with a people body.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+        "date": "2026-09-25",
+        "is_translated": true
+      },
       {
         "title": "『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派骨太ソウルライクはたまに“クセつよ”が見え隠れ。だがそれがいい",
         "platform": "AUTOMATON",
@@ -236,29 +237,16 @@
         "is_translated": false
       },
       {
-        "title": "「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と回復、螺旋",
-        "platform": "doope!",
-        "type": "review",
-        "description": "マンハッタンの裏路地、かつてそうだった場所。振り下ろした武器が敵を押し潰し、衝撃で砕けたアスファルトが宙を舞い、右に向かって、まるで吸い寄せられるように“落下”していった。 頭上、と呼んでいいのか確信は持てない。Ｌ字状に […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171026.html",
-        "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
+        "title": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "If you ever played it on Steam, it's yours to keep.",
+        "description": "Enemy damage sponginess shouldn't be as severe for the rest of you, at least.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
-        "date": "2026-09-23",
+        "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
+        "date": "2026-09-24",
         "is_translated": true
       },
       {
@@ -273,22 +261,45 @@
         "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
         "date": "2026-09-23",
         "is_translated": true
-      },
-      {
-        "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Nighthawks, the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the i",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
-        "date": "2026-09-22",
-        "is_translated": true
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] Ori and the Will of the Wisps (€2.99/90% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "[Steam] The Rusty Longsword – $0.87 (87% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "DYNASTY WARRIORS 3: Complete Edition Remastered for PC [Steam Code, United States] (25% Off w/ promo code DYNASTY- $29.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-25"
+      },
       {
         "title": "[Steam] Demonic Defense ($4.24 / 15% off)",
         "platform": "Steam",
@@ -396,138 +407,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-16"
-      },
-      {
-        "title": "[Steam] What Is The Ghost ($5.35 / 33% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-14"
-      },
-      {
-        "title": "[Steam] FTL: Faster Than Light ($1.99 / 80% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-14"
-      },
-      {
-        "title": "[Steam] Quantum Odyssey (€9,09/30% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-14"
-      },
-      {
-        "title": "[GOG] Deus Ex: Mankind Divided ($2.99 / 90% off), Deluxe Edition ($4.49 / 90% off)",
-        "platform": "GOG",
-        "type": "sale",
-        "description": "GOGでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.gog.com/",
-        "date": "2026-09-14"
-      },
-      {
-        "title": "[Steam] Deep Sheol ($5.51/15% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-14"
-      },
-      {
-        "title": "[Newegg] CONTROL Resonant (Steam デジタル コード) ($47.99 - コード CNTRLXV で 15% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "[Steam] イントゥ ザ グリッド (20% OFF / 11.99USD)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "[Steam] Arma 3 ($7.49 / 75% オフ)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Risk of Rain 2: Seekers of the Storm (€6.55 -56% off / £5.05 -57% off / $6.59 -56% off)、Risk of Rain 2: Alloyed Collective (€7.55 -49% off / £6.40 -46% off / $8.50 -43% off)、Godfall Ultimate Edition (€8.99) -77% オフ / £7.63 -78% オフ / $8.90 -77% オフ)、EU、英国、米国 |スチームアクティベーション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "[Fanatical] Dead or Alive 6: Last Round (35% オフ、$25.99)",
-        "platform": "Fanatical",
-        "type": "sale",
-        "description": "Fanaticalでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "[Steam] ワンダーバーグ (₹ 324 / 35% オフ )",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-10"
       }
     ]
   },
@@ -585,5 +464,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T16:10:10.392752"
+  "last_updated": "2026-09-25T04:06:17.461265"
 }

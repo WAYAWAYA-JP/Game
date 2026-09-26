@@ -236,6 +236,19 @@
         "is_translated": false
       },
       {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
+        "date": "2026-09-26",
+        "is_translated": true
+      },
+      {
         "title": "Ace Combat 8: Wings of Theve review",
         "platform": "PC Gamer",
         "type": "review",
@@ -245,19 +258,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
-        "date": "2026-09-25",
-        "is_translated": true
-      },
-      {
-        "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The free weekend playtest for Gravhounds is fun. Also, you are a dog with a people body.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
         "date": "2026-09-25",
         "is_translated": true
       },
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T04:11:23.220724"
+  "last_updated": "2026-09-26T15:24:27.221034"
 }

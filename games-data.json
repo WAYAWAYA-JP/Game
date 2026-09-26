@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "title": "[Fanatical] Daedalic - Gigantic Bundle ($2.79/96% off)",
@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し「オーガ」の独自モデルに驚く、古さと新しさが融合するロマンシング体験",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ロマンシングサ・ガ3』のリメイク作品『ロマンシング サガ3 デスティニーユナイテッド』。このたび東京ゲームショウ2026にて、作品の一部を試遊する機会に恵まれた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/rs3-20260926-470130/",
+        "date": "2026-09-26",
+        "is_translated": false
+      },
+      {
+        "title": "マッチ1本で「殴り、跳ぶ」ダークメトロイドヴァニア『井戸の鳥』、貫禄の「好評率96％」スタート。「圧倒的に好評」作品を数々手がけた開発者新作",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Kyle Thompson氏は9月22日、メトロイドヴァニア『井戸の鳥 (Well Dweller)』をリリースした。本作はダークなおとぎ話風の世界を舞台にしたメトロイドヴァニアとして、さっそく高い評価を獲得している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/well-dweller-20260926-470120/",
+        "date": "2026-09-26",
+        "is_translated": false
+      },
+      {
         "title": "Ace Combat 8: Wings of Theve review",
         "platform": "PC Gamer",
         "type": "review",
@@ -246,32 +272,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
         "date": "2026-09-25",
-        "is_translated": true
-      },
-      {
-        "title": "Ace Combat 8 Reviews Officially Make It One of 2026’s Best-Reviewed Games",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Ace Combat 8: Wings of Theve critics had high praise for the thrilling aerial combat, dynamic weather, and soaring soundtrack.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ace-combat-8-review-roundup/",
-        "date": "2026-09-25",
-        "is_translated": true
-      },
-      {
-        "title": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Enemy damage sponginess shouldn't be as severe for the rest of you, at least.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-        "date": "2026-09-24",
         "is_translated": true
       },
       {
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T16:11:10.572033"
+  "last_updated": "2026-09-26T04:11:23.220724"
 }

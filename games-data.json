@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-26"
+        "date": "2026-09-27"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-26"
+        "date": "2026-09-27"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-26"
+        "date": "2026-09-27"
       }
     ],
     "bundle": [
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The director of Godzilla Minus One doubles down with his follow-up film in the best ways possible. Read Polygon's review of Godzilla Minus Zero.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/godzilla-minus-zero-review/",
+        "date": "2026-09-27",
+        "is_translated": true
+      },
+      {
         "title": "『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し「オーガ」の独自モデルに驚く、古さと新しさが融合するロマンシング体験",
         "platform": "AUTOMATON",
         "type": "review",
@@ -234,6 +247,19 @@
         "url": "https://automaton-media.com/articles/newsjp/well-dweller-20260926-470120/",
         "date": "2026-09-26",
         "is_translated": false
+      },
+      {
+        "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "My first thought when I played through the Chimera tank boss fight in Cyberpunk 2077: Phantom Liberty was probably something along the lines of, \"wow, this sure looks expensive!\" It's incredibly fla",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+        "date": "2026-09-26",
+        "is_translated": true
       },
       {
         "title": "What are we all playing this weekend?",
@@ -289,6 +315,66 @@
       }
     ],
     "sale": [
+      {
+        "title": "[Steam] FINAL FANTASY VII REMAKE INTERGRADE ($9.99 / 75% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[Steam] Sprite's Honor! (5.99$ / 5.26€ | 40% Off )",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[Steam] Warhammer 40,000: Rogue Trader ($14.99 / 70% off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[Steam] Satisfactory ($27.99/30% Off)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "ACE COMBAT 8: WINGS OF THEVE - Steam PC, Xbox Series X|S Digital Code (21% Off w/ promo code ACE8WT - $54.99)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
+        "price": "セール価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-09-27"
+      },
       {
         "title": "[Steam] Ori and the Will of the Wisps (€2.99/90% off)",
         "platform": "Steam",
@@ -384,54 +470,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-18"
-      },
-      {
-        "title": "[Steam] Danganronpa: Trigger Happy Havoc ($1.99/90% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-16"
-      },
-      {
-        "title": "[Steam] One Rotten Oath - (40% off / $4.19)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-16"
-      },
-      {
-        "title": "Dying Light: The Beast (€26.59 -55% off / £22.10 -55% off / $26.90 -55% off), EU, UK, US | Steam Activation",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-16"
-      },
-      {
-        "title": "[Steam] Rogue Zodiacs (75% off)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでお得なセールが開催中！期間限定の特別価格でゲームを手に入れるチャンス。",
-        "price": "セール価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-16"
       }
     ]
   },
@@ -489,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T15:24:27.221034"
+  "last_updated": "2026-09-27T04:27:34.407156"
 }

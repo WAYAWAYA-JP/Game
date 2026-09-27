@@ -210,19 +210,6 @@
     ],
     "review": [
       {
-        "title": "'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The director of Godzilla Minus One doubles down with his follow-up film in the best ways possible. Read Polygon's review of Godzilla Minus Zero.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/godzilla-minus-zero-review/",
-        "date": "2026-09-27",
-        "is_translated": true
-      },
-      {
         "title": "『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し「オーガ」の独自モデルに驚く、古さと新しさが融合するロマンシング体験",
         "platform": "AUTOMATON",
         "type": "review",
@@ -272,19 +259,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
         "date": "2026-09-26",
-        "is_translated": true
-      },
-      {
-        "title": "Ace Combat 8: Wings of Theve review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The arcade air combat series soars to dizzying new heights.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
-        "date": "2026-09-25",
         "is_translated": true
       },
       {
@@ -527,5 +501,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-27T04:27:34.407156"
+  "last_updated": "2026-09-27T16:03:52.230814"
 }

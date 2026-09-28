@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "bundle": [
@@ -209,6 +209,19 @@
       }
     ],
     "review": [
+      {
+        "title": "Steam Week in Review: Great, haystack slop is a thing now",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "All the interesting Steam facts for the week ending September 27.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
+        "date": "2026-09-28",
+        "is_translated": true
+      },
       {
         "title": "『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し「オーガ」の独自モデルに驚く、古さと新しさが融合するロマンシング体験",
         "platform": "AUTOMATON",
@@ -501,5 +514,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-27T16:03:52.230814"
+  "last_updated": "2026-09-28T04:27:30.551564"
 }

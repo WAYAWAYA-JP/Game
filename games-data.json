@@ -40,6 +40,18 @@
     ],
     "bundle": [
       {
+        "title": "Programming Puzzles Bundle (Pay $6 for Replicube, while True: learn(), SOLAS 128, $8 adds Linkito, The Signal State, $10 adds Quantum Odyssey, and $14 adds Retro Gadgets)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-09-28"
+      },
+      {
         "title": "Build Your Own Fall Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -194,21 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-15"
-      },
-      {
-        "title": "Prestige Collection - Build Your Own Bundle (Fall 2026) (2 / 3 / 5 for $14.99 / $21.75 / $34.99 | Includes Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "収録: Fallout 76: Gone Fission - Deluxe Edition | Anomaly President | DEATHLOOP - Deluxe Edition | Indika: Deluxe Edition | Tails of Iron 2: Whiskers of Winter - Deluxe Edition | More)",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-14"
       }
     ],
     "review": [
+      {
+        "title": "解禁が迫る「ウィッチャー3 ワイルドハント リマスター」の本格的なゲームプレイ映像が多数登場、日本語パッチノートも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、地域別の配信スケジュールがアナウンスされた「ウィッチャー3 ワイルドハント リマスター」ですが、国内では明日9月29日午後7時に迎えるリマスターの配信に期待が掛かるなか、新たにメディア向けのプレビューが解禁され、リ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171196.html",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
       {
         "title": "Steam Week in Review: Great, haystack slop is a thing now",
         "platform": "PC Gamer",
@@ -223,30 +236,30 @@
         "is_translated": true
       },
       {
-        "title": "『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し「オーガ」の独自モデルに驚く、古さと新しさが融合するロマンシング体験",
-        "platform": "AUTOMATON",
+        "title": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『ロマンシングサ・ガ3』のリメイク作品『ロマンシング サガ3 デスティニーユナイテッド』。このたび東京ゲームショウ2026にて、作品の一部を試遊する機会に恵まれた。",
+        "description": "There's been a wave of furry horror games with surprisingly elaborate tactical simulation elements, and when I say \"wave\", I mean that I'm aware of two. One is Casualties: Unknown, a 2D misericore s",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/rs3-20260926-470130/",
-        "date": "2026-09-26",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+        "date": "2026-09-28",
+        "is_translated": true
       },
       {
-        "title": "マッチ1本で「殴り、跳ぶ」ダークメトロイドヴァニア『井戸の鳥』、貫禄の「好評率96％」スタート。「圧倒的に好評」作品を数々手がけた開発者新作",
-        "platform": "AUTOMATON",
+        "title": "New 'Pokémon Winds and Waves' Leaks Fill Major Gap Left by Game Freak's Silence",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Kyle Thompson氏は9月22日、メトロイドヴァニア『井戸の鳥 (Well Dweller)』をリリースした。本作はダークなおとぎ話風の世界を舞台にしたメトロイドヴァニアとして、さっそく高い評価を獲得している。",
+        "description": "Recent Pokémon WiWa leaks contain must-see early gameplay, regional maps, and character models for the Elite Four and gym leaders.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/well-dweller-20260926-470120/",
-        "date": "2026-09-26",
-        "is_translated": false
+        "url": "https://www.polygon.com/pokemon-winds-waves-september-2026-leak-details/",
+        "date": "2026-09-28",
+        "is_translated": true
       },
       {
         "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
@@ -285,19 +298,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
         "date": "2026-09-25",
-        "is_translated": true
-      },
-      {
-        "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "A new patent from Microsoft shows how they want to record your facial expressions, show them to an AI, and have it redesign the game you're playing. It's not only your face they want, but also any wo",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-        "date": "2026-09-23",
         "is_translated": true
       }
     ],
@@ -514,5 +514,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-28T04:27:30.551564"
+  "last_updated": "2026-09-28T18:59:37.405377"
 }

@@ -40,6 +40,18 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own Retro Revival Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Programming Puzzles Bundle (Pay $6 for Replicube, while True: learn(), SOLAS 128, $8 adds Linkito, The Signal State, $10 adds Quantum Odyssey, and $14 adds Retro Gadgets)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -198,42 +210,68 @@
     ],
     "review": [
       {
-        "title": "Switch Finally Gets One of 2025’s Best-Reviewed RPGs",
-        "platform": "Polygon",
+        "title": "ウイルスまみれ“古のPC風”ヴァンサバライク『Antivirus Survivors 2003 Professional』好評率98％でブレイク中。敵も倒すしポップアップも閉じる、画面ずっとうるさい地獄のデスクトップ",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "Keep Driving, one of 2025's best reviewed games is now on consoles, and it's especially perfect for Switch owners.",
+        "description": "9月28日に配信された『Antivirus Survivors 2003 Professional』がさっそく高い評価を集め、Steamユーザーレビューでは「非常に好評」ステータスを獲得している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/keep-driving-switch-recommendation/",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470613/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」が本日発売、ローンチトレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨晩、Metascoreが85、OpenCriticが84に達するレビューが解禁された期待の続編「TOEM 2」ですが、本日予定通り本作の販売が開始され、Something We Madeが進化したビジュアルや新たなカメ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171292.html",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "LEGO Skylines is the new plastic city-builder from Cities: Skylines 2 and Surviving the Aftermath developers Iceflake Studios, published by Paradox Interactive. I've played an hour or so of a previe",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
         "date": "2026-09-29",
         "is_translated": true
       },
       {
-        "title": "解禁が迫る「ウィッチャー3 ワイルドハント リマスター」の本格的なゲームプレイ映像が多数登場、日本語パッチノートも",
-        "platform": "doope!",
+        "title": "The Witcher 3 Remastered Is Officially the Best-Reviewed Game of the Year",
+        "platform": "Polygon",
         "type": "review",
-        "description": "先日、地域別の配信スケジュールがアナウンスされた「ウィッチャー3 ワイルドハント リマスター」ですが、国内では明日9月29日午後7時に迎えるリマスターの配信に期待が掛かるなか、新たにメディア向けのプレビューが解禁され、リ […]",
+        "description": "CD Project Red's update to The Witcher 3: Wild Hunt has a 94 rating on Metacritic. Can GTA 6 beat it?",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09171196.html",
-        "date": "2026-09-28",
-        "is_translated": false
+        "url": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/",
+        "date": "2026-09-29",
+        "is_translated": true
       },
       {
-        "title": "Steam Week in Review: Great, haystack slop is a thing now",
-        "platform": "PC Gamer",
+        "title": "Thief Gets a New Sequel 30 Years Later — Here's a First Look",
+        "platform": "Polygon",
         "type": "review",
-        "description": "All the interesting Steam facts for the week ending September 27.",
+        "description": "One of the great 1990s video games returns with a story set between Dark Project and Metal Age ahead of a remaster",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
-        "date": "2026-09-28",
+        "url": "https://www.polygon.com/thief-pulse-of-promise-exclusive-look/",
+        "date": "2026-09-29",
         "is_translated": true
       },
       {
@@ -502,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-29T04:57:18.475948"
+  "last_updated": "2026-09-29T17:19:17.642457"
 }

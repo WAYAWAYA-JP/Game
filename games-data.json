@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-28"
+        "date": "2026-09-29"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-28"
+        "date": "2026-09-29"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-28"
+        "date": "2026-09-29"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-28"
+        "date": "2026-09-29"
       },
       {
         "title": "Build Your Own Fall Bundle",
@@ -194,21 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-16"
-      },
-      {
-        "title": "Run It Back - Roguelikes Bundle (Pay $5 for Spellmasons, Source of Madness, $10 adds Dome Keeper, Battle Shapers, Dungeons of Blood and Dream, OTXO, and $13 adds Rabbit and Steel, Chrono Ark, Lost in Random: The Eternal Die)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-15"
       }
     ],
     "review": [
+      {
+        "title": "Switch Finally Gets One of 2025’s Best-Reviewed RPGs",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Keep Driving, one of 2025's best reviewed games is now on consoles, and it's especially perfect for Switch owners.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/keep-driving-switch-recommendation/",
+        "date": "2026-09-29",
+        "is_translated": true
+      },
       {
         "title": "解禁が迫る「ウィッチャー3 ワイルドハント リマスター」の本格的なゲームプレイ映像が多数登場、日本語パッチノートも",
         "platform": "doope!",
@@ -245,19 +246,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-        "date": "2026-09-28",
-        "is_translated": true
-      },
-      {
-        "title": "New 'Pokémon Winds and Waves' Leaks Fill Major Gap Left by Game Freak's Silence",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Recent Pokémon WiWa leaks contain must-see early gameplay, regional maps, and character models for the Elite Four and gym leaders.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/pokemon-winds-waves-september-2026-leak-details/",
         "date": "2026-09-28",
         "is_translated": true
       },
@@ -514,5 +502,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-28T18:59:37.405377"
+  "last_updated": "2026-09-29T04:57:18.475948"
 }

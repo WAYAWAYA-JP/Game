@@ -40,6 +40,18 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-09-30"
+      },
+      {
         "title": "Build Your Own Retro Revival Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -198,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "高評価2D探索アクション『Ori and the Will of the Wisps』、発売から6年たった今「Steam同接1万7000人超え」。安すぎて",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Ori and the Will of the Wisps』が9月29日、Steamにおいて1万7000人以上の同時接続プレイヤーを記録した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260930-470923/",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
+      {
+        "title": "高評価怪談ホラーノベル新作『恐怖夜話 第二夜』10月14日配信へ。平屋なのに床下から聞こえる音など、じっとりとした雨夜の怪異譚",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "個人開発者のひめこ氏は9月30日、『恐怖夜話 第二夜』を10月14日にリリースすると告知した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260930-470893/",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
+      {
         "title": "『スーパーダンガンロンパ２×２』先行プレイ感想。充実リメイク要素と不穏の新モードのバランスよし、つまりは『スーパースーパーダンガンロンパ２』になる可能性",
         "platform": "AUTOMATON",
         "type": "review",
@@ -211,17 +249,17 @@
         "is_translated": false
       },
       {
-        "title": "ウイルスまみれ“古のPC風”ヴァンサバライク『Antivirus Survivors 2003 Professional』好評率98％でブレイク中。敵も倒すしポップアップも閉じる、画面ずっとうるさい地獄のデスクトップ",
-        "platform": "AUTOMATON",
+        "title": "Secretlab ATLAS Dune+ Review",
+        "platform": "Polygon",
         "type": "review",
-        "description": "9月28日に配信された『Antivirus Survivors 2003 Professional』がさっそく高い評価を集め、Steamユーザーレビューでは「非常に好評」ステータスを獲得している。",
+        "description": "Secretlab have given me a crash course on how to sit properly.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260929-470613/",
-        "date": "2026-09-29",
-        "is_translated": false
+        "url": "https://www.polygon.com/secretlab-atlas-dune-chair-review/",
+        "date": "2026-09-30",
+        "is_translated": true
       },
       {
         "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
@@ -286,45 +324,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
         "date": "2026-09-28",
-        "is_translated": true
-      },
-      {
-        "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "My first thought when I played through the Chimera tank boss fight in Cyberpunk 2077: Phantom Liberty was probably something along the lines of, \"wow, this sure looks expensive!\" It's incredibly fla",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-        "date": "2026-09-26",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
-        "date": "2026-09-26",
-        "is_translated": true
-      },
-      {
-        "title": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "After months of smaller patches, Hytale’s early access phase is getting its inaugural Chapter update, confirmed release date and all. Chapter 1 is out on October 12th, and it’s a bundle o",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
-        "date": "2026-09-25",
         "is_translated": true
       }
     ],
@@ -541,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T04:44:23.482854"
+  "last_updated": "2026-09-30T17:16:57.135224"
 }

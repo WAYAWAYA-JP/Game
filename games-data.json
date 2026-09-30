@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-29"
+        "date": "2026-09-30"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-29"
+        "date": "2026-09-30"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-29"
+        "date": "2026-09-30"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-29"
+        "date": "2026-09-30"
       },
       {
         "title": "Programming Puzzles Bundle (Pay $6 for Replicube, while True: learn(), SOLAS 128, $8 adds Linkito, The Signal State, $10 adds Quantum Odyssey, and $14 adds Retro Gadgets)",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-09-29"
+        "date": "2026-09-30"
       },
       {
         "title": "Build Your Own Fall Bundle",
@@ -194,21 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-17"
-      },
-      {
-        "title": "Build Your Own Capcom Mega Bundle (2/3/4/8 for $12.99/$18.99/$24.99/$49.59 - Choose from Resident Evil Village Gold Edition / Monster Hunter Stories / Monster Hunter Stories 2: Wings of Ruin / Resident Evil 4 / The Great Ace Attorney Chronicles / Phoenix Wright: Ace Attorney / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-16"
       }
     ],
     "review": [
+      {
+        "title": "『スーパーダンガンロンパ２×２』先行プレイ感想。充実リメイク要素と不穏の新モードのバランスよし、つまりは『スーパースーパーダンガンロンパ２』になる可能性",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "9月17日に開催されたメディアカンファレンスにて、開発中のバージョンを用いたハンズオンを体験。そのプレイフィールをお伝えする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/danganronpa-20260930-470623/",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
       {
         "title": "ウイルスまみれ“古のPC風”ヴァンサバライク『Antivirus Survivors 2003 Professional』好評率98％でブレイク中。敵も倒すしポップアップも閉じる、画面ずっとうるさい地獄のデスクトップ",
         "platform": "AUTOMATON",
@@ -223,17 +224,43 @@
         "is_translated": false
       },
       {
-        "title": "写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」が本日発売、ローンチトレーラーも",
-        "platform": "doope!",
+        "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "昨晩、Metascoreが85、OpenCriticが84に達するレビューが解禁された期待の続編「TOEM 2」ですが、本日予定通り本作の販売が開始され、Something We Madeが進化したビジュアルや新たなカメ […]",
+        "description": "\"...the feedback we've consistently got is that people hate them. They hate everything about them.\"",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/09171292.html",
+        "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
         "date": "2026-09-29",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The fine print for freebie Ace Combat Zero changed before launch.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+        "date": "2026-09-29",
+        "is_translated": true
+      },
+      {
+        "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+        "date": "2026-09-29",
+        "is_translated": true
       },
       {
         "title": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
@@ -245,32 +272,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
-        "date": "2026-09-29",
-        "is_translated": true
-      },
-      {
-        "title": "The Witcher 3 Remastered Is Officially the Best-Reviewed Game of the Year",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "CD Project Red's update to The Witcher 3: Wild Hunt has a 94 rating on Metacritic. Can GTA 6 beat it?",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/",
-        "date": "2026-09-29",
-        "is_translated": true
-      },
-      {
-        "title": "Thief Gets a New Sequel 30 Years Later — Here's a First Look",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "One of the great 1990s video games returns with a story set between Dark Project and Metal Age ahead of a remaster",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/thief-pulse-of-promise-exclusive-look/",
         "date": "2026-09-29",
         "is_translated": true
       },
@@ -540,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-29T17:19:17.642457"
+  "last_updated": "2026-09-30T04:44:23.482854"
 }

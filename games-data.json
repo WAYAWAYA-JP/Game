@@ -2,18 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "Astrea Six Sided Oracles - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Astrea』はまったく新しいダイス＆デッキ構築型ローグライクゲーム。本作であなたは、６人の勇敢なオラクルの１人となって、失われた文明の遺跡で道を切り開いていきます。",
-        "price": "無料",
-        "originalPrice": "¥2,480",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-01"
-      },
-      {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -26,12 +14,24 @@
         "date": "2026-10-01"
       },
       {
-        "title": "Mechabellum - Epic Games 無料配布中",
+        "title": "System Shock 2: 25th Anniversary Remaster - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
+        "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
         "price": "無料",
-        "originalPrice": "¥1,700",
+        "originalPrice": "¥2,880",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "ベリード・スターズ - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ベリード・スターズ』は、生放送中のサバイバルオーディション番組の崩壊事故現場を舞台にしたミステリーアドベンチャーゲームです。 閉じ込められた出演者たちは互いに、そしてSNSを通じて外部と繋がりながら救助を待ちますが、思いがけない事件が発生し、信頼と生存が揺らぎ始めます。",
+        "price": "無料",
+        "originalPrice": "¥4,100",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -39,6 +39,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Goblin Platformer Pack (2,53€/-70% on 3 games)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Let's Learn Japanese! Complete Collection ($6.11 / -60%) | Let's Learn Korean! Complete Collection ($5.09 / -60%) | Let's Learn Strategy Games ($5.73 / -60%)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-01"
+      },
       {
         "title": "Dying Light 2: Stay Human Complete DLC Bundle (Pay $6 for DL2 SH: Chicken, DL2 SH: Brecken, DL2 SH: Rais, DL2 SH: Dying Laugh, $9 adds DL2 SH: Hakon, DL2 SH: Gunslinger, DL2 SH: Post-apo, DL2 SH: Nightrunner, 1 more, and $12 adds DL2 SH- Welcome Offer: Essential Starter Kit, 3 more)",
         "platform": "Humble Bundle",
@@ -194,30 +218,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-19"
-      },
-      {
-        "title": "Build Your Own Popular Picks Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "[Steam] House Flipper Remastered Loyalty Bundle ( $28.58 / 49% Off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-18"
       }
     ],
     "review": [
@@ -235,68 +235,42 @@
         "is_translated": false
       },
       {
-        "title": "高評価2D探索アクション『Ori and the Will of the Wisps』、発売から6年たった今「Steam同接1万7000人超え」。安すぎて",
-        "platform": "AUTOMATON",
+        "title": "Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キャッスルヴァニア ベルモンドカース」の体験版が本日配信",
+        "platform": "doope!",
         "type": "review",
-        "description": "『Ori and the Will of the Wisps』が9月29日、Steamにおいて1万7000人以上の同時接続プレイヤーを記録した。",
+        "description": "“Dead Cells”でお馴染みEvil EmpireとMotion Twinが共同で開発を手掛ける“悪魔城ドラキュラ”シリーズの完全新作として、今年2月にアナウンスされ、先日体験版の配信決定が報じられた「キャッスルヴ […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260930-470923/",
-        "date": "2026-09-30",
+        "url": "https://doope.jp/2026/10171360.html",
+        "date": "2026-10-01",
         "is_translated": false
       },
       {
-        "title": "高評価怪談ホラーノベル新作『恐怖夜話 第二夜』10月14日配信へ。平屋なのに床下から聞こえる音など、じっとりとした雨夜の怪異譚",
-        "platform": "AUTOMATON",
+        "title": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "個人開発者のひめこ氏は9月30日、『恐怖夜話 第二夜』を10月14日にリリースすると告知した。",
+        "description": "Astarion probably shouldn't have a glock.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260930-470893/",
-        "date": "2026-09-30",
-        "is_translated": false
-      },
-      {
-        "title": "10 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-09-30",
+        "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
+        "date": "2026-10-01",
         "is_translated": true
       },
       {
-        "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
+        "title": "Gears of War: E-Day review in progress — Good shooting, but the campaign's a slog",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "\"...the feedback we've consistently got is that people hate them. They hate everything about them.\"",
+        "description": "Gears has never felt better to play, or more creatively stagnant.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
-        "date": "2026-09-29",
-        "is_translated": true
-      },
-      {
-        "title": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The fine print for freebie Ace Combat Zero changed before launch.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-        "date": "2026-09-29",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
+        "date": "2026-10-01",
         "is_translated": true
       },
       {
@@ -310,19 +284,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
         "date": "2026-09-29",
-        "is_translated": true
-      },
-      {
-        "title": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "There's been a wave of furry horror games with surprisingly elaborate tactical simulation elements, and when I say \"wave\", I mean that I'm aware of two. One is Casualties: Unknown, a 2D misericore s",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-        "date": "2026-09-28",
         "is_translated": true
       }
     ],
@@ -539,5 +500,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T04:55:39.515728"
+  "last_updated": "2026-10-01T17:46:05.143356"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-30"
+        "date": "2026-10-01"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-30"
+        "date": "2026-10-01"
       },
       {
         "title": "Mechabellum - Epic Games 無料配布中",
@@ -35,10 +35,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-09-30"
+        "date": "2026-10-01"
       }
     ],
     "bundle": [
+      {
+        "title": "Dying Light 2: Stay Human Complete DLC Bundle (Pay $6 for DL2 SH: Chicken, DL2 SH: Brecken, DL2 SH: Rais, DL2 SH: Dying Laugh, $9 adds DL2 SH: Hakon, DL2 SH: Gunslinger, DL2 SH: Post-apo, DL2 SH: Nightrunner, 1 more, and $12 adds DL2 SH- Welcome Offer: Essential Starter Kit, 3 more)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "2D Rewind Collection from S2 Games (Pay $5 for Samorost 3, CHUCHEL, Freedom Planet, Not Tonight, $8 adds Luck be a Landlord, Karate Survivor, NORCO, and $14 adds River City Girls 2, River City Girls, Nova Drift, Freedom Planet 2, Rainbow Legends, Folklands)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-01"
+      },
       {
         "title": "Build Your Own Platinum Collection",
         "platform": "Fanatical",
@@ -49,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-30"
+        "date": "2026-10-01"
       },
       {
         "title": "Build Your Own Retro Revival Bundle",
@@ -61,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-09-30"
+        "date": "2026-10-01"
       },
       {
         "title": "Programming Puzzles Bundle (Pay $6 for Replicube, while True: learn(), SOLAS 128, $8 adds Linkito, The Signal State, $10 adds Quantum Odyssey, and $14 adds Retro Gadgets)",
@@ -194,21 +218,22 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-18"
-      },
-      {
-        "title": "Best of Humble Bundle - Sniper Elite: Classics Collection (Pay $5 for Sniper Elite 3, Sniper Elite 3 - Season Pass, Sniper Elite V2 Remastered, Sniper Elite, and $10 adds Sniper Elite 4: Deluxe Edition)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-17"
       }
     ],
     "review": [
+      {
+        "title": "Nintendo Switch不穏メルヘン探索ゲーム『アリスインワンダーアンダーランド』無料体験版が出る。製品版が「980円」で買えるセールも実施中、手に取りやすく",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "レジスタは10月1日、『Alice in Wonder Underland -AIWU-』Nintendo Switch版の無料体験版を配信した。あわせて定価の60％オフとなる税込980円で購入できるセールを実施中だ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/aiwu-20261001-471118/",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
       {
         "title": "高評価2D探索アクション『Ori and the Will of the Wisps』、発売から6年たった今「Steam同接1万7000人超え」。安すぎて",
         "platform": "AUTOMATON",
@@ -236,28 +261,15 @@
         "is_translated": false
       },
       {
-        "title": "『スーパーダンガンロンパ２×２』先行プレイ感想。充実リメイク要素と不穏の新モードのバランスよし、つまりは『スーパースーパーダンガンロンパ２』になる可能性",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "9月17日に開催されたメディアカンファレンスにて、開発中のバージョンを用いたハンズオンを体験。そのプレイフィールをお伝えする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/danganronpa-20260930-470623/",
-        "date": "2026-09-30",
-        "is_translated": false
-      },
-      {
-        "title": "Secretlab ATLAS Dune+ Review",
+        "title": "10 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
         "platform": "Polygon",
         "type": "review",
-        "description": "Secretlab have given me a crash course on how to sit properly.",
+        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/secretlab-atlas-dune-chair-review/",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
         "date": "2026-09-30",
         "is_translated": true
       },
@@ -284,19 +296,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-        "date": "2026-09-29",
-        "is_translated": true
-      },
-      {
-        "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
         "date": "2026-09-29",
         "is_translated": true
       },
@@ -540,5 +539,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T17:16:57.135224"
+  "last_updated": "2026-10-01T04:55:39.515728"
 }

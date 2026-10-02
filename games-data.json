@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "title": "System Shock 2: 25th Anniversary Remaster - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "title": "Let's Learn Japanese! Complete Collection ($6.11 / -60%) | Let's Learn Korean! Complete Collection ($5.09 / -60%) | Let's Learn Strategy Games ($5.73 / -60%)",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "title": "Dying Light 2: Stay Human Complete DLC Bundle (Pay $6 for DL2 SH: Chicken, DL2 SH: Brecken, DL2 SH: Rais, DL2 SH: Dying Laugh, $9 adds DL2 SH: Hakon, DL2 SH: Gunslinger, DL2 SH: Post-apo, DL2 SH: Nightrunner, 1 more, and $12 adds DL2 SH- Welcome Offer: Essential Starter Kit, 3 more)",
@@ -222,6 +222,19 @@
     ],
     "review": [
       {
+        "title": "次世代モンスター収集RPG『Roco Kingdom』日本版発表会に行ってきた。追加声優陣がどどんと公開、KENNさん＆相羽あいなさんの生試遊も",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Roco Kingdom（ロコキングダム）』日本版の発表・試遊会の現地レポートをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/rocokingdam-20261002-471255/",
+        "date": "2026-10-02",
+        "is_translated": false
+      },
+      {
         "title": "Nintendo Switch不穏メルヘン探索ゲーム『アリスインワンダーアンダーランド』無料体験版が出る。製品版が「980円」で買えるセールも実施中、手に取りやすく",
         "platform": "AUTOMATON",
         "type": "review",
@@ -235,15 +248,15 @@
         "is_translated": false
       },
       {
-        "title": "Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キャッスルヴァニア ベルモンドカース」の体験版が本日配信",
+        "title": "仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026年10月12日",
         "platform": "doope!",
         "type": "review",
-        "description": "“Dead Cells”でお馴染みEvil EmpireとMotion Twinが共同で開発を手掛ける“悪魔城ドラキュラ”シリーズの完全新作として、今年2月にアナウンスされ、先日体験版の配信決定が報じられた「キャッスルヴ […]",
+        "description": "2022年2月のローンチを経て、高い評価を獲得し、現在実写映画化も進められている仏Sloclapのカンフーアクション「Sifu」ですが、新たSloclapが本作のモバイル対応を発表し、iOSとAndroid向けに2026 […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171360.html",
+        "url": "https://doope.jp/2026/10171384.html",
         "date": "2026-10-01",
         "is_translated": false
       },
@@ -270,6 +283,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
+        "date": "2026-10-01",
+        "is_translated": true
+      },
+      {
+        "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gears-war-e-day-co-op-interview/",
         "date": "2026-10-01",
         "is_translated": true
       },
@@ -500,5 +526,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T17:46:05.143356"
+  "last_updated": "2026-10-02T04:46:10.554522"
 }

@@ -2,18 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "LISA: Definitive Edition - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "オレイサを探索し、オリジナルのストーリー重視のRPG『LISA: The Painful』とその続編『LISA: The Joyful』を収録した『LISA: Definitive Edition』で、倒錯した謎を明かそう。",
-        "price": "無料",
-        "originalPrice": "¥3,380",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-02"
-      },
-      {
         "title": "System Shock 2: 25th Anniversary Remaster - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -39,6 +27,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "CoppaFeel! Charity Bundle - All Proceeds to a Good Cause! (10 for $5.99 - Get Haste: Broken Worlds / PlateUp! / Overcooked / KeyWe / Pine Hearts / Critter Café / Tiny Garden / More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-02"
+      },
       {
         "title": "[Steam] Goblin Platformer Pack (2,53€/-70% on 3 games)",
         "platform": "Steam",
@@ -206,21 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-20"
-      },
-      {
-        "title": "Build Your Own Goblinz Studio Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-19"
       }
     ],
     "review": [
+      {
+        "title": "高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門家も監修のリアル生態系づくり、その作り込みを訊いた",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "都市建設型の海洋シミュレーションゲーム『Life Below』を試遊してきた。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261002-471528/",
+        "date": "2026-10-02",
+        "is_translated": false
+      },
       {
         "title": "次世代モンスター収集RPG『Roco Kingdom』日本版発表会に行ってきた。追加声優陣がどどんと公開、KENNさん＆相羽あいなさんの生試遊も",
         "platform": "AUTOMATON",
@@ -235,81 +236,16 @@
         "is_translated": false
       },
       {
-        "title": "Nintendo Switch不穏メルヘン探索ゲーム『アリスインワンダーアンダーランド』無料体験版が出る。製品版が「980円」で買えるセールも実施中、手に取りやすく",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "レジスタは10月1日、『Alice in Wonder Underland -AIWU-』Nintendo Switch版の無料体験版を配信した。あわせて定価の60％オフとなる税込980円で購入できるセールを実施中だ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/aiwu-20261001-471118/",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026年10月12日",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2022年2月のローンチを経て、高い評価を獲得し、現在実写映画化も進められている仏Sloclapのカンフーアクション「Sifu」ですが、新たSloclapが本作のモバイル対応を発表し、iOSとAndroid向けに2026 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171384.html",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun",
+        "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "Astarion probably shouldn't have a glock.",
+        "description": "PC Gamerによるレビュー記事。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "Gears of War: E-Day review in progress — Good shooting, but the campaign's a slog",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Gears has never felt better to play, or more creatively stagnant.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gears-war-e-day-co-op-interview/",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "LEGO Skylines is the new plastic city-builder from Cities: Skylines 2 and Surviving the Aftermath developers Iceflake Studios, published by Paradox Interactive. I've played an hour or so of a previe",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
-        "date": "2026-09-29",
+        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+        "date": "2026-10-02",
         "is_translated": true
       }
     ],
@@ -526,5 +462,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T04:46:10.554522"
+  "last_updated": "2026-10-02T17:03:43.009309"
 }

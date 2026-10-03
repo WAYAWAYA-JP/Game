@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“正確さこだわり再現”された約2000個の骨を仕分ける、まったり黙々作業",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Indie Souls Studioは9月25日、『DinoBones: Tidy Up the Museum』をリリースした。さっそく高い評価を獲得している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261003-471595/",
+        "date": "2026-10-03",
+        "is_translated": false
+      },
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that much harder. Still,",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
+        "date": "2026-10-03",
+        "is_translated": true
+      },
+      {
         "title": "高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門家も監修のリアル生態系づくり、その作り込みを訊いた",
         "platform": "AUTOMATON",
         "type": "review",
@@ -462,5 +488,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T04:27:29.356154"
+  "last_updated": "2026-10-03T15:26:13.361278"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-02"
+        "date": "2026-10-03"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,10 +23,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-02"
+        "date": "2026-10-03"
       }
     ],
     "bundle": [
+      {
+        "title": "Capcom Classics Bundle (Pay $10 for Resident Evil 3 Nemesis (1999), Resident Evil 2 (1998), Resident Evil (1996), and $20 adds Breath of Fire IV, Dino Crisis 2, Dino Crisis)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Akupara 10th Anniversary Bundle (Pay $8 for Behind the Frame: The Finest Scenery, Mutazione, REPOSE, The Darkside Detective, Whispering Willows, $12 adds Rain World, Rain World: Downpour, Gigasword, Grime, and $15 adds Cryptmaster, Astrea: Six-Sided Oracles, 1 more)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-03"
+      },
       {
         "title": "CoppaFeel! Charity Bundle - All Proceeds to a Good Cause! (10 for $5.99 - Get Haste: Broken Worlds / PlateUp! / Overcooked / KeyWe / Pine Hearts / Critter Café / Tiny Garden / More)",
         "platform": "Fanatical",
@@ -37,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-02"
+        "date": "2026-10-03"
       },
       {
         "title": "[Steam] Goblin Platformer Pack (2,53€/-70% on 3 games)",
@@ -182,30 +206,6 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-09-25"
-      },
-      {
-        "title": "The Almighty God Games Bundle (Pay $6 for Equilinox, Warbox Sandbox, Technotopia, and $12 adds The Universim, Godhood, Shadows of Forbidden Gods, Deisim)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "IGN 30th Anniversary Bundle (Pay $5 for Thronebreaker: The Witcher Tales, Sonic Adventure 2, $10 adds Ravenswatch, Subnautica, and $15 adds The Elder Scrolls Online - Elsweyr, REMNANT II, BlazBlue Entropy Effect)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-20"
       }
     ],
     "review": [
@@ -462,5 +462,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T17:03:43.009309"
+  "last_updated": "2026-10-03T04:27:29.356154"
 }

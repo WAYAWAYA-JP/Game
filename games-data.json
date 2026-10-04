@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       },
       {
         "title": "Akupara 10th Anniversary Bundle (Pay $8 for Behind the Frame: The Finest Scenery, Mutazione, REPOSE, The Darkside Detective, Whispering Willows, $12 adds Rain World, Rain World: Downpour, Gigasword, Grime, and $15 adds Cryptmaster, Astrea: Six-Sided Oracles, 1 more)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       },
       {
         "title": "CoppaFeel! Charity Bundle - All Proceeds to a Good Cause! (10 for $5.99 - Get Haste: Broken Worlds / PlateUp! / Overcooked / KeyWe / Pine Hearts / Critter Café / Tiny Garden / More)",
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "美少女全国統一SLG『戦国ランス』Steam版、さっそく「好評率94％」の盛り上がり。やりこみ甲斐も高評価な欲望マシマシ天下統一、Steamでも華々しくデビュー",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Kagura Gamesは10月2日、Steamにて『戦国ランス』の配信を開始した。アリスソフトが手がけるターン制ストラテジーゲームとして人気の本作は、Steamでもさっそく高評価を獲得している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sengoku-rance-20261004-471648/",
+        "date": "2026-10-04",
+        "is_translated": false
+      },
+      {
         "title": "恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“正確さこだわり再現”された約2000個の骨を仕分ける、まったり黙々作業",
         "platform": "AUTOMATON",
         "type": "review",
@@ -247,32 +260,6 @@
         "url": "https://automaton-media.com/articles/reportjp/20261002-471528/",
         "date": "2026-10-02",
         "is_translated": false
-      },
-      {
-        "title": "次世代モンスター収集RPG『Roco Kingdom』日本版発表会に行ってきた。追加声優陣がどどんと公開、KENNさん＆相羽あいなさんの生試遊も",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Roco Kingdom（ロコキングダム）』日本版の発表・試遊会の現地レポートをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/rocokingdam-20261002-471255/",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
-        "date": "2026-10-02",
-        "is_translated": true
       }
     ],
     "sale": [
@@ -488,5 +475,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T15:26:13.361278"
+  "last_updated": "2026-10-04T04:58:29.226663"
 }

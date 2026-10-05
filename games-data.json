@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-04"
+        "date": "2026-10-05"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-04"
+        "date": "2026-10-05"
       }
     ],
     "bundle": [
@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "南アフリカのCozy Livesが開発を手がけた本格ドレス仕立て屋ゲーム「Dressmaker」の同時接続者数が4万3,000人を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "南アフリカのケープタウンで活動する（Broforceでお馴染み）“Free Lives”が設立した新レーベル“Cozy Lives”の第1弾タイトルとして、9月20日に国内外でローンチを果たし、非常に高い評価を獲得してい […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171419.html",
+        "date": "2026-10-05",
+        "is_translated": false
+      },
+      {
+        "title": "10 Near-Perfect Nintendo Switch Games Nobody Played",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The Switch game library is massive, but a lot of people overlook 10 amazing hidden gems.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-nintendo-switch-hidden-gems/",
+        "date": "2026-10-05",
+        "is_translated": true
+      },
+      {
         "title": "美少女全国統一SLG『戦国ランス』Steam版、さっそく「好評率94％」の盛り上がり。やりこみ甲斐も高評価な欲望マシマシ天下統一、Steamでも華々しくデビュー",
         "platform": "AUTOMATON",
         "type": "review",
@@ -232,19 +258,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
-        "date": "2026-10-04",
-        "is_translated": true
-      },
-      {
-        "title": "Xbox Finally Had a Good Week",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "After the Halo-Activision controversy, Microsoft had good news: Gears of War E-Day reviews, Mythic Achievements, and Disc-to-Digital",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/patch-notes-xbox-disc-to-digital/",
         "date": "2026-10-04",
         "is_translated": true
       },
@@ -273,19 +286,6 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
         "date": "2026-10-03",
         "is_translated": true
-      },
-      {
-        "title": "高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門家も監修のリアル生態系づくり、その作り込みを訊いた",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "都市建設型の海洋シミュレーションゲーム『Life Below』を試遊してきた。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261002-471528/",
-        "date": "2026-10-02",
-        "is_translated": false
       }
     ],
     "sale": [
@@ -501,5 +501,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T16:11:22.099011"
+  "last_updated": "2026-10-05T04:46:22.406697"
 }

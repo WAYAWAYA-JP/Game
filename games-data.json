@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "October 2026: Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2, Deep Rock Galactic: Survivor, Cataclismo, Dungeons & Degenerate Gamblers, Asgard's Fall — Viking Survivors, Toy Shire ($14.99)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-06"
+      },
+      {
         "title": "Capcom Classics Bundle (Pay $10 for Resident Evil 3 Nemesis (1999), Resident Evil 2 (1998), Resident Evil (1996), and $20 adds Breath of Fire IV, Dino Crisis 2, Dino Crisis)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -194,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-25"
-      },
-      {
-        "title": "Hidden Art 3 Bundle ($3.49 BPI / $3.99 / 79% OFF/ 17 Steam Games: 100 hidden aliens, birds (1 & 2), cats (1 & 2), dogs, eternals, fish, frogs 2, gnomes, hares, mice, mushrooms, rams, snails (1 & 2), and turtles",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-09-25"
       }
     ],
     "review": [
@@ -236,30 +236,56 @@
         "is_translated": true
       },
       {
-        "title": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem",
-        "platform": "Polygon",
+        "title": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Europe’s PEGI ratings board revealed that GTA 6 will let players use cocaine at any time; here’s how that might affect gameplay.",
+        "description": "Surely Midwest 90: Rapid City isn't the first simmy, Fallouty game where you turn mutated monsters into grub and serve it up to customers in your own diner, is it? None come to mind right now. Let's",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/gta-6-cocaine-drugs-effects/",
+        "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
         "date": "2026-10-06",
         "is_translated": true
       },
       {
-        "title": "Nintendo Switch版「Frostpunk」のローンチが2026年10月19日に決定、体験版の配信もスタート",
-        "platform": "doope!",
+        "title": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "今年4月にNintendo Switch対応がアナウンスされた初代「Frostpunk」ですが、新たに11 bit studiosがNintendo Switch版の発売日をアナウンスし、2026年10月19日に日本語版 […]",
+        "description": "In Dreadline Express, you play a character who awakes in the cabin of a carriage on the last human train. It hurtles down the track, bathed in the red light of an alien sky. At the windows of the car",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171420.html",
-        "date": "2026-10-05",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
+        "title": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Becoming a boost junkie in arcade racers that offer such potent bursts of extra oomph is usually only a matter of time. Star Wars: Galactic Racer is no different. The hooks have been in deep. The va",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
+        "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "For British people who were actively playing games in the late 80s and/or retro enthusiasts looking back at that period of the industry, the name Dizzy might ring a bell (it doesn’t for me, but",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+        "date": "2026-10-06",
+        "is_translated": true
       },
       {
         "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
@@ -514,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T05:33:17.464878"
+  "last_updated": "2026-10-06T17:38:55.354131"
 }

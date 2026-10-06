@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-05"
+        "date": "2026-10-06"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-05"
+        "date": "2026-10-06"
       }
     ],
     "bundle": [
@@ -210,43 +210,69 @@
     ],
     "review": [
       {
-        "title": "南アフリカのCozy Livesが開発を手がけた本格ドレス仕立て屋ゲーム「Dressmaker」の同時接続者数が4万3,000人を突破",
-        "platform": "doope!",
+        "title": "「レベルなし」2.5D壮大RPG『火の言伝』無料体験版配信開始。2人の主人公と2つのパーティ、それぞれ歩む“世界の中心”を目指す旅",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "南アフリカのケープタウンで活動する（Broforceでお馴染み）“Free Lives”が設立した新レーベル“Cozy Lives”の第1弾タイトルとして、9月20日に国内外でローンチを果たし、非常に高い評価を獲得してい […]",
+        "description": "個人開発者の紺ノトバリ氏は『火の言伝』の無料体験版の配信を開始した。対象プラットフォームはPC（Steam）。製品版は2026年11月に発売を予定している。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171419.html",
-        "date": "2026-10-05",
+        "url": "https://automaton-media.com/articles/newsjp/kotodute-20261006-471973/",
+        "date": "2026-10-06",
         "is_translated": false
       },
       {
-        "title": "10 Near-Perfect Nintendo Switch Games Nobody Played",
-        "platform": "Polygon",
+        "title": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "The Switch game library is massive, but a lot of people overlook 10 amazing hidden gems.",
+        "description": "Divine Frequency launches in early access on October 27 with \"70%\" of the final game ready to play.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/best-nintendo-switch-hidden-gems/",
-        "date": "2026-10-05",
+        "url": "https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/",
+        "date": "2026-10-06",
         "is_translated": true
       },
       {
-        "title": "美少女全国統一SLG『戦国ランス』Steam版、さっそく「好評率94％」の盛り上がり。やりこみ甲斐も高評価な欲望マシマシ天下統一、Steamでも華々しくデビュー",
-        "platform": "AUTOMATON",
+        "title": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Kagura Gamesは10月2日、Steamにて『戦国ランス』の配信を開始した。アリスソフトが手がけるターン制ストラテジーゲームとして人気の本作は、Steamでもさっそく高評価を獲得している。",
+        "description": "Europe’s PEGI ratings board revealed that GTA 6 will let players use cocaine at any time; here’s how that might affect gameplay.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sengoku-rance-20261004-471648/",
-        "date": "2026-10-04",
+        "url": "https://www.polygon.com/gta-6-cocaine-drugs-effects/",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
+        "title": "Nintendo Switch版「Frostpunk」のローンチが2026年10月19日に決定、体験版の配信もスタート",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年4月にNintendo Switch対応がアナウンスされた初代「Frostpunk」ですが、新たに11 bit studiosがNintendo Switch版の発売日をアナウンスし、2026年10月19日に日本語版 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171420.html",
+        "date": "2026-10-05",
         "is_translated": false
+      },
+      {
+        "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "An exclusive early look at the upcoming playtest for Blood Bowl's next iteration.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
+        "date": "2026-10-05",
+        "is_translated": true
       },
       {
         "title": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
@@ -260,19 +286,6 @@
         "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
         "date": "2026-10-04",
         "is_translated": true
-      },
-      {
-        "title": "恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“正確さこだわり再現”された約2000個の骨を仕分ける、まったり黙々作業",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Indie Souls Studioは9月25日、『DinoBones: Tidy Up the Museum』をリリースした。さっそく高い評価を獲得している。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261003-471595/",
-        "date": "2026-10-03",
-        "is_translated": false
       },
       {
         "title": "What are we all playing this weekend?",
@@ -501,5 +514,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-05T04:46:22.406697"
+  "last_updated": "2026-10-06T05:33:17.464878"
 }

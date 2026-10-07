@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-06"
+        "date": "2026-10-07"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-06"
+        "date": "2026-10-07"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-06"
+        "date": "2026-10-07"
       },
       {
         "title": "Capcom Classics Bundle (Pay $10 for Resident Evil 3 Nemesis (1999), Resident Evil 2 (1998), Resident Evil (1996), and $20 adds Breath of Fire IV, Dino Crisis 2, Dino Crisis)",
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "映画少年ロマンと全身クローム少女タリアの出会いを描く「サイバーパンク: エッジランナーズ2」の新たな本編映像が公開、公開は2026年10月20日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、第1話試写会・舞台挨拶レポートをご紹介したアニメ「サイバーパンク: エッジランナーズ2」ですが、2026年10月20日の配信開始がいよいよ目前に迫るなか、新たにNetflixが第2弾本編映像を公開。映画好きの少年ロ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171492.html",
+        "date": "2026-10-07",
+        "is_translated": false
+      },
+      {
         "title": "「レベルなし」2.5D壮大RPG『火の言伝』無料体験版配信開始。2人の主人公と2つのパーティ、それぞれ歩む“世界の中心”を目指す旅",
         "platform": "AUTOMATON",
         "type": "review",
@@ -221,6 +234,32 @@
         "url": "https://automaton-media.com/articles/newsjp/kotodute-20261006-471973/",
         "date": "2026-10-06",
         "is_translated": false
+      },
+      {
+        "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
+        "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Gears has never felt better to play, or more creatively stagnant.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+        "date": "2026-10-06",
+        "is_translated": true
       },
       {
         "title": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
@@ -288,6 +327,19 @@
         "is_translated": true
       },
       {
+        "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
         "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
         "platform": "PC Gamer",
         "type": "review",
@@ -298,19 +350,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
         "date": "2026-10-05",
-        "is_translated": true
-      },
-      {
-        "title": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The designer of 2025's celebrated puzzler guides us through the games on his PC.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
-        "date": "2026-10-04",
         "is_translated": true
       },
       {
@@ -540,5 +579,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T17:38:55.354131"
+  "last_updated": "2026-10-07T05:04:21.836430"
 }

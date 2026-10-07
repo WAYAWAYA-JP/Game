@@ -28,6 +28,30 @@
     ],
     "bundle": [
       {
+        "title": "Beyond Reality: Sci-Fi & Survival VR Collection (Pay $5 for Blair Witch VR, Z.O.N.A Project X VR, $10 adds Z.O.N.A: Origin, Layers of Fear VR, A Rogue Escape, and $15 adds Star Trek: Infection, Homeworld: Vast Reaches)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Humble Indie Fighters Bundle (Pay $5 for Divekick, Lethal League Blaze, Skullgirls 2nd Encore, $12 adds Rivals of Aether, Blazing Strike, Terrordrome - Reign of the Legends, and $16 adds Rivals of Aether II, Pocket Bravery)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-07"
+      },
+      {
         "title": "October 2026: Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2, Deep Rock Galactic: Survivor, Cataclismo, Dungeons & Degenerate Gamblers, Asgard's Fall — Viking Survivors, Toy Shire ($14.99)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -182,30 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-09-25"
-      },
-      {
-        "title": "Trineverse Triple Co-Op Pack (Pay $10 for Trine 4: The Nightmare Prince, Nine Parchments, Trine 3: The Artifacts of Power, Trine 2: Complete Story, Trine EE, $14 for 2 copies of each games and $18 for 3 copies of each games)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Best of Humble Bundle - Indie Fears Bundle (Pay $13 for Mouthwashing, The Headliners, Buckshot Roulette, PANICORE, Arctic Eggs, Who's Lila?, ORDER 13, Mama's Sleeping Angels, THRESHOLD, s.p.l.i.t, NO-SKIN, Kiosk, The Skin Stapler, Flesh Made Fear)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-25"
       }
     ],
     "review": [
@@ -223,17 +223,30 @@
         "is_translated": false
       },
       {
-        "title": "「レベルなし」2.5D壮大RPG『火の言伝』無料体験版配信開始。2人の主人公と2つのパーティ、それぞれ歩む“世界の中心”を目指す旅",
-        "platform": "AUTOMATON",
+        "title": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "個人開発者の紺ノトバリ氏は『火の言伝』の無料体験版の配信を開始した。対象プラットフォームはPC（Steam）。製品版は2026年11月に発売を予定している。",
+        "description": "Frozen Trail is a big moment for Arc Raiders.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/kotodute-20261006-471973/",
-        "date": "2026-10-06",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+        "date": "2026-10-07",
+        "is_translated": true
+      },
+      {
+        "title": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "There was a time when open worlds made of flying islands really seemed like the New Hotness. I guess The Legend of Zelda: Tears of the Kingdom is the obvious trendsetter, but my mind always returns t",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+        "date": "2026-10-07",
+        "is_translated": true
       },
       {
         "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
@@ -324,45 +337,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
         "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "An exclusive early look at the upcoming playtest for Blood Bowl's next iteration.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-        "date": "2026-10-05",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that much harder. Still,",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
-        "date": "2026-10-03",
         "is_translated": true
       }
     ],
@@ -579,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-07T05:04:21.836430"
+  "last_updated": "2026-10-07T18:10:51.352707"
 }

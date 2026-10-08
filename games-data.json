@@ -2,24 +2,24 @@
   "pc": {
     "free": [
       {
-        "title": "System Shock 2: 25th Anniversary Remaster - Epic Games 無料配布中",
+        "title": "Out of Sight - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
+        "description": "『Out of Sight』は一人称と二人称視点、そして魅力的な声優の演技をブレンドした、没入感満載のホラーゲーム。背筋が凍るような感情的な旅へとプレイヤーを引き込んでいく。",
         "price": "無料",
-        "originalPrice": "¥2,880",
+        "originalPrice": "¥1,700",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-10-08"
       },
       {
-        "title": "ベリード・スターズ - Epic Games 無料配布中",
+        "title": "TerraScape - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『ベリード・スターズ』は、生放送中のサバイバルオーディション番組の崩壊事故現場を舞台にしたミステリーアドベンチャーゲームです。 閉じ込められた出演者たちは互いに、そしてSNSを通じて外部と繋がりながら救助を待ちますが、思いがけない事件が発生し、信頼と生存が揺らぎ始めます。",
+        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
         "price": "無料",
-        "originalPrice": "¥4,100",
+        "originalPrice": "¥1,650",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -27,6 +27,30 @@
       }
     ],
     "bundle": [
+      {
+        "title": "The Triple-i Initiative Showcase Bundle (Pay $8 for Gestalt: Steam & Cinder, WHAT THE CAR?, $10 adds Cat Quest III, 33 Immortals, Endzone 2, and $13 adds X4: Foundations, The Last Spell - Complete Edition, My Time at Sandrock)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Take Two - Gearbox Sale - Borderlands 4 (€30.69 -56% off / £25.99 -56% off / $30.60 -56% off), Risk of Rain 2 (€7.69 -69% off / £5.99 -70% off / $7.49 -70% off), Borderlands Collection: Pandora's Box (€31.99 -54% off / £25.99 -53% off / $33.90 -51% off), EU, UK, US | Steam Activation",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-08"
+      },
       {
         "title": "Beyond Reality: Sci-Fi & Survival VR Collection (Pay $5 for Blair Witch VR, Z.O.N.A Project X VR, $10 adds Z.O.N.A: Origin, Layers of Fear VR, A Rogue Escape, and $15 adds Star Trek: Infection, Homeworld: Vast Reaches)",
         "platform": "Humble Bundle",
@@ -182,33 +206,61 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-09-30"
-      },
-      {
-        "title": "Build Your Own Fall Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-26"
-      },
-      {
-        "title": "[Fanatical] Daedalic - Gigantic Bundle ($2.79/96% off)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-09-25"
       }
     ],
     "review": [
+      {
+        "title": "Steamで昨日まで「100%好評」だった縦STG『X-Force Under Attack』10月30日に販売終了へ。今だけ140円、販売終了に抵抗する悲しみの低評価1件",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Cube Gamesは10月6日、シューティングゲーム『X-Force Under Attack』を10月30日に販売終了すると発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261008-472531/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "高評価寿司レースゲーム『わびさび寿司ダービー』には、「裏ワザ」がまだ眠ってるらしい。開発者に訊いた寿司になった理由や高評価の秘訣、そして裏技コマンド",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「OSAKA INDIE GAMES SUMMIT 2026」で実施した、寿司育成レースゲーム『わびさび寿司ダービー』の開発者ゅゆゆ氏へのインタビューをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/wabisabi-20261008-472492/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "不穏すぎる夜散歩ゲーム、人気フリーゲーム進化版『Dungeon Sweeper Plus』、スケボー騎士ローグライトのSteam無料体験版が一挙配信。PLAYISMの尖り新作3連発",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PLAYISMは10月8日、『Skateboard Knight / スケボーナイト』『A Passing in the Night』『Dungeon Sweeper Plus』の体験版を一挙配信開始した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261008-472463/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "『ケロロ軍曹☆ ハチャメチャTVショー　～賞金ゲット大作戦であります！～』12月9日発売決定。無料体験版も配信で、ギロロの“あのゲー”など25ステージたっぷり遊べる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "RENGAMEは、『ケロロ軍曹☆ ハチャメチャTVショー ～賞金ゲット大作戦であります！～』をケロロ軍曹の誕生日でもある12月9日に発売することを発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261008-472424/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
       {
         "title": "『朧村正怪奇譚』先行プレイ感想。ヴァニラウェア和風人気作がリマスター……かと思いきや手触りごと別物に、“快斬”を可能にした手直し要素たくさん",
         "platform": "AUTOMATON",
@@ -223,17 +275,30 @@
         "is_translated": false
       },
       {
-        "title": "“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Company」を手がけたBit Reactorが一時解雇していた従業員の復帰手続きを開始",
+        "title": "城建設シミュレーションシリーズ最新作「Stronghold 4」の発売日が2026年12月7日に決定、新たな体験版の配信も",
         "platform": "doope!",
         "type": "review",
-        "description": "8月末に待望のローンチを果たし、非常に高い評価を獲得した“スター・ウォーズ”テーマのXCOM系ターン制ストラテジー「STAR WARS Zero Company」ですが、発売直前に80％近い従業員を一時解雇していた開発ス […]",
+        "description": "実に15年ぶりとなる人気城建設シミュレーションシリーズ最新作として、今年6月にアナウンスされ、先日スカーミッシュモードに焦点を当てるトレーラーをご紹介した「Stronghold 4」ですが、本日放送された“Triple- […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171499.html",
+        "url": "https://doope.jp/2026/10171605.html",
         "date": "2026-10-08",
         "is_translated": false
+      },
+      {
+        "title": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The GTA 6 leaker or leakers that previously shared enough alleged gameplay to prompt Rockstar Games and Take-Two to begin the legal process of hunting them down appear to have returned, with a new 25",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
+        "date": "2026-10-08",
+        "is_translated": true
       },
       {
         "title": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
@@ -249,19 +314,6 @@
         "is_translated": true
       },
       {
-        "title": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Frozen Trail is a big moment for Arc Raiders.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
         "title": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -272,32 +324,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
         "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Gears has never felt better to play, or more creatively stagnant.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-        "date": "2026-10-06",
         "is_translated": true
       },
       {
@@ -336,19 +362,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "For British people who were actively playing games in the late 80s and/or retro enthusiasts looking back at that period of the industry, the name Dizzy might ring a bell (it doesn’t for me, but",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
         "date": "2026-10-06",
         "is_translated": true
       }
@@ -566,5 +579,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T05:14:27.612630"
+  "last_updated": "2026-10-08T18:12:22.238892"
 }

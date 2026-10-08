@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       },
       {
         "title": "ベリード・スターズ - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       },
       {
         "title": "Humble Indie Fighters Bundle (Pay $5 for Divekick, Lethal League Blaze, Skullgirls 2nd Encore, $12 adds Rivals of Aether, Blazing Strike, Terrordrome - Reign of the Legends, and $16 adds Rivals of Aether II, Pocket Bravery)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       },
       {
         "title": "October 2026: Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2, Deep Rock Galactic: Survivor, Cataclismo, Dungeons & Degenerate Gamblers, Asgard's Fall — Viking Survivors, Toy Shire ($14.99)",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-07"
+        "date": "2026-10-08"
       },
       {
         "title": "Capcom Classics Bundle (Pay $10 for Resident Evil 3 Nemesis (1999), Resident Evil 2 (1998), Resident Evil (1996), and $20 adds Breath of Fire IV, Dino Crisis 2, Dino Crisis)",
@@ -210,17 +210,43 @@
     ],
     "review": [
       {
-        "title": "映画少年ロマンと全身クローム少女タリアの出会いを描く「サイバーパンク: エッジランナーズ2」の新たな本編映像が公開、公開は2026年10月20日",
-        "platform": "doope!",
+        "title": "『朧村正怪奇譚』先行プレイ感想。ヴァニラウェア和風人気作がリマスター……かと思いきや手触りごと別物に、“快斬”を可能にした手直し要素たくさん",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "先日、第1話試写会・舞台挨拶レポートをご紹介したアニメ「サイバーパンク: エッジランナーズ2」ですが、2026年10月20日の配信開始がいよいよ目前に迫るなか、新たにNetflixが第2弾本編映像を公開。映画好きの少年ロ […]",
+        "description": "一見、純粋なHDリマスター版にも思える本作だが、実際に触れてみると、その言葉で一括りにするのは難しい内容だった。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171492.html",
-        "date": "2026-10-07",
+        "url": "https://automaton-media.com/articles/reportjp/oboro-20261008-472338/",
+        "date": "2026-10-08",
         "is_translated": false
+      },
+      {
+        "title": "“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Company」を手がけたBit Reactorが一時解雇していた従業員の復帰手続きを開始",
+        "platform": "doope!",
+        "type": "review",
+        "description": "8月末に待望のローンチを果たし、非常に高い評価を獲得した“スター・ウォーズ”テーマのXCOM系ターン制ストラテジー「STAR WARS Zero Company」ですが、発売直前に80％近い従業員を一時解雇していた開発ス […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171499.html",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "An avalanche of fascinating characters carrying an alright shop sim on their backs.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+        "date": "2026-10-07",
+        "is_translated": true
       },
       {
         "title": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
@@ -271,19 +297,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Divine Frequency launches in early access on October 27 with \"70%\" of the final game ready to play.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/",
         "date": "2026-10-06",
         "is_translated": true
       },
@@ -553,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-07T18:10:51.352707"
+  "last_updated": "2026-10-08T05:14:27.612630"
 }

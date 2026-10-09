@@ -28,6 +28,30 @@
     ],
     "bundle": [
       {
+        "title": "Build Your Own All Stars Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[Newegg] Destiny 2: The Collection [Steam Code] ($19.99, 71% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-09"
+      },
+      {
         "title": "Story-Rich Megabundle - Includes Consume Me, despelote, Until Then, Umurangi Generation, A Highland Song, Kraken Academy!!, Betrayal At Club Low, Wander Stars, No Case Should Remain Unsolved, and Kulebra and the Souls of Limbo ($24.57 / 50% off)",
         "platform": "Steam",
         "type": "bundle",
@@ -182,30 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-01"
-      },
-      {
-        "title": "Build Your Own Platinum Collection",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Build Your Own Retro Revival Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-01"
       }
     ],
     "review": [
@@ -223,30 +223,17 @@
         "is_translated": false
       },
       {
-        "title": "Steamで昨日まで「100%好評」だった縦STG『X-Force Under Attack』10月30日に販売終了へ。今だけ140円、販売終了に抵抗する悲しみの低評価1件",
-        "platform": "AUTOMATON",
+        "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Cube Gamesは10月6日、シューティングゲーム『X-Force Under Attack』を10月30日に販売終了すると発表した。",
+        "description": "Cyberpunk 2077 quest mods are still a relative rarity and the latest's aimed at folks who don't think getting to play that one gig with Samurai during the main story's enough jammin' in front of a cr",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261008-472531/",
-        "date": "2026-10-08",
-        "is_translated": false
-      },
-      {
-        "title": "高評価寿司レースゲーム『わびさび寿司ダービー』には、「裏ワザ」がまだ眠ってるらしい。開発者に訊いた寿司になった理由や高評価の秘訣、そして裏技コマンド",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「OSAKA INDIE GAMES SUMMIT 2026」で実施した、寿司育成レースゲーム『わびさび寿司ダービー』の開発者ゅゆゆ氏へのインタビューをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/wabisabi-20261008-472492/",
-        "date": "2026-10-08",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
+        "date": "2026-10-09",
+        "is_translated": true
       },
       {
         "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
@@ -285,19 +272,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
         "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Surely Midwest 90: Rapid City isn't the first simmy, Fallouty game where you turn mutated monsters into grub and serve it up to customers in your own diner, is it? None come to mind right now. Let's",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
-        "date": "2026-10-06",
         "is_translated": true
       }
     ],
@@ -514,5 +488,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-09T05:16:04.199476"
+  "last_updated": "2026-10-09T17:45:16.456538"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "bundle": [
+      {
+        "title": "Story-Rich Megabundle - Includes Consume Me, despelote, Until Then, Umurangi Generation, A Highland Song, Kraken Academy!!, Betrayal At Club Low, Wander Stars, No Case Should Remain Unsolved, and Kulebra and the Souls of Limbo ($24.57 / 50% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "収録: Consume Me、despelote、Until Then",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-09"
+      },
       {
         "title": "The Triple-i Initiative Showcase Bundle (Pay $8 for Gestalt: Steam & Cinder, WHAT THE CAR?, $10 adds Cat Quest III, 33 Immortals, Endzone 2, and $13 adds X4: Foundations, The Last Spell - Complete Edition, My Time at Sandrock)",
         "platform": "Humble Bundle",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "title": "Take Two - Gearbox Sale - Borderlands 4 (€30.69 -56% off / £25.99 -56% off / $30.60 -56% off), Risk of Rain 2 (€7.69 -69% off / £5.99 -70% off / $7.49 -70% off), Borderlands Collection: Pandora's Box (€31.99 -54% off / £25.99 -53% off / $33.90 -51% off), EU, UK, US | Steam Activation",
@@ -49,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "title": "Beyond Reality: Sci-Fi & Survival VR Collection (Pay $5 for Blair Witch VR, Z.O.N.A Project X VR, $10 adds Z.O.N.A: Origin, Layers of Fear VR, A Rogue Escape, and $15 adds Star Trek: Infection, Homeworld: Vast Reaches)",
@@ -194,21 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-01"
-      },
-      {
-        "title": "Programming Puzzles Bundle (Pay $6 for Replicube, while True: learn(), SOLAS 128, $8 adds Linkito, The Signal State, $10 adds Quantum Odyssey, and $14 adds Retro Gadgets)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-09-30"
       }
     ],
     "review": [
+      {
+        "title": "『The Witness』作者の10年ぶり新作『Order of the Sinking Star』、さっそくSteamで“97％高評価”。「1000問超のパズル」が物量で迫る、濃密すぎ大迷宮",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Arc Gamesは10月9日、Theklaが手がける『Order of the Sinking Star』のPC（Steam）版を配信開始した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261009-472761/",
+        "date": "2026-10-09",
+        "is_translated": false
+      },
       {
         "title": "Steamで昨日まで「100%好評」だった縦STG『X-Force Under Attack』10月30日に販売終了へ。今だけ140円、販売終了に抵抗する悲しみの低評価1件",
         "platform": "AUTOMATON",
@@ -236,56 +249,17 @@
         "is_translated": false
       },
       {
-        "title": "不穏すぎる夜散歩ゲーム、人気フリーゲーム進化版『Dungeon Sweeper Plus』、スケボー騎士ローグライトのSteam無料体験版が一挙配信。PLAYISMの尖り新作3連発",
-        "platform": "AUTOMATON",
+        "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "PLAYISMは10月8日、『Skateboard Knight / スケボーナイト』『A Passing in the Night』『Dungeon Sweeper Plus』の体験版を一挙配信開始した。",
+        "description": "I love an everything seasoning video game. You know, the kind of game where it's five different genres at once, somehow, all of which builds into one cohesive vision? It's not an easy thing to pull",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261008-472463/",
+        "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
         "date": "2026-10-08",
-        "is_translated": false
-      },
-      {
-        "title": "『ケロロ軍曹☆ ハチャメチャTVショー　～賞金ゲット大作戦であります！～』12月9日発売決定。無料体験版も配信で、ギロロの“あのゲー”など25ステージたっぷり遊べる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "RENGAMEは、『ケロロ軍曹☆ ハチャメチャTVショー ～賞金ゲット大作戦であります！～』をケロロ軍曹の誕生日でもある12月9日に発売することを発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261008-472424/",
-        "date": "2026-10-08",
-        "is_translated": false
-      },
-      {
-        "title": "『朧村正怪奇譚』先行プレイ感想。ヴァニラウェア和風人気作がリマスター……かと思いきや手触りごと別物に、“快斬”を可能にした手直し要素たくさん",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "一見、純粋なHDリマスター版にも思える本作だが、実際に触れてみると、その言葉で一括りにするのは難しい内容だった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/oboro-20261008-472338/",
-        "date": "2026-10-08",
-        "is_translated": false
-      },
-      {
-        "title": "城建設シミュレーションシリーズ最新作「Stronghold 4」の発売日が2026年12月7日に決定、新たな体験版の配信も",
-        "platform": "doope!",
-        "type": "review",
-        "description": "実に15年ぶりとなる人気城建設シミュレーションシリーズ最新作として、今年6月にアナウンスされ、先日スカーミッシュモードに焦点を当てるトレーラーをご紹介した「Stronghold 4」ですが、本日放送された“Triple- […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171605.html",
-        "date": "2026-10-08",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
@@ -298,19 +272,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
         "date": "2026-10-08",
-        "is_translated": true
-      },
-      {
-        "title": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "An avalanche of fascinating characters carrying an alright shop sim on their backs.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
-        "date": "2026-10-07",
         "is_translated": true
       },
       {
@@ -336,32 +297,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "In Dreadline Express, you play a character who awakes in the cabin of a carriage on the last human train. It hurtles down the track, bathed in the red light of an alien sky. At the windows of the car",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Becoming a boost junkie in arcade racers that offer such potent bursts of extra oomph is usually only a matter of time. Star Wars: Galactic Racer is no different. The hooks have been in deep. The va",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
         "date": "2026-10-06",
         "is_translated": true
       }
@@ -579,5 +514,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T18:12:22.238892"
+  "last_updated": "2026-10-09T05:16:04.199476"
 }

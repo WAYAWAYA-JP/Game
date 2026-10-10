@@ -210,6 +210,45 @@
     ],
     "review": [
       {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The descent into autumn continues: this week I slept with an extra blanket on the bed. I'm not into swapping the duvet out for the winter tog yet, I'll be holding off on that until at least December,",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
+        "date": "2026-10-10",
+        "is_translated": true
+      },
+      {
+        "title": "Star Citizen Spinoff Squadron 42 Officially Reveals Huge Cast in New Look",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The 'Star Citizen' spinoff 'Squadron 42' got a new trailer featuring gameplay and cinematics.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-citizen-squadron-42-trailer-gameplay-cast/",
+        "date": "2026-10-10",
+        "is_translated": true
+      },
+      {
+        "title": "Ray Gunn Review: The Grown-Up Pixar Movie of Brad Bird's Dreams",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The director of Incredibles, Ratatouille, Iron Giant returns with one of Netflix's best animated movies not for kids.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ray-gunn-review-netflix-brad-bird/",
+        "date": "2026-10-10",
+        "is_translated": true
+      },
+      {
         "title": "『The Witness』作者の10年ぶり新作『Order of the Sinking Star』、さっそくSteamで“97％高評価”。「1000問超のパズル」が物量で迫る、濃密すぎ大迷宮",
         "platform": "AUTOMATON",
         "type": "review",
@@ -488,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T05:01:05.948477"
+  "last_updated": "2026-10-10T16:38:28.184085"
 }

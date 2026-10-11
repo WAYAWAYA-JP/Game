@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-10"
+        "date": "2026-10-11"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-10"
+        "date": "2026-10-11"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-10"
+        "date": "2026-10-11"
       },
       {
         "title": "[Newegg] Destiny 2: The Collection [Steam Code] ($19.99, 71% off)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-10"
+        "date": "2026-10-11"
       },
       {
         "title": "Story-Rich Megabundle - Includes Consume Me, despelote, Until Then, Umurangi Generation, A Highland Song, Kraken Academy!!, Betrayal At Club Low, Wander Stars, No Case Should Remain Unsolved, and Kulebra and the Souls of Limbo ($24.57 / 50% off)",
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Crimson Desert looks like a perfectly fine game. I've not played it, and I don't intend to, so my perspective is based predominantly on trailers and reviews from my industry peers. Which, as it happ",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
+        "date": "2026-10-10",
+        "is_translated": true
+      },
+      {
         "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -219,32 +232,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
-        "date": "2026-10-10",
-        "is_translated": true
-      },
-      {
-        "title": "Star Citizen Spinoff Squadron 42 Officially Reveals Huge Cast in New Look",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The 'Star Citizen' spinoff 'Squadron 42' got a new trailer featuring gameplay and cinematics.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/star-citizen-squadron-42-trailer-gameplay-cast/",
-        "date": "2026-10-10",
-        "is_translated": true
-      },
-      {
-        "title": "Ray Gunn Review: The Grown-Up Pixar Movie of Brad Bird's Dreams",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The director of Incredibles, Ratatouille, Iron Giant returns with one of Netflix's best animated movies not for kids.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ray-gunn-review-netflix-brad-bird/",
         "date": "2026-10-10",
         "is_translated": true
       },
@@ -298,19 +285,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
         "date": "2026-10-08",
-        "is_translated": true
-      },
-      {
-        "title": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "There was a time when open worlds made of flying islands really seemed like the New Hotness. I guess The Legend of Zelda: Tears of the Kingdom is the obvious trendsetter, but my mind always returns t",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
-        "date": "2026-10-07",
         "is_translated": true
       }
     ],
@@ -527,5 +501,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T16:38:28.184085"
+  "last_updated": "2026-10-11T04:49:32.138561"
 }

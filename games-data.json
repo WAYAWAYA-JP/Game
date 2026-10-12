@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "Cozy After Dark Showcase Bundle (Pay $8 for Paradise Killer, Escape From Mystwood Mansion, a pet shop after dark, The Darkside Detective, Kathy Rain Directors Cut, and $12 adds Gloomy Eyes, Cabernet, Spooky Express, Fear the Spotlight, Kulebra and the Souls of Limbo)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-12"
+      },
+      {
         "title": "Build Your Own All Stars Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -194,21 +206,35 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-01"
-      },
-      {
-        "title": "2D Rewind Collection from S2 Games (Pay $5 for Samorost 3, CHUCHEL, Freedom Planet, Not Tonight, $8 adds Luck be a Landlord, Karate Survivor, NORCO, and $14 adds River City Girls 2, River City Girls, Nova Drift, Freedom Planet 2, Rainbow Legends, Folklands)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-01"
       }
     ],
     "review": [
+      {
+        "title": "メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も高い。シビアなリソース管理をこなし、異形うごめく田舎町の秘密を暴く",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Team17は10月9日、Wych Elmが手がける『Silver Pines』を配信した。本作は私立探偵として田舎町を探索する、メトロイドヴァニア型のサバイバルホラーゲームだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/silver-pines-20261012-473085/",
+        "date": "2026-10-12",
+        "is_translated": false
+      },
+      {
+        "title": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"I don't think critics had a fair chance to explore.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
       {
         "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
         "platform": "PC Gamer",
@@ -223,15 +249,28 @@
         "is_translated": true
       },
       {
-        "title": "11 Replay Ideas to Make Stardew Valley Feel New Again",
-        "platform": "Polygon",
+        "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Stardew Valley begs to be replayed, though after hundreds of hours, what comes next? Here are the best Stardew Valley replay ideas and challenge runs.",
+        "description": "Well, I say \"freshest.\" In its ickily up-close vision of Napoleonic battlefields, swapping the boring old bubonic plague for a fleshy, pustulating necro-blight, Valor Mortis is as horrid and grim as",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/stardew-valley-challenge-runs-replay-ideas/",
+        "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "'Visionquest' Review: The Brilliant Sendoff Marvel's Streaming Era Deserves",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "As the MCU retreats from Disney Plus, VisionQuest is a perfect bookend to an experiment that began five years earlier with WandaVision",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/visionquest-review-marvel/",
         "date": "2026-10-12",
         "is_translated": true
       },
@@ -245,19 +284,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-        "date": "2026-10-11",
-        "is_translated": true
-      },
-      {
-        "title": "3 Essential Remedy Games To Play After Control Resonant",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "After playing Control Resonant, try these games from Remedy Entertainment that expand the lore even more.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/control-resonant-games-to-play/",
         "date": "2026-10-11",
         "is_translated": true
       },
@@ -288,19 +314,6 @@
         "is_translated": true
       },
       {
-        "title": "『The Witness』作者の10年ぶり新作『Order of the Sinking Star』、さっそくSteamで“97％高評価”。「1000問超のパズル」が物量で迫る、濃密すぎ大迷宮",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Arc Gamesは10月9日、Theklaが手がける『Order of the Sinking Star』のPC（Steam）版を配信開始した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261009-472761/",
-        "date": "2026-10-09",
-        "is_translated": false
-      },
-      {
         "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -323,19 +336,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-        "date": "2026-10-08",
-        "is_translated": true
-      },
-      {
-        "title": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The GTA 6 leaker or leakers that previously shared enough alleged gameplay to prompt Rockstar Games and Take-Two to begin the legal process of hunting them down appear to have returned, with a new 25",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
         "date": "2026-10-08",
         "is_translated": true
       }
@@ -553,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-12T05:05:52.753093"
+  "last_updated": "2026-10-12T20:38:30.450058"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-11"
+        "date": "2026-10-12"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-11"
+        "date": "2026-10-12"
       }
     ],
     "bundle": [
@@ -209,6 +209,58 @@
       }
     ],
     "review": [
+      {
+        "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"You can't know if you can feel the system until you can play the system.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "11 Replay Ideas to Make Stardew Valley Feel New Again",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Stardew Valley begs to be replayed, though after hundreds of hours, what comes next? Here are the best Stardew Valley replay ideas and challenge runs.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/stardew-valley-challenge-runs-replay-ideas/",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "PvP pinball is such a good idea I can't believe I haven't played it before",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Bumper Bout has a demo on Steam right now.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+        "date": "2026-10-11",
+        "is_translated": true
+      },
+      {
+        "title": "3 Essential Remedy Games To Play After Control Resonant",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "After playing Control Resonant, try these games from Remedy Entertainment that expand the lore even more.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-games-to-play/",
+        "date": "2026-10-11",
+        "is_translated": true
+      },
       {
         "title": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
         "platform": "Rock Paper Shotgun",
@@ -501,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T17:03:18.170982"
+  "last_updated": "2026-10-12T05:05:52.753093"
 }

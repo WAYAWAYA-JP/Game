@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "架空の1980年代アメリカを描くサイバーパンク2.5Dアクション「REPLACED」のモバイル対応がアナウンス、発売は12月8日",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ウクライナとベラルーシ出身の開発者が多く在籍するスタジオSad Cat Studiosのデビュー作として2021年11月にアナウンスされ、今年4月にローンチを果たし、高い評価を獲得したSad Cat Studiosのサイ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171776.html",
+        "date": "2026-10-13",
+        "is_translated": false
+      },
+      {
         "title": "仏Sloclapの人気カンフーアクション「Sifu」のモバイル版が本日発売",
         "platform": "doope!",
         "type": "review",
@@ -223,17 +236,56 @@
         "is_translated": false
       },
       {
-        "title": "「リ・ストーリー: 思い出修理屋」のモバイル対応がアナウンス、発売は今年後半",
-        "platform": "doope!",
+        "title": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "今年8月のローンチを経て高い評価を獲得し、50万本販売突破が報じられた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、新たにtinyBuildとMandragoraが本作のモバイル対応をアナウンスし、Andr […]",
+        "description": "The animals are as beautiful as ever, but they're trapped in a cage of rote micromanagement.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171741.html",
+        "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
         "date": "2026-10-13",
-        "is_translated": false
+        "is_translated": true
+      },
+      {
+        "title": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Going Medieval may have been in early access for almost five years, but even after it arrived in 1.0 back in March developer Foxy Voxel have continued to build upon it. The sim's latest update has a",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+        "date": "2026-10-13",
+        "is_translated": true
+      },
+      {
+        "title": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Well, that's happening quicker than I'd anticipated. This is both what the actress said to the bishop and my immediate reaction to a report which claims GTA 6 is planned to release on PC in the openi",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
+        "date": "2026-10-13",
+        "is_translated": true
+      },
+      {
+        "title": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The main selling point of Tekken 8's Season 3 DLC pass, alongside veterans Kunimitsu, Bob and Roger Jr, is Yujiro Hanma, the main antagonist of fighting manga Baki and father of its eponymous protago",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
+        "date": "2026-10-13",
+        "is_translated": true
       },
       {
         "title": "メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も高い。シビアなリソース管理をこなし、異形うごめく田舎町の秘密を暴く",
@@ -262,19 +314,6 @@
         "is_translated": true
       },
       {
-        "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"You can't know if you can feel the system until you can play the system.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
         "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -288,19 +327,6 @@
         "is_translated": true
       },
       {
-        "title": "PvP pinball is such a good idea I can't believe I haven't played it before",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Bumper Bout has a demo on Steam right now.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-        "date": "2026-10-11",
-        "is_translated": true
-      },
-      {
         "title": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -311,45 +337,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
         "date": "2026-10-10",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The descent into autumn continues: this week I slept with an extra blanket on the bed. I'm not into swapping the duvet out for the winter tog yet, I'll be holding off on that until at least December,",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
-        "date": "2026-10-10",
-        "is_translated": true
-      },
-      {
-        "title": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Cyberpunk 2077 quest mods are still a relative rarity and the latest's aimed at folks who don't think getting to play that one gig with Samurai during the main story's enough jammin' in front of a cr",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-        "date": "2026-10-09",
-        "is_translated": true
-      },
-      {
-        "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I love an everything seasoning video game. You know, the kind of game where it's five different genres at once, somehow, all of which builds into one cohesive vision? It's not an easy thing to pull",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-        "date": "2026-10-08",
         "is_translated": true
       }
     ],
@@ -566,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T06:05:25.457650"
+  "last_updated": "2026-10-13T18:41:46.171132"
 }

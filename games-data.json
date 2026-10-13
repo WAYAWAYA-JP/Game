@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-12"
+        "date": "2026-10-13"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-12"
+        "date": "2026-10-13"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-12"
+        "date": "2026-10-13"
       },
       {
         "title": "Build Your Own All Stars Bundle",
@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "仏Sloclapの人気カンフーアクション「Sifu」のモバイル版が本日発売",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2022年2月のローンチを経て、高い評価を獲得し、先日モバイル版の発売日が報じられた仏Sloclapのカンフーアクション「Sifu」ですが、本日予定通り国内外のApp StoreとGoogle PlayストアにてiOSと […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171747.html",
+        "date": "2026-10-13",
+        "is_translated": false
+      },
+      {
+        "title": "「リ・ストーリー: 思い出修理屋」のモバイル対応がアナウンス、発売は今年後半",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年8月のローンチを経て高い評価を獲得し、50万本販売突破が報じられた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、新たにtinyBuildとMandragoraが本作のモバイル対応をアナウンスし、Andr […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171741.html",
+        "date": "2026-10-13",
+        "is_translated": false
+      },
+      {
         "title": "メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も高い。シビアなリソース管理をこなし、異形うごめく田舎町の秘密を暴く",
         "platform": "AUTOMATON",
         "type": "review",
@@ -258,19 +284,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "'Visionquest' Review: The Brilliant Sendoff Marvel's Streaming Era Deserves",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "As the MCU retreats from Disney Plus, VisionQuest is a perfect bookend to an experiment that began five years earlier with WandaVision",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/visionquest-review-marvel/",
         "date": "2026-10-12",
         "is_translated": true
       },
@@ -553,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-12T20:38:30.450058"
+  "last_updated": "2026-10-13T06:05:25.457650"
 }

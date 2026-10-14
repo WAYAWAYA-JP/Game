@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Halo: The Master Chief Collection ($9.99/75% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-14"
+      },
       {
         "title": "Cozy After Dark Showcase Bundle (Pay $8 for Paradise Killer, Escape From Mystwood Mansion, a pet shop after dark, The Darkside Detective, Kathy Rain Directors Cut, and $12 adds Gloomy Eyes, Cabernet, Spooky Express, Fear the Spotlight, Kulebra and the Souls of Limbo)",
         "platform": "Humble Bundle",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-13"
+        "date": "2026-10-14"
       },
       {
         "title": "Build Your Own All Stars Bundle",
@@ -194,46 +206,34 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-02"
-      },
-      {
-        "title": "Dying Light 2: Stay Human Complete DLC Bundle (Pay $6 for DL2 SH: Chicken, DL2 SH: Brecken, DL2 SH: Rais, DL2 SH: Dying Laugh, $9 adds DL2 SH: Hakon, DL2 SH: Gunslinger, DL2 SH: Post-apo, DL2 SH: Nightrunner, 1 more, and $12 adds DL2 SH- Welcome Offer: Essential Starter Kit, 3 more)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-01"
       }
     ],
     "review": [
       {
-        "title": "架空の1980年代アメリカを描くサイバーパンク2.5Dアクション「REPLACED」のモバイル対応がアナウンス、発売は12月8日",
+        "title": "PC製品版1.0とPS5版のローンチが迫る「Enshrouded」の地域別解禁時刻や早期アクセスプレイヤー向けの特典がアナウンス",
         "platform": "doope!",
         "type": "review",
-        "description": "ウクライナとベラルーシ出身の開発者が多く在籍するスタジオSad Cat Studiosのデビュー作として2021年11月にアナウンスされ、今年4月にローンチを果たし、高い評価を獲得したSad Cat Studiosのサイ […]",
+        "description": "ポータルナイツを生んだ独Keen Gamesの新作として、2024年1月に早期アクセスローンチを果たし、高い評価を獲得したサンドボックスサバイバルアクションRPG「Enshrouded」ですが、2026年10月15日のP […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171776.html",
-        "date": "2026-10-13",
+        "url": "https://doope.jp/2026/10169959.html",
+        "date": "2026-10-14",
         "is_translated": false
       },
       {
-        "title": "仏Sloclapの人気カンフーアクション「Sifu」のモバイル版が本日発売",
-        "platform": "doope!",
+        "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "2022年2月のローンチを経て、高い評価を獲得し、先日モバイル版の発売日が報じられた仏Sloclapのカンフーアクション「Sifu」ですが、本日予定通り国内外のApp StoreとGoogle PlayストアにてiOSと […]",
+        "description": "\"It’s a film about the experience of playing Resident Evil, controller in hand.\"",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171747.html",
+        "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
         "date": "2026-10-13",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
@@ -301,19 +301,6 @@
         "is_translated": false
       },
       {
-        "title": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"I don't think critics had a fair chance to explore.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
         "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -324,19 +311,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/valor-mortis-review",
         "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Crimson Desert looks like a perfectly fine game. I've not played it, and I don't intend to, so my perspective is based predominantly on trailers and reviews from my industry peers. Which, as it happ",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
-        "date": "2026-10-10",
         "is_translated": true
       }
     ],
@@ -553,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T18:41:46.171132"
+  "last_updated": "2026-10-14T04:08:02.534354"
 }

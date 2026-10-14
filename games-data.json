@@ -210,15 +210,28 @@
     ],
     "review": [
       {
-        "title": "PC製品版1.0とPS5版のローンチが迫る「Enshrouded」の地域別解禁時刻や早期アクセスプレイヤー向けの特典がアナウンス",
-        "platform": "doope!",
+        "title": "フリュー新作TPS『アノマリス』開発者インタビュー。『バイオハザード』や『タルコフ』を勉強しつつフリュー式に、体験版意見も取り入れてPCでの操作も強化",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "ポータルナイツを生んだ独Keen Gamesの新作として、2024年1月に早期アクセスローンチを果たし、高い評価を獲得したサンドボックスサバイバルアクションRPG「Enshrouded」ですが、2026年10月15日のP […]",
+        "description": "『アノマリス／ANOMALITH』のプロデューサーである城所凱（きどころがい）氏にインタビューを実施。フリューにとって初となるTPSに挑戦した理由やアニメ調のアートスタイルにこだわった理由などを訊いた。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10169959.html",
+        "url": "https://automaton-media.com/articles/interviewsjp/20261014-473451/",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "「車必須社会」目指す都市開発シム『Car Park Capital』邪悪すぎて面白いと「圧倒的に好評」に。住民は遠方に、バスや地下鉄は徹底排除、大悪人の資本主義",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "MicroProse Softwareは10月9日、Hilkojj Interactiveが手がける『Car Park Capital』の早期アクセス配信を開始した。「圧倒的に好評」ステータスを獲得する高評価となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261013-473257/",
         "date": "2026-10-14",
         "is_translated": false
       },
@@ -232,19 +245,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-        "date": "2026-10-13",
-        "is_translated": true
-      },
-      {
-        "title": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The animals are as beautiful as ever, but they're trapped in a cage of rote micromanagement.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
         "date": "2026-10-13",
         "is_translated": true
       },
@@ -285,32 +285,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
         "date": "2026-10-13",
-        "is_translated": true
-      },
-      {
-        "title": "メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も高い。シビアなリソース管理をこなし、異形うごめく田舎町の秘密を暴く",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Team17は10月9日、Wych Elmが手がける『Silver Pines』を配信した。本作は私立探偵として田舎町を探索する、メトロイドヴァニア型のサバイバルホラーゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/silver-pines-20261012-473085/",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Well, I say \"freshest.\" In its ickily up-close vision of Napoleonic battlefields, swapping the boring old bubonic plague for a fleshy, pustulating necro-blight, Valor Mortis is as horrid and grim as",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-        "date": "2026-10-12",
         "is_translated": true
       }
     ],
@@ -527,5 +501,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-14T04:08:02.534354"
+  "last_updated": "2026-10-14T16:12:07.361783"
 }

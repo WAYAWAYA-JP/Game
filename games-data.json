@@ -2,24 +2,24 @@
   "pc": {
     "free": [
       {
-        "title": "Out of Sight - Epic Games 無料配布中",
+        "title": "Bad Cheese - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Out of Sight』は一人称と二人称視点、そして魅力的な声優の演技をブレンドした、没入感満載のホラーゲーム。背筋が凍るような感情的な旅へとプレイヤーを引き込んでいく。",
+        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. Step into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. Be on your best behavior and KEEP DADDY HAPPY.",
         "price": "無料",
-        "originalPrice": "¥1,700",
+        "originalPrice": "¥1,260",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-10-15"
       },
       {
-        "title": "TerraScape - Epic Games 無料配布中",
+        "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
+        "description": "Agent A - 偽装のパズルがEpic Gamesで期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
         "price": "無料",
-        "originalPrice": "¥1,650",
+        "originalPrice": "¥1,980",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "『配信少女ノ裏垢迷宮』ノベル体験版プレイ感想。『まのさば』スタッフによるキャラクター描写は健在で「公開処刑」の衝撃にまた心揺さぶられそう",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "弊誌ではそんな『配信少女ノ裏垢迷宮』のノベル体験版をプレイできる機会を得た。その内容を見ていこう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/hais-20261015-473674/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
         "title": "『モンスターハンターワイルズ』Nintendo Switch 2向け体験版、10月20日配信へ。「ローカルマルチプレイ」もお試し可能、製品版にセーブデータ引き継ぎもできる",
         "platform": "AUTOMATON",
         "type": "review",
@@ -236,43 +249,56 @@
         "is_translated": false
       },
       {
-        "title": "'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’",
-        "platform": "Polygon",
+        "title": "人気2DアクションRPG“Drova”のナンバリング続編「Drova II – Torn Lands」が正式アナウンス、ゲームプレイトレーラーも",
+        "platform": "doope!",
         "type": "review",
-        "description": "s&box, the spiritual successor to Garry’s Mod, is getting a major overhaul as creator Garry Newman addresses negative reviews and plans a free-to-play",
+        "description": "2024年10月にローンチを果たし、“Gothic”の精神を見事に捉えた傑作として高い評価を獲得した2DアクションRPG“Drova – Forsaken Kin”ですが、予てから新プロジェクト“Topas”に取り組んで […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/",
+        "url": "https://doope.jp/2026/10171812.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "「CONTROL Resonant」の国内PS5/XBOX Series X|S向けパッケージ版が本日発売",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、待望のローンチを果たし、高い評価を獲得したRemedy Entertainmentの新たな傑作「CONTROL Resonant」ですが、フォトモードを含む今後のさらなるアップデートに大きな期待が掛かるなか、新たに […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171814.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Diaspora, Caves of Qud's first expansion, enters early access in December.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
         "date": "2026-10-15",
         "is_translated": true
       },
       {
-        "title": "フリュー新作TPS『アノマリス』開発者インタビュー。『バイオハザード』や『タルコフ』を勉強しつつフリュー式に、体験版意見も取り入れてPCでの操作も強化",
-        "platform": "AUTOMATON",
+        "title": "\"Some people like it, some people are annoyed by it\": Substructure may look like Factorio, but it changes the automation game in some fundamental ways",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "『アノマリス／ANOMALITH』のプロデューサーである城所凱（きどころがい）氏にインタビューを実施。フリューにとって初となるTPSに挑戦した理由やアニメ調のアートスタイルにこだわった理由などを訊いた。",
+        "description": "In many respects, as someone who has played a lot of automation games, Substructure is very familiar. It begins with you landing on the surface of an alien world and using nothing but pluck, the tool",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20261014-473451/",
-        "date": "2026-10-14",
-        "is_translated": false
-      },
-      {
-        "title": "「車必須社会」目指す都市開発シム『Car Park Capital』邪悪すぎて面白いと「圧倒的に好評」に。住民は遠方に、バスや地下鉄は徹底排除、大悪人の資本主義",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "MicroProse Softwareは10月9日、Hilkojj Interactiveが手がける『Car Park Capital』の早期アクセス配信を開始した。「圧倒的に好評」ステータスを獲得する高評価となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261013-473257/",
-        "date": "2026-10-14",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways",
+        "date": "2026-10-15",
+        "is_translated": true
       },
       {
         "title": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
@@ -297,19 +323,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-        "date": "2026-10-13",
-        "is_translated": true
-      },
-      {
-        "title": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The main selling point of Tekken 8's Season 3 DLC pass, alongside veterans Kunimitsu, Bob and Roger Jr, is Yujiro Hanma, the main antagonist of fighting manga Baki and father of its eponymous protago",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
         "date": "2026-10-13",
         "is_translated": true
       }
@@ -527,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-15T03:49:52.579198"
+  "last_updated": "2026-10-15T15:59:45.160220"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,10 +23,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       }
     ],
     "bundle": [
+      {
+        "title": "Hamble's Fright or Fight Halloween Bundle (Pay $6 for Blair Witch, Observer: System Redux, DEVOUR, Tales from Candleforth, and $12 adds The Medium, Layers of Fear, I Hate This Place)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-15"
+      },
       {
         "title": "[Steam] Halo: The Master Chief Collection ($9.99/75% off)",
         "platform": "Steam",
@@ -37,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
       },
       {
         "title": "Cozy After Dark Showcase Bundle (Pay $8 for Paradise Killer, Escape From Mystwood Mansion, a pet shop after dark, The Darkside Detective, Kathy Rain Directors Cut, and $12 adds Gloomy Eyes, Cabernet, Spooky Express, Fear the Spotlight, Kulebra and the Souls of Limbo)",
@@ -194,21 +206,48 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-02"
-      },
-      {
-        "title": "Let's Learn Japanese! Complete Collection ($6.11 / -60%) | Let's Learn Korean! Complete Collection ($5.09 / -60%) | Let's Learn Strategy Games ($5.73 / -60%)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-02"
       }
     ],
     "review": [
+      {
+        "title": "『モンスターハンターワイルズ』Nintendo Switch 2向け体験版、10月20日配信へ。「ローカルマルチプレイ」もお試し可能、製品版にセーブデータ引き継ぎもできる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "カプコンは10月15日、『モンスターハンターワイルズ』Nintendo Switch 2版の序盤体験版を10月20日に配信すると発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261015-473545/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "“新生Epic Gamesランチャー”公開、まずはプレビュー版として。AI活用で開発、「Steamより起動が速い」とアピール",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Epic Gamesは10月14日、新たなEpic Games Launcherのプレビュー版を配信。刷新されたランチャーでは、その応答速度がアピールされている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/epic-games-20261015-473524/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "s&box, the spiritual successor to Garry’s Mod, is getting a major overhaul as creator Garry Newman addresses negative reviews and plans a free-to-play",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/",
+        "date": "2026-10-15",
+        "is_translated": true
+      },
       {
         "title": "フリュー新作TPS『アノマリス』開発者インタビュー。『バイオハザード』や『タルコフ』を勉強しつつフリュー式に、体験版意見も取り入れてPCでの操作も強化",
         "platform": "AUTOMATON",
@@ -234,19 +273,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20261013-473257/",
         "date": "2026-10-14",
         "is_translated": false
-      },
-      {
-        "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"It’s a film about the experience of playing Resident Evil, controller in hand.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-        "date": "2026-10-13",
-        "is_translated": true
       },
       {
         "title": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
@@ -501,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-14T16:12:07.361783"
+  "last_updated": "2026-10-15T03:49:52.579198"
 }

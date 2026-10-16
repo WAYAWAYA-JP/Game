@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "Cook up your own Culinary Capers Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-16"
+      },
+      {
         "title": "Hamble's Fright or Fight Halloween Bundle (Pay $6 for Blair Witch, Observer: System Redux, DEVOUR, Tales from Candleforth, and $12 adds The Medium, Layers of Fear, I Hate This Place)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -198,6 +210,84 @@
     ],
     "review": [
       {
+        "title": "大注目の美少女悪魔・酒飲みロシアンルーレット『PUKEY GODDESS SHOT TRICK』、体験版の一般公開を断念。“参加者を絞って”試遊会実施へ",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アライアンス・アーツは10月16日、『PUKEY GODDESS SHOT TRICK』体験版の一般公開を取りやめると発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261016-474004/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "CygamesEdge新作『崩落の国』は「Cygames社内ゲームコンテストで高評価」から誕生した。落ちるだけだけど、落ちるだけでも面白いアクションのかたち",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「CygamesEdge」にてブランドプロデューサーを務める、濱田修一郎氏にインタビューを実施。ブランド1作目となる『崩落の国』の仕上がりなどについて伺った。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261016-473925/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "Cygames新ブランドデビュー作『崩落の国』体験版が配信開始。緊張感とともにある“濃密高難度落下アクション”を一足お先に体験できる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Cygamesは10月16日、『崩落の国』の体験版をSteamにて配信開始した。本作は同社の新ブランド「CygamesEdge」より発売予定の落下アクションゲームだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261016-473934/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "Cygames新ブランド第一弾『崩落の国』先行プレイ感想。「降りる」だけの1100円ゲームは、思ったよりずっと面白かった。クセあり操作が面白さにもなる落下作業",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "OSAKA INDIE GAMES SUMMIT 2026でプレイできた、『崩落の国』のプレイフィールをお伝えする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/where-the-seeds-fall-20261016-473917/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "マーベラスの新RPG『エターナルアニマ』先行プレイ感想。本作のバトルは長考不可避、先読み×タイムラインのド頭脳バトルで「最良の結果」を追い求め時間を費やす",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "王道のスタイルながら、バトルはターンごとの敵の行動とその結果が常に予測表示される「未来予測」を始めとした独自要素を多々採り入れた個性的なものになっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/eternal-20261016-473787/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "ORIGAME DIGITAL最新作「ペンギン・コロニー」レビュー、ラヴクラフト神話とペンギンを通じて目撃する人間・帝国の狂気",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ORIGAME DIGITALが2020年にリリースしたサイバーパンク写真撮影ゲーム「ウムランギ・ジェネレーション」は、空が赤く染まった“クソみたいな未来”のディストピア世界を舞台に、写真を撮ることの喜びや世界を目撃する […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171803.html",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
         "title": "House Houseが傑作Co-opゲーム「Big Walk」のXBOX非対応に関する声明を発表、リリースの実現に必要な条件も",
         "platform": "doope!",
         "type": "review",
@@ -211,43 +301,30 @@
         "is_translated": false
       },
       {
-        "title": "『配信少女ノ裏垢迷宮』ノベル体験版プレイ感想。『まのさば』スタッフによるキャラクター描写は健在で「公開処刑」の衝撃にまた心揺さぶられそう",
-        "platform": "AUTOMATON",
+        "title": "Modern Warfare 4 release times and early access explained",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "弊誌ではそんな『配信少女ノ裏垢迷宮』のノベル体験版をプレイできる機会を得た。その内容を見ていこう。",
+        "description": "Here's what you can play and when.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/hais-20261015-473674/",
-        "date": "2026-10-15",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+        "date": "2026-10-16",
+        "is_translated": true
       },
       {
-        "title": "『モンスターハンターワイルズ』Nintendo Switch 2向け体験版、10月20日配信へ。「ローカルマルチプレイ」もお試し可能、製品版にセーブデータ引き継ぎもできる",
-        "platform": "AUTOMATON",
+        "title": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "カプコンは10月15日、『モンスターハンターワイルズ』Nintendo Switch 2版の序盤体験版を10月20日に配信すると発表した。",
+        "description": "Penguin Colony is probably the best pisstake of Lovecraft and Lovecraftian horror I've played. It's the best because it places Lovecraft's universe at a creaturely remove, amplifying its absurdity",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261015-473545/",
-        "date": "2026-10-15",
-        "is_translated": false
-      },
-      {
-        "title": "大規模分隊タクティカルシューター「Squad」のPS5とXBOX Series X|S対応がアナウンス、PS5向け無料アルファプレビューも",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、新たなパーティシステムやコンパスシステムの刷新、パフォーマンスの大幅な向上を含むアップデート10.6が配信された大規模分隊タクティカルシューター「Squad」ですが、新たにOffworld Industriesが本 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171880.html",
-        "date": "2026-10-15",
-        "is_translated": false
+        "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
+        "date": "2026-10-16",
+        "is_translated": true
       },
       {
         "title": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
@@ -311,19 +388,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways",
-        "date": "2026-10-15",
-        "is_translated": true
-      },
-      {
-        "title": "David Dastmalchian wants a Street Fighter Commander Deck! | Shelf Quest",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "David Dastmalchian has seemingly played every single game in Videogamesnewyork and we got to listen to him tell us all about them. From Galaga to Castlevania, Splatterhouse to Magic the Gathering, and",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/video/david-dastmalchian-wants-a-street-fighter-commander-deck-shelf-quest/",
         "date": "2026-10-15",
         "is_translated": true
       }
@@ -541,5 +605,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T03:46:06.995712"
+  "last_updated": "2026-10-16T15:48:46.942023"
 }

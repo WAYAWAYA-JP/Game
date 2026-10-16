@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "title": "[Steam] Halo: The Master Chief Collection ($9.99/75% off)",
@@ -194,21 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-03"
-      },
-      {
-        "title": "[Steam] Goblin Platformer Pack (2,53€/-70% on 3 games)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-02"
       }
     ],
     "review": [
+      {
+        "title": "House Houseが傑作Co-opゲーム「Big Walk」のXBOX非対応に関する声明を発表、リリースの実現に必要な条件も",
+        "platform": "doope!",
+        "type": "review",
+        "description": "面白ガチョウゲーム“Untitled Goose Game”を生んだHouse Houseの新作として、今年8月に待望のローンチを果たし、極めて高い評価を獲得した新作Co-opゲーム「Big Walk」ですが、初週100 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171875.html",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
       {
         "title": "『配信少女ノ裏垢迷宮』ノベル体験版プレイ感想。『まのさば』スタッフによるキャラクター描写は健在で「公開処刑」の衝撃にまた心揺さぶられそう",
         "platform": "AUTOMATON",
@@ -236,43 +237,30 @@
         "is_translated": false
       },
       {
-        "title": "“新生Epic Gamesランチャー”公開、まずはプレビュー版として。AI活用で開発、「Steamより起動が速い」とアピール",
-        "platform": "AUTOMATON",
+        "title": "大規模分隊タクティカルシューター「Squad」のPS5とXBOX Series X|S対応がアナウンス、PS5向け無料アルファプレビューも",
+        "platform": "doope!",
         "type": "review",
-        "description": "Epic Gamesは10月14日、新たなEpic Games Launcherのプレビュー版を配信。刷新されたランチャーでは、その応答速度がアピールされている。",
+        "description": "先日、新たなパーティシステムやコンパスシステムの刷新、パフォーマンスの大幅な向上を含むアップデート10.6が配信された大規模分隊タクティカルシューター「Squad」ですが、新たにOffworld Industriesが本 […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/epic-games-20261015-473524/",
+        "url": "https://doope.jp/2026/10171880.html",
         "date": "2026-10-15",
         "is_translated": false
       },
       {
-        "title": "人気2DアクションRPG“Drova”のナンバリング続編「Drova II – Torn Lands」が正式アナウンス、ゲームプレイトレーラーも",
-        "platform": "doope!",
+        "title": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "2024年10月にローンチを果たし、“Gothic”の精神を見事に捉えた傑作として高い評価を獲得した2DアクションRPG“Drova – Forsaken Kin”ですが、予てから新プロジェクト“Topas”に取り組んで […]",
+        "description": "The general consensus seems to be that Street Fighter isn't a disaster, but it definitely misses a lot more than it hits.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171812.html",
+        "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
         "date": "2026-10-15",
-        "is_translated": false
-      },
-      {
-        "title": "「CONTROL Resonant」の国内PS5/XBOX Series X|S向けパッケージ版が本日発売",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、待望のローンチを果たし、高い評価を獲得したRemedy Entertainmentの新たな傑作「CONTROL Resonant」ですが、フォトモードを含む今後のさらなるアップデートに大きな期待が掛かるなか、新たに […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171814.html",
-        "date": "2026-10-15",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
@@ -284,6 +272,32 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
+        "date": "2026-10-15",
+        "is_translated": true
+      },
+      {
+        "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The increasing number of early access games always throws me off, because one day you're seeing an announcement of a game releasing, and then a while (normally years) later, you see another announce",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
+        "date": "2026-10-15",
+        "is_translated": true
+      },
+      {
+        "title": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Caves of Qud is a game well liked over here at RPS; Brendan gave it the coveted Bestest Bests badge back when it launched into 1.0 a couple of years ago, and all! It's a game I still want to reckon",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
         "date": "2026-10-15",
         "is_translated": true
       },
@@ -301,29 +315,16 @@
         "is_translated": true
       },
       {
-        "title": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
-        "platform": "Rock Paper Shotgun",
+        "title": "David Dastmalchian wants a Street Fighter Commander Deck! | Shelf Quest",
+        "platform": "Polygon",
         "type": "review",
-        "description": "Going Medieval may have been in early access for almost five years, but even after it arrived in 1.0 back in March developer Foxy Voxel have continued to build upon it. The sim's latest update has a",
+        "description": "David Dastmalchian has seemingly played every single game in Videogamesnewyork and we got to listen to him tell us all about them. From Galaga to Castlevania, Splatterhouse to Magic the Gathering, and",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
-        "date": "2026-10-13",
-        "is_translated": true
-      },
-      {
-        "title": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Well, that's happening quicker than I'd anticipated. This is both what the actress said to the bishop and my immediate reaction to a report which claims GTA 6 is planned to release on PC in the openi",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-        "date": "2026-10-13",
+        "url": "https://www.polygon.com/video/david-dastmalchian-wants-a-street-fighter-commander-deck-shelf-quest/",
+        "date": "2026-10-15",
         "is_translated": true
       }
     ],
@@ -540,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-15T15:59:45.160220"
+  "last_updated": "2026-10-16T03:46:06.995712"
 }

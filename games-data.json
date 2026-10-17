@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Saturday's are for having your mind read. Or, at least, this Saturday is because I'm seeing Derren Brown's new show. I'm a little self-conscious about it, not because I'm worried the mentalist will h",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
+        "date": "2026-10-17",
+        "is_translated": true
+      },
+      {
+        "title": "Early Modern Warfare 4 Consensus Unanimous That It Features On Of The Best COD Campaigns Ever",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "People are finally playing the Call of Duty: Modern Warfare 4 campaign and absolutely loving it",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/modern-warfare-4-campaign-early-reactions/",
+        "date": "2026-10-17",
+        "is_translated": true
+      },
+      {
         "title": "鉄道旅ミステリー『クワイエット急行909号室』体験版配信開始。“繰り返す7日間”の中で、待ち受ける惨劇と「存在しない部屋」の秘密を解き明かす",
         "platform": "AUTOMATON",
         "type": "review",
@@ -353,19 +379,6 @@
         "is_translated": true
       },
       {
-        "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Diaspora, Caves of Qud's first expansion, enters early access in December.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
-        "date": "2026-10-15",
-        "is_translated": true
-      },
-      {
         "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -388,19 +401,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
-        "date": "2026-10-15",
-        "is_translated": true
-      },
-      {
-        "title": "\"Some people like it, some people are annoyed by it\": Substructure may look like Factorio, but it changes the automation game in some fundamental ways",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "In many respects, as someone who has played a lot of automation games, Substructure is very familiar. It begins with you landing on the surface of an alien world and using nothing but pluck, the tool",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways",
         "date": "2026-10-15",
         "is_translated": true
       }
@@ -618,5 +618,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T03:37:15.081506"
+  "last_updated": "2026-10-17T14:42:28.937572"
 }

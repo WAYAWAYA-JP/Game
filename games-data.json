@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -23,10 +23,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       }
     ],
     "bundle": [
+      {
+        "title": "Serenity Forge Emotional Impact Bundle (Pay $5 for Paratopic, Neversong, Four Sided Fantasy, Luna's Wandering Stars, $9 adds Return to Ash, Gone Home, Tacoma,, 4 more and $12 adds Centum, Cyanide & Happiness - Freakpocalypse (Ep 1), Death's Gambit: Afterlife - AoV, 4 more)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "Double Fine Publisher Bundle (Pay $5 for Psychonauts in the Rhombus of Ruin, Massive Chalice, Costume Quest, Iron Brigade, Stacking, Hack 'n' Slash, Spacebase DF-9, and $8 adds Psychonauts, Brutal Legend, Broken Age, Kiln)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-17"
+      },
       {
         "title": "Cook up your own Culinary Capers Bundle",
         "platform": "Fanatical",
@@ -37,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
       },
       {
         "title": "Hamble's Fright or Fight Halloween Bundle (Pay $6 for Blair Witch, Observer: System Redux, DEVOUR, Tales from Candleforth, and $12 adds The Medium, Layers of Fear, I Hate This Place)",
@@ -182,33 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-04"
-      },
-      {
-        "title": "Akupara 10th Anniversary Bundle (Pay $8 for Behind the Frame: The Finest Scenery, Mutazione, REPOSE, The Darkside Detective, Whispering Willows, $12 adds Rain World, Rain World: Downpour, Gigasword, Grime, and $15 adds Cryptmaster, Astrea: Six-Sided Oracles, 1 more)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-04"
-      },
-      {
-        "title": "CoppaFeel! Charity Bundle - All Proceeds to a Good Cause! (10 for $5.99 - Get Haste: Broken Worlds / PlateUp! / Overcooked / KeyWe / Pine Hearts / Critter Café / Tiny Garden / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-03"
       }
     ],
     "review": [
+      {
+        "title": "鉄道旅ミステリー『クワイエット急行909号室』体験版配信開始。“繰り返す7日間”の中で、待ち受ける惨劇と「存在しない部屋」の秘密を解き明かす",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "STUDIO909は10月17日、『クワイエット急行909号室』の体験版の配信を開始した。本作は7日間かけて大陸を横断する鉄道「クワイエット急行」を舞台にしたミステリーアドベンチャーゲームだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261017-474039/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
       {
         "title": "大注目の美少女悪魔・酒飲みロシアンルーレット『PUKEY GODDESS SHOT TRICK』、体験版の一般公開を断念。“参加者を絞って”試遊会実施へ",
         "platform": "AUTOMATON",
@@ -262,43 +275,30 @@
         "is_translated": false
       },
       {
-        "title": "マーベラスの新RPG『エターナルアニマ』先行プレイ感想。本作のバトルは長考不可避、先読み×タイムラインのド頭脳バトルで「最良の結果」を追い求め時間を費やす",
-        "platform": "AUTOMATON",
+        "title": "I haven't wanted to 100% a game in a long time, but…",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "王道のスタイルながら、バトルはターンごとの敵の行動とその結果が常に予測表示される「未来予測」を始めとした独自要素を多々採り入れた個性的なものになっている。",
+        "description": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/eternal-20261016-473787/",
+        "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
         "date": "2026-10-16",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "ORIGAME DIGITAL最新作「ペンギン・コロニー」レビュー、ラヴクラフト神話とペンギンを通じて目撃する人間・帝国の狂気",
-        "platform": "doope!",
+        "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "ORIGAME DIGITALが2020年にリリースしたサイバーパンク写真撮影ゲーム「ウムランギ・ジェネレーション」は、空が赤く染まった“クソみたいな未来”のディストピア世界を舞台に、写真を撮ることの喜びや世界を目撃する […]",
+        "description": "A fractured, fun campaign that benefits from looking backward.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171803.html",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
         "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
-        "title": "House Houseが傑作Co-opゲーム「Big Walk」のXBOX非対応に関する声明を発表、リリースの実現に必要な条件も",
-        "platform": "doope!",
-        "type": "review",
-        "description": "面白ガチョウゲーム“Untitled Goose Game”を生んだHouse Houseの新作として、今年8月に待望のローンチを果たし、極めて高い評価を獲得した新作Co-opゲーム「Big Walk」ですが、初週100 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171875.html",
-        "date": "2026-10-16",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Modern Warfare 4 release times and early access explained",
@@ -310,6 +310,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+        "date": "2026-10-16",
+        "is_translated": true
+      },
+      {
+        "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Season 2 of Wardogs, the multiplayer sandbox FPS currently blasting and/or politely driving its way through early access, introduced an un usual \"social experiment\" when it launched yesterday. In an",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
         "date": "2026-10-16",
         "is_translated": true
       },
@@ -605,5 +618,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T15:48:46.942023"
+  "last_updated": "2026-10-17T03:37:15.081506"
 }

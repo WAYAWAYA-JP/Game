@@ -64,6 +64,30 @@
         "date": "2026-10-18"
       },
       {
+        "title": "Humble Choice October 2026 | All games on Steam Deck (+ performance notes in the description)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "Free Voidtrain (Humble Choice September 2026) DLC",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-18"
+      },
+      {
         "title": "Hamble's Fright or Fight Halloween Bundle (Pay $6 for Blair Witch, Observer: System Redux, DEVOUR, Tales from Candleforth, and $12 adds The Medium, Layers of Fear, I Hate This Place)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -182,21 +206,48 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-08"
-      },
-      {
-        "title": "October 2026: Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2, Deep Rock Galactic: Survivor, Cataclismo, Dungeons & Degenerate Gamblers, Asgard's Fall — Viking Survivors, Toy Shire ($14.99)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-08"
       }
     ],
     "review": [
+      {
+        "title": "『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行909号室』体験版は独特の空気感がとても良い。『スト6』アルジュンはなんだかハチャメチャ。今週のゲーミング",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。566回目です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20261018-474178/",
+        "date": "2026-10-18",
+        "is_translated": false
+      },
+      {
+        "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The former game director of both Marathon and Valorant guides us through the games on his PC.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+        "date": "2026-10-18",
+        "is_translated": true
+      },
+      {
+        "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+        "date": "2026-10-18",
+        "is_translated": true
+      },
       {
         "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
@@ -207,19 +258,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
-        "date": "2026-10-17",
-        "is_translated": true
-      },
-      {
-        "title": "The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Previews indicate Nintendo cares as much about the 2026 Switch 2 revival as it does about physical media",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
         "date": "2026-10-17",
         "is_translated": true
       },
@@ -272,19 +310,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261016-473934/",
-        "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
-        "title": "Cygames新ブランド第一弾『崩落の国』先行プレイ感想。「降りる」だけの1100円ゲームは、思ったよりずっと面白かった。クセあり操作が面白さにもなる落下作業",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "OSAKA INDIE GAMES SUMMIT 2026でプレイできた、『崩落の国』のプレイフィールをお伝えする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/where-the-seeds-fall-20261016-473917/",
         "date": "2026-10-16",
         "is_translated": false
       },
@@ -351,19 +376,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
         "date": "2026-10-16",
-        "is_translated": true
-      },
-      {
-        "title": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The general consensus seems to be that Street Fighter isn't a disaster, but it definitely misses a lot more than it hits.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
-        "date": "2026-10-15",
         "is_translated": true
       },
       {
@@ -606,5 +618,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18T03:43:54.087486"
+  "last_updated": "2026-10-18T15:08:35.015967"
 }

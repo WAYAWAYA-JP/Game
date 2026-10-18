@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       {
         "title": "Double Fine Publisher Bundle (Pay $5 for Psychonauts in the Rhombus of Ruin, Massive Chalice, Costume Quest, Iron Brigade, Stacking, Hack 'n' Slash, Spacebase DF-9, and $8 adds Psychonauts, Brutal Legend, Broken Age, Kiln)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       {
         "title": "Cook up your own Culinary Capers Bundle",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-17"
+        "date": "2026-10-18"
       },
       {
         "title": "Hamble's Fright or Fight Halloween Bundle (Pay $6 for Blair Witch, Observer: System Redux, DEVOUR, Tales from Candleforth, and $12 adds The Medium, Layers of Fear, I Hate This Place)",
@@ -194,18 +194,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-08"
-      },
-      {
-        "title": "Capcom Classics Bundle (Pay $10 for Resident Evil 3 Nemesis (1999), Resident Evil 2 (1998), Resident Evil (1996), and $20 adds Breath of Fire IV, Dino Crisis 2, Dino Crisis)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-04"
       }
     ],
     "review": [
@@ -223,15 +211,15 @@
         "is_translated": true
       },
       {
-        "title": "Early Modern Warfare 4 Consensus Unanimous That It Features On Of The Best COD Campaigns Ever",
+        "title": "The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original",
         "platform": "Polygon",
         "type": "review",
-        "description": "People are finally playing the Call of Duty: Modern Warfare 4 campaign and absolutely loving it",
+        "description": "Previews indicate Nintendo cares as much about the 2026 Switch 2 revival as it does about physical media",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/modern-warfare-4-campaign-early-reactions/",
+        "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
         "date": "2026-10-17",
         "is_translated": true
       },
@@ -618,5 +606,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T14:42:28.937572"
+  "last_updated": "2026-10-18T03:43:54.087486"
 }

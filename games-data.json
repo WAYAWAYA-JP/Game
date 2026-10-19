@@ -2,6 +2,30 @@
   "pc": {
     "free": [
       {
+        "title": "Eternal Threads - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Eternal Threads』は、時間を操作し、選択することで、結末を変えていく、シングルプレイでストーリー主体のパズルゲームです。",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Monument Valley - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
+        "price": "無料",
+        "originalPrice": "¥920",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-10-19"
+      },
+      {
         "title": "Bad Cheese - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -27,6 +51,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build your own Fantasy Ages Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-19"
+      },
       {
         "title": "Serenity Forge Emotional Impact Bundle (Pay $5 for Paratopic, Neversong, Four Sided Fantasy, Luna's Wandering Stars, $9 adds Return to Ash, Gone Home, Tacoma,, 4 more and $12 adds Centum, Cyanide & Happiness - Freakpocalypse (Ep 1), Death's Gambit: Afterlife - AoV, 4 more)",
         "platform": "Humble Bundle",
@@ -194,18 +230,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-08"
-      },
-      {
-        "title": "Humble Indie Fighters Bundle (Pay $5 for Divekick, Lethal League Blaze, Skullgirls 2nd Encore, $12 adds Rivals of Aether, Blazing Strike, Terrordrome - Reign of the Legends, and $16 adds Rivals of Aether II, Pocket Bravery)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-08"
       }
     ],
     "review": [
@@ -223,6 +247,45 @@
         "is_translated": false
       },
       {
+        "title": "「サイバーパンク: エッジランナーズ2」の地域別解禁時刻がアナウンス、配信開始は明日午後4時",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本日、当サイトのレビューという名目の注意喚起をご紹介したNetflixアニメ「サイバーパンク: エッジランナーズ2」ですが、明日の配信開始に大きな期待が掛かるなか、新たにCD PROJEKT REDが地域別の解禁時刻を発 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171960.html",
+        "date": "2026-10-19",
+        "is_translated": false
+      },
+      {
+        "title": "「サイバーパンク: エッジランナーズ2」全話レビュー、TRIGGERとCD PROJEKT REDが描くナイトシティの新しい明日・未来・物語",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日ご紹介した第1話試写会と舞台挨拶を経て、明日10月20日の配信がいよいよ目前に迫る「サイバーパンク: エッジランナーズ2」ですが、光栄なことに先行レビューの機会を頂き、一足先に本作の全10話を見まして、正直なところか […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171959.html",
+        "date": "2026-10-19",
+        "is_translated": false
+      },
+      {
+        "title": "GameSir Nova Lite 2 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The best deal in controllers at $30 or less right now.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
+        "date": "2026-10-19",
+        "is_translated": true
+      },
+      {
         "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
         "platform": "PC Gamer",
         "type": "review",
@@ -236,28 +299,15 @@
         "is_translated": true
       },
       {
-        "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
-        "platform": "Polygon",
+        "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
+        "description": "Moonlighter and Cataclismo developers Digital Sun Games have postponed a public Steam playtest for their new game ReVamp, for fear of people using generative AI to clone their work before release. Re",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/best-nes-games/",
-        "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "10 Near-Perfect PS4 Games Nobody Played",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/best-underrated-ps4-games/",
+        "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
         "date": "2026-10-19",
         "is_translated": true
       },
@@ -324,45 +374,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
         "date": "2026-10-17",
-        "is_translated": true
-      },
-      {
-        "title": "鉄道旅ミステリー『クワイエット急行909号室』体験版配信開始。“繰り返す7日間”の中で、待ち受ける惨劇と「存在しない部屋」の秘密を解き明かす",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "STUDIO909は10月17日、『クワイエット急行909号室』の体験版の配信を開始した。本作は7日間かけて大陸を横断する鉄道「クワイエット急行」を舞台にしたミステリーアドベンチャーゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261017-474039/",
-        "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
-        "title": "大注目の美少女悪魔・酒飲みロシアンルーレット『PUKEY GODDESS SHOT TRICK』、体験版の一般公開を断念。“参加者を絞って”試遊会実施へ",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アライアンス・アーツは10月16日、『PUKEY GODDESS SHOT TRICK』体験版の一般公開を取りやめると発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261016-474004/",
-        "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
-        "title": "I haven't wanted to 100% a game in a long time, but…",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-        "date": "2026-10-16",
         "is_translated": true
       },
       {
@@ -618,5 +629,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-19T03:54:03.808343"
+  "last_updated": "2026-10-19T18:00:42.912982"
 }

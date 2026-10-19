@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
       },
       {
         "title": "Double Fine Publisher Bundle (Pay $5 for Psychonauts in the Rhombus of Ruin, Massive Chalice, Costume Quest, Iron Brigade, Stacking, Hack 'n' Slash, Spacebase DF-9, and $8 adds Psychonauts, Brutal Legend, Broken Age, Kiln)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
       },
       {
         "title": "Cook up your own Culinary Capers Bundle",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
       },
       {
         "title": "Humble Choice October 2026 | All games on Steam Deck (+ performance notes in the description)",
@@ -210,6 +210,58 @@
     ],
     "review": [
       {
+        "title": "Steamで好評率99％『アリスと彼岸』、メルヘン世界で“物騒すぎるTRPG風冒険”が熱い人気に。「戦わずズルく勝てる」自由で不穏なおとぎ話",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "2P Gamesは10月16日、Hanamiriroが手がける『アリスと彼岸』を配信開始した。さっそく好評率99％のまま高い評価を集めている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261019-474248/",
+        "date": "2026-10-19",
+        "is_translated": false
+      },
+      {
+        "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "All the interesting Steam facts for the week ending October 18.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
+        "date": "2026-10-19",
+        "is_translated": true
+      },
+      {
+        "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-nes-games/",
+        "date": "2026-10-19",
+        "is_translated": true
+      },
+      {
+        "title": "10 Near-Perfect PS4 Games Nobody Played",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-underrated-ps4-games/",
+        "date": "2026-10-19",
+        "is_translated": true
+      },
+      {
         "title": "『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行909号室』体験版は独特の空気感がとても良い。『スト6』アルジュンはなんだかハチャメチャ。今週のゲーミング",
         "platform": "AUTOMATON",
         "type": "review",
@@ -221,6 +273,19 @@
         "url": "https://automaton-media.com/articles/now-gaming/20261018-474178/",
         "date": "2026-10-18",
         "is_translated": false
+      },
+      {
+        "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+        "date": "2026-10-18",
+        "is_translated": true
       },
       {
         "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
@@ -288,32 +353,6 @@
         "is_translated": false
       },
       {
-        "title": "CygamesEdge新作『崩落の国』は「Cygames社内ゲームコンテストで高評価」から誕生した。落ちるだけだけど、落ちるだけでも面白いアクションのかたち",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「CygamesEdge」にてブランドプロデューサーを務める、濱田修一郎氏にインタビューを実施。ブランド1作目となる『崩落の国』の仕上がりなどについて伺った。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261016-473925/",
-        "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
-        "title": "Cygames新ブランドデビュー作『崩落の国』体験版が配信開始。緊張感とともにある“濃密高難度落下アクション”を一足お先に体験できる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Cygamesは10月16日、『崩落の国』の体験版をSteamにて配信開始した。本作は同社の新ブランド「CygamesEdge」より発売予定の落下アクションゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261016-473934/",
-        "date": "2026-10-16",
-        "is_translated": false
-      },
-      {
         "title": "I haven't wanted to 100% a game in a long time, but…",
         "platform": "PC Gamer",
         "type": "review",
@@ -323,32 +362,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-        "date": "2026-10-16",
-        "is_translated": true
-      },
-      {
-        "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "A fractured, fun campaign that benefits from looking backward.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-        "date": "2026-10-16",
-        "is_translated": true
-      },
-      {
-        "title": "Modern Warfare 4 release times and early access explained",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Here's what you can play and when.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
         "date": "2026-10-16",
         "is_translated": true
       },
@@ -388,19 +401,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
-        "date": "2026-10-15",
-        "is_translated": true
-      },
-      {
-        "title": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Caves of Qud is a game well liked over here at RPS; Brendan gave it the coveted Bestest Bests badge back when it launched into 1.0 a couple of years ago, and all! It's a game I still want to reckon",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
         "date": "2026-10-15",
         "is_translated": true
       }
@@ -618,5 +618,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18T15:08:35.015967"
+  "last_updated": "2026-10-19T03:54:03.808343"
 }

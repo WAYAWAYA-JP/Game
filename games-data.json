@@ -64,6 +64,18 @@
         "date": "2026-10-20"
       },
       {
+        "title": "Humble Choice October 2026 | All games on Steam Deck (+ performance notes in the description)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-20"
+      },
+      {
         "title": "Serenity Forge Emotional Impact Bundle (Pay $5 for Paratopic, Neversong, Four Sided Fantasy, Luna's Wandering Stars, $9 adds Return to Ash, Gone Home, Tacoma,, 4 more and $12 adds Centum, Cyanide & Happiness - Freakpocalypse (Ep 1), Death's Gambit: Afterlife - AoV, 4 more)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -98,18 +110,6 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-19"
-      },
-      {
-        "title": "Humble Choice October 2026 | All games on Steam Deck (+ performance notes in the description)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-18"
       },
       {
         "title": "Free Voidtrain (Humble Choice September 2026) DLC",
@@ -234,15 +234,41 @@
     ],
     "review": [
       {
+        "title": "最大6人協力・海賊オープンワールド『Keelblade：伝説の海賊』新体験版配信開始。自由建設なマイ海賊船での大冒険は、陸に上がればソウルライクな過酷世界",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Digital Confectionersは10月20日、オープンワールド・アクションRPG『Keelblade：伝説の海賊』の新体験版を配信した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261020-474499/",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
         "title": "無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボート漕ぎ”などが人気上昇中。注目作をいろいろ紹介",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Steamにて10月20日、『Steam Nextフェス2026年10月エディション』が開始された。同時接続プレイヤー数や好評レビューの多いタイトルなどを中心に、注目作を紹介していく。",
+        "description": "Steamにて10月20日、「Steam Nextフェス2026年10月エディション」が開始された。同時接続プレイヤー数や好評レビューの多いタイトルなどを中心に、注目作を紹介していく。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "「サイバーパンク: エッジランナーズ2」の配信が遂にスタート、お披露目第1話のTwitchリアルタイム配信もまもなく",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨日、当サイトのレビューと地域別の解禁時刻をご紹介した「サイバーパンク: エッジランナーズ2」ですが、先ほど予定通り国内外で本作のNetflix独占配信が遂にスタートしました。 サイバーパンク: エッジランナーズ2、本日 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171978.html",
         "date": "2026-10-20",
         "is_translated": false
       },
@@ -286,6 +312,45 @@
         "is_translated": false
       },
       {
+        "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+        "date": "2026-10-20",
+        "is_translated": true
+      },
+      {
+        "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates. That run of is set to continue through to 2027",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+        "date": "2026-10-20",
+        "is_translated": true
+      },
+      {
+        "title": "Nintendo Switch Sports Resort Reviews Prove the Series Isn't Winning Any Awards",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Nintendo Switch Sports Reviews are in, and they're remarkably consistent with Wii Sports Resort's reception in 2009.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/",
+        "date": "2026-10-20",
+        "is_translated": true
+      },
+      {
         "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
         "platform": "AUTOMATON",
         "type": "review",
@@ -295,19 +360,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "Steamで好評率99％『アリスと彼岸』、メルヘン世界で“物騒すぎるTRPG風冒険”が熱い人気に。「戦わずズルく勝てる」自由で不穏なおとぎ話",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "2P Gamesは10月16日、Hanamiriroが手がける『アリスと彼岸』を配信開始した。さっそく好評率99％のまま高い評価を集めている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261019-474248/",
         "date": "2026-10-19",
         "is_translated": false
       },
@@ -351,32 +403,6 @@
         "is_translated": true
       },
       {
-        "title": "AI Cloning Could Become the Biggest Threat to Video Game Playtests",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ReVamp developer Digital Sun is limiting an upcoming playtest to combat AI cloning fears",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/revamp-playtest-limited-ai-cloning-fears/",
-        "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行909号室』体験版は独特の空気感がとても良い。『スト6』アルジュンはなんだかハチャメチャ。今週のゲーミング",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。566回目です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261018-474178/",
-        "date": "2026-10-18",
-        "is_translated": false
-      },
-      {
         "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
         "platform": "PC Gamer",
         "type": "review",
@@ -386,32 +412,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
-        "date": "2026-10-18",
-        "is_translated": true
-      },
-      {
-        "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The former game director of both Marathon and Valorant guides us through the games on his PC.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
-        "date": "2026-10-18",
-        "is_translated": true
-      },
-      {
-        "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
         "date": "2026-10-18",
         "is_translated": true
       },
@@ -642,5 +642,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-20T04:05:39.656678"
+  "last_updated": "2026-10-20T16:04:40.206168"
 }

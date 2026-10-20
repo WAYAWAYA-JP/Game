@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Bad Cheese - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Serenity Forge Emotional Impact Bundle (Pay $5 for Paratopic, Neversong, Four Sided Fantasy, Luna's Wandering Stars, $9 adds Return to Ash, Gone Home, Tacoma,, 4 more and $12 adds Centum, Cyanide & Happiness - Freakpocalypse (Ep 1), Death's Gambit: Afterlife - AoV, 4 more)",
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Double Fine Publisher Bundle (Pay $5 for Psychonauts in the Rhombus of Ruin, Massive Chalice, Costume Quest, Iron Brigade, Stacking, Hack 'n' Slash, Spacebase DF-9, and $8 adds Psychonauts, Brutal Legend, Broken Age, Kiln)",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
       },
       {
         "title": "Cook up your own Culinary Capers Bundle",
@@ -234,29 +234,16 @@
     ],
     "review": [
       {
-        "title": "Steamで好評率99％『アリスと彼岸』、メルヘン世界で“物騒すぎるTRPG風冒険”が熱い人気に。「戦わずズルく勝てる」自由で不穏なおとぎ話",
+        "title": "無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボート漕ぎ”などが人気上昇中。注目作をいろいろ紹介",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "2P Gamesは10月16日、Hanamiriroが手がける『アリスと彼岸』を配信開始した。さっそく好評率99％のまま高い評価を集めている。",
+        "description": "Steamにて10月20日、『Steam Nextフェス2026年10月エディション』が開始された。同時接続プレイヤー数や好評レビューの多いタイトルなどを中心に、注目作を紹介していく。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261019-474248/",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "「サイバーパンク: エッジランナーズ2」の地域別解禁時刻がアナウンス、配信開始は明日午後4時",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本日、当サイトのレビューという名目の注意喚起をご紹介したNetflixアニメ「サイバーパンク: エッジランナーズ2」ですが、明日の配信開始に大きな期待が掛かるなか、新たにCD PROJEKT REDが地域別の解禁時刻を発 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171960.html",
-        "date": "2026-10-19",
+        "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
+        "date": "2026-10-20",
         "is_translated": false
       },
       {
@@ -269,6 +256,58 @@
         "discount": "",
         "deadline": "",
         "url": "https://doope.jp/2026/10171959.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が今年のハロウィンに決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "クトゥルフ神話や伊藤潤二作品にインスパイアされたコズミックジャパニーズホラーRPGとして2023年10月にローンチを果たし、高い評価を獲得した「恐怖の世界」の大型アップデートとして、今年2月にアナウンスされ、その後すっか […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171976.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者にはゲームの販売地域を決定する権利がある",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、当サイトのレビューを通じて、ここ数年で最も重要なビデオゲームとして、できるだけ多くの方にプレイして欲しいとご紹介したORIGAME DIGITALの最新作「ペンギン・コロニー」（Penguin Colony）ですが […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171979.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Double Stallionは10月20日、協力対応ハクスラアクションRPG『Surfpunk』の新体験版を配信した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
+        "date": "2026-10-19",
+        "is_translated": false
+      },
+      {
+        "title": "Steamで好評率99％『アリスと彼岸』、メルヘン世界で“物騒すぎるTRPG風冒険”が熱い人気に。「戦わずズルく勝てる」自由で不穏なおとぎ話",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "2P Gamesは10月16日、Hanamiriroが手がける『アリスと彼岸』を配信開始した。さっそく好評率99％のまま高い評価を集めている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261019-474248/",
         "date": "2026-10-19",
         "is_translated": false
       },
@@ -308,6 +347,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+        "date": "2026-10-19",
+        "is_translated": true
+      },
+      {
+        "title": "AI Cloning Could Become the Biggest Threat to Video Game Playtests",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ReVamp developer Digital Sun is limiting an upcoming playtest to combat AI cloning fears",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/revamp-playtest-limited-ai-cloning-fears/",
         "date": "2026-10-19",
         "is_translated": true
       },
@@ -374,45 +426,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
         "date": "2026-10-17",
-        "is_translated": true
-      },
-      {
-        "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Season 2 of Wardogs, the multiplayer sandbox FPS currently blasting and/or politely driving its way through early access, introduced an un usual \"social experiment\" when it launched yesterday. In an",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-        "date": "2026-10-16",
-        "is_translated": true
-      },
-      {
-        "title": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Penguin Colony is probably the best pisstake of Lovecraft and Lovecraftian horror I've played. It's the best because it places Lovecraft's universe at a creaturely remove, amplifying its absurdity",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
-        "date": "2026-10-16",
-        "is_translated": true
-      },
-      {
-        "title": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The increasing number of early access games always throws me off, because one day you're seeing an announcement of a game releasing, and then a while (normally years) later, you see another announce",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
-        "date": "2026-10-15",
         "is_translated": true
       }
     ],
@@ -629,5 +642,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-19T18:00:42.912982"
+  "last_updated": "2026-10-20T04:05:39.656678"
 }

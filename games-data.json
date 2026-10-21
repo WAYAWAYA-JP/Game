@@ -234,30 +234,108 @@
     ],
     "review": [
       {
-        "title": "訪問者判別ホラー「No, I’m not a Human」のコンソール対応がアナウンス、発売は2027年",
-        "platform": "doope!",
+        "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "Violent Horror Storiesシリーズで知られるTrioskazの新作ホラーゲームとして、昨年9月にローンチを果たし、高い評価を獲得した「No, I’m not a Human」ですが、昨日放送されたCRI […]",
+        "description": "フリューは10月22日、『クライムライト／CRYMELIGHT』PS5/Nintendo Switch 2向けの体験版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172038.html",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474786/",
         "date": "2026-10-21",
         "is_translated": false
       },
       {
-        "title": "傑作Sci-Fiホラー「Mouthwashing」のコンソール版ローンチが10月29日に決定",
-        "platform": "doope!",
+        "title": "国産大型メトロイドヴァニア『Chronoscript』、体験版「85%好評」だけど延期した理由。開発者を動かしたユーザーの“質の高いフィードバック”と『Hollow Knight』『Constance』開発者の助言",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "スウェーデンのインディーデベロッパ“Wrong Organ”の新作として、2024年9月にローンチを果たし、極めて後味の悪いプレイ感と素晴らしいストーリーテリングで高い評価を獲得したSci-Fiホラー「Mouthwash […]",
+        "description": "集英社ゲームズのプロデューサー山本正美氏、デスクワークスのディレクター藤井トム氏、メインアーティストの南場ナム氏にインタビューを実施。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172032.html",
+        "url": "https://automaton-media.com/articles/interviewsjp/chronoscript-20261021-474646/",
         "date": "2026-10-21",
         "is_translated": false
+      },
+      {
+        "title": "Nintendo Switch 2/Switch向けセールに約380本どどんと追加。『ユニコーンオーバーロード』が半額、『超探偵事件簿 レインコード』は最安値更新、軽トラねこ配達ゲームなど高評価インディーも安い",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約380本。本記事では、その中から注目タイトルをいくつか紹介する。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474645/",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "ダークファンタジーアクションRPG「Fatekeeper」の早期アクセス版販売が50万本を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Grimlore Gamesの元開発者達が在籍する新スタジオ“Paraglacial”が開発を手がけるTHQ Nordicの新作として、今年6月にローンチを果たし、非常に高い評価を獲得した一人称視点のダークファンタジーア […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172054.html",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "I've played 2 of Dawn of War 4's campaigns, and they're everything I hoped they'd be",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rts/ive-played-2-of-dawn-of-war-4s-campaigns-and-theyre-everything-i-hoped-theyd-be/",
+        "date": "2026-10-21",
+        "is_translated": true
+      },
+      {
+        "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "One of the most memorable demos I played at Gamescom Latam 2026 was that of Talaka, a watercoloured 2D action-roguelike that - like many games at the São Paulo-based show – leaned deeply",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
+        "date": "2026-10-21",
+        "is_translated": true
+      },
+      {
+        "title": "Dawn of War 4 clearly loves the Warhammer 40K strategy games that came before, but it misses that they loved to reinvent themselves",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "I may have set my expectations for Dawn of War 4 too high, but it's a series that, to my mind, never retreads the same ground. It's therefore been disappointing to feel, having played it across two i",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves",
+        "date": "2026-10-21",
+        "is_translated": true
+      },
+      {
+        "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Bracingly moist open world survival game Subnautica 2 is embarking on the \"voyage to early access 2.0\" - this being developer Unknown Worlds' excitable term for the next round of updates, which will",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
+        "date": "2026-10-21",
+        "is_translated": true
       },
       {
         "title": "最大6人協力・海賊オープンワールド『Keelblade：伝説の海賊』新体験版配信開始。自由建設なマイ海賊船での大冒険は、陸に上がればソウルライクな過酷世界",
@@ -269,19 +347,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261020-474499/",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボート漕ぎ”などが人気上昇中。注目作をいろいろ紹介",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamにて10月20日、「Steam Nextフェス2026年10月エディション」が開始された。同時接続プレイヤー数や好評レビューの多いタイトルなどを中心に、注目作を紹介していく。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
         "date": "2026-10-20",
         "is_translated": false
       },
@@ -312,19 +377,6 @@
         "is_translated": true
       },
       {
-        "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
         "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -338,19 +390,6 @@
         "is_translated": true
       },
       {
-        "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Double Stallionは10月20日、協力対応ハクスラアクションRPG『Surfpunk』の新体験版を配信した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
         "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -361,32 +400,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
         "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Saturday's are for having your mind read. Or, at least, this Saturday is because I'm seeing Derren Brown's new show. I'm a little self-conscious about it, not because I'm worried the mentalist will h",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
-        "date": "2026-10-17",
-        "is_translated": true
-      },
-      {
-        "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Season 2 of Wardogs, the multiplayer sandbox FPS currently blasting and/or politely driving its way through early access, introduced an un usual \"social experiment\" when it launched yesterday. In an",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-        "date": "2026-10-16",
         "is_translated": true
       }
     ],
@@ -603,5 +616,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T03:53:49.980378"
+  "last_updated": "2026-10-21T16:21:07.665932"
 }

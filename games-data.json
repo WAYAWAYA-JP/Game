@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
         "title": "Bad Cheese - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       }
     ],
     "bundle": [
@@ -234,6 +234,32 @@
     ],
     "review": [
       {
+        "title": "訪問者判別ホラー「No, I’m not a Human」のコンソール対応がアナウンス、発売は2027年",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Violent Horror Storiesシリーズで知られるTrioskazの新作ホラーゲームとして、昨年9月にローンチを果たし、高い評価を獲得した「No, I’m not a Human」ですが、昨日放送されたCRI […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172038.html",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "傑作Sci-Fiホラー「Mouthwashing」のコンソール版ローンチが10月29日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スウェーデンのインディーデベロッパ“Wrong Organ”の新作として、2024年9月にローンチを果たし、極めて後味の悪いプレイ感と素晴らしいストーリーテリングで高い評価を獲得したSci-Fiホラー「Mouthwash […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172032.html",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
         "title": "最大6人協力・海賊オープンワールド『Keelblade：伝説の海賊』新体験版配信開始。自由建設なマイ海賊船での大冒険は、陸に上がればソウルライクな過酷世界",
         "platform": "AUTOMATON",
         "type": "review",
@@ -260,56 +286,30 @@
         "is_translated": false
       },
       {
-        "title": "「サイバーパンク: エッジランナーズ2」の配信が遂にスタート、お披露目第1話のTwitchリアルタイム配信もまもなく",
-        "platform": "doope!",
+        "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "昨日、当サイトのレビューと地域別の解禁時刻をご紹介した「サイバーパンク: エッジランナーズ2」ですが、先ほど予定通り国内外で本作のNetflix独占配信が遂にスタートしました。 サイバーパンク: エッジランナーズ2、本日 […]",
+        "description": "Arrowhead says Easy Anti-Cheat will be more effective in combatting recent cheat mods, but the change has resulted in more than 1,000 negative user reviews on Steam in a single day.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171978.html",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
         "date": "2026-10-20",
-        "is_translated": false
+        "is_translated": true
       },
       {
-        "title": "「サイバーパンク: エッジランナーズ2」全話レビュー、TRIGGERとCD PROJEKT REDが描くナイトシティの新しい明日・未来・物語",
-        "platform": "doope!",
+        "title": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "先日ご紹介した第1話試写会と舞台挨拶を経て、明日10月20日の配信がいよいよ目前に迫る「サイバーパンク: エッジランナーズ2」ですが、光栄なことに先行レビューの機会を頂き、一足先に本作の全10話を見まして、正直なところか […]",
+        "description": "I swear they aren't all farm sims.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10171959.html",
+        "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
         "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が今年のハロウィンに決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "クトゥルフ神話や伊藤潤二作品にインスパイアされたコズミックジャパニーズホラーRPGとして2023年10月にローンチを果たし、高い評価を獲得した「恐怖の世界」の大型アップデートとして、今年2月にアナウンスされ、その後すっか […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171976.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者にはゲームの販売地域を決定する権利がある",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、当サイトのレビューを通じて、ここ数年で最も重要なビデオゲームとして、できるだけ多くの方にプレイして欲しいとご紹介したORIGAME DIGITALの最新作「ペンギン・コロニー」（Penguin Colony）ですが […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171979.html",
-        "date": "2026-10-20",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
@@ -338,19 +338,6 @@
         "is_translated": true
       },
       {
-        "title": "Nintendo Switch Sports Resort Reviews Prove the Series Isn't Winning Any Awards",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Nintendo Switch Sports Reviews are in, and they're remarkably consistent with Wii Sports Resort's reception in 2009.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
         "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
         "platform": "AUTOMATON",
         "type": "review",
@@ -362,32 +349,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
         "date": "2026-10-19",
         "is_translated": false
-      },
-      {
-        "title": "GameSir Nova Lite 2 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The best deal in controllers at $30 or less right now.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-        "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "All the interesting Steam facts for the week ending October 18.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-        "date": "2026-10-19",
-        "is_translated": true
       },
       {
         "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
@@ -403,19 +364,6 @@
         "is_translated": true
       },
       {
-        "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
-        "date": "2026-10-18",
-        "is_translated": true
-      },
-      {
         "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -426,6 +374,19 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
         "date": "2026-10-17",
+        "is_translated": true
+      },
+      {
+        "title": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Season 2 of Wardogs, the multiplayer sandbox FPS currently blasting and/or politely driving its way through early access, introduced an un usual \"social experiment\" when it launched yesterday. In an",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
+        "date": "2026-10-16",
         "is_translated": true
       }
     ],
@@ -642,5 +603,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-20T16:04:40.206168"
+  "last_updated": "2026-10-21T03:53:49.980378"
 }

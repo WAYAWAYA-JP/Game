@@ -14,6 +14,30 @@
         "date": "2026-10-22"
       },
       {
+        "title": "Sker Ritual - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+        "price": "無料",
+        "originalPrice": "¥2,480",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sorry We're Closed - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Sorry We're Closed』は、豊かな設定、奥深いキャラクター描写、そして複数のエンディングを備えた、ノスタルジックなシングルプレイ用サバイバルホラーゲームです。固定カメラアングルによる不気味な場所の探索に加え、第三の目を開いて世界の狭間を見つめ、秘密を暴き、謎を解き明かしましょう。",
+        "price": "無料",
+        "originalPrice": "¥2,480",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Monument Valley - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -26,24 +50,12 @@
         "date": "2026-10-22"
       },
       {
-        "title": "Bad Cheese - Epic Games 無料配布中",
+        "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. Step into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. Be on your best behavior and KEEP DADDY HAPPY.",
+        "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
         "price": "無料",
-        "originalPrice": "¥1,260",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Agent A - 偽装のパズルがEpic Gamesで期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
-        "price": "無料",
-        "originalPrice": "¥1,980",
+        "originalPrice": "¥490",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -51,6 +63,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build your own Legendary Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-22"
+      },
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle (Pay $10 for RoboCop: Rogue City - Collection, Ghostrunner 2, Ghostrunner, $15 adds Crysis 3 Remastered, Crysis 2 Remastered, Crysis Remastered, and $25 adds Marathon, Xenonauts 2)",
         "platform": "Humble Bundle",
@@ -218,21 +242,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-09"
-      },
-      {
-        "title": "Take Two - Gearbox Sale - Borderlands 4 (€30.69 -56% off / £25.99 -56% off / $30.60 -56% off), Risk of Rain 2 (€7.69 -69% off / £5.99 -70% off / $7.49 -70% off), Borderlands Collection: Pandora's Box (€31.99 -54% off / £25.99 -53% off / $33.90 -51% off), EU, UK, US | Steam Activation",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-09"
       }
     ],
     "review": [
+      {
+        "title": "『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令和式に提供するゲーム",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本作は「もしも『ファイナルファンタジー』がドットのまま進化を遂げていたら」という作品コンセプトを掲げている。これは果たして懐かしさの安売りなのか。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/final-fantasy-resonance-20261022-474969/",
+        "date": "2026-10-22",
+        "is_translated": false
+      },
       {
         "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
         "platform": "AUTOMATON",
@@ -245,6 +270,45 @@
         "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
         "date": "2026-10-22",
         "is_translated": false
+      },
+      {
+        "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Hellraiser: Revival may not be great action horror but it does win the prize for most unique fetch quest.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
+        "date": "2026-10-22",
+        "is_translated": true
+      },
+      {
+        "title": "Over '30 million rounds of PvE were played' over the last week in Arc Raiders but Embark still needs 'a bit of time to understand what the data is telling us'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "I'm very sad to see the tail end of PvE in Arc Raiders.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
+        "date": "2026-10-22",
+        "is_translated": true
+      },
+      {
+        "title": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "I just love me a megastructure, I do. I'm not entirely sure why, to be honest. My best guess is that growing up in a major city with concrete pillars looming over me higher into the sky than I care",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
+        "date": "2026-10-22",
+        "is_translated": true
       },
       {
         "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
@@ -260,32 +324,6 @@
         "is_translated": false
       },
       {
-        "title": "国産大型メトロイドヴァニア『Chronoscript』、体験版「85%好評」だけど延期した理由。開発者を動かしたユーザーの“質の高いフィードバック”と『Hollow Knight』『Constance』開発者の助言",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "集英社ゲームズのプロデューサー山本正美氏、デスクワークスのディレクター藤井トム氏、メインアーティストの南場ナム氏にインタビューを実施。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/chronoscript-20261021-474646/",
-        "date": "2026-10-21",
-        "is_translated": false
-      },
-      {
-        "title": "Nintendo Switch 2/Switch向けセールに約380本どどんと追加。『ユニコーンオーバーロード』が半額、『超探偵事件簿 レインコード』は最安値更新、軽トラねこ配達ゲームなど高評価インディーも安い",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約380本。本記事では、その中から注目タイトルをいくつか紹介する。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261021-474645/",
-        "date": "2026-10-21",
-        "is_translated": false
-      },
-      {
         "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
         "platform": "PC Gamer",
         "type": "review",
@@ -295,19 +333,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-        "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
-        "title": "I've played 2 of Dawn of War 4's campaigns, and they're everything I hoped they'd be",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rts/ive-played-2-of-dawn-of-war-4s-campaigns-and-theyre-everything-i-hoped-theyd-be/",
         "date": "2026-10-21",
         "is_translated": true
       },
@@ -361,19 +386,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
         "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
-        "title": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Moonlighter and Cataclismo developers Digital Sun Games have postponed a public Steam playtest for their new game ReVamp, for fear of people using generative AI to clone their work before release. Re",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-        "date": "2026-10-19",
         "is_translated": true
       }
     ],
@@ -590,5 +602,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-22T03:53:29.412381"
+  "last_updated": "2026-10-22T16:20:18.036234"
 }

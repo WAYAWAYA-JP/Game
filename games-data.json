@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
         "title": "Bad Cheese - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       },
       {
         "title": "Agent A - 偽装のパズル - Epic Games 無料配布中",
@@ -47,10 +47,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
       }
     ],
     "bundle": [
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle (Pay $10 for RoboCop: Rogue City - Collection, Ghostrunner 2, Ghostrunner, $15 adds Crysis 3 Remastered, Crysis 2 Remastered, Crysis Remastered, and $25 adds Marathon, Xenonauts 2)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-22"
+      },
       {
         "title": "Build your own Fantasy Ages Bundle",
         "platform": "Fanatical",
@@ -218,21 +230,22 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-09"
-      },
-      {
-        "title": "Beyond Reality: Sci-Fi & Survival VR Collection (Pay $5 for Blair Witch VR, Z.O.N.A Project X VR, $10 adds Z.O.N.A: Origin, Layers of Fear VR, A Rogue Escape, and $15 adds Star Trek: Infection, Homeworld: Vast Reaches)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-08"
       }
     ],
     "review": [
+      {
+        "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "セガは10月21日、『Football Manager 27』のローンチプレビューを日本時間10月30日午前3時から11月4日午前3時まで開催すると発表した。製品版に近いビルドで機能の制限なく無料で遊ぶことができる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
+        "date": "2026-10-22",
+        "is_translated": false
+      },
       {
         "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
         "platform": "AUTOMATON",
@@ -273,17 +286,17 @@
         "is_translated": false
       },
       {
-        "title": "ダークファンタジーアクションRPG「Fatekeeper」の早期アクセス版販売が50万本を突破",
-        "platform": "doope!",
+        "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Grimlore Gamesの元開発者達が在籍する新スタジオ“Paraglacial”が開発を手がけるTHQ Nordicの新作として、今年6月にローンチを果たし、非常に高い評価を獲得した一人称視点のダークファンタジーア […]",
+        "description": "(Don't worry, you don't need to be a sim geek to dig it.)",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172054.html",
+        "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
         "date": "2026-10-21",
-        "is_translated": false
+        "is_translated": true
       },
       {
         "title": "I've played 2 of Dawn of War 4's campaigns, and they're everything I hoped they'd be",
@@ -335,45 +348,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
         "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
-        "title": "最大6人協力・海賊オープンワールド『Keelblade：伝説の海賊』新体験版配信開始。自由建設なマイ海賊船での大冒険は、陸に上がればソウルライクな過酷世界",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Digital Confectionersは10月20日、オープンワールド・アクションRPG『Keelblade：伝説の海賊』の新体験版を配信した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474499/",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Arrowhead says Easy Anti-Cheat will be more effective in combatting recent cheat mods, but the change has resulted in more than 1,000 negative user reviews on Steam in a single day.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
-        "title": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "I swear they aren't all farm sims.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-        "date": "2026-10-20",
         "is_translated": true
       },
       {
@@ -616,5 +590,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T16:21:07.665932"
+  "last_updated": "2026-10-22T03:53:29.412381"
 }

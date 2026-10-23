@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       }
     ],
     "bundle": [
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle (Pay $10 for RoboCop: Rogue City - Collection, Ghostrunner 2, Ghostrunner, $15 adds Crysis 3 Remastered, Crysis 2 Remastered, Crysis Remastered, and $25 adds Marathon, Xenonauts 2)",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "title": "Build your own Fantasy Ages Bundle",
@@ -218,33 +218,35 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-11"
-      },
-      {
-        "title": "Story-Rich Megabundle - Includes Consume Me, despelote, Until Then, Umurangi Generation, A Highland Song, Kraken Academy!!, Betrayal At Club Low, Wander Stars, No Case Should Remain Unsolved, and Kulebra and the Souls of Limbo ($24.57 / 50% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "収録: Consume Me、despelote、Until Then",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "The Triple-i Initiative Showcase Bundle (Pay $8 for Gestalt: Steam & Cinder, WHAT THE CAR?, $10 adds Cat Quest III, 33 Immortals, Endzone 2, and $13 adds X4: Foundations, The Last Spell - Complete Edition, My Time at Sandrock)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-09"
       }
     ],
     "review": [
+      {
+        "title": "新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう」で成立する、最大30人協力TPSの“気疲れしない”サブゲームシューター",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "最大30人協力TPS『B.L.U.E. NOVA』の試遊レポートをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁",
+        "platform": "doope!",
+        "type": "review",
+        "description": "傑作“The Wolf Among Us”と“Tales from the Borderlands”のクリエイターたちが設立した“AdHoc Studio”の新作として、昨年10月にローンチを果たし、極めて高い評価の獲得 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172112.html",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
       {
         "title": "『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令和式に提供するゲーム",
         "platform": "AUTOMATON",
@@ -270,6 +272,19 @@
         "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
         "date": "2026-10-22",
         "is_translated": false
+      },
+      {
+        "title": "My GOTY is $7 and has 253 Steam reviews",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Stuntboost is a racing game for FPS movement sickos.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+        "date": "2026-10-22",
+        "is_translated": true
       },
       {
         "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
@@ -324,19 +339,6 @@
         "is_translated": false
       },
       {
-        "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "(Don't worry, you don't need to be a sim geek to dig it.)",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-        "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
         "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -373,19 +375,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
         "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
-        "title": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates. That run of is set to continue through to 2027",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
-        "date": "2026-10-20",
         "is_translated": true
       }
     ],
@@ -602,5 +591,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-22T16:20:18.036234"
+  "last_updated": "2026-10-23T03:58:02.852453"
 }

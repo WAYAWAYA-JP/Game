@@ -64,6 +64,18 @@
     ],
     "bundle": [
       {
+        "title": "Build your own Frightmare Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "収録: in / More)",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-23"
+      },
+      {
         "title": "Build your own Legendary Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -222,6 +234,45 @@
     ],
     "review": [
       {
+        "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本動画では、『クレイジータクシー：ワールドツアー』の先行プレイ映像をお届けします。『クレイジータクシー：ワールドツアー』は、PS5/Xbox Series X|S/Nintendo Switch 2/PC向けに2027年 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/20261023-475276/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦の新バトル、飛空艇で世界を自由に飛び回る高密度フィールドも体験",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本動画では、『ファイナルファンタジーVII リベレーション』の先行プレイ映像をお届けします。『ファイナルファンタジーVII リベレーション』は、PS5/Xbox Series X|S/Nintendo Switch 2/ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/20261023-475274/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "『FF』新作『ファイナルファンタジー レゾナンス』一日遅れのSteamでも“同接2万越”の大盛況。もしもが現実になった“ドット絵の『FF』”",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクウェア・エニックスは10月22日、『ファイナルファンタジー レゾナンス』を配信開始した。1日遅れで配信されたSteam版では最大同時接続プレイヤー数が2万人を突破し、Steamユーザーレビューは「非常に好評」ステータスを獲得するなど、さっそく人気を博している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261023-475144/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
         "title": "新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう」で成立する、最大30人協力TPSの“気疲れしない”サブゲームシューター",
         "platform": "AUTOMATON",
         "type": "review",
@@ -248,30 +299,17 @@
         "is_translated": false
       },
       {
-        "title": "『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令和式に提供するゲーム",
-        "platform": "AUTOMATON",
+        "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "本作は「もしも『ファイナルファンタジー』がドットのまま進化を遂げていたら」という作品コンセプトを掲げている。これは果たして懐かしさの安売りなのか。",
+        "description": "Upscaling can also help a bunch, of course.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/final-fantasy-resonance-20261022-474969/",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "セガは10月21日、『Football Manager 27』のローンチプレビューを日本時間10月30日午前3時から11月4日午前3時まで開催すると発表した。製品版に近いビルドで機能の制限なく無料で遊ぶことができる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
-        "date": "2026-10-22",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
+        "date": "2026-10-23",
+        "is_translated": true
       },
       {
         "title": "My GOTY is $7 and has 253 Steam reviews",
@@ -300,19 +338,6 @@
         "is_translated": true
       },
       {
-        "title": "Over '30 million rounds of PvE were played' over the last week in Arc Raiders but Embark still needs 'a bit of time to understand what the data is telling us'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "I'm very sad to see the tail end of PvE in Arc Raiders.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
-        "date": "2026-10-22",
-        "is_translated": true
-      },
-      {
         "title": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -324,19 +349,6 @@
         "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
         "date": "2026-10-22",
         "is_translated": true
-      },
-      {
-        "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "フリューは10月22日、『クライムライト／CRYMELIGHT』PS5/Nintendo Switch 2向けの体験版を配信開始した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261021-474786/",
-        "date": "2026-10-21",
-        "is_translated": false
       },
       {
         "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
@@ -591,5 +603,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T03:58:02.852453"
+  "last_updated": "2026-10-23T16:09:53.245732"
 }

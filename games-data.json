@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       }
     ],
     "bundle": [
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-23"
+        "date": "2026-10-24"
       },
       {
         "title": "Build your own Legendary Bundle",
@@ -234,6 +234,32 @@
     ],
     "review": [
       {
+        "title": "Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」の暫定的な販売停止措置に関する最新の進捗を報告、CAは完全版の開発や社内レビュー/QAに関与していなかった",
+        "platform": "doope!",
+        "type": "review",
+        "description": "世界中のファンを驚かせた今年9月中旬のアナウンスを経て、先日国内外で待望の日本語対応を含むローンチを果たしたものの、AIの利用や技術的な問題により、一時的に販売を停止する事態となった「トータルウォー：ショーグン２ コンプ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172111.html",
+        "date": "2026-10-24",
+        "is_translated": false
+      },
+      {
+        "title": "高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、Steam同接は20万人弱に",
+        "platform": "doope!",
+        "type": "review",
+        "description": "予約購入者向けのキャンペーン/DMZ先行アクセスを経て、昨日待望の正式リリースを迎えた「Call of Duty: Modern Warfare 4」ですが、新たに本作のレビューが解禁され、2019年の新シリーズ始動以降 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172109.html",
+        "date": "2026-10-24",
+        "is_translated": false
+      },
+      {
         "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
         "platform": "AUTOMATON",
         "type": "review",
@@ -286,19 +312,6 @@
         "is_translated": false
       },
       {
-        "title": "500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁",
-        "platform": "doope!",
-        "type": "review",
-        "description": "傑作“The Wolf Among Us”と“Tales from the Borderlands”のクリエイターたちが設立した“AdHoc Studio”の新作として、昨年10月にローンチを果たし、極めて高い評価の獲得 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172112.html",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
         "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
         "platform": "PC Gamer",
         "type": "review",
@@ -321,19 +334,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-        "date": "2026-10-22",
-        "is_translated": true
-      },
-      {
-        "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Hellraiser: Revival may not be great action horror but it does win the prize for most unique fetch quest.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
         "date": "2026-10-22",
         "is_translated": true
       },
@@ -373,19 +373,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves",
-        "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
-        "title": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Bracingly moist open world survival game Subnautica 2 is embarking on the \"voyage to early access 2.0\" - this being developer Unknown Worlds' excitable term for the next round of updates, which will",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing",
         "date": "2026-10-21",
         "is_translated": true
       }
@@ -603,5 +590,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T16:09:53.245732"
+  "last_updated": "2026-10-24T03:52:04.890927"
 }

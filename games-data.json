@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     ],
     "bundle": [
@@ -234,6 +234,19 @@
     ],
     "review": [
       {
+        "title": "『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて強い”「これ、難しいやつでは？」と思ったら素直なプレイ感",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ウマ娘 プリティーダービー』の新育成シナリオ「朋、史解き ―午式駿大祭― 」の先行プレイレポートをお届けしたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
+        "date": "2026-10-25",
+        "is_translated": false
+      },
+      {
         "title": "Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」の暫定的な販売停止措置に関する最新の進捗を報告、CAは完全版の開発や社内レビュー/QAに関与していなかった",
         "platform": "doope!",
         "type": "review",
@@ -258,6 +271,19 @@
         "url": "https://doope.jp/2026/10172109.html",
         "date": "2026-10-24",
         "is_translated": false
+      },
+      {
+        "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Something ancient and horrible stirs in the farthest south: Are you bad enough penguin to… not really do much about it?",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+        "date": "2026-10-24",
+        "is_translated": true
       },
       {
         "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
@@ -299,32 +325,6 @@
         "is_translated": false
       },
       {
-        "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Upscaling can also help a bunch, of course.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
-        "date": "2026-10-23",
-        "is_translated": true
-      },
-      {
-        "title": "My GOTY is $7 and has 253 Steam reviews",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Stuntboost is a racing game for FPS movement sickos.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-        "date": "2026-10-22",
-        "is_translated": true
-      },
-      {
         "title": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -335,32 +335,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
         "date": "2026-10-22",
-        "is_translated": true
-      },
-      {
-        "title": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "One of the most memorable demos I played at Gamescom Latam 2026 was that of Talaka, a watercoloured 2D action-roguelike that - like many games at the São Paulo-based show – leaned deeply",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
-        "date": "2026-10-21",
-        "is_translated": true
-      },
-      {
-        "title": "Dawn of War 4 clearly loves the Warhammer 40K strategy games that came before, but it misses that they loved to reinvent themselves",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I may have set my expectations for Dawn of War 4 too high, but it's a series that, to my mind, never retreads the same ground. It's therefore been disappointing to feel, having played it across two i",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dawn-of-war-4-clearly-loves-the-warhammer-40k-strategy-games-that-came-before-but-it-misses-that-they-loved-to-reinvent-themselves",
-        "date": "2026-10-21",
         "is_translated": true
       }
     ],
@@ -577,5 +551,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-24T15:05:54.950163"
+  "last_updated": "2026-10-25T03:49:59.865636"
 }

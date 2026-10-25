@@ -247,6 +247,19 @@
         "is_translated": false
       },
       {
+        "title": "Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Jeff Kaplan's The Legend of California has shifted its early access launch from 2026 to 2027",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-legend-of-california-delay/",
+        "date": "2026-10-25",
+        "is_translated": true
+      },
+      {
         "title": "Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」の暫定的な販売停止措置に関する最新の進捗を報告、CAは完全版の開発や社内レビュー/QAに関与していなかった",
         "platform": "doope!",
         "type": "review",
@@ -308,19 +321,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/videos/20261023-475274/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "『FF』新作『ファイナルファンタジー レゾナンス』一日遅れのSteamでも“同接2万越”の大盛況。もしもが現実になった“ドット絵の『FF』”",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スクウェア・エニックスは10月22日、『ファイナルファンタジー レゾナンス』を配信開始した。1日遅れで配信されたSteam版では最大同時接続プレイヤー数が2万人を突破し、Steamユーザーレビューは「非常に好評」ステータスを獲得するなど、さっそく人気を博している。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261023-475144/",
         "date": "2026-10-23",
         "is_translated": false
       },
@@ -551,5 +551,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-25T03:49:59.865636"
+  "last_updated": "2026-10-25T15:17:38.843526"
 }

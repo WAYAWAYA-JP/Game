@@ -64,6 +64,18 @@
     ],
     "bundle": [
       {
+        "title": "Build your own Puzzle Adventure Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-26"
+      },
+      {
         "title": "Build your own Frightmare Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -206,33 +218,35 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-14"
-      },
-      {
-        "title": "Build Your Own All Stars Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-11"
-      },
-      {
-        "title": "[Newegg] Destiny 2: The Collection [Steam Code] ($19.99, 71% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-11"
       }
     ],
     "review": [
+      {
+        "title": "ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される。「まぁまぁの星3」が「厳しめ評価の60点」に化ける",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Metacriticでは100点満点でメタスコアが算出されるが、5段階制評価を採用しているメディアのレビュースコアの換算方法を問題視する声が上がっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261026-475681/",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "インディーゲームがこの1年で大躍進、「初動のヒット作数はAAA超え」との業界レポート。発売初月50万本超えゲームは半数近くインディー、大作顔負けの売れっぷり",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PC・コンソールゲーム市場ではこの1年で、発売初月で50万本以上を売り上げたゲームの数が増加し、インディーゲームが勢いを増していたという。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261026-475577/",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
       {
         "title": "『ファイナルファンタジー レゾナンス』Steamで97％好評で破竹の勢い、『FF』シリーズ最大級の人気に。熱い賑わいに、開発者めっちゃ喜ぶ",
         "platform": "AUTOMATON",
@@ -243,6 +257,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261026-475567/",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期アクセス版は既に50万本販売突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2024年10月末にSteam Early Access版ローンチを果たし非常に高い評価を得ている人気ローグライクFPS「サルファー」でしが。新たにスウェーデンのインディースタジオPerfect Randomがプレスリリ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172191.html",
         "date": "2026-10-26",
         "is_translated": false
       },
@@ -260,15 +287,15 @@
         "is_translated": true
       },
       {
-        "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+        "title": "T'Nia Miller Shares What Motion Capture for 'VisionQuest's Jocasta Was Really Like",
         "platform": "Polygon",
         "type": "review",
-        "description": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+        "description": "VisionQuest actor T'Nia Miller speaks with Polygon about playing the AI villain Jocasta, including performing the motion capture scenes",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+        "url": "https://www.polygon.com/visionquest-tnia-miller-motion-capture-interview/",
         "date": "2026-10-26",
         "is_translated": true
       },
@@ -286,19 +313,6 @@
         "is_translated": false
       },
       {
-        "title": "The PathlessとAbzûを生んだ“Giant Squid”の新作「Sword of the Sea」がXBOXに対応か、ストアページがオープン",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The PathlessとAbzûを生んだ“Giant Squid”の次回作として、昨年8月にPS5とPC向けのローンチを果たし、高い評価を獲得した「Sword of the Sea」ですが、新たに国内外のXBOXストア […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172187.html",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
-      {
         "title": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
         "platform": "PC Gamer",
         "type": "review",
@@ -312,19 +326,6 @@
         "is_translated": true
       },
       {
-        "title": "Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」の暫定的な販売停止措置に関する最新の進捗を報告、CAは完全版の開発や社内レビュー/QAに関与していなかった",
-        "platform": "doope!",
-        "type": "review",
-        "description": "世界中のファンを驚かせた今年9月中旬のアナウンスを経て、先日国内外で待望の日本語対応を含むローンチを果たしたものの、AIの利用や技術的な問題により、一時的に販売を停止する事態となった「トータルウォー：ショーグン２ コンプ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172111.html",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
         "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
         "platform": "PC Gamer",
         "type": "review",
@@ -335,32 +336,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
         "date": "2026-10-24",
-        "is_translated": true
-      },
-      {
-        "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本動画では、『クレイジータクシー：ワールドツアー』の先行プレイ映像をお届けします。『クレイジータクシー：ワールドツアー』は、PS5/Xbox Series X|S/Nintendo Switch 2/PC向けに2027年 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/videos/20261023-475276/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I just love me a megastructure, I do. I'm not entirely sure why, to be honest. My best guess is that growing up in a major city with concrete pillars looming over me higher into the sky than I care",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
-        "date": "2026-10-22",
         "is_translated": true
       }
     ],
@@ -577,5 +552,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-26T03:54:45.505786"
+  "last_updated": "2026-10-26T17:56:55.138543"
 }

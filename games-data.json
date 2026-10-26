@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
       }
     ],
     "bundle": [
@@ -234,6 +234,45 @@
     ],
     "review": [
       {
+        "title": "『ファイナルファンタジー レゾナンス』Steamで97％好評で破竹の勢い、『FF』シリーズ最大級の人気に。熱い賑わいに、開発者めっちゃ喜ぶ",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクウェア・エニックスは10月22日、『ファイナルファンタジー レゾナンス』を発売した。体験版も好評であった本作は、Steam版の好評率97％を獲得するなど、製品版についても多くの好評の声が寄せられている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261026-475567/",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "All the interesting Steam facts for the week ending October 25.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+        "date": "2026-10-26",
+        "is_translated": true
+      },
+      {
+        "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+        "date": "2026-10-26",
+        "is_translated": true
+      },
+      {
         "title": "『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて強い”「これ、難しいやつでは？」と思ったら素直なプレイ感",
         "platform": "AUTOMATON",
         "type": "review",
@@ -247,15 +286,28 @@
         "is_translated": false
       },
       {
-        "title": "Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027",
-        "platform": "Polygon",
+        "title": "The PathlessとAbzûを生んだ“Giant Squid”の新作「Sword of the Sea」がXBOXに対応か、ストアページがオープン",
+        "platform": "doope!",
         "type": "review",
-        "description": "Jeff Kaplan's The Legend of California has shifted its early access launch from 2026 to 2027",
+        "description": "The PathlessとAbzûを生んだ“Giant Squid”の次回作として、昨年8月にPS5とPC向けのローンチを果たし、高い評価を獲得した「Sword of the Sea」ですが、新たに国内外のXBOXストア […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/the-legend-of-california-delay/",
+        "url": "https://doope.jp/2026/10172187.html",
+        "date": "2026-10-25",
+        "is_translated": false
+      },
+      {
+        "title": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The co-founder of indie studio Question guides us through the games on his PC.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
         "date": "2026-10-25",
         "is_translated": true
       },
@@ -269,19 +321,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://doope.jp/2026/10172111.html",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
-        "title": "高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、Steam同接は20万人弱に",
-        "platform": "doope!",
-        "type": "review",
-        "description": "予約購入者向けのキャンペーン/DMZ先行アクセスを経て、昨日待望の正式リリースを迎えた「Call of Duty: Modern Warfare 4」ですが、新たに本作のレビューが解禁され、2019年の新シリーズ始動以降 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172109.html",
         "date": "2026-10-24",
         "is_translated": false
       },
@@ -308,19 +347,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/videos/20261023-475276/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦の新バトル、飛空艇で世界を自由に飛び回る高密度フィールドも体験",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本動画では、『ファイナルファンタジーVII リベレーション』の先行プレイ映像をお届けします。『ファイナルファンタジーVII リベレーション』は、PS5/Xbox Series X|S/Nintendo Switch 2/ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/videos/20261023-475274/",
         "date": "2026-10-23",
         "is_translated": false
       },
@@ -551,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-25T15:17:38.843526"
+  "last_updated": "2026-10-26T03:54:45.505786"
 }

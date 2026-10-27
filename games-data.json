@@ -64,6 +64,18 @@
     ],
     "bundle": [
       {
+        "title": "Build your own Slayer Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-27"
+      },
+      {
         "title": "Marmalade Games: Ultimate Digital Game Night (Pay $5 for The Game of Life, Hasbro's Battleship, Hasbro's BATTLESHIP - SC, $12 adds The Game of Life 2, The Game of Life 2 - The Ultimate Life Collection, 6 more, and $15 adds Clue/Cluedo, Clue/Cluedo: Noir Mansion Expansion, 6 more)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -234,17 +246,43 @@
     ],
     "review": [
       {
-        "title": "「Call of Duty」シリーズの累計収益が400億ドルを突破、XBOXのCEO Asha Sharma氏が報告",
-        "platform": "doope!",
+        "title": "高評価「二重営業」こすい宿屋ゲーム『ダンジョン・イン』正式リリース。お客は敵同士、両方カモにする命がけビジネス",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "予約購入者向けのキャンペーン/DMZ先行アクセスを経て、先日待望の正式ローンチを果たし、2019年の“Modern Warfare”新シリーズ始動以降最も高い評価を獲得した「Call of Duty: Modern Wa […]",
+        "description": "Cat Societyは10月23日、宿屋経営ゲーム『ダンジョン・イン』を正式リリースした。Steamにて「非常に好評」ステータスを得ているゲームだ。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172241.html",
+        "url": "https://automaton-media.com/articles/newsjp/20261027-475862/",
         "date": "2026-10-27",
         "is_translated": false
+      },
+      {
+        "title": "体験版祭り「Steam Nextフェス」 10月版の人気トップ50発表。1位はいたずら生徒vs.教師の非対称バトル、明日発売のディストピア質屋経営シムは2位に",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Valveは10月27日、Steamのイベント「Steam Nextフェス：2026年10月エディション」が本日閉幕したことを受けて、期間中にもっともプレイされたトップ50の体験版を発表した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261027-475863/",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Playing music too loud on the subway? Believe it or not, straight to jail.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
+        "date": "2026-10-27",
+        "is_translated": true
       },
       {
         "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
@@ -260,15 +298,15 @@
         "is_translated": true
       },
       {
-        "title": "24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2",
-        "platform": "Polygon",
+        "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Super Mario Sunshine was beloved at launch but grew to become one of the most divisive Mario games ever. Here's why it's worth playing in 2026.",
+        "description": "Though Street Fighter 6 has been the most popular fighting game in the world for three years running, there are still dedicated soldiers playing Street Fighter V right now. Be that due to its much la",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
+        "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
         "date": "2026-10-27",
         "is_translated": true
       },
@@ -284,58 +322,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20261026-475681/",
         "date": "2026-10-26",
         "is_translated": false
-      },
-      {
-        "title": "インディーゲームがこの1年で大躍進、「初動のヒット作数はAAA超え」との業界レポート。発売初月50万本超えゲームは半数近くインディー、大作顔負けの売れっぷり",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PC・コンソールゲーム市場ではこの1年で、発売初月で50万本以上を売り上げたゲームの数が増加し、インディーゲームが勢いを増していたという。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475577/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "『ファイナルファンタジー レゾナンス』Steamで97％好評で破竹の勢い、『FF』シリーズ最大級の人気に。熱い賑わいに、開発者めっちゃ喜ぶ",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スクウェア・エニックスは10月22日、『ファイナルファンタジー レゾナンス』を発売した。体験版も好評であった本作は、Steam版の好評率97％を獲得するなど、製品版についても多くの好評の声が寄せられている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475567/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "All the interesting Steam facts for the week ending October 25.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
-        "date": "2026-10-26",
-        "is_translated": true
-      },
-      {
-        "title": "Stardew Valley-inspired RPG Gets Shock Last-Minute Delay",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Emberville delays Early Access until January 2027 as developer works on combat improvements to the Stardew Valley-like PC RPG.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/emberville-early-access-launch-delay/",
-        "date": "2026-10-26",
-        "is_translated": true
       }
     ],
     "sale": [
@@ -551,5 +537,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-27T04:16:20.124464"
+  "last_updated": "2026-10-27T17:03:35.794028"
 }

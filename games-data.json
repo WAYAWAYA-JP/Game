@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,10 +59,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       }
     ],
     "bundle": [
+      {
+        "title": "Marmalade Games: Ultimate Digital Game Night (Pay $5 for The Game of Life, Hasbro's Battleship, Hasbro's BATTLESHIP - SC, $12 adds The Game of Life 2, The Game of Life 2 - The Ultimate Life Collection, 6 more, and $15 adds Clue/Cluedo, Clue/Cluedo: Noir Mansion Expansion, 6 more)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-27"
+      },
       {
         "title": "Build your own Puzzle Adventure Bundle",
         "platform": "Fanatical",
@@ -73,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       },
       {
         "title": "Build your own Frightmare Bundle",
@@ -222,6 +234,45 @@
     ],
     "review": [
       {
+        "title": "「Call of Duty」シリーズの累計収益が400億ドルを突破、XBOXのCEO Asha Sharma氏が報告",
+        "platform": "doope!",
+        "type": "review",
+        "description": "予約購入者向けのキャンペーン/DMZ先行アクセスを経て、先日待望の正式ローンチを果たし、2019年の“Modern Warfare”新シリーズ始動以降最も高い評価を獲得した「Call of Duty: Modern Wa […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172241.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Ten years ago, this list would have shocked most PC gamers.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+        "date": "2026-10-27",
+        "is_translated": true
+      },
+      {
+        "title": "24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Super Mario Sunshine was beloved at launch but grew to become one of the most divisive Mario games ever. Here's why it's worth playing in 2026.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
+        "date": "2026-10-27",
+        "is_translated": true
+      },
+      {
         "title": "ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される。「まぁまぁの星3」が「厳しめ評価の60点」に化ける",
         "platform": "AUTOMATON",
         "type": "review",
@@ -261,19 +312,6 @@
         "is_translated": false
       },
       {
-        "title": "ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期アクセス版は既に50万本販売突破",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2024年10月末にSteam Early Access版ローンチを果たし非常に高い評価を得ている人気ローグライクFPS「サルファー」でしが。新たにスウェーデンのインディースタジオPerfect Randomがプレスリリ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172191.html",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
         "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
         "platform": "PC Gamer",
         "type": "review",
@@ -287,55 +325,16 @@
         "is_translated": true
       },
       {
-        "title": "T'Nia Miller Shares What Motion Capture for 'VisionQuest's Jocasta Was Really Like",
+        "title": "Stardew Valley-inspired RPG Gets Shock Last-Minute Delay",
         "platform": "Polygon",
         "type": "review",
-        "description": "VisionQuest actor T'Nia Miller speaks with Polygon about playing the AI villain Jocasta, including performing the motion capture scenes",
+        "description": "Emberville delays Early Access until January 2027 as developer works on combat improvements to the Stardew Valley-like PC RPG.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/visionquest-tnia-miller-motion-capture-interview/",
+        "url": "https://www.polygon.com/emberville-early-access-launch-delay/",
         "date": "2026-10-26",
-        "is_translated": true
-      },
-      {
-        "title": "『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて強い”「これ、難しいやつでは？」と思ったら素直なプレイ感",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ウマ娘 プリティーダービー』の新育成シナリオ「朋、史解き ―午式駿大祭― 」の先行プレイレポートをお届けしたい。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
-      {
-        "title": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The co-founder of indie studio Question guides us through the games on his PC.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
-        "date": "2026-10-25",
-        "is_translated": true
-      },
-      {
-        "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Something ancient and horrible stirs in the farthest south: Are you bad enough penguin to… not really do much about it?",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-        "date": "2026-10-24",
         "is_translated": true
       }
     ],
@@ -552,5 +551,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-26T17:56:55.138543"
+  "last_updated": "2026-10-27T04:16:20.124464"
 }

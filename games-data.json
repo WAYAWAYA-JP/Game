@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       }
     ],
     "bundle": [
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Marmalade Games: Ultimate Digital Game Night (Pay $5 for The Game of Life, Hasbro's Battleship, Hasbro's BATTLESHIP - SC, $12 adds The Game of Life 2, The Game of Life 2 - The Ultimate Life Collection, 6 more, and $15 adds Clue/Cluedo, Clue/Cluedo: Noir Mansion Expansion, 6 more)",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
       },
       {
         "title": "Build your own Puzzle Adventure Bundle",
@@ -230,21 +230,22 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-15"
-      },
-      {
-        "title": "Cozy After Dark Showcase Bundle (Pay $8 for Paradise Killer, Escape From Mystwood Mansion, a pet shop after dark, The Darkside Detective, Kathy Rain Directors Cut, and $12 adds Gloomy Eyes, Cabernet, Spooky Express, Fear the Spotlight, Kulebra and the Souls of Limbo)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-14"
       }
     ],
     "review": [
+      {
+        "title": "「Call of Duty: Modern Warfare 4」のマルチプレイヤーに“シップメント”が実装、評価トレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、待望のローンチを果たし、高い評価を獲得した人気シリーズ最新作「Call of Duty: Modern Warfare 4」ですが、ローンチ後の改善や拡張に期待が掛かるなか、本日Infinity Wardがローンチ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172280.html",
+        "date": "2026-10-28",
+        "is_translated": false
+      },
       {
         "title": "高評価「二重営業」こすい宿屋ゲーム『ダンジョン・イン』正式リリース。お客は敵同士、両方カモにする命がけビジネス",
         "platform": "AUTOMATON",
@@ -270,6 +271,45 @@
         "url": "https://automaton-media.com/articles/newsjp/20261027-475863/",
         "date": "2026-10-27",
         "is_translated": false
+      },
+      {
+        "title": "2種の新デバイスを導入する「リ・ストーリー: 思い出修理屋」の“Fuzzby”アップデートが配信、新トレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "今年8月のローンチを経て高い評価を獲得し、先日モバイル対応がアナウンスされた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、新たにMandragoraがSteamページを更新し、2種の新デバイスを導入する“F […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172267.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "傑作心霊探偵アドベンチャー「The Séance of Blake Manor」のコンソール版が遂にリリース、ローンチトレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "“Darkside Detective”シリーズで知られるSpooky Doorwayの新作として、昨年10月にPC版のローンチを果たし、極めて高い評価を獲得した傑作心霊探偵アドベンチャー「The Séance of B […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172203.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "Call of Duty: Modern Warfare 4 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "This is what it looks like when Call of Duty is in the pocket.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+        "date": "2026-10-27",
+        "is_translated": true
       },
       {
         "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
@@ -298,6 +338,19 @@
         "is_translated": true
       },
       {
+        "title": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Back in 2022, Gears Tactics studio Splash Damage revealed that they were working on a Transformers game. It was called Transformers: Reactivate, and at the time was set to be a 1-4 player co-op acti",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
+        "date": "2026-10-27",
+        "is_translated": true
+      },
+      {
         "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -309,19 +362,6 @@
         "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
         "date": "2026-10-27",
         "is_translated": true
-      },
-      {
-        "title": "ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される。「まぁまぁの星3」が「厳しめ評価の60点」に化ける",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Metacriticでは100点満点でメタスコアが算出されるが、5段階制評価を採用しているメディアのレビュースコアの換算方法を問題視する声が上がっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475681/",
-        "date": "2026-10-26",
-        "is_translated": false
       }
     ],
     "sale": [
@@ -537,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-27T17:03:35.794028"
+  "last_updated": "2026-10-28T04:46:00.304053"
 }

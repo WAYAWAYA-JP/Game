@@ -64,6 +64,18 @@
     ],
     "bundle": [
       {
+        "title": "Wicked Stardust Bundle (95% OFF, $3.99 BPI, $4.49) 6 Steam Games: Stardust Exile, Tales of Vogar - Lost Descendants, Grey Heritage: Noble Duty, Vostok 2061, Lenin - The Lion, Rondoku",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-10-28"
+      },
+      {
         "title": "Build your own Slayer Bundle",
         "platform": "Fanatical",
         "type": "bundle",
@@ -234,69 +246,69 @@
     ],
     "review": [
       {
-        "title": "「Call of Duty: Modern Warfare 4」のマルチプレイヤーに“シップメント”が実装、評価トレーラーも",
-        "platform": "doope!",
+        "title": "PS5/PC注目の大作『Phantom Blade Zero』、まだ発売前なのに「もう100万本以上売れてそう」との調査レポート。60％以上が中国の売上、予約だけでヒット",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "先日、待望のローンチを果たし、高い評価を獲得した人気シリーズ最新作「Call of Duty: Modern Warfare 4」ですが、ローンチ後の改善や拡張に期待が掛かるなか、本日Infinity Wardがローンチ […]",
+        "description": "S-GAMEは10月29日、『Phantom Blade Zero』を発売予定。本作はすでに、ダウンロード版の予約売上だけで85万本に達していると推計されている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172280.html",
+        "url": "https://automaton-media.com/articles/newsjp/20261028-476178/",
         "date": "2026-10-28",
         "is_translated": false
       },
       {
-        "title": "高評価「二重営業」こすい宿屋ゲーム『ダンジョン・イン』正式リリース。お客は敵同士、両方カモにする命がけビジネス",
+        "title": "昼はスローライフ、夜は宇宙ホラー『Life & Shadow: Celestial Call』Steamで98％好評の熱烈人気。星を観測してたら、星に観測されている",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Cat Societyは10月23日、宿屋経営ゲーム『ダンジョン・イン』を正式リリースした。Steamにて「非常に好評」ステータスを得ているゲームだ。",
+        "description": "PlayWayは10月27日、コズミックホラーゲーム『Life & Shadow: Celestial Call』を配信開始。さっそく高い評価が寄せられている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261027-475862/",
-        "date": "2026-10-27",
+        "url": "https://automaton-media.com/articles/newsjp/20261028-476128/",
+        "date": "2026-10-28",
         "is_translated": false
       },
       {
-        "title": "体験版祭り「Steam Nextフェス」 10月版の人気トップ50発表。1位はいたずら生徒vs.教師の非対称バトル、明日発売のディストピア質屋経営シムは2位に",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Valveは10月27日、Steamのイベント「Steam Nextフェス：2026年10月エディション」が本日閉幕したことを受けて、期間中にもっともプレイされたトップ50の体験版を発表した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261027-475863/",
-        "date": "2026-10-27",
-        "is_translated": false
-      },
-      {
-        "title": "2種の新デバイスを導入する「リ・ストーリー: 思い出修理屋」の“Fuzzby”アップデートが配信、新トレーラーも",
+        "title": "打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソール版ローンチが2027年3月25日に決定",
         "platform": "doope!",
         "type": "review",
-        "description": "今年8月のローンチを経て高い評価を獲得し、先日モバイル対応がアナウンスされた電子機器修理屋シム「リ・ストーリー: 思い出修理屋」ですが、新たにMandragoraがSteamページを更新し、2種の新デバイスを導入する“F […]",
+        "description": "BANZAI ROYALEやLance A Lotで知られるインディーチーム“Brimstone”の最新作として、今年2月にローンチを果たし、高い評価を獲得した「Super Battle Golf」ですが、新たにBrim […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172267.html",
-        "date": "2026-10-27",
+        "url": "https://doope.jp/2026/10172317.html",
+        "date": "2026-10-28",
         "is_translated": false
       },
       {
-        "title": "傑作心霊探偵アドベンチャー「The Séance of Blake Manor」のコンソール版が遂にリリース、ローンチトレーラーも",
+        "title": "ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は2027年",
         "platform": "doope!",
         "type": "review",
-        "description": "“Darkside Detective”シリーズで知られるSpooky Doorwayの新作として、昨年10月にPC版のローンチを果たし、極めて高い評価を獲得した傑作心霊探偵アドベンチャー「The Séance of B […]",
+        "description": "昨年7月に早期アクセス向けのローンチを果たし、高い評価を獲得したChronocleの新作ローグライトRPGオートバトラー「He Is Coming」ですが、新たにPlaydigiousとChronocle、Hooded […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172203.html",
-        "date": "2026-10-27",
+        "url": "https://doope.jp/2026/10172306.html",
+        "date": "2026-10-28",
         "is_translated": false
+      },
+      {
+        "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Subnautica 2 creative director Anthony Gallegos has spoken about what Unknown Worlds have learned over their many years working in Steam early access, exhorting other devs to add new features \"as soo",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
+        "date": "2026-10-28",
+        "is_translated": true
       },
       {
         "title": "Call of Duty: Modern Warfare 4 review",
@@ -321,19 +333,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
-        "date": "2026-10-27",
-        "is_translated": true
-      },
-      {
-        "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Ten years ago, this list would have shocked most PC gamers.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
         "date": "2026-10-27",
         "is_translated": true
       },
@@ -577,5 +576,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-28T04:46:00.304053"
+  "last_updated": "2026-10-28T17:40:42.021278"
 }

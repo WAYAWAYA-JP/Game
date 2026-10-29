@@ -14,18 +14,6 @@
         "date": "2026-10-29"
       },
       {
-        "title": "Sker Ritual - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
-        "price": "無料",
-        "originalPrice": "¥2,480",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-29"
-      },
-      {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -48,21 +36,21 @@
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-10-29"
-      },
-      {
-        "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
-        "price": "無料",
-        "originalPrice": "¥490",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-29"
       }
     ],
     "bundle": [
+      {
+        "title": "FrightFest Ripper Bundle (18 for $14.99 - Get [HERROR] Gas Station Case / Blood Vial / Butcher's Creek / Bogos Binted / Butcherman / FLASH AND DIE / Cut that Wire / More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-29"
+      },
       {
         "title": "Wicked Stardust Bundle (95% OFF, $3.99 BPI, $4.49) 6 Steam Games: Stardust Exile, Tales of Vogar - Lost Descendants, Grey Heritage: Noble Duty, Vostok 2061, Lenin - The Lion, Rondoku",
         "platform": "Steam",
@@ -234,6 +222,32 @@
     ],
     "review": [
       {
+        "title": "高評価ゲーム『The Talos Principle 2』Steam版、苦渋の1700円がっつり値上げ。開発費高騰に抗えず。世知辛い",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Croteamは10月29日、パズルゲーム『The Talos Principle 2』のPC（Steam）版にて価格改定を実施した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261029-476489/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "ソニーの“裸眼で立体視できる”新小型モニター「ELF-MN1」を体験してきた。初音ミクがそこにいるし世界がそこにある、見なきゃ伝わらないけど伝えたい",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では、ソニーが発表した「ELF-MN1」のメディア向け体験会のインプレッションをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20261029-476471/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
         "title": "大阪・梅田で開催された「PlayStation祭」を現地レポート。TGS2026出展作が遊べるリアルイベントで、来場者多数の大盛況。『グランツーリスモ７』のタイムアタック企画も注目集める",
         "platform": "AUTOMATON",
         "type": "review",
@@ -260,43 +274,43 @@
         "is_translated": false
       },
       {
-        "title": "Jonathan Blow氏最新作「Order of the Sinking Star」の日本語PS5とNintendo Switch 2版が本日発売",
+        "title": "緑豊かな異界の惑星を探索する2Dパズルアドベンチャー「Planet of Lana II」のモバイル対応がアナウンス、Android向け早期アクセス版の配信も",
         "platform": "doope!",
         "type": "review",
-        "description": "傑作“Braid”と“The Witness”を生んだJonathan Blow氏の新作パズルゲームとして、先日Steamと海外PS5/Nintendo Switch 2向けのローンチを果たし、高い評価を獲得した「Ord […]",
+        "description": "高い評価を獲得した2Dパズルアドベンチャー“Planet of Lana”のナンバリング続編として、今年3月にローンチを果たしたWishfully Studiosの「Planet of Lana II: Children […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172327.html",
+        "url": "https://doope.jp/2026/10172355.html",
         "date": "2026-10-29",
         "is_translated": false
       },
       {
-        "title": "PS5/PC注目の大作『Phantom Blade Zero』、まだ発売前なのに「もう100万本以上売れてそう」との調査レポート。60％以上が中国の売上、予約だけでヒット",
-        "platform": "AUTOMATON",
+        "title": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "S-GAMEは10月29日、『Phantom Blade Zero』を発売予定。本作はすでに、ダウンロード版の予約売上だけで85万本に達していると推計されている。",
+        "description": "Dyack believes that games like Subnautica 2 are \"skewing player expectations\" for early access games.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261028-476178/",
-        "date": "2026-10-28",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+        "date": "2026-10-29",
+        "is_translated": true
       },
       {
-        "title": "昼はスローライフ、夜は宇宙ホラー『Life & Shadow: Celestial Call』Steamで98％好評の熱烈人気。星を観測してたら、星に観測されている",
-        "platform": "AUTOMATON",
+        "title": "Havn HS 360 review",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "PlayWayは10月27日、コズミックホラーゲーム『Life & Shadow: Celestial Call』を配信開始。さっそく高い評価が寄せられている。",
+        "description": "PC Gamerによるレビュー記事。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261028-476128/",
-        "date": "2026-10-28",
-        "is_translated": false
+        "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
+        "date": "2026-10-29",
+        "is_translated": true
       },
       {
         "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
@@ -551,5 +565,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-29T04:57:30.331246"
+  "last_updated": "2026-10-29T17:48:14.399923"
 }

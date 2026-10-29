@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       },
       {
         "title": "Sker Ritual - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       },
       {
         "title": "Home - A Unique Horror Adventure - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       }
     ],
     "bundle": [
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
       },
       {
         "title": "Build your own Slayer Bundle",
@@ -230,21 +230,48 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-16"
-      },
-      {
-        "title": "[Steam] Halo: The Master Chief Collection ($9.99/75% off)",
-        "platform": "Steam",
-        "type": "bundle",
-        "description": "Steamのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://store.steampowered.com/",
-        "date": "2026-10-15"
       }
     ],
     "review": [
+      {
+        "title": "大阪・梅田で開催された「PlayStation祭」を現地レポート。TGS2026出展作が遊べるリアルイベントで、来場者多数の大盛況。『グランツーリスモ７』のタイムアタック企画も注目集める",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "大阪・梅田にて10月24日、SIEのリアルイベント「PlayStation祭」が開催された。TGS2026出展作が遊べた会場の盛り上がりや、ステージイベントの様子をお伝えする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/psmatsuri-20261029-476356/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "和風異世界ホラー『異界・魔学園』は、台詞もメニューも“関西弁まみれ”で謎。なんでや",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "CASCHA GAMESは、アドベンチャーゲーム『異界・魔学園』の体験版を配信中だ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261029-476310/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "Jonathan Blow氏最新作「Order of the Sinking Star」の日本語PS5とNintendo Switch 2版が本日発売",
+        "platform": "doope!",
+        "type": "review",
+        "description": "傑作“Braid”と“The Witness”を生んだJonathan Blow氏の新作パズルゲームとして、先日Steamと海外PS5/Nintendo Switch 2向けのローンチを果たし、高い評価を獲得した「Ord […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172327.html",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
       {
         "title": "PS5/PC注目の大作『Phantom Blade Zero』、まだ発売前なのに「もう100万本以上売れてそう」との調査レポート。60％以上が中国の売上、予約だけでヒット",
         "platform": "AUTOMATON",
@@ -272,32 +299,6 @@
         "is_translated": false
       },
       {
-        "title": "打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソール版ローンチが2027年3月25日に決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "BANZAI ROYALEやLance A Lotで知られるインディーチーム“Brimstone”の最新作として、今年2月にローンチを果たし、高い評価を獲得した「Super Battle Golf」ですが、新たにBrim […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172317.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は2027年",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年7月に早期アクセス向けのローンチを果たし、高い評価を獲得したChronocleの新作ローグライトRPGオートバトラー「He Is Coming」ですが、新たにPlaydigiousとChronocle、Hooded […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172306.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
         "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -308,32 +309,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
         "date": "2026-10-28",
-        "is_translated": true
-      },
-      {
-        "title": "Call of Duty: Modern Warfare 4 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "This is what it looks like when Call of Duty is in the pocket.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-        "date": "2026-10-27",
-        "is_translated": true
-      },
-      {
-        "title": "Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Playing music too loud on the subway? Believe it or not, straight to jail.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/",
-        "date": "2026-10-27",
         "is_translated": true
       },
       {
@@ -576,5 +551,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-28T17:40:42.021278"
+  "last_updated": "2026-10-29T04:57:30.331246"
 }

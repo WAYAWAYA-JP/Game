@@ -40,6 +40,18 @@
     ],
     "bundle": [
       {
+        "title": "Build your own Resident Evil Bundle: Demonic Edition",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-10-30"
+      },
+      {
         "title": "FrightFest Ripper Bundle (18 for $14.99 - Get [HERROR] Gas Station Case / Blood Vial / Butcher's Creek / Bogos Binted / Butcherman / FLASH AND DIE / Cut that Wire / More)",
         "platform": "Fanatical",
         "type": "bundle",
@@ -206,58 +218,46 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-19"
-      },
-      {
-        "title": "Free Voidtrain (Humble Choice September 2026) DLC",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-18"
       }
     ],
     "review": [
       {
-        "title": "高評価ゲーム『The Talos Principle 2』Steam版、苦渋の1700円がっつり値上げ。開発費高騰に抗えず。世知辛い",
+        "title": "「Steam同接わずか28人の無名ゲーム」が同接11万人超に大化け、ヒット中『Probably Stolen』の“地味だった”過去。名を変え、絵を変え大逆転",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Croteamは10月29日、パズルゲーム『The Talos Principle 2』のPC（Steam）版にて価格改定を実施した。",
+        "description": "tinyBuildが10月28日に配信開始した、質屋経営シミュレーションゲーム『Probably Stolen – Cyberpunk Shopkeeper Sim』が好評を博している。一方で本作の前身となるゲームの体験版は、鳴かず飛ばずだったという。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261029-476489/",
-        "date": "2026-10-29",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476790/",
+        "date": "2026-10-30",
         "is_translated": false
       },
       {
-        "title": "ソニーの“裸眼で立体視できる”新小型モニター「ELF-MN1」を体験してきた。初音ミクがそこにいるし世界がそこにある、見なきゃ伝わらないけど伝えたい",
+        "title": "無限ループを脱出して出社するホラー『報連喪症候群』無料体験版公開。異変を見つけてパワハラ上司に報告、こんなときまでブラック戦士",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では、ソニーが発表した「ELF-MN1」のメディア向け体験会のインプレッションをお届けする。",
+        "description": "YAMI GAMESは10月30日、『報連喪症候群』体験版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/20261029-476471/",
-        "date": "2026-10-29",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476743/",
+        "date": "2026-10-30",
         "is_translated": false
       },
       {
-        "title": "カリン・クサマが監督を務める「Mouthwashing」の映画化がアナウンス",
-        "platform": "doope!",
+        "title": "サッカークラブ経営シム『Football Manager 27』発売直前に、“ほぼ製品版”な無料プレビュー版配信開始。最新作の進化をお先に体験、11月4日まで",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "スウェーデンのインディーデベロッパ“Wrong Organ”の新作として、2024年9月にローンチを果たし、極めて後味の悪いプレイ感と素晴らしいストーリーテリングで高い評価を獲得したSci-Fiホラー「Mouthwash […]",
+        "description": "セガは10月30日、サッカークラブ経営シミュレーションゲーム『Football Manager 27』のローンチプレビュー版を配信開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/10172366.html",
-        "date": "2026-10-29",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476709/",
+        "date": "2026-10-30",
         "is_translated": false
       },
       {
@@ -323,32 +323,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
         "date": "2026-10-28",
-        "is_translated": true
-      },
-      {
-        "title": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Back in 2022, Gears Tactics studio Splash Damage revealed that they were working on a Transformers game. It was called Transformers: Reactivate, and at the time was set to be a 1-4 player co-op acti",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
-        "date": "2026-10-27",
-        "is_translated": true
-      },
-      {
-        "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Though Street Fighter 6 has been the most popular fighting game in the world for three years running, there are still dedicated soldiers playing Street Fighter V right now. Be that due to its much la",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
-        "date": "2026-10-27",
         "is_translated": true
       }
     ],
@@ -565,5 +539,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-30T04:57:45.947486"
+  "last_updated": "2026-10-30T17:29:33.789004"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -35,10 +35,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
       }
     ],
     "bundle": [
+      {
+        "title": "Tactical Mindset Bundle (Pay $6 for The Ouroboros King, Planetiles, Break the Loop, Vandals, $12 adds Space Prison, The Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition, Lost Eidolons, The Land Beneath Us, and $18 adds Terrinoth: Heroes of Descent, One More Gate : A Wakfu Legend)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-10-31"
+      },
       {
         "title": "Build your own Resident Evil Bundle: Demonic Edition",
         "platform": "Fanatical",
@@ -49,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
       },
       {
         "title": "FrightFest Ripper Bundle (18 for $14.99 - Get [HERROR] Gas Station Case / Blood Vial / Butcher's Creek / Bogos Binted / Butcherman / FLASH AND DIE / Cut that Wire / More)",
@@ -206,21 +218,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-20"
-      },
-      {
-        "title": "Cook up your own Culinary Capers Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-19"
       }
     ],
     "review": [
+      {
+        "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Great visuals never hurt, but these 15 classic games prove that gameplay is the more important factor for timelessness.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/classic-games-bad-graphics-good-gameplay/",
+        "date": "2026-10-31",
+        "is_translated": true
+      },
       {
         "title": "「Steam同接わずか28人の無名ゲーム」が同接11万人超に大化け、ヒット中『Probably Stolen』の“地味だった”過去。名を変え、絵を変え大逆転",
         "platform": "AUTOMATON",
@@ -261,29 +274,16 @@
         "is_translated": false
       },
       {
-        "title": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
-        "platform": "PC Gamer",
+        "title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Dyack believes that games like Subnautica 2 are \"skewing player expectations\" for early access games.",
+        "description": "It would appear that Phantom Blade Zero (Phantom Blade 0? Zero? Let’s go with Zero) demanding more gigs than a mismanaged stadium is doing little to stop people playing the thing. It therefore",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
-        "date": "2026-10-29",
-        "is_translated": true
-      },
-      {
-        "title": "Havn HS 360 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
-        "date": "2026-10-29",
+        "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+        "date": "2026-10-30",
         "is_translated": true
       },
       {
@@ -539,5 +539,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-30T17:29:33.789004"
+  "last_updated": "2026-10-31T04:43:41.708594"
 }

@@ -222,15 +222,41 @@
     ],
     "review": [
       {
-        "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
-        "platform": "Polygon",
+        "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Great visuals never hurt, but these 15 classic games prove that gameplay is the more important factor for timelessness.",
+        "description": "On my touch-type, touch-type telephone.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/classic-games-bad-graphics-good-gameplay/",
+        "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+        "date": "2026-10-31",
+        "is_translated": true
+      },
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "My scares should have been reserved for today, what with it being All Hallows' Eve and all, but my fright came on Thursday. Read more",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
+        "date": "2026-10-31",
+        "is_translated": true
+      },
+      {
+        "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
         "date": "2026-10-31",
         "is_translated": true
       },
@@ -539,5 +565,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-31T04:43:41.708594"
+  "last_updated": "2026-10-31T16:33:31.670569"
 }

@@ -14,6 +14,18 @@
         "date": "2026-11-01"
       },
       {
+        "title": "LISA: Definitive Edition - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "オレイサを探索し、オリジナルのストーリー重視のRPG『LISA: The Painful』とその続編『LISA: The Joyful』を収録した『LISA: Definitive Edition』で、倒錯した謎を明かそう。",
+        "price": "無料",
+        "originalPrice": "¥3,380",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-01"
+      },
+      {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -222,6 +234,58 @@
     ],
     "review": [
       {
+        "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "But the studio says it is \"not going down without a fight\".",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
+        "date": "2026-11-01",
+        "is_translated": true
+      },
+      {
+        "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PC Gamerによるレビュー記事。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+        "date": "2026-11-01",
+        "is_translated": true
+      },
+      {
+        "title": "A Persona 1 Remake Is In Development, New Leak Suggests",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Persona games really do have a bad habit of leaking ahead of their reveals, as gameplay of a Revelations: Persona remake has surfaced",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/persona-1-remake-leak/",
+        "date": "2026-11-01",
+        "is_translated": true
+      },
+      {
+        "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Zelda’s most memorable story still shines, but the motion controls, Fi, and repeat fights often make it a tough replay",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
+        "date": "2026-11-01",
+        "is_translated": true
+      },
+      {
         "title": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
         "platform": "PC Gamer",
         "type": "review",
@@ -283,19 +347,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261030-476743/",
-        "date": "2026-10-30",
-        "is_translated": false
-      },
-      {
-        "title": "サッカークラブ経営シム『Football Manager 27』発売直前に、“ほぼ製品版”な無料プレビュー版配信開始。最新作の進化をお先に体験、11月4日まで",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "セガは10月30日、サッカークラブ経営シミュレーションゲーム『Football Manager 27』のローンチプレビュー版を配信開始した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261030-476709/",
         "date": "2026-10-30",
         "is_translated": false
       },
@@ -565,5 +616,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-01T05:04:13.848311"
+  "last_updated": "2026-11-01T17:27:36.712637"
 }

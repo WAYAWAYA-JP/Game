@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       },
       {
         "title": "Build your own Resident Evil Bundle: Demonic Edition",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-10-31"
+        "date": "2026-11-01"
       },
       {
         "title": "FrightFest Ripper Bundle (18 for $14.99 - Get [HERROR] Gas Station Case / Blood Vial / Butcher's Creek / Bogos Binted / Butcherman / FLASH AND DIE / Cut that Wire / More)",
@@ -222,6 +222,19 @@
     ],
     "review": [
       {
+        "title": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Number 6 will SPOOK you (for 1d6 psychic damage).",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
+        "date": "2026-10-31",
+        "is_translated": true
+      },
+      {
         "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
         "platform": "PC Gamer",
         "type": "review",
@@ -244,19 +257,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
-        "date": "2026-10-31",
-        "is_translated": true
-      },
-      {
-        "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
         "date": "2026-10-31",
         "is_translated": true
       },
@@ -565,5 +565,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-31T16:33:31.670569"
+  "last_updated": "2026-11-01T05:04:13.848311"
 }

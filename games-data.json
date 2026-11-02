@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       },
       {
         "title": "Monument Valley - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     ],
     "bundle": [
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       },
       {
         "title": "Build your own Resident Evil Bundle: Demonic Edition",
@@ -234,6 +234,19 @@
     ],
     "review": [
       {
+        "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "VRChat社は10月29日、「AI生成」というラベルや、AI生成コンテンツを除外する検索フィルターを追加する予定はないことを明らかにした。この決定に対してユーザーからの反発が相次いでいる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
+        "date": "2026-11-02",
+        "is_translated": false
+      },
+      {
         "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
         "platform": "PC Gamer",
         "type": "review",
@@ -260,28 +273,15 @@
         "is_translated": true
       },
       {
-        "title": "A Persona 1 Remake Is In Development, New Leak Suggests",
-        "platform": "Polygon",
+        "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Persona games really do have a bad habit of leaking ahead of their reveals, as gameplay of a Revelations: Persona remake has surfaced",
+        "description": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty tentacle monster still gives me the heebie jeeb",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/persona-1-remake-leak/",
-        "date": "2026-11-01",
-        "is_translated": true
-      },
-      {
-        "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Zelda’s most memorable story still shines, but the motion controls, Fi, and repeat fights often make it a tough replay",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
+        "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
         "date": "2026-11-01",
         "is_translated": true
       },
@@ -325,32 +325,6 @@
         "is_translated": true
       },
       {
-        "title": "「Steam同接わずか28人の無名ゲーム」が同接11万人超に大化け、ヒット中『Probably Stolen』の“地味だった”過去。名を変え、絵を変え大逆転",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "tinyBuildが10月28日に配信開始した、質屋経営シミュレーションゲーム『Probably Stolen – Cyberpunk Shopkeeper Sim』が好評を博している。一方で本作の前身となるゲームの体験版は、鳴かず飛ばずだったという。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261030-476790/",
-        "date": "2026-10-30",
-        "is_translated": false
-      },
-      {
-        "title": "無限ループを脱出して出社するホラー『報連喪症候群』無料体験版公開。異変を見つけてパワハラ上司に報告、こんなときまでブラック戦士",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "YAMI GAMESは10月30日、『報連喪症候群』体験版を配信開始した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261030-476743/",
-        "date": "2026-10-30",
-        "is_translated": false
-      },
-      {
         "title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -387,19 +361,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
         "date": "2026-10-29",
-        "is_translated": true
-      },
-      {
-        "title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Subnautica 2 creative director Anthony Gallegos has spoken about what Unknown Worlds have learned over their many years working in Steam early access, exhorting other devs to add new features \"as soo",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
-        "date": "2026-10-28",
         "is_translated": true
       }
     ],
@@ -616,5 +577,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-01T17:27:36.712637"
+  "last_updated": "2026-11-02T05:05:55.994741"
 }

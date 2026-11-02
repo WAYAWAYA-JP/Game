@@ -2,18 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "Eternal Threads - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Eternal Threads』は、時間を操作し、選択することで、結末を変えていく、シングルプレイでストーリー主体のパズルゲームです。",
-        "price": "無料",
-        "originalPrice": "¥1,980",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-02"
-      },
-      {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -36,21 +24,21 @@
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-11-02"
-      },
-      {
-        "title": "Monument Valley - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "奇想天外な環境を進み、目を惑わすパズルを解きながら、許しの旅へと出かけましょう。この瞑想的なパズルゲームでモニュメントを操作し、展開する道を作りながら、斬新かつシュールで神秘的な世界を探検しましょう。",
-        "price": "無料",
-        "originalPrice": "¥920",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-02"
       }
     ],
     "bundle": [
+      {
+        "title": "Crimes and Curiosity Bundle by S2 Games (Pay $7 for Frog Detective 3: Corruption at Cowboy County, Frog Detective 2: TCotIW, Frog Detective 1: THI, 3 more, $10 adds BROK the InvestiGator, BROK the InvestiGator - First Hat, 1 more, and $14 adds Broken Sword - SotT: Reforged, 4 more)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-02"
+      },
       {
         "title": "Tactical Mindset Bundle (Pay $6 for The Ouroboros King, Planetiles, Break the Loop, Vandals, $12 adds Space Prison, The Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition, Lost Eidolons, The Land Beneath Us, and $18 adds Terrinoth: Heroes of Descent, One More Gate : A Wakfu Legend)",
         "platform": "Humble Bundle",
@@ -218,18 +206,6 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-20"
-      },
-      {
-        "title": "Double Fine Publisher Bundle (Pay $5 for Psychonauts in the Rhombus of Ruin, Massive Chalice, Costume Quest, Iron Brigade, Stacking, Hack 'n' Slash, Spacebase DF-9, and $8 adds Psychonauts, Brutal Legend, Broken Age, Kiln)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-20"
       }
     ],
     "review": [
@@ -245,6 +221,19 @@
         "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
         "date": "2026-11-02",
         "is_translated": false
+      },
+      {
+        "title": "Turtle Beach Command Series MC7 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "How much is a touchscreen really worth to you?",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
+        "date": "2026-11-02",
+        "is_translated": true
       },
       {
         "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
@@ -283,32 +272,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
         "date": "2026-11-01",
-        "is_translated": true
-      },
-      {
-        "title": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Number 6 will SPOOK you (for 1d6 psychic damage).",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
-        "date": "2026-10-31",
-        "is_translated": true
-      },
-      {
-        "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "On my touch-type, touch-type telephone.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
-        "date": "2026-10-31",
         "is_translated": true
       },
       {
@@ -577,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-02T05:05:55.994741"
+  "last_updated": "2026-11-02T21:07:19.797034"
 }

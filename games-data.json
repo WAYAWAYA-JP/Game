@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
       },
       {
         "title": "Tactical Mindset Bundle (Pay $6 for The Ouroboros King, Planetiles, Break the Loop, Vandals, $12 adds Space Prison, The Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition, Lost Eidolons, The Land Beneath Us, and $18 adds Terrinoth: Heroes of Descent, One More Gate : A Wakfu Legend)",
@@ -170,45 +170,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-10-23"
-      },
-      {
-        "title": "Build your own Fantasy Ages Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Humble Choice October 2026 | All games on Steam Deck (+ performance notes in the description)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Serenity Forge Emotional Impact Bundle (Pay $5 for Paratopic, Neversong, Four Sided Fantasy, Luna's Wandering Stars, $9 adds Return to Ash, Gone Home, Tacoma,, 4 more and $12 adds Centum, Cyanide & Happiness - Freakpocalypse (Ep 1), Death's Gambit: Afterlife - AoV, 4 more)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-20"
       }
     ],
     "review": [
+      {
+        "title": "新シナリオや革新的な技術を導入する「Frostpunk 2」第3弾DLC“The Surge”の発売日が12月14日に決定、新トレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2024年9月のPC製品版ローンチを経て、高い評価を獲得し、今年7月には100万本販売突破が報じられた人気シリーズ最新作「Frostpunk 2」ですが、新たに11 bit studiosが第3弾DLC“The Surg […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172473.html",
+        "date": "2026-11-03",
+        "is_translated": false
+      },
       {
         "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
         "platform": "AUTOMATON",
@@ -221,6 +198,19 @@
         "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
         "date": "2026-11-02",
         "is_translated": false
+      },
+      {
+        "title": "Enshrouded 1.0 review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The fog of war clears around Embervale, revealing a survival crafting masterpiece.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
+        "date": "2026-11-02",
+        "is_translated": true
       },
       {
         "title": "Turtle Beach Command Series MC7 review",
@@ -540,5 +530,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-02T21:07:19.797034"
+  "last_updated": "2026-11-03T05:53:41.261371"
 }

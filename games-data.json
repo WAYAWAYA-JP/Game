@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "November 2026: Mafia: The Old Country + 2 DLC Packs, The Outer Worlds 2, SHINOBI: Art of Vengeance, Yakuza 6: The Song of Life, Crisol: Theater of Idols, Space Haven, DYSMANTLE, Squeakross: Home Squeak Home ($14.99)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-03"
+      },
+      {
         "title": "Crimes and Curiosity Bundle by S2 Games (Pay $7 for Frog Detective 3: Corruption at Cowboy County, Frog Detective 2: TCotIW, Frog Detective 1: THI, 3 more, $10 adds BROK the InvestiGator, BROK the InvestiGator - First Hat, 1 more, and $14 adds Broken Sword - SotT: Reforged, 4 more)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -174,17 +186,43 @@
     ],
     "review": [
       {
-        "title": "新シナリオや革新的な技術を導入する「Frostpunk 2」第3弾DLC“The Surge”の発売日が12月14日に決定、新トレーラーも",
+        "title": "ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けDirector’s Cut版が本日発売、ローンチトレーラーも",
         "platform": "doope!",
         "type": "review",
-        "description": "2024年9月のPC製品版ローンチを経て、高い評価を獲得し、今年7月には100万本販売突破が報じられた人気シリーズ最新作「Frostpunk 2」ですが、新たに11 bit studiosが第3弾DLC“The Surg […]",
+        "description": "昨年3月のアナウンスを経て、今年5月にローンチを果たし、高い評価を獲得したZA/UMの新作アドベンチャー「ZERO PARADES: For Dead Spies」ですが、本日予定通り国内外でPS5とXBOX Serie […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/11172473.html",
+        "url": "https://doope.jp/2026/11172486.html",
         "date": "2026-11-03",
         "is_translated": false
+      },
+      {
+        "title": "“Remedy Entertainment”の収益が急増、「CONTROL Resonant」がスタジオ史上最速の販売を達成",
+        "platform": "doope!",
+        "type": "review",
+        "description": "傑作“CONTROL”の続編として、今年9月下旬に待望のローンチを果たし、非常に高い評価を得て、3週間足らずで100万本販売突破が報じられた「CONTROL Resonant」ですが、来るフォトモードの実装や新衣装の登場 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172487.html",
+        "date": "2026-11-03",
+        "is_translated": false
+      },
+      {
+        "title": "Play as water and rain on wildfires in Atuel, a short, free game about the power and vulnerability of nature",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Well, have you played Atuel? If not, you can do so within the next hour - it's a tiny, free, 25-minute walking sim, albeit one with little actual walking on account of you playing most of it as a riv",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/have-you-played-atuel",
+        "date": "2026-11-03",
+        "is_translated": true
       },
       {
         "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
@@ -226,32 +264,6 @@
         "is_translated": true
       },
       {
-        "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "But the studio says it is \"not going down without a fight\".",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
-        "date": "2026-11-01",
-        "is_translated": true
-      },
-      {
-        "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PC Gamerによるレビュー記事。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
-        "date": "2026-11-01",
-        "is_translated": true
-      },
-      {
         "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -288,32 +300,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
         "date": "2026-10-30",
-        "is_translated": true
-      },
-      {
-        "title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I quite liked that there video game Mouthwashing. It had a lot to say about how corporations take advantage of their workers, it played around with character perspective to let you in on certain nar",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-        "date": "2026-10-29",
-        "is_translated": true
-      },
-      {
-        "title": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Football Manager 27 is still a good week and ahead out from launch, but if you're quick you can already get to playing it. That's because developer Sports Interactive have released a Launch Preview",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
-        "date": "2026-10-29",
         "is_translated": true
       }
     ],
@@ -530,5 +516,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T05:53:41.261371"
+  "last_updated": "2026-11-03T18:51:21.268846"
 }

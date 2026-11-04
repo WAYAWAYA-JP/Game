@@ -264,32 +264,6 @@
         "is_translated": true
       },
       {
-        "title": "Enshrouded 1.0 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The fog of war clears around Embervale, revealing a survival crafting masterpiece.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-        "date": "2026-11-02",
-        "is_translated": true
-      },
-      {
-        "title": "Turtle Beach Command Series MC7 review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "How much is a touchscreen really worth to you?",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
-        "date": "2026-11-02",
-        "is_translated": true
-      },
-      {
         "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -300,19 +274,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
         "date": "2026-11-01",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "My scares should have been reserved for today, what with it being All Hallows' Eve and all, but my fright came on Thursday. Read more",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
-        "date": "2026-10-31",
         "is_translated": true
       }
     ],
@@ -529,5 +490,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-04T05:29:16.735849"
+  "last_updated": "2026-11-04T19:06:43.744972"
 }

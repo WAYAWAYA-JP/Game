@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       },
       {
         "title": "Crimes and Curiosity Bundle by S2 Games (Pay $7 for Frog Detective 3: Corruption at Cowboy County, Frog Detective 2: TCotIW, Frog Detective 1: THI, 3 more, $10 adds BROK the InvestiGator, BROK the InvestiGator - First Hat, 1 more, and $14 adds Broken Sword - SotT: Reforged, 4 more)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       },
       {
         "title": "Tactical Mindset Bundle (Pay $6 for The Ouroboros King, Planetiles, Break the Loop, Vandals, $12 adds Space Prison, The Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition, Lost Eidolons, The Land Beneath Us, and $18 adds Terrinoth: Heroes of Descent, One More Gate : A Wakfu Legend)",
@@ -186,30 +186,69 @@
     ],
     "review": [
       {
-        "title": "ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けDirector’s Cut版が本日発売、ローンチトレーラーも",
-        "platform": "doope!",
+        "title": "Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス導入。「まず5分はプレイして」など初歩的チェックが義務化",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "昨年3月のアナウンスを経て、今年5月にローンチを果たし、高い評価を獲得したZA/UMの新作アドベンチャー「ZERO PARADES: For Dead Spies」ですが、本日予定通り国内外でPS5とXBOX Serie […]",
+        "description": "Valveは11月4日、開発者向けにリリース前のゲームのレビュー（審査）プロセスを更新したことを発表した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/11172486.html",
-        "date": "2026-11-03",
+        "url": "https://automaton-media.com/articles/newsjp/20261104-477286/",
+        "date": "2026-11-04",
         "is_translated": false
       },
       {
-        "title": "“Remedy Entertainment”の収益が急増、「CONTROL Resonant」がスタジオ史上最速の販売を達成",
-        "platform": "doope!",
+        "title": "ファンタジー動乱SLG『ブリガンダイン アビス』初の無料アプデ配信。厳しい評価のバランスと遊びやすさ、4回かけてがっつり改善へ",
+        "platform": "AUTOMATON",
         "type": "review",
-        "description": "傑作“CONTROL”の続編として、今年9月下旬に待望のローンチを果たし、非常に高い評価を得て、3週間足らずで100万本販売突破が報じられた「CONTROL Resonant」ですが、来るフォトモードの実装や新衣装の登場 […]",
+        "description": "ハピネットは11月4日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』の無料アップデート第1弾を配信した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://doope.jp/2026/11172487.html",
-        "date": "2026-11-03",
+        "url": "https://automaton-media.com/articles/newsjp/20261104-477288/",
+        "date": "2026-11-04",
         "is_translated": false
+      },
+      {
+        "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+        "date": "2026-11-03",
+        "is_translated": true
+      },
+      {
+        "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only pro",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+        "date": "2026-11-03",
+        "is_translated": true
+      },
+      {
+        "title": "Silica, an FPS and RTS hybrid that mixes a smidge of Dune and Helldivers together, has left early access and entered 1.0",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The concept of fusing an RTS and an FPS always sounds like a fun one, and since 2023 Martin Melichárek has been trying to make a new take on the combination under the watchful eye of DayZ dev",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
+        "date": "2026-11-03",
+        "is_translated": true
       },
       {
         "title": "Play as water and rain on wildfires in Atuel, a short, free game about the power and vulnerability of nature",
@@ -223,19 +262,6 @@
         "url": "https://www.rockpapershotgun.com/have-you-played-atuel",
         "date": "2026-11-03",
         "is_translated": true
-      },
-      {
-        "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "VRChat社は10月29日、「AI生成」というラベルや、AI生成コンテンツを除外する検索フィルターを追加する予定はないことを明らかにした。この決定に対してユーザーからの反発が相次いでいる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
-        "date": "2026-11-02",
-        "is_translated": false
       },
       {
         "title": "Enshrouded 1.0 review",
@@ -287,19 +313,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
         "date": "2026-10-31",
-        "is_translated": true
-      },
-      {
-        "title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "It would appear that Phantom Blade Zero (Phantom Blade 0? Zero? Let’s go with Zero) demanding more gigs than a mismanaged stadium is doing little to stop people playing the thing. It therefore",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-        "date": "2026-10-30",
         "is_translated": true
       }
     ],
@@ -516,5 +529,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T18:51:21.268846"
+  "last_updated": "2026-11-04T05:29:16.735849"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Sorry We're Closed - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Crimes and Curiosity Bundle by S2 Games (Pay $7 for Frog Detective 3: Corruption at Cowboy County, Frog Detective 2: TCotIW, Frog Detective 1: THI, 3 more, $10 adds BROK the InvestiGator, BROK the InvestiGator - First Hat, 1 more, and $14 adds Broken Sword - SotT: Reforged, 4 more)",
@@ -186,28 +186,67 @@
     ],
     "review": [
       {
-        "title": "Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス導入。「まず5分はプレイして」など初歩的チェックが義務化",
+        "title": "CygamesEdgeは、なぜ新作アクション『崩落の国』をクリアまで3時間の1100円の作品に仕上げたのか。プロデューサーに訊く、”コンパクトさ”へのこだわり",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Valveは11月4日、開発者向けにリリース前のゲームのレビュー（審査）プロセスを更新したことを発表した。",
+        "description": "『崩落の国』について、チームの現在の状況や先日リリースされた体験版の反響、「クリアまで3時間」という開発テーマが生まれた理由などを改めて伺った。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261104-477286/",
-        "date": "2026-11-04",
+        "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261105-477618/",
+        "date": "2026-11-05",
         "is_translated": false
       },
       {
-        "title": "ファンタジー動乱SLG『ブリガンダイン アビス』初の無料アプデ配信。厳しい評価のバランスと遊びやすさ、4回かけてがっつり改善へ",
+        "title": "「お色気ゲームだろう」とスルーしていた自分が、Nintendo Switch 2版『Stellar Blade コンプリートエディション』で「自分向けのゲーム」だと気付くまで。廃墟がよくてアクションもいい",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "ハピネットは11月4日、ファンタジーウォーシミュレーションゲーム『ブリガンダイン アビス』の無料アップデート第1弾を配信した。",
+        "description": "「お色気ゲームなのかな？」くらいに考えていた筆者が、Nintendo Switch 2版を先行プレイして寝食を忘れるほどドハマりしたさまをお届けする。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261104-477288/",
+        "url": "https://automaton-media.com/articles/special-column/stellar-blade-switch2-477576/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "ソ連テーマの都市建設シム「Workers & Resources: Soviet Republic」の販売が100万本のマイルストーンを突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スロバキアのインディーデベロッパ“3Division”が手掛けるソ連テーマの都市建設シムとして、2024年6月にリリースされ、非常に高い評価を獲得した「Workers & Resources: Soviet R […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172576.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "SIEが2026年10月北米/欧州のPS Storeダウンロードランキングを発表、「Call of Duty: Modern Warfare 4」がPS5部門の首位を獲得",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨晩、SIEが2026年10月の北米/ヨーロッパ地域におけるPlayStation Storeのカテゴリ別ダウンロードランキングを発表し、新シリーズ始動以降最も高い評価を獲得した「Call of Duty: Modern […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172567.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "ディストピアなサイバーパンク店舗経営シム「Probably Stolen」の販売が僅か6日で75万本を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ディストピア世界の宇宙ステーションを舞台に、怪しげな商品を仕入れながら利益を得る店舗経営シムとして先日ローンチを果たし、極めて高い評価を得て、爆発的な販売を達成しているQuesting Goose Studioの独創的な […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172541.html",
         "date": "2026-11-04",
         "is_translated": false
       },
@@ -490,5 +529,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-04T19:06:43.744972"
+  "last_updated": "2026-11-05T05:47:40.989107"
 }

@@ -2,6 +2,18 @@
   "pc": {
     "free": [
       {
+        "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲーム。小説、キャンペーンやテレビ番組に登場する象徴的なキャラクターを壮大な冒険に結集させています。",
+        "price": "無料",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-05"
+      },
+      {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -14,12 +26,12 @@
         "date": "2026-11-05"
       },
       {
-        "title": "Sorry We're Closed - Epic Games 無料配布中",
+        "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Sorry We're Closed』は、豊かな設定、奥深いキャラクター描写、そして複数のエンディングを備えた、ノスタルジックなシングルプレイ用サバイバルホラーゲームです。固定カメラアングルによる不気味な場所の探索に加え、第三の目を開いて世界の狭間を見つめ、秘密を暴き、謎を解き明かしましょう。",
+        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
         "price": "無料",
-        "originalPrice": "¥2,480",
+        "originalPrice": "¥2,580",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -27,6 +39,18 @@
       }
     ],
     "bundle": [
+      {
+        "title": "Build Your Own Platinum Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-11-05"
+      },
       {
         "title": "November 2026: Mafia: The Old Country + 2 DLC Packs, The Outer Worlds 2, SHINOBI: Art of Vengeance, Yakuza 6: The Song of Life, Crisol: Theater of Idols, Space Haven, DYSMANTLE, Squeakross: Home Squeak Home ($14.99)",
         "platform": "Humble Bundle",
@@ -186,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "「クマのプーさん」を美少女化したサイコホラーゲームがひそかに話題に。どういう発想",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Ignis Sanatは10月15日、『WINNIE-THE-POOH: Honey Distortion』の体験版を配信した。何故か動物の仲間たちを美少女に置き換えており、その斬新すぎる設定がひそかに注目を集めている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261105-477783/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
         "title": "CygamesEdgeは、なぜ新作アクション『崩落の国』をクリアまで3時間の1100円の作品に仕上げたのか。プロデューサーに訊く、”コンパクトさ”へのこだわり",
         "platform": "AUTOMATON",
         "type": "review",
@@ -212,6 +249,32 @@
         "is_translated": false
       },
       {
+        "title": "自宅のあらゆる家電・家具と恋愛できるデートシム「Date Everything!」の販売が遂に100万本を突破",
+        "platform": "doope!",
+        "type": "review",
+        "description": "著名なボイスアクターたちが設立したインディデベロッパ“Sassy Chap Games”の新作として、昨年6月にリリースされ、高い評価を獲得した独創的な家具・家電恋愛シム「Date Everything!」ですが、新たに […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172551.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "ローグライト横スクロールアクション「Absolum」のモバイル版が本日発売、リリーストレーラーも",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年10月のローンチを経て高い評価を獲得し、先日モバイル対応がナウンスされたDotemuとGuard Crush Games、Supamonksの人気ベルトスクロールアクション「Absolum」ですが、本日予定通りiOS […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172586.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
         "title": "ソ連テーマの都市建設シム「Workers & Resources: Soviet Republic」の販売が100万本のマイルストーンを突破",
         "platform": "doope!",
         "type": "review",
@@ -225,42 +288,42 @@
         "is_translated": false
       },
       {
-        "title": "SIEが2026年10月北米/欧州のPS Storeダウンロードランキングを発表、「Call of Duty: Modern Warfare 4」がPS5部門の首位を獲得",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨晩、SIEが2026年10月の北米/ヨーロッパ地域におけるPlayStation Storeのカテゴリ別ダウンロードランキングを発表し、新シリーズ始動以降最も高い評価を獲得した「Call of Duty: Modern […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172567.html",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "ディストピアなサイバーパンク店舗経営シム「Probably Stolen」の販売が僅か6日で75万本を突破",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ディストピア世界の宇宙ステーションを舞台に、怪しげな商品を仕入れながら利益を得る店舗経営シムとして先日ローンチを果たし、極めて高い評価を得て、爆発的な販売を達成しているQuesting Goose Studioの独創的な […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172541.html",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+        "title": "Phantom Blade Zero review: Feel gud, not git gud",
         "platform": "PC Gamer",
         "type": "review",
-        "description": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
+        "description": "A martial arts action epic with just a dash of Souls and Sekiro.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-        "date": "2026-11-03",
+        "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
+        "date": "2026-11-05",
+        "is_translated": true
+      },
+      {
+        "title": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Sometimes, you come across a game and instantly know it's for the sickos. Today that is Ablahshikar, a \"turn-based salvage-survival CRPG adrift on the Candle Sea\" where you rip out the organs of ene",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+        "date": "2026-11-05",
+        "is_translated": true
+      },
+      {
+        "title": "How to change the time of day in Zelda Ocarina of Time",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "In this guide, we explain how to change time in Zelda Ocarina of Time remake, and of doing it: sleeping or playing the Sun's Song.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-change-time-day-night-how-to/",
+        "date": "2026-11-05",
         "is_translated": true
       },
       {
@@ -300,19 +363,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/have-you-played-atuel",
         "date": "2026-11-03",
-        "is_translated": true
-      },
-      {
-        "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty tentacle monster still gives me the heebie jeeb",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
-        "date": "2026-11-01",
         "is_translated": true
       }
     ],
@@ -529,5 +579,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-05T05:47:40.989107"
+  "last_updated": "2026-11-05T19:16:15.987919"
 }

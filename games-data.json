@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
       },
       {
         "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
@@ -35,10 +35,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
       }
     ],
     "bundle": [
+      {
+        "title": "Hamble's Farming Games Collection (Pay $9 for Robert on Earth, Greenhearth Necromancer, To Pixelia, Seeds of Calamity, Immortal Life, and $18 adds Farming Simulator 19, Fae Farm, Snacko, Cornucopia, Farm Manager World, Border Town)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-06"
+      },
       {
         "title": "Build Your Own Platinum Collection",
         "platform": "Fanatical",
@@ -49,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
       },
       {
         "title": "November 2026: Mafia: The Old Country + 2 DLC Packs, The Outer Worlds 2, SHINOBI: Art of Vengeance, Yakuza 6: The Song of Life, Crisol: Theater of Idols, Space Haven, DYSMANTLE, Squeakross: Home Squeak Home ($14.99)",
@@ -182,33 +194,35 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-24"
-      },
-      {
-        "title": "Build your own Legendary Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle (Pay $10 for RoboCop: Rogue City - Collection, Ghostrunner 2, Ghostrunner, $15 adds Crysis 3 Remastered, Crysis 2 Remastered, Crysis Remastered, and $25 adds Marathon, Xenonauts 2)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-23"
       }
     ],
     "review": [
+      {
+        "title": "EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆円で買収協議中との報道",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Silver LakeとPIFを含む投資家コンソーシアムが、Unity Softwareの買収に向けて協議をおこなっているという。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261106-477853/",
+        "date": "2026-11-06",
+        "is_translated": false
+      },
+      {
+        "title": "XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが11月10日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2022年8月のPC版ローンチを経て高い評価を獲得し、今年3月にはコンソール対応がアナウンスされたXCOM系西部劇ターンベースストラテジーの続編「Hard West 2」ですが、新たにKlabaterとGood Shep […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172604.html",
+        "date": "2026-11-06",
+        "is_translated": false
+      },
       {
         "title": "「クマのプーさん」を美少女化したサイコホラーゲームがひそかに話題に。どういう発想",
         "platform": "AUTOMATON",
@@ -249,45 +263,6 @@
         "is_translated": false
       },
       {
-        "title": "自宅のあらゆる家電・家具と恋愛できるデートシム「Date Everything!」の販売が遂に100万本を突破",
-        "platform": "doope!",
-        "type": "review",
-        "description": "著名なボイスアクターたちが設立したインディデベロッパ“Sassy Chap Games”の新作として、昨年6月にリリースされ、高い評価を獲得した独創的な家具・家電恋愛シム「Date Everything!」ですが、新たに […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172551.html",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "ローグライト横スクロールアクション「Absolum」のモバイル版が本日発売、リリーストレーラーも",
-        "platform": "doope!",
-        "type": "review",
-        "description": "昨年10月のローンチを経て高い評価を獲得し、先日モバイル対応がナウンスされたDotemuとGuard Crush Games、Supamonksの人気ベルトスクロールアクション「Absolum」ですが、本日予定通りiOS […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172586.html",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "ソ連テーマの都市建設シム「Workers & Resources: Soviet Republic」の販売が100万本のマイルストーンを突破",
-        "platform": "doope!",
-        "type": "review",
-        "description": "スロバキアのインディーデベロッパ“3Division”が手掛けるソ連テーマの都市建設シムとして、2024年6月にリリースされ、非常に高い評価を獲得した「Workers & Resources: Soviet R […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172576.html",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
         "title": "Phantom Blade Zero review: Feel gud, not git gud",
         "platform": "PC Gamer",
         "type": "review",
@@ -310,19 +285,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
-        "date": "2026-11-05",
-        "is_translated": true
-      },
-      {
-        "title": "How to change the time of day in Zelda Ocarina of Time",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "In this guide, we explain how to change time in Zelda Ocarina of Time remake, and of doing it: sleeping or playing the Sun's Song.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-change-time-day-night-how-to/",
         "date": "2026-11-05",
         "is_translated": true
       },
@@ -579,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-05T19:16:15.987919"
+  "last_updated": "2026-11-06T05:44:47.793573"
 }

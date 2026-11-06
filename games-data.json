@@ -40,6 +40,30 @@
     ],
     "bundle": [
       {
+        "title": "Point-and-Click Showcase: Super Bundle - Includes Hidden Folks, CHUCHEL, Unforeseen Incidents, Children of Silentown, The Excavation of Hob's Barrow, There Is No Game: Wrong Dimension, Follow the meaning, and Servant of the Lake ($30.14 / 73% off)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "収録: Hidden Folks、CHUCHEL、Unforeseen Incidents",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Build your own Birthday Bonanza Bundle",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-11-06"
+      },
+      {
         "title": "Hamble's Farming Games Collection (Pay $9 for Robert on Earth, Greenhearth Necromancer, To Pixelia, Seeds of Calamity, Immortal Life, and $18 adds Farming Simulator 19, Fae Farm, Snacko, Cornucopia, Farm Manager World, Border Town)",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -224,6 +248,32 @@
         "is_translated": false
       },
       {
+        "title": "Epomaker HE75 V2 TMR review",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Mid-range, mighty, and mini.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+        "date": "2026-11-06",
+        "is_translated": true
+      },
+      {
+        "title": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Age of Empires-influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the f",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
+        "date": "2026-11-06",
+        "is_translated": true
+      },
+      {
         "title": "「クマのプーさん」を美少女化したサイコホラーゲームがひそかに話題に。どういう発想",
         "platform": "AUTOMATON",
         "type": "review",
@@ -246,19 +296,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261105-477618/",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "「お色気ゲームだろう」とスルーしていた自分が、Nintendo Switch 2版『Stellar Blade コンプリートエディション』で「自分向けのゲーム」だと気付くまで。廃墟がよくてアクションもいい",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「お色気ゲームなのかな？」くらいに考えていた筆者が、Nintendo Switch 2版を先行プレイして寝食を忘れるほどドハマりしたさまをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/stellar-blade-switch2-477576/",
         "date": "2026-11-05",
         "is_translated": false
       },
@@ -541,5 +578,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-06T05:44:47.793573"
+  "last_updated": "2026-11-06T18:43:19.721314"
 }

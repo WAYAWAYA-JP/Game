@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "title": "Build your own Birthday Bonanza Bundle",
@@ -61,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "title": "Hamble's Farming Games Collection (Pay $9 for Robert on Earth, Greenhearth Necromancer, To Pixelia, Seeds of Calamity, Immortal Life, and $18 adds Farming Simulator 19, Fae Farm, Snacko, Cornucopia, Farm Manager World, Border Town)",
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "title": "Build Your Own Platinum Collection",
@@ -206,21 +206,22 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-10-27"
-      },
-      {
-        "title": "Build your own Frightmare Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "収録: in / More)",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-24"
       }
     ],
     "review": [
+      {
+        "title": "新作『Football Manager 27』を100時間先行プレイして“前作で批判の多かったところ”を徹底検証。「操作のクリック数は？」「ロナウド見るまで何秒？」、調べまくった",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "前作で不満だった要素が新作でどのように改善されたのか。シリーズを5000時間以上プレイしてきた筆者が、『Football Manager 27』を先行プレイして検証した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20261107-477962/",
+        "date": "2026-11-07",
+        "is_translated": false
+      },
       {
         "title": "EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆円で買収協議中との報道",
         "platform": "AUTOMATON",
@@ -231,19 +232,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261106-477853/",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが11月10日に決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2022年8月のPC版ローンチを経て高い評価を獲得し、今年3月にはコンソール対応がアナウンスされたXCOM系西部劇ターンベースストラテジーの続編「Hard West 2」ですが、新たにKlabaterとGood Shep […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172604.html",
         "date": "2026-11-06",
         "is_translated": false
       },
@@ -283,19 +271,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261105-477783/",
-        "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "CygamesEdgeは、なぜ新作アクション『崩落の国』をクリアまで3時間の1100円の作品に仕上げたのか。プロデューサーに訊く、”コンパクトさ”へのこだわり",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『崩落の国』について、チームの現在の状況や先日リリースされた体験版の反響、「クリアまで3時間」という開発テーマが生まれた理由などを改めて伺った。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261105-477618/",
         "date": "2026-11-05",
         "is_translated": false
       },
@@ -578,5 +553,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-06T18:43:19.721314"
+  "last_updated": "2026-11-07T05:15:14.158967"
 }

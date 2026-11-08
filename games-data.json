@@ -287,19 +287,6 @@
         "is_translated": true
       },
       {
-        "title": "EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆円で買収協議中との報道",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Silver LakeとPIFを含む投資家コンソーシアムが、Unity Softwareの買収に向けて協議をおこなっているという。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261106-477853/",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
         "title": "Epomaker HE75 V2 TMR review",
         "platform": "PC Gamer",
         "type": "review",
@@ -552,5 +539,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-08T05:10:51.540072"
+  "last_updated": "2026-11-08T17:25:47.535812"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-08"
+        "date": "2026-11-09"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-08"
+        "date": "2026-11-09"
       },
       {
         "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-08"
+        "date": "2026-11-09"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-11-08"
+        "date": "2026-11-09"
       },
       {
         "title": "Point-and-Click Showcase: Super Bundle - Includes Hidden Folks, CHUCHEL, Unforeseen Incidents, Children of Silentown, The Excavation of Hob's Barrow, There Is No Game: Wrong Dimension, Follow the meaning, and Servant of the Lake ($30.14 / 73% off)",
@@ -222,6 +222,32 @@
     ],
     "review": [
       {
+        "title": "「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた“Bit Reactor”が新たなレイオフを実施",
+        "platform": "doope!",
+        "type": "review",
+        "description": "8月末に待望のローンチを果たした「STAR WARS Zero Company」が非常に高い評価を獲得した一方、発売直前に80％近い従業員を一時解雇し、その後100万本販売を記録した成功により休職扱いとなっていたスタッフ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172656.html",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkeep」が発売、クラシックの魅力と現代的QoLを兼ね備えた高評価作品",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Be a KingやJets’n’Gunsなど、数々のタイトルを手がけてきたチェコのインディースタジオ“Rake in Grass”の最新作として、2024年9月にアナウンスされ、今年2月にはデモ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172653.html",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
         "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
         "platform": "AUTOMATON",
         "type": "review",
@@ -284,19 +310,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
         "date": "2026-11-07",
-        "is_translated": true
-      },
-      {
-        "title": "Epomaker HE75 V2 TMR review",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Mid-range, mighty, and mini.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-        "date": "2026-11-06",
         "is_translated": true
       },
       {
@@ -539,5 +552,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-08T17:25:47.535812"
+  "last_updated": "2026-11-09T05:21:04.866141"
 }

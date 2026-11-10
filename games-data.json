@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       },
       {
         "title": "LISA: Definitive Edition - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       },
       {
         "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
@@ -35,10 +35,22 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       }
     ],
     "bundle": [
+      {
+        "title": "[Steam] Goblin Platformer Pack ($2.41/-73% on 3 games)",
+        "platform": "Steam",
+        "type": "bundle",
+        "description": "Steamのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-11-10"
+      },
       {
         "title": "Beholder 10th Anniversary: The Alawar Collection (Pay $5 for Looking for Aliens, Distrust: Polar Survival, Wall World, Wall World: Deep Threat, Beholder 3, Beholder 2, 5 more, and $10 adds Wall World 2, Beholder: Conductor, Necrosmith 2, Security 51, Haunted Lands, 5 more)",
         "platform": "Humble Bundle",
@@ -49,7 +61,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-09"
+        "date": "2026-11-10"
       },
       {
         "title": "Pill Bug Interactive Bundle ($8.50 / 78% off) Includes: Captain Contraption’s Chocolate Factory ($2.49 / 75%) Making it Home ($2.49 / 75%) Cycle 28 ($0.67 / 83%) Intelligent Design: An Evolutionary Sandbox ($0.76 / 89%)",
@@ -206,47 +218,9 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-10-29"
-      },
-      {
-        "title": "Build your own Slayer Bundle",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-28"
       }
     ],
     "review": [
-      {
-        "title": "「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた“Bit Reactor”が新たなレイオフを実施",
-        "platform": "doope!",
-        "type": "review",
-        "description": "8月末に待望のローンチを果たした「STAR WARS Zero Company」が非常に高い評価を獲得した一方、発売直前に80％近い従業員を一時解雇し、その後100万本販売を記録した成功により休職扱いとなっていたスタッフ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172656.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkeep」が発売、クラシックの魅力と現代的QoLを兼ね備えた高評価作品",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Be a KingやJets’n’Gunsなど、数々のタイトルを手がけてきたチェコのインディースタジオ“Rake in Grass”の最新作として、2024年9月にアナウンスされ、今年2月にはデモ […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172653.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
       {
         "title": "Skyrim lead designer gives the most succinct summary of Bethesda's design I've ever heard: 'You're not playing my game, I'm making your game'",
         "platform": "PC Gamer",
@@ -272,32 +246,6 @@
         "url": "https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha/",
         "date": "2026-11-09",
         "is_translated": true
-      },
-      {
-        "title": "Zelda: Ocarina of Time’s Best Replacement Has 11,000+ ‘Very Positive’ Reviews on Steam",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Death's Door turns five years old this year, and it's still one of the best games like The Legend of Zelda around.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
-        "date": "2026-11-09",
-        "is_translated": true
-      },
-      {
-        "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Atariは11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、注目を集めている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
-        "date": "2026-11-07",
-        "is_translated": false
       },
       {
         "title": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
@@ -565,5 +513,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-09T21:47:04.788873"
+  "last_updated": "2026-11-10T06:34:21.529842"
 }

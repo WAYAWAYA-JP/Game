@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "『進撃の巨人３』先行プレイ感想。8年ぶりの新作はオープンワールドっぽさあり。広く生々しく恐ろしいアクションゲームに",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「進撃の巨人」のいちファンとして、過去作との比較も交えつつ、本作のプレイフィールをお伝えしたい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/shingeki-20261111-478767/",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
         "title": "“限界社畜”百合恋愛ゲーム『真夏のシトラス』、来年1月5日発売へ。体験版の批判を受け「シナリオ一から書き直し」の大刷新、ひと瓶の香水から始まるラブストーリー",
         "platform": "AUTOMATON",
         "type": "review",
@@ -236,6 +249,19 @@
         "is_translated": false
       },
       {
+        "title": "No more need to slap 'reddit' on the end of your Google searches as Reddit Reviews is here to amalgamate everyone's thoughts",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Prepare for the review bombing.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts/",
+        "date": "2026-11-11",
+        "is_translated": true
+      },
+      {
         "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
         "platform": "AUTOMATON",
         "type": "review",
@@ -258,19 +284,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/beyondthedark-20261110-478481/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出血・四肢欠損、リアル負傷システムで体ボロボロ地獄旅",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Oro Interactiveは11月9日、Orsoniksが手がける『Casualties: Unknown』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、高い注目を集めている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
         "date": "2026-11-10",
         "is_translated": false
       },
@@ -311,45 +324,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
         "date": "2026-11-10",
-        "is_translated": true
-      },
-      {
-        "title": "Warhammer Survivors review: More than just Vampire Survivors with Space Marines",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "It's more than Vampire Survivors with Space Marines, but it is Vampire Survivors with Space Marines.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-review/",
-        "date": "2026-11-10",
-        "is_translated": true
-      },
-      {
-        "title": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/",
-        "date": "2026-11-10",
-        "is_translated": true
-      },
-      {
-        "title": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "I know what you want. The humble city builder isn't enough for you any more, is it? You need a cities builder, you can't just stop at one, but you don't want to build up an entirely different city o",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
-        "date": "2026-11-07",
         "is_translated": true
       }
     ],
@@ -566,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-11T05:20:17.258568"
+  "last_updated": "2026-11-11T19:01:48.275914"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       },
       {
         "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       },
       {
         "title": "Beholder 10th Anniversary: The Alawar Collection (Pay $5 for Looking for Aliens, Distrust: Polar Survival, Wall World, Wall World: Deep Threat, Beholder 3, Beholder 2, 5 more, and $10 adds Wall World 2, Beholder: Conductor, Necrosmith 2, Security 51, Haunted Lands, 5 more)",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       },
       {
         "title": "Pill Bug Interactive Bundle ($8.50 / 78% off) Includes: Captain Contraption’s Chocolate Factory ($2.49 / 75%) Making it Home ($2.49 / 75%) Cycle 28 ($0.67 / 83%) Intelligent Design: An Evolutionary Sandbox ($0.76 / 89%)",
@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "“限界社畜”百合恋愛ゲーム『真夏のシトラス』、来年1月5日発売へ。体験版の批判を受け「シナリオ一から書き直し」の大刷新、ひと瓶の香水から始まるラブストーリー",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ZtoA CO.は11月10日、LimeStudioが手がける『真夏のシトラス』を2027年1月5日にリリースすると発表した。本作はいわゆる“社畜”の主人公が、ひょんなことから恋の連鎖へと巻き込まれていく恋愛ビジュアルノベルゲームだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261111-478575/",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
+        "title": "人気タワーディフェンスRTS「Diplomacy is Not an Option」に新キャンペーンや追加勢力を導入する「Fog of War」DLCが本日発売",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2024年10月にローンチを果たし、非常に高い評価を獲得した中世ファンタジーテーマのタワーディフェンス系大規模RTS「Diplomacy is Not an Option」ですが、新たに本作初の大型DLC「Fog of […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172712.html",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
         "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
         "platform": "AUTOMATON",
         "type": "review",
@@ -249,6 +275,32 @@
         "is_translated": false
       },
       {
+        "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "We might get an early taste of Ascendance before long.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
+        "date": "2026-11-10",
+        "is_translated": true
+      },
+      {
+        "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "date": "2026-11-10",
+        "is_translated": true
+      },
+      {
         "title": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
         "platform": "PC Gamer",
         "type": "review",
@@ -275,6 +327,19 @@
         "is_translated": true
       },
       {
+        "title": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/",
+        "date": "2026-11-10",
+        "is_translated": true
+      },
+      {
         "title": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -285,32 +350,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
         "date": "2026-11-07",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "This is the last empty weekend before I go on holiday for a frankly indulgent three weeks. As such, it will likely be spent either remembering all the things my partner and I've not organised for the",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
-        "date": "2026-11-07",
-        "is_translated": true
-      },
-      {
-        "title": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Age of Empires-influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the f",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
-        "date": "2026-11-06",
         "is_translated": true
       }
     ],
@@ -527,5 +566,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-10T19:04:31.163333"
+  "last_updated": "2026-11-11T05:20:17.258568"
 }

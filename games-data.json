@@ -2,24 +2,12 @@
   "pc": {
     "free": [
       {
-        "title": "Idle Champions of the Forgotten Realms - Epic Games 無料配布中",
+        "title": "Knightica - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Idle Champions』は、『ダンジョンズ＆ドラゴンズ』公認の戦略・管理ビデオゲーム。小説、キャンペーンやテレビ番組に登場する象徴的なキャラクターを壮大な冒険に結集させています。",
+        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。 目的は戦隊を率いて数々の敵に挑み、王国を解放すること。 部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
         "price": "無料",
-        "originalPrice": "¥0",
-        "discount": "100% OFF",
-        "deadline": "期間限定",
-        "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Flotsam 漂流ガラクタウン - Epic Games 無料配布中",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで期間限定無料配布中！今すぐ入手して永久にライブラリに追加しよう。",
-        "price": "無料",
-        "originalPrice": "¥2,570",
+        "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -198,6 +186,19 @@
     ],
     "review": [
       {
+        "title": "高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群より空きマスひとつに頭を抱える“なぎ倒し系弾幕アクション”だった。バッグの整理は丁寧に、ゾンビの処分は容赦なく",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本稿では『デッドリーデイズ：ロードトリップ』がどのようなゲームであるか、どういった点が面白いのかをお届けしよう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/deadly-days-roadtrip-20261112-478630/",
+        "date": "2026-11-12",
+        "is_translated": false
+      },
+      {
         "title": "好評武装少女ローグライクACT 『Million Depth』Nintendo Switch向け体験版配信開始。Switchでも「1ルート」お試しできる、セーブデータも引き継ぎ可",
         "platform": "AUTOMATON",
         "type": "review",
@@ -211,15 +212,15 @@
         "is_translated": false
       },
       {
-        "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
-        "platform": "Polygon",
+        "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+        "platform": "PC Gamer",
         "type": "review",
-        "description": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls.",
+        "description": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.polygon.com/queens-domain-review/",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
         "date": "2026-11-12",
         "is_translated": true
       },
@@ -237,19 +238,6 @@
         "is_translated": false
       },
       {
-        "title": "“限界社畜”百合恋愛ゲーム『真夏のシトラス』、来年1月5日発売へ。体験版の批判を受け「シナリオ一から書き直し」の大刷新、ひと瓶の香水から始まるラブストーリー",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ZtoA CO.は11月10日、LimeStudioが手がける『真夏のシトラス』を2027年1月5日にリリースすると発表した。本作はいわゆる“社畜”の主人公が、ひょんなことから恋の連鎖へと巻き込まれていく恋愛ビジュアルノベルゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261111-478575/",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
         "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
         "platform": "PC Gamer",
         "type": "review",
@@ -260,32 +248,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
         "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
-        "title": "No more need to slap 'reddit' on the end of your Google searches as Reddit Reviews is here to amalgamate everyone's thoughts",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Prepare for the review bombing.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts/",
-        "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
-        "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "We might get an early taste of Ascendance before long.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
-        "date": "2026-11-10",
         "is_translated": true
       }
     ],
@@ -502,5 +464,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-12T06:24:19.946829"
+  "last_updated": "2026-11-12T19:19:45.451706"
 }

@@ -16,6 +16,18 @@
     ],
     "bundle": [
       {
+        "title": "Build your own Play on the Go Elite Collection",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-11-13"
+      },
+      {
         "title": "[Steam] Goblin Platformer Pack ($2.41/-73% on 3 games)",
         "platform": "Steam",
         "type": "bundle",
@@ -158,58 +170,86 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-11-01"
-      },
-      {
-        "title": "FrightFest Ripper Bundle (18 for $14.99 - Get [HERROR] Gas Station Case / Blood Vial / Butcher's Creek / Bogos Binted / Butcherman / FLASH AND DIE / Cut that Wire / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Humble bundle have a great horror bundle atm! 8 days left.",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-10-30"
       }
     ],
     "review": [
       {
-        "title": "高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群より空きマスひとつに頭を抱える“なぎ倒し系弾幕アクション”だった。バッグの整理は丁寧に、ゾンビの処分は容赦なく",
+        "title": "高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語に対応。『オブラディン』『Type Help』などの影響を受ける傑作推理ゲームが日本語で遊べる",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "本稿では『デッドリーデイズ：ロードトリップ』がどのようなゲームであるか、どういった点が面白いのかをお届けしよう。",
+        "description": "Bushmonkey Gamesは11月12日、『The Red Pearls Of Borneo』に日本語字幕を追加した。本作は『Return of the Obra Dinn』や『Type Help』の影響を受けた、探偵ノワール推理ゲームだ。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/deadly-days-roadtrip-20261112-478630/",
-        "date": "2026-11-12",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479184/",
+        "date": "2026-11-13",
         "is_translated": false
       },
       {
-        "title": "好評武装少女ローグライクACT 『Million Depth』Nintendo Switch向け体験版配信開始。Switchでも「1ルート」お試しできる、セーブデータも引き継ぎ可",
+        "title": "自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リアル積雪システム」搭載、雪が降らなきゃ自分で降らす",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "PLAYISMは11月12日、『Million Depth』のNintendo Switch体験版の配信を開始した。体験版のセーブデータは製品版への引き継ぎも可能となっている。",
+        "description": "Falling Damage Gamesは11月13日、スキー場建設・経営シミュレーションゲーム『ゲレンデ社長！伝説のスキーリゾート経営』の早期アクセス配信を開始した。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261112-478866/",
-        "date": "2026-11-12",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479144/",
+        "date": "2026-11-13",
         "is_translated": false
+      },
+      {
+        "title": "AAA級ゲーム開発では、今や「内製エンジン」採用が50％超えとの調査データ。とうとうUnreal Engineのシェアを追い越す",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Game Developers Conferenceによる業界調査レポート「State of the Game Industry: November 2026」が公開された。それによると、AAA級のゲーム開発現場においては、内製エンジンの採用率が上昇しているようだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479125/",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Well that certainly clears things up.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
+        "date": "2026-11-13",
+        "is_translated": true
+      },
+      {
+        "title": "Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"Reddit does not receive a cut of any purchases made through the buy it now button on product pages.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
+        "date": "2026-11-13",
+        "is_translated": true
+      },
+      {
+        "title": "Stephen King and Real-Life Serial Killers Shaped the Most Unhinged Thriller of 2026",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Maika Monroe talks playing a killer in Victorian Psycho, the films that shaped her villain, They Follow, and who’d win in a fight with Longlegs.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/maika-monroe-victorian-psycho-interview/",
+        "date": "2026-11-13",
+        "is_translated": true
       },
       {
         "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
@@ -464,5 +504,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-13T05:44:18.011063"
+  "last_updated": "2026-11-13T18:58:16.038482"
 }

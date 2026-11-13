@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-12"
+        "date": "2026-11-13"
       }
     ],
     "bundle": [
@@ -212,6 +212,19 @@
         "is_translated": false
       },
       {
+        "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Maybe it's just me. Is it just me?",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
+        "date": "2026-11-12",
+        "is_translated": true
+      },
+      {
         "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
         "platform": "PC Gamer",
         "type": "review",
@@ -225,29 +238,16 @@
         "is_translated": true
       },
       {
-        "title": "『進撃の巨人３』先行プレイ感想。8年ぶりの新作はオープンワールドっぽさあり。広く生々しく恐ろしいアクションゲームに",
-        "platform": "AUTOMATON",
+        "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "「進撃の巨人」のいちファンとして、過去作との比較も交えつつ、本作のプレイフィールをお伝えしたい。",
+        "description": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game. If you're not, it might be worth trying out, as Mega Crit say this is th",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/shingeki-20261111-478767/",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The move to a better anti-cheat has not been wholly embraced by players.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
-        "date": "2026-11-11",
+        "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+        "date": "2026-11-12",
         "is_translated": true
       }
     ],
@@ -464,5 +464,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-12T19:19:45.451706"
+  "last_updated": "2026-11-13T05:44:18.011063"
 }

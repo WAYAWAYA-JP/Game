@@ -11,10 +11,34 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "bundle": [
+      {
+        "title": "Generation Zero: Complete Bundle 2026 (Pay $8 for Generation Zero, GZ - FNIX Rising, GZ - MP, GZ - Heavy WP, GZ - AICP, GZ - TEP, GZ- AU, GZ - CAP, GZ - RFP, $12 adds GZ - CWSP, GZ - BSP, GZ - Resistance WP, GZ - US WP, GZ - BDP, GZ - SWP, GZ - SVP, GZ - TEP2)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Seriously Unserious Collection (Pay $10 for Journey To The Savage Planet, Who's Your Daddy?!, Trombone Champ, Barn Finders, Ghost Keeper, Astrologaster)",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-14"
+      },
       {
         "title": "Build your own Play on the Go Elite Collection",
         "platform": "Fanatical",
@@ -25,7 +49,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-13"
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでHumble 15th Anniversary - Sci-Fi Exposure Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-14"
       },
       {
         "title": "[Steam] Goblin Platformer Pack ($2.41/-73% on 3 games)",
@@ -158,21 +194,22 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-11-02"
-      },
-      {
-        "title": "Build your own Resident Evil Bundle: Demonic Edition",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-11-01"
       }
     ],
     "review": [
+      {
+        "title": "高い評価を得たダンマス系ダンジョンRPG「Underkeep」の改善や新コンテンツを含む今後の計画がアナウンス",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Be a KingやJets’n’Gunsなど、数々のタイトルを手がけてきたチェコのインディースタジオ“Rake in Grass”の最新作として、先日待望のローンチを果たし、極めて高い評価を獲得したダンジョンクロウラー […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172850.html",
+        "date": "2026-11-14",
+        "is_translated": false
+      },
       {
         "title": "高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語に対応。『オブラディン』『Type Help』などの影響を受ける傑作推理ゲームが日本語で遊べる",
         "platform": "AUTOMATON",
@@ -213,6 +250,19 @@
         "is_translated": false
       },
       {
+        "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+        "date": "2026-11-13",
+        "is_translated": true
+      },
+      {
         "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
         "platform": "PC Gamer",
         "type": "review",
@@ -235,19 +285,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
-        "date": "2026-11-13",
-        "is_translated": true
-      },
-      {
-        "title": "Stephen King and Real-Life Serial Killers Shaped the Most Unhinged Thriller of 2026",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Maika Monroe talks playing a killer in Victorian Psycho, the films that shaped her villain, They Follow, and who’d win in a fight with Longlegs.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/maika-monroe-victorian-psycho-interview/",
         "date": "2026-11-13",
         "is_translated": true
       },
@@ -504,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-13T18:58:16.038482"
+  "last_updated": "2026-11-14T05:34:42.990258"
 }

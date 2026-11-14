@@ -211,6 +211,45 @@
         "is_translated": false
       },
       {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Ah, yes, Saturday. Traditionally a day for relaxing. Why is it then I'm packing, doing last-minute shopping, and going to a wedding all in the space of eight hours? Because, Julian, you are a fool wh",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
+        "date": "2026-11-14",
+        "is_translated": true
+      },
+      {
+        "title": "The Zelda: Ocarina of Time Remake Is an Event Even if You’re Not Playing It",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Watching personal reactions to Nintendo's Switch 2 version of The Legend of Zelda: OoT is beautiful",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-reception/",
+        "date": "2026-11-14",
+        "is_translated": true
+      },
+      {
+        "title": "10 Near-Perfect Nintendo Switch Games Nobody Played",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The Nintendo Switch library is massive, but now that we're more than a year into the Switch 2's life cycle, here are the best overlooked Switch games.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-switch-hidden-gems/",
+        "date": "2026-11-14",
+        "is_translated": true
+      },
+      {
         "title": "高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語に対応。『オブラディン』『Type Help』などの影響を受ける傑作推理ゲームが日本語で遊べる",
         "platform": "AUTOMATON",
         "type": "review",
@@ -298,19 +337,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
-        "date": "2026-11-12",
-        "is_translated": true
-      },
-      {
-        "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
         "date": "2026-11-12",
         "is_translated": true
       },
@@ -541,5 +567,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-14T05:34:42.990258"
+  "last_updated": "2026-11-14T17:30:42.108733"
 }

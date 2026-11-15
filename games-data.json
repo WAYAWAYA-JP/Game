@@ -52,6 +52,30 @@
         "date": "2026-11-15"
       },
       {
+        "title": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "[Humble Bundle] New Biggest Graphics Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/",
+        "date": "2026-11-15"
+      },
+      {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -170,33 +194,48 @@
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
         "date": "2026-11-05"
-      },
-      {
-        "title": "Crimes and Curiosity Bundle by S2 Games (Pay $7 for Frog Detective 3: Corruption at Cowboy County, Frog Detective 2: TCotIW, Frog Detective 1: THI, 3 more, $10 adds BROK the InvestiGator, BROK the InvestiGator - First Hat, 1 more, and $14 adds Broken Sword - SotT: Reforged, 4 more)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Tactical Mindset Bundle (Pay $6 for The Ouroboros King, Planetiles, Break the Loop, Vandals, $12 adds Space Prison, The Dungeon of Naheulbeuk: The Amulet of Chaos - Deluxe Edition, Lost Eidolons, The Land Beneath Us, and $18 adds Terrinoth: Heroes of Descent, One More Gate : A Wakfu Legend)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-11-02"
       }
     ],
     "review": [
+      {
+        "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+        "date": "2026-11-15",
+        "is_translated": true
+      },
+      {
+        "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+        "date": "2026-11-15",
+        "is_translated": true
+      },
+      {
+        "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+        "date": "2026-11-15",
+        "is_translated": true
+      },
       {
         "title": "高い評価を得たダンマス系ダンジョンRPG「Underkeep」の改善や新コンテンツを含む今後の計画がアナウンス",
         "platform": "doope!",
@@ -246,19 +285,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
-        "date": "2026-11-14",
-        "is_translated": true
-      },
-      {
-        "title": "League of Legends: New Dawn Revealed, Major Overhaul Set for 2027",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with new gameplay and features.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
         "date": "2026-11-14",
         "is_translated": true
       },
@@ -324,19 +350,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
-        "date": "2026-11-13",
-        "is_translated": true
-      },
-      {
-        "title": "Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"Reddit does not receive a cut of any purchases made through the buy it now button on product pages.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
         "date": "2026-11-13",
         "is_translated": true
       },
@@ -567,5 +580,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-15T05:32:46.719216"
+  "last_updated": "2026-11-15T18:15:25.951114"
 }

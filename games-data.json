@@ -16,15 +16,39 @@
     ],
     "bundle": [
       {
-        "title": "Generation Zero: Complete Bundle 2026 (Pay $8 for Generation Zero, GZ - FNIX Rising, GZ - MP, GZ - Heavy WP, GZ - AICP, GZ - TEP, GZ- AU, GZ - CAP, GZ - RFP, $12 adds GZ - CWSP, GZ - BSP, GZ - Resistance WP, GZ - US WP, GZ - BDP, GZ - SWP, GZ - SVP, GZ - TEP2)",
-        "platform": "Humble Bundle",
+        "title": "Movember Charity Bundle (2026) (10 for $8.99 - Get Fallen Aces / Terminator: Dark Fate - Defiance / Viscera Cleanup Detail / Tiny Terry's Turbo Trip / Aerial_Knight's We Never Yield / Blackthorn Arena: Reforged / Mark of the Deep / More)",
+        "platform": "Fanatical",
         "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
+        "description": "Fanaticalのバンドル。",
         "price": "バンドル価格",
         "originalPrice": "",
         "discount": "",
         "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
+        "url": "https://www.fanatical.com/",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでHumble 15th Anniversary - Sci-Fi Exposure Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Generation Zero: Complete Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでGeneration Zero: Complete Bundle 2026が登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
         "date": "2026-11-16"
       },
       {
@@ -49,18 +73,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-16"
-      },
-      {
-        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでHumble 15th Anniversary - Sci-Fi Exposure Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
-        "price": "お得価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/bundles",
         "date": "2026-11-16"
       },
       {
@@ -182,21 +194,48 @@
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
         "date": "2026-11-06"
-      },
-      {
-        "title": "November 2026: Mafia: The Old Country + 2 DLC Packs, The Outer Worlds 2, SHINOBI: Art of Vengeance, Yakuza 6: The Song of Life, Crisol: Theater of Idols, Space Haven, DYSMANTLE, Squeakross: Home Squeak Home ($14.99)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-11-05"
       }
     ],
     "review": [
+      {
+        "title": "“戦わない”謎解きメトロイドヴァニア『MONOMOON』好評率98%でブームの予感。新たな『ANIMAL WELL』風ゲームには“謎言語”もある",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Gentle Giantは11月12日、パズルアクションゲーム『MONOMOON』を配信した。さっそく非常に高い評価を得て人気となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261116-479460/",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "生死を賭けた地獄のパーティゲーム「Machine Party」のコンソール版発売日が11月26日に決定",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ショットガンロシアンルーレットホラー“Buckshot Roulette”やハッキングホラー“s.p.l.i.t”で知られるMike Klubnika氏とGDeavidの新作として、今年7月末にリリースされ、高い評価を獲 […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172913.html",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Ashes of the Singularity 2 delivers on gigantic battles, but not much else.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+        "date": "2026-11-16",
+        "is_translated": true
+      },
       {
         "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
         "platform": "PC Gamer",
@@ -237,19 +276,6 @@
         "is_translated": true
       },
       {
-        "title": "高い評価を得たダンマス系ダンジョンRPG「Underkeep」の改善や新コンテンツを含む今後の計画がアナウンス",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Be a KingやJets’n’Gunsなど、数々のタイトルを手がけてきたチェコのインディースタジオ“Rake in Grass”の最新作として、先日待望のローンチを果たし、極めて高い評価を獲得したダンジョンクロウラー […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172850.html",
-        "date": "2026-11-14",
-        "is_translated": false
-      },
-      {
         "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -286,45 +312,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
         "date": "2026-11-14",
-        "is_translated": true
-      },
-      {
-        "title": "高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語に対応。『オブラディン』『Type Help』などの影響を受ける傑作推理ゲームが日本語で遊べる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Bushmonkey Gamesは11月12日、『The Red Pearls Of Borneo』に日本語字幕を追加した。本作は『Return of the Obra Dinn』や『Type Help』の影響を受けた、探偵ノワール推理ゲームだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479184/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
-        "date": "2026-11-13",
-        "is_translated": true
-      },
-      {
-        "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Well that certainly clears things up.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
-        "date": "2026-11-13",
         "is_translated": true
       },
       {
@@ -554,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-16T05:32:50.554134"
+  "last_updated": "2026-11-16T21:27:49.216871"
 }

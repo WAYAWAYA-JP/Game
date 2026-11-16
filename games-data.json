@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "bundle": [
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       },
       {
         "title": "Seriously Unserious Collection (Pay $10 for Journey To The Savage Planet, Who's Your Daddy?!, Trombone Champ, Barn Finders, Ghost Keeper, Astrologaster)",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       },
       {
         "title": "Build your own Play on the Go Elite Collection",
@@ -49,7 +49,19 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-15"
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでHumble 15th Anniversary - Sci-Fi Exposure Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-16"
       },
       {
         "title": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
@@ -73,18 +85,6 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/",
-        "date": "2026-11-15"
-      },
-      {
-        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでHumble 15th Anniversary - Sci-Fi Exposure Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
-        "price": "お得価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/bundles",
         "date": "2026-11-15"
       },
       {
@@ -298,32 +298,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261113-479184/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リアル積雪システム」搭載、雪が降らなきゃ自分で降らす",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Falling Damage Gamesは11月13日、スキー場建設・経営シミュレーションゲーム『ゲレンデ社長！伝説のスキーリゾート経営』の早期アクセス配信を開始した。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479144/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "AAA級ゲーム開発では、今や「内製エンジン」採用が50％超えとの調査データ。とうとうUnreal Engineのシェアを追い越す",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Game Developers Conferenceによる業界調査レポート「State of the Game Industry: November 2026」が公開された。それによると、AAA級のゲーム開発現場においては、内製エンジンの採用率が上昇しているようだ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479125/",
         "date": "2026-11-13",
         "is_translated": false
       },
@@ -580,5 +554,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-15T18:15:25.951114"
+  "last_updated": "2026-11-16T05:32:50.554134"
 }

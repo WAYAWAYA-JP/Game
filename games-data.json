@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       }
     ],
     "bundle": [
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.fanatical.com/",
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       },
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       },
       {
         "title": "Generation Zero: Complete Bundle 2026",
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       },
       {
         "title": "Seriously Unserious Collection (Pay $10 for Journey To The Savage Planet, Who's Your Daddy?!, Trombone Champ, Barn Finders, Ghost Keeper, Astrologaster)",
@@ -541,5 +541,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-16T21:27:49.216871"
+  "last_updated": "2026-11-17T07:10:00.248847"
 }

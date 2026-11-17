@@ -16,18 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "Movember Charity Bundle (2026) (10 for $8.99 - Get Fallen Aces / Terminator: Dark Fate - Defiance / Viscera Cleanup Detail / Tiny Terry's Turbo Trip / Aerial_Knight's We Never Yield / Blackthorn Arena: Reforged / Mark of the Deep / More)",
-        "platform": "Fanatical",
-        "type": "bundle",
-        "description": "Fanaticalのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.fanatical.com/",
-        "date": "2026-11-17"
-      },
-      {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -49,6 +37,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Movember Charity Bundle (2026) (10 for $8.99 - Get Fallen Aces / Terminator: Dark Fate - Defiance / Viscera Cleanup Detail / Tiny Terry's Turbo Trip / Aerial_Knight's We Never Yield / Blackthorn Arena: Reforged / Mark of the Deep / More)",
+        "platform": "Fanatical",
+        "type": "bundle",
+        "description": "Fanaticalのバンドル。",
+        "price": "バンドル価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.fanatical.com/",
         "date": "2026-11-17"
       },
       {
@@ -211,19 +211,6 @@
         "is_translated": false
       },
       {
-        "title": "生死を賭けた地獄のパーティゲーム「Machine Party」のコンソール版発売日が11月26日に決定",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ショットガンロシアンルーレットホラー“Buckshot Roulette”やハッキングホラー“s.p.l.i.t”で知られるMike Klubnika氏とGDeavidの新作として、今年7月末にリリースされ、高い評価を獲 […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172913.html",
-        "date": "2026-11-16",
-        "is_translated": false
-      },
-      {
         "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
         "platform": "PC Gamer",
         "type": "review",
@@ -234,45 +221,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
         "date": "2026-11-16",
-        "is_translated": true
-      },
-      {
-        "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
-        "date": "2026-11-15",
-        "is_translated": true
-      },
-      {
-        "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
-        "date": "2026-11-15",
-        "is_translated": true
-      },
-      {
-        "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
-        "date": "2026-11-15",
         "is_translated": true
       },
       {
@@ -312,19 +260,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
         "date": "2026-11-14",
-        "is_translated": true
-      },
-      {
-        "title": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Hark! A new Slay the Spire 2 patch is here! Or, well, it is if you're someone who's trying out the beta branches of the game. If you're not, it might be worth trying out, as Mega Crit say this is th",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-        "date": "2026-11-12",
         "is_translated": true
       }
     ],
@@ -541,5 +476,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-17T07:10:00.248847"
+  "last_updated": "2026-11-17T20:14:43.936484"
 }

@@ -198,6 +198,19 @@
     ],
     "review": [
       {
+        "title": "『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続出、GOTYへの期待も高まる",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『グランド・セフト・オートVI（GTA6）』に対し、メディア・批評家から非常に高い評価が寄せられている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
         "title": "『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“ながら食い”もできる",
         "platform": "AUTOMATON",
         "type": "review",
@@ -211,29 +224,94 @@
         "is_translated": false
       },
       {
-        "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
-        "platform": "Rock Paper Shotgun",
+        "title": "Rockstar GamesのSam Houser社長が「Grand Theft Auto VI」の発売を祝う声明を発表",
+        "platform": "doope!",
         "type": "review",
-        "description": "The idea of Dark Souls PvP has always scared me a tad. You can replace Dark Souls with Bloodborne or Elden Ring, I've typically just been a coward when it comes to the idea of fighting another, real",
+        "description": "先ほど、驚異的なビジュアルが確認できるDigital Foundryの技術レビュー映像をご紹介した人気シリーズ最新作「Grand Theft Auto VI」ですが、日本での発売がいよいよ目前に迫るなか、新たにRocks […]",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-        "date": "2026-11-14",
+        "url": "https://doope.jp/2026/11172917.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "新作サバイバルシム「Casualties: Unknown」が初週12万5,000本販売を達成",
+        "platform": "doope!",
+        "type": "review",
+        "description": "itch.io向けの無料早期アルファ版リリースを経て、2026年11月9日にSteam向けのローンチを果たし高い評価を獲得した個人開発者Orsoniks氏の新作洞窟探索サバイバルシミュレーション「Casualties: […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172975.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "「Grand Theft Auto VI」の驚異的なグラフィックス技術が確認できるDigital Foundryのテックレビュー映像が公開",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本日ニュージーランドを皮切りに始まった現地0時の発売と共に、大手メディアのレビューが解禁され、Metascoreが（98年の“時のオカリナ”と並び）史上最高点となる“99”、OpenCriticも同じく史上最高点となるス […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172916.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Only 62 bird varieties, though.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+        "date": "2026-11-18",
         "is_translated": true
       },
       {
-        "title": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+        "title": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Meat Boy entered into a new dimension in the aptly named Super Meat Boy 3D. I've not played it but it seems like a good t",
+        "description": "Funky feudal family frolic Crusader Kings 3 got its second major expansion of the year this week. It's called Silk and Silver (read my impressions), is all about merchant republics, and shipped along",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-        "date": "2026-11-14",
+        "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "GTA 6 launches on console today. It's widely expected to sell more copies than main character Lucia Caminos has skin pores, more copies than there are words even in Eurogamer's five-star review, whic",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Freshly published bankruptcy documents for perennially troubled MindsEye developer Build A Rocket Boy have spelled out the scale of the company's debt, with around £61.7 million owed to credito",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
+        "date": "2026-11-18",
         "is_translated": true
       }
     ],
@@ -450,5 +528,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-18T06:32:51.151939"
+  "last_updated": "2026-11-18T19:45:57.130000"
 }

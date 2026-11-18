@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-17"
+        "date": "2026-11-18"
       }
     ],
     "bundle": [
@@ -25,7 +25,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-17"
+        "date": "2026-11-18"
       },
       {
         "title": "Generation Zero: Complete Bundle 2026",
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-17"
+        "date": "2026-11-18"
       },
       {
         "title": "Movember Charity Bundle (2026) (10 for $8.99 - Get Fallen Aces / Terminator: Dark Fate - Defiance / Viscera Cleanup Detail / Tiny Terry's Turbo Trip / Aerial_Knight's We Never Yield / Blackthorn Arena: Reforged / Mark of the Deep / More)",
@@ -198,30 +198,17 @@
     ],
     "review": [
       {
-        "title": "“戦わない”謎解きメトロイドヴァニア『MONOMOON』好評率98%でブームの予感。新たな『ANIMAL WELL』風ゲームには“謎言語”もある",
+        "title": "『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“ながら食い”もできる",
         "platform": "AUTOMATON",
         "type": "review",
-        "description": "Gentle Giantは11月12日、パズルアクションゲーム『MONOMOON』を配信した。さっそく非常に高い評価を得て人気となっている。",
+        "description": "Mojang Studiosは11月17日、『Minecraft（マインクラフト）』Bedrock版（統合版）向けにプレビュー「26.70.26」を配信した。統合版においても、“完全版”となるオフハンド機能が体験可能となっている。",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261116-479460/",
-        "date": "2026-11-16",
+        "url": "https://automaton-media.com/articles/newsjp/minecraft-20261118-479748/",
+        "date": "2026-11-18",
         "is_translated": false
-      },
-      {
-        "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Ashes of the Singularity 2 delivers on gigantic battles, but not much else.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
-        "date": "2026-11-16",
-        "is_translated": true
       },
       {
         "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
@@ -246,19 +233,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-        "date": "2026-11-14",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Ah, yes, Saturday. Traditionally a day for relaxing. Why is it then I'm packing, doing last-minute shopping, and going to a wedding all in the space of eight hours? Because, Julian, you are a fool wh",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
         "date": "2026-11-14",
         "is_translated": true
       }
@@ -476,5 +450,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-17T20:14:43.936484"
+  "last_updated": "2026-11-18T06:32:51.151939"
 }

@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-18"
+        "date": "2026-11-19"
       }
     ],
     "bundle": [
@@ -211,19 +211,6 @@
         "is_translated": false
       },
       {
-        "title": "『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“ながら食い”もできる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Mojang Studiosは11月17日、『Minecraft（マインクラフト）』Bedrock版（統合版）向けにプレビュー「26.70.26」を配信した。統合版においても、“完全版”となるオフハンド機能が体験可能となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/minecraft-20261118-479748/",
-        "date": "2026-11-18",
-        "is_translated": false
-      },
-      {
         "title": "Rockstar GamesのSam Houser社長が「Grand Theft Auto VI」の発売を祝う声明を発表",
         "platform": "doope!",
         "type": "review",
@@ -261,19 +248,6 @@
         "url": "https://doope.jp/2026/11172916.html",
         "date": "2026-11-18",
         "is_translated": false
-      },
-      {
-        "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Only 62 bird varieties, though.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
-        "date": "2026-11-18",
-        "is_translated": true
       },
       {
         "title": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
@@ -528,5 +502,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-18T19:45:57.130000"
+  "last_updated": "2026-11-19T06:35:07.759286"
 }

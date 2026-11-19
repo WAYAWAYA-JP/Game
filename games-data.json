@@ -2,12 +2,12 @@
   "pc": {
     "free": [
       {
-        "title": "Knightica - Epic Games 無料配布中",
+        "title": "Mark of the Deep - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。 目的は戦隊を率いて数々の敵に挑み、王国を解放すること。 部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
+        "description": "『Mark of the Deep』は、緻密なストーリー展開と、高く評価されているメトロイドヴァニアやソウルライクゲームの要素を組み合わせた壮大な海賊アドベンチャーです。プレイヤーは海賊ルーキーとして、呪われた島の謎を解き明かし、行方不明の仲間たちを探し出す旅に出ることになります！",
         "price": "無料",
-        "originalPrice": "¥1,460",
+        "originalPrice": "¥2,300",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -198,6 +198,71 @@
     ],
     "review": [
       {
+        "title": "“降りたいけど落ちたくない”骨太アクション『崩落の国』、Steamで「非常に好評」に。Cygames新ブランドデビュー作、まずは好発進",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Cygamesのサブブランド「CygamesEdge」は11月5日、崩落アクションアドベンチャーゲーム『崩落の国』をリリースした。さっそく評価を博している。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261119-480066/",
+        "date": "2026-11-19",
+        "is_translated": false
+      },
+      {
+        "title": "ど田舎牛乳配達ゲーム『Milki Delivery：ミルキィの牛乳屋』好評率99%でめっちゃ好発進。人気ゲーム連発開発者が放つ、心にしみるチャリンコ少女ほっこり生活",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Wholesome Games Presentsは11月17日、Doot Tiny Gamesが手がけた牛乳配達アドベンチャーゲーム『Milki Delivery：ミルキィの牛乳屋さん』を配信した。さっそく非常に高い評価を獲得し人気となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261119-480033/",
+        "date": "2026-11-19",
+        "is_translated": false
+      },
+      {
+        "title": "Football Manager 27 review: Back on form, but not without its wayward touches",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "The football management sim is back on form, but not without its wayward touches.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sports/football-manager-27-review/",
+        "date": "2026-11-19",
+        "is_translated": true
+      },
+      {
+        "title": "I reviewed every strip club in GTA 6 (because you sickos keep googling it)",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Apart from that one that wouldn't let me in.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-strip-club-locations/",
+        "date": "2026-11-19",
+        "is_translated": true
+      },
+      {
+        "title": "Former Rockstar president's studio is looking to sue its way out of a £61 million debt, and yes, it's still claiming MindsEye suffered 'a coordinated campaign of negative online reviews'",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "It's a bold strategy, Cotton.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/former-rockstar-presidents-studio-is-looking-to-sue-its-way-out-of-a-gbp61-million-debt-and-yes-its-still-claiming-mindseye-suffered-a-coordinated-campaign-of-negative-online-reviews/",
+        "date": "2026-11-19",
+        "is_translated": true
+      },
+      {
         "title": "『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続出、GOTYへの期待も高まる",
         "platform": "AUTOMATON",
         "type": "review",
@@ -207,45 +272,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
-        "date": "2026-11-18",
-        "is_translated": false
-      },
-      {
-        "title": "Rockstar GamesのSam Houser社長が「Grand Theft Auto VI」の発売を祝う声明を発表",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先ほど、驚異的なビジュアルが確認できるDigital Foundryの技術レビュー映像をご紹介した人気シリーズ最新作「Grand Theft Auto VI」ですが、日本での発売がいよいよ目前に迫るなか、新たにRocks […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172917.html",
-        "date": "2026-11-18",
-        "is_translated": false
-      },
-      {
-        "title": "新作サバイバルシム「Casualties: Unknown」が初週12万5,000本販売を達成",
-        "platform": "doope!",
-        "type": "review",
-        "description": "itch.io向けの無料早期アルファ版リリースを経て、2026年11月9日にSteam向けのローンチを果たし高い評価を獲得した個人開発者Orsoniks氏の新作洞窟探索サバイバルシミュレーション「Casualties: […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172975.html",
-        "date": "2026-11-18",
-        "is_translated": false
-      },
-      {
-        "title": "「Grand Theft Auto VI」の驚異的なグラフィックス技術が確認できるDigital Foundryのテックレビュー映像が公開",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本日ニュージーランドを皮切りに始まった現地0時の発売と共に、大手メディアのレビューが解禁され、Metascoreが（98年の“時のオカリナ”と並び）史上最高点となる“99”、OpenCriticも同じく史上最高点となるス […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172916.html",
         "date": "2026-11-18",
         "is_translated": false
       },
@@ -502,5 +528,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-19T06:35:07.759286"
+  "last_updated": "2026-11-19T19:46:39.904501"
 }

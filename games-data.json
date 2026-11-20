@@ -198,6 +198,32 @@
     ],
     "review": [
       {
+        "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+        "date": "2026-11-20",
+        "is_translated": false
+      },
+      {
+        "title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Ubisoft have revealed their Motherbrain. It's far less cool than it sounds. Rather than being a giant floating slab of thinky meat that can do telepathy, Motherbrain is a studio dedicated to doing de",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
+        "date": "2026-11-20",
+        "is_translated": true
+      },
+      {
         "title": "“降りたいけど落ちたくない”骨太アクション『崩落の国』、Steamで「非常に好評」に。Cygames新ブランドデビュー作、まずは好発進",
         "platform": "AUTOMATON",
         "type": "review",
@@ -221,32 +247,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261119-480033/",
         "date": "2026-11-19",
-        "is_translated": false
-      },
-      {
-        "title": "Football Manager 27 review: Back on form, but not without its wayward touches",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The football management sim is back on form, but not without its wayward touches.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sports/football-manager-27-review/",
-        "date": "2026-11-19",
-        "is_translated": true
-      },
-      {
-        "title": "『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続出、GOTYへの期待も高まる",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『グランド・セフト・オートVI（GTA6）』に対し、メディア・批評家から非常に高い評価が寄せられている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
-        "date": "2026-11-18",
         "is_translated": false
       },
       {
@@ -502,5 +502,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-20T06:22:56.240315"
+  "last_updated": "2026-11-20T19:27:15.317063"
 }

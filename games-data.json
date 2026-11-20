@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     ],
     "bundle": [
@@ -233,32 +233,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.pcgamer.com/games/sports/football-manager-27-review/",
-        "date": "2026-11-19",
-        "is_translated": true
-      },
-      {
-        "title": "I reviewed every strip club in GTA 6 (because you sickos keep googling it)",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Apart from that one that wouldn't let me in.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-strip-club-locations/",
-        "date": "2026-11-19",
-        "is_translated": true
-      },
-      {
-        "title": "Former Rockstar president's studio is looking to sue its way out of a £61 million debt, and yes, it's still claiming MindsEye suffered 'a coordinated campaign of negative online reviews'",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "It's a bold strategy, Cotton.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/former-rockstar-presidents-studio-is-looking-to-sue-its-way-out-of-a-gbp61-million-debt-and-yes-its-still-claiming-mindseye-suffered-a-coordinated-campaign-of-negative-online-reviews/",
         "date": "2026-11-19",
         "is_translated": true
       },
@@ -528,5 +502,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-19T19:46:39.904501"
+  "last_updated": "2026-11-20T06:22:56.240315"
 }

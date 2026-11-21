@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
       }
     ],
     "bundle": [
@@ -207,6 +207,19 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+        "date": "2026-11-20",
+        "is_translated": false
+      },
+      {
+        "title": "「Grand Theft Auto VI」の売上げがエンターテインメント史上最大の記録となる初日37億9,000万ドルに到達、プレオーダーの販売本数は3,250万本に",
+        "platform": "doope!",
+        "type": "review",
+        "description": "先日、待望のローンチを果たし、驚異的な評価を獲得し話題となった人気シリーズ最新作「Grand Theft Auto VI」ですが、本日Take-Two InteractiveとRockstar Gamesがプレスリリース […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173040.html",
         "date": "2026-11-20",
         "is_translated": false
       },
@@ -502,5 +515,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-20T19:27:15.317063"
+  "last_updated": "2026-11-21T06:12:50.768739"
 }

@@ -12,6 +12,18 @@
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-11-21"
+      },
+      {
+        "title": "TerraScape - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
+        "price": "無料",
+        "originalPrice": "¥1,650",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-21"
       }
     ],
     "bundle": [
@@ -197,6 +209,19 @@
       }
     ],
     "review": [
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Terrible news, readers. Not only have several members of the Treehouse abandoned us, citing flimsy excuses like \"James, you remember I've got that holiday booked, right?,\" many that remain have forsa",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+        "date": "2026-11-21",
+        "is_translated": true
+      },
       {
         "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
         "platform": "AUTOMATON",
@@ -515,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-21T06:12:50.768739"
+  "last_updated": "2026-11-21T18:29:24.427677"
 }

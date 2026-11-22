@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-21"
+        "date": "2026-11-22"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-21"
+        "date": "2026-11-22"
       }
     ],
     "bundle": [
@@ -271,19 +271,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261119-480066/",
-        "date": "2026-11-19",
-        "is_translated": false
-      },
-      {
-        "title": "ど田舎牛乳配達ゲーム『Milki Delivery：ミルキィの牛乳屋』好評率99%でめっちゃ好発進。人気ゲーム連発開発者が放つ、心にしみるチャリンコ少女ほっこり生活",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Wholesome Games Presentsは11月17日、Doot Tiny Gamesが手がけた牛乳配達アドベンチャーゲーム『Milki Delivery：ミルキィの牛乳屋さん』を配信した。さっそく非常に高い評価を獲得し人気となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261119-480033/",
         "date": "2026-11-19",
         "is_translated": false
       },
@@ -540,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-21T18:29:24.427677"
+  "last_updated": "2026-11-22T05:47:03.644418"
 }

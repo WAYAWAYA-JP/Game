@@ -210,6 +210,19 @@
     ],
     "review": [
       {
+        "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "I bet GTA 6 doesn't even have a jetpack.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
+        "date": "2026-11-22",
+        "is_translated": true
+      },
+      {
         "title": "What are we all playing this weekend?",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -260,19 +273,6 @@
         "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
         "date": "2026-11-20",
         "is_translated": true
-      },
-      {
-        "title": "“降りたいけど落ちたくない”骨太アクション『崩落の国』、Steamで「非常に好評」に。Cygames新ブランドデビュー作、まずは好発進",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Cygamesのサブブランド「CygamesEdge」は11月5日、崩落アクションアドベンチャーゲーム『崩落の国』をリリースした。さっそく評価を博している。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261119-480066/",
-        "date": "2026-11-19",
-        "is_translated": false
       },
       {
         "title": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
@@ -527,5 +527,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-22T05:47:03.644418"
+  "last_updated": "2026-11-22T18:51:54.774062"
 }

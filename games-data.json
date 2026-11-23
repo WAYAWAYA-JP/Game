@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     ],
     "bundle": [
@@ -210,6 +210,32 @@
     ],
     "review": [
       {
+        "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "10月30日に配信された「未知なる旅路」は、本編後のクリフ、ウンカ、デミアンそれぞれの新たな物語をはじめ、海を舞台にした依頼や、かつてのボスたちとの連戦に挑む「試練の庭園」などを追加する『紅の砂漠』初の大型DLCだ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
+        "date": "2026-11-23",
+        "is_translated": false
+      },
+      {
+        "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+        "date": "2026-11-23",
+        "is_translated": true
+      },
+      {
         "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
         "platform": "PC Gamer",
         "type": "review",
@@ -245,19 +271,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
-        "title": "「Grand Theft Auto VI」の売上げがエンターテインメント史上最大の記録となる初日37億9,000万ドルに到達、プレオーダーの販売本数は3,250万本に",
-        "platform": "doope!",
-        "type": "review",
-        "description": "先日、待望のローンチを果たし、驚異的な評価を獲得し話題となった人気シリーズ最新作「Grand Theft Auto VI」ですが、本日Take-Two InteractiveとRockstar Gamesがプレスリリース […]",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173040.html",
         "date": "2026-11-20",
         "is_translated": false
       },
@@ -527,5 +540,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-22T18:51:54.774062"
+  "last_updated": "2026-11-23T06:33:05.652787"
 }

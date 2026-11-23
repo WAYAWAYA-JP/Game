@@ -223,6 +223,19 @@
         "is_translated": false
       },
       {
+        "title": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "A second wind for old-school MMOs that has me hooked.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
+        "date": "2026-11-23",
+        "is_translated": true
+      },
+      {
         "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
         "platform": "PC Gamer",
         "type": "review",
@@ -233,19 +246,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
         "date": "2026-11-23",
-        "is_translated": true
-      },
-      {
-        "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "I bet GTA 6 doesn't even have a jetpack.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
-        "date": "2026-11-22",
         "is_translated": true
       },
       {
@@ -262,19 +262,6 @@
         "is_translated": true
       },
       {
-        "title": "Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなから負けパターン”が透ける分析",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
         "title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -285,45 +272,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
         "date": "2026-11-20",
-        "is_translated": true
-      },
-      {
-        "title": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Funky feudal family frolic Crusader Kings 3 got its second major expansion of the year this week. It's called Silk and Silver (read my impressions), is all about merchant republics, and shipped along",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
-        "date": "2026-11-18",
-        "is_translated": true
-      },
-      {
-        "title": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "GTA 6 launches on console today. It's widely expected to sell more copies than main character Lucia Caminos has skin pores, more copies than there are words even in Eurogamer's five-star review, whic",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
-        "date": "2026-11-18",
-        "is_translated": true
-      },
-      {
-        "title": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Freshly published bankruptcy documents for perennially troubled MindsEye developer Build A Rocket Boy have spelled out the scale of the company's debt, with around £61.7 million owed to credito",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
-        "date": "2026-11-18",
         "is_translated": true
       }
     ],
@@ -540,5 +488,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-23T06:33:05.652787"
+  "last_updated": "2026-11-23T23:05:04.895783"
 }

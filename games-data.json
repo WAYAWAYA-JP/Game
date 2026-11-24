@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     ],
     "bundle": [
@@ -209,6 +209,32 @@
       }
     ],
     "review": [
+      {
+        "title": "高評価Steam終末村ホラー『Leviathan: Rhino』に“日本語改善アプデ”到来。巨大なリヴァイアサンが迫る村に残り、最期を待つ老人の6日間",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "solarsuit.gamesは11月24日、PC（Steam）で配信中の心理的ホラーウォーキングシミュレーション『Leviathan: Rhino』のアップデートを配信した。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261124-480622/",
+        "date": "2026-11-24",
+        "is_translated": false
+      },
+      {
+        "title": "古書店経営ゲーム「Tiny Bookshop」の販売が遂に100万本を突破、初のDLC「Arts and Crafts」もアナウンス",
+        "platform": "doope!",
+        "type": "review",
+        "description": "昨年8月のローンチを経て高い評価を獲得し、今年7月にはモバイル版の販売も回しされた古書店経営ゲーム「Tiny Bookshop」ですが、新たにSkystone Gamesとneoludicが本作の販売規模を報告し、 モバ […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173077.html",
+        "date": "2026-11-24",
+        "is_translated": false
+      },
       {
         "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
         "platform": "AUTOMATON",
@@ -488,5 +514,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-23T23:05:04.895783"
+  "last_updated": "2026-11-24T09:01:16.612098"
 }

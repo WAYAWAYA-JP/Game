@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     ],
     "bundle": [
@@ -37,7 +37,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
@@ -134,21 +134,22 @@
         "deadline": "期間限定",
         "url": "https://store.steampowered.com/",
         "date": "2026-11-12"
-      },
-      {
-        "title": "Beholder 10th Anniversary: The Alawar Collection (Pay $5 for Looking for Aliens, Distrust: Polar Survival, Wall World, Wall World: Deep Threat, Beholder 3, Beholder 2, 5 more, and $10 adds Wall World 2, Beholder: Conductor, Necrosmith 2, Security 51, Haunted Lands, 5 more)",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleのバンドル。",
-        "price": "バンドル価格",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "期間限定",
-        "url": "https://www.humblebundle.com/",
-        "date": "2026-11-11"
       }
     ],
     "review": [
+      {
+        "title": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "11月29日に配信予定の『シノビNEXUS –閃乱カグラ–』を先行プレイした。美麗な3Dモデルに着せ替え、ジオラマ、そしてサウナで汗をかく「シノビスパ」まで、シノビを愛でる要素が充実した仕上がりだった。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
+        "date": "2026-11-25",
+        "is_translated": false
+      },
       {
         "title": "魔女っ子パリィローグライク『Witch the Showdown』さっそく「非常に好評」で人気白熱。パリィしないと攻撃できない、高速見切り魔法バトル",
         "platform": "AUTOMATON",
@@ -189,29 +190,16 @@
         "is_translated": true
       },
       {
-        "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
-        "platform": "AUTOMATON",
+        "title": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
+        "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "10月30日に配信された「未知なる旅路」は、本編後のクリフ、ウンカ、デミアンそれぞれの新たな物語をはじめ、海を舞台にした依頼や、かつてのボスたちとの連戦に挑む「試練の庭園」などを追加する『紅の砂漠』初の大型DLCだ。",
+        "description": "There are many different kinds of smarts, and the kind of smarts I am are absolutely zero help when it comes to games like Astario, a spaceship and space station building factory sim reminiscent of",
         "price": "",
         "originalPrice": "",
         "discount": "",
         "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
-        "date": "2026-11-23",
-        "is_translated": false
-      },
-      {
-        "title": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "A second wind for old-school MMOs that has me hooked.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
-        "date": "2026-11-23",
+        "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
+        "date": "2026-11-24",
         "is_translated": true
       },
       {
@@ -441,5 +429,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-24T21:44:37.239286"
+  "last_updated": "2026-11-25T07:39:40.900760"
 }

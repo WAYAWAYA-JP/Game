@@ -28,6 +28,18 @@
     ],
     "bundle": [
       {
+        "title": "Builders Blueprint Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでBuilders Blueprint Bundleが登場！複数のゲームがセットになった特別価格。期間限定のお得なバンドルです。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-25"
+      },
+      {
         "title": "Covert Operations: Stealth Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -151,6 +163,58 @@
         "is_translated": false
       },
       {
+        "title": "Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "After waiting three years for Relic to expand Company of Heroes 3's singleplayer, watching DLC after DLC focused on expanding the roster of units available in multiplayer matches, Operation Torch lo",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review",
+        "date": "2026-11-25",
+        "is_translated": true
+      },
+      {
+        "title": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Hello and welcome to an unusually not-Supporter exclusive ed letter, its paywall laying unbuilt so we can exchange some Real Talk with as many RPS readers as possible. Read more",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
+        "date": "2026-11-25",
+        "is_translated": true
+      },
+      {
+        "title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "I’ve been playing GTA 6 on PS5. To be fair, I’ve made no secret of my plans to do just that if you’ve read any of our recent roundups of what everyone’s playing over the weeke",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole",
+        "date": "2026-11-25",
+        "is_translated": true
+      },
+      {
+        "title": "Delivering \"a more modern Garry's Mod\" is the goal of spiritual successor S&box's revamped sandbox mode, as classic GMod's workshop addon system returns",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Facepunch Studios continue to work on S&box, the mix of open source game development platform and Garry's Mod spiritual successor they released to mixed reviews earlier this year. That rough star",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
+        "date": "2026-11-25",
+        "is_translated": true
+      },
+      {
         "title": "魔女っ子パリィローグライク『Witch the Showdown』さっそく「非常に好評」で人気白熱。パリィしないと攻撃できない、高速見切り魔法バトル",
         "platform": "AUTOMATON",
         "type": "review",
@@ -200,19 +264,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
         "date": "2026-11-24",
-        "is_translated": true
-      },
-      {
-        "title": "What are we all playing this weekend?",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Terrible news, readers. Not only have several members of the Treehouse abandoned us, citing flimsy excuses like \"James, you remember I've got that holiday booked, right?,\" many that remain have forsa",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
-        "date": "2026-11-21",
         "is_translated": true
       }
     ],
@@ -429,5 +480,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-25T07:39:40.900760"
+  "last_updated": "2026-11-25T20:52:46.046767"
 }

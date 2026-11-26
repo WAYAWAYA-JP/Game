@@ -2,12 +2,24 @@
   "pc": {
     "free": [
       {
-        "title": "Mark of the Deep - Epic Games 無料配布中",
+        "title": "ファイアストン - 放置クリッカーオンラインRPG - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
-        "description": "『Mark of the Deep』は、緻密なストーリー展開と、高く評価されているメトロイドヴァニアやソウルライクゲームの要素を組み合わせた壮大な海賊アドベンチャーです。プレイヤーは海賊ルーキーとして、呪われた島の謎を解き明かし、行方不明の仲間たちを探し出す旅に出ることになります！",
+        "description": "『Firestone: Online Idle RPG』は放置系RPGのマルチプレイファンタジーゲーム。ヒーロー🧙‍♂️を集め、装備やスキルを強化し、放置バトルに送り出すか、連続クリッカーで強いボスを倒しましょう！ギルドフレンドとチャットしたり、PvP対戦⚔️もできます。遊び方はあなた次第！",
         "price": "無料",
-        "originalPrice": "¥2,300",
+        "originalPrice": "¥0",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bread and Fred - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+        "price": "無料",
+        "originalPrice": "¥1,460",
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
@@ -138,6 +150,19 @@
     ],
     "review": [
       {
+        "title": "かなり“わかってる”サイバーパンクゲーム『アセント』の電脳都市はもはやセクシー。絡み合うパイプとネオンをぼーっと眺める贅沢、Switch 2版でたっぷり堪能した",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch 2向け『The Ascent「アセント」 アルティメットエディション』の先行プレイレポートをお届けする。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/theascent-20261126-481099/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
         "title": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた",
         "platform": "AUTOMATON",
         "type": "review",
@@ -164,19 +189,6 @@
         "is_translated": true
       },
       {
-        "title": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "11月29日に配信予定の『シノビNEXUS –閃乱カグラ–』を先行プレイした。美麗な3Dモデルに着せ替え、ジオラマ、そしてサウナで汗をかく「シノビスパ」まで、シノビを愛でる要素が充実した仕上がりだった。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
-        "date": "2026-11-25",
-        "is_translated": false
-      },
-      {
         "title": "Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -193,7 +205,7 @@
         "title": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
         "platform": "Rock Paper Shotgun",
         "type": "review",
-        "description": "Hello and welcome to an unusually not-Supporter exclusive ed letter, its paywall laying unbuilt so we can exchange some Real Talk with as many RPS readers as possible. Read more",
+        "description": "Update, 26th Nov: Yesterday I posted a version of this article in which I, and other RPS staff, got a number of things badly, badly wrong. The purpose of this update is not to hide from the consequen",
         "price": "",
         "originalPrice": "",
         "discount": "",
@@ -455,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-26T07:29:33.109761"
+  "last_updated": "2026-11-26T20:44:26.252405"
 }

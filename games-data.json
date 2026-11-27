@@ -26,6 +26,30 @@
         "date": "2026-11-27"
       },
       {
+        "title": "Eternal Threads - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Eternal Threads』は、時間を操作し、選択することで、結末を変えていく、シングルプレイでストーリー主体のパズルゲームです。",
+        "price": "無料",
+        "originalPrice": "¥1,980",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "Luftrausers - Epic Games 無料配布中",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+        "price": "無料",
+        "originalPrice": "¥970",
+        "discount": "100% OFF",
+        "deadline": "期間限定",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-11-27"
+      },
+      {
         "title": "TerraScape - Epic Games 無料配布中",
         "platform": "Epic Games",
         "type": "free",
@@ -49,6 +73,18 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "Creator Day & Black Friday 2026",
+        "platform": "Itch.io",
+        "type": "bundle",
+        "description": "Itch.ioでCreator Day & Black Friday 2026が登場！インディーゲーム開発者を支援するバンドル。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://itch.io/bundles",
         "date": "2026-11-27"
       },
       {
@@ -150,6 +186,32 @@
     ],
     "review": [
       {
+        "title": "電動エルゴノミクスチェア「LiberNovo Omni Gen」は長時間ゲーマー/ライターを救うか、2ヶ月徹底使用レビュー [PR]",
+        "platform": "doope!",
+        "type": "review",
+        "description": "のっけから自分の話で恐縮ですが、日々の制作仕事やdoope!の記事作成、次々と押し寄せるプレイ必須の新作・大作、日課となっているゲームのタスク消化、趣味のウォーハンマー/プラモデル作り、読書にドラマ、映画まで、気分的には […]",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173235.html",
+        "date": "2026-11-27",
+        "is_translated": false
+      },
+      {
+        "title": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "'Yay, GTA 6 is out on consoles and lots of people are playing it' is a fairly harmless thing to say. Unless you're, I dunno, a development platform mentioning that in a post celebrating the recent su",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator",
+        "date": "2026-11-27",
+        "is_translated": true
+      },
+      {
         "title": "かなり“わかってる”サイバーパンクゲーム『アセント』の電脳都市はもはやセクシー。絡み合うパイプとネオンをぼーっと眺める贅沢、Switch 2版でたっぷり堪能した",
         "platform": "AUTOMATON",
         "type": "review",
@@ -159,19 +221,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/theascent-20261126-481099/",
-        "date": "2026-11-26",
-        "is_translated": false
-      },
-      {
-        "title": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "筆者は、そんなカーニバル 2026：大阪の1日目を現地で取材した。本記事では、当日のイベントの様子と現地の盛り上がりについてお伝えする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/monster-20261126-481016/",
         "date": "2026-11-26",
         "is_translated": false
       },
@@ -238,19 +287,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
         "date": "2026-11-25",
-        "is_translated": true
-      },
-      {
-        "title": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "There are many different kinds of smarts, and the kind of smarts I am are absolutely zero help when it comes to games like Astario, a spaceship and space station building factory sim reminiscent of",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
-        "date": "2026-11-24",
         "is_translated": true
       }
     ],
@@ -467,5 +503,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-27T07:27:11.200004"
+  "last_updated": "2026-11-27T20:30:33.663449"
 }

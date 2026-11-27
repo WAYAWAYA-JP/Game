@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "title": "Bread and Fred - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       }
     ],
     "bundle": [
@@ -49,7 +49,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "title": "Covert Operations: Stealth Bundle",
@@ -467,5 +467,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-26T20:44:26.252405"
+  "last_updated": "2026-11-27T07:27:11.200004"
 }

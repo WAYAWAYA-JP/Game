@@ -76,6 +76,18 @@
         "date": "2026-11-28"
       },
       {
+        "title": "Black Friday 2026",
+        "platform": "Itch.io",
+        "type": "bundle",
+        "description": "Itch.ioでBlack Friday 2026が登場！インディーゲーム開発者を支援するバンドル。",
+        "price": "お得価格",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "期間限定",
+        "url": "https://itch.io/bundles",
+        "date": "2026-11-28"
+      },
+      {
         "title": "Creator Day & Black Friday 2026",
         "platform": "Itch.io",
         "type": "bundle",
@@ -199,6 +211,32 @@
         "is_translated": false
       },
       {
+        "title": "Queen's Domain review: The finest metroidvania ever made",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "50 hours, four endings, and 52 achievements of pure videogames.",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/queens-domain-review/",
+        "date": "2026-11-28",
+        "is_translated": true
+      },
+      {
+        "title": "What are we all playing this weekend?",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "RPS' regular ritual of sharing the games we’re playing this weekend has taken a slightly unsettling turn, now that this year’s Advent Calendar Guessing Game is up and running and victory-",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-410",
+        "date": "2026-11-28",
+        "is_translated": true
+      },
+      {
         "title": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -247,19 +285,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole",
-        "date": "2026-11-25",
-        "is_translated": true
-      },
-      {
-        "title": "Delivering \"a more modern Garry's Mod\" is the goal of spiritual successor S&box's revamped sandbox mode, as classic GMod's workshop addon system returns",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Facepunch Studios continue to work on S&box, the mix of open source game development platform and Garry's Mod spiritual successor they released to mixed reviews earlier this year. That rough star",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
         "date": "2026-11-25",
         "is_translated": true
       }
@@ -477,5 +502,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-28T06:57:33.020364"
+  "last_updated": "2026-11-28T19:21:07.940797"
 }

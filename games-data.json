@@ -11,7 +11,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "Bread and Fred - Epic Games 無料配布中",
@@ -23,7 +23,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "Eternal Threads - Epic Games 無料配布中",
@@ -35,7 +35,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "Luftrausers - Epic Games 無料配布中",
@@ -47,7 +47,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "TerraScape - Epic Games 無料配布中",
@@ -59,7 +59,7 @@
         "discount": "100% OFF",
         "deadline": "期間限定",
         "url": "https://store.epicgames.com/ja/free-games",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       }
     ],
     "bundle": [
@@ -73,7 +73,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://www.humblebundle.com/bundles",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "Creator Day & Black Friday 2026",
@@ -85,7 +85,7 @@
         "discount": "",
         "deadline": "期間限定",
         "url": "https://itch.io/bundles",
-        "date": "2026-11-27"
+        "date": "2026-11-28"
       },
       {
         "title": "Covert Operations: Stealth Bundle",
@@ -195,7 +195,7 @@
         "discount": "",
         "deadline": "",
         "url": "https://doope.jp/2026/11173235.html",
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "is_translated": false
       },
       {
@@ -209,32 +209,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator",
         "date": "2026-11-27",
-        "is_translated": true
-      },
-      {
-        "title": "かなり“わかってる”サイバーパンクゲーム『アセント』の電脳都市はもはやセクシー。絡み合うパイプとネオンをぼーっと眺める贅沢、Switch 2版でたっぷり堪能した",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch 2向け『The Ascent「アセント」 アルティメットエディション』の先行プレイレポートをお届けする。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/theascent-20261126-481099/",
-        "date": "2026-11-26",
-        "is_translated": false
-      },
-      {
-        "title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "The store page boasts \"over 800,000 copies sold worldwide\" but user reviews have sunk to Mostly Negative.",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
-        "date": "2026-11-26",
         "is_translated": true
       },
       {
@@ -503,5 +477,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-27T20:30:33.663449"
+  "last_updated": "2026-11-28T06:57:33.020364"
 }
